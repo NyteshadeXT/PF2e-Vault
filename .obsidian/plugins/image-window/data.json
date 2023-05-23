@@ -1,0 +1,17 @@
+{
+  "saveWindowLocations": true,
+  "windows": {
+    "DEFAULT": {
+      "hosts": {
+        "Kyle_Laptop": {
+          "x": 1530,
+          "y": -6,
+          "width": 1292,
+          "height": 684,
+          "fullscreen": false,
+          "maximized": true
+        }
+      }
+    }
+  }
+}

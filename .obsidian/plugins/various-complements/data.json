@@ -1,0 +1,224 @@
+{
+  "strategy": "default",
+  "cedictPath": "./cedict_ts.u8",
+  "matchStrategy": "partial",
+  "fuzzyMatch": true,
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "useCommonPrefixCompletionOfSuggestion": false,
+  "patternsToSuppressTrigger": [
+    "^~~~.*",
+    "^```.*"
+  ],
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "updateInternalLinksOnSave": true,
+  "insertAliasTransformedFromDisplayedInternalLink": {
+    "enabled": false,
+    "beforeRegExp": "",
+    "after": ""
+  },
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "Athletics": {
+      "Athletics": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680919462908
+        }
+      }
+    },
+    "Climb": {
+      "Climb": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680919882777
+        }
+      }
+    },
+    "TTRPGShare-Pathfinder-2E-Vault/rules/core-rulebook/chapter-9-playing-the-game.md#Perception": {
+      "TTRPGShare-Pathfinder-2E-Vault/rules/core-rulebook/chapter-9-playing-the-game.md#Perception": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1682268554624
+        }
+      }
+    },
+    "Thievery": {
+      "Thievery": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680922707126
+        }
+      }
+    },
+    "Treasure": {
+      "Treasure": {
+        "currentFile": {
+          "count": 7,
+          "lastUpdated": 1682188553892
+        }
+      }
+    },
+    "Waukeen": {
+      "Waukeen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680979583921
+        }
+      }
+    },
+    "turn-away-misfortune-da": {
+      "turn-away-misfortune-da": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680979594309
+        }
+      }
+    },
+    "Cavern-Troll": {
+      "Cavern-Troll": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1680979718391
+        }
+      }
+    },
+    "Hooks": {
+      "Hooks": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681954274183
+        }
+      }
+    },
+    "TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Prone": {
+      "TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Prone": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1682179374272
+        }
+      }
+    },
+    "Zombie-Shambler": {
+      "Zombie-Shambler": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682187918943
+        }
+      }
+    },
+    "Special": {
+      "Special": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1682195457949
+        }
+      }
+    },
+    "grab": {
+      "grab": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1682197242253
+        }
+      }
+    },
+    "restrained": {
+      "restrained": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682197307969
+        }
+      }
+    },
+    "stunned": {
+      "stunned": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682197398653
+        }
+      }
+    },
+    "orb-shard-aoa6": {
+      "orb-shard-aoa6": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682992561020
+        }
+      }
+    },
+    "Familiar (Magus)": {
+      "familiar-magus-som": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1683324900172
+        }
+      }
+    },
+    "pf2e/creature/type/aberration": {
+      "pf2e/creature/type/aberration": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1683398103938
+        }
+      }
+    },
+    "pf2e/creature/type/undead": {
+      "pf2e/creature/type/undead": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1683398116479
+        }
+      }
+    },
+    "freed-slave-of-absalom-lowg": {
+      "freed-slave-of-absalom-lowg": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683398212630
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,4 @@
+[[Elessan.png|Show Players]]
+![[Elessan.png]]
+
+Elessan, an elven cleric of Waukeen, is a kind and just man.  He provides a useful foil to Drysdale's militaristic nature.  He understands the concerns of the folk of the outer bailey, and eh sometimes moves among them in disguised as a mercenary warrior. He distrusts the priest Benwick, but does not yet have any solid evidence of his intentions.  He is deeply troubled by the growing rift between the residents of the inner and outer bailey, but has yet to convince Lord Drysdale of the threat it poses.  He worries that Drysdale will act too late to address the problem.  He sometimes contacts adventurers via messenger to arrange a meeting with them.  He would love to set someone to spy on Benwick, but is worried any open move against the priest would only further the tensions within the keep.
