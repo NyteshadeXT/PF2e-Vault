@@ -8,61 +8,56 @@ statblock: inline
 name: "Magma Hurler"
 level: 2
 ---
+![[Magma Hurler.png|center|300]]
 
 ```statblock
-columns: 2
+columns: 1
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: "B2"
-name: "Magma Scorpion"
-level: "Creature 8"
+name: "Magma Hurler"
+level: "Creature 2"
 alignment: "N"
-size: "Large"
+size: "Medium"
 trait_03: "Elemental"
 trait_04: "Fire"
-modifier: 18
+modifier: 8
 perception:
   - name: "Perception"
-    desc: "Perception +18; __darkvision__, __smoke vision__;"
+    desc: "Perception +8; __darkvision__, __smoke vision__;"
 skills:
   - name: "Skills"
-    desc: "__Athletics__: +18 (1d20+18); "
-abilityMods: [6, 3, 5, -4, 4, 0]
+    desc: "__Athletics__: +7 (1d20+7); "
+abilityMods: [1, 4, 2, -4, 4, 0]
 
 abilities_top:
   - name: "Smoke Vision"
-    desc: "  The magma scorpion ignores the [[concealed|concealed]] condition from smoke."
+    desc: "  The magma hurler ignores the [[../../rules/conditions.md#Concealed|concealed]] condition from smoke."
 abilities_bot:
-  - name: "Magma Scorpion Venom"
-    desc: " ([[fire]], [[injury]], [[poison]]);  __Saving Throw__ DC 26 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) fire damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 3d6 (3d6) fire damage and [[enfeebled|enfeebled 2]] (1 round)"
-  - name: "Elemental, Mephit"
-    desc: "  Mephits are small, weak creatures that serve at the whims of other elemental entities. The mephits presented here are less common than air mephits, earth mephits, and the like, as they are a blend of two different elements rather than focusing on one alone."
 
-speed: 40 feet, climb 30 feet
+speed: 20 feet
 
-ac: 28
+ac: 17
 armorclass:
   - name: AC
-    desc: "28; __Fort__: +19 (1d20+19); __Ref__: +14 (1d20+14); __Will__: +16 (1d20+16);"
+    desc: "17; __Fort__: +8 (1d20+8); __Ref__: +8 (1d20+8); __Will__: +5 (1d20+5);"
 hp: 155
 health:
   - name: HP
-    desc: "155;  __Immunities__ bleed, fire, poison, paralyzed, sleep;"
+    desc: "32;  __Immunities__ bleed, fire, poison, paralyzed, sleep;"
 
 
 attacks:
   - name: Melee
-    desc: "⬻ pincer +20 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 2d6+9 (2d6+9) bludgeoning plus 1d6 (1d6) [[persistent damage|persistent fire]] and Grab"
-  - name: Melee
-    desc: "⬻ tail sting +20 ([[reach|reach 10 feet]]); __Damage__ 1d10+9 (1d10+9) piercing plus 1d6 (1d6) [[persistent damage|persistent fire]] and magma scorpion venom"
+    desc: "⬻ slam +7 __Damage__ 1d6+3 (1d6+3) bludgeoning plus 1d4 (1d4) [[persistent damage|persistent fire]]" 
   - name: Ranged
-    desc: "⬻ magma spit +17 ([[fire]], [[range increment|range increment 40 feet]]); __Damage__ 1d6+9 (1d6+9) fire plus 1d6 (1d6) [[persistent damage|persistent fire]]"
+    desc: "⬻ magma ball +11 ([[fire]], [[range increment|range increment 40 feet]]); __Damage__ 1d8+4 (1d8+4) fire plus 1d4 (1d4) [[persistent damage|persistent fire]]"
 
-sourcebook: "_Bestiary 2_, page 111."
+sourcebook: "Homebrew"
 ```
 
 ```encounter-table
-name: Magma Scorpion
+name: Magma Hurler
 creatures:
-  - 1: Magma Scorpion
+  - 1: Magma Hurler
 ```

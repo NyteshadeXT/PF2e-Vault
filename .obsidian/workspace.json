@@ -4,36 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "5e8a7dff4b8fa41d",
+        "id": "4cde2c232b274bd7",
         "type": "tabs",
         "children": [
           {
-            "id": "50239d08d2ea6670",
+            "id": "0b2de3098a2fbd8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "8) Adventures/1J - The Kobold Hall (DMG)/06) The True Threat.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           },
           {
-            "id": "1ab59b347215bf0d",
+            "id": "6358126fb4501916",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4) Bestiary/bestiary-1/young-white-dragon.md",
-                "mode": "preview",
+                "file": "8) Adventures/2d - The Hammer Falls (D179)/04) Sleed’s Sanctum.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8) Adventures/1J - The Kobold Hall (DMG)/06) The True Threat.md",
+                "file": "8) Adventures/2d - The Hammer Falls (D179)/04) Sleed’s Sanctum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,16 +123,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8) Adventures/1J - The Kobold Hall (DMG)/06) The True Threat.md"
+                "file": "8) Adventures/2d - The Hammer Falls (D179)/04) Sleed’s Sanctum.md"
               }
-            }
-          },
-          {
-            "id": "9493361dd038d614",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
             }
           },
           {
@@ -149,16 +142,24 @@
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
+          },
+          {
+            "id": "294b8eaeb769ded1",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
-        "id": "c4b126d78760e12a",
+        "id": "1af6e5ffce030a47",
         "type": "tabs",
         "children": [
           {
-            "id": "21ec09e2512da82e",
+            "id": "9960c684d23c8773",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-creature-view",
@@ -180,85 +181,54 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "initiative-tracker:Intiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "initiative-tracker:Intiative Tracker Encounter Builder": false
     }
   },
-  "floating": {
-    "id": "539d80126781305c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "eaf50a861da649be",
-        "type": "window",
-        "children": [
-          {
-            "id": "028fb7ed71582cc2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c672acc48f14049a",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-player-view",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1536,
-        "y": 0,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "50239d08d2ea6670",
+  "active": "6358126fb4501916",
   "lastOpenFiles": [
-    "Pathfinder2e_Campaign/README.md",
-    "Pathfinder2e_Campaign",
-    "8) Adventures/1J - The Kobold Hall (DMG)/06) The True Threat.md",
-    "8) Adventures/1J - The Kobold Hall (DMG)/05) Chieftain's Chamber.md",
-    "4) Bestiary/bestiary-1/young-white-dragon.md",
-    "8) Adventures/1J - The Kobold Hall (DMG)/04) Skull-Skull.md",
-    "8) Adventures/1J - The Kobold Hall (DMG)/03) The Tomb.md",
-    "8) Adventures/1J - The Kobold Hall (DMG)/02) Guard Room.md",
-    "4) Bestiary/bestiary-1/kobold-scout.md",
-    "8) Adventures/1J - The Kobold Hall (DMG)/01) Running the Adventure.md",
-    "8) Adventures/1J - The Kobold Hall (DMG)/1J - The Kobold Hall (DMG).md",
-    "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/2B - The Shrine of Glass-Spire Forest (D175).md",
-    "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/01) Running the Adventure.md",
-    "4) Bestiary/homebrew/magma-hurler.md",
-    "4) Bestiary/bestiary-2/magma-scorpion.md",
-    "4) Bestiary/homebrew/Shard-Slave.md",
-    "8) Adventures/2d - The Hammer Falls (D179)/03) The Metalworks.md",
-    "4) Bestiary/homebrew/duergar-guard.md",
-    "8) Adventures/2d - The Hammer Falls (D179)/2d - The Hammer Falls (D179).md",
     "8) Adventures/2C - Dead by Dawn (D176)/2C - Dead by Dawn (D176).md",
+    "8) Adventures/2d - The Hammer Falls (D179)/04) Sleed’s Sanctum.md",
     "8) Adventures/2C - Dead by Dawn (D176)/07) What to do with the Necroshard.md",
     "8) Adventures/2C - Dead by Dawn (D176)/06) Zombie Siege - Second Wave.md",
-    "8) Adventures/2C - Dead by Dawn (D176)/04) Zombie Siege.md",
-    "8) Adventures/2C - Dead by Dawn (D176)/03) The Rectory.md",
-    "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/02) Glass Guardian Attack.md",
+    "8) Adventures/2d - The Hammer Falls (D179)/01) Running the Adventure.md",
+    "8) Adventures/2d - The Hammer Falls (D179)/2d - The Hammer Falls (D179).md",
+    "8) Adventures/2d - The Hammer Falls (D179)/03) The Metalworks.md",
+    "8) Adventures/2d - The Hammer Falls (D179)/02) The Entrance.md",
+    "HexMapper Template.md",
+    "8) Adventures/1J - The Kobold Hall (DMG)/06) The True Threat.md",
+    "4) Bestiary/homebrew/magma-hurler.md",
+    "4) Bestiary/homebrew/glass-guardian-nestling.md",
+    "zz-Attachments/Magma Hurler.png",
+    "4) Bestiary/homebrew/duergar-guard.md",
+    "4) Bestiary/homebrew/duergar-miner.md",
+    "4) Bestiary/homebrew/glass-guardian.md",
+    "4) Bestiary/homebrew/shard-slave.md",
+    "6) NPCs/Restwell Keep/Lenlevel and Wara.md",
+    "6) NPCs/Restwell Keep/Benwick - Traveling Priest.md",
+    "6) NPCs/Restwell Keep/Ardia Ironleaf - Ironleaf Trading Co..md",
+    "Untitled",
+    "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/2B - The Shrine of Glass-Spire Forest (D175).md",
     "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/03) Shard Slave of the Glass Spire Shrine.md",
-    "5) World/Chaos Scar - GM View.md",
+    "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/01) Running the Adventure.md",
+    "8) Adventures/1J - The Kobold Hall (DMG)/01) Running the Adventure.md",
+    "zz-Attachments/Pasted image 20230525162022.png",
+    "zz-Attachments/Pasted image 20230525162016.png",
+    "8) Adventures/1J - The Kobold Hall (DMG)/1J - The Kobold Hall (DMG).md",
+    "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/02) Glass Guardian Attack.md",
+    "8) Adventures/2C - Dead by Dawn (D176)/01) Running the Adventure.md",
     "zz-Attachments/Pasted image 20230507172216.png",
     "zz-Attachments/Pasted image 20230507172207.png",
-    "zz-Attachments/Pasted image 20230307211113.png",
     "zz-Attachments/Pasted image 20230507150609.png",
-    "zz-Attachments/Pasted image 20230507150521.png",
-    "zz-Attachments/Veras.webp",
+    "zz-Attachments/Pasted image 20230505175555.png",
+    "zz-Attachments/Pasted image 20230426214747.png",
+    "zz-Attachments/Pasted image 20230422110913.png",
+    "zz-Attachments/Pasted image 20230408123909.png",
+    "Pathfinder2e_Campaign",
     "7) Players",
     "canvas-gm-tables/Game Master Tables.canvas",
     "canvas-gm-tables/game-master-tables.canvas",
-    "2) Various System Setup/Default_Layouts/_attachments/PF2E-1.3-StyleSettings.gif",
-    "2) Various System Setup/Default_Layouts/_attachments/Obsidian-Installer-Screenshot.png",
-    "zz-Attachments/Shard Slave.jpg",
     "conditions",
     "spells-dataview-backup/focus-spells/level-7",
     "spells-dataview-backup/spells/level-9",
@@ -266,8 +236,6 @@
     "spells-dataview-backup/spells/level-5",
     "spells-dataview-backup/spells/level-4",
     "spells-dataview-backup/spells/level-3",
-    "spells-dataview-backup/spells/level-2",
-    "canvas-gm-tables/canvas-gm-tables/_attachments/img-weapons-armor-shields.png",
     "canvas-gm-tables/canvas-gm-tables/game-master-tables.canvas"
   ]
 }

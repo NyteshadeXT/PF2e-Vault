@@ -1,6 +1,6 @@
 **[Blinded](../rules/conditions.md#Blinded):** All terrain is difficult. Critically fail vision-based [Perception](../compendium/skills.md#Perception) checks and -4 status penalty to other [Perception](../compendium/skills.md#Perception) Checks.
 
-**[[Clumsy]]:** Your movements become clumsy. Clumsy always includes a value. You take a status penalty equal to the condition value to Dexterity-based checks and DCs, including AC, Reflex saves, ranged attack rolls, and Acrobatics, Stealth, and Thievery.
+**[Clumsy](../rules/conditions.md#Clumsy):** Your movements become clumsy. Clumsy always includes a value. You take a status penalty equal to the condition value to Dexterity-based checks and DCs, including AC, Reflex saves, ranged attack rolls, and Acrobatics, Stealth, and Thievery.
 
 **[Concealed](../rules/conditions.md#Concealed):** While you are [Concealed](../rules/conditions.md#Concealed) from a creature, you are difficult for that creature to see. A creature you are [Concealed](../rules/conditions.md#Concealed) from must succeed at a DC 5 flat check when making an attack or targeting you with a spell or effect.
 

@@ -7,12 +7,13 @@
   "markdown-attributes",
   "dataview",
   "obsidian-kanban",
-  "obsidian-style-settings",
   "obsidian-admonition",
   "obsidian-leaflet-plugin",
   "initiative-tracker",
   "image-window",
   "consistent-attachments-and-links",
   "obsidian-text-format",
-  "folder-note-plugin"
+  "folder-note-plugin",
+  "obsidian-style-settings",
+  "text-mapper"
 ]

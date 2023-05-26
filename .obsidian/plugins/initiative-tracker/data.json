@@ -53,7 +53,6 @@
     }
   ],
   "defaultParty": null,
-  "homebrew": [],
   "statuses": [
     {
       "name": "PF-Blinded",
@@ -267,7 +266,11 @@
     }
   ],
   "unconsciousId": "Unconscious",
-  "version": null,
+  "version": [
+    11,
+    1,
+    7
+  ],
   "canUseDiceRoll": false,
   "preferStatblockLink": true,
   "initiative": "1d20 + %mod%",
@@ -279,15 +282,39 @@
   "state": {
     "creatures": [
       {
+        "name": "Winter",
+        "initiative": 31,
+        "static": false,
+        "modifier": 11,
+        "hp": 40,
+        "currentMaxHP": 40,
+        "ac": "21",
+        "currentAC": "21",
+        "note": "Winter",
+        "path": "7) Players/Winter.md",
+        "id": "ID_ea1ba879c8eb",
+        "currentHP": 25,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 4,
+        "player": true,
+        "active": true,
+        "hidden": false,
+        "friendly": false
+      },
+      {
         "name": "Mordak",
         "initiative": 27,
+        "static": false,
         "modifier": 10,
         "hp": 58,
         "currentMaxHP": 58,
         "ac": "22",
         "currentAC": "22",
         "note": "Mordak",
-        "id": "ID_29bbabda38ca",
+        "path": "7) Players/Mordak.md",
+        "id": "ID_e9eaeaea190a",
         "currentHP": 38,
         "tempHP": 0,
         "status": [],
@@ -301,34 +328,16 @@
       {
         "name": "Cassandra",
         "initiative": 27,
+        "static": false,
         "modifier": 10,
         "hp": 38,
         "currentMaxHP": 38,
         "ac": "19",
         "currentAC": "19",
         "note": "Cassandra",
-        "id": "ID_09cb5abbba3a",
+        "path": "7) Players/Cassandra.md",
+        "id": "ID_181aab5a790a",
         "currentHP": 34,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "level": 4,
-        "player": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false
-      },
-      {
-        "name": "Winter",
-        "initiative": 31,
-        "modifier": 11,
-        "hp": 40,
-        "currentMaxHP": 40,
-        "ac": "21",
-        "currentAC": "21",
-        "note": "Winter",
-        "id": "ID_98b929192bba",
-        "currentHP": 25,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -341,26 +350,29 @@
       {
         "name": "Varas",
         "initiative": 19,
+        "static": false,
         "modifier": 10,
         "hp": 50,
         "currentMaxHP": 50,
         "ac": "21",
         "currentAC": "21",
         "note": "Varas",
-        "id": "ID_2a9b6b59ba3b",
+        "path": "7) Players/Varas.md",
+        "id": "ID_ea187aeadadb",
         "currentHP": 36,
         "tempHP": 0,
         "status": [],
         "enabled": true,
         "level": 4,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
       {
         "name": "Young White Dragon",
         "initiative": 16,
+        "static": false,
         "modifier": 13,
         "hp": 115,
         "currentMaxHP": 115,
@@ -382,7 +394,7 @@
     ],
     "state": true,
     "name": null,
-    "round": 7,
+    "round": 8,
     "logFile": "",
     "rollHP": false
   },
@@ -405,11 +417,10 @@
   "logging": false,
   "logFolder": "/",
   "useLegacy": false,
-  "integrateSRD": false,
   "diplayPlayerHPValues": true,
   "rollHP": false,
   "builder": {
-    "showParty": true,
+    "showParty": false,
     "showXP": false,
     "sidebarIcon": true,
     "headers": [
@@ -433,6 +444,130 @@
         "field": "alignment",
         "type": 0
       }
-    ]
-  }
+    ],
+    "filters": {
+      "filters": [
+        {
+          "type": 0,
+          "text": "CR",
+          "fields": [
+            "cr"
+          ],
+          "options": [
+            0,
+            30
+          ],
+          "id": "ID_DEFAULT_CR_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Size",
+          "fields": [
+            "size"
+          ],
+          "options": [
+            "Large",
+            "Medium",
+            "Huge",
+            "Gargantuan",
+            "Small",
+            "Tiny"
+          ],
+          "id": "ID_DEFAULT_SIZE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Type",
+          "fields": [
+            "type"
+          ],
+          "options": [
+            "aberration",
+            "humanoid",
+            "undead",
+            "elemental",
+            "monstrosity",
+            "beast",
+            "plant",
+            "fiend",
+            "dragon",
+            "celestial",
+            "construct",
+            "giant",
+            "swarm of Tiny beasts"
+          ],
+          "id": "ID_DEFAULT_TYPE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Alignment",
+          "fields": [
+            "alignment"
+          ],
+          "options": [
+            "lawful evil",
+            "any alignment",
+            "CE",
+            "LE",
+            "CG",
+            "LG",
+            "neutral",
+            "lawful neutral",
+            "N",
+            "unaligned",
+            "NE",
+            "LN",
+            "any non-lawful alignment",
+            "any chaotic alignment",
+            "chaotic evil",
+            "chaotic good",
+            "lawful good",
+            "CN",
+            "any non-good alignment",
+            "neutral evil",
+            "neutral good",
+            "NG",
+            "chaotic neutral"
+          ],
+          "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+          "derive": true
+        }
+      ],
+      "layout": [
+        {
+          "nested": [
+            {
+              "id": "ID_DEFAULT_CR_FILTER",
+              "type": "filter"
+            }
+          ],
+          "id": "ID_DEFAULT_NESTED_CR",
+          "type": "nested"
+        },
+        {
+          "id": "ID_DEFAULT_NESTED_LAYOUT",
+          "type": "nested",
+          "nested": [
+            {
+              "id": "ID_DEFAULT_SIZE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_TYPE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+              "type": "filter"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "homebrew": [],
+  "integrateSRD": false
 }

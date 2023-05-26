@@ -31,7 +31,7 @@ If the characters decide to keep the necroshard, they can harness its power by p
 ![[Pasted image 20230426214805.png|center]]
 
 ```statblock
-columns: 2
+columns: 1
 forcecolumns: true
 layout: Path2eBlock
 statblock: true

@@ -8,5 +8,15 @@
   "ITS-AT@@notion": false,
   "ITS-AT@@mini": false,
   "ITS-AT@@its-d": false,
-  "ITS-AT@@paper": false
+  "ITS-AT@@paper": false,
+  "ITS@@select": "none",
+  "ITS@@slrvb-b": false,
+  "ITS@@slrvb-g": false,
+  "ITS@@s-d": true,
+  "ITS@@t-d": false,
+  "ITS@@drwn": false,
+  "ITS@@nord": false,
+  "ITS@@mini": false,
+  "ITS@@notion": false,
+  "ITS@@its-d": false
 }

@@ -1,5 +1,6 @@
 {
   "livePreview": false,
   "attachmentFolderPath": "zz-Attachments",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false
 }

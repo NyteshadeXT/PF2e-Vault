@@ -17,6 +17,8 @@ Ruana Lorewise, an eccentric elven wizard with an interest in geological phenome
 
 More fascinated than ever, Ruana hires the characters to bring back a sample of lava from within the refinery, convinced that potent magic can be found at the heart of the lava flow that runs below. She offers a reward of 10 gp for the sample, and provides a magical vial capable of holding the lava.
 
+![[Pasted image 20230525162022.png]]
+
 # Getting Started 
 Regardless of the hook used to get the characters into the Chaos Scar, read or paraphrase the following when they reach the metalworking refinery: 
 > [!note]+ Read Aloud

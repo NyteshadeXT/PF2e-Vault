@@ -1,11 +1,11 @@
 ---
 noteType: pf2eMonster
-aliases: "Duergar Guard"
+aliases: "Duergar Miner"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
 statblock: inline
-name: "Duergar Guard"
+name: "Duergar Miner"
 level: 1
 ---
 
@@ -14,7 +14,7 @@ columns: 1
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: "B1"
-name: "Duergar Guard"
+name: "Duergar Miner"
 level: "Creature 1"
 alignment: "LE"
 size: "Medium"
@@ -36,20 +36,17 @@ abilities_top:
 abilities_mid:
   - name: "Light Blindness"
     desc: " "
-abilities_bot:
-  - name: "Infernal Anger"
-    desc: "⬺ Until the start of the duergar guard's next turn, it deals an extra 4 fire damage when it's melee attacks hit, and if an adjacent enemy moves during this period the duergar guard may move 5 feet."
 
 speed: 20 feet
 
-ac: 18
+ac: 15
 armorclass:
   - name: AC
-    desc: "18; __Fort__: +7 (1d20+7); __Ref__: +8 (1d20+8); __Will__: +4 (1d20+4);"
-hp: 20
+    desc: "15; __Fort__: +10 (1d20+10); __Ref__: +7 (1d20+7); __Will__: +10 (1d20+10);"
+hp: 16
 health:
   - name: HP
-    desc: "20; "
+    desc: "16; "
 
 
 attacks:

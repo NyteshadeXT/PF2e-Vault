@@ -8,10 +8,10 @@ statblock: inline
 name: "Glass Guardian Nestling"
 level: 2
 ---
-![[Pasted image 20230409150547.png]]
+![[Glass Guarding Nestling.png|center|300]]
 
 ```statblock
-columns: 2
+columns: 1
 forcecolumns: true
 layout: Path2eBlock
 statblock: true

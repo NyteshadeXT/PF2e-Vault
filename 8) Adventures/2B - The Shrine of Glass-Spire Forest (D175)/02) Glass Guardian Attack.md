@@ -4,8 +4,8 @@ The glass guardians emerge from the spires and attack when the characters approa
 
 **Encounter Difficulty:** Moderate (70 xp)
 Creatures:
- - 1: [[Glass-Guardian|Glass Guardian]]
- - 2: [[Glass-Guardian-Nestling|Glass Guardian Nestling]]
+ - 1: [[glass-guardian|Glass Guardian]]
+ - 2: [[glass-guardian-nestling|Glass Guardian Nestling]]
 
 ```encounter
 name: test encounter 

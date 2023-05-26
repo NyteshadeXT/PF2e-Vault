@@ -7,7 +7,7 @@ kanban-plugin: basic
 ## Conditions
 
 - [ ] [Conditions](../rules/conditions.md)
-- [ ] [Blinded](../rules/conditions.md#Blinded)
+- [ ] [[Blinded]] ^2as5z9
 - [ ] [Broken](../rules/conditions.md#Broken)
 - [ ] [Concealed](../rules/conditions.md#Concealed)
 - [ ] [Clumsy](../rules/conditions.md#Clumsy)

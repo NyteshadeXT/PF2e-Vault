@@ -10,10 +10,10 @@ statblock: inline
 name: "Shard Slave"
 level: 4
 ---
-![[Shard Slave.jpg]]
+![[Shard Slave.jpg|center|300]]
 
 ```statblock
-columns: 2
+columns: 1
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: "HB"

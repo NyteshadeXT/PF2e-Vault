@@ -6,5 +6,6 @@
     "Pathfinder2E-TTRPG-Statblock-v1.4",
     "PF2e-Actions-Font"
   ],
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "theme": "obsidian"
 }

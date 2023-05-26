@@ -2,7 +2,7 @@
 
 **Encounter Difficulty:** Severe (90 xp)
 Creatures:
- - 1: [[Shard-Slave|Shard Slave]]
+ - 1: [[shard-slave|Shard Slave]]
 
 ```encounter
 name: Shard Slave

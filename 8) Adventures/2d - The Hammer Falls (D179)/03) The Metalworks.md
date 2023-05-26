@@ -2,10 +2,12 @@
 
 The corrupted lava flows into this room, where the weapons are created and the bulk of the experiments performed. Several duergar work the furnaces with one of Sleed’s imps, preparing another attempt at creating a lava-infused magical weapon. With the noise from hammers, steam, and the roaring furnaces, it’s difficult for them to hear anyone approaching. They expect the sentries to alert them to any potential problems. 
 
-**Encounter Difficulty:** Sample (value xp)
+**Encounter Difficulty:** Moderate (95 xp)
 Creatures:
  - 1: [[duergar-guard|Duergar Guard]] G
  - 1: [[imp|Imp]] I
+ - 3: [[duergar-miner|Duergar Miner]] M
+ - 1: [[magma-hurler|Magma Hurler]] H
 
 ```encounter
 name: The Metalworks
@@ -13,6 +15,8 @@ party: Chaos Scar
 creatures:
 - 1: [[Duergar Guard]] 
 - 1: [[Imp]]
+- 1: [[Magma Hurler]]
+- 3: [[Duergar Miner]]
 ```
 
 Setup 3 duergar miners (M) 1 imp (I) 1 magma hurler (H) 
@@ -58,7 +62,7 @@ The guard and miners try to corner the characters near the furnaces, hoping to i
 Appearing in the most advantageous part of the lava flow, the magma hurler enters combat when either the imp or duergar guard is bloodied or when all three duergar miners are killed, whichever comes first. The magma hurler can stay within the lava flow if within range of the characters but is likely to move out to use magma ball against any characters in a clump.
 
 # Development 
-After a quick search of the metalworks, the characters find many piles of warped and useless weapons—remnants of failed experiments—though they can also find the treasure noted below. A DC 12 Arcana check reveals that the bluish lava contains strong magical properties and almost appears to have a life of its own. If the characters are looking for a sample of lava for Ruana, they can obtain it here; Balidor’s brothers, however, are nowhere to be found. 
+After a quick search of the metalworks, the characters find many piles of warped and useless weapons—remnants of failed experiments—though they can also find the treasure noted below. A DC 12 Arcana check reveals that the bluish lava contains strong magical properties and almost appears to have a life of its own. If the characters are looking for a sample of lava for Ruana, they can obtain it here; Balidor’s brothers, however, are nowhere to be found. 
 
 Although the characters might think they have the element of surprise as they continue, a small fire elemental from the lava flow in the metalworks has already seen and reported the intruders to Sleed, who has started gathering his notes and summoning elemental servitors in preparation for a battle and possible escape. 
 
@@ -72,4 +76,4 @@ Although the characters might think they have the element of surprise as they co
 **Lava Flow:** The lava flow is a combination of rock, lava, and magma slowly flowing from the west through a slightly recessed stone channel 5 feet below the floor. A creature falling into the lava takes 1d6 fire damage upon falling in and 1d6 fire damage when starting its next turn in the lava. 
 
 # Treasure 
-Scattered among all the worthless items on the floor of the metalworks is one intact level 3 magic weapon.
+Scattered among all the worthless items on the floor of the metalworks is 14gp, 42sp and a *Sprite Apple (Pink)*.

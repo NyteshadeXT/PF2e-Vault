@@ -31,4 +31,4 @@ Szartharrax avoids heavily armored characters, preferring instead to pick off li
 **Pool:** The pool of water is 2 feet deep and frozen solid. The ice is difficult terrain, but the dragon ignores it if it walks through it (thanks to its ice walk ability).
 
 > [!tip]+ Treasure
-> If the PCs manage to slay the dragon, they find a small cave up ahead that has a locked treasure chest (DC 20 [[skills#Thievery|Thievery]] check to open). The chest contains the piece of dragon hide that Bergen wanted recovered, 24 gp in a small felt bag a Rime Crystal and a Sturdy Shield (Minor).
+> If the PCs manage to slay the dragon, they find a small cave up ahead that has a locked treasure chest (DC 20 [[skills#Thievery|Thievery]] check to open). The chest contains the piece of dragon hide that Bergen wanted recovered, 24 gp in a small felt bag, two potions of lesser healing, a Rime Crystal and a Sturdy Shield (Minor).
