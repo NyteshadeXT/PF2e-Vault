@@ -3,6 +3,7 @@
 0101 tree "tree"
 0102 trees "trees"
 0103 forest "forest"
+0104 empty pyramid "pyramid"
 0201 bush "bush"
 0202 bushes "bushes"
 0203 brushland "brushland"
