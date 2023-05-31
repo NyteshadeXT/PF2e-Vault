@@ -14,7 +14,7 @@ level: 2
 columns: 1
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
-source: "B2"
+source: "HB"
 name: "Magma Hurler"
 level: "Creature 2"
 alignment: "N"

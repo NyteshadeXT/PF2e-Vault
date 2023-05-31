@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/1J - The Kobold Hall (DMG)/06) The True Threat.md",
+                "file": "4) Bestiary/homebrew/otyugh-elite.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a00599c52e9cd089",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8) Adventures/6B - The Radiant Morn (D183)/05) The Lord of Flies.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8) Adventures/1J - The Kobold Hall (DMG)/06) The True Threat.md",
+                "file": "8) Adventures/6B - The Radiant Morn (D183)/05) The Lord of Flies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -109,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8) Adventures/1J - The Kobold Hall (DMG)/06) The True Threat.md"
+                "file": "8) Adventures/6B - The Radiant Morn (D183)/05) The Lord of Flies.md"
               }
             }
           },
@@ -167,50 +181,50 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "initiative-tracker:Intiative Tracker Encounter Builder": false
+      "initiative-tracker:Intiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "0b2de3098a2fbd8c",
+  "active": "a00599c52e9cd089",
   "lastOpenFiles": [
-    "HexMapper Template.md",
-    "Chaos Scar Map.md",
-    "8) Adventures/1J - The Kobold Hall (DMG)/06) The True Threat.md",
-    "8) Adventures/2d - The Hammer Falls (D179)/04) Sleed’s Sanctum.md",
-    "8) Adventures/2C - Dead by Dawn (D176)/2C - Dead by Dawn (D176).md",
-    "8) Adventures/2C - Dead by Dawn (D176)/07) What to do with the Necroshard.md",
-    "8) Adventures/2C - Dead by Dawn (D176)/06) Zombie Siege - Second Wave.md",
-    "8) Adventures/2d - The Hammer Falls (D179)/01) Running the Adventure.md",
-    "8) Adventures/2d - The Hammer Falls (D179)/2d - The Hammer Falls (D179).md",
-    "8) Adventures/2d - The Hammer Falls (D179)/03) The Metalworks.md",
-    "8) Adventures/2d - The Hammer Falls (D179)/02) The Entrance.md",
+    "8) Adventures/6B - The Radiant Morn (D183)/01) Running the Adventure.md",
+    "8) Adventures/6B - The Radiant Morn (D183)/05) The Lord of Flies.md",
+    "8) Adventures/6B - The Radiant Morn (D183)/02) A Warm Reception.md",
+    "8) Adventures/6B - The Radiant Morn (D183)/03) Fleecing the Flock.md",
+    "8) Adventures/6B - The Radiant Morn (D183)/04) The Living Filth.md",
+    "4) Bestiary/homebrew/acolyte-of-the-radiant-morn.md",
+    "4) Bestiary/homebrew/otyugh-elite.md",
+    "zz-Attachments/Pasted image 20230530155114.png",
+    "zz-Attachments/Pasted image 20230530135959.png",
+    "4) Bestiary/homebrew/duergar-guard.md",
+    "4) Bestiary/gm-guide/prophet.md",
+    "4) Bestiary/gm-guide/adept.md",
+    "4) Bestiary/homebrew/orc-shaman.md",
+    "4) Bestiary/homebrew/shard-slave.md",
     "4) Bestiary/homebrew/magma-hurler.md",
     "4) Bestiary/homebrew/glass-guardian-nestling.md",
-    "zz-Attachments/Magma Hurler.png",
-    "4) Bestiary/homebrew/duergar-guard.md",
     "4) Bestiary/homebrew/duergar-miner.md",
     "4) Bestiary/homebrew/glass-guardian.md",
-    "4) Bestiary/homebrew/shard-slave.md",
-    "6) NPCs/Restwell Keep/Lenlevel and Wara.md",
-    "6) NPCs/Restwell Keep/Benwick - Traveling Priest.md",
-    "6) NPCs/Restwell Keep/Ardia Ironleaf - Ironleaf Trading Co..md",
-    "Untitled",
+    "zz-Attachments/Pasted image 20230530103908.png",
+    "8) Adventures/2d - The Hammer Falls (D179)/02) The Entrance.md",
+    "zz-Attachments/Pasted image 20230530103159.png",
+    "1) GM Screen/Skill-Actions-Cheat-Sheet.md",
+    "1) GM Screen/weapon-traits-p.282-283.md",
+    "8) Adventures/2d - The Hammer Falls (D179)/01) Running the Adventure.md",
+    "8) Adventures/6B - The Radiant Morn (D183)/6B - The Radiant Morn (D183).md",
+    "8) Adventures/2C - Dead by Dawn (D176)/2C - Dead by Dawn (D176).md",
     "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/2B - The Shrine of Glass-Spire Forest (D175).md",
-    "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/03) Shard Slave of the Glass Spire Shrine.md",
     "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/01) Running the Adventure.md",
+    "8) Adventures/1J - The Kobold Hall (DMG)/1J - The Kobold Hall (DMG).md",
     "8) Adventures/1J - The Kobold Hall (DMG)/01) Running the Adventure.md",
+    "zz-Attachments/Magma Hurler.png",
+    "Untitled",
     "zz-Attachments/Pasted image 20230525162022.png",
     "zz-Attachments/Pasted image 20230525162016.png",
-    "8) Adventures/1J - The Kobold Hall (DMG)/1J - The Kobold Hall (DMG).md",
-    "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/02) Glass Guardian Attack.md",
     "zz-Attachments/Pasted image 20230507172216.png",
     "zz-Attachments/Pasted image 20230507172207.png",
     "zz-Attachments/Pasted image 20230507150609.png",
-    "zz-Attachments/Pasted image 20230505175555.png",
-    "zz-Attachments/Pasted image 20230426214747.png",
-    "zz-Attachments/Pasted image 20230422110913.png",
-    "zz-Attachments/Pasted image 20230408123909.png",
     "Pathfinder2e_Campaign",
     "7) Players",
     "canvas-gm-tables/Game Master Tables.canvas",

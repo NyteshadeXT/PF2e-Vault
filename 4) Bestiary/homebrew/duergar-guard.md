@@ -13,7 +13,7 @@ level: 1
 columns: 1
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
-source: "B1"
+source: "HB"
 name: "Duergar Guard"
 level: "Creature 1"
 alignment: "LE"
