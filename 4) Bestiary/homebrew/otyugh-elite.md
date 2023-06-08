@@ -13,9 +13,9 @@ level: 5
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
-source: "B1"
-name: "Otyugh"
-level: "Creature 4"
+source: "HB"
+name: "Otyugh Elite"
+level: "Creature 5"
 alignment: "N"
 size: "Large"
 trait_03: "Aberration"
@@ -62,7 +62,7 @@ sourcebook: "_Bestiary_, page 258."
 ```
 
 ```encounter-table
-name: Otyugh
+name: Otyugh Elite
 creatures:
-  - 1: Otyugh
+  - 1: Otyugh Elite
 ```

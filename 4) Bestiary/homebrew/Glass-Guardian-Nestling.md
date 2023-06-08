@@ -8,16 +8,18 @@ statblock: inline
 name: "Glass Guardian Nestling"
 level: 2
 ---
-![[Glass Guarding Nestling.png|center|300]]
 
 ```statblock
+
 columns: 1
 forcecolumns: true
-layout: Path2eBlock
+layout: Basic Pathfinder 2e Layout
 statblock: true
 source: "HB"
+
 name: "Glass Guardian Nestling"
 level: "Creature 2"
+image: ![[Glass Guardian Nestling.png]]
 alignment: "N"
 size: "Small"
 trait_03: "Aberration"

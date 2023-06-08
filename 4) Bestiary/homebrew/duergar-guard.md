@@ -56,6 +56,7 @@ attacks:
   - name: Melee
     desc: "⬻ warhammer +4 ([[shove]]); __Damage__ 1d8+1 (1d8+1) bludgeoning"
 
+sourcebook: "Homebrew"
 ```
 
 ```encounter-table

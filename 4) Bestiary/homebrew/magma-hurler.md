@@ -8,7 +8,6 @@ statblock: inline
 name: "Magma Hurler"
 level: 2
 ---
-![[Magma Hurler.png|center|300]]
 
 ```statblock
 columns: 1
@@ -17,6 +16,7 @@ layout: Basic Pathfinder 2e Layout
 source: "HB"
 name: "Magma Hurler"
 level: "Creature 2"
+image: ![[Magma Hurler.png]]
 alignment: "N"
 size: "Medium"
 trait_03: "Elemental"

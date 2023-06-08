@@ -4,37 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "4cde2c232b274bd7",
+        "id": "2d0669892633671f",
         "type": "tabs",
         "children": [
           {
-            "id": "0b2de3098a2fbd8c",
+            "id": "ec51261376113c09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4) Bestiary/homebrew/otyugh-elite.md",
-                "mode": "preview",
+                "file": "8) Adventures/2g - The Crossroads (D176)/02) Hobgoblin Hangman.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           },
           {
-            "id": "a00599c52e9cd089",
+            "id": "af53e4ac286d00b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/6B - The Radiant Morn (D183)/05) The Lord of Flies.md",
-                "mode": "source",
+                "file": "3) Rules/compendium/skills.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8) Adventures/6B - The Radiant Morn (D183)/05) The Lord of Flies.md",
+                "file": "8) Adventures/2g - The Crossroads (D176)/02) Hobgoblin Hangman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8) Adventures/6B - The Radiant Morn (D183)/05) The Lord of Flies.md"
+                "file": "8) Adventures/2g - The Crossroads (D176)/02) Hobgoblin Hangman.md"
               }
             }
           },
@@ -150,9 +149,17 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
+          },
+          {
+            "id": "47fc09be777ee4cb",
+            "type": "leaf",
+            "state": {
+              "type": "inline-scripts-button-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "1af6e5ffce030a47",
@@ -186,45 +193,49 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "a00599c52e9cd089",
+  "active": "ec51261376113c09",
   "lastOpenFiles": [
-    "8) Adventures/6B - The Radiant Morn (D183)/01) Running the Adventure.md",
-    "8) Adventures/6B - The Radiant Morn (D183)/05) The Lord of Flies.md",
-    "8) Adventures/6B - The Radiant Morn (D183)/02) A Warm Reception.md",
-    "8) Adventures/6B - The Radiant Morn (D183)/03) Fleecing the Flock.md",
-    "8) Adventures/6B - The Radiant Morn (D183)/04) The Living Filth.md",
-    "4) Bestiary/homebrew/acolyte-of-the-radiant-morn.md",
-    "4) Bestiary/homebrew/otyugh-elite.md",
-    "zz-Attachments/Pasted image 20230530155114.png",
-    "zz-Attachments/Pasted image 20230530135959.png",
-    "4) Bestiary/homebrew/duergar-guard.md",
-    "4) Bestiary/gm-guide/prophet.md",
-    "4) Bestiary/gm-guide/adept.md",
+    "8) Adventures/2g - The Crossroads (D176)/03) Inside the Trading Post.md",
+    "8) Adventures/2g - The Crossroads (D176)/02) Hobgoblin Hangman.md",
+    "8) Adventures/2g - The Crossroads (D176)/2g - The Crossroads (D176).md",
     "4) Bestiary/homebrew/orc-shaman.md",
+    "4) Bestiary/homebrew/glass-guardian.md",
+    "4) Bestiary/homebrew/dwarven-caravan-guard.md",
+    "4) Bestiary/bestiary-2/ahuizotl.md",
+    "4) Bestiary/bestiary-2/adult-brine-dragon.md",
+    "4) Bestiary/homebrew/dwarven-caravan-master.md",
+    "3) Rules/compendium/skills.md",
+    "4) Bestiary/homebrew/acolyte-of-the-radiant-morn.md",
+    "4) Bestiary/homebrew/duergar-guard.md",
+    "4) Bestiary/homebrew/duergar-miner.md",
     "4) Bestiary/homebrew/shard-slave.md",
+    "4) Bestiary/homebrew/otyugh-elite.md",
     "4) Bestiary/homebrew/magma-hurler.md",
     "4) Bestiary/homebrew/glass-guardian-nestling.md",
-    "4) Bestiary/homebrew/duergar-miner.md",
-    "4) Bestiary/homebrew/glass-guardian.md",
-    "zz-Attachments/Pasted image 20230530103908.png",
-    "8) Adventures/2d - The Hammer Falls (D179)/02) The Entrance.md",
-    "zz-Attachments/Pasted image 20230530103159.png",
-    "1) GM Screen/Skill-Actions-Cheat-Sheet.md",
-    "1) GM Screen/weapon-traits-p.282-283.md",
-    "8) Adventures/2d - The Hammer Falls (D179)/01) Running the Adventure.md",
-    "8) Adventures/6B - The Radiant Morn (D183)/6B - The Radiant Morn (D183).md",
-    "8) Adventures/2C - Dead by Dawn (D176)/2C - Dead by Dawn (D176).md",
-    "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/2B - The Shrine of Glass-Spire Forest (D175).md",
-    "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/01) Running the Adventure.md",
-    "8) Adventures/1J - The Kobold Hall (DMG)/1J - The Kobold Hall (DMG).md",
-    "8) Adventures/1J - The Kobold Hall (DMG)/01) Running the Adventure.md",
+    "4) Bestiary/bestiary-1/adult-brass-dragon.md",
+    "4) Bestiary/bestiary-1/zephyr-hawk.md",
+    "4) Bestiary/bestiary-1/young-blue-dragon.md",
+    "4) Bestiary/bestiary-1/wight.md",
+    "4) Bestiary/bestiary-1/wight-commander.md",
+    "4) Bestiary/bestiary-1/adult-silver-dragon.md",
+    "4) Bestiary/bestiary-1/adult-gold-dragon.md",
+    "4) Bestiary/bestiary-1/adult-bronze-dragon.md",
+    "4) Bestiary/bestiary-1/adamantine-golem.md",
+    "zz-Attachments/Pasted image 20230608105514.png",
+    "zz-Attachments/The Crossroads.png",
+    "zz-Attachments/Pasted image 20230608101106.png",
+    "support/inlineScripts",
+    "support",
+    "zz-Attachments/Millen Silvereye 1.png",
+    "6) NPCs/Crossroads",
+    "zz-Attachments/Fulgrim.png",
+    "zz-Attachments/Millen Silvereye.png",
+    "zz-Attachments/Pasted image 20230606135325.png",
+    "zz-Attachments/Pasted image 20230606135234.png",
     "zz-Attachments/Magma Hurler.png",
+    "zz-Attachments/Glass Guardian Nestling.png",
+    "zz-Templates/Markdown Templates/Combat Templates/Create New Monster",
     "Untitled",
-    "zz-Attachments/Pasted image 20230525162022.png",
-    "zz-Attachments/Pasted image 20230525162016.png",
-    "zz-Attachments/Pasted image 20230507172216.png",
-    "zz-Attachments/Pasted image 20230507172207.png",
-    "zz-Attachments/Pasted image 20230507150609.png",
     "Pathfinder2e_Campaign",
     "7) Players",
     "canvas-gm-tables/Game Master Tables.canvas",
@@ -232,10 +243,6 @@
     "conditions",
     "spells-dataview-backup/focus-spells/level-7",
     "spells-dataview-backup/spells/level-9",
-    "spells-dataview-backup/spells/level-7",
-    "spells-dataview-backup/spells/level-5",
-    "spells-dataview-backup/spells/level-4",
-    "spells-dataview-backup/spells/level-3",
     "canvas-gm-tables/canvas-gm-tables/game-master-tables.canvas"
   ]
 }

@@ -40,7 +40,7 @@ The rot grubs appear at the start of the second turn and immediately swarm forwa
 **Statues:** The statues provide cover and are difficult terrain. 
 
 > [!tip]+ Treasure
-> 37gp, 96sp, a Staff of Providence, a Private Workshop and a Singing Muse.
+> At the base of one of the statues are various offerings: 37gp, 96sp, a Staff of Providence, a Private Workshop and a Singing Muse.
 
 # Development
 The worshipers are not evil; most of them are no more than beggars and wanderers who came to the temple seeking food and some kindness. They fight back because they believe that the characters are here to loot their temple. If characters gleefully slaughter these innocents, look for ways to make them regret their cruelty later. You’ll have a prime opportunity if survivors flee back to Restwell Keep with news of an “unprovoked massacre” at the temple.

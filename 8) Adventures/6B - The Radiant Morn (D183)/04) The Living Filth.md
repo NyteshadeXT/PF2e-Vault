@@ -36,4 +36,4 @@ The giant whiptail centipedes are aware of the black pudding’s hunting methods
 **Shackles:** The cultists sometimes keep prisoners chained here so they can witness the terrible fate awaiting them when the ooze and giant whiptail centipedes messily consume (or dissolve) other captives. The chains hang empty at this time.
 
 > [!tip]+ Treasure
-> 83gp, 82sp, a Tome of Restorative Cleansing (Lesser), Cold Iron Armor (Low-Grade) Full plate, Mad Mammoth's Juke and Clown Monarch.
+> Scattered around the cave are the remains of from the creatures previous meals.  Players can find amongst the remains: 83gp, 82sp, a Tome of Restorative Cleansing (Lesser), Cold Iron Armor (Low-Grade) Full plate, Mad Mammoth's Juke and Clown Monarch.

@@ -54,7 +54,7 @@ The otyughs lurk in the stream of slime with their squishy bodies flattened bene
 **Shackles:** Sacrificial victims are kept chained in this chamber until needed. If the characters are looking for the missing trader, Bosco Heldam, they find him here, beaten and unconscious but alive. Otherwise, all the shackles are empty. 
 
 > [!tip]+ Treasure
-> Cold Iron Armor (Low-Grade) Scale mail, Sneaky Key and Cytillesh.
+> Piled in a corner the players find Cold Iron Armor (Low-Grade) Scale mail, Sneaky Key and Cytillesh.
 
 # Development 
 By the end of this fight, the characters are thoroughly drenched in reeking filth. If they return to town without cleaning up—a task that can take several hours, and they might never get the stench out of some clothing—they will be met with nothing but disgust no matter how successful their expedition was. 

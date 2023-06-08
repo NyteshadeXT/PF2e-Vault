@@ -8,7 +8,7 @@ tags:
 aliases: ["Grasping Dead"]
 ---
 # Grasping Dead *Hazard 5*  
-[complex](../../../rules/traits/complex.md)  [haunt](../../../rules/traits/haunt.md)  
+[complex](rules/traits/complex.md)  [haunt](rules/traits/haunt.md)  
 
 - **Complexity** Complex
 - **Stealth** +12 expert  
@@ -24,16 +24,16 @@ Hands of the buried dead rise from the ground, grabbing and tearing at creatures
 - **Weaknesses** 
      
 ```ad-embed-ability
-title: Shifting Earth [R](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: Shifting Earth [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: At least two creatures enter the area
 
-**Effect** The earth shifts wildly as the hands of the dead spring forth from the ground. The area becomes difficult terrain. Creatures within the area are knocked [prone](../../../rules/conditions.md#Prone) unless they succeed at a DC 26 Reflex save. The haunt then rolls initiative.
+**Effect** The earth shifts wildly as the hands of the dead spring forth from the ground. The area becomes difficult terrain. Creatures within the area are knocked [prone](rules/conditions.md#Prone) unless they succeed at a DC 26 Reflex save. The haunt then rolls initiative.
 ```
 
 ```ad-pf2-summary
 title: Routine
-(1 action) The grasping hands batter all creatures in the area, dealing `2d6+7` bludgeoning damage (DC 26 basic Reflex save). On a critical failure, a creature is dragged partially into the earth, becoming [immobilized](../../../rules/conditions.md#Immobilized) until it [Escapes](../../../rules/actions/escape.md) (DC 26). If already [immobilized](../../../rules/conditions.md#Immobilized), it's fully submerged and must hold its breath to avoid suffocation.
+(1 action) The grasping hands batter all creatures in the area, dealing `2d6+7` bludgeoning damage (DC 26 basic Reflex save). On a critical failure, a creature is dragged partially into the earth, becoming [immobilized](rules/conditions.md#Immobilized) until it [Escapes](rules/actions/escape.md) (DC 26). If already [immobilized](rules/conditions.md#Immobilized), it's fully submerged and must hold its breath to avoid suffocation.
 ```
 ^routine
 

@@ -8,7 +8,7 @@ tags:
 aliases: ["Envenomed Thorns Trap"]
 ---
 # Envenomed Thorns Trap *Hazard 2*  
-[mechanical](../../../rules/traits/mechanical.md)  [trap](../../../rules/traits/trap.md)  
+[mechanical](rules/traits/mechanical.md)  [trap](rules/traits/trap.md)  
 
 - **Complexity** Simple
 - **Stealth** DC 20 trained  
@@ -24,7 +24,7 @@ A trip wire strung 4 feet above the ground releases a branch studded with enveno
 - **Weaknesses** 
      
 ```ad-embed-ability
-title: Thorny Branch [R](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: Thorny Branch [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 [poison](../../../rules/traits/poison.md)  
 
 - **Trigger**: The trip wire is touched
