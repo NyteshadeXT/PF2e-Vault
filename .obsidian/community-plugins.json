@@ -1,6 +1,5 @@
 [
   "various-complements",
-  "obsidian-5e-statblocks",
   "obsidian-dice-roller",
   "table-editor-obsidian",
   "fantasy-calendar",
@@ -16,5 +15,6 @@
   "folder-note-plugin",
   "obsidian-style-settings",
   "text-mapper",
-  "obsidian-text-expander-js"
+  "obsidian-text-expander-js",
+  "obsidian-5e-statblocks"
 ]

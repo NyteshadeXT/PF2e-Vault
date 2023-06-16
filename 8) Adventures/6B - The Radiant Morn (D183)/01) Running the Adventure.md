@@ -1,3 +1,5 @@
+**NOTE: The players are coming into this adventure early.  Treasure and xp is calculated for level 4.  Adjust accordingly.**
+
 # Commonly-Heard Rumors 
 Anyone who spends time in Restwell Keep will hear that a few months ago, a priest who is a stranger to this region arrived with a small band of followers. They found a cave a few miles from the nearest settlement, cleaned it out, and set up the Temple of the Radiant Morn. They spread a message of salvation and relief from worldly woe which has found wide acceptance. 
 

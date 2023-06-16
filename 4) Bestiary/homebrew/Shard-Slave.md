@@ -17,7 +17,7 @@ forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: "HB"
 name: "Shard Slave"
-image: [[Shard Slave.jpg]]
+token: [[Shard Slave.jpg]]
 level: "Creature 4"
 alignment: "CE"
 size: "Medium"

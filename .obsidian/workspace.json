@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec51261376113c09",
+            "id": "af53e4ac286d00b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/2g - The Crossroads (D176)/02) Hobgoblin Hangman.md",
+                "file": "4) Bestiary/homebrew/glass-guardian-nestling.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -21,19 +21,20 @@
             }
           },
           {
-            "id": "af53e4ac286d00b3",
+            "id": "612c0e7a18714d0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3) Rules/compendium/skills.md",
-                "mode": "preview",
+                "file": "8) Adventures/2g - The Crossroads (D176)/2g - The Crossroads (D176).md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 418.5
   },
   "right": {
     "id": "e31f441a5deb1ea4",
@@ -99,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8) Adventures/2g - The Crossroads (D176)/02) Hobgoblin Hangman.md",
+                "file": "8) Adventures/2g - The Crossroads (D176)/2g - The Crossroads (D176).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8) Adventures/2g - The Crossroads (D176)/02) Hobgoblin Hangman.md"
+                "file": "8) Adventures/2g - The Crossroads (D176)/2g - The Crossroads (D176).md"
               }
             }
           },
@@ -131,14 +132,6 @@
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "f4a6e39d1e45f88f",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
           },
@@ -157,9 +150,17 @@
               "type": "inline-scripts-button-view",
               "state": {}
             }
+          },
+          {
+            "id": "075658c70858102f",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "1af6e5ffce030a47",
@@ -193,47 +194,47 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "ec51261376113c09",
+  "active": "612c0e7a18714d0f",
   "lastOpenFiles": [
+    "8) Adventures/2g - The Crossroads (D176)/04) Into the Boneyard.md",
     "8) Adventures/2g - The Crossroads (D176)/03) Inside the Trading Post.md",
     "8) Adventures/2g - The Crossroads (D176)/02) Hobgoblin Hangman.md",
     "8) Adventures/2g - The Crossroads (D176)/2g - The Crossroads (D176).md",
-    "4) Bestiary/homebrew/orc-shaman.md",
-    "4) Bestiary/homebrew/glass-guardian.md",
-    "4) Bestiary/homebrew/dwarven-caravan-guard.md",
-    "4) Bestiary/bestiary-2/ahuizotl.md",
-    "4) Bestiary/bestiary-2/adult-brine-dragon.md",
-    "4) Bestiary/homebrew/dwarven-caravan-master.md",
-    "3) Rules/compendium/skills.md",
-    "4) Bestiary/homebrew/acolyte-of-the-radiant-morn.md",
-    "4) Bestiary/homebrew/duergar-guard.md",
-    "4) Bestiary/homebrew/duergar-miner.md",
-    "4) Bestiary/homebrew/shard-slave.md",
-    "4) Bestiary/homebrew/otyugh-elite.md",
-    "4) Bestiary/homebrew/magma-hurler.md",
-    "4) Bestiary/homebrew/glass-guardian-nestling.md",
-    "4) Bestiary/bestiary-1/adult-brass-dragon.md",
-    "4) Bestiary/bestiary-1/zephyr-hawk.md",
-    "4) Bestiary/bestiary-1/young-blue-dragon.md",
-    "4) Bestiary/bestiary-1/wight.md",
-    "4) Bestiary/bestiary-1/wight-commander.md",
-    "4) Bestiary/bestiary-1/adult-silver-dragon.md",
-    "4) Bestiary/bestiary-1/adult-gold-dragon.md",
-    "4) Bestiary/bestiary-1/adult-bronze-dragon.md",
-    "4) Bestiary/bestiary-1/adamantine-golem.md",
+    "8) Adventures/6B - The Radiant Morn (D183)/02) A Warm Reception.md",
+    "8) Adventures/6B - The Radiant Morn (D183)/03) Fleecing the Flock.md",
+    "8) Adventures/6B - The Radiant Morn (D183)/01) Running the Adventure.md",
+    "8) Adventures/2d - The Hammer Falls (D179)/04) Sleed’s Sanctum.md",
+    "8) Adventures/2d - The Hammer Falls (D179)/03) The Metalworks.md",
+    "8) Adventures/2d - The Hammer Falls (D179)/02) The Entrance.md",
+    "8) Adventures/2d - The Hammer Falls (D179)/2d - The Hammer Falls (D179).md",
+    "3) Rules/compendium/equipment/items/items.md",
+    "3) Rules/compendium/equipment/items/magma-hammer.md",
+    "3) Rules/compendium/equipment/items/fighters-fork.md",
+    "3) Rules/compendium/equipment/items/storm-arrow.md",
+    "3) Rules/compendium/feats/feats.md",
+    "zz-Attachments/Pasted image 20230616114949.png",
+    "zz-Attachments/Pasted image 20230616114750.png",
+    "8) Adventures/2d - The Hammer Falls (D179)/01) Running the Adventure.md",
+    "zz-Attachments/Pasted image 20230616114033.png",
+    "zz-Attachments/Pasted image 20230616114007.png",
+    "8) Adventures/6B - The Radiant Morn (D183)/05) The Lord of Flies.md",
+    "8) Adventures/6B - The Radiant Morn (D183)/6B - The Radiant Morn (D183).md",
+    "zz-Attachments/Pasted image 20230616110728.png",
+    "8) Adventures/6B - The Radiant Morn (D183)/04) The Living Filth.md",
+    "8) Adventures/2g - The Crossroads (D176)/01) Running the Adventure.md",
+    "zz-Attachments/Pasted image 20230616105440.png",
+    "3) Rules/compendium/gm/hazards/hazards.md",
+    "3) Rules/compendium/gm/hazards/shallow-grave-hb.md",
+    "3) Rules/compendium/gm/hazards/cracked-earth-loil.md",
+    "3) Rules/compendium/gm/hazards/acidic-poison-cloud-trap-aoe3.md",
+    "3) Rules/actions/actions.md",
+    "zz-Attachments/Pasted image 20230613163023.png",
+    "zz-Attachments/Pasted image 20230613161347.png",
     "zz-Attachments/Pasted image 20230608105514.png",
     "zz-Attachments/The Crossroads.png",
-    "zz-Attachments/Pasted image 20230608101106.png",
     "support/inlineScripts",
     "support",
-    "zz-Attachments/Millen Silvereye 1.png",
     "6) NPCs/Crossroads",
-    "zz-Attachments/Fulgrim.png",
-    "zz-Attachments/Millen Silvereye.png",
-    "zz-Attachments/Pasted image 20230606135325.png",
-    "zz-Attachments/Pasted image 20230606135234.png",
-    "zz-Attachments/Magma Hurler.png",
-    "zz-Attachments/Glass Guardian Nestling.png",
     "zz-Templates/Markdown Templates/Combat Templates/Create New Monster",
     "Untitled",
     "Pathfinder2e_Campaign",

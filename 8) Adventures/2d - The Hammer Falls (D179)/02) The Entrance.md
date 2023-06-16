@@ -58,5 +58,5 @@ If a character finds the secret door atop the wooden balcony, read:
 > [!note]+ Read Aloud
 > Cleverly disguised as a ventilation shaft, the small door slides open. Peering inside reveals a narrow tunnel, filled with the familiar glow of the nearby furnace room. 
 
-# Treasure
-If the characters light the braziers, either during or after the fight, they can easily spot some 10 gold and a potion of lesser healing dropped by one of the duergar; otherwise, finding them in the dark requires a DC 10 [[skills#Perception|Perception]] check.
+> [!tip]+ Treasure
+> If the characters light the braziers, either during or after the fight, they can easily spot some 10 gold and a potion of lesser healing dropped by one of the duergar; otherwise, finding them in the dark requires a DC 10 [[skills#Perception|Perception]] check.

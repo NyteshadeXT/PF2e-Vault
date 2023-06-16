@@ -2,11 +2,12 @@
 
 This encounter takes place if the heroes try and bully [[Fulgrim]] and the dwarves into letting them in on the black market dealings, or it could occur when the heroes confront [[Millen Silvereye]] after he tries to direct them into an ambush in the boneyard. Since the dwarves and  [[Fulgrim]] have business together, they fight together, and they will defend [[Millen Silvereye]] if the characters try to rough up the tiefling appraiser. 
 
-**Encounter Difficulty:** Moderate (105 xp)
+**Encounter Difficulty:** Severe (140 xp)
 Creatures:
  - 4: [[dwarven-caravan-guard|Dwarven Caravan Guard]] G
  - 1: [[dwarven-caravan-master|Dwarven Caravan Master]] D
- - 
+ - 1: [[Fulgrim]] F
+ - 1: [[Millen Silvereye]] M
 
 ```encounter
 name: Hangman
@@ -14,9 +15,9 @@ party: Chaos Scar
 creatures:
 - 4: [[Dwarven Caravan Guard]] 
 - 1: [[Dwarven Caravan Master]]
+- Fulgrim, 50, 18, 9
+- Millen Silvereye, 22, 15, 7
 ```
-
-Fulgrim (F) Millen Silvereye (M) Dwarf caravan master (D) 4 dwarf caravan guard (G) 
 
 When the characters first enter the trading post, read or paraphrase the following: 
 > [!note]+ Read Aloud
@@ -31,3 +32,6 @@ When a fight breaks out, the caravan guards move into positions where they can u
 **Ground:** The ground is little more than a dirt floor covered in a layer of dry straw. An errant torch or broken lantern could set the floor, and the rest of the trading post, on fire. 
 
 **Second Floor:** A single set of stairs leads to a second floor, where a number of pallets are kept for travelers who need to stay overnight. The second floor is two squares up from the ground floor.
+
+> [!tip]+ Treasure
+> In a small chest behind the counter, Fulgrim keeps 37gp, 88sp, a *Sentry Fulu* and a *Climbing Bolt*.

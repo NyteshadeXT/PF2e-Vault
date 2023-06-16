@@ -10,7 +10,7 @@ Rikter has sent several patrols into the refinery to deal with the duergar, but 
 **No Dwarf Left Behind**
 A trio of dwarven brothers, miners by trade, saw smoke and steam billowing from a long-dormant metalworking refinery near the King’s Wall, and they decided to investigate. Upon entering Barulg’s refinery, they were ambushed by a group of duergar, and only one of the dwarves managed to escape. The dwarf, an obstinate and ornery fellow named Balidor Cragbottom, knows a bit about duergar and their ways, and he believes it’s possible that his brothers are being kept alive as slaves, or worse, sacrifices for one of the duergars’ infernal altars.
 
-Balidor is unwilling to leave his brothers to die but admits that he isn’t much of a fighter and wouldn’t get far on his own. Seeing the characters as capable adventurers, he offers them 20 gold if they’re willing to investigate and return with any information regarding the fate of his brothers.
+The players will run into Balidor when venturing to the mine.  Balidor is unwilling to leave his brothers to die but admits that he isn’t much of a fighter and wouldn’t get far on his own. Seeing the characters as capable adventurers, he offers them 20 gold if they’re willing to investigate and return with any information regarding the fate of his brothers.
 
 **A Small Sample**
 Ruana Lorewise, an eccentric elven wizard with an interest in geological phenomena of a magical nature, was out exploring some volcanic rock formations when she detected a trickle of strange lava which pulsed with an odd, bluish hue. Following it, she found that it led to an old refinery. Unfortunately, when nearing the building, a group of small, fiery elementals appeared, scaring her off before she could properly investigate the area.

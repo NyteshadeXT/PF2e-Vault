@@ -10,9 +10,9 @@ level: 3
 ---
 
 ```statblock
-columns: 2
+columns: 1
 forcecolumns: true
-layout: Path2eBlock
+layout: Basic Pathfinder 2e Layout
 statblock: true
 source: "BotD"
 name: "Zombie Owlbear"
@@ -35,6 +35,10 @@ abilities_top:
   - name: "Slow"
     desc: "  A zombie owlbear is permanently [[slowed|slowed 1]] and can't use reactions."
 
+abilities_mid:
+
+abilities_bot:
+
 speed: 25 feet
 
 ac: 16
@@ -49,9 +53,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ talon +12, __Damage__ 1d12+5 (1d10+7) piercing plus [[grab]]"
+    desc: "⬻ talon +12, __Damage__ 1d10+7 (1d10+7) piercing plus [[grab]]"
   - name: Melee
-    desc: "⬻ beak +12, __Damage__ 1d12+5 (1d12+7) piercing plus [[grab]]"
+    desc: "⬻ beak +12, __Damage__ 1d12+7 (1d12+7) piercing"
   - name: Ground Slam
     desc: "⬺ claw +25 ([[attack]]); __Requirements__ The zombie owlbear has a creature [[grab|grabbed]] or [restrained]; __Effect__ The zombie owlbear repeatedly slams the creature into the ground. This deals 1d10+7 (1d10+7) bludgeoning damage (DC 20 Fortitude save). On a critical failure, the creature is [[conditions#Stunned|Stunned 1]], and on a critical success the creature is no longer grabbed or restrained."
   - name: Horrifying Screech

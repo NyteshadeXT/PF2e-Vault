@@ -31,3 +31,6 @@ The hobgoblins are deathwatchers, set in place to ensure that prisoners left in 
 **Gibbet Tree:** The gibbet tree is a massive metal structure designed to hold the gibbets in the air, keeping them around 5 feet off of the ground. The tree’s frame is made of thick black iron, and has lasted for many years without bending or rusting appreciably. 
 
 **Ground:** The ground below the gibbet tree is covered in filth and muck, but, like the rest of the area, should provide no significant impediment.
+
+> [!tip]+ Treasure
+> Between the hobgoblins, the players are able to find 19gp and 9sp in addition to their armor and weapons.

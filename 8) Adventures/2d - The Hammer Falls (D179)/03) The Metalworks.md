@@ -75,5 +75,5 @@ Although the characters might think they have the element of surprise as they co
 
 **Lava Flow:** The lava flow is a combination of rock, lava, and magma slowly flowing from the west through a slightly recessed stone channel 5 feet below the floor. A creature falling into the lava takes 1d6 fire damage upon falling in and 1d6 fire damage when starting its next turn in the lava. 
 
-# Treasure 
-Scattered among all the worthless items on the floor of the metalworks is 14gp, 42sp and a *Sprite Apple (Pink)*.
+> [!tip]+ Treasure
+> Scattered among all the worthless items on the floor of the metalworks is 14gp, 42sp and a *Sprite Apple (Pink)*.
