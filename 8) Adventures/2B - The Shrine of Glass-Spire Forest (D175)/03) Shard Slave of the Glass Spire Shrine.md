@@ -1,14 +1,16 @@
 ![[Pasted image 20230416102726.png]]
 
-**Encounter Difficulty:** Severe (90 xp)
+**Encounter Difficulty:** Moderate (110 xp)
 Creatures:
  - 1: [[shard-slave|Shard Slave]]
+ - 4: [[Glass-Guardian|Glass Guardian]]
 
 ```encounter
 name: Shard Slave
 party: Chaos Scar
 creatures:
 - 1: [[Shard Slave]] 
+- 4: [[Glass Guardian]]
 ```
 
 The shard slave, a remnant of Xennul trapped in the shrine, waits in the main room, hoping to dominate one or more of the characters so that it may use their body to search for the shard that was taken from Xennul. A depression in the center of the room and patches of treacherous flooring present terrain obstacles and hazards for the characters.
@@ -43,7 +45,7 @@ Tactics The shard slave uses dominating tendril to try to dominate or kill one o
 * Smooth Flooring (Z): The floor is extremely smooth and slippery.
 
 ### Treasure
-A third font stands at the back of the shrine. Instead of holding water, it contains a pane of purple glass. Lying on top of or against this font is a Hat of the Magi, a Dread Helm, Ghost Oil and a small pouch with 10 gp. Also, see the Scrying Font sidebar at the end of this adventure.
+A third font stands at the back of the shrine. Instead of holding water, it contains a pane of purple glass. Lying on top of or against this font is a *Sense-Dulling Hood (Lesser)*, a *Ghoul Hide*, *Potion of Resistance (Lesser)* and a small pouch with 10 gp. Also, see the Scrying Font sidebar at the end of this adventure.
 
 > [!warning]
 > What if a Character is Killed by the Shard Slave? 

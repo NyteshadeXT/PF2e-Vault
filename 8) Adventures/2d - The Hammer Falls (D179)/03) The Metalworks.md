@@ -2,7 +2,7 @@
 
 The corrupted lava flows into this room, where the weapons are created and the bulk of the experiments performed. Several duergar work the furnaces with one of Sleed’s imps, preparing another attempt at creating a lava-infused magical weapon. With the noise from hammers, steam, and the roaring furnaces, it’s difficult for them to hear anyone approaching. They expect the sentries to alert them to any potential problems. 
 
-**Encounter Difficulty:** Moderate (95 xp)
+**Encounter Difficulty:** Low (65 xp)
 Creatures:
  - 1: [[duergar-guard|Duergar Guard]] G
  - 1: [[imp|Imp]] I

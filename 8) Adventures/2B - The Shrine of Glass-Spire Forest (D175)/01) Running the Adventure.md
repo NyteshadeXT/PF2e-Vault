@@ -1,4 +1,4 @@
-**Total Adventure Value:** 200 xp
+**Total Adventure Value:** 160 xp
 
 # Adventure Hooks
 

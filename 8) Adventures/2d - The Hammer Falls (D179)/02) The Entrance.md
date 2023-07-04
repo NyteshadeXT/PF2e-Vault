@@ -2,16 +2,16 @@
 
 The only room at ground level, the entryway shows the age of the building; its walls are crumbling and partially collapsed, and with the debris scattered on the floor, each step is uncertain. The duergar intentionally leave the room dark, extinguishing the only two braziers when the scouts spot potential intruders. They prefer to capture any intruders to use as slaves, but their first priority is to deny entrance to the lower levels of the refinery. 
 
-**Encounter Difficulty:** Low (65 xp)
+**Encounter Difficulty:** Trivial (40 xp)
 Creatures:
- - 3: [[duergar-guard|Duergar Guard]] G
+ - 4: [[duergar-guard|Duergar Guard]] G
  - 2: [[duergar-sharpshooter|Duergar Sharpshooter]] S
 
 ```encounter
 name: Entrance
 party: Chaos Scar
 creatures:
-- 3: [[Duergar Guard]] 
+- 4: [[Duergar Guard]] 
 - 2: [[Duergar Sharpshooter]]
 ```
 

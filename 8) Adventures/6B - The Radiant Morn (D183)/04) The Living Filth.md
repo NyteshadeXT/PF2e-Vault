@@ -21,10 +21,10 @@ When the characters enter the room, read:
 > [!note]+ Read Aloud
 > The air of this cavern is foul from the stagnant river of stinking filth that flows across the chamber. 
 
-Passive Perception 16: The character becomes aware that something lurks in the cavern, without knowing what or where. Characters who are alerted this way can then make active Perception checks against DC 23; place one carrion crawler or the black pudding on the map for each successful check, even if they are out of sight. Make appropriate adjustments for characters who enter the room especially cautiously or recklessly.
+Passive Perception 16: The character becomes aware that something lurks in the cavern, without knowing what or where. Characters who are alerted this way can then make active Perception checks against DC 23; place one carrion crawler or the black pudding on the map for each successful check, even if they are out of sight. Make appropriate adjustments for characters who enter the room especially cautiously or recklessly.
 
 # Tactics
-The black pudding floats unmoving beneath the surface of the sludge, readying an action until a character wades into or jumps over the pool. At that point, it bursts from the muck to engulf the unfortunate adventurer. From then on, it engulfs and sustains the grab against as many adventurers as possible. Black pudding spawn attack characters at random. 
+The black pudding floats unmoving beneath the surface of the sludge, readying an action until a character wades into or jumps over the pool. At that point, it bursts from the muck to engulf the unfortunate adventurer. From then on, it engulfs and sustains the grab against as many adventurers as possible. Black pudding spawn attack characters at random. 
 
 The giant whiptail centipedes are aware of the black pudding’s hunting methods and stay hidden until the pudding attacks. Then they rush forward along the floor, walls, and ceiling. They are quite fond of using tentacle to strand heroes within the poisonous stream or adjacent to the ooze. They fall back on their bite only when every target within reach is slowed or immobilized. 
 

@@ -1,8 +1,8 @@
 # Wall Postings
--   ~~Stop the Marauders! The bailiff has been authorized to pay 200 gold for the party that tracks down and eliminates the marauders who recently attacked the farms outside of Dardun. (Elves of the Valley)
--   **200 gold offered for anyone who can bring justice to Kevmar Windsnap and another 200 gold for finding his sister, Zeta. See the bailiff for more details. (Some Assembly Required)**
--   Debt collectors wanted! Doran owes me 100 gold and I intend to see that collected. See Nerrin Silverhand if you want a cut. (Dead by Dawn)
--   A reward for any brave soul willing to clear out the Goblin Hole. See Kendon Longstrider for more details. (Down the Goblin Hole)
+-   ~~Stop the Marauders! The bailiff has been authorized to pay 200 gold for the party that tracks down and eliminates the marauders who recently attacked the farms outside of Dardun. (Elves of the Valley)~~
+-   ~~200 gold offered for anyone who can bring justice to Kevmar Windsnap and another 200 gold for finding his sister, Zeta. See the bailiff for more details. (Some Assembly Required)~~**~~
+-   ~~Debt collectors wanted! Doran owes me 100 gold and I intend to see that collected. See Nerrin Silverhand if you want a cut. (Dead by Dawn)~~
+-   **A reward for any brave soul willing to clear out the Goblin Hole. See Kendon Longstrider for more details. (Down the Goblin Hole)**
 -   Wanted for murder: the dragonborn Hesskin Flamebrow. Lord Criswell of Wellspring will pay a bounty of 200 gold for his capture or death. (The Lost Library)
 -   Lord Drysdale requests aid retaking Stormtower. A reward of 300 gold is offered to any group that is successful. See Elessan for further details. (Stormtower)
 -   Good-hearted heroes wanted to recover the Cup of Chance which was stolen from the temple of Tymora. See Chendera for more details. (The Splintered Spring)
@@ -15,7 +15,7 @@
 ## Word of Mouth
 1.  ~~Bergen lost a green dragon hide on that caravan the Skull Kickers hit. He's offering a reward to whomever can get it back. (Kobold Hall)~~
 2.  ~~Ardia Ironleaf is offering a reward to anyone who can find her lost father, a merchant who sometimes travels close to the wall. He was last seen in the vicinity of the glowing cave. (The Tainted Spiral)~~
-3.  The Cragbottom brothers decided to check out the old refinery to see if they could get it going again. They were ambushed by duergar! Only Balidor survived and he’ll pay anyone who can bring him his brothers or proof of their fate. (The Hammer Falls)
+3.  **The Cragbottom brothers decided to check out the old refinery to see if they could get it going again. They were ambushed by duergar! Only Balidor survived and he’ll pay anyone who can bring him his brothers or proof of their fate. (The Hammer Falls)**
 4.  Thorgrim Spinehammer, the operator of a mine near the Scar, had some mining gear stolen by a bunch of kobolds. He’ll pay anyone who can track them to their cave and get his stuff back. (The Lost Library)
 5.  A brown wyrmling has been raiding the countryside. The farmers have gathered a reward for anyone who can eliminate it. (The Lost Library)
 6.  The druid Lolfinor is offering to pay 10gp for each venom sack from one of the large insects that have been spotted near the King’s Wall. (The Crawling Fane)

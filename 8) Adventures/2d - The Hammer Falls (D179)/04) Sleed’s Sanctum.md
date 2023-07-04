@@ -2,12 +2,13 @@
 
 The characters continue down another set of stairs and hallways, finally reaching the bottom of the refinery and Sleed’s den, where the corrupted lava broke through the ground and the magical potency is at its peak. Here, Sleed works to perfect his process while Barulg stays nearby to protect him. They have been expecting intruders after hearing the commotion above and have summoned three elemental servitors to assist them in battle. 
 
-**Encounter Difficulty:** Severe (125 xp)
+**Encounter Difficulty:** Severe (120 xp)
 Creatures:
  - 2: [[duergar-guard|Duergar Guard]] Station at enterance
  - 1: [[imp|Sleed]] S
  - 1: [[duergar-taskmaster|Barulg]] B
  - 3: [[ember-fox|Ember Fox]] R
+ - 2: [[magma-hurler|Magma Hurler]]
  - Lava Pit
 
 ```encounter
@@ -18,6 +19,7 @@ creatures:
 - 1: [[Imp, Sleed]]
 - 1: [[Duergar Taskmaster, Barulg]]
 - 3: [[Ember Fox]]
+- 2: [[Magma Hurler]]
 ```
 
 When the characters enter Sleed’s sanctum, read: 
@@ -64,4 +66,4 @@ Sleed and Barulg already know how to use the Lava Pit by harnessing the chaotic 
 **Sleed’s Desk:** This small wooden desk is covered with charred papers.
 
 > [!tip]+ Treasure
-> On Barulg is using a [[magma-hammer|Magma Hammer]].  He also carries 9 gp.  Found on and within Sleed's desk the players find another 20 gp, 36 sp and *Saboteur's Friend.*
+> On Barulg is using a [[magma-hammer|Magma Hammer]].  He also carries 9 gp.  Found on and within Sleed's desk the players find another 20 gp, 36 sp, a *Poisonous Dagger* and *Tentacle Potion (Lesser).* 

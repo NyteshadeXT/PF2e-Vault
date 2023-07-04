@@ -14,8 +14,6 @@ creatures:
 - 2: [[Zombie Brute]]
 ```
 
-Encounter Level 3+ (XP 702+) 2 gravehounds 4 zombie rotters 2 zombie soldiers 
-
 Not long after the characters erect their defenses, the zombie horde, now at full strength, makes a serious push to gain entrance into the temple. When this encounter begins, 2 grave hounds, 4 zombie rotters, and 2 zombie soldiers have managed to break into the temple. The characters need to fight off the zombies that make it inside while repairing their breached defenses. 
 
 When the attack begins, read: 

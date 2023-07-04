@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2d0669892633671f",
+        "id": "8f542ff7b70742f3",
         "type": "tabs",
         "children": [
           {
-            "id": "af53e4ac286d00b3",
+            "id": "5f88f739e7e558f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4) Bestiary/homebrew/glass-guardian-nestling.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "612c0e7a18714d0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8) Adventures/2g - The Crossroads (D176)/2g - The Crossroads (D176).md",
+                "file": "8) Adventures/2d - The Hammer Falls (D179)/2d - The Hammer Falls (D179).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#book",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8) Adventures/2g - The Crossroads (D176)/2g - The Crossroads (D176).md",
+                "file": "8) Adventures/2d - The Hammer Falls (D179)/2d - The Hammer Falls (D179).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8) Adventures/2g - The Crossroads (D176)/2g - The Crossroads (D176).md"
+                "file": "8) Adventures/2d - The Hammer Falls (D179)/2d - The Hammer Falls (D179).md"
               }
             }
           },
@@ -152,7 +138,7 @@
             }
           },
           {
-            "id": "075658c70858102f",
+            "id": "bea62d20a6039c87",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -178,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 593.5
+    "width": 456.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,44 +180,77 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "612c0e7a18714d0f",
+  "floating": {
+    "id": "1bc7c83c4e005485",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3a86d81b79509433",
+        "type": "window",
+        "children": [
+          {
+            "id": "593ececdbe978000",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "79846d0ae4843a9c",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1571,
+        "y": -6,
+        "width": 960,
+        "height": 517,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "99dc06d2259d33b7",
   "lastOpenFiles": [
-    "8) Adventures/2g - The Crossroads (D176)/04) Into the Boneyard.md",
-    "8) Adventures/2g - The Crossroads (D176)/03) Inside the Trading Post.md",
-    "8) Adventures/2g - The Crossroads (D176)/02) Hobgoblin Hangman.md",
-    "8) Adventures/2g - The Crossroads (D176)/2g - The Crossroads (D176).md",
-    "8) Adventures/6B - The Radiant Morn (D183)/02) A Warm Reception.md",
-    "8) Adventures/6B - The Radiant Morn (D183)/03) Fleecing the Flock.md",
-    "8) Adventures/6B - The Radiant Morn (D183)/01) Running the Adventure.md",
     "8) Adventures/2d - The Hammer Falls (D179)/04) Sleed’s Sanctum.md",
     "8) Adventures/2d - The Hammer Falls (D179)/03) The Metalworks.md",
     "8) Adventures/2d - The Hammer Falls (D179)/02) The Entrance.md",
+    "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/2B - The Shrine of Glass-Spire Forest (D175).md",
+    "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/01) Running the Adventure.md",
+    "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/03) Shard Slave of the Glass Spire Shrine.md",
+    "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/02) Glass Guardian Attack.md",
     "8) Adventures/2d - The Hammer Falls (D179)/2d - The Hammer Falls (D179).md",
-    "3) Rules/compendium/equipment/items/items.md",
-    "3) Rules/compendium/equipment/items/magma-hammer.md",
-    "3) Rules/compendium/equipment/items/fighters-fork.md",
-    "3) Rules/compendium/equipment/items/storm-arrow.md",
-    "3) Rules/compendium/feats/feats.md",
+    "8) Adventures/2C - Dead by Dawn (D176)/2C - Dead by Dawn (D176).md",
+    "8) Adventures/2C - Dead by Dawn (D176)/04) Zombie Siege.md",
+    "8) Adventures/2C - Dead by Dawn (D176)/05) Zombie Siege - First Wave.md",
+    "8) Adventures/2C - Dead by Dawn (D176)/06) Zombie Siege - Second Wave.md",
+    "6) NPCs/Restwell Keep/Balidor - Miner.md",
+    "zz-Attachments/Balidor.png",
+    "5) World/Restwell Jobs.md",
+    "5) World/Restwell Keep.md",
+    "1) GM Screen/Skill-Actions-Cheat-Sheet.md",
+    "1) GM Screen/Actions-Cheat-Sheet.md",
+    "8) Adventures/6B - The Radiant Morn (D183)/02) A Warm Reception.md",
+    "8) Adventures/6B - The Radiant Morn (D183)/03) Fleecing the Flock.md",
+    "8) Adventures/2g - The Crossroads (D176)/2g - The Crossroads (D176).md",
+    "1) GM Screen/common-conditions-p.618-623.md",
+    "1) GM Screen/gm-screen.md",
+    "8) Adventures/2C - Dead by Dawn (D176)/07) What to do with the Necroshard.md",
+    "5) World/Chaos Scar - GM View.md",
+    "5) World/Abandoned Shrine of Moradin.md",
+    "5) World/Restwell Rumors.md",
     "zz-Attachments/Pasted image 20230616114949.png",
     "zz-Attachments/Pasted image 20230616114750.png",
-    "8) Adventures/2d - The Hammer Falls (D179)/01) Running the Adventure.md",
     "zz-Attachments/Pasted image 20230616114033.png",
     "zz-Attachments/Pasted image 20230616114007.png",
-    "8) Adventures/6B - The Radiant Morn (D183)/05) The Lord of Flies.md",
-    "8) Adventures/6B - The Radiant Morn (D183)/6B - The Radiant Morn (D183).md",
     "zz-Attachments/Pasted image 20230616110728.png",
-    "8) Adventures/6B - The Radiant Morn (D183)/04) The Living Filth.md",
-    "8) Adventures/2g - The Crossroads (D176)/01) Running the Adventure.md",
     "zz-Attachments/Pasted image 20230616105440.png",
-    "3) Rules/compendium/gm/hazards/hazards.md",
-    "3) Rules/compendium/gm/hazards/shallow-grave-hb.md",
-    "3) Rules/compendium/gm/hazards/cracked-earth-loil.md",
-    "3) Rules/compendium/gm/hazards/acidic-poison-cloud-trap-aoe3.md",
-    "3) Rules/actions/actions.md",
     "zz-Attachments/Pasted image 20230613163023.png",
     "zz-Attachments/Pasted image 20230613161347.png",
     "zz-Attachments/Pasted image 20230608105514.png",
-    "zz-Attachments/The Crossroads.png",
     "support/inlineScripts",
     "support",
     "6) NPCs/Crossroads",

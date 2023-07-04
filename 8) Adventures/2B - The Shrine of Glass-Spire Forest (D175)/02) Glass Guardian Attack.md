@@ -2,7 +2,7 @@
 
 The glass guardians emerge from the spires and attack when the characters approach the shrine. If the party failed the skill challenge, there will be an additional glass guardian, and there may be two additional glass guardian nestlings if they weren’t thrown off the party’s trail. 
 
-**Encounter Difficulty:** Moderate (70 xp)
+**Encounter Difficulty:** Trivial (50 xp)
 Creatures:
  - 1: [[glass-guardian|Glass Guardian]]
  - 2: [[glass-guardian-nestling|Glass Guardian Nestling]]

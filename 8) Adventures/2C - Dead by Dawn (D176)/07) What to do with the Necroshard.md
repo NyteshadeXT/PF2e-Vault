@@ -1,6 +1,6 @@
 The characters could simply leave the necroshard in the temple, but its power would continue to grow, and eventually an unstoppable horde of zombies would sweep out of the Chaos Scar and into civilized lands. This is certainly reason enough to destroy it. However, if certain precautions are taken, the power of the necroshard can be harnessed and used by the characters. 
 # Destroying the Shard
-If the characters decide to destroy the necroshard, they find it is almost impervious to attacks. However, surviving the zombie horde earns them the favor of Erathis, especially if one or more characters managed to beseech aid from the goddess during the zombie siege. A simple DC 10 Religion check grants the characters divine insight on how the necroshard can be destroyed. 
+If the characters decide to destroy the necroshard, they find it is almost impervious to attacks. However, surviving the zombie horde earns them the favor of Erathis, especially if one or more characters managed to beseech aid from the goddess during the zombie siege. A simple DC 10 Religion check grants the characters divine insight on how the necroshard can be destroyed. 
 
 # Skill Challenge - Destroying the Necroshard
 The altar in the temple rectory can be reconsecrated, and once the altar is again a divine conduit for the power of Waukeen, the necroshard can be destroyed by placing it on the altar and performing a ritual, represented by this skill challenge. 

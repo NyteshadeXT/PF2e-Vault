@@ -1,4 +1,5 @@
 ![[Pasted image 20230422151355.png]]
+[[Pasted image 20230422151355.png|Show to Players]]
 
 **Encounter Difficulty:** Moderate (80 xp) 
 See skill challenge for more details.
@@ -26,13 +27,13 @@ The zombies and other undead animated by the necroshard are sluggish at first, a
 
 **Level:** 2 (40 xp)
 **Complexity:** 3 (requires 8 successes before 3 failures)
-**Primary Skills:**  [[skills#Athletics|Athletics]], [[skills#Crafting|Crafting]], [[skills#Religion|Religion]], [[skills#Thievery|THievery]]]
+**Primary Skills:**  [[skills#Athletics|Athletics]], [[skills#Crafting|Crafting]], [[skills#Religion|Religion]], [[skills#Thievery|Thievery]]]
 **Secondary Skills:** [[skills#Perception|Perception]]
 
 ### Primary Skills
 **Athletics (DC 15, standard action, 1 success, no max):** The character realizes finesse is no trade for quick and effective physical labor. The character pounds nails, carries heavy objects, and uses brute strength shove invading zombies back through the doors.
 
-**Crafting** (DC 15, standard action, 1 success, no maximum): The character’s knowledge of stone and construction lets him or her see how the temple might best be fortified using the meager supplies available.
+**Crafting (DC 15, standard action, 1 success, no maximum):** The character’s knowledge of stone and construction lets him or her see how the temple might best be fortified using the meager supplies available.
 
 **Religion (DC 15, standard action, 1 success, no maximum):** The character offers a prayer to Waukeen, asking her to lend her strength to the characters’ endeavor and slow the tide of undead seeking to further desecrate her temple.
 
@@ -55,7 +56,7 @@ The characters can’t really fail here; otherwise, they would be overrun by zom
 > The Zombie-Proofing the Temple and Shoring Up the Defenses skill challenges are only peripherally concerned with the manual labor of fortifying the temple or repairing barricades. They’re mostly concerned with getting the temple barricaded or getting the defenses repaired before the zombies overwhelm the heroes. A primary skill check failure does not mean the character didn’t use the proper materials or flawless construction techniques. Rather, it represents bad timing: A zombie manages to squirm through a hole in the wall before the character can nail a board over it; a zombie slams through a door before the character can throw his weight against it. In addition, failing the skill challenge doesn’t mean the zombies overwhelm the heroes; it means the characters were less efficient than they could have been, and they had to fight more zombies as a result.
 
 ### Special 
-The skill challenge simulates the characters fighting off zombies while fortifying the temple’s defenses. Note that these two events happen simultaneously. On any round that the characters do not attempt at least one primary skill check, it counts as a failure and more zombies breach the characters’ defenses.
+The skill challenge simulates the characters fighting off zombies while fortifying the temple’s defenses. Note that these two events happen simultaneously. On any round that the characters do not attempt at least one primary skill check, it counts as a failure and more zombies breach the characters’ defenses.
 
 Tactics The zombie soldier remains close to a zombie rotter during combat, using protective strike to hamper the characters attacks against the zombie minions. The zombie rotters simply attack the closest character, flailing away with slam attacks.
 
