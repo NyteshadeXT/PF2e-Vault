@@ -299,8 +299,13 @@
         "currentAC": "23",
         "note": "Mordak",
         "path": "7) Players/Mordak.md",
+<<<<<<< Updated upstream
         "id": "ID_1838ebaa6948",
         "currentHP": 75,
+=======
+        "id": "ID_b8b9da281a2a",
+        "currentHP": 58,
+>>>>>>> Stashed changes
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -321,8 +326,13 @@
         "currentAC": "20",
         "note": "Cassandra",
         "path": "7) Players/Cassandra.md",
+<<<<<<< Updated upstream
         "id": "ID_2ac9fbd9e839",
         "currentHP": 48,
+=======
+        "id": "ID_c8ca88c94929",
+        "currentHP": 22,
+>>>>>>> Stashed changes
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -334,7 +344,11 @@
       },
       {
         "name": "Varas",
+<<<<<<< Updated upstream
         "initiative": 21,
+=======
+        "initiative": 17,
+>>>>>>> Stashed changes
         "static": false,
         "modifier": 11,
         "hp": 61,
@@ -343,8 +357,13 @@
         "currentAC": "22",
         "note": "Varas",
         "path": "7) Players/Varas.md",
+<<<<<<< Updated upstream
         "id": "ID_aaa8d9095ba9",
         "currentHP": 61,
+=======
+        "id": "ID_3a6ab80b18b9",
+        "currentHP": 42,
+>>>>>>> Stashed changes
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -356,7 +375,11 @@
       },
       {
         "name": "Winter",
+<<<<<<< Updated upstream
         "initiative": 14,
+=======
+        "initiative": 13,
+>>>>>>> Stashed changes
         "static": false,
         "modifier": 13,
         "hp": 53,
@@ -365,8 +388,13 @@
         "currentAC": "22",
         "note": "Winter",
         "path": "7) Players/Winter.md",
+<<<<<<< Updated upstream
         "id": "ID_2b5bdb980a39",
         "currentHP": 53,
+=======
+        "id": "ID_fa49ab5858b9",
+        "currentHP": 13,
+>>>>>>> Stashed changes
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -377,6 +405,7 @@
         "friendly": false
       },
       {
+<<<<<<< Updated upstream
         "name": "Goblin Warrior",
         "display": "Goblin Cutthroat",
         "initiative": 12,
@@ -453,6 +482,85 @@
         "status": [],
         "enabled": true,
         "level": "Creature 6",
+=======
+        "name": "Giant Whiptail Centipede",
+        "initiative": 25,
+        "static": false,
+        "modifier": 9,
+        "hp": 45,
+        "currentMaxHP": 45,
+        "ac": 19,
+        "currentAC": 19,
+        "note": "4) Bestiary/bestiary-2/giant-whiptail-centipede.md",
+        "id": "ID_eaca59685ad9",
+        "currentHP": 7,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": "Creature 3",
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Giant Whiptail Centipede",
+        "initiative": 19,
+        "static": false,
+        "modifier": 9,
+        "hp": 45,
+        "currentMaxHP": 45,
+        "ac": 19,
+        "currentAC": 19,
+        "note": "4) Bestiary/bestiary-2/giant-whiptail-centipede.md",
+        "id": "ID_b9d87808c87a",
+        "currentHP": 25,
+        "tempHP": 0,
+        "status": [
+          "PF-Persistent Damage"
+        ],
+        "enabled": true,
+        "level": "Creature 3",
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Giant Whiptail Centipede",
+        "initiative": 15,
+        "static": false,
+        "modifier": 9,
+        "hp": 45,
+        "currentMaxHP": 45,
+        "ac": 19,
+        "currentAC": 19,
+        "note": "4) Bestiary/bestiary-2/giant-whiptail-centipede.md",
+        "id": "ID_1aa808eaf858",
+        "currentHP": 45,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": "Creature 3",
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Black Pudding",
+        "initiative": 12,
+        "static": false,
+        "modifier": 9,
+        "hp": 165,
+        "currentMaxHP": 165,
+        "ac": 14,
+        "currentAC": 14,
+        "note": "4) Bestiary/bestiary-1/black-pudding.md",
+        "id": "ID_fbe8c95babaa",
+        "currentHP": 165,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": "Creature 7",
+>>>>>>> Stashed changes
         "active": false,
         "hidden": false,
         "friendly": false
