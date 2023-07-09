@@ -1,6 +1,6 @@
 # Ghostly Transcription
 #pf2e/focus_spell/level_4 #pf2e/school/illusion 
-==[Illusion](../../../rules/traits/illusion.md)== ==[Visual](../../../rules/traits/visual.md)==
+==[Illusion](rules/traits/illusion.md)== ==[Visual](rules/traits/visual.md)==
 *Source* Gods & Magic pg. 115 2.0
 **Domain** glyph
 **Cast** ►► material, somatic

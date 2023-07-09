@@ -1,6 +1,6 @@
 # Hurtling Stone
 #pf2e/focus_spell/level_1 #pf2e/class/cleric #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Attack](../../../rules/traits/attack.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Earth](../../../rules/traits/earth.md)== ==[Evocation](../../../rules/traits/evocation.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Attack](rules/traits/attack.md)== ==[Cleric](rules/traits/cleric.md)== ==[Earth](rules/traits/earth.md)== ==[Evocation](rules/traits/evocation.md)==
 *Source* Core Rulebook pg. 393 3.0
 **Domain** earth
 **Cast** ► somatic

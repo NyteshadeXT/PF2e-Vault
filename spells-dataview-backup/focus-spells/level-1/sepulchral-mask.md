@@ -1,6 +1,6 @@
 # Sepulchral Mask
 #pf2e/focus_spell/level_1 #pf2e/class/sorcerer #pf2e/school/divination 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Divination](../../../rules/traits/divination.md)== ==[Emotion](../../../rules/traits/emotion.md)== ==[Mental](../../../rules/traits/mental.md)== ==[Sorcerer](../../../rules/traits/sorcerer.md)== ==[Visual](../../../rules/traits/visual.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Divination](rules/traits/divination.md)== ==[Emotion](rules/traits/emotion.md)== ==[Mental](rules/traits/mental.md)== ==[Sorcerer](rules/traits/sorcerer.md)== ==[Visual](rules/traits/visual.md)==
 *Source* Advanced Player's Guide pg. 236 2.0
 **Bloodline** psychopomp
 **Cast** ►► somatic, verbal

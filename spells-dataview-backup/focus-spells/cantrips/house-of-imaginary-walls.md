@@ -1,6 +1,6 @@
 # House of Imaginary Walls
 #pf2e/focus_spell/cantrip_5 #pf2e/class/bard #pf2e/school/illusion 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Bard](../../../rules/traits/bard.md)== ==[Cantrip](../../../rules/traits/cantrip.md)== ==[Composition](../../../rules/traits/composition.md)== ==[Illusion](../../../rules/traits/illusion.md)== ==[Visual](../../../rules/traits/visual.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Bard](rules/traits/bard.md)== ==[Cantrip](rules/traits/cantrip.md)== ==[Composition](rules/traits/composition.md)== ==[Illusion](rules/traits/illusion.md)== ==[Visual](rules/traits/visual.md)==
 *Source* Core Rulebook pg. 386 3.0
 **Cast** ► somatic
 **Range** touch

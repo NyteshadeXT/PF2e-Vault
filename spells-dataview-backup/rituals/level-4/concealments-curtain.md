@@ -1,6 +1,6 @@
 # Concealment's Curtain
 #pf2e/ritual/level_4
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Curse](../../../rules/traits/curse.md)== ==[Divination](../../../rules/traits/divination.md)== ==[Mental](../../../rules/traits/mental.md)==
+==[Uncommon](rulesncommon.md)== ==[Curse](rules/traits/curse.md)== ==[Divination](rules/traits/divination.md)== ==[Mental](rules/traits/mental.md)==
 *Source* Secrets of Magic pg. 148 1.1
 **Cast** 6 days; **Cost** an ornate mirror worth at least 100 gp, naturally occurring round fruit the size and number of the target's eyes, and the same amount of flawless silver needles worth at least 1 gp each; **Secondary Casters** 3
 **Primary Check** Occultism; **Secondary Check** Arcana, Deception, Stealth

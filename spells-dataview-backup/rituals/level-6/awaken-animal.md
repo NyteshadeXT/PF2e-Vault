@@ -1,6 +1,6 @@
 # Awaken Animal
 #pf2e/ritual/level_6
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Divination](../../../rules/traits/divination.md)== ==[Mental](../../../rules/traits/mental.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Divination](rules/traits/divination.md)== ==[Mental](rules/traits/mental.md)==
 *Source* Core Rulebook pg. 409 3.0
 **Cast** 1 day; **Cost** herbs, 1/5 the value on Table; **Secondary Casters** 3
 **Primary Check** Nature (master); **Secondary Check** Lore (any), Society, Survival

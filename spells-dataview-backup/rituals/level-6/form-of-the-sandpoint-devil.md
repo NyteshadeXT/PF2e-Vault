@@ -1,6 +1,6 @@
 # Form of the Sandpoint Devil
 #pf2e/ritual/level_6 #pf2e/school/transmutation #pf2e/tradition/occult
-==[Rare](../../../rules/traits/rare.md)== ==[Evil](../../../rules/traits/evil.md)== ==[Polymorph](../../../rules/traits/polymorph.md)== ==[Transmutation](../../../rules/traits/transmutation.md)==
+==[Rare](rules ==[Evil](rulesorph](polymorph.md)== ==[Transmutation](rules/traits/transmutation.md)==
 *Source* Monsters of Myth pg. 83
 **Cast** 1 day; **Cost** igneous stones and gems worth 1,500 gp, bat wings, horse hooves, and at least one lizard; **Secondary Casters** 4
 **Primary Check** Religion (master); **Secondary Check** Arcana, Occultism, Religion

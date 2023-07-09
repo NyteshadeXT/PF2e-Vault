@@ -1,6 +1,6 @@
 # Eject Soul
 #pf2e/focus_spell/level_1 #pf2e/school/necromancy 
-==[Incapacitation](../../../rules/traits/incapacitation.md)== ==[Necromancy](../../../rules/traits/necromancy.md)==
+==[Incapacitation](rules/traits/incapacitation.md)== ==[Necromancy](rules/traits/necromancy.md)==
 *Source* Gods & Magic pg. 117 2.0
 **Domain** soul
 **Cast** ►► somatic, verbal

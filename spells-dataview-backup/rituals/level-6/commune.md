@@ -1,6 +1,6 @@
 # Commune
 #pf2e/ritual/level_6
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Divination](../../../rules/traits/divination.md)== ==[Prediction](../../../rules/traits/prediction.md)==
+==[Uncommon](rulesncommon.md)== ==[Divination](rules/traits/divination.md)== ==[Prediction](rules/traits/prediction.md)==
 *Source* Core Rulebook pg. 410 3.0
 **Cast** 1 day; **Cost** rare incense worth a total value of 150 gp; **Secondary Casters** 1
 **Primary Check** Occultism (master) or Religion (master); **Secondary Check** Occultism or Religion (whichever is used for the primary check)

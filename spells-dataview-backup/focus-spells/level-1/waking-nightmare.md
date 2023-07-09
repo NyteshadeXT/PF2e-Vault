@@ -1,6 +1,6 @@
 # Waking Nightmare
 #pf2e/focus_spell/level_1 #pf2e/class/cleric #pf2e/school/enchantment 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Emotion](../../../rules/traits/emotion.md)== ==[Enchantment](../../../rules/traits/enchantment.md)== ==[Fear](../../Arcane_Tradition/Level%201/Fear.md)== ==[Mental](../../../rules/traits/mental.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cleric](rules/traits/cleric.md)== ==[Emotion](rules/traits/emotion.md)== ==[Enchantment](rules/traits/enchantment.md)== ==[Fear](../../Arcane_Tradition/Level%201/Fear.md)== ==[Mental](rules/traits/mental.md)==
 *Source* Core Rulebook pg. 399 3.0
 **Domain** nightmares
 **Cast** ►► somatic, verbal

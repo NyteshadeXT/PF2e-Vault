@@ -1,6 +1,6 @@
 # Consuming Darkness
 #pf2e/focus_spell/level_5 #pf2e/class/sorcerer #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Shadow](../../../rules/traits/shadow.md)== ==[Sorcerer](../../../rules/traits/sorcerer.md)==
+==[Uncommon](rulesvocation](rules/traits/evocation.md)== ==[Shadow](rules/traits/shadow.md)== ==[Sorcerer](rules/traits/sorcerer.md)==
 *Source* Advanced Player's Guide pg. 235 2.0
 **Bloodline** shadow
 **Cast** ►► somatic, verbal

@@ -1,6 +1,6 @@
 # Control Weather
 #pf2e/ritual/level_8
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Evocation](../../../rules/traits/evocation.md)==
+==[Uncommon](rulesd)== ==[Evocation](rules/traits/evocation.md)==
 *Source* Core Rulebook pg. 411 3.0
 **Cast** 1 day; **Secondary Casters** 1
 **Primary Check** Nature (master); **Secondary Check** Survival

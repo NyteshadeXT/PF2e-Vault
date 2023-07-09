@@ -1,7 +1,7 @@
 # Litany against Sloth
 #pf2e/focus_spell/level_5 #pf2e/class/champion #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Champion](../../../rules/traits/champion.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Good](../../../rules/traits/good.md)== ==[Litany](../../../rules/traits/litany.md)==
-*Source* Core Rulebook pg. 388 3.0
+==[Uncommon](rulesncommon.md)== ==[Champion](ruleslitany.md)==
+*Source* Core Rulebchampion.md)== ==[Evocation](rules/traits/evocation.md)== ==[Good](rulesook pg. 388 3.0
 **Cast** ► verbal
 **Range** 30 feet; **Targets** 1 evil creature
 **Saving Throw** Will; **Duration** 1 round

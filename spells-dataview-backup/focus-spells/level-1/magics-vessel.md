@@ -1,6 +1,6 @@
 # Magic's Vessel
 #pf2e/focus_spell/level_1 #pf2e/class/cleric #pf2e/school/enchantment 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Enchantment](../../../rules/traits/enchantment.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cleric](rules/traits/cleric.md)== ==[Enchantment](rules/traits/enchantment.md)==
 *Source* Core Rulebook pg. 393 3.0
 **Domain** magic
 **Cast** ► somatic

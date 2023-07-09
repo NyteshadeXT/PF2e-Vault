@@ -1,6 +1,6 @@
 # Distortion Lens
 #pf2e/focus_spell/cantrip_1 #pf2e/class/psychic #pf2e/school/conjuration 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cantrip](../../../rules/traits/cantrip.md)== ==[Conjuration](../../../rules/traits/conjuration.md)== ==[Psychic](../../../Traits/Psychic.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cantrip](rules/traits/cantrip.md)== ==[Conjuration](rules/traits/conjuration.md)== ==[Psychic](../../../Traits/Psychic.md)==
 *Source* Dark Archive pg. 23
 **Cast** ► verbal
 **Range** 30 feet; **Area** one 5-foot square

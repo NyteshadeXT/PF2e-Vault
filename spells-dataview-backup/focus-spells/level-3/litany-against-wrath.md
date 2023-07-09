@@ -1,6 +1,6 @@
 # Litany Against Wrath
 #pf2e/focus_spell/level_3 #pf2e/class/champion #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Champion](../../../rules/traits/champion.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Good](../../../rules/traits/good.md)== ==[Litany](../../../rules/traits/litany.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Champion](rules/traits/champion.md)== ==[Evocation](rules/traits/evocation.md)== ==[Good](rules/traits/good.md)== ==[Litany](rules/traits/litany.md)==
 *Source* Core Rulebook pg. 388 3.0
 **Cast** ► verbal
 **Range** 30 feet; **Targets** 1 evil creature

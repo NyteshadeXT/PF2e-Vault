@@ -1,6 +1,6 @@
 # Waking Dream
 #pf2e/focus_spell/level_4 #pf2e/school/enchantment 
-==[Enchantment](../../../rules/traits/enchantment.md)== ==[Mental](../../../rules/traits/mental.md)==
+==[Enchantment](rules/traits/enchantment.md)== ==[Mental](rules/traits/mental.md)==
 *Source* Dark Archive pg. 207
 **Cast** ►► somatic, verbal
 **Range** 60 feet; **Targets** 1 creature

@@ -1,6 +1,6 @@
 # Create Demiplane
 #pf2e/ritual/level_8
-==[Rare](../../../rules/traits/rare.md)== ==[Conjuration](../../../rules/traits/conjuration.md)== ==[Teleportation](../../../rules/traits/teleportation.md)==
+==[Rare](rulesare.md)== ==[Conjuration](rules/traits/conjuration.md)== ==[Teleportation](rules/traits/teleportation.md)==
 *Source* Advanced Player's Guide pg. 241 2.0
 **Cast** 9 days; **Cost** precious materials worth a total value of 800 gp; **Secondary Casters** 3
 **Primary Check** Arcana, Nature, Occultism, or Religion (legendary); **Secondary Check** Arcana, Nature, Occultism, Religion (whichever three aren't used for the primary check)
@@ -27,7 +27,7 @@ If you have the original key to an existing demiplane and are on that demiplane,
 **Critical Success** You create a new demiplane whose area consists of two contiguous squares, each 100 feet on a side. The ceiling is 20 feet high. If modifying an existing demiplane, you can instead either add this area to the demiplane's size or add two special traits or features.
 **Success** As critical success, but the demiplane's area is a single square, 100 feet on a side and a ceiling 20 feet high. If modifying an existing demiplane, you can add one special trait or feature.
 **Failure** The ritual has no effect.
-**Critical Failure** Something goes horribly wrong, and all casters are teleported to an unknown but likely [Hostile](../../../Conditions/Hostile.md) plane.
+**Critical Failure** Something goes horribly wrong, and all casters are teleported to an unknown but likely [Hostile](rules../../Conditions/Hostile.md) plane.
 
 <hr>
 

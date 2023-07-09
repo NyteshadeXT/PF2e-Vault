@@ -1,6 +1,6 @@
 # Simulacrum
 #pf2e/ritual/level_4
-==[Rare](../../../rules/traits/rare.md)== ==[Illusion](../../../rules/traits/illusion.md)==
+==[Rare](rules/traits/rare.md)== ==[Illusion](rules/traits/illusion.md)==
 *Source* Advanced Player's Guide pg. 244 2.0
 **Cast** 1 day; **Cost** a piece of hair, drop of blood, or other part of the creature to be duplicated, plus rare oils, minerals, and pigments with a total value of 300 gp; **Secondary Casters** 3
 **Primary Check** Arcana or Occultism (master, the check has the secret trait); **Secondary Check** Arcana, Nature, Occultism, Religion, or Society (whichever is required to Recall Knowledge about the creature being duplicated); Crafting; Deception

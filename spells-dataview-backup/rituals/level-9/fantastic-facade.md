@@ -1,6 +1,6 @@
 # Fantastic Facade
 #pf2e/ritual/level_9
-==[Rare](../../../rules/traits/rare.md)== ==[Illusion](../../../rules/traits/illusion.md)==
+==[Rare](rules/traits/rare.md)== ==[Illusion](rules/traits/illusion.md)==
 *Source* Advanced Player's Guide pg. 241 2.0
 **Cast** 1 week; **Cost** mystical paint, elaborate veils, and powdered minerals worth 20,000 gp total; **Secondary Casters** 3
 **Primary Check** Arcana or Occultism (legendary); **Secondary Check** Society or Survival; Deception; Stealth
@@ -17,7 +17,7 @@ A creature that interacts with the target settlement in a way that would suggest
 **Critical Success** You create the facade as described, and you can alter the programs within your facade by spending 1 day to reprogram them.
 **Success** You create the facade as described.
 **Failure** Your illusions fail and the ritual has no effect.
-**Critical Failure** Your ritual produces unexpected and un[Controlled](../../../Conditions/Controlled.md) illusions different from what you had planned, such as unexpected and slowly shifting colors across the buildings, unpleasant smells, and creatures appearing as skeletons. These effects fade after 1 month.
+**Critical Failure** Your ritual produces unexpected and un[Controlled](rulesrules../Conditions/Controlled.md) illusions different from what you had planned, such as unexpected and slowly shifting colors across the buildings, unpleasant smells, and creatures appearing as skeletons. These effects fade after 1 month.
 
 <hr>
 

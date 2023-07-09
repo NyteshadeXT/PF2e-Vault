@@ -1,6 +1,6 @@
 # Elemental Toss
 #pf2e/focus_spell/level_1 #pf2e/class/sorcerer #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Attack](../../../rules/traits/attack.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Sorcerer](../../../rules/traits/sorcerer.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Attack](rules/traits/attack.md)== ==[Evocation](rules/traits/evocation.md)== ==[Sorcerer](rules/traits/sorcerer.md)==
 *Source* Core Rulebook pg. 404 3.0
 **Bloodline** elemental
 **Cast** ► somatic

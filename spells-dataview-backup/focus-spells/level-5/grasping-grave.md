@@ -1,6 +1,6 @@
 # Grasping Grave
 #pf2e/focus_spell/level_5 #pf2e/class/sorcerer #pf2e/school/necromancy 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Necromancy](../../../rules/traits/necromancy.md)== ==[Sorcerer](../../../rules/traits/sorcerer.md)==
+==[Uncommon](rulesncommon.md)== ==[Necromancy](rules/traits/necromancy.md)== ==[Sorcerer](rules/traits/sorcerer.md)==
 *Source* Core Rulebook pg. 404 3.0
 **Bloodline** undead
 **Cast** ►► somatic, verbal

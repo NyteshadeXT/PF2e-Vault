@@ -1,6 +1,6 @@
 # Shambling Horror
 #pf2e/focus_spell/level_6 #pf2e/school/necromancy 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Evil](../../../rules/traits/evil.md)== ==[Necromancy](../../../rules/traits/necromancy.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Evil](rules/traits/evil.md)== ==[Necromancy](rules/traits/necromancy.md)==
 *Source* Book of the Dead pg. 35
 **Cast** ►►► material, somatic, verbal
 **Range** touch; **Targets** 1 corpse of a Gargantuan or smaller creature that has a level no greater than your level – 4 and has died since the last sunrise

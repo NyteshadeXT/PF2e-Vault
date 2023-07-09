@@ -1,6 +1,6 @@
 # Tempest Surge
 #pf2e/focus_spell/level_1 #pf2e/class/druid  #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Air](../../../rules/traits/air.md)== ==[Druid](../../../rules/traits/druid.md)== ==[Electricity](../../../rules/traits/electricity.md)== ==[Evocation](../../../rules/traits/evocation.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Air](rules/traits/air.md)== ==[Druid](rules/traits/druid.md)== ==[Electricity](rules/traits/electricity.md)== ==[Evocation](rules/traits/evocation.md)==
 *Source* Core Rulebook pg. 400 3.0
 **Cast** ►► somatic, verbal
 **Range** 30 feet; **Targets** 1 creature

@@ -1,6 +1,6 @@
 # Tempest Form
 #pf2e/focus_spell/level_6 #pf2e/class/oracle #pf2e/school/transmutation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cursebound](../../../Traits/Cursebound.md)== ==[Oracle](../../../Traits/Oracle.md)== ==[Polymorph](../../../rules/traits/polymorph.md)== ==[Transmutation](../../../rules/traits/transmutation.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cursebound](../../../Traits/Cursebound.md)== ==[Oracle](../../../Traits/Oracle.md)== ==[Polymorph](rules/traits/polymorph.md)== ==[Transmutation](rules/traits/transmutation.md)==
 *Source* Advanced Player's Guide pg. 233 2.0
 **Mystery** tempest
 **Cast** ►► somatic, verbal

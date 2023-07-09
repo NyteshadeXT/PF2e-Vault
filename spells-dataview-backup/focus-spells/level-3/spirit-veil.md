@@ -1,6 +1,6 @@
 # Spirit Veil
 #pf2e/focus_spell/level_3 #pf2e/class/sorcerer #pf2e/school/illusion 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Illusion](../../../rules/traits/illusion.md)== ==[Sorcerer](../../../rules/traits/sorcerer.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Illusion](rules/traits/illusion.md)== ==[Sorcerer](rules/traits/sorcerer.md)==
 *Source* Advanced Player's Guide pg. 237 2.0
 **Bloodline** psychopomp
 **Cast** ►► somatic, verbal

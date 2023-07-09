@@ -1,6 +1,6 @@
 # Magic Warrior Transformation
 #pf2e/focus_spell/level_2
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Polymorph](../../../rules/traits/polymorph.md)== ==[Transmutation](../../../rules/traits/transmutation.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Polymorph](rules/traits/polymorph.md)== ==[Transmutation](rules/traits/transmutation.md)==
 *Source* World Guide pg. 95 2.0
 **Cast** ►► somatic, verbal
 **Duration** 1 minute

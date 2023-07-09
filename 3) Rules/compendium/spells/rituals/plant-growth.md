@@ -12,7 +12,7 @@ tags:
 aliases: ["Plant Growth"]
 ---
 # Plant Growth *Ritual 4*  
-[necromancy](../../../rules/traits/necromancy.md)  [plant](../../../rules/traits/plant.md)  [positive](../../../rules/traits/positive.md)  [uncommon](../../../rules/traits/uncommon.md)  
+[necromancy](rules/traits/necromancy.md)  [plant](rules/traits/plant.md)  [positive](rules/traits/positive.md)  [uncommon](rules/traits/uncommon.md)  
 
 - **Cast** 1 day
 - **Secondary Casters** 1

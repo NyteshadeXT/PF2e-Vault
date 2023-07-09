@@ -1,6 +1,6 @@
 # Over the Coals
 #pf2e/focus_spell/level_5 #pf2e/class/witch #pf2e/school/necromancy 
-==[Rare](../../../rules/traits/rare.md)== ==[Hex](../../../Traits/Hex.md)== ==[Mental](../../../rules/traits/mental.md)== ==[Necromancy](../../../rules/traits/necromancy.md)== ==[Witch](../../../Traits/Witch.md)==
+==[Rare](rulesare.md)== ==[Hex](../../../Traits/Hex.md)== ==[Mental](rules/traitrulesmental.md)== ==[Necromancy](s/necromancy.md)== ==[Witch](../../../Traits/Witch.md)==
 *Source* Dark Archive pg. 159
 **Lesson** lesson of bargains
 **Cast** ►► somatic, verbal

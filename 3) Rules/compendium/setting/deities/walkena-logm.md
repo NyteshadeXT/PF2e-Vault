@@ -14,12 +14,12 @@ tags:
 - trait/versatile-fire
 aliases: ["Walkena", "The Child-God"]
 ---
-# Walkena (The Child-God) *([LE](../../../rules/traits/lawful-evil-b1.md))*  
+# Walkena (The Child-God) *([LE](rules/traits/lawful-evil-b1.md))*  
 *Source: Lost Omens: Gods & Magic p. 130*  
 
 - **Category**: Mwangi Gods
 - **Anathema**: consort or trade with non-Mwangi peoples, defy Walkena's orders
-- **Follower Alignments**: [LN](../../../rules/traits/lawful-neutral-b1.md), [LE](../../../rules/traits/lawful-evil-b1.md)
+- **Follower Alignments**: [LN](rules/traits/lawful-neutral-b1.md), [LE](rules/traits/lawful-evil-b1.md)
 
 ## Devotee benefits
 
@@ -37,6 +37,6 @@ When casting the [avatar](../../spells/avatar.md) spell, a worshipper of Walkena
 title: [Avatar](../../../compendium/spells/avatar.md) of Walkena
 
 - **Speed**: Speed 60 feet, [air walk](../../../compendium/spells/air-walk.md)
-- **Melee**: [>](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") holy spear ([reach <20 feet>](../../../rules/traits/reach.md), [versatile <fire>](../../../rules/traits/versatile.md)), **Damage** `6d12+6` piercing
-- **Ranged**: [>](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") sunfire **Damage** `6d6+6` fire
+- **Melee**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") holy spear ([reach <20 feet>](rules/traits/reach.md), [versatile <fire>](rules/traits/versatile.md)), **Damage** `6d12+6` piercing
+- **Ranged**: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") sunfire **Damage** `6d6+6` fire
 ```

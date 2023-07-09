@@ -1,6 +1,6 @@
 # Safeguard Secret
 #pf2e/focus_spell/level_4 #pf2e/class/cleric #pf2e/school/abjuration 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Abjuration](../../../rules/traits/abjuration.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Mental](../../../rules/traits/mental.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Abjuration](rules/traits/abjuration.md)== ==[Cleric](rules/traits/cleric.md)== ==[Mental](rules/traits/mental.md)==
 *Source* Core Rulebook pg. 396 3.0
 **Domain** secrecy
 **Cast** 1 minute (somatic, verbal)

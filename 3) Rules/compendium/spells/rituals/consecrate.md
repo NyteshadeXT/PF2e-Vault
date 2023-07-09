@@ -11,7 +11,7 @@ tags:
 aliases: ["Consecrate"]
 ---
 # Consecrate *Ritual 2*  
-[consecration](../../../rules/traits/consecration.md)  [evocation](../../../rules/traits/evocation.md)  [uncommon](../../../rules/traits/uncommon.md)  
+[consecration](rules/traits/consecration.md)  [evocation](rules/traits/evocation.md)  [uncommon](rules/traits/uncommon.md)  
 
 - **Cast** 3 days
 - **Cost** rare incense and offerings worth a total value of 20 gp × the spell level

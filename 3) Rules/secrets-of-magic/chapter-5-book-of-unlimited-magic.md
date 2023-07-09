@@ -553,16 +553,16 @@ The following represent a number of different types of ley lines, each of which 
 
 ```ad-pf2-note
 title: Basic Ley Line * 2*
-[evocation](../../../rules/traits/evocation.md)  [rare](../../../rules/traits/rare.md)  
+[evocation](rules/traits/evocation.md)  [rare](rules/traits/rare.md)  
 
-Most ley lines are simply naturally occurring conduits of pure magical energy. Tapping into a basic ley line allows spellcasters to modify their spells. This ley line has the [arcane](../../../rules/traits/arcane.md), [divine](../../../rules/traits/divine.md), [occult](../../../rules/traits/occult.md), or [primal](../../../rules/traits/primal.md) trait as appropriate.
+Most ley lines are simply naturally occurring conduits of pure magical energy. Tapping into a basic ley line allows spellcasters to modify their spells. This ley line has the [arcane](rules/traits/arcane.md), [divine](rules/traits/divine.md), [occult](rules/traits/occult.md), or [primal](rules/traits/primal.md) trait as appropriate.
 
 > [!success-degree] 
 ```
 
 ```ad-pf2-note
 title: Energy Ley Line * 4*
-[evocation](../../../rules/traits/evocation.md)  [primal](../../../rules/traits/primal.md)  [rare](../../../rules/traits/rare.md)  
+[evocation](rules/traits/evocation.md)  [primal](rules/traits/primal.md)  [rare](rules/traits/rare.md)  
 
 Energy ley lines are attuned to a specific type of energy and enhance that energy's power. They might form where the power from an Inner Plane with immense energy (such as an Elemental Plane, the Positive Energy Plane, or the Negative Energy Plane) seeps across a planar boundary. An energy ley line can be attuned to acid, cold, electricity, fire, force, positive, negative, or sonic energy and gains the respective trait for that energy. Higher-level energy ley lines can deal greater persistent damage on the benefit and greater damage on the backlash, usually `1d8` per 4 levels.
 
@@ -571,7 +571,7 @@ Energy ley lines are attuned to a specific type of energy and enhance that energ
 
 ```ad-pf2-note
 title: Focused Ley Line * 10*
-[arcane](../../../rules/traits/arcane.md)  [divine](../../../rules/traits/divine.md)  [evocation](../../../rules/traits/evocation.md)  [occult](../../../rules/traits/occult.md)  [primal](../../../rules/traits/primal.md)  [rare](../../../rules/traits/rare.md)  
+[arcane](rules/traits/arcane.md)  [divine](rules/traits/divine.md)  [evocation](rules/traits/evocation.md)  [occult](rules/traits/occult.md)  [primal](rulesrimal.md)  [rare](rules/traits/rare.md)  
 
 Focused ley lines are concentrated points of magical energy which are even more potent than other ley lines. These ley lines allow users to realign their magical connections almost immediately. Higher-level focused ley lines allow users to gain their benefits more times in a single day.
 
@@ -580,7 +580,7 @@ Focused ley lines are concentrated points of magical energy which are even more 
 
 ```ad-pf2-note
 title: Haunted Ley Line * 12*
-[divine](../../../rules/traits/divine.md)  [necromancy](../../../rules/traits/necromancy.md)  [occult](../../../rules/traits/occult.md)  [rare](../../../rules/traits/rare.md)  
+[divine](rules/traits/divine.md)  [necromancy](rules/traits/necromancy.md)  [occult](rules/traits/occult.md)  [rare](rules/traits/rare.md)  
 
 Some ley lines form at sites of significant death. This results in haunted ley lines, which allow those who tap into them to blur the line between life and death. More powerful haunted ley lines grant the benefits of a higher-level [blink](../../../compendium/spells/blink.md) spell.
 
@@ -589,7 +589,7 @@ Some ley lines form at sites of significant death. This results in haunted ley l
 
 ```ad-pf2-note
 title: Specialized Ley Line * 14*
-[arcane](../../../rules/traits/arcane.md)  [rare](../../../rules/traits/rare.md)  
+[arcane](rules/traits/arcane.md)  [rare](rules/traits/rare.md)  
 
 Specialized ley lines empower specific types of magic. They most commonly come about where a practitioner of a particular type of magic has utilized their magical arts repeatedly, such as at locations of magical academies. Each specialized ley line is attuned to a specific school of magic and gains that school's trait. More powerful ones can heighten a spell multiple levels at once.
 
@@ -605,7 +605,7 @@ Those who build a stronghold on a ley line might use rituals to increase their a
 title: Empower Ley Line
 collapse: closed
 # Empower Ley Line *Ritual 7*  
-[evocation](../../../rules/traits/evocation.md)  [rare](../../../rules/traits/rare.md)  
+[evocation](rules/traits/evocation.md)  [rare](rules/traits/rare.md)  
 
 - **Cast** 1 day
 - **Cost** magical foci worth a total value of 50 gp × the spell level × the target's level
@@ -615,7 +615,7 @@ collapse: closed
 - **Range**10 feet
 - **Targets**1 ley line or ley line node up to double this ritual's level
 
-You draw upon surrounding magical energy to empower a ley line, enhancing both its [positive](../../../rules/traits/positive.md) and [negative](../../../rules/traits/negative.md) effects.
+You draw upon surrounding magical energy to empower a ley line, enhancing both its [positive](rules/traits/positive.md) and [negative](rules/traits/negative.md) effects.
 
 The duration of an empowered ley line's benefits increases: when you successfully Tap a Ley Line that's empowered, you gain its benefits until the end of your next turn on a success (1 minute on a critical success)
 
@@ -634,7 +634,7 @@ You take double the damage if you fail to Tap a Ley Line that's empowered and do
 title: Establish Nexus
 collapse: closed
 # Establish Nexus *Ritual 5*  
-[consecration](../../../rules/traits/consecration.md)  [rare](../../../rules/traits/rare.md)  [transmutation](../../../rules/traits/transmutation.md)  
+[consecration](rules/traits/consecration.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
 
 - **Cast** 1 day
 - **Cost** magical foci worth 100 gp × the spell level × the node's level
@@ -1004,12 +1004,12 @@ Shadow familiars use these additional familiar abilities. A shadowcaster, howeve
 **Shadow Step:** Your familiar gains the Shadow Step action. You must be at least 7th level to select this familiar ability for your familiar.
 
 ```ad-embed-ability
-title: Shadow Step [>](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[conjuration](../../../rules/traits/conjuration.md)  [shadow](../../../rules/traits/shadow.md)  [teleportation](../../../rules/traits/teleportation.md)  
+title: Shadow Step [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+[conjuration](rules/traits/conjuration.md)  [shadow](rules/traits/shadow.md)  [teleportation](rules/traits/teleportation.md)  
 
 - **Requirements**: The familiar is in dim light or darkness.
 
-**Effect** The familiar teleports itself up to 30 feet. The destination must be in dim light or darkness and must be within your familiar's line of sight and line of effect. This action has the trait matching your tradition of magic, or [occult](../../../rules/traits/occult.md) if you aren't a spellcaster.  
+**Effect** The familiar teleports itself up to 30 feet. The destination must be in dim light or darkness and must be within your familiar's line of sight and line of effect. This action has the trait matching your tradition of magic, or [occult](rules/traits/occult.md) if you aren't a spellcaster.  
 %% #trait/conjuration #trait/shadow #trait/teleportation %%
 ```
 
@@ -1259,7 +1259,7 @@ Sometimes the GM doesn't have time to create a library or use the research subsy
 title: Learn Name
 collapse: closed
 # Learn Name
-[downtime](../../../rules/traits/downtime.md)  [rare](../../../rules/traits/rare.md)  [secret](../../../rules/traits/secret.md)  
+[downtime](rules/traits/downtime.md)  [rare](rules/traits/rare.md)  [secret](rules/traits/secret.md)  
 *Source: Secrets of Magic p. 245*  
 
 

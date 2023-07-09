@@ -1,6 +1,6 @@
 # Purify Soul Path
 #pf2e/ritual/level_2
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Abjuration](../../../rules/traits/abjuration.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Abjuration](rules/traits/abjuration.md)==
 *Source* Secrets of Magic pg. 234 1.1
 **Cast** 1 day; **Cost** rare incense and offering worth a total value of 10 gp × your level
 **Primary Check** Religion (trained)

@@ -1,6 +1,6 @@
 # Shadow Illusion
 #pf2e/focus_spell/level_6 #pf2e/school/illusion 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Auditory](../../../rules/traits/auditory.md)== ==[Illusion](../../../rules/traits/illusion.md)== ==[Shadow](../../../rules/traits/shadow.md)== ==[Visual](../../../rules/traits/visual.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Auditory](rules/traits/auditory.md)== ==[Illusion](rules/traits/illusion.md)== ==[Shadow](rules/traits/shadow.md)== ==[Visual](rules/traits/visual.md)==
 *Source* Advanced Player's Guide pg. 193 2.0
 **Cast** ►► somatic, verbal
 **Range** 500 feet

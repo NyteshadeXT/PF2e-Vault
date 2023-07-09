@@ -1,6 +1,6 @@
 # Nudge Fate
 #pf2e/focus_spell/cantrip_1 #pf2e/class/witch #pf2e/school/divination 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cantrip](../../../rules/traits/cantrip.md)== ==[Divination](../../../rules/traits/divination.md)== ==[Hex](../../../Traits/Hex.md)== ==[Witch](../../../Traits/Witch.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cantrip](rules/traits/cantrip.md)== ==[Divination](rules/traits/divination.md)== ==[Hex](../../../Traits/Hex.md)== ==[Witch](../../../Traits/Witch.md)==
 *Source* Advanced Player's Guide pg. 239 2.0
 **Patron Theme** fate
 **Cast** ► verbal

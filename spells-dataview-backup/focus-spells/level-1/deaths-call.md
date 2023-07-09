@@ -1,6 +1,6 @@
 # Death's Call
 #pf2e/focus_spell/level_1 #pf2e/class/cleric #pf2e/school/necromancy 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Necromancy](../../../rules/traits/necromancy.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cleric](rules/traits/cleric.md)== ==[Necromancy](rules/traits/necromancy.md)==
 *Source* Core Rulebook pg. 391 3.0
 **Domain** death
 **Cast** ◄ verbal; **Trigger** A living creature within 20 feet of you dies, or an undead creature within 20 feet of you is destroyed.

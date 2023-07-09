@@ -1,6 +1,6 @@
 # Eyes of the Dead
 #pf2e/focus_spell/level_3 #pf2e/school/divination 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Divination](../../../rules/traits/divination.md)== ==[Mental](../../../rules/traits/mental.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Divination](rules/traits/divination.md)== ==[Mental](rules/traits/mental.md)==
 *Source* Book of the Dead pg. 35
 **Cast** ►►► material, somatic, verbal
 **Range** 1 mile; **Targets** one undead creature under your control

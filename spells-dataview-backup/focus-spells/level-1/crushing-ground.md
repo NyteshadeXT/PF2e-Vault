@@ -1,6 +1,6 @@
 # Crushing Ground
 #pf2e/focus_spell/level_1 #pf2e/class/druid #pf2e/school/transmutation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Druid](../../../rules/traits/druid.md)== ==[Earth](../../../rules/traits/earth.md)== ==[Transmutation](../../../rules/traits/transmutation.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Druid](rules/traits/druid.md)== ==[Earth](rules/traits/earth.md)== ==[Transmutation](rules/traits/transmutation.md)==
 *Source* Secrets of Magic pg. 200 1.1
 **Cast** ►► somatic, verbal
 **Range** 60 feet; **Targets** 1 creature

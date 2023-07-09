@@ -1,6 +1,6 @@
 # Magic Warrior Aspect
 #pf2e/focus_spell/level_2
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Morph](../../../rules/traits/morph.md)== ==[Transmutation](../../../rules/traits/transmutation.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Morph](rules/traits/morph.md)== ==[Transmutation](rules/traits/transmutation.md)==
 *Source* World Guide pg. 95 2.0
 **Cast** ►► somatic, verbal
 **Duration** 5 minutes

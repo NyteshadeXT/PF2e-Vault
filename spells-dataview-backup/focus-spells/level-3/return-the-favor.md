@@ -1,6 +1,6 @@
 # Return the Favor
 #pf2e/focus_spell/level_3 #pf2e/class/witch #pf2e/school/necromancy 
-==[Rare](../../../rules/traits/rare.md)== ==[Hex](../../../Traits/Hex.md)== ==[Necromancy](../../../rules/traits/necromancy.md)== ==[Witch](../../../Traits/Witch.md)==
+==[Rare](rules/traits/rare.md)== ==[Hex](../../../Traits/Hex.md)== ==[Necromancy](rules/traits/necromancy.md)== ==[Witch](../../../Traits/Witch.md)==
 *Source* Dark Archive pg. 159
 **Lesson** lesson of favors
 **Cast** ◄ somatic; **Trigger** An ally uses a reaction to grant you a beneficial effect during a combat encounter

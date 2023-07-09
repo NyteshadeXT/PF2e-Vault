@@ -1,6 +1,6 @@
 # Telekinetic Rend
 #pf2e/focus_spell/cantrip_1 #pf2e/class/psychic #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cantrip](../../../rules/traits/cantrip.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Psychic](../../../Traits/Psychic.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cantrip](rules/traits/cantrip.md)== ==[Evocation](rules/traits/evocation.md)== ==[Psychic](../../../Traits/Psychic.md)==
 *Source* Dark Archive pg. 17
 **Cast** ►► somatic, verbal
 **Range** 60 feet; **Area** 2 non-overlapping 5-foot bursts

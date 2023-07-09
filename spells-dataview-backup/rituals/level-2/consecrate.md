@@ -1,6 +1,6 @@
 # Consecrate
 #pf2e/ritual/level_2
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[consecration](../../../rules/traits/consecration.md)== ==[Evocation](../../../rules/traits/evocation.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[consecration](rules/traits/consecration.md)== ==[Evocation](rules/traits/evocation.md)==
 *Source* Core Rulebook pg. 410 3.0
 **Cast** 3 days; **Cost** rare incense and offerings worth a total value of 20 gp × the spell level; **Secondary Casters** 2, must be worshippers of your religion
 **Primary Check** Religion; **Secondary Check** Crafting, Performance
@@ -17,4 +17,4 @@ You consecrate a site to your deity, chanting praises and creating a sacred spac
 
 <hr>
 
-**Heightened (7th)** The consecrated area also gains the effects of the [Dimensional Lock](../../Arcane_Tradition/Level%207/Dimensional%20Lock.md) spell, but the effect doesn’t attempt to [counteract](../../../Rules/Counteracting.md) teleportation by worshippers of your deity. The cost increases to 200 gp × the spell level.
+**Heightened (7th)** The consecrated area also gains the effects of the [Dimensional Lock](../../Arcane_Tradition/Level%207/Dimensional%20Lock.md) spell, but the effect doesn’t attempt to [counteract](rules/Counteracting.md) teleportation by worshippers of your deity. The cost increases to 200 gp × the spell level.

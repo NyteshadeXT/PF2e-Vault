@@ -1,6 +1,6 @@
 # Lift Nature's Caul
 #pf2e/focus_spell/level_1 #pf2e/school/illusion 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Fear](../../Arcane_Tradition/Level%201/Fear.md)== ==[Illusion](../../../rules/traits/illusion.md)== ==[Visual](../../../rules/traits/visual.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Fear](../../Arcane_Tradition/Level%201/Fear.md)== ==[Illusion](rules/traits/illusion.md)== ==[Visual](rules/traits/visual.md)==
 *Source* Pathfinder Release 165: Eyes of Empty Death pg. 65
 **Domain** abomination
 **Cast** ►► somatic, verbal

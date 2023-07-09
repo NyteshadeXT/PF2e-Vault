@@ -1,6 +1,6 @@
 # Angelic Wings
 #pf2e/focus_spell/level_3 #pf2e/class/sorcerer #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[1 TTRPG/PF2e Wiki/Traits/Light](1%20TTRPG/PF2e%20Wiki/Traits/Light)== ==[Sorcerer](../../../rules/traits/sorcerer.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Evocation](rules/traits/evocation.md)== ==[1 TTRPG/PF2e Wiki/Traits/Light](1%20TTRPG/PF2e%20Wiki/Traits/Light)== ==[Sorcerer](rules/traits/sorcerer.md)==
 *Source* Core Rulebook pg. 403 3.0
 **Bloodline** angelic
 **Cast** ►► somatic, verbal

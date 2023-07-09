@@ -1,6 +1,6 @@
 # Life Link
 #pf2e/focus_spell/level_1 #pf2e/class/oracle #pf2e/school/necromancy 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cursebound](../../../Traits/Cursebound.md)== ==[Healing](../../../rules/traits/healing.md)== ==[Necromancy](../../../rules/traits/necromancy.md)== ==[Oracle](../../../Traits/Oracle.md)== ==[Positive](../../../rules/traits/positive.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cursebound](../../../Traits/Cursebound.md)== ==[Healing](rules/traits/healing.md)== ==[Necromancy](rules/traits/necromancy.md)== ==[Oracle](../../../Traits/Oracle.md)== ==[Positive](rules/traits/positive.md)==
 *Source* Advanced Player's Guide pg. 232 2.0
 **Mystery** life
 **Cast** ► somatic

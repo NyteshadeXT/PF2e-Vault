@@ -1,6 +1,6 @@
 # Embrace the Pit
 #pf2e/focus_spell/level_3 #pf2e/class/sorcerer #pf2e/school/transmutation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Evil](../../../rules/traits/evil.md)== ==[Morph](../../../rules/traits/morph.md)== ==[Sorcerer](../../../rules/traits/sorcerer.md)== ==[Transmutation](../../../rules/traits/transmutation.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Evil](rules/traits/evil.md)== ==[Morph](rules/traits/morph.md)== ==[Sorcerer](rules/traits/sorcerer.md)== ==[Transmutation](rules/traits/transmutation.md)==
 *Source* Core Rulebook pg. 404 3.0
 **Bloodline** diabolic
 **Cast** ► verbal

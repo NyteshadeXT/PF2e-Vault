@@ -1,6 +1,6 @@
 # Mantis Form
 #pf2e/focus_spell/level_4 #pf2e/school/transmutation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Polymorph](../../../rules/traits/polymorph.md)== ==[Transmutation](../../../rules/traits/transmutation.md)==
+==[Uncommon](rulesncommon.md)== ==[Polymorph](rules.md)== ==[Transmutation](rules/traits/transmutation.md)==
 *Source* World Guide pg. 71 2.0
 **Cast** ►► somatic, verbal
 **Duration** 1 minute

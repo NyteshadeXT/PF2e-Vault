@@ -1,6 +1,6 @@
 # Zeal for Battle
 #pf2e/focus_spell/level_4 #pf2e/class/cleric #pf2e/school/enchantment 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Emotion](../../../rules/traits/emotion.md)== ==[Enchantment](../../../rules/traits/enchantment.md)== ==[Fortune](../../../rules/traits/fortune.md)== ==[Mental](../../../rules/traits/mental.md)==
+==[Uncommon](rulesncommon.md)== ==[Cleric](rulescleric.md)== ==[Emotion](rules/traits/emotion.md)== ==[Enchantment](rules/traits/enchantment.md)== ==[Fortune](rules/traits/fortune.md)== ==[Mental](rules/traits/mental.md)==
 *Source* Core Rulebook pg. 399 3.0
 **Domain** zeal
 **Cast** ◄ verbal; **Trigger** You and at least 1 ally are about to roll initiative.

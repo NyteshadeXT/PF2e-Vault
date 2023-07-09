@@ -1,6 +1,6 @@
 # Extend Boost
 #pf2e/focus_spell/level_1 #pf2e/class/summoner #pf2e/school/divination 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Divination](../../../rules/traits/divination.md)== ==[Metamagic](../../../rules/traits/metamagic.md)== ==[Summoner](../../../Traits/Summoner.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Divination](rules/traits/divination.md)== ==[Metamagic](rules/traits/metamagic.md)== ==[Summoner](../../../Traits/Summoner.md)==
 *Source* Secrets of Magic pg. 145 1.1
 **Cast** ▬ verbal
 

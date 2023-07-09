@@ -1,6 +1,6 @@
 # Animate Object
 #pf2e/ritual/level_2
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Transmutation](../../../rules/traits/transmutation.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Transmutation](rules/traits/transmutation.md)==
 *Source* Core Rulebook pg. 409 3.0
 **Cast** 1 day; **Cost** rare oils, see Table; **Secondary Casters** 1
 **Primary Check** Arcana (expert); **Secondary Check** Crafting

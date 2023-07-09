@@ -1,6 +1,6 @@
 # Veil of Dreams
 #pf2e/focus_spell/level_1 #pf2e/class/witch #pf2e/school/enchantment 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Enchantment](../../../rules/traits/enchantment.md)== ==[Hex](../../../Traits/Hex.md)== ==[Mental](../../../rules/traits/mental.md)== ==[Witch](../../../Traits/Witch.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Enchantment](rules/traits/enchantment.md)== ==[Hex](../../../Traits/Hex.md)== ==[Mental](rules/traits/mental.md)== ==[Witch](../../../Traits/Witch.md)==
 *Source* Advanced Player's Guide pg. 239 2.0
 **Lesson** lesson of dreams
 **Cast** ► somatic

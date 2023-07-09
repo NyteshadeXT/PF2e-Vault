@@ -1,6 +1,6 @@
 # Soothing Mist
 #pf2e/focus_spell/level_2
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Healing](../../../rules/traits/healing.md)== ==[Necromancy](../../../rules/traits/necromancy.md)== ==[Positive](../../../rules/traits/positive.md)== ==[Ranger](../../../rules/traits/ranger.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Healing](rules/traits/healing.md)== ==[Necromancy](rules/traits/necromancy.md)== ==[Positive](rules/traits/positive.md)== ==[Ranger](rules/traits/ranger.md)==
 *Source* Advanced Player's Guide pg. 235 2.0
 **Cast** ►► somatic, verbal
 **Range** 30 feet; **Targets** 1 willing living creature or 1 undead creature

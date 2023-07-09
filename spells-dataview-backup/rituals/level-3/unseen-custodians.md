@@ -1,6 +1,6 @@
 # Unseen Custodians
 #pf2e/ritual/level_3
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Conjuration](../../../rules/traits/conjuration.md)==
+==[Uncommon](rulesncommon.md)== ==[Conjuration](rulesconjuration.md)==
 *Source* Advanced Player's Guide pg. 245 2.0
 **Cast** 1 day; **Cost** rare oils, salts, and herbs worth a total value of 15 gp; **Secondary Casters** 2
 **Primary Check** Arcana or Occultism (expert); **Secondary Check** Arcana or Occultism (whichever isn't used for the primary check), Diplomacy

@@ -1,6 +1,6 @@
 # Waters of Prediction
 #pf2e/ritual/level_5
-==[Rare](../../../rules/traits/rare.md)== ==[Divination](../../../rules/traits/divination.md)==
+==[Rare](rulesare.md)== ==[Divination](rules/traits/divination.md)==
 *Source* The Waters of Stone Ring Pond pg. 0
 **Cast** 4 hours; **Cost** rare incense and herbs worth a total value of 300 gp; **Secondary Casters** 3
 **Primary Check** Nature or Religion (master, the check has the secret trait); **Secondary Check** Nature, Occultism, Religion, or Survival

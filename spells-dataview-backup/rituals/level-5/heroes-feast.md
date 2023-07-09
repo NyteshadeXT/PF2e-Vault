@@ -1,6 +1,6 @@
 # Heroes' Feast
 #pf2e/ritual/level_5
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Conjuration](../../../rules/traits/conjuration.md)==
+==[Uncommon](rulesncommon.md)== ==[Conjuration](rules/traits/conjuration.md)==
 *Source* Advanced Player's Guide pg. 242 2.0
 **Cast** 4 hours; **Cost** 25 gp; **Secondary Casters** 1
 **Primary Check** Nature, Religion, or Occultism (expert); **Secondary Check** Diplomacy or Society
@@ -11,7 +11,7 @@ You conjure otherworldly beings to serve you and your companions a feast with re
 
 The summoned servants spend the next 3 hours waiting on you and the other guests, fetching additional food, pouring drinks, and so forth. During this time, you and the other guests must strive to be as polite and gracious as possible to avoid offending your mysterious hosts. At the feast's end, the ritual is completed and you and the secondary caster attempt your checks as normal. If the feast is interrupted at any point, the servants immediately vanish with their provisions and the ritual is disrupted.
 
-**Critical Success** The feast is nourishing and revitalizing. The magical food casts neutralize poison, remove disease, and remove fear on each guest for each relevant affliction, using your modifier for the primary skill check as the [counteract](../../../Rules/Counteracting.md) modifier. Each guest also recovers 100 Hit Points and gains 20 temporary Hit Points for the next 12 hours. Guests also gain a +2 status bonus to saves against disease, fear, and poison effects for the next 12 hours.
+**Critical Success** The feast is nourishing and revitalizing. The magical food casts neutralize poison, remove disease, and remove fear on each guest for each relevant affliction, using your modifier for the primary skill check as the [counteract](rules/Counteracting.md) modifier. Each guest also recovers 100 Hit Points and gains 20 temporary Hit Points for the next 12 hours. Guests also gain a +2 status bonus to saves against disease, fear, and poison effects for the next 12 hours.
 
 **Success** As critical success, except guests recover only 50 Hit Points, gain only 10 temporary Hit Points, and don't gain the status bonus to saves.
 

@@ -156,4 +156,4 @@ aliases: ["Core Rulebook"]
 - [Weapons](chapter-11-crafting-treasure.md#Weapons)
 - [Worn Items](chapter-11-crafting-treasure.md#Worn%20Items)
 
-**[Appendix A: Conditions Appendix](../../../rules/core-rulebook/appendix-a-conditions-appendix.md)**
+**[Appendix A: Conditions Appendix](rules/core-rulebook/appendix-a-conditions-appendix.md)**

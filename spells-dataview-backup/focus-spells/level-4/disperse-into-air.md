@@ -1,6 +1,6 @@
 # Disperse into Air
 #pf2e/focus_spell/level_4 #pf2e/class/cleric #pf2e/school/transmutation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Air](../../../rules/traits/air.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Polymorph](../../../rules/traits/polymorph.md)== ==[Transmutation](../../../rules/traits/transmutation.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Air](rules/traits/air.md)== ==[Cleric](rules/traits/cleric.md)== ==[Polymorph](rules/traits/polymorph.md)== ==[Transmutation](rules/traits/transmutation.md)==
 *Source* Core Rulebook pg. 391 3.0
 **Domain** air
 **Cast** ◄ somatic; **Trigger** You take damage from an enemy or a hazard.

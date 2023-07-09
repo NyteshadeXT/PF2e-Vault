@@ -1,6 +1,6 @@
 # Awaken Object
 #pf2e/ritual/level_6
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Divination](../../../rules/traits/divination.md)== ==[Mental](../../../rules/traits/mental.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Divination](rules/traits/divination.md)== ==[Mental](rules/traits/mental.md)==
 *Source* Secrets of Magic pg. 147 1.1
 **Cast** 1 day; **Cost** crushed gems and spices worth 250 gp; **Secondary Casters** 2
 **Primary Check** Arcana (expert) or Occultism (expert); **Secondary Check** Crafting, Arcana or Occultism (whichever isn't used for the primary check)

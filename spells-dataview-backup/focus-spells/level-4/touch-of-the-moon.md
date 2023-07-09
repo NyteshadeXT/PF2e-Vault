@@ -1,6 +1,6 @@
 # Touch of the Moon
 #pf2e/focus_spell/level_4 #pf2e/class/cleric #pf2e/school/enchantment 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Enchantment](../../../rules/traits/enchantment.md)== ==[1 TTRPG/PF2e Wiki/Traits/Light](1%20TTRPG/PF2e%20Wiki/Traits/Light)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cleric](rules/traits/cleric.md)== ==[Enchantment](rules/traits/enchantment.md)== ==[1 TTRPG/PF2e Wiki/Traits/Light](1%20TTRPG/PF2e%20Wiki/Traits/Light)==
 *Source* Core Rulebook pg. 398 3.0
 **Domain** moon
 **Cast** ► somatic

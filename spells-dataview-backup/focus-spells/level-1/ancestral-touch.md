@@ -1,6 +1,6 @@
 # Ancestral Touch
 #pf2e/focus_spell/level_1 #pf2e/class/oracle #pf2e/school/enchantment 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cursebound](../../../Traits/Cursebound.md)== ==[Emotion](../../../rules/traits/emotion.md)== ==[Enchantment](../../../rules/traits/enchantment.md)== ==[Fear](../../Arcane_Tradition/Level%201/Fear.md)== ==[Mental](../../../rules/traits/mental.md)== ==[Oracle](../../../Traits/Oracle.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cursebound](../../../Traits/Cursebound.md)== ==[Emotion](rules/traits/emotion.md)== ==[Enchantment](rules/traits/enchantment.md)== ==[Fear](../../Arcane_Tradition/Level%201/Fear.md)== ==[Mental](rules/traits/mental.md)== ==[Oracle](../../../Traits/Oracle.md)==
 *Source* Advanced Player's Guide pg. 230 2.0
 **Mystery** ancestors
 **Cast** ► somatic

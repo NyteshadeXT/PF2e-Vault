@@ -1,4 +1,0 @@
-[[Chendera.png|Show Players]]
-![[Chendera.png]]
-
-Short for a half-elf, with striking , long black hair, Chendera sees to the outer bailey's spiritual health.  She spends much time at the Stumbling Giant, and is usually found there or in the chapel.  She sees Lord Drysdale as an intruder and conqueror who is no better than the Blades.  She is the one responsible for spreading rumors of forced conversions to the worship of Helm.  She and the other faithful of Tymora have dubbed Drysdale and his followers "empire builders," more intent on their unfeasible crusades than in managing the day-to-day needs of the keep.

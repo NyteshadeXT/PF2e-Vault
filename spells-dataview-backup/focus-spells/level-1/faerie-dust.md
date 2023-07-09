@@ -1,6 +1,6 @@
 # Faerie Dust
 #pf2e/focus_spell/level_1 #pf2e/class/sorcerer #pf2e/school/enchantment 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Enchantment](../../../rules/traits/enchantment.md)== ==[Mental](../../../rules/traits/mental.md)== ==[Sorcerer](../../../rules/traits/sorcerer.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Enchantment](rules/traits/enchantment.md)== ==[Mental](rules/traits/mental.md)== ==[Sorcerer](rules/traits/sorcerer.md)==
 *Source* Core Rulebook pg. 404 3.0
 **Bloodline** fey
 **Cast** ► or more (somatic, verbal)

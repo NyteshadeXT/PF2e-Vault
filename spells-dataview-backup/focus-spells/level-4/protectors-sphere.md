@@ -1,6 +1,6 @@
 # Protector's Sphere
 #pf2e/focus_spell/level_4 #pf2e/class/cleric #pf2e/school/abjuration 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Abjuration](../../../rules/traits/abjuration.md)== ==[Aura](../../../rules/traits/aura.md)== ==[Cleric](../../../rules/traits/cleric.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Abjuration](rules/traits/abjuration.md)== ==[Aura](rules/traits/aura.md)== ==[Cleric](rules/traits/cleric.md)==
 *Source* Core Rulebook pg. 395 3.0
 **Domain** protection
 **Cast** ►► somatic, verbal

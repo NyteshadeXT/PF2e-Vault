@@ -1,6 +1,6 @@
 # Wind Jump
 #pf2e/focus_spell/level_5 #pf2e/class/monk #pf2e/school/transmutation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Air](../../../rules/traits/air.md)== ==[Monk](../../../rules/traits/monk.md)== ==[Transmutation](../../../rules/traits/transmutation.md)==
+==[Uncommon](rulesncommon.md)== ==[Air](rulesrulerulesair.md)== ==[Monk](s/monk.md)== ==[Transmutation](rulesransmutation.md)==
 *Source* Core Rulebook pg. 402 3.0
 **Cast** ► verbal
 **Duration** 1 minute

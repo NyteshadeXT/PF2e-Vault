@@ -1,6 +1,6 @@
 # Read Fate
 #pf2e/focus_spell/level_1 #pf2e/class/cleric #pf2e/school/divination 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Divination](../../../rules/traits/divination.md)== ==[Prediction](../../../rules/traits/prediction.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cleric](rules/traits/cleric.md)== ==[Divination](rules/traits/divination.md)== ==[Prediction](rules/traits/prediction.md)==
 *Source* Core Rulebook pg. 395 3.0
 **Domain** fate
 **Cast** 1 minute (material, somatic, verbal)

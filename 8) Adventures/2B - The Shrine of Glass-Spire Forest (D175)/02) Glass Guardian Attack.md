@@ -8,7 +8,7 @@ Creatures:
  - 2: [[glass-guardian-nestling|Glass Guardian Nestling]]
 
 ```encounter
-name: test encounter 
+name: Glass Guardian Attack
 party: Chaos Scar
 creatures:
 - 1: [[Glass Guardian]] 

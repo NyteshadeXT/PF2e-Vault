@@ -1,6 +1,6 @@
 # Rising Surf
 #pf2e/focus_spell/level_1 #pf2e/class/druid #pf2e/school/conjuration 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Conjuration](../../../rules/traits/conjuration.md)== ==[Druid](../../../rules/traits/druid.md)== ==[Move](../../../rules/traits/move.md)== ==[Water](../../../rules/traits/water.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Conjuration](rules/traits/conjuration.md)== ==[Druid](rules/traits/druid.md)== ==[Move](rules/traits/move.md)== ==[Water](rules/traits/water.md)==
 *Source* Secrets of Magic pg. 201 1.1
 **Cast** ► somatic
 **Range** 30 feet

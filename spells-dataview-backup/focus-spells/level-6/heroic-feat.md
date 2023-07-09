@@ -1,6 +1,6 @@
 # Heroic Feat
 #pf2e/focus_spell/level_6 #pf2e/class/oracle #pf2e/school/divination 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cursebound](../../../Traits/Cursebound.md)== ==[Divination](../../../rules/traits/divination.md)== ==[Mental](../../../rules/traits/mental.md)== ==[Oracle](../../../Traits/Oracle.md)==
+==[Uncommon](rulesd)== ==[Cursebound](../../../Traits/Cursebound.md)== ==[Divination](rules/traits/divination.md)== ==[Mental](rules/traits/mental.md)== ==[Oracle](../../../Traits/Oracle.md)==
 *Source* Advanced Player's Guide pg. 232 2.0
 **Mystery** battle
 **Cast** ► or ►►► somatic, verbal

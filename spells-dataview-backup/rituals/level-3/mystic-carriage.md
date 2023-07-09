@@ -1,6 +1,6 @@
 # Mystic Carriage
 #pf2e/ritual/level_3
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Conjuration](../../../rules/traits/conjuration.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Conjuration](rules/traits/conjuration.md)==
 *Source* Secrets of Magic pg. 152 1.1
 **Cast** 1 hour; **Cost** toy carriage, horse statues, rare incense, and feathers worth 50 gp; **Secondary Casters** 1
 **Primary Check** Arcana (Expert) or Occultism (Expert); **Secondary Check** Crafting or Driving Lore

@@ -1,6 +1,6 @@
 # Unfolding Wind Rush
 #pf2e/focus_spell/level_3 #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Evocation](../../../rules/traits/evocation.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Evocation](rules/traits/evocation.md)==
 *Source* World Guide pg. 83 2.0
 **Cast** ► verbal
 

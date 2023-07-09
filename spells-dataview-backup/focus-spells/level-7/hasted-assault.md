@@ -1,6 +1,6 @@
 # Hasted Assault
 #pf2e/focus_spell/level_7 #pf2e/class/magus #pf2e/school/transmutation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Magus](../../../Traits/Magus.md)== ==[Transmutation](../../../rules/traits/transmutation.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Magus](../../../Traits/Magus.md)== ==[Transmutation](rules/traits/transmutation.md)==
 *Source* Secrets of Magic pg. 143 1.1
 **Cast** ► somatic
 **Duration** 1 minute

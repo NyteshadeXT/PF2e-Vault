@@ -156,7 +156,7 @@ The influence subsystem divides a social encounter into rounds, with the number 
 
 ```ad-pf2-note
 title: Influence
-[concentrate](../../../rules/traits/concentrate.md)  [linguistic](../../../rules/traits/linguistic.md)  
+[concentrate](rules/traits/concentrate.md)  [linguistic](rules/traits/linguistic.md)  
 
 You attempt to make a favorable impression on an NPC to convince the NPC to support your cause. Choose an NPC, and attempt a skill check to impress that NPC. The DC, and whether success is possible, depend on the NPC's preferences (typically found in the NPC's influence stat block).
 
@@ -169,7 +169,7 @@ You attempt to make a favorable impression on an NPC to convince the NPC to supp
 
 ```ad-pf2-note
 title: Discover
-[concentrate](../../../rules/traits/concentrate.md)  [secret](../../../rules/traits/secret.md)  
+[concentrate](rules/traits/concentrate.md)  [secret](rules/traits/secret.md)  
 
 You watch or study an NPC to learn more about that NPC's preferences. Choose an NPC and attempt a Perception check or an appropriate skill check determined by the GM. The DC is typically found in the NPC's influence stat block.
 
@@ -225,7 +225,7 @@ For instance, for a 3rd-level challenge, you might give an NPC a +12 Will modifi
 > 
 > ```ad-pf2-note
 > title: Danphy Mollwether
-> [human](../../../rules/traits/human.md)  [humanoid](../../../rules/traits/humanoid.md)  [le](../../../rules/traits/lawful-evil-b1.md)  [medium](../../../rules/traits/medium-b1.md)  
+> [human](rules/traits/human.md)  [humanoid](rules/traits/humanoid.md)  [le](rules/traits/lawful-evil-b1.md)  [medium](rules/traits/medium-b1.md)  
 > 
 > Penny-pinching landlord
 > 
@@ -269,7 +269,7 @@ In this subsystem, time passes in rounds spanning several hours to a day of rese
 
 ```ad-embed-ability
 title: Research
-[concentrate](../../../rules/traits/concentrate.md)  [exploration](../../../rules/traits/exploration.md)  [linguistic](../../../rules/traits/linguistic.md)  
+[concentrate](rules/traits/concentrate.md)  [exploration](rules/traits/exploration.md)  [linguistic](rules/traits/linguistic.md)  
 
 You comb through information to learn more about the topic at hand. Choose your research topic, section of the library, or other division depending on the form of research, and attempt a skill check. The skills to use and the DC for the check depend on the choice you made.
 
@@ -325,7 +325,7 @@ When running the research subsystem, think about the two factors that set the pa
 > 
 > ```ad-pf2-note
 > title: Gade of Forgotten Time *Library 7*
-> [fey](../../../rules/traits/fey.md)  [primal](../../../rules/traits/primal.md)  
+> [fey](rules/traits/fey.md)  [primal](rules/traits/primal.md)  
 > 
 > Five-foot stems open up into colorful petaled tomes
 > 
@@ -652,7 +652,7 @@ title: Smooth The Path *Opportunity*
   
 The PC has successfully completed an individual objective and some other PCs have not.
 
-Having completed your objective, you help an ally who is still trying to reach that goal. Describe how you are helping. This gives the ally the benefits of [Following the Expert](../../../rules/actions/follow-the-expert.md). In unusual cases, the GM might allow you to attempt a relevant skill check to overcome the obstacle on behalf of the other PC instead.
+Having completed your objective, you help an ally who is still trying to reach that goal. Describe how you are helping. This gives the ally the benefits of [Following the Expert](rules/actions/follow-the-expert.md). In unusual cases, the GM might allow you to attempt a relevant skill check to overcome the obstacle on behalf of the other PC instead.
 ```
 
 ### PC Preparations
@@ -674,10 +674,10 @@ Edge Points (EP) represent advantages the party gains by proper planning, quick 
 
 ```ad-embed-ability
 title: Bribe Contact
-[downtime](../../../rules/traits/downtime.md)  [secret](../../../rules/traits/secret.md)  
+[downtime](rules/traits/downtime.md)  [secret](rules/traits/secret.md)  
 
-- **Cost**: A bribe worth at least one-tenth of the Currency per Additional PC listed on [Table 10–9: Party Treasure by Level](../../../rules/tables/party-treasure-by-level.md). Doubling this amount grants a +2 circumstance bonus to the check.
-- **Requirements**: You've successfully [Gained a Contact](../../../rules/actions/gain-contact-gmg.md).
+- **Cost**: A bribe worth at least one-tenth of the Currency per Additional PC listed on [Table 10–9: Party Treasure by Level](rules/tables/party-treasure-by-level.md). Doubling this amount grants a +2 circumstance bonus to the check.
+- **Requirements**: You've successfully [Gained a Contact](rules/actions/gain-contact-gmg.md).
 
 **Effect** You offer a bribe to your contact to help the heist in some way. Attempt a hard or very hard [Deception](../../../compendium/skills.md#Deception) or [Diplomacy](../../../compendium/skills.md#Diplomacy) check.
 
@@ -690,7 +690,7 @@ title: Bribe Contact
 
 ```ad-embed-ability
 title: Forge Documents
-[downtime](../../../rules/traits/downtime.md)  [secret](../../../rules/traits/secret.md)  
+[downtime](rules/traits/downtime.md)  [secret](rules/traits/secret.md)  
 
 You prepare forgeries that might serve as convincing props. Attempt a hard or very hard Society check.
 
@@ -703,7 +703,7 @@ You prepare forgeries that might serve as convincing props. Attempt a hard or ve
 
 ```ad-embed-ability
 title: Gain Contact
-[downtime](../../../rules/traits/downtime.md)  
+[downtime](rules/traits/downtime.md)  
 
 You try to make contact with an individual who can aid you in the infiltration. Attempt a normal, hard, or very hard DC [Diplomacy](../../../compendium/skills.md#Diplomacy) or Society check, or a check using a Lore skill appropriate to your prospective contact.
 
@@ -716,7 +716,7 @@ You try to make contact with an individual who can aid you in the infiltration. 
 
 ```ad-embed-ability
 title: Gossip
-[downtime](../../../rules/traits/downtime.md)  [secret](../../../rules/traits/secret.md)  
+[downtime](rules/traits/downtime.md)  [secret](rules/traits/secret.md)  
 
 You seek out rumors about the infiltration's target. Attempt a normal, hard, or very hard [Diplomacy](../../../compendium/skills.md#Diplomacy) check.
 
@@ -730,7 +730,7 @@ You seek out rumors about the infiltration's target. Attempt a normal, hard, or 
 
 ```ad-embed-ability
 title: Scout Location
-[downtime](../../../rules/traits/downtime.md)  [secret](../../../rules/traits/secret.md)  
+[downtime](rulesowntime.md)  [secret](rulesecret.md)  
 
 You spend time observing the place or group you wish to infiltrate. Attempt a normal, hard, or very hard DC Perception, Society or [Stealth](../../../compendium/skills.md#Stealth) check.
 
@@ -743,7 +743,7 @@ You spend time observing the place or group you wish to infiltrate. Attempt a no
 
 ```ad-embed-ability
 title: Secure Disguises
-[downtime](../../../rules/traits/downtime.md)  
+[downtime](rules/traits/downtime.md)  
 
 You seek to procure or create disguises. Attempt a normal, hard, or very hard [Crafting](../../../compendium/skills.md#Crafting), [Deception](../../../compendium/skills.md#Deception), [Performance](../../../compendium/skills.md#Performance), or Society check.
 
@@ -886,8 +886,8 @@ Unlike in typical combat, the duelists roll initiative checks at the beginning o
 If the duelist is at least trained in whichever initiative choice they pick, they gain the corresponding dueling reaction that round: Bullying Press for [Intimidation](../../compendium/skills.md#Intimidation), Deceptive Sidestep for [Deception](../../compendium/skills.md#Deception), or Sense Weakness for [Perception](../../compendium/skills.md#Perception). Neither duelist is aware of what type of roll the other used for initiative—surprise and the use of dueling actions are a part of dueling strategies. Familiars and companions, even when allowed in the duel, can't use these actions, nor can bystanders.
 
 ```ad-embed-ability
-title: Bullying Press [R](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[flourish](../../../rules/traits/flourish.md)  
+title: Bullying Press [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+[flourish](rules/traits/flourish.md)  
 
 - **Trigger**: You attempt a melee Strike against your opponent, but haven't rolled yet.
 - **Requirements**: You're in a duel, you're trained in [Intimidation](../../../compendium/skills.md#Intimidation), and you rolled an [Intimidation](../../../compendium/skills.md#Intimidation) check for initiative this round.
@@ -897,8 +897,8 @@ title: Bullying Press [R](../../../rules/core-rulebook/chapter-9-playing-the-gam
 ```
 
 ```ad-embed-ability
-title: Deceptive Sidestep [R](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[misfortune](../../../rules/traits/misfortune.md)  
+title: Deceptive Sidestep [R](rulesebook/chapter-9-playing-the-game.md#Actions "Reaction")
+[misfortune](rules/traits/misfortune.md)  
 
 - **Trigger**: An opponent hits, but does not critically hit you, with a melee Strike.
 - **Requirements**: You're in a duel, you're trained in [Deception](../../../compendium/skills.md#Deception), and you rolled a [Deception](../../../compendium/skills.md#Deception) check for initiative this round.
@@ -908,12 +908,12 @@ title: Deceptive Sidestep [R](../../../rules/core-rulebook/chapter-9-playing-the
 ```
 
 ```ad-embed-ability
-title: Sense Weakness [R](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: Sense Weakness [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: You attempt a melee Strike against your opponent, but haven't rolled yet.
 - **Requirements**: You're in a duel, you're trained in Perception, and you rolled a Perception check for initiative this round.
 
-**Effect** You pick a precise moment to attack, giving you an edge. Your opponent is [flat-footed](../../../rules/conditions.md#Flat-footed) against the attack. If your opponent is using [Deception](../../../compendium/skills.md#Deception) for initiative when this ability is used, they are instead [flat-footed](../../../rules/conditions.md#Flat-footed) until the start of their next turn.
+**Effect** You pick a precise moment to attack, giving you an edge. Your opponent is [flat-footed](rules/conditions.md#Flat-footed) against the attack. If your opponent is using [Deception](../../../compendium/skills.md#Deception) for initiative when this ability is used, they are instead [flat-footed](rules/conditions.md#Flat-footed) until the start of their next turn.
 ```
 
 #### Ending the Duel
@@ -938,8 +938,11 @@ Familiars and companions, even when allowed in the duel, can't use these actions
 When mixing a spellcasting duel and a combat duel, use the initiative rules for combat dueling, but allow the duelist to roll [Arcana](../../compendium/skills.md#Arcana), [Nature](../../compendium/skills.md#Nature), [Occultism](../../compendium/skills.md#Occultism), or [Religion](../../compendium/skills.md#Religion) for their initiative checks. They still gain the Dueling Counter reaction and Change Tradition Focus action, though Change Tradition Focus is less useful in combat duels.
 
 ```ad-embed-ability
-title: Dueling Counter [R](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[magical](../../../rules/traits/magical.md)  
+title: Dueling Counter [R](rulesebook/chapter-9-playing-the-game.md#Actions "Reaction")
+[magical](rules/traits/magical.md)  
+
+- **Trigger**: Your opponent [Casts a Spell](rulesebook/chapter-9-playing-the-game.md#Actions "Reaction")
+[magical](rules/traits/magical.md)  
 
 - **Trigger**: Your opponent [Casts a Spell](../../../rules/actions/cast-a-spell.md) from the same tradition as your tradition focus.
 - **Requirements**: You are in a duel and have a tradition focus.
@@ -949,7 +952,7 @@ title: Dueling Counter [R](../../../rules/core-rulebook/chapter-9-playing-the-ga
 ```
 
 ```ad-embed-ability
-title: Change Tradition Focus [>](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+title: Chrules Focus [>](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 
 - **Requirements**: You are in a duel and are trained in the skill for the tradition you're changing your focus to ([Arcana](../../../compendium/skills.md#Arcana) for arcane, [Occultism](../../../compendium/skills.md#Occultism) for occult, [Nature](../../../compendium/skills.md#Nature) for primal, or [Religion](../../../compendium/skills.md#Religion) for divine).
 
@@ -1180,9 +1183,7 @@ You progress toward moving into an adjacent hex. In open terrain, like a plain, 
 The Travel activity assumes you are walking overland. If you are flying or traveling on water, most hexes are open terrain, though there are exceptions. Flying into storms or high winds count as difficult or greater difficult terrain. Traveling down a river is open terrain, but traveling upriver is difficult or greater difficult terrain.
 ```
 
-```ad-pf2-note
-title: Reconnoiter
-[concentrate](../../../rules/traits/concentrate.md)  
+```ad-pf2-notrulesoncentrate](../../../rules/traits/concentrate.md)  
 
 You spend time surveying and exploring a specific area, getting the lay of the land and looking for unusual features and specific sites. Reconnoitering a single hex takes a number of hexploration activities equal to the number of Travel activities necessary to traverse the hex—1 for open terrain, 2 for difficult terrain, and 3 for greater difficult terrain. Traveling on roads doesn't lessen the time required to Reconnoiter. Once the hex has been Reconnoitered, you can Map the Area to reduce your chance of getting lost in that hex (see below). You automatically find any special feature that doesn't require a check to find, and you attempt the appropriate checks to find hidden special features.
 
@@ -1201,8 +1202,7 @@ You can spend time fortifying your camp for defense with a successful [Crafting]
 ```
 
 ```ad-pf2-note
-title: Map The Area
-[concentrate](../../../rules/traits/concentrate.md)  
+title: Map Therulesrate](rulesoncentrate.md)  
 
 As long as your group has successfully Reconnoitered the hex, you can use this activity to create an accurate map of the hex with a successful [Survival](../../../compendium/skills.md#Survival) check (typically at a trained or expert DC). When you have an accurate map of the hex, the DC of any check to navigate that hex is reduced by 2.
 ```
@@ -1337,8 +1337,8 @@ The GM sets the DC of the piloting check using a standard DC for the vehicle's l
 Characters use the actions listed below to move and interact with vehicles. The effects of the [reckless](../traits/reckless-gmg.md) trait appear on page 176.
 
 ```ad-embed-ability
-title: Board [>](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[move](../../../rules/traits/move.md)  
+title: Board [>](rulesesebook/chapter-9-playing-the-game.md#Actions "Single Action")
+[move](rulesove.md)  
 
 - **Requirements**: You are adjacent to a point of entry on the vehicle you are attempting to board.
 
@@ -1347,24 +1347,24 @@ title: Board [>](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Acti
 ```
 
 ```ad-embed-ability
-title: Drive [V](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies")
-[move](../../../rules/traits/move.md)  
+title: Drive [V](rulesebook/chapter-9-playing-the-game.md#Actions "Varies")
+[move](rules/traits/move.md)  
 
 - **Requirements**: You are piloting a vehicle.
 
 **Effect** You pilot your vehicle to move. Decide how many actions you intend to spend before you begin Driving. The effects depend on the number of actions you spend. You can't Drive through spaces occupied by creatures, even if they are allies.
 
-[>](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Attempt a piloting check. On a success, the vehicle moves up to its Speed and can turn normally. On a failure, the vehicle moves its Speed in a straight line. On a critical failure, the vehicle moves its Speed in a straight line and becomes uncontrolled.
+[>](rulesebook/chapter-9-playing-the-game.md#Actions "Single Action") Attempt a piloting check. On a success, the vehicle moves up to its Speed and can turn normally. On a failure, the vehicle moves its Speed in a straight line. On a critical failure, the vehicle moves its Speed in a straight line and becomes uncontrolled.
 
-[>>](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") ([reckless](../../../rules/traits/reckless-gmg.md)) The vehicle moves up to twice its Speed in a straight line at the vehicle's current heading.
+[>>](rulespter-9-playing-the-game.md#Actions "Two-Action") ([reckless](rules/traits/reckless-gmg.md)) The vehicle moves up to twice its Speed in a straight line at the vehicle's current heading.
 
-[>>>](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") ([reckless](../../../rules/traits/reckless-gmg.md)) You take a –5 penalty on your piloting check to maintain control of the vehicle. The vehicle moves up to three times its Speed in a straight line at the vehicle's current heading.  
+[>>>](rulespter-9-playing-the-game.md#Actions "Three-Action") ([reckless](rules/traits/reckless-gmg.md)) You take a –5 penalty on your piloting check to maintain control of the vehicle. The vehicle moves up to three times its Speed in a straight line at the vehicle's current heading.  
 %% #trait/move %%
 ```
 
 ```ad-embed-ability
-title: Run Over [>>>](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
-[move](../../../rules/traits/move.md)  [reckless](../../../rules/traits/reckless-gmg.md)  
+title: Run Over [>>>](rules.md#Actions "Three-Action")
+[move](rulesove.md)  [reckless](rules/traits/reckless-gmg.md)  
 
 - **Requirements**: You are piloting a vehicle.
 
@@ -1375,8 +1375,8 @@ Each creature in your path, including a rammed target, takes the vehicle's colli
 ```
 
 ```ad-embed-ability
-title: Stop [>](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[manipulate](../../../rules/traits/manipulate.md)  
+title: Stop [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+[manipulate](rules/traits/manipulate.md)  
 
 - **Requirements**: You are piloting a vehicle in motion.
 
@@ -1385,8 +1385,8 @@ title: Stop [>](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actio
 ```
 
 ```ad-embed-ability
-title: Take Control [>](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[manipulate](../../../rules/traits/manipulate.md)  
+title: Take Control [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+[manipulate](rules/traits/manipulate.md)  
 
 - **Requirements**: You are aboard the vehicle and adjacent to its controls.
 

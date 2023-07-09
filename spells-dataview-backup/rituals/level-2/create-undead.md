@@ -1,6 +1,6 @@
 # Create Undead
 #pf2e/ritual/level_2
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Evil](../../../rules/traits/evil.md)== ==[Necromancy](../../../rules/traits/necromancy.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Evil](rules/traits/evil.md)== ==[Necromancy](rules/traits/necromancy.md)==
 *Source* Core Rulebook pg. 411 3.0
 **Cast** 1 day; **Cost** black onyx, see Table; **Secondary Casters** 1
 **Primary Check** Arcana (expert), Occultism (expert), or Religion (expert); **Secondary Check** Religion

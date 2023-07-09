@@ -1,6 +1,6 @@
 # Dimensional Steps
 #pf2e/focus_spell/level_4 #pf2e/class/wizard #pf2e/school/conjuration 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Conjuration](../../../rules/traits/conjuration.md)== ==[Teleportation](../../../rules/traits/teleportation.md)== ==[Wizard](../../../rules/traits/wizard.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Conjuration](rules/traits/conjuration.md)== ==[Teleportation](rules/traits/teleportation.md)== ==[Wizard](rules/traits/wizard.md)==
 *Source* Core Rulebook pg. 406 3.0
 **Cast** ► somatic
 **Range** 20 feet

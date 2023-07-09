@@ -1,6 +1,6 @@
 # Swarm Form
 #pf2e/focus_spell/level_4 #pf2e/school/transmutation 
-==[Polymorph](../../../rules/traits/polymorph.md)== ==[Transmutation](../../../rules/traits/transmutation.md)==
+==[Polymorph](rules/traits/polymorph.md)== ==[Transmutation](rules/traits/transmutation.md)==
 *Source* Gods & Magic pg. 118 2.0
 **Domain** swarm
 **Cast** ►► somatic, verbal

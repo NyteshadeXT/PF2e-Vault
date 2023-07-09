@@ -34,14 +34,14 @@ Each creature that takes piercing damage must attempt a Fortitude save.
 ```ad-inline-affliction
 title: Swarming Wasp Venom _Level 7_
 
-[poison](../../../rules/traits/poison.md)  
+[poison](rules/traits/poison.md)  
 - **Maximum Duration**: 6 rounds
 
 ## Stages
 
-**Stage 1** `2d6` poison damage and [clumsy](../../../rules/conditions.md#Clumsy) (1 round;)
+**Stage 1** `2d6` poison damage and [clumsy](rules/conditions.md#Clumsy) (1 round;)
 
-**Stage 2** `3d6` poison damage and [clumsy](../../../rules/conditions.md#Clumsy) (1 round)
+**Stage 2** `3d6` poison damage and [clumsy](rules/conditions.md#Clumsy) (1 round)
 
 
 %% #trait/poison #affliction/level/level-7 %%

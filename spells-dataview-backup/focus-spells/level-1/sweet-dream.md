@@ -1,6 +1,6 @@
 # Sweet Dream
 #pf2e/focus_spell/level_1 #pf2e/class/cleric #pf2e/school/enchantment 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Auditory](../../../rules/traits/auditory.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Enchantment](../../../rules/traits/enchantment.md)== ==[Linguistic](../../../rules/traits/linguistic.md)== ==[Mental](../../../rules/traits/mental.md)== ==[1 TTRPG/PF2e Wiki/Traits/Sleep](1%20TTRPG/PF2e%20Wiki/Traits/Sleep)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Auditory](rules/traits/auditory.md)== ==[Cleric](rules/traits/cleric.md)== ==[Enchantment](rules/traits/enchantment.md)== ==[Linguistic](rules/traits/linguistic.md)== ==[Mental](rules/traits/mental.md)== ==[1 TTRPG/PF2e Wiki/Traits/Sleep](1%20TTRPG/PF2e%20Wiki/Traits/Sleep)==
 *Source* Core Rulebook pg. 397 3.0
 **Domain** dreams
 **Cast** ►►► material, somatic, verbal

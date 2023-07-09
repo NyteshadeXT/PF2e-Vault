@@ -1,6 +1,6 @@
 # Personal Blizzard
 #pf2e/focus_spell/level_3 #pf2e/class/witch #pf2e/school/conjuration 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Conjuration](../../../rules/traits/conjuration.md)== ==[Hex](../../../Traits/Hex.md)== ==[Witch](../../../Traits/Witch.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Conjuration](rules/traits/conjuration.md)== ==[Hex](../../../Traits/Hex.md)== ==[Witch](../../../Traits/Witch.md)==
 *Source* Advanced Player's Guide pg. 239 2.0
 **Lesson** lesson of snow
 **Cast** ► somatic

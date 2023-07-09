@@ -1,6 +1,6 @@
 # Jealous Hex
 #pf2e/focus_spell/level_1 #pf2e/class/sorcerer #pf2e/school/necromancy 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Curse](../../../rules/traits/curse.md)== ==[Necromancy](../../../rules/traits/necromancy.md)== ==[Sorcerer](../../../rules/traits/sorcerer.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Curse](rules/traits/curse.md)== ==[Necromancy](rules/traits/necromancy.md)== ==[Sorcerer](rules/traits/sorcerer.md)==
 *Source* Core Rulebook pg. 405 3.0
 **Bloodline** hag
 **Cast** ► verbal

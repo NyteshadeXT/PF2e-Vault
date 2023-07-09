@@ -1,6 +1,6 @@
 # Tireless Worker
 #pf2e/focus_spell/level_4 #pf2e/school/necromancy 
-==[Healing](../../../rules/traits/healing.md)== ==[Necromancy](../../../rules/traits/necromancy.md)==
+==[Healing](rules/traits/healing.md)== ==[Necromancy](rules/traits/necromancy.md)==
 *Source* Pathfinder Release 148: Fires of the Haunted City pg. 65
 **Domain** toil
 **Cast** ►► somatic, verbal

@@ -1,6 +1,6 @@
 # For Love, For Lightning
 #pf2e/focus_spell/level_6 #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Electricity](../../../rules/traits/electricity.md)== ==[Evocation](../../../rules/traits/evocation.md)==
+==[Uncommon](rulesncommon.md)== ==[Electricity](ruleslectricity.md)== ==[Evocation](rules/traits/evocation.md)==
 *Source* Knights of Lastwall pg. 77
 **Cast** ►►► material, somatic, verbal
 **Requirements** You are wielding a sword or spear made partly or wholly of metal

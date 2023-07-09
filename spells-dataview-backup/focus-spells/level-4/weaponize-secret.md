@@ -1,6 +1,6 @@
 # Weaponize Secret
 #pf2e/focus_spell/level_4 #pf2e/class/cleric #pf2e/school/divination 
-==[Rare](../../../rules/traits/rare.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Divination](../../../rules/traits/divination.md)== ==[Mental](../../../rules/traits/mental.md)==
+==[Rare](rules/traits/rare.md)== ==[Cleric](rules/traits/cleric.md)== ==[Divination](rules/traits/divination.md)== ==[Mental](rules/traits/mental.md)==
 *Source* Dark Archive pg. 143
 **Domain** secrecy (apocryphal)
 **Cast** ►► somatic, verbal

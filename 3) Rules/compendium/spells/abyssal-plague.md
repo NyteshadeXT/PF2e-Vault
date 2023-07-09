@@ -32,15 +32,15 @@ The effect is based on the target's Fortitude save.
 ```ad-inline-affliction
 title: Abyssal Plague _Level 9_
 
-[disease](../../../rules/traits/disease.md)  
-The target can't recover from the [drained](../../../rules/conditions.md#Drained) condition from Abyssal plague until the disease is cured.
+[disease](rules/traits/disease.md)  
+The target can't recover from the [drained](rules/conditions.md#Drained) condition from Abyssal plague until the disease is cured.
 
 
 ## Stages
 
-**Stage 1** [drained](../../../rules/conditions.md#Drained) (1 day)
+**Stage 1** [drained](rules/conditions.md#Drained) (1 day)
 
-**Stage 2** [drained](../../../rules/conditions.md#Drained) increases by 2 (1 day)
+**Stage 2** [drained](rules/conditions.md#Drained) increases by 2 (1 day)
 
 
 %% #trait/disease #affliction/level/level-9 %%

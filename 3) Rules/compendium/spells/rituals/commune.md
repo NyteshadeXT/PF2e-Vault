@@ -10,7 +10,7 @@ tags:
 aliases: ["Commune"]
 ---
 # Commune *Ritual 6*  
-[divination](../../../rules/traits/divination.md)  [prediction](../../../rules/traits/prediction.md)  [uncommon](../../../rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md)  [prediction](rules/traits/prediction.md)  [uncommon](rules/traits/uncommon.md)  
 
 - **Cast** 1 day
 - **Cost** rare incense worth a total value of 150 gp
@@ -24,6 +24,6 @@ You call upon an unknown planar entity to answer questions; this is a servitor o
 > - **Critical Success** You contact a more powerful entity aligned strongly with your interests, possibly even your deity. The entity won't attempt to deceive you, though it still might not know the answers. When it's important to provide clarity, the entity will answer your questions with up to five words, such as "If you leave immediately" or "That was true once."
 > - **Success** You can ask your questions and receive answers.
 > - **Failure** You fail to contact a planar entity.
-> - **Critical Failure** You are exposed to the enormity of the cosmos and are [stupefied](../../../rules/conditions.md#Stupefied) for 1 week (can't remove by any means).
+> - **Critical Failure** You are exposed to the enormity of the cosmos and are [stupefied](rules/conditions.md#Stupefied) for 1 week (can't remove by any means).
 
 *Source: Core Rulebook p. 410*

@@ -1,6 +1,6 @@
 # Charged Javelin
 #pf2e/focus_spell/level_1 #pf2e/school/evocation 
-==[Attack](../../../rules/traits/attack.md)== ==[Electricity](../../../rules/traits/electricity.md)== ==[Evocation](../../../rules/traits/evocation.md)==
+==[Attack](rules/traits/attack.md)== ==[Electricity](rules/traits/electricity.md)== ==[Evocation](rules/traits/evocation.md)==
 *Source* Gods & Magic pg. 115 2.0
 **Domain** lightning
 **Cast** ►► somatic, verbal

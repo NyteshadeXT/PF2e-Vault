@@ -1,6 +1,6 @@
 # Ectoplasmic Interstice
 #pf2e/focus_spell/level_4 #pf2e/school/necromancy 
-==[Necromancy](../../../rules/traits/necromancy.md)==
+==[Necromancy](rules/traits/necromancy.md)==
 *Source* Gods & Magic pg. 117 2.0
 **Domain** soul
 **Cast** ►► somatic, verbal

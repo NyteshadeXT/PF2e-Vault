@@ -1,6 +1,6 @@
 # Adaptive Ablation
 #pf2e/focus_spell/level_4 #pf2e/school/abjuration 
-==[Abjuration](../../../rules/traits/abjuration.md)==
+==[Abjuration](rulesbjuration.md)==
 *Source* Gods & Magic pg. 112 2.0
 **Domain** change
 **Cast** ◄ somatic; **Trigger** You take acid, cold, electricity, fire, or sonic damage.

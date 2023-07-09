@@ -1,6 +1,6 @@
 # Thunderous Strike
 #pf2e/focus_spell/level_1 #pf2e/class/magus #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Magus](../../../Traits/Magus.md)== ==[Sonic](../../../rules/traits/sonic.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Evocation](rules/traits/evocation.md)== ==[Magus](../../../Traits/Magus.md)== ==[Sonic](rules/traits/sonic.md)==
 *Source* Secrets of Magic pg. 144 1.1
 **Cast** ► verbal; **Requirements** you're wielding a melee weapon in two hands.
 

@@ -1,6 +1,6 @@
 # Mindscape Door
 #pf2e/ritual/level_3
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Illusion](../../../rules/traits/illusion.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Illusion](rules/traits/illusion.md)==
 *Source* Dark Archive pg. 199
 **Cast** 1 hour; **Cost** incense and focusing diagrams worth a total value of the target's level (minimum 1) × 1 gp, for each target; **Secondary Casters** 3
 **Primary Check** Arcana or Occultism (expert); **Secondary Check** Arcana or Occultism, Deception or Diplomacy, Perception
@@ -14,7 +14,7 @@ If the mindscape's creator wants to prevent anyone from entering or exiting, the
 **Critical Success** You transport the creatures as you intended and can leave a portal that lasts for an unlimited duration. It typically looks like an ordinary door or passage appropriate to the mindscape. Any target of the spell can enter or exit through this portal as they would an ordinary door. If you wish, you can make the door passable by anyone.
 **Success** You transport the creatures as you intended.
 **Failure** You fail to enter or exit the mindscape.
-**Critical Failure** Something goes horribly wrong. The GM decides whether mental feedback deals `dice: 9d6|avg` mental damage to all ritual casters (DC 26 basic Will save) or `dice: 1d4|avg` casters are unwillingly [pulled](../../../Rules/Forced%20Movement.md) into the mindscape (or ejected from it).
+**Critical Failure** Something goes horribly wrong. The GM decides whether mental feedback deals `dice: 9d6|avg` mental damage to all ritual casters (DC 26 basic Will save) or `dice: 1d4|avg` casters are unwillingly [pulled](rules/Forced%20Movement.md) into the mindscape (or ejected from it).
 
 <hr>
 

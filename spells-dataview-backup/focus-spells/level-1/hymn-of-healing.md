@@ -1,6 +1,6 @@
 # Hymn of Healing
 #pf2e/focus_spell/level_1 #pf2e/class/bard #pf2e/school/necromancy 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Bard](../../../rules/traits/bard.md)== ==[Composition](../../../rules/traits/composition.md)== ==[Healing](../../../rules/traits/healing.md)== ==[Necromancy](../../../rules/traits/necromancy.md)== ==[Positive](../../../rules/traits/positive.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Bard](rules/traits/bard.md)== ==[Composition](rules/traits/composition.md)== ==[Healing](rules/traits/healing.md)== ==[Necromancy](rules/traits/necromancy.md)== ==[Positive](rules/traits/positive.md)==
 *Source* Advanced Player's Guide pg. 228 2.0
 **Cast** ►► verbal
 **Range** 30 feet; **Targets** you or 1 ally

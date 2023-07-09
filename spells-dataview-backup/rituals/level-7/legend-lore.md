@@ -1,6 +1,6 @@
 # Legend Lore
 #pf2e/ritual/level_7
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Divination](../../../rules/traits/divination.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Divination](rules/traits/divination.md)==
 *Source* Core Rulebook pg. 413 3.0
 **Cast** 1 day; **Cost** rare incense worth a total value of 300 gp; **Secondary Casters** 2
 **Primary Check** Occultism (master); **Secondary Check** Performance, Society

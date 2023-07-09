@@ -32,14 +32,14 @@ If the target takes piercing damage, they also take `1d6` evil damage and must a
 ```ad-inline-affliction
 title: Imp Venom _Level 3_
 
-[poison](../../../rules/traits/poison.md)  
+[poison](rules/traits/poison.md)  
 - **Maximum Duration**: 6 rounds
 
 ## Stages
 
-**Stage 1** `1d6` poison and [clumsy](../../../rules/conditions.md#Clumsy)
+**Stage 1** `1d6` poison and [clumsy](rules/conditions.md#Clumsy)
 
-**Stage 2** `1d6` poison, [clumsy](../../../rules/conditions.md#Clumsy), and [slowed](../../../rules/conditions.md#Slowed) (1 round.)
+**Stage 2** `1d6` poison, [clumsy](rules/conditions.md#Clumsy), and [slowed](rules/conditions.md#Slowed) (1 round.)
 
 
 %% #trait/poison #affliction/level/level-3 %%

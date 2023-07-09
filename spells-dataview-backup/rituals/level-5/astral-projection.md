@@ -1,6 +1,6 @@
 # Astral Projection
 #pf2e/ritual/level_5
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Divination](../../../rules/traits/divination.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Divination](rules/traits/divination.md)==
 *Source* Advanced Player's Guide pg. 240 2.0
 **Cast** 1 hour; **Cost** one jacinth worth a total value of the target's level (minimum 1) × 5 gp, for each target; **Secondary Casters** 2
 **Primary Check** Arcana or Occultism (master); **Secondary Check** Arcana or Occultism (whichever isn't used for the primary check), Survival

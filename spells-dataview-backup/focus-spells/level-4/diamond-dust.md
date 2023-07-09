@@ -1,6 +1,6 @@
 # Diamond Dust
 #pf2e/focus_spell/level_4 #pf2e/school/evocation 
-==[Cold](../../../rules/traits/cold.md)== ==[Evocation](../../../rules/traits/evocation.md)==
+==[Cold](rules/traits/cold.md)== ==[Evocation](rules/traits/evocation.md)==
 *Source* Gods & Magic pg. 112 2.0
 **Domain** cold
 **Cast** ►► somatic, verbal

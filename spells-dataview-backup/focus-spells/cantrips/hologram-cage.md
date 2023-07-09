@@ -1,6 +1,6 @@
 # Hologram Cage
 #pf2e/focus_spell/cantrip_5 #pf2e/school/illusion 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cantrip](../../../rules/traits/cantrip.md)== ==[Illusion](../../../rules/traits/illusion.md)== ==[1 TTRPG/PF2e Wiki/Traits/Light](1%20TTRPG/PF2e%20Wiki/Traits/Light)== ==[Psychic](../../../Traits/Psychic.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cantrip](rules/traits/cantrip.md)== ==[Illusion](rules/traits/illusion.md)== ==[1 TTRPG/PF2e Wiki/Traits/Light](1%20TTRPG/PF2e%20Wiki/Traits/Light)== ==[Psychic](../../../Traits/Psychic.md)==
 *Source* Dark Archive pg. 22
 **Cast** ►►► material, somatic, verbal
 **Range** 60 feet; **Area** 1 cube 20 feet on each side

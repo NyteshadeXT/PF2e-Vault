@@ -1,6 +1,6 @@
 # Awaken Portal
 #pf2e/ritual/level_3
-==[Rare](../../../rules/traits/rare.md)== ==[Conjuration](../../../rules/traits/conjuration.md)==
+==[Rare](rules/traits/rare.md)== ==[Conjuration](rules/traits/conjuration.md)==
 *Source* Pathfinder Release 163: Ruins of Gauntlight pg. 79
 **Cast** 1 hour; **Secondary Casters** up to 5
 **Primary Check** Arcana or Occultism (trained); **Secondary Check** Arcana or Occultism (whichever is used for the primary check)

@@ -1,6 +1,6 @@
 # Manifold Lives
 #pf2e/focus_spell/level_6 #pf2e/class/oracle #pf2e/school/divination 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cursebound](../../../Traits/Cursebound.md)== ==[Divination](../../../rules/traits/divination.md)== ==[Emotion](../../../rules/traits/emotion.md)== ==[Mental](../../../rules/traits/mental.md)== ==[Oracle](../../../Traits/Oracle.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cursebound](../../../Traits/Cursebound.md)== ==[Divination](rules/traits/divination.md)== ==[Emotion](rules/traits/emotion.md)== ==[Mental](rules/traits/mental.md)== ==[Oracle](../../../Traits/Oracle.md)==
 *Source* Dark Archive pg. 189
 **Mystery** time
 **Cast** ►► somatic, verbal

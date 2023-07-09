@@ -1,6 +1,6 @@
 # Fearful Feast
 #pf2e/focus_spell/level_4 #pf2e/school/necromancy 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Fear](../../Arcane_Tradition/Level%201/Fear.md)== ==[Mental](../../../rules/traits/mental.md)== ==[Necromancy](../../../rules/traits/necromancy.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Fear](../../Arcane_Tradition/Level%201/Fear.md)== ==[Mental](rules/traits/mental.md)== ==[Necromancy](rules/traits/necromancy.md)==
 *Source* Pathfinder Release 165: Eyes of Empty Death pg. 65
 **Domain** abomination
 **Cast** ◄ somatic; **Trigger** A creature within range becomes [Frightened](../../../Conditions/Frightened.md).

@@ -1,6 +1,6 @@
 # Charming Touch
 #pf2e/focus_spell/level_1 #pf2e/class/cleric #pf2e/school/enchantment 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Emotion](../../../rules/traits/emotion.md)== ==[Enchantment](../../../rules/traits/enchantment.md)== ==[Incapacitation](../../../rules/traits/incapacitation.md)== ==[Mental](../../../rules/traits/mental.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cleric](rules/traits/cleric.md)== ==[Emotion](rules/traits/emotion.md)== ==[Enchantment](rules/traits/enchantment.md)== ==[Incapacitation](rules/traits/incapacitation.md)== ==[Mental](rules/traits/mental.md)==
 *Source* Core Rulebook pg. 390 3.0
 **Domain** passion
 **Cast** ► somatic
@@ -15,4 +15,4 @@ You infuse your target with attraction, causing it to act friendlier toward you.
 **Failure** The target's attitude becomes [Friendly](../../../Conditions/Friendly.md) toward you. If it was friendly, it becomes [Helpful](../../../Conditions/Helpful.md). It can't use hostile actions against you.
 **Critical Failure** The target is helpful and can't use hostile actions against you.
 
-You can Dismiss the spell. If you use [Hostile Actions](../../../Rules/Hostile%20Actions.md) against the target, the spell ends. After the spell ends, the target doesn't necessarily realize it was charmed unless its friendship with you or the actions you convinced it to take clash with its expectations, which could potentially allow you to convince the target to continue being your friend via mundane means.
+You can Dismiss the spell. If you use [Hostile Actions](rules/Hostile%20Actions.md) against the target, the spell ends. After the spell ends, the target doesn't necessarily realize it was charmed unless its friendship with you or the actions you convinced it to take clash with its expectations, which could potentially allow you to convince the target to continue being your friend via mundane means.

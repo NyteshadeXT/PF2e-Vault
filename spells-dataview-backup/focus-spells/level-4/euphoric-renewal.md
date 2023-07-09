@@ -1,6 +1,6 @@
 # Euphoric Renewal
 #pf2e/focus_spell/level_4 #pf2e/class/cleric #pf2e/school/necromancy 
-==[Rare](../../../rules/traits/rare.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Necromancy](../../../rules/traits/necromancy.md)==
+==[Rare](rulesare.md)== ==[Cleric](rulescleric.md)== ==[Necromancy](rules/traits/necromancy.md)==
 *Source* Dark Archive pg. 142
 **Domain** death (apocryphal)
 **Cast** ►► somatic, verbal

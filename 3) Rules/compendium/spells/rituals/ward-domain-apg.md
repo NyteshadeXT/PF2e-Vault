@@ -10,7 +10,7 @@ tags:
 aliases: ["Ward Domain"]
 ---
 # Ward Domain *Ritual 6*  
-[abjuration](../../../rules/traits/abjuration.md)  [uncommon](../../../rules/traits/uncommon.md)  
+[abjuration](rules/traits/abjuration.md)  [uncommon](rules/traits/uncommon.md)  
 
 - **Cast** 1 day
 - **Cost** rare incenses, oils, and powdered silver, worth 150 gp total
@@ -29,7 +29,7 @@ A successful [dispel magic](../dispel-magic.md) used on a specific effect remove
 > - **Critical Success** You create the effects described above, and you protect an area twice as large.
 > - **Success** You create the effects described above.
 > - **Failure** The ritual has no effect.
-> - **Critical Failure** The area becomes trapped and [hostile](../../../rules/conditions.md#Hostile) to you and your allies in a way you didn't anticipate.
+> - **Critical Failure** The area becomes trapped and [hostile](rules/conditions.md#Hostile) to you and your allies in a way you didn't anticipate.
 
 **Heightened (+ 1)** The ward covers an additional area 100 feet × 100 feet, up to 50 feet high, which must be contiguous with the original area.
 

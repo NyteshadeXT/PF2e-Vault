@@ -1,6 +1,6 @@
 # Spirit Object
 #pf2e/focus_spell/cantrip_1 #pf2e/class/witch #pf2e/school/necromancy 
-==[Rare](../../../rules/traits/rare.md)== ==[Cantrip](../../../rules/traits/cantrip.md)== ==[Hex](../../../Traits/Hex.md)== ==[Necromancy](../../../rules/traits/necromancy.md)== ==[Witch](../../../Traits/Witch.md)==
+==[Rare](rules/traits/rare.md)== ==[Cantrip](rules/traits/cantrip.md)== ==[Hex](../../../Traits/Hex.md)== ==[Necromancy](rules/traits/necromancy.md)== ==[Witch](../../../Traits/Witch.md)==
 *Source* Legends pg. 32
 **Note** Per design team clarification, an item animated by the spirit object hex uses the spellcaster’s spell DC as its AC. Its Hardness and Hit Points remain unchanged from their normal values as listed on page 577 of the Core Rulebook.
 **Patron Theme** baba yaga

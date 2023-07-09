@@ -1,6 +1,6 @@
 # Spinning Staff
 #pf2e/focus_spell/level_1 #pf2e/class/magus #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Magus](../../../Traits/Magus.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Evocation](rules/traits/evocation.md)== ==[Magus](../../../Traits/Magus.md)==
 *Source* Secrets of Magic pg. 144 1.1
 **Cast** ► verbal; **Requirements** You're wielding a staff.
 

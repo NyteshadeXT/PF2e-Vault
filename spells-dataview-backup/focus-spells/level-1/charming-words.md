@@ -1,6 +1,6 @@
 # Charming Words
 #pf2e/focus_spell/level_1 #pf2e/class/wizard #pf2e/school/enchantment 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Auditory](../../../rules/traits/auditory.md)== ==[Enchantment](../../../rules/traits/enchantment.md)== ==[Incapacitation](../../../rules/traits/incapacitation.md)== ==[Linguistic](../../../rules/traits/linguistic.md)== ==[Mental](../../../rules/traits/mental.md)== ==[Wizard](../../../rules/traits/wizard.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Auditory](rules/traits/auditory.md)== ==[Enchantment](rules/traits/enchantment.md)== ==[Incapacitation](rules/traits/incapacitation.md)== ==[Linguistic](rules/traits/linguistic.md)== ==[Mental](rules/traits/mental.md)== ==[Wizard](rules/traits/wizard.md)==
 *Source* Core Rulebook pg. 406 3.0
 **Cast** ► verbal
 **Range** 30 feet; **Targets** 1 creature

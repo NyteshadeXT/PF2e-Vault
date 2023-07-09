@@ -1,6 +1,6 @@
 # Wronged Monk's Wrath
 #pf2e/focus_spell/level_5 #pf2e/class/monk #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Electricity](../../../rules/traits/electricity.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Force](../../../rules/traits/force.md)== ==[Monk](../../../rules/traits/monk.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Electricity](rules/traits/electricity.md)== ==[Evocation](rules/traits/evocation.md)== ==[Force](rules/traits/force.md)== ==[Monk](rules/traits/monk.md)==
 *Source* Pathfinder Release 166: Despair on Danger Island pg. 77
 **Cast** ► to ►►► somatic, verbal
 **Area** 5-foot emanation or more

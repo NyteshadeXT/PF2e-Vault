@@ -1,6 +1,6 @@
 # Establish Ward
 #pf2e/focus_spell/level_5 #pf2e/class/sorcerer #pf2e/school/abjuration 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Abjuration](../../../rules/traits/abjuration.md)== ==[Sorcerer](../../../rules/traits/sorcerer.md)==
+==[Uncommon](rulesd)== ==[Abjuration](rulesd)== ==[Sorcerer](rules/traits/sorcerer.md)==
 *Source* Advanced Player's Guide pg. 236 2.0
 **Bloodline** nymph
 **Cast** ►► somatic, verbal

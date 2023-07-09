@@ -1,6 +1,6 @@
 # Song of Marching
 #pf2e/focus_spell/cantrip_3 #pf2e/class/bard #pf2e/school/enchantment 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Bard](../../../rules/traits/bard.md)== ==[Cantrip](../../../rules/traits/cantrip.md)== ==[Composition](../../../rules/traits/composition.md)== ==[Enchantment](../../../rules/traits/enchantment.md)== ==[Mental](../../../rules/traits/mental.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Bard](rules/traits/bard.md)== ==[Cantrip](rules/traits/cantrip.md)== ==[Composition](rules/traits/composition.md)== ==[Enchantment](rules/traits/enchantment.md)== ==[Mental](rules/traits/mental.md)==
 *Source* Advanced Player's Guide pg. 228 2.0
 **Cast** ► verbal
 **Area** 60-foot emanation

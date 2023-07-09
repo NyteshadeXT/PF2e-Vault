@@ -1,6 +1,6 @@
 # Vision of Weakness
 #pf2e/focus_spell/level_2 #pf2e/class/oracle  #pf2e/school/divination 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cursebound](../../../Traits/Cursebound.md)== ==[Divination](../../../rules/traits/divination.md)== ==[Oracle](../../../Traits/Oracle.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cursebound](../../../Traits/Cursebound.md)== ==[Divination](rules/traits/divination.md)== ==[Oracle](../../../Traits/Oracle.md)==
 *Source* Advanced Player's Guide pg. 234 2.0
 **Cast** ► somatic
 **Targets** 1 creature

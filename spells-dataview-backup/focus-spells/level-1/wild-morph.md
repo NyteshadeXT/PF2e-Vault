@@ -1,6 +1,6 @@
 # Wild Morph
 #pf2e/focus_spell/level_1 #pf2e/class/druid #pf2e/school/transmutation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Druid](../../../rules/traits/druid.md)== ==[Morph](../../../rules/traits/morph.md)== ==[Transmutation](../../../rules/traits/transmutation.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Druid](rules/traits/druid.md)== ==[Morph](rules/traits/morph.md)== ==[Transmutation](rules/traits/transmutation.md)==
 *Source* Core Rulebook pg. 400 3.0
 **Cast** ► to ►► somatic, verbal
 **Duration** 1 minute

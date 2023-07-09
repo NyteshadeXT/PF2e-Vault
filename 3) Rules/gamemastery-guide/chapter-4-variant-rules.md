@@ -815,7 +815,7 @@ If a character is dying at the start of their turn, their player can spend 1 Res
 title: Take a Breather
 collapse: closed
 # Take a Breather
-[exploration](../../../rules/traits/exploration.md)  
+[exploration](rules/traits/exploration.md)  
 *Source: Gamemastery Guide p. 200*  
 
 - **Cost**: 1 Resolve Point
@@ -827,7 +827,7 @@ You rest for 10 minutes and recover your stamina. After you complete this activi
 title: Rally
 collapse: closed
 # Rally
-[auditory](../../../rules/traits/auditory.md)  [emotion](../../../rules/traits/emotion.md)  [exploration](../../../rules/traits/exploration.md)  [linguistic](../../../rules/traits/linguistic.md)  [mental](../../../rules/traits/mental.md)  
+[auditory](rules/traits/auditory.md)  [emotion](rules/traits/emotion.md)  [exploration](rules/traits/exploration.md)  [linguistic](rules/traits/linguistic.md)  [mental](rules/traits/mental.md)  
 *Source: Gamemastery Guide p. 201*  
 
 - **Prerequisites**: trained in [Diplomacy](../../../compendium/skills.md#Diplomacy), [Intimidation](../../../compendium/skills.md#Intimidation), [Performance](../../../compendium/skills.md#Performance)
@@ -846,14 +846,14 @@ Attempt a DC 15 skill check. The GM might adjust this DC based on the circumstan
 <sup>GMG p. 200</sup>
 
 ```ad-embed-feat
-title: Encouraging Words [>](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action"), *Feat 2*
+title: Encouraging Words [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action"), *Feat 2*
 collapse: closed
-# Encouraging Words  [>](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
-[auditory](../../../rules/traits/auditory.md)  [general](../../../rules/traits/general.md)  [linguistic](../../../rules/traits/linguistic.md)  [mental](../../../rules/traits/mental.md)  [skill](../../../rules/traits/skill.md)  
+# Encouraging Words  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
+[auditory](rules/traits/auditory.md)  [general](rules/traits/general.md)  [linguistic](rules/traits/linguistic.md)  [mental](rules/traits/mental.md)  [skill](rules/traits/skill.md)  
 
 - **Prerequisites**: trained in [Diplomacy](../../../compendium/skills.md#Diplomacy)
 - **Requirements**: The target ally lost Stamina Points within the last round.
-- **Activity** Single Action ([>](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action"))
+- **Activity** Single Action ([>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action"))
 
 You give an ally within 30 feet a quick pep talk, helping them recover. Attempt a [Diplomacy](../../../compendium/skills.md#Diplomacy) check. The DC is usually 15, though the GM might adjust it based on the circumstances. If you have expert proficiency in [Diplomacy](../../../compendium/skills.md#Diplomacy), you can instead attempt a DC 20 check to increase the Stamina Points recovered by 5; if you have master proficiency, you can attempt a DC 30 check to increase the Stamina Points by 15; if you have legendary proficiency, you can attempt a DC 40 check to increase the Stamina Points by 25. No matter the result, the ally is temporarily immune to Encouraging Words until they either Take a Breather or rest for the day.
 
@@ -867,13 +867,13 @@ You give an ally within 30 feet a quick pep talk, helping them recover. Attempt 
 ```
 
 ```ad-embed-feat
-title: Steel Your Resolve [>](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action"), *Feat 3*
+title: Steel Your Resolve [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action"), *Feat 3*
 collapse: closed
-# Steel Your Resolve  [>](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 3*  
-[general](../../../rules/traits/general.md)  
+# Steel Your Resolve  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 3*  
+[general](rules/traits/general.md)  
 
 - **Cost**: 1 Resolve Point
-- **Activity** Single Action ([>](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action"))
+- **Activity** Single Action ([>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action"))
 
 Regain Stamina Points equal to half your maximum.
 

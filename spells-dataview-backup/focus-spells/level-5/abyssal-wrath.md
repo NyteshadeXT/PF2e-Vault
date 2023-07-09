@@ -1,6 +1,6 @@
 # Abyssal Wrath
 #pf2e/focus_spell/level_5 #pf2e/class/sorcerer #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Sorcerer](../../../rules/traits/sorcerer.md)==
+==[Uncommon](rulesncommon.md)== ==[Evocation](rules/traitrulesevocation.md)== ==rulesorcerer.md)==
 *Source* Core Rulebook pg. 402 3.0
 **Bloodline** demonic
 **Cast** ►► somatic, verbal

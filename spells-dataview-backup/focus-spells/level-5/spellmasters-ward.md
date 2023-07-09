@@ -1,6 +1,6 @@
 # Spellmaster's Ward
 #pf2e/focus_spell/level_5 #pf2e/school/abjuration 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Abjuration](../../../rules/traits/abjuration.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Abjuration](rules/traits/abjuration.md)==
 *Source* PFS Guide pg. 49
 **Cast** ► to ►►► material, somatic, verbal
 **Duration** sustained up to 1 minute

@@ -1,6 +1,6 @@
 # Shooting Star
 #pf2e/focus_spell/level_1 #pf2e/class/magus #pf2e/school/divination 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Divination](../../../rules/traits/divination.md)== ==[Magus](../../../Traits/Magus.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Divination](rules/traits/divination.md)== ==[Magus](../../../Traits/Magus.md)==
 *Source* Secrets of Magic pg. 143 1.1
 **Cast** ► verbal; **Requirements** You're wielding a ranged weapon or a thrown weapon.
 

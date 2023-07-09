@@ -1,6 +1,6 @@
 # Wish-Twisted Form
 #pf2e/focus_spell/level_5 #pf2e/class/sorcerer #pf2e/school/transmutation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Sorcerer](../../../rules/traits/sorcerer.md)== ==[Transmutation](../../../rules/traits/transmutation.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Sorcerer](rules/traits/sorcerer.md)== ==[Transmutation](rules/traits/transmutation.md)==
 *Source* Advanced Player's Guide pg. 237 2.0
 **Bloodline** genie
 **Cast** ►► somatic, verbal

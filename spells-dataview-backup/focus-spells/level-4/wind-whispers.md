@@ -1,6 +1,6 @@
 # Wind Whispers
 #pf2e/focus_spell/level_4 #pf2e/class/cleric #pf2e/school/enchantment 
-==[Rare](../../../rules/traits/rare.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Enchantment](../../../rules/traits/enchantment.md)== ==[Linguistic](../../../rules/traits/linguistic.md)== ==[Mental](../../../rules/traits/mental.md)==
+==[Rare](rules/traits/rare.md)== ==[Cleric](rules/traits/cleric.md)== ==[Enchantment](rules/traits/enchantment.md)== ==[Linguistic](rules/traits/linguistic.md)== ==[Mental](rules/traits/mental.md)==
 *Source* Dark Archive pg. 144
 **Domain** air (apocryphal)
 **Cast** 1 hour (material, somatic, verbal)

@@ -1,6 +1,6 @@
 # Ephemeral Hazards
 #pf2e/focus_spell/level_4 #pf2e/school/illusion 
-==[Illusion](../../../rules/traits/illusion.md)== ==[Mental](../../../rules/traits/mental.md)== ==[Visual](../../../rules/traits/visual.md)==
+==[Illusion](rules/traits/illusion.md)== ==[Mental](rules/traits/mental.md)== ==[Visual](rules/traits/visual.md)==
 *Source* Gods & Magic pg. 113 2.0
 **Domain** delirium
 **Cast** ►►► material, somatic, verbal

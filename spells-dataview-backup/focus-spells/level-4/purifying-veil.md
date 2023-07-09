@@ -1,6 +1,6 @@
 # Purifying Veil
 #pf2e/focus_spell/level_4 #pf2e/class/cleric #pf2e/school/evocation 
-==[Rare](../../../rules/traits/rare.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Good](../../../rules/traits/good.md)== ==[Water](../../../rules/traits/water.md)==
+==[Rare](rules/traits/rare.md)== ==[Cleric](rules/traits/cleric.md)== ==[Evocation](rules/traits/evocation.md)== ==[Good](rules/traits/good.md)== ==[Water](rules/traits/water.md)==
 *Source* Dark Archive pg. 143
 **Domain** water (apocryphal)
 **Cast** ►► somatic, verbal

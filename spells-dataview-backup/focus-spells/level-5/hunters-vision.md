@@ -1,6 +1,6 @@
 # Hunter's Vision
 #pf2e/focus_spell/level_5
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Divination](../../../rules/traits/divination.md)== ==[Ranger](../../../rules/traits/ranger.md)==
+==[Uncommon](rulesd)== ==[Divination](rules/traits/divination.md)== ==[Ranger](rules/traits/ranger.md)==
 *Source* Advanced Player's Guide pg. 235 2.0
 **Cast** ► verbal
 **Range** 30 feet; **Targets** 1 hunted prey

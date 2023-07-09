@@ -1,6 +1,6 @@
 # Community Repair
 #pf2e/ritual/level_4
-==[Rare](../../../rules/traits/rare.md)== ==[Emotion](../../../rules/traits/emotion.md)== ==[Transmutation](../../../rules/traits/transmutation.md)==
+==[Rare](rules/traits/rare.md)== ==[Emotion](rules/traits/emotion.md)== ==[Transmutation](rules/traits/transmutation.md)==
 *Source* Pathfinder Release 170: Spoken on the Song Wind pg. 75
 **Cast** 1 day; **Cost** rare powdered pigments in at least three different colors, worth a total of 50 gp; **Secondary Casters** 4 or more
 **Primary Check** Performance (expert); **Secondary Check** Crafting, Performance, Society

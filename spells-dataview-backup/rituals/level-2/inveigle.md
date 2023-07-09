@@ -1,6 +1,6 @@
 # Inveigle
 #pf2e/ritual/level_2
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Enchantment](../../../rules/traits/enchantment.md)== ==[Mental](../../../rules/traits/mental.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Enchantment](rules/traits/enchantment.md)== ==[Mental](rules/traits/mental.md)==
 *Source* Core Rulebook pg. 413 3.0
 **Cast** 1 day; **Cost** rare oils worth a total value of 10 gp × the target’s level
 **Primary Check** Arcana (expert), Occultism (expert), or Religion (expert)

@@ -836,7 +836,7 @@ Creatures with certain traits tend to have similar abilities to one another. Man
 ```ad-pf2-note
 title: Aberration
   
-usually [darkvision](../../../rules/abilities/darkvision.md)
+usually [darkvision](rules/abilities/darkvision.md)
 
 usually Aklo
 ```
@@ -844,7 +844,7 @@ usually Aklo
 ```ad-pf2-note
 title: Aeon
   
-[LN](../../../rules/traits/lawful-neutral-b1.md), [monitor](../../../rules/traits/monitor.md)
+[LN](rules/traits/lawful-neutral-b1.md), [monitor](rules/traits/monitor.md)
 
 usually Utopian and other planar languages; envisioning for true aeons
 
@@ -864,7 +864,7 @@ Many air creatures have fly Speeds.
 ```ad-pf2-note
 title: Angel
   
-good (usually [NG](../../../rules/traits/neutral-good-b1.md)), [celestial](../../../rules/traits/celestial.md)
+good (usually [NG](rules/traits/neutral-good-b1.md)), [celestial](rules/traits/celestial.md)
 
 Angels each have a unique aura based on how they serve as messengers and how they deliver those messages.
 
@@ -876,7 +876,7 @@ usually angelic messenger
 ```ad-pf2-note
 title: Animal
   
-[N](../../../rules/traits/neutral-b1.md)
+[N](rules/traits/neutral-b1.md)
 
 None
 
@@ -886,7 +886,7 @@ None
 ```ad-pf2-note
 title: Archon
   
-[LG](../../../rules/traits/lawful-goo-b1.md), [celestial](../../../rules/traits/celestial.md)
+[LG](rules/traits/lawful-goo-b1.md), [celestial](rules/traits/celestial.md)
 
 Archons each represent a specific virtue, like courage or hope, and have a special ability based on the virtue they represent.
 ```
@@ -894,13 +894,13 @@ Archons each represent a specific virtue, like courage or hope, and have a speci
 ```ad-pf2-note
 title: Astral
   
-[Darkvision](../../../rules/abilities/darkvision.md)
+[Darkvision](rules/abilities/darkvision.md)
 ```
 
 ```ad-pf2-note
 title: Azata
   
-[CG](../../../rules/traits/chaotic-good-b1.md), [celestial](../../../rules/traits/celestial.md)
+[CG](rules/traits/chaotic-good-b1.md), [celestial](rules/traits/celestial.md)
 
 cold iron, evil
 
@@ -918,7 +918,7 @@ title: Celestial
   
 good
 
-[darkvision](../../../rules/abilities/darkvision.md)
+[darkvision](rules/abilities/darkvision.md)
 
 Celestial
 
@@ -938,15 +938,15 @@ or **Resistances** cold
 ```ad-pf2-note
 title: Construct
   
-Many constructs lack minds and have the [mindless](../../../rules/traits/mindless.md) trait.
+Many constructs lack minds and have the [mindless](rules/traits/mindless.md) trait.
 
-bleed, death effects, diseased, [doomed](../../../rules/conditions.md#Doomed), [drained](../../../rules/conditions.md#Drained), [fatigued](../../../rules/conditions.md#Fatigued), healing, necromancy, nonlethal attacks, [paralyzed](../../../rules/conditions.md#Paralyzed), poison, [sickened](../../../rules/conditions.md#Sickened), [unconscious](../../../rules/conditions.md#Unconscious); if [mindless](../../../rules/traits/mindless.md), add mental
+bleed, death effects, diseased, [doomed](rules/conditions.md#Doomed), [drained](rules/conditions.md#Drained), [fatigued](rules/conditions.md#Fatigued), healing, necromancy, nonlethal attacks, [paralyzed](rules/conditions.md#Paralyzed), poison, [sickened](rules/conditions.md#Sickened), [unconscious](rules/conditions.md#Unconscious); if [mindless](rules/traits/mindless.md), add mental
 ```
 
 ```ad-pf2-note
 title: Daemon
   
-[NE](../../../rules/traits/neutral-evil-b1.md), [fiend](../../../rules/traits/fiend.md)
+[NE](rules/traits/neutral-evil-b1.md), [fiend](rules/traits/fiend.md)
 
 Daemonic, telepathy 100 feet
 
@@ -958,7 +958,7 @@ Daemons each represent a specific kind of death, like death by disease or starva
 ```ad-pf2-note
 title: Demon
   
-[CE](../../../rules/traits/chaotic-evil-b1.md), [fiend](../../../rules/traits/fiend.md)
+[CE](rules/traits/chaotic-evil-b1.md), [fiend](rules/traits/fiend.md)
 
 Abyssal, telepathy (usually 100 feet)
 
@@ -978,7 +978,7 @@ Demons also have a special ability based on the sin they represent, which either
 ```ad-pf2-note
 title: Devil
   
-[LE](../../../rules/traits/lawful-evil-b1.md), [fiend](../../../rules/traits/fiend.md)
+[LE](rules/traits/lawful-evil-b1.md), [fiend](rules/traits/fiend.md)
 
 Infernal, telepathy (usually 100 feet)
 
@@ -996,7 +996,7 @@ Devils each have an ability corresponding to the role they play in the infernal 
 ```ad-pf2-note
 title: Dragon
   
-[darkvision](../../../rules/abilities/darkvision.md)
+[darkvision](rules/abilities/darkvision.md)
 
 usually Draconic
 
@@ -1008,7 +1008,7 @@ Many dragons have the Breath Weapon ability, with specifics determined by the th
 ```ad-pf2-note
 title: Earth
   
-often [tremorsense](../../../rules/abilities/tremorsense.md)
+often [tremorsense](rules/abilities/tremorsense.md)
 
 usually Terran
 
@@ -1018,21 +1018,21 @@ usually has a burrow Speed
 ```ad-pf2-note
 title: Elemental
   
-[darkvision](../../../rules/abilities/darkvision.md)
+[darkvision](rules/abilities/darkvision.md)
 
-bleed, [paralyzed](../../../rules/conditions.md#Paralyzed), poison, sleep
+bleed, [paralyzed](rules/conditions.md#Paralyzed), poison, sleep
 ```
 
 ```ad-pf2-note
 title: Ethereal
   
-[darkvision](../../../rules/abilities/darkvision.md)
+[darkvision](rules/abilities/darkvision.md)
 ```
 
 ```ad-pf2-note
 title: Fey
   
-[low-light vision](../../../rules/abilities/low-light-vision.md)
+[low-light vision](rules/abilities/low-light-vision.md)
 
 usually Aklo, Sylvan, or both
 
@@ -1044,7 +1044,7 @@ title: Fiend
   
 evil
 
-[darkvision](../../../rules/abilities/darkvision.md)
+[darkvision](rules/abilities/darkvision.md)
 
 often a +1 status bonus to all saves vs. magic
 
@@ -1066,9 +1066,9 @@ cold
 ```ad-pf2-note
 title: Fungus
   
-fungi without minds have the [mindless](../../../rules/traits/mindless.md) trait
+fungi without minds have the [mindless](rules/traits/mindless.md) trait
 
-if [mindless](../../../rules/traits/mindless.md), mental
+if [mindless](rules/traits/mindless.md), mental
 
 sometimes slashing or fire
 ```
@@ -1076,9 +1076,9 @@ sometimes slashing or fire
 ```ad-pf2-note
 title: Giant
   
-[Large](../../../rules/traits/large-b1.md) or bigger, [humanoid](../../../rules/traits/humanoid.md)
+[Large](rules/traits/large-b1.md) or bigger, [humanoid](rules/traits/humanoid.md)
 
-[low-light vision](../../../rules/abilities/low-light-vision.md)
+[low-light vision](rules/abilities/low-light-vision.md)
 
 usually Jotun
 ```
@@ -1092,9 +1092,9 @@ title: Humanoid
 ```ad-pf2-note
 title: Inevitable
   
-[LN](../../../rules/traits/lawful-neutral-b1.md), [aeon](../../../rules/traits/aeon-b1.md), [monitor](../../../rules/traits/monitor.md)
+[LN](rules/traits/lawful-neutral-b1.md), [aeon](rules/traits/aeon-b1.md), [monitor](rules/traits/monitor.md)
 
-[death effects](../../../rules/traits/death.md), disease, [emotion](../../../rules/traits/emotion.md), poison, [unconscious](../../../rules/conditions.md#Unconscious)
+[death effects](rules/traits/death.md), disease, [emotion](rules/traits/emotion.md), poison, [unconscious](rules/conditions.md#Unconscious)
 
 Attacks always deal additional lawful damage.
 ```
@@ -1102,15 +1102,15 @@ Attacks always deal additional lawful damage.
 ```ad-pf2-note
 title: Monitor
   
-neither [good](../../../rules/traits/good.md) nor [evil](../../../rules/traits/evil.md)
+neither [good](rules/traits/good.md) nor [evil](rules/traits/evil.md)
 
-[darkvision](../../../rules/abilities/darkvision.md)
+[darkvision](rules/abilities/darkvision.md)
 ```
 
 ```ad-pf2-note
 title: Ooze
   
-Almost all oozes lack minds and have the [mindless](../../../rules/traits/mindless.md) trait.
+Almost all oozes lack minds and have the [mindless](rules/traits/mindless.md) trait.
 
 typically motion sense (Bestiary 254) and no vision
 
@@ -1118,17 +1118,17 @@ usually well below the low value for their level
 
 usually around double
 
-critical hits, precision, [unconscious](../../../rules/conditions.md#Unconscious), often acid; if it has no vision, add [visual effects](../../../rules/traits/visual.md); if [mindless](../../../rules/traits/mindless.md), add mental
+critical hits, precision, [unconscious](rules/conditions.md#Unconscious), often acid; if it has no vision, add [visual effects](rules/traits/visual.md); if [mindless](rules/traits/mindless.md), add mental
 ```
 
 ```ad-pf2-note
 title: Plant
   
-plants without minds have the [mindless](../../../rules/traits/mindless.md) trait
+plants without minds have the [mindless](rules/traits/mindless.md) trait
 
-usually [low-light vision](../../../rules/abilities/low-light-vision.md)
+usually [low-light vision](rules/abilities/low-light-vision.md)
 
-if [mindless](../../../rules/traits/mindless.md), mental
+if [mindless](rules/traits/mindless.md), mental
 
 sometimes fire
 ```
@@ -1136,7 +1136,7 @@ sometimes fire
 ```ad-pf2-note
 title: Protean
   
-[CN](../../../rules/traits/chaotic-neutral-b1.md), [monitor](../../../rules/traits/monitor.md)
+[CN](rules/traits/chaotic-neutral-b1.md), [monitor](rules/traits/monitor.md)
 
 Protean
 
@@ -1156,13 +1156,13 @@ constant [freedom of movement](../../../compendium/spells/freedom-of-movement.md
 ```ad-pf2-note
 title: Psychopomp
   
-[N](../../../rules/traits/neutral-b1.md), [monitor](../../../rules/traits/monitor.md)
+[N](rules/traits/neutral-b1.md), [monitor](rules/traits/monitor.md)
 
 lifesense (typically 60 feet)
 
 Requian
 
-[death effects](../../../rules/traits/death.md), disease
+[death effects](rules/traits/death.md), disease
 
 negative, poison
 
@@ -1172,7 +1172,7 @@ spirit touch (Bestiary 270)
 ```ad-pf2-note
 title: Rakshasa
   
-[LE](../../../rules/traits/lawful-evil-b1.md), [fiend](../../../rules/traits/fiend.md)
+[LE](rules/traits/lawful-evil-b1.md), [fiend](rules/traits/fiend.md)
 
 usually +2 status bonus to all saves vs. magic (+3 vs. divine magic)
 
@@ -1184,13 +1184,13 @@ physical (except piercing)
 ```ad-pf2-note
 title: Spirit
   
-[incorporeal](../../../rules/traits/incorporeal-b1.md), often [undead](../../../rules/traits/undead.md)
+[incorporeal](rules/traits/incorporeal-b1.md), often [undead](rules/traits/undead.md)
 ```
 
 ```ad-pf2-note
 title: Swarm
   
-size based on the entire mass, usually [Large](../../../rules/traits/large-b1.md) or bigger
+size based on the entire mass, usually [Large](rules/traits/large-b1.md) or bigger
 
 typically low
 
@@ -1204,13 +1204,13 @@ physical, usually with one physical type having lower or no resistance
 ```ad-pf2-note
 title: Undead
   
-Almost all undead are [evil](../../../rules/traits/evil.md). Ghostly undead have the [incorporeal](../../../rules/traits/incorporeal-b1.md) trait. Undead without minds, such as most zombies, have the [mindless](../../../rules/traits/mindless.md) trait.
+Almost all undead are [evil](rules/traits/evil.md). Ghostly undead have the [incorporeal](rules/traits/incorporeal-b1.md) trait. Undead without minds, such as most zombies, have the [mindless](rules/traits/mindless.md) trait.
 
-[darkvision](../../../rules/abilities/darkvision.md)
+[darkvision](rules/abilities/darkvision.md)
 
 negative healing
 
-[death effects](../../../rules/traits/death.md), disease, [paralyzed](../../../rules/conditions.md#Paralyzed), poison, sleep (or unconscious if it never rests at all); if [mindless](../../../rules/traits/mindless.md), add mental
+[death effects](rules/traits/death.md), disease, [paralyzed](rules/conditions.md#Paralyzed), poison, sleep (or unconscious if it never rests at all); if [mindless](rules/traits/mindless.md), add mental
 ```
 
 ```ad-pf2-note
@@ -2165,13 +2165,13 @@ title: Saving Throw: Fortitude (dc Equals That Of The Drug)
 
 ## Stages
 
-**Stage 1** [fatigued](../../../rules/conditions.md#Fatigued) (1 week)
+**Stage 1** [fatigued](rules/conditions.md#Fatigued) (1 week)
 
-**Stage 2** [fatigued](../../../rules/conditions.md#Fatigued) and [sickened](../../../rules/conditions.md#Sickened) (1 week)
+**Stage 2** [fatigued](rules/conditions.md#Fatigued) and [sickened](rules/conditions.md#Sickened) (1 week)
 
-**Stage 3** [fatigued](../../../rules/conditions.md#Fatigued), [drained](../../../rules/conditions.md#Drained) and [sickened](../../../rules/conditions.md#Sickened) (1 week)
+**Stage 3** [fatigued](rules/conditions.md#Fatigued), [drained](rules/conditions.md#Drained) and [sickened](rules/conditions.md#Sickened) (1 week)
 
-**Stage 4** [fatigued](../../../rules/conditions.md#Fatigued), [drained](../../../rules/conditions.md#Drained), [sickened](../../../rules/conditions.md#Sickened) and [stupefied](../../../rules/conditions.md#Stupefied) (1 week)
+**Stage 4** [fatigued](rules/conditions.md#Fatigued), [drained](rules/conditions.md#Drained), [sickened](rules/conditions.md#Sickened) and [stupefied](rules/conditions.md#Stupefied) (1 week)
 ```
 
 *Source: Gamemastery Guide p. 120*

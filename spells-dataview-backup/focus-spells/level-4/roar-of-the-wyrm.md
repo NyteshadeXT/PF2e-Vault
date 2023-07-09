@@ -1,6 +1,6 @@
 # Roar of the Wyrm
 #pf2e/focus_spell/level_4 #pf2e/school/enchantment 
-==[Auditory](../../../rules/traits/auditory.md)== ==[Emotion](../../../rules/traits/emotion.md)== ==[Enchantment](../../../rules/traits/enchantment.md)== ==[Mental](../../../rules/traits/mental.md)==
+==[Auditory](rules/traits/auditory.md)== ==[Emotion](rules/traits/emotion.md)== ==[Enchantment](rules/traits/enchantment.md)== ==[Mental](rules/traits/mental.md)==
 *Source* Gods & Magic pg. 119 2.0
 **Domain** wyrmkin
 **Cast** ►► somatic, verbal
@@ -15,4 +15,4 @@ You channel the might of dragons into your voice, letting out a roar that engend
 **Failure** The creature is frightened 2.
 **Critical Failure** The creature is frightened 3 and [Fleeing](../../../Conditions/Fleeing.md) for 1 round.
 
-Roar of the wyrm affects non-dragon creatures with deep ties to dragonkind (such as a barbarian with the draconic instinct, a sorcerer with the draconic bloodline, or a member of a culture that reveres dragons) as if they had the [Dragon](../../../rules/traits/dragon.md) trait. The GM decides if a creature is aligned enough with dragonkind to be affected in this way.
+Roar of the wyrm affects non-dragon creatures with deep ties to dragonkind (such as a barbarian with the draconic instinct, a sorcerer with the draconic bloodline, or a member of a culture that reveres dragons) as if they had the [Dragon](rules/traits/dragon.md) trait. The GM decides if a creature is aligned enough with dragonkind to be affected in this way.

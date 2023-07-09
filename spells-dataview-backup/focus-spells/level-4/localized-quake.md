@@ -1,6 +1,6 @@
 # Localized Quake
 #pf2e/focus_spell/level_4 #pf2e/class/cleric #pf2e/school/transmutation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Earth](../../../rules/traits/earth.md)== ==[Transmutation](../../../rules/traits/transmutation.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cleric](rules/traits/cleric.md)== ==[Earth](rules/traits/earth.md)== ==[Transmutation](rules/traits/transmutation.md)==
 *Source* Core Rulebook pg. 393 3.0
 **Domain** earth
 **Cast** ►► somatic, verbal

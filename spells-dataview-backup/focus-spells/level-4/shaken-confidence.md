@@ -1,6 +1,6 @@
 # Shaken Confidence
 #pf2e/focus_spell/level_4 #pf2e/class/cleric #pf2e/school/enchantment 
-==[Rare](../../../rules/traits/rare.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Emotion](../../../rules/traits/emotion.md)== ==[Enchantment](../../../rules/traits/enchantment.md)== ==[Mental](../../../rules/traits/mental.md)== ==[Misfortune](../../../rules/traits/misfortune.md)==
+==[Rare](rules/traits/rare.md)== ==[Cleric](rules/traits/cleric.md)== ==[Emotion](rules/traits/emotion.md)== ==[Enchantment](rules/traits/enchantment.md)== ==[Mental](rules/traits/mental.md)== ==[Misfortune](rules/traits/misfortune.md)==
 *Source* Dark Archive pg. 143
 **Domain** confidence (apocryphal)
 **Cast** ◄ verbal; Trigger An enemy within 30 feet of you critically fails an attack roll, Perception check, or skill check

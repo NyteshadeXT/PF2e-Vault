@@ -1,6 +1,6 @@
 # Tempt Fate
 #pf2e/focus_spell/level_4 #pf2e/school/divination #pf2e/class/cleric 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Divination](../../../rules/traits/divination.md)== ==[Fortune](../../../rules/traits/fortune.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cleric](rules/traits/cleric.md)== ==[Divination](rules/traits/divination.md)== ==[Fortune](rules/traits/fortune.md)==
 *Source* Core Rulebook pg. 397 3.0
 **Domain** fate
 **Cast** ◄ somatic; **Trigger** You or an ally within range attempts a saving throw

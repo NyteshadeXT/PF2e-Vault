@@ -1,6 +1,6 @@
 # Touch of Corruption
 #pf2e/focus_spell/level_1 #pf2e/class/champion #pf2e/school/necromancy 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Champion](../../../rules/traits/champion.md)== ==[Necromancy](../../../rules/traits/necromancy.md)== ==[Negative](../../../rules/traits/negative.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Champion](rules/traits/champion.md)== ==[Necromancy](rules/traits/necromancy.md)== ==[Negative](rules/traits/negative.md)==
 *Source* Advanced Player's Guide pg. 229 2.0, Gamemastery Guide pg. 247
 **Cast** ► somatic
 **Range** touch; **Targets** 1 willing undead creature or 1 living creature

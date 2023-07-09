@@ -1,6 +1,6 @@
 # Moonbeam
 #pf2e/focus_spell/level_1 #pf2e/class/cleric #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Attack](../../../rules/traits/attack.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Fire](../../../rules/traits/fire.md)== ==[1 TTRPG/PF2e Wiki/Traits/Light](1%20TTRPG/PF2e%20Wiki/Traits/Light)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Attack](rules/traits/attack.md)== ==[Cleric](rules/traits/cleric.md)== ==[Evocation](rules/traits/evocation.md)== ==[Fire](rules/traits/fire.md)== ==[1 TTRPG/PF2e Wiki/Traits/Light](1%20TTRPG/PF2e%20Wiki/Traits/Light)==
 *Source* Core Rulebook pg. 394 3.0
 **Domain** moon
 **Cast** ►► somatic, verbal

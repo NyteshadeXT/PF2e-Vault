@@ -29,7 +29,7 @@ You touch the target to afflict it with ghoul fever, infesting it with hunger an
 ```ad-inline-affliction
 title: Ghoul Fever _Level 3_
 
-[disease](../../../rules/traits/disease.md)  
+[disease](rules/traits/disease.md)  
 
 ## Stages
 

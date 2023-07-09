@@ -12,7 +12,7 @@ tags:
 aliases: ["Mosquito Blight"]
 ---
 # Mosquito Blight *Ritual 5*  
-[conjuration](../../../rules/traits/conjuration.md)  [disease](../../../rules/traits/disease.md)  [necromancy](../../../rules/traits/necromancy.md)  [rare](../../../rules/traits/rare.md)  
+[conjuration](rules/traits/conjuration.md)  [disease](rules/traits/disease.md)  [necromancy](rules/traits/necromancy.md)  [rare](rules/traits/rare.md)  
 
 - **Cast** 1 day
 - **Cost** amber and rare incense worth 750 gp
@@ -26,7 +26,7 @@ title: Witch's Hunger, _Disease 1_
 collapse: closed
 # Witch's Hunger
 *Disease 1*  
-[disease](../../../rules/traits/disease.md)  
+[disease](rules/traits/disease.md)  
 
 ```ad-inline-affliction
 title: Saving Throw: Fortitude
@@ -35,13 +35,13 @@ title: Saving Throw: Fortitude
 
 ## Stages
 
-**Stage 1** [enfeebled](../../../rules/conditions.md#Enfeebled) (1 day)
+**Stage 1** [enfeebled](rules/conditions.md#Enfeebled) (1 day)
 
-**Stage 2** [enfeebled](../../../rules/conditions.md#Enfeebled) (1 day)
+**Stage 2** [enfeebled](rules/conditions.md#Enfeebled) (1 day)
 
-**Stage 3** [enfeebled](../../../rules/conditions.md#Enfeebled) and [slowed](../../../rules/conditions.md#Slowed) (1 day)
+**Stage 3** [enfeebled](rules/conditions.md#Enfeebled) and [slowed](rules/conditions.md#Slowed) (1 day)
 
-**Stage 4** [unconscious](../../../rules/conditions.md#Unconscious) (1 day)
+**Stage 4** [unconscious](rules/conditions.md#Unconscious) (1 day)
 
 **Stage 5** death
 ```

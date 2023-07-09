@@ -1,6 +1,6 @@
 # Steal Shadow
 #pf2e/focus_spell/level_3 #pf2e/class/sorcerer #pf2e/school/necromancy 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Necromancy](../../../rules/traits/necromancy.md)== ==[Shadow](../../../rules/traits/shadow.md)== ==[Sorcerer](../../../rules/traits/sorcerer.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Necromancy](rules/traits/necromancy.md)== ==[Shadow](rules/traits/shadow.md)== ==[Sorcerer](rules/traits/sorcerer.md)==
 *Source* Advanced Player's Guide pg. 237 2.0
 **Bloodline** shadow
 **Cast** ►► somatic, verbal

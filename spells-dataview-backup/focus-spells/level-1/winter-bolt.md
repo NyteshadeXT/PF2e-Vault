@@ -1,6 +1,6 @@
 # Winter Bolt
 #pf2e/focus_spell/level_1 #pf2e/school/evocation 
-==[Attack](../../../rules/traits/attack.md)== ==[Cold](../../../rules/traits/cold.md)== ==[Evocation](../../../rules/traits/evocation.md)==
+==[Attack](rules/traits/attack.md)== ==[Cold](rules/traits/cold.md)== ==[Evocation](rules/traits/evocation.md)==
 *Source* Gods & Magic pg. 112 2.0
 **Domain** cold
 **Cast** ►► somatic, verbal

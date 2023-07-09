@@ -1,6 +1,6 @@
 # Delay Consequence
 #pf2e/focus_spell/level_1 #pf2e/school/abjuration 
-==[Abjuration](../../../rules/traits/abjuration.md)==
+==[Abjuration](rules/traits/abjuration.md)==
 *Source* Gods & Magic pg. 118 2.0
 **Domain** time
 **Cast** ◄ somatic; **Trigger** A creature or object within range is hit by an attack.

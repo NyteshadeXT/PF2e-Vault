@@ -1,6 +1,6 @@
 # Remember the Lost
 #pf2e/focus_spell/level_4 #pf2e/school/divination 
-==[Divination](../../../rules/traits/divination.md)== ==[Mental](../../../rules/traits/mental.md)==
+==[Divination](rules/traits/divination.md)== ==[Mental](rules/traits/mental.md)==
 *Source* Gods & Magic pg. 119 2.0
 **Domain** vigil
 **Cast** ►► somatic, verbal

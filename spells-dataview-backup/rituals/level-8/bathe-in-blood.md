@@ -1,6 +1,6 @@
 # Bathe in Blood
 #pf2e/ritual/level_8
-==[Rare](../../../rules/traits/rare.md)== ==[Necromancy](../../../rules/traits/necromancy.md)==
+==[Rare](rules ==[Necromancy](rules/traits/necromancy.md)==
 *Source* Secrets of Magic pg. 148 1.1
 **Cast** 1 day; **Cost** alchemical herbs and components worth a total of 1,000 gp × the target's level; **Secondary Casters** 2
 **Primary Check** Occultism (expert); **Secondary Check** Religion, Society
@@ -15,7 +15,7 @@ This ritual doesn't strictly require that the blood donors be killed and [Draine
 
 Each time you enact this ritual, regardless of its success or failure, you take a penalty to the primary check for all subsequent castings. This penalty starts at –1 and increases by –1 during each casting (so if you were casting this ritual on yourself for the fifth time, you would take a –4 penalty on your Occultism check).
 
-**Critical Success** You emerge rejuvenated and revived. You become up to 40 years younger, returning to the prime of youth and life. If you're already at your desired age, your aging instead stops for the next 40 years. While remaining recognizably yourself, you also become preternaturally attractive, gaining a +1 circumstance bonus to [Make an Impression](../../../Rules/Actions/Make%20an%20Impression.md).
+**Critical Success** You emerge rejuvenated and revived. You become up to 40 years younger, returning to the prime of youth and life. If you're already at your desired age, your aging instead stops for the next 40 years. While remaining recognizably yourself, you also become preternaturally attractive, gaining a +1 circumstance bonus to [Make an Impression](rules/Actions/Make%20an%20Impression.md).
 **Success** You become 20 years younger or pause your aging for 20 years.
 **Failure** The ritual has no effect.
-**Critical Failure** You die. Casters killed this way frequently return as [Undead](../../../rules/traits/undead.md), often as ghosts or vampires.
+**Critical Failure** You die. Casters killed this way frequently return as [Undead](rules/traits/undead.md), often as ghosts or vampires.

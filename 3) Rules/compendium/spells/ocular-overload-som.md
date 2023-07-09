@@ -20,8 +20,8 @@ aliases: ["Ocular Overload"]
 Just as a creature is about to attack you, you assault them with jarring illusions, completely surrounding their eyes with blinding flashes of motion and color. When the spell is complete, you gain the Overload Vision reaction; once you use the reaction, the spell ends.
 
 ```ad-embed-ability
-title: Overload Vision [R](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[concentrate](../../../rules/traits/concentrate.md)  
+title: Overload Vision [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+[concentrate](rules/traits/concentrate.md)  
 
 - **Trigger**: A creature within 60 feet would make an attack roll against you
 

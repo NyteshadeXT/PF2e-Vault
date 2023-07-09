@@ -1,6 +1,6 @@
 # Resurrect
 #pf2e/ritual/level_5
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Healing](../../../rules/traits/healing.md)== ==[Necromancy](../../../rules/traits/necromancy.md)==
+==[Uncommon](rulesncommon.md)== ==[Healing](rules/traits/healing.md)== ==[Necromancy](rules/traits/necromancy.md)==
 *Source* Core Rulebook pg. 415 3.0
 **Note** All characters have access to resurrect
 **Cast** 1 day; **Cost** diamonds worth a total value of 75 gp × the target’s level; **Secondary Casters** 2

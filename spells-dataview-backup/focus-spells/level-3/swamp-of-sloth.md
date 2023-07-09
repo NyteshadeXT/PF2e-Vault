@@ -1,6 +1,6 @@
 # Swamp of Sloth
 #pf2e/focus_spell/level_3 #pf2e/class/sorcerer #pf2e/school/conjuration 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Conjuration](../../../rules/traits/conjuration.md)== ==[Olfactory](../../../Traits/Olfactory.md)== ==[Sorcerer](../../../rules/traits/sorcerer.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Conjuration](rules/traits/conjuration.md)== ==[Olfactory](../../../Traits/Olfactory.md)== ==[Sorcerer](rules/traits/sorcerer.md)==
 *Source* Core Rulebook pg. 405 3.0
 **Bloodline** demonic
 **Cast** ► to ►►► somatic, verbal

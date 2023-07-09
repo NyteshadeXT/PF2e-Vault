@@ -10,12 +10,12 @@ tags:
 - domain/zeal/deity
 aliases: ["Ydersius"]
 ---
-# Ydersius *([CE](../../../rules/traits/chaotic-evil-b1.md))*  
+# Ydersius *([CE](rules/traits/chaotic-evil-b1.md))*  
 *Source: Bestiary 2 p. 237*  
 
 - **Category**: Other Gods
 - **Anathema**: put the needs of others above those of serpentfolk, aid the spawn of Azlant
-- **Follower Alignments**: [LE](../../../rules/traits/lawful-evil-b1.md), [NE](../../../rules/traits/neutral-evil-b1.md), [CE](../../../rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [LE](rules/traits/lawful-evil-b1.md), [NE](rules/traits/neutral-evil-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
 
 ## Devotee benefits
 

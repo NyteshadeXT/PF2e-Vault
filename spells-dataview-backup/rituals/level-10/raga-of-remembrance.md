@@ -1,6 +1,6 @@
 # Raga of Remembrance
 #pf2e/ritual/level_10 #pf2e/school/necromancy #pf2e/tradition/occult
-==[unique](../../../rules/traits/unique.md)== ==[Necromancy](../../../rules/traits/necromancy.md)==
+==[unique](rulesnique.md)== ==[Necromancy](rulesecromancy.md)==
 *Source* Monsters of Myth pg. 53
 **Cast** 1 hour; **Cost** ceramics, incense, and pigments worth 100,000 gp; **Secondary Casters** 3
 **Primary Check** Occultism or Religion (legendary); **Secondary Check** Diplomacy or Performance; Nature; Religion or Society

@@ -10,12 +10,12 @@ tags:
 - domain/vigil/deity
 aliases: ["Winlas", "The Elder of Divinity"]
 ---
-# Winlas (The Elder of Divinity) *([LG](../../../rules/traits/lawful-goo-b1.md))*  
+# Winlas (The Elder of Divinity) *([LG](rules/traits/lawful-goo-b1.md))*  
 *Source: Lost Omens: Gods & Magic p. 128*  
 
 - **Category**: Empyreal Lords
 - **Anathema**: deride sacred ceremonies, carelessly or lazily perform rituals, destroy ceremonial objects
-- **Follower Alignments**: [LG](../../../rules/traits/lawful-goo-b1.md), [LN](../../../rules/traits/lawful-neutral-b1.md), [NG](../../../rules/traits/neutral-good-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [LN](rules/traits/lawful-neutral-b1.md), [NG](rules/traits/neutral-good-b1.md)
 
 ## Devotee benefits
 

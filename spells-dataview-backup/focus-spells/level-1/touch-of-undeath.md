@@ -1,6 +1,6 @@
 # Touch of Undeath
 #pf2e/focus_spell/level_1 #pf2e/class/cleric #pf2e/school/necromancy 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Necromancy](../../../rules/traits/necromancy.md)== ==[Negative](../../../rules/traits/negative.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cleric](rules/traits/cleric.md)== ==[Necromancy](rules/traits/necromancy.md)== ==[Negative](rules/traits/negative.md)==
 *Source* Core Rulebook pg. 398 3.0
 **Domain** undeath
 **Cast** ► somatic

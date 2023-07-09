@@ -1,6 +1,6 @@
 # Stumbling Curse
 #pf2e/focus_spell/level_1 #pf2e/class/witch #pf2e/school/transmutation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Curse](../../../rules/traits/curse.md)== ==[Hex](../../../Traits/Hex.md)== ==[Transmutation](../../../rules/traits/transmutation.md)== ==[Witch](../../../Traits/Witch.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Curse](rules/traits/curse.md)== ==[Hex](../../../Traits/Hex.md)== ==[Transmutation](rules/traits/transmutation.md)== ==[Witch](../../../Traits/Witch.md)==
 *Source* Pathfinder Release 169: Kindled Magic pg. 75
 **Lesson** lesson of calamity
 **Cast** ► somatic

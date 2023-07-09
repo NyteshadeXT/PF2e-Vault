@@ -1739,7 +1739,7 @@ the hazard's weaknesses, if any
 
 the hazard's resistances, if any
 
-[R](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") or [F](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") This is the reaction or free action the hazard uses
+[R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") or [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") This is the reaction or free action the hazard uses
 
 The trigger that sets off the hazard appears here
 

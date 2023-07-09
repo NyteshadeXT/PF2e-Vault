@@ -1,9 +1,9 @@
 # Infernal Pact
 #pf2e/ritual/level_1
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Conjuration](../../../rules/traits/conjuration.md)==
+==[Uncommon](rulesncommon.md)== ==[Conjuration](rules/traits/conjuration.md)==
 *Source* Bestiary pg. 348
 **Cast** 1 day
-**Primary Check** Religion (expert; you must be a [devil](../../../rules/traits/devil.md))
+**Primary Check** Religion (expert; you must be a [devil](rules/traits/devil.md))
 
 ---
 You make an appeal to a powerful devil, asking it to bind some of its subordinates to your service. If you succeed, the devil sends you its choice of one devil whose level is no more than double infernal pact’s level, two devils whose levels are each at least 2 less than double the spell level, or three devils whose levels are each at least 3 less than double the spell level.

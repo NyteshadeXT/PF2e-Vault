@@ -1,6 +1,6 @@
 # Glacial Heart
 #pf2e/focus_spell/level_5 #pf2e/class/witch #pf2e/school/evocation 
-==[Rare](../../../rules/traits/rare.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Hex](../../../Traits/Hex.md)== ==[Witch](../../../Traits/Witch.md)==
+==[Rare](rules ==[Evocation](rulesvocation.md)== ==[Hex](../../../Traits/Hex.md)== ==[Witch](../../../Traits/Witch.md)==
 *Source* Legends pg. 32
 **Lesson** lesson of the frozen queen
 **Cast** ►► somatic, verbal

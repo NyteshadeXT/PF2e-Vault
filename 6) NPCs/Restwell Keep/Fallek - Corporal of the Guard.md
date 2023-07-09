@@ -1,4 +1,0 @@
-[[Fallek.png|Show Players]]
-![[Fallek.png]]
-
-The corporal of the guard is a male human warrior clad in plate mail, shield, sword, and dagger.  His long black hair is turning gray, and a scar runs across his right cheek.  Over 40 years old, he has seen a number of battles and considers his post here something of a retirement.  Grouchy and pushy, he'd rather be sitting and relaxing than dealing with visitors, but he has a soft spot for a pretty face or a tough, battle-scarred veteran.  If he takes a liking to a newcomer, he gives them directions around the keep and might even take a particularly lovely visitor for a tour.  Otherwise, he tries to get visitors out of his hair as quickly as possible.

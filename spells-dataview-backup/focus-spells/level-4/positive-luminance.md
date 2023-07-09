@@ -1,6 +1,6 @@
 # Positive Luminance
 #pf2e/focus_spell/level_4 #pf2e/class/cleric #pf2e/school/necromancy 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[1 TTRPG/PF2e Wiki/Traits/Light](1%20TTRPG/PF2e%20Wiki/Traits/Light)== ==[Necromancy](../../../rules/traits/necromancy.md)== ==[Positive](../../../rules/traits/positive.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cleric](rules/traits/cleric.md)== ==[1 TTRPG/PF2e Wiki/Traits/Light](1%20TTRPG/PF2e%20Wiki/Traits/Light)== ==[Necromancy](rules/traits/necromancy.md)== ==[Positive](rules/traits/positive.md)==
 *Source* Core Rulebook pg. 394 3.0
 **Domain** sun
 **Cast** ► somatic

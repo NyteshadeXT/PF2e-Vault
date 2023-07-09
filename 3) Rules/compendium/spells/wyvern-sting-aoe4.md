@@ -29,7 +29,7 @@ You duplicate the venomous sting of a wyvern. You deal `3d4` piercing damage to 
 ```ad-inline-affliction
 title: Wyvern Venom _Level 9_
 
-[poison](../../../rules/traits/poison.md)  
+[poison](rules/traits/poison.md)  
 - **Maximum Duration**: 6 rounds
 
 ## Stages

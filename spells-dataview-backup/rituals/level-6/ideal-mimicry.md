@@ -1,6 +1,6 @@
 # Ideal Mimicry
 #pf2e/ritual/level_6
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Enchantment](../../../rules/traits/enchantment.md)== ==[Mental](../../../rules/traits/mental.md)==
+==[Uncommon](rulesd)== ==[Enchantment](rules/traits/enrulesd)== ==[Mental](tal.md)==
 *Source* Secrets of Magic pg. 151 1.1
 **Cast** 6 days; **Cost** crafting materials worth at least 50 gp × the target's level; a lock of hair from the target, nail clippings from the target, or a vial of blood from the target; **Secondary Casters** 1
 **Primary Check** Occultism (expert); **Secondary Check** Crafting
@@ -12,7 +12,7 @@ You craft a doll with care and quiet meditation on the target, inserting the fin
 
 You must have been within 5 feet of the target at least once and gotten a good look at them to perform this ritual. You can cast the ritual and create the doll at any range from the target.
 
-Once the doll is complete, you can Interact with the doll violently once per round to cause pain to the target as long as they're within 200 feet. This pain manifests as [Mental](../../../rules/traits/mental.md) damage inflicted on the target, and it depends on how many of the three body part components (hair, nails, or blood) you included in the creation of the doll.
+Once the doll is complete, you can Interact with the doll violently once per round to cause pain to the target as long as they're within 200 feet. This pain manifests as [Mental](rules/traits/mental.md) damage inflicted on the target, and it depends on how many of the three body part components (hair, nails, or blood) you included in the creation of the doll.
 
 After the first time you manipulate the doll, you can continue to do so until either the target moves beyond 200 feet or until you Interact with the doll to cause pain 10 times, whichever comes first. After either of those conditions is met, the doll falls apart into stuffing and dust.
 

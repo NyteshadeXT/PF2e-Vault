@@ -1,6 +1,6 @@
 # Traveler's Transit
 #pf2e/focus_spell/level_4 #pf2e/class/cleric #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Evocation](../../../rules/traits/evocation.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cleric](rules/traits/cleric.md)== ==[Evocation](rules/traits/evocation.md)==
 *Source* Core Rulebook pg. 398 3.0
 **Domain** travel
 **Cast** ►► somatic, verbal

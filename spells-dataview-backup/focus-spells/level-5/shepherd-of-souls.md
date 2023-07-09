@@ -1,6 +1,6 @@
 # Shepherd of Souls
 #pf2e/focus_spell/level_5 #pf2e/class/sorcerer #pf2e/school/necromancy 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Healing](../../../rules/traits/healing.md)== ==[Necromancy](../../../rules/traits/necromancy.md)== ==[Sorcerer](../../../rules/traits/sorcerer.md)==
+==[Uncommon](rulesncommon.md)== ==[Healing](rules/traits/healing.md)== ==[Necromancy](rules/traits/necromancy.md)== ==[Sorcerer](rules/traits/sorcerer.md)==
 *Source* Advanced Player's Guide pg. 236 2.0
 **Bloodline** psychopomp
 **Cast** ◄ verbal; **Trigger** A living creature within 30 feet takes damage.

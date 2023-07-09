@@ -1,6 +1,6 @@
 # Terminate Bloodline
 #pf2e/ritual/level_6
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Necromancy](../../../rules/traits/necromancy.md)==
+==[Uncommon](rulesncommon.md)== ==[Necromancy](rulesecromancy.md)==
 *Source* Pathfinder Release 155: Lord of the Black Sands pg. 74
 **Cast** 1 day; **Cost** a bodily sample from the target, and valuables belonging to the target worth a total value of 100 gp × the spell level × the target's level; **Secondary Casters** 3
 **Primary Check** Occultism (master) ; **Secondary Check** Society
@@ -11,7 +11,7 @@ Mighty drow noble houses, including House Shraen, use this ritual to stamp out f
 
 The ritual is easiest to cast on a subdued target, typically a low-ranking member of the targeted family bloodline who is kidnapped and has their memory wiped. If the target is conscious when the ritual is cast, the target attempts a Fortitude save against the ritual's DC; on a success, the ritual fails. Otherwise, the target is automatically affected by the [Dying](../../../Conditions/Dying.md) bloodline disease.
 
-**Dying Bloodline** ([Curse](../../../rules/traits/curse.md), [Disease](../../../rules/traits/disease.md)) Failing or critically failing this disease's Fortitude save causes the disease to progress to the next stage as normal; however, succeeding or critically succeeding at the save has no effect. The disease can be removed only by first successfully [counteracting](../../../Rules/Counteracting.md) the curse and then counteracting the disease; Level equal to twice the ritual's level; 
+**Dying Bloodline** ([Curse](rules/traits/curse.md), [Disease](rules/traits/disease.md)) Failing or critically failing this disease's Fortitude save causes the disease to progress to the next stage as normal; however, succeeding or critically succeeding at the save has no effect. The disease can be removed only by first successfully [counteracting](rules/Counteracting.md) the curse and then counteracting the disease; Level equal to twice the ritual's level; 
 - **Stage 1** carrier with no effect (1 month); 
 - **Stage 2** [Fatigued](../../../Conditions/Fatigued.md) (1 week); 
 - **Stage 3** fatigued and [Drained](../../../Conditions/Drained.md) 1 (1 day); 

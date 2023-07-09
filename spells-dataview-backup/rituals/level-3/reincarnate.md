@@ -1,6 +1,6 @@
 # Reincarnate
 #pf2e/ritual/level_3
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Necromancy](../../../rules/traits/necromancy.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Necromancy](rules/traits/necromancy.md)==
 *Source* Advanced Player's Guide pg. 242 2.0
 **Cast** 4 hours; **Cost** rare herbs worth a total value of the target's level (minimum 1) × 25 gp; **Secondary Casters** 2
 **Primary Check** Nature (expert); **Secondary Check** Occultism, Religion

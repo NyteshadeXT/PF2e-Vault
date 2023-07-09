@@ -1,6 +1,6 @@
 # Fey Glamour
 #pf2e/focus_spell/level_5 #pf2e/class/sorcerer #pf2e/school/illusion 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Illusion](../../../rules/traits/illusion.md)== ==[Sorcerer](../../../rules/traits/sorcerer.md)==
+==[Uncommon/traits/uncommon.md)== ==[Illusion](rules/traits/illusion.md)== ==[Sorcerer](rules/traits/sorcerer.md)==
 *Source* Core Rulebook pg. 404 3.0
 **Bloodline** fey
 **Cast** ►► somatic, verbal

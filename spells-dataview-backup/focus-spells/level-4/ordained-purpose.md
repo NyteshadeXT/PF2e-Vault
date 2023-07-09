@@ -1,6 +1,6 @@
 # Ordained Purpose
 #pf2e/focus_spell/level_4 #pf2e/school/enchantment 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Enchantment](../../../rules/traits/enchantment.md)== ==[Mental](../../../rules/traits/mental.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Enchantment](rules/traits/enchantment.md)== ==[Mental](rules/traits/mental.md)==
 *Source* Pathfinder Release 161: Belly of the Black Whale pg. 75
 **Domain** naga
 **Cast** ►► somatic, verbal
@@ -14,7 +14,7 @@ At the GM's discretion, a creature currently filling its appointed station and p
 
 **Critical Success** The creature is unaffected.
 **Success** The creature takes half damage.
-**Failure** The creature takes full damage and must [Drop Prone](../../../Rules/Actions/Drop%20Prone.md) as its first action on its next turn.
+**Failure** The creature takes full damage and must [Drop Prone](rules/Actions/Drop%20Prone.md) as its first action on its next turn.
 **Critical Failure** The creature takes double damage, must Drop Prone as its first action on its next turn, and can't Stand during its next turn.
 
 <hr>

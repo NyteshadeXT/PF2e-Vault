@@ -1,6 +1,6 @@
 # Steal the Sky
 #pf2e/focus_spell/level_5 #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Air](../../../rules/traits/air.md)== ==[Evocation](../../../rules/traits/evocation.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Air](rules/traits/air.md)== ==[Evocation](rules/traits/evocation.md)==
 *Source* Pathfinder Release 158: Sixty Feet Under pg. 79
 **Cast** ◄ verbal; **Trigger** You make a successful unarmed Strike against a flying creature.
 **Targets** the creature you hit

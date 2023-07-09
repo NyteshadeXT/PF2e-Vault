@@ -1,6 +1,6 @@
 # You're Mine
 #pf2e/focus_spell/level_5 #pf2e/class/sorcerer #pf2e/school/enchantment 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Emotion](../../../rules/traits/emotion.md)== ==[Enchantment](../../../rules/traits/enchantment.md)== ==[Incapacitation](../../../rules/traits/incapacitation.md)== ==[Mental](../../../rules/traits/mental.md)== ==[Sorcerer](../../../rules/traits/sorcerer.md)==
+==[Uncommon](rulesncommon.md)== ==[Emotion](rules/traits/emotion.md)== ==[Enchantment](rules/traits/enchantment.md)== ==[Incapacitation](rules/traits/incapacitation.md)== ==[Mental](rules/traits/mental.md)== ==[Sorcerer](rules/traits/sorcerer.md)==
 *Source* Core Rulebook pg. 406 3.0
 **Bloodline** hag
 **Cast** ►► somatic, verbal

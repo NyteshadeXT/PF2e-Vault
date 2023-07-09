@@ -1,6 +1,6 @@
 # Create Skinstitch
 #pf2e/ritual/level_6
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Transmutation](../../../rules/traits/transmutation.md)==
+==[Uncommon](rulesd)== ==[Transmutation](rules/traits/transmutation.md)==
 *Source* Pathfinder Release 158: Sixty Feet Under pg. 76
 **Cast** 1 day; **Cost** rare oils worth 480 gp; **Secondary Casters** 1
 **Primary Check** Religion (expert); **Secondary Check** Crafting

@@ -1,6 +1,6 @@
 # Updraft
 #pf2e/focus_spell/level_1 #pf2e/class/druid  #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Air](../../../rules/traits/air.md)== ==[Druid](../../../rules/traits/druid.md)== ==[Evocation](../../../rules/traits/evocation.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Air](rules/traits/air.md)== ==[Druid](rules/traits/druid.md)== ==[Evocation](rules/traits/evocation.md)==
 *Source* Secrets of Magic pg. 201 1.1
 **Cast** ►► somatic, verbal
 **Range** 60 feet; **Targets** 1 creature

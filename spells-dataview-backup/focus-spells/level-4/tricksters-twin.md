@@ -1,6 +1,6 @@
 # Trickster's Twin
 #pf2e/focus_spell/level_4 #pf2e/class/cleric #pf2e/school/illusion 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Illusion](../../../rules/traits/illusion.md)== ==[Visual](../../../rules/traits/visual.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cleric](rules/traits/cleric.md)== ==[Illusion](rules/traits/illusion.md)== ==[Visual](rules/traits/visual.md)==
 *Source* Core Rulebook pg. 398 3.0
 **Domain** trickery
 **Cast** ►► material, verbal

@@ -9,7 +9,7 @@ tags:
 aliases: ["Abyssal Pact"]
 ---
 # Abyssal Pact *Ritual 1*  
-[conjuration](../../../rules/traits/conjuration.md)  [uncommon](../../../rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md)  [uncommon](rules/traits/uncommon.md)  
 
 - **Cast** 1 day
 - **Primary Checks** [Religion](../../skills.md#Religion) (expert; you must be a demon)

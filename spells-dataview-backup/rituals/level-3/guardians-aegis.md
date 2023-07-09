@@ -1,6 +1,6 @@
 # Guardian's Aegis
 #pf2e/ritual/level_3
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Abjuration](../../../rules/traits/abjuration.md)== ==[Divination](../../../rules/traits/divination.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Abjuration](rules/traits/abjuration.md)== ==[Divination](rules/traits/divination.md)==
 *Source* Secrets of Magic pg. 150 1.1
 **Cast** 1 day; **Cost** rare oils worth 10 gp × the primary caster's level; **Secondary Casters** 1
 **Primary Check** Occultism or Religion; **Secondary Check** Athletics, Diplomacy, or Society

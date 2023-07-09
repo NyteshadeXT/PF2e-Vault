@@ -1,6 +1,6 @@
 # Word of Recall
 #pf2e/ritual/level_7
-==[Rare](../../../rules/traits/rare.md)== ==[Conjuration](../../../rules/traits/conjuration.md)== ==[Teleportation](../../../rules/traits/teleportation.md)==
+==[Rare](rules ==[Conjuration](rules/traits/conjuration.md)== ==[Teleportation](ruleseleportation.md)==
 *Source* Advanced Player's Guide pg. 245 2.0
 **Cast** 7 days; **Cost** rare oils and powdered minerals worth 5,000 gp; **Secondary Casters** 2
 **Primary Check** Arcana or Occultism (expert, the check has the secret trait); **Secondary Check** Arcana or Occultism (whichever isn't used for the primary check), Society

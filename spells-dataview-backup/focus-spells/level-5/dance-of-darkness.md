@@ -1,6 +1,6 @@
 # Dance of Darkness
 #pf2e/focus_spell/level_5 #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[1 TTRPG/PF2e Wiki/Traits/Darkness](1%20TTRPG/PF2e%20Wiki/Traits/Darkness)== ==[Evocation](../../../rules/traits/evocation.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[1 TTRPG/PF2e Wiki/Traits/Darkness](1%20TTRPG/PF2e%20Wiki/Traits/Darkness)== ==[Evocation](rules/traits/evocation.md)==
 *Source* Advanced Player's Guide pg. 193 2.0
 **Cast** ►► somatic, verbal
 **Duration** varies

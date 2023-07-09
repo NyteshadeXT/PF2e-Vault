@@ -1,6 +1,6 @@
 # Oathkeeper's Insignia
 #pf2e/focus_spell/level_1 #pf2e/school/conjuration 
-==[Conjuration](../../../rules/traits/conjuration.md)==
+==[Conjuration](rules/traits/conjuration.md)==
 *Source* Gods & Magic pg. 114 2.0
 **Domain** duty
 **Cast** ▬ verbal; **Trigger** You make a promise or deal.

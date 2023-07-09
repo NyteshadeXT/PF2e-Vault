@@ -1,6 +1,6 @@
 # Fatal Aria
 #pf2e/focus_spell/level_10 #pf2e/class/bard #pf2e/school/enchantment 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Bard](../../../rules/traits/bard.md)== ==[Composition](../../../rules/traits/composition.md)== ==[Death](../../../rules/traits/death.md)== ==[Emotion](../../../rules/traits/emotion.md)== ==[Enchantment](../../../rules/traits/enchantment.md)== ==[Mental](../../../rules/traits/mental.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Bard](rules/traits/bard.md)== ==[Composition](rules/traits/composition.md)== ==[Death](rules/traits/death.md)== ==[Emotion](rules/traits/emotion.md)== ==[Enchantment](rules/traits/enchantment.md)== ==[Mental](rules/traits/mental.md)==
 *Source* Core Rulebook pg. 386 3.0
 **Cast** ► verbal
 **Range** 30 feet; **Targets** 1 creature

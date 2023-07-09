@@ -1,6 +1,6 @@
 # Parch
 #pf2e/focus_spell/level_1 #pf2e/school/evocation 
-==[Air](../../../rules/traits/air.md)== ==[Evocation](../../../rules/traits/evocation.md)==
+==[Air](rules/traits/air.md)== ==[Evocation](rules/traits/evocation.md)==
 *Source* Gods & Magic pg. 114 2.0
 **Domain** dust
 **Cast** ►► somatic, verbal

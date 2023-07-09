@@ -6,7 +6,7 @@ UncommonIllusionShadow
 **Duration** 10 minutes
 
 ---
-You shroud your form and features in an impenetrable mask of shadow. The mask grants you a +1 status bonus to Deception checks to [lie](../../../rules/actions/lie.md) or [feint](../../../rules/actions/feint.md), Intimidation checks to [demoralize](../../../rules/actions/demoralize.md), and Stealth checks to [hide](../../../rules/actions/hide.md) in areas of dim light or [1 TTRPG/PF2e Wiki/Traits/Darkness](1%20TTRPG/PF2e%20Wiki/Traits/Darkness).
+You shroud your form and features in an impenetrable mask of shadow. The mask grants you a +1 status bonus to Deception checks to [lie](rules/actions/lie.md) or [feint](rules/actions/feint.md), Intimidation checks to [demoralize](rules/actions/demoralize.md), and Stealth checks to [hide](rules/actions/hide.md) in areas of dim light or [1 TTRPG/PF2e Wiki/Traits/Darkness](1%20TTRPG/PF2e%20Wiki/Traits/Darkness).
 
 <hr>
 

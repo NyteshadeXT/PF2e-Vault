@@ -1,6 +1,6 @@
 # Forced Quiet
 #pf2e/focus_spell/level_1 #pf2e/class/cleric #pf2e/school/abjuration 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Abjuration](../../../rules/traits/abjuration.md)== ==[Cleric](../../../rules/traits/cleric.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Abjuration](rules/traits/abjuration.md)== ==[Cleric](rules/traits/cleric.md)==
 *Source* Core Rulebook pg. 393 3.0
 **Domain** secrecy
 **Cast** ►► material, somatic

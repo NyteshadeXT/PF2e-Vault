@@ -1,6 +1,6 @@
 # Darklight
 #pf2e/focus_spell/level_7 #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[1 TTRPG/PF2e Wiki/Traits/Darkness](1%20TTRPG/PF2e%20Wiki/Traits/Darkness)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Shadow](../../../rules/traits/shadow.md)==
+==[Uncommon](rulesd)== ==[1 TTRPG/PF2e Wiki/Traits/Darkness](1%20TTRPG/PF2e%20Wiki/Traits/Darkness)== ==[Evocation](rules/traits/evocation.md)== ==[Shadow](rules/traits/shadow.md)==
 *Source* Secrets of Magic pg. 227 1.1
 **Cast** ►►► material, somatic, verbal
 **Range** 120 feet; **Area** 20-foot burst

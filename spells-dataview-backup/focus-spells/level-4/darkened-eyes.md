@@ -1,6 +1,6 @@
 # Darkened Eyes
 #pf2e/focus_spell/level_4 #pf2e/class/cleric #pf2e/school/transmutation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[1 TTRPG/PF2e Wiki/Traits/Darkness](1%20TTRPG/PF2e%20Wiki/Traits/Darkness)== ==[Transmutation](../../../rules/traits/transmutation.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cleric](rules/traits/cleric.md)== ==[1 TTRPG/PF2e Wiki/Traits/Darkness](1%20TTRPG/PF2e%20Wiki/Traits/Darkness)== ==[Transmutation](rules/traits/transmutation.md)==
 *Source* Core Rulebook pg. 390 3.0
 **Domain** [1 TTRPG/PF2e Wiki/Traits/Darkness](1%20TTRPG/PF2e%20Wiki/Traits/Darkness)
 **Cast** ►► somatic, verbal

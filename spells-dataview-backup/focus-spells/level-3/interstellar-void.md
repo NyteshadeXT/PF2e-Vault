@@ -1,6 +1,6 @@
 # Interstellar Void
 #pf2e/focus_spell/level_3 #pf2e/class/oracle #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cold](../../../rules/traits/cold.md)== ==[Cursebound](../../../Traits/Cursebound.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Oracle](../../../Traits/Oracle.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cold](rules/traits/cold.md)== ==[Cursebound](../../../Traits/Cursebound.md)== ==[Evocation](rules/traits/evocation.md)== ==[Oracle](../../../Traits/Oracle.md)==
 *Source* Advanced Player's Guide pg. 232 2.0
 **Mystery** cosmos
 **Cast** ►► somatic, verbal

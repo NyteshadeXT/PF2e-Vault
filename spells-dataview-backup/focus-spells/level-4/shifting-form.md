@@ -1,6 +1,6 @@
 # Shifting Form
 #pf2e/focus_spell/level_4
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Morph](../../../rules/traits/morph.md)== ==[Transmutation](../../../rules/traits/transmutation.md)== ==[Wizard](../../../rules/traits/wizard.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Morph](rules/traits/morph.md)== ==[Transmutation](rules/traits/transmutation.md)== ==[Wizard](rules/traits/wizard.md)==
 *Source* Core Rulebook pg. 407 3.0
 **Cast** ► somatic
 **Duration** 1 minute

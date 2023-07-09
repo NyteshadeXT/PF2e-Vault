@@ -1,6 +1,6 @@
 # Invisibility Cloak
 #pf2e/focus_spell/level_4 #pf2e/class/wizard #pf2e/school/illusion 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Illusion](../../../rules/traits/illusion.md)== ==[Wizard](../../../rules/traits/wizard.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Illusion](rules/traits/illusion.md)== ==[Wizard](rules/traits/wizard.md)==
 *Source* Core Rulebook pg. 407 3.0
 **Cast** ►► somatic
 **Duration** 1 minute

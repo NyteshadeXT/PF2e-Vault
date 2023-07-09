@@ -11,7 +11,7 @@ Riding into the Crossroads, the first sight to greet a visitor’s eyes is the m
 When the characters first arrive at the Crossroads, they will almost certainly see the gibbet tree immediately, as all visitors entering from civilization do. The gibbet tree serves as a warning that anyone thinking of entering the Chaos Scar had best turn back, because intruders are dealt with harshly.
 
 ## Cries for Help
-When the heroes approach, they will find that they have arrived while a prisoner, [[Ardia Ironleaf - Ironleaf Trading Co.]] in the gibbet tree is begging her captors for her life. Should the heroes try to intervene, the hobgoblin guards stationed there do not take kindly to their meddling.  If they choose to ignore it, they must listen to the prisoner’s cries for the duration of their stay at the Crossroads. 
+When the heroes approach, they will find that they have arrived while a prisoner, [[Ardia Ironleaf]] in the gibbet tree is begging her captors for her life. Should the heroes try to intervene, the hobgoblin guards stationed there do not take kindly to their meddling.  If they choose to ignore it, they must listen to the prisoner’s cries for the duration of their stay at the Crossroads. 
 
 If the characters do come to the prisoner’s rescue, they must deal with the hobgoblins. See the “[[02) Hobgoblin Hangman]]” encounter below for how to deal with this situation. If the characters manage to rescue the prisoner, he is not only very grateful but offers to lead the characters back into the valley to recover the bodies of his former companions
 

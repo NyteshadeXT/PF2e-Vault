@@ -1,6 +1,6 @@
 # Stormwind Flight
 #pf2e/focus_spell/level_4 #pf2e/class/druid #pf2e/school/transmutation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Air](../../../rules/traits/air.md)== ==[Druid](../../../rules/traits/druid.md)== ==[Transmutation](../../../rules/traits/transmutation.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Air](rules/traits/air.md)== ==[Druid](rules/traits/druid.md)== ==[Transmutation](rules/traits/transmutation.md)==
 *Source* Core Rulebook pg. 400 3.0
 **Cast** ►► somatic, verbal
 **Duration** 1 minute

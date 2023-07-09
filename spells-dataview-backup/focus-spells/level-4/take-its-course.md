@@ -1,6 +1,6 @@
 # Take its Course
 #pf2e/focus_spell/level_4 #pf2e/class/cleric #pf2e/school/necromancy 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Necromancy](../../../rules/traits/necromancy.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cleric](rules/traits/cleric.md)== ==[Necromancy](rules/traits/necromancy.md)==
 *Source* Core Rulebook pg. 397 3.0
 **Domain** indulgence
 **Cast** ►► somatic, verbal

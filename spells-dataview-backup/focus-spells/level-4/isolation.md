@@ -1,6 +1,6 @@
 # Isolation
 #pf2e/focus_spell/level_4 #pf2e/class/cleric #pf2e/school/illusion 
-==[Rare](../../../rules/traits/rare.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Illusion](../../../rules/traits/illusion.md)==
+==[Rare](rules/traits/rare.md)== ==[Cleric](rules/traits/cleric.md)== ==[Illusion](rules/traits/illusion.md)==
 *Source* Dark Archive pg. 143
 **Domain** darkness (apocryphal)
 **Cast** ►► somatic, verbal

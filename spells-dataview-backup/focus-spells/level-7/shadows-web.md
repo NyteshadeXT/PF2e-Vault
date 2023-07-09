@@ -1,6 +1,6 @@
 # Shadow's Web
 #pf2e/focus_spell/level_7 #pf2e/class/monk #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Monk](../../../rules/traits/monk.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Evocation](rules/traits/evocation.md)== ==[Monk](rules/traits/monk.md)==
 *Source* Advanced Player's Guide pg. 229 2.0
 **Cast** ►► somatic, verbal
 **Area** 30-foot burst

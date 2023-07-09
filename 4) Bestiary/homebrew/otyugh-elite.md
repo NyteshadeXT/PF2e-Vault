@@ -53,9 +53,9 @@ health:
 
 
 attacks:
-  - name: Melee
+  - name: Melee_1
     desc: "⬻ jaws +16 __Damage__ 2d6+8 (2d6+8) piercing plus filth fever"
-  - name: Melee
+  - name: Melee_2
     desc: "⬻ tentacle +16 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1d6+8 (1d6+8) bludgeoning plus Grab"
 
 sourcebook: "_Bestiary_, page 258."

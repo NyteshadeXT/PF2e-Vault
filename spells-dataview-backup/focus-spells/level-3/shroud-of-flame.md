@@ -1,6 +1,6 @@
 # Shroud of Flame
 #pf2e/focus_spell/level_3 #pf2e/class/sorcerer #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Fire](../../../rules/traits/fire.md)== ==[Sorcerer](../../../rules/traits/sorcerer.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Evocation](rules/traits/evocation.md)== ==[Fire](rules/traits/fire.md)== ==[Sorcerer](rules/traits/sorcerer.md)==
 *Source* Pathfinder Release 168: King of the Mountain pg. 74
 **Bloodline** phoenix
 **Cast** ►► somatic, verbal

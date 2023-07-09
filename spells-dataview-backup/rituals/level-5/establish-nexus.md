@@ -1,6 +1,6 @@
 # Establish Nexus
 #pf2e/ritual/level_5
-==[Rare](../../../rules/traits/rare.md)== ==[consecration](../../../rules/traits/consecration.md)== ==[Transmutation](../../../rules/traits/transmutation.md)==
+==[Rare](rulesare.md)== ==[consecration](rules/traits/consecration.md)== ==[Transmutation](rules/traits/transmutation.md)==
 *Source* Secrets of Magic pg. 217 1.1
 **Cast** 1 day; **Cost** magical foci worth 100 gp × the spell level × the node's level; **Secondary Casters** 2
 **Primary Check** Arcana, Nature, Occultism, or Religion based on the ley line (master); **Secondary Check** Ley Line Lore or Occultism

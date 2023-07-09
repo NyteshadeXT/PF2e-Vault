@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8f542ff7b70742f3",
+        "id": "47fb856c21995568",
         "type": "tabs",
         "children": [
           {
-            "id": "5f88f739e7e558f7",
+            "id": "d3922fba0bc1737a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/2d - The Hammer Falls (D179)/2d - The Hammer Falls (D179).md",
+                "file": "8) Adventures/2f - The Lost Library (D173)/02) The Wyrmling's Cave.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8) Adventures/2d - The Hammer Falls (D179)/2d - The Hammer Falls (D179).md",
+                "file": "8) Adventures/2f - The Lost Library (D173)/02) The Wyrmling's Cave.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8) Adventures/2d - The Hammer Falls (D179)/2d - The Hammer Falls (D179).md"
+                "file": "8) Adventures/2f - The Lost Library (D173)/02) The Wyrmling's Cave.md"
               }
             }
           },
@@ -122,14 +122,6 @@
             }
           },
           {
-            "id": "294b8eaeb769ded1",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
-          },
-          {
             "id": "47fc09be777ee4cb",
             "type": "leaf",
             "state": {
@@ -138,22 +130,30 @@
             }
           },
           {
-            "id": "bea62d20a6039c87",
+            "id": "f44256e023a3aeb2",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
+          },
+          {
+            "id": "844b884876b3331e",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
-        "id": "1af6e5ffce030a47",
+        "id": "b1fe997e2e887ca0",
         "type": "tabs",
         "children": [
           {
-            "id": "9960c684d23c8773",
+            "id": "b3204376eee556ee",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-creature-view",
@@ -176,81 +176,51 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "initiative-tracker:Intiative Tracker Encounter Builder": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "dbfolder:Create a new database table": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "initiative-tracker:Intiative Tracker Encounter Builder": false
     }
   },
-  "floating": {
-    "id": "1bc7c83c4e005485",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3a86d81b79509433",
-        "type": "window",
-        "children": [
-          {
-            "id": "593ececdbe978000",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "79846d0ae4843a9c",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-player-view",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1571,
-        "y": -6,
-        "width": 960,
-        "height": 517,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "99dc06d2259d33b7",
+  "active": "d3922fba0bc1737a",
   "lastOpenFiles": [
-    "8) Adventures/2d - The Hammer Falls (D179)/04) Sleed’s Sanctum.md",
-    "8) Adventures/2d - The Hammer Falls (D179)/03) The Metalworks.md",
-    "8) Adventures/2d - The Hammer Falls (D179)/02) The Entrance.md",
-    "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/2B - The Shrine of Glass-Spire Forest (D175).md",
-    "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/01) Running the Adventure.md",
-    "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/03) Shard Slave of the Glass Spire Shrine.md",
-    "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/02) Glass Guardian Attack.md",
+    "8) Adventures/2f - The Lost Library (D173)/01) Running the Adventure.md",
     "8) Adventures/2d - The Hammer Falls (D179)/2d - The Hammer Falls (D179).md",
-    "8) Adventures/2C - Dead by Dawn (D176)/2C - Dead by Dawn (D176).md",
-    "8) Adventures/2C - Dead by Dawn (D176)/04) Zombie Siege.md",
-    "8) Adventures/2C - Dead by Dawn (D176)/05) Zombie Siege - First Wave.md",
-    "8) Adventures/2C - Dead by Dawn (D176)/06) Zombie Siege - Second Wave.md",
-    "6) NPCs/Restwell Keep/Balidor - Miner.md",
-    "zz-Attachments/Balidor.png",
-    "5) World/Restwell Jobs.md",
-    "5) World/Restwell Keep.md",
-    "1) GM Screen/Skill-Actions-Cheat-Sheet.md",
-    "1) GM Screen/Actions-Cheat-Sheet.md",
-    "8) Adventures/6B - The Radiant Morn (D183)/02) A Warm Reception.md",
-    "8) Adventures/6B - The Radiant Morn (D183)/03) Fleecing the Flock.md",
-    "8) Adventures/2g - The Crossroads (D176)/2g - The Crossroads (D176).md",
-    "1) GM Screen/common-conditions-p.618-623.md",
-    "1) GM Screen/gm-screen.md",
-    "8) Adventures/2C - Dead by Dawn (D176)/07) What to do with the Necroshard.md",
-    "5) World/Chaos Scar - GM View.md",
-    "5) World/Abandoned Shrine of Moradin.md",
-    "5) World/Restwell Rumors.md",
-    "zz-Attachments/Pasted image 20230616114949.png",
-    "zz-Attachments/Pasted image 20230616114750.png",
-    "zz-Attachments/Pasted image 20230616114033.png",
-    "zz-Attachments/Pasted image 20230616114007.png",
-    "zz-Attachments/Pasted image 20230616110728.png",
-    "zz-Attachments/Pasted image 20230616105440.png",
-    "zz-Attachments/Pasted image 20230613163023.png",
-    "zz-Attachments/Pasted image 20230613161347.png",
-    "zz-Attachments/Pasted image 20230608105514.png",
+    "8) Adventures/2d - The Hammer Falls (D179)/01) Running the Adventure.md",
+    "8) Adventures/2f - The Lost Library (D173)/02) The Wyrmling's Cave.md",
+    "8) Adventures/2d - The Hammer Falls (D179)/03) The Metalworks.md",
+    "zz-Attachments/Pasted image 20230706224834.png",
+    "8) Adventures/2f - The Lost Library (D173)/03) The Lost Library.md",
+    "8) Adventures/2f - The Lost Library (D173)/2f - The Lost Library (D173).md",
+    "6) NPCs/Restwell Keep/Karrie Buttonquail - Farmer.md",
+    "8) Adventures/2f - The Lost Library (D173)/04) The Inner Sanctum.md",
+    "8) Adventures/2e - Down the Goblin Hole (D280)/2e - Down the Goblin Hole (D280).md",
+    "8) Adventures/2e - Down the Goblin Hole (D280)/01) Running the Adventure.md",
+    "8) Adventures/2e - Down the Goblin Hole (D280)/04) Spiders & Goblins & Kings.md",
+    "8) Adventures/2e - Down the Goblin Hole (D280)/03) The Webwall.md",
+    "8) Adventures/2e - Down the Goblin Hole (D280)/02) Goblin Ambushers.md",
+    "4) Bestiary/homebrew/shard-spider.md",
+    "4) Bestiary/homebrew/shard-slave.md",
+    "4) Bestiary/homebrew/otyugh-elite.md",
+    "4) Bestiary/homebrew/goblin-underboss.md",
+    "4) Bestiary/homebrew/magma-hurler.md",
+    "4) Bestiary/homebrew/deathjump-spider.md",
+    "4) Bestiary/homebrew/duergar-guard.md",
+    "6) NPCs/Restwell Keep/Ediza.md",
+    "6) NPCs/Restwell Keep/AAA - Restwell Keep Master NPC List.md",
+    "6) NPCs/Restwell Keep/Garrick Blackoak - Sergeant of the Guard.md",
+    "6) NPCs/Restwell Keep/Ferdinand Ronnik.md",
+    "6) NPCs/Restwell Keep/Ailwin.md",
+    "zz-Attachments/Pasted image 20230706081247.png",
+    "zz-Attachments/Shard Spider.jpg",
+    "zz-Attachments/Shard Spider 1.jpg",
+    "zz-Attachments/Ailwin.png",
+    "zz-Attachments/Pasted image 20230705164423.png",
+    "zz-Attachments/Pasted image 20230705160337.png",
+    "zz-Attachments/Deathjump Spider.png",
+    "zz-Attachments/Pasted image 20230705153628.png",
+    "4) Bestiary/adventures/fall-of-plaguestone",
+    "4) Bestiary/adventures",
+    "zz-Attachments/Pasted image 20230704164200.png",
     "support/inlineScripts",
     "support",
     "6) NPCs/Crossroads",
@@ -261,8 +231,6 @@
     "canvas-gm-tables/Game Master Tables.canvas",
     "canvas-gm-tables/game-master-tables.canvas",
     "conditions",
-    "spells-dataview-backup/focus-spells/level-7",
-    "spells-dataview-backup/spells/level-9",
     "canvas-gm-tables/canvas-gm-tables/game-master-tables.canvas"
   ]
 }

@@ -1,6 +1,6 @@
 # Thunderburst
 #pf2e/focus_spell/level_3 #pf2e/class/oracle #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Air](../../../rules/traits/air.md)== ==[Cursebound](../../../Traits/Cursebound.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Oracle](../../../Traits/Oracle.md)== ==[Sonic](../../../rules/traits/sonic.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Air](rules/traits/air.md)== ==[Cursebound](../../../Traits/Cursebound.md)== ==[Evocation](rules/traits/evocation.md)== ==[Oracle](../../../Traits/Oracle.md)== ==[Sonic](rules/traits/sonic.md)==
 *Source* Advanced Player's Guide pg. 234 2.0
 Mystery tempest
 **Cast** ►► somatic, verbal

@@ -1,6 +1,6 @@
 # Ranger's Bramble
 #pf2e/focus_spell/level_3 #pf2e/class/ranger #pf2e/school/transmutation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Plant](../../../rules/traits/plant.md)== ==[Ranger](../../../rules/traits/ranger.md)== ==[Transmutation](../../../rules/traits/transmutation.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Plant](rules/traits/plant.md)== ==[Ranger](rules/traits/ranger.md)== ==[Transmutation](rules/traits/transmutation.md)==
 *Source* Advanced Player's Guide pg. 235 2.0
 **Cast** ►► somatic, verbal
 **Range** 100 feet; **Area** all squares that contain plants in a 5-foot burst

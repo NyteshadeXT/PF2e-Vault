@@ -1,9 +1,9 @@
 # Abyssal Pact
 #pf2e/ritual/level_1
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Conjuration](../../../rules/traits/conjuration.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Conjuration](rules/traits/conjuration.md)==
 *Source* Bestiary pg. 347
 **Cast** 1 day
-**Primary Check** Religion (expert; you must be a [Demon](../../../rules/traits/demon.md))
+**Primary Check** Religion (expert; you must be a [Demon](rules/traits/demon.md))
 
 ---
 You call in a favor from another demon whose level is no more than double Abyssal pact’s spell level, two demons whose levels are each at least 2 less than double the spell level, or three demons whose levels are each at least 3 less than double the spell level.

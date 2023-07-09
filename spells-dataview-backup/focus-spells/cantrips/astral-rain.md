@@ -1,6 +1,6 @@
 # Astral Rain
 #pf2e/focus_spell/cantrip_3 #pf2e/class/psychic  #pf2e/school/evocation
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cantrip](../../../rules/traits/cantrip.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Force](../../../rules/traits/force.md)== ==[Psychic](../../../Traits/Psychic.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cantrip](rules/traits/cantrip.md)== ==[Evocation](rules/traits/evocation.md)== ==[Force](rules/traits/force.md)== ==[Psychic](../../../Traits/Psychic.md)==
 *Source* Dark Archive pg. 22
 **Cast** ►► somatic, verbal
 **Range** 60 feet; **Area** one 5-foot cube

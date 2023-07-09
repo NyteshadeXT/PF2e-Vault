@@ -1,6 +1,6 @@
 # Lifelink Surge
 #pf2e/focus_spell/level_2 #pf2e/class/summoner #pf2e/school/enchantment 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Healing](../../../rules/traits/healing.md)== ==[Necromancy](../../../rules/traits/necromancy.md)== ==[Positive](../../../rules/traits/positive.md)== ==[Summoner](../../../Traits/Summoner.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Healing](rules/traits/healing.md)== ==[Necromancy](rules/traits/necromancy.md)== ==[Positive](rules/traits/positive.md)== ==[Summoner](../../../Traits/Summoner.md)==
 *Source* Secrets of Magic pg. 145 1.1
 **Cast** ► somatic
 **Duration** 4 rounds

@@ -1,6 +1,6 @@
 # Planar Ally
 #pf2e/ritual/level_5
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Conjuration](../../../rules/traits/conjuration.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Conjuration](rulesonjuration.md)==
 *Source* Core Rulebook pg. 413 3.0
 **Cast** 1 day; **Cost** rare incense and offerings worth a total value of 2 gp × the spell level × the target’s level; **Secondary Casters** 2, must share your religion
 **Primary Check** Religion (expert); **Secondary Check** Diplomacy

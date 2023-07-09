@@ -1,6 +1,6 @@
 # Contact Friends
 #pf2e/ritual/level_3
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Divination](../../../rules/traits/divination.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Divination](rules/traits/divination.md)==
 *Source* Dark Archive pg. 145
 **Cast** 1 hour; **Cost** incense worth 50 gp; **Secondary Casters** 1 (or more)
 **Primary Check** Arcana or Occultism (expert); **Secondary Check** Survival

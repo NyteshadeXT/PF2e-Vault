@@ -1,6 +1,6 @@
 # Zenith Star
 #pf2e/focus_spell/level_1
-==[Divination](../../../rules/traits/divination.md)== ==[1 TTRPG/PF2e Wiki/Traits/Light](1%20TTRPG/PF2e%20Wiki/Traits/Light)==
+==[Divination](rules/traits/divination.md)== ==[1 TTRPG/PF2e Wiki/Traits/Light](1%20TTRPG/PF2e%20Wiki/Traits/Light)==
 *Source* Gods & Magic pg. 117 2.0
 **Domain** star
 **Cast** ►► somatic, verbal

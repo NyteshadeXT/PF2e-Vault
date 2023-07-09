@@ -1,6 +1,6 @@
 # Clinging Ice
 #pf2e/focus_spell/cantrip_1 #pf2e/class/witch #pf2e/school/conjuration 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cantrip](../../../rules/traits/cantrip.md)== ==[Cold](../../../rules/traits/cold.md)== ==[Conjuration](../../../rules/traits/conjuration.md)== ==[Hex](../../../Traits/Hex.md)== ==[Witch](../../../Traits/Witch.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cantrip](rules/traits/cantrip.md)== ==[Cold](rules/traits/cold.md)== ==[Conjuration](rules/traits/conjuration.md)== ==[Hex](../../../Traits/Hex.md)== ==[Witch](../../../Traits/Witch.md)==
 *Source* Advanced Player's Guide pg. 237 2.0
 **Patron Theme** winter
 **Cast** ► somatic

@@ -10,45 +10,45 @@ aliases: ["Skills"]
 
 ## Acrobatics
 
-Acrobatics measures your ability to perform tasks requiring coordination and grace. When you use the [Escape](../rules/actions/escape.md) basic action, you can use your Acrobatics modifier instead of your unarmed attack modifier.
+Acrobatics measures your ability to perform tasks requiring coordination and grace. When you use the [Escape](rules/actions/escape.md) basic action, you can use your Acrobatics modifier instead of your unarmed attack modifier.
 
 _Source: Core Rulebook p. 240_
 
 ## Arcana
 
-Arcana measures how much you know about arcane magic and creatures. Even if you're untrained, you can [Recall Knowledge](../rules/actions/recall-knowledge.md).
+Arcana measures how much you know about arcane magic and creatures. Even if you're untrained, you can [Recall Knowledge](rules/actions/recall-knowledge.md).
 
-- **[Recall Knowledge](../rules/actions/recall-knowledge.md)** about arcane theories; magic traditions; creatures of arcane significance (like dragons and beasts); and the Elemental, Astral, and Shadow Planes.
+- **[Recall Knowledge](rules/actions/recall-knowledge.md)** about arcane theories; magic traditions; creatures of arcane significance (like dragons and beasts); and the Elemental, Astral, and Shadow Planes.
 
 ### Arcana Trained Actions
 <sup>CRB p. 241</sup>
 
 You must be trained in Arcana to use it for the following general skill actions.
 
-- **[Decipher Writing](../rules/actions/decipher-writing.md)** about arcane theory.
-- **[Identify Magic](../rules/actions/identify-magic.md)**, particularly arcane magic.
-- **[Learn a Spell](../rules/actions/learn-a-spell.md)** from the [arcane](../rules/traits/arcane.md) tradition.
+- **[Decipher Writing](rules/actions/decipher-writing.md)** about arcane theory.
+- **[Identify Magic](rules/actions/identify-magic.md)**, particularly arcane magic.
+- **[Learn a Spell](rules/actions/learn-a-spell.md)** from the [arcane](rules/traits/arcane.md) tradition.
 
 _Source: Core Rulebook p. 241_
 
 ## Athletics
 
-Athletics allows you to perform deeds of physical prowess. When you use the [Escape](../rules/actions/escape.md) basic action, you can use your [Athletics](#Athletics) modifier instead of your unarmed attack modifier.
+Athletics allows you to perform deeds of physical prowess. When you use the [Escape](rules/actions/escape.md) basic action, you can use your [Athletics](#Athletics) modifier instead of your unarmed attack modifier.
 
 _Source: Core Rulebook p. 241_
 
 ## Crafting
 
-You can use this skill to create, understand, and repair items. Even if you're untrained, you can [Recall Knowledge](../rules/actions/recall-knowledge.md).
+You can use this skill to create, understand, and repair items. Even if you're untrained, you can [Recall Knowledge](rules/actions/recall-knowledge.md).
 
-- **[Recall Knowledge](../rules/actions/recall-knowledge.md)** about alchemical reactions, the value of items, engineering, unusual materials, and alchemical or mechanical creatures. The GM determines which creatures this applies to, but it usually includes constructs.
+- **[Recall Knowledge](rules/actions/recall-knowledge.md)** about alchemical reactions, the value of items, engineering, unusual materials, and alchemical or mechanical creatures. The GM determines which creatures this applies to, but it usually includes constructs.
 
 ### Crafting Trained Actions
 <sup>CRB p. 243</sup>
 
-You must be trained in Crafting to use it to [Earn Income](../rules/actions/earn-income.md).
+You must be trained in Crafting to use it to [Earn Income](rules/actions/earn-income.md).
 
-- **[Earn Income](../rules/actions/earn-income.md)** by crafting goods for the market.
+- **[Earn Income](rules/actions/earn-income.md)** by crafting goods for the market.
 
 _Source: Core Rulebook p. 243_
 
@@ -74,61 +74,61 @@ _Source: Core Rulebook p. 247_
 
 You have specialized information on a narrow topic. Lore features many subcategories. You might have Military Lore, Sailing Lore, Vampire Lore, or any similar subcategory of the skill. Each subcategory counts as its own skill, so applying a skill increase to Planar Lore wouldn't increase your proficiency with Sailing Lore, for example.
 
-You gain a specific subcategory of the Lore skill from your background. The GM determines what other subcategories they'll allow as Lore skills, though these categories are always less broad than any of the other skills that allow you to Recall Knowledge, and they should never be able to fully or mainly take the place of another skill's [Recall Knowledge](../rules/actions/recall-knowledge.md) action. For instance, you couldn't choose Magic Lore to recall the breadth of knowledge about magic covered by Arcana, Nature, Occultism, and Religion, or Adventuring Lore to give you all the information an adventurer needs, or Planar Lore to gain all the information spread across various skills and subcategories such as Heaven Lore.
+You gain a specific subcategory of the Lore skill from your background. The GM determines what other subcategories they'll allow as Lore skills, though these categories are always less broad than any of the other skills that allow you to Recall Knowledge, and they should never be able to fully or mainly take the place of another skill's [Recall Knowledge](rules/actions/recall-knowledge.md) action. For instance, you couldn't choose Magic Lore to recall the breadth of knowledge about magic covered by Arcana, Nature, Occultism, and Religion, or Adventuring Lore to give you all the information an adventurer needs, or Planar Lore to gain all the information spread across various skills and subcategories such as Heaven Lore.
 
 If you have multiple subcategories of Lore that could apply to a check or that would overlap with another skill in the circumstances, you can use the skill with the better skill modifier or the one you would prefer to use. If there's any doubt whether a Lore skill applies to a specific topic or action, the GM decides whether it can be used or not.
 
-Even if you're untrained in Lore, you can use it to [Recall Knowledge](../rules/actions/recall-knowledge.md).
+Even if you're untrained in Lore, you can use it to [Recall Knowledge](rules/actions/recall-knowledge.md).
 
-- **[Recall Knowledge](../rules/actions/recall-knowledge.md)** about the subject of your Lore skill's subcategory.
+- **[Recall Knowledge](rules/actions/recall-knowledge.md)** about the subject of your Lore skill's subcategory.
 
 ### Lore Trained Actions
 <sup>CRB p. 247</sup>
 
-You must be trained in Lore to use it to [Earn Income](../rules/actions/earn-income.md).
+You must be trained in Lore to use it to [Earn Income](rules/actions/earn-income.md).
 
-- **[Earn Income](../rules/actions/earn-income.md)** by using your knowledge to practice a trade.
+- **[Earn Income](rules/actions/earn-income.md)** by using your knowledge to practice a trade.
 
 _Source: Core Rulebook p. 247_
 
 ## Medicine
 
-You can patch up wounds and help people recover from diseases and poisons. Even if you're untrained in Medicine, you can use it to [Recall Knowledge](../rules/actions/recall-knowledge.md).
+You can patch up wounds and help people recover from diseases and poisons. Even if you're untrained in Medicine, you can use it to [Recall Knowledge](rules/actions/recall-knowledge.md).
 
-- **[Recall Knowledge](../rules/actions/recall-knowledge.md)** about diseases, injuries, poisons, and other ailments. You can use this to perform forensic examinations if you spend 10 minutes (or more, as determined by the GM) checking for evidence such as wound patterns. This is most useful when determining how a body was injured or killed.
+- **[Recall Knowledge](rules/actions/recall-knowledge.md)** about diseases, injuries, poisons, and other ailments. You can use this to perform forensic examinations if you spend 10 minutes (or more, as determined by the GM) checking for evidence such as wound patterns. This is most useful when determining how a body was injured or killed.
 
 _Source: Core Rulebook p. 248_
 
 ## Nature
 
-You know a great deal about the natural world, and you command and train animals and magical beasts. Even if you're untrained in Nature, you can use it to [Recall Knowledge](../rules/actions/recall-knowledge.md).
+You know a great deal about the natural world, and you command and train animals and magical beasts. Even if you're untrained in Nature, you can use it to [Recall Knowledge](rules/actions/recall-knowledge.md).
 
-- **[Recall Knowledge](../rules/actions/recall-knowledge.md)** about fauna, flora, geography, weather, the environment, creatures of natural origin (like animals, beasts, fey, and plants), the First World, the Material Plane, and the Elemental Planes.
+- **[Recall Knowledge](rules/actions/recall-knowledge.md)** about fauna, flora, geography, weather, the environment, creatures of natural origin (like animals, beasts, fey, and plants), the First World, the Material Plane, and the Elemental Planes.
 
 ### Nature Trained Actions
 <sup>CRB p. 249</sup>
 
 You must be trained in Nature to use the following general skill actions.
 
-- **[Identify Magic](../rules/actions/identify-magic.md)**, particularly primal magic.
-- **[Learn a Spell](../rules/actions/learn-a-spell.md)** from the [primal](../rules/traits/primal.md) tradition.
+- **[Identify Magic](rules/actions/identify-magic.md)**, particularly primal magic.
+- **[Learn a Spell](rules/actions/learn-a-spell.md)** from the [primal](rules/traits/primal.md) tradition.
 
 _Source: Core Rulebook p. 249_
 
 ## Occultism
 
-You know a great deal about ancient philosophies, esoteric lore, obscure mysticism, and supernatural creatures. Even if you're untrained in Occultism, you can use it to [Recall Knowledge](../rules/actions/recall-knowledge.md).
+You know a great deal about ancient philosophies, esoteric lore, obscure mysticism, and supernatural creatures. Even if you're untrained in Occultism, you can use it to [Recall Knowledge](rules/actions/recall-knowledge.md).
 
-- **[Recall Knowledge](../rules/actions/recall-knowledge.md)** about ancient mysteries; obscure philosophies; creatures of occult significance (like aberrations, spirits, and oozes); and the Positive Energy, Negative Energy, Shadow, Astral, and Ethereal Planes.
+- **[Recall Knowledge](rules/actions/recall-knowledge.md)** about ancient mysteries; obscure philosophies; creatures of occult significance (like aberrations, spirits, and oozes); and the Positive Energy, Negative Energy, Shadow, Astral, and Ethereal Planes.
 
 ### Occultism Trained Actions
 <sup>CRB p. 249</sup>
 
 You must be trained in Occultism to use it for the following general skill actions.
 
-- **[Decipher Writing](../rules/actions/decipher-writing.md)** on occult topics, including complex metaphysical systems, syncretic principles, weird philosophies, and incoherent ramblings.
-- **[Identify Magic](../rules/actions/identify-magic.md)**, particularly occult magic.
-- **[Learn a Spell](../rules/actions/learn-a-spell.md)** from the [occult](../rules/traits/occult.md) tradition.
+- **[Decipher Writing](rules/actions/decipher-writing.md)** on occult topics, including complex metaphysical systems, syncretic principles, weird philosophies, and incoherent ramblings.
+- **[Identify Magic](rules/actions/identify-magic.md)**, particularly occult magic.
+- **[Learn a Spell](rules/actions/learn-a-spell.md)** from the [occult](rules/traits/occult.md) tradition.
 
 _Source: Core Rulebook p. 249_
 
@@ -167,34 +167,34 @@ When you use an action that utilizes the Performance skill, it gains one or more
 
 | Performance | Additional Traits |
 |-------------|-------------------|
-| Act or perform comedy | [Auditory](../rules/traits/auditory.md), [linguistic](../rules/traits/linguistic.md), and [visual](../rules/traits/visual.md) |
-| Dance | [Move](../rules/traits/move.md) and [visual](../rules/traits/visual.md) |
-| Play an instrument | [Auditory](../rules/traits/auditory.md) and [manipulate](../rules/traits/manipulate.md) |
-| Orate or sing | [Auditory](../rules/traits/auditory.md) and [linguistic](../rules/traits/linguistic.md) |
+| Act or perform comedy | [Auditory](rules/traits/auditory.md), [linguistic](rules/traits/linguistic.md), and [visual](rules/traits/visual.md) |
+| Dance | [Move](rules/traits/move.md) and [visual](rules/traits/visual.md) |
+| Play an instrument | [Auditory](rules/traits/auditory.md) and [manipulate](rules/traits/manipulate.md) |
+| Orate or sing | [Auditory](rules/traits/auditory.md) and [linguistic](rules/traits/linguistic.md) |
 
 ### Performance Trained Action
 <sup>CRB p. 250</sup>
 
-You must be trained in Performance to use it to [Earn Income](../rules/actions/earn-income.md).
+You must be trained in Performance to use it to [Earn Income](rules/actions/earn-income.md).
 
-- **[Earn Income](../rules/actions/earn-income.md)** by staging a performance.
+- **[Earn Income](rules/actions/earn-income.md)** by staging a performance.
 
 _Source: Core Rulebook p. 250_
 
 ## Religion
 
-The secrets of deities, dogma, faith, and the realms of divine creatures both sublime and sinister are open to you. You also understand how magic works, though your training imparts a religious slant to that knowledge. Even if you're untrained in Religion, you can use it to [Recall Knowledge](../rules/actions/recall-knowledge.md).
+The secrets of deities, dogma, faith, and the realms of divine creatures both sublime and sinister are open to you. You also understand how magic works, though your training imparts a religious slant to that knowledge. Even if you're untrained in Religion, you can use it to [Recall Knowledge](rules/actions/recall-knowledge.md).
 
-- **[Recall Knowledge](../rules/actions/recall-knowledge.md)** about divine agents, the finer points of theology, obscure myths regarding a faith, and creatures of religious significance (like celestials, fiends, and undead), the Outer Sphere, and the Positive and Negative Energy Planes.
+- **[Recall Knowledge](rules/actions/recall-knowledge.md)** about divine agents, the finer points of theology, obscure myths regarding a faith, and creatures of religious significance (like celestials, fiends, and undead), the Outer Sphere, and the Positive and Negative Energy Planes.
 
 ### Religion Trained Actions
 <sup>CRB p. 250</sup>
 
 You must be trained in Religion to use it for the following general skill actions.
 
-- **[Decipher Writing](../rules/actions/decipher-writing.md)** of a religious nature, including allegories, homilies, and proverbs.
-- **[Identify Magic](../rules/actions/identify-magic.md)**, particularly divine magic.
-- **[Learn a Spell](../rules/actions/learn-a-spell.md)** from the [divine](../rules/traits/divine.md) tradition.
+- **[Decipher Writing](rules/actions/decipher-writing.md)** of a religious nature, including allegories, homilies, and proverbs.
+- **[Identify Magic](rules/actions/identify-magic.md)**, particularly divine magic.
+- **[Learn a Spell](rules/actions/learn-a-spell.md)** from the [divine](rules/traits/divine.md) tradition.
 
 _Source: Core Rulebook p. 250_
 
@@ -202,15 +202,15 @@ _Source: Core Rulebook p. 250_
 
 You understand the people and systems that make civilization run, and you know the historical events that make societies what they are today. Further, you can use that knowledge to navigate the complex physical, societal, and economic workings of settlements. Even if you're untrained in Society, you can use it for the following general skill actions.
 
-- **[Recall Knowledge](../rules/actions/recall-knowledge.md)** about local history, important personalities, legal institutions, societal structure, and humanoid cultures. The GM might allow Society to apply to other creatures that are major elements of society in your region, such as the draconic nobility in a kingdom of humans ruled by dragons.
-- **[Subsist](../rules/actions/subsist.md)** in a settlement by finding shelter, scrounging, or begging for food.
+- **[Recall Knowledge](rules/actions/recall-knowledge.md)** about local history, important personalities, legal institutions, societal structure, and humanoid cultures. The GM might allow Society to apply to other creatures that are major elements of society in your region, such as the draconic nobility in a kingdom of humans ruled by dragons.
+- **[Subsist](rules/actions/subsist.md)** in a settlement by finding shelter, scrounging, or begging for food.
 
 ### Society Trained Actions
 <sup>CRB p. 250</sup>
 
-You must be trained in Society to use it to [Decipher Writing](../rules/actions/decipher-writing.md).
+You must be trained in Society to use it to [Decipher Writing](rules/actions/decipher-writing.md).
 
-- **[Decipher Writing](../rules/actions/decipher-writing.md)** that's a coded message, text written in an incomplete or archaic form, or in some cases, text in a language you don't know.
+- **[Decipher Writing](rules/actions/decipher-writing.md)** that's a coded message, text written in an incomplete or archaic form, or in some cases, text in a language you don't know.
 
 _Source: Core Rulebook p. 250_
 
@@ -222,9 +222,9 @@ _Source: Core Rulebook p. 251_
 
 ## Survival
 
-You are adept at living in the wilderness, foraging for food and building shelter, and with training you discover the secrets of tracking and hiding your trail. Even if you're untrained, you can still use Survival to [Subsist](../rules/actions/subsist.md)
+You are adept at living in the wilderness, foraging for food and building shelter, and with training you discover the secrets of tracking and hiding your trail. Even if you're untrained, you can still use Survival to [Subsist](rules/actions/subsist.md)
 
-- [Subsist](../rules/actions/subsist.md) in the wild by foraging for food and building shelter.
+- [Subsist](rules/actions/subsist.md) in the wild by foraging for food and building shelter.
 
 _Source: Core Rulebook p. 252_
 

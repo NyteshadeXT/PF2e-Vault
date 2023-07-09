@@ -1,6 +1,6 @@
 # Phase Familiar
 #pf2e/focus_spell/level_1 #pf2e/class/witch #pf2e/school/abjuration 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Abjuration](../../../rules/traits/abjuration.md)== ==[Hex](../../../Traits/Hex.md)== ==[Witch](../../../Traits/Witch.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Abjuration](rules/traits/abjuration.md)== ==[Hex](../../../Traits/Hex.md)== ==[Witch](../../../Traits/Witch.md)==
 *Source* Advanced Player's Guide pg. 239 2.0
 **Cast** ◄ somatic; Trigger Your familiar would take damage.
 **Range** 60 feet; **Targets** your familiar

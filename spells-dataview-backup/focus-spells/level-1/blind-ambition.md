@@ -1,6 +1,6 @@
 # Blind Ambition
 #pf2e/focus_spell/level_1 #pf2e/class/cleric #pf2e/school/enchantment 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Emotion](../../../rules/traits/emotion.md)== ==[Enchantment](../../../rules/traits/enchantment.md)== ==[Mental](../../../rules/traits/mental.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cleric](rules/traits/cleric.md)== ==[Emotion](rules/traits/emotion.md)== ==[Enchantment](rules/traits/enchantment.md)== ==[Mental](rules/traits/mental.md)==
 *Source* Core Rulebook pg. 389 3.0
 **Domain** ambition
 **Cast** ►► somatic, verbal
@@ -12,7 +12,7 @@ You strengthen a target's ambition, increase its resentment of allies, and make 
 
 **Critical Success** The target is unaffected.
 
-**Success** The target takes a –1 status penalty to its saving throws and other defenses against attempts to [coerce](../../../rules/actions/coerce.md) it, Request something of it, or use mental effects to convince it to do something (such as a [Suggestion](../../Arcane_Tradition/Level%204/Suggestion.md) spell). This penalty applies only if the target is being encouraged to advance its own ambitions.
+**Success** The target takes a –1 status penalty to its saving throws and other defenses against attempts to [coerce](rules/actions/coerce.md) it, Request something of it, or use mental effects to convince it to do something (such as a [Suggestion](../../Arcane_Tradition/Level%204/Suggestion.md) spell). This penalty applies only if the target is being encouraged to advance its own ambitions.
 
 **Failure** As success, but the penalty is –2.
 

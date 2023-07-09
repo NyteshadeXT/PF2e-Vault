@@ -1,6 +1,6 @@
 # Mind Swap
 #pf2e/ritual/level_5
-==[Rare](../../../rules/traits/rare.md)== ==[Mental](../../../rules/traits/mental.md)== ==[Necromancy](../../../rules/traits/necromancy.md)== ==[References/Feats/possession](References/Feats/possession)==
+==[Rare](rules/traits/rare.md)== ==[Mental](rules/traits/mental.md)== ==[Necromancy](rules/traits/necromancy.md)== ==[References/Feats/possession](References/Feats/possession)==
 *Source* Secrets of Magic pg. 151 1.1
 **Cast** 1 day; **Cost** a pair of jeweled mirrors worth a total value of 50 gp × the level of the highest-level target; **Secondary Casters** 1
 **Primary Check** Occultism (expert); **Secondary Check** Medicine or Occultism
@@ -21,4 +21,4 @@ If a body dies, the mind and spirit controlling it dies instantly. When the spel
 
 <hr>
 
-**Heightened (9th)** You can cast the ritual without a duration, leaving no magic to [counteract](../../../Rules/Counteracting.md). The effects are reversible only by another mind swap ritual or powerful magic like wish. This increases the cost of the ritual to 10,000 gp and is an evil act unless both targets are willing.
+**Heightened (9th)** You can cast the ritual without a duration, leaving no magic to [counteract](rules/Counteracting.md). The effects are reversible only by another mind swap ritual or powerful magic like wish. This increases the cost of the ritual to 10,000 gp and is an evil act unless both targets are willing.

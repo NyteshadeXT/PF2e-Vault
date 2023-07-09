@@ -1,6 +1,6 @@
 # Ki Strike
 #pf2e/focus_spell/level_1
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Monk](../../../rules/traits/monk.md)== ==[Transmutation](../../../rules/traits/transmutation.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Monk](rules/traits/monk.md)== ==[Transmutation](rules/traits/transmutation.md)==
 *Source* Core Rulebook pg. 401 3.0
 **Cast** ► verbal
 

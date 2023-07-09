@@ -1,6 +1,6 @@
 # Ravenous Reanimation
 #pf2e/ritual/level_7
-==[Rare](../../../rules/traits/rare.md)== ==[Evil](../../../rules/traits/evil.md)== ==[Necromancy](../../../rules/traits/necromancy.md)==
+==[Rare](rulesare.md)== ==[Evil](rules/traits/evil.md)== ==[Necromancy](rules/traits/necromancy.md)==
 *Source* Bestiary 2 pg. 223 2.0
 **Cast** 1 day; **Cost** valuable treasures from the target dragon’s hoard worth a total value of 50,000 gp
 **Primary Check** Arcana (master), Occultism (master), or Religion (master)

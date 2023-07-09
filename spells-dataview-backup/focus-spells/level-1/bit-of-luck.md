@@ -1,6 +1,6 @@
 # Bit of Luck
 #pf2e/focus_spell/level_1 #pf2e/class/cleric #pf2e/school/divination 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Divination](../../../rules/traits/divination.md)== ==[Fortune](../../../rules/traits/fortune.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cleric](rules/traits/cleric.md)== ==[Divination](rules/traits/divination.md)== ==[Fortune](rules/traits/fortune.md)==
 *Source* Core Rulebook pg. 389 3.0
 **Domain** luck
 **Cast** ►► somatic, verbal

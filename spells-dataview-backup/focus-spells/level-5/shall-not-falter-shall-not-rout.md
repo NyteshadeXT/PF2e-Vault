@@ -1,6 +1,6 @@
 # Shall Not Falter, Shall Not Rout
 #pf2e/focus_spell/level_5 #pf2e/school/necromancy 
-==[Rare](../../../rules/traits/rare.md)== ==[Healing](../../../rules/traits/healing.md)== ==[Necromancy](../../../rules/traits/necromancy.md)==
+==[Rare](rules ==[Healing](rules/traits/healing.md)== ==[Necromancy](rules/traits/necromancy.md)==
 *Source* Legends pg. 69
 **Cast** ► verbal
 **Duration** 1 minute

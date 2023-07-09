@@ -1,6 +1,6 @@
 # Impaling Briars
 #pf2e/focus_spell/level_8 #pf2e/class/druid #pf2e/school/conjuration 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Conjuration](../../../rules/traits/conjuration.md)== ==[Druid](../../../rules/traits/druid.md)== ==[Plant](../../../rules/traits/plant.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Conjuration](rules/traits/conjuration.md)== ==[Druid](rules/traits/druid.md)== ==[Plant](rules/traits/plant.md)==
 *Source* Core Rulebook pg. 400 3.0
 **Cast** ►► somatic, verbal
 **Area** ground within a 100-foot emanation

@@ -1,6 +1,6 @@
 # Wordsmith
 #pf2e/focus_spell/level_4 #pf2e/class/cleric #pf2e/school/transmutation 
-==[Rare](../../../rules/traits/rare.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Transmutation](../../../rules/traits/transmutation.md)==
+==[Rare](rules/traits/rare.md)== ==[Cleric](rules/traits/cleric.md)== ==[Transmutation](rules/traits/transmutation.md)==
 *Source* Dark Archive pg. 144
 **Domain** knowledge (apocryphal)
 **Cast** ►►► material, somatic, verbal

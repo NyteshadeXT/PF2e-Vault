@@ -1,6 +1,6 @@
 # Portrait of Spite
 #pf2e/ritual/level_5
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Curse](../../../rules/traits/curse.md)== ==[Necromancy](../../../rules/traits/necromancy.md)==
+==[Uncommon](rulesd)== ==[Curse](rulesd)== ==[Necromancy](rules/traits/necromancy.md)==
 *Source* Secrets of Magic pg. 153 1.1
 **Cast** 7 days; **Cost** splendid art supplies worth at least 100 gp × the target's level, at least one pint of blood from the target; **Secondary Casters** 3
 **Primary Check** Occultism or Religion (master); **Secondary Check** Crafting, Occultism or Religion (whichever isn't used for the primary check)

@@ -1,6 +1,6 @@
 # Pulse of the City
 #pf2e/focus_spell/level_4 #pf2e/class/cleric #pf2e/school/divination 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Divination](../../../rules/traits/divination.md)== ==[References/Feats/Scrying](References/Feats/Scrying)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cleric](rules/traits/cleric.md)== ==[Divination](rules/traits/divination.md)== ==[References/Feats/Scrying](References/Feats/Scrying)==
 *Source* Core Rulebook pg. 395 3.0
 **Domain** cities
 **Cast** ►►► material, somatic, verbal
@@ -13,7 +13,7 @@ You tap into the zeitgeist of the nearest settlement in range (if any). You lear
 - **Masses** common folk and merchants (gathering mobs, major sales)
 When uttering your word, you can exclude events you already know about, whether you know about them from this spell or from other experiences. If you cast pulse of the city again within 24 hours, you can say “echo” instead of another word to get an update on the event you learned about the last time you Cast the Spell.
 
-Pulse of the city reveals only publicly available or observable information. You never learn clandestine movements or other details people are specifically trying to hide. The spell is also notoriously bad at overcoming magic meant to avoid detection; it automatically fails to reveal information about events involving creatures, places, or objects affected by spells that could prevent or [counteract](../../../Rules/Counteracting.md) pulse of the city (such as [Nondetection](../../Arcane_Tradition/Level%203/Nondetection.md)).
+Pulse of the city reveals only publicly available or observable information. You never learn clandestine movements or other details people are specifically trying to hide. The spell is also notoriously bad at overcoming magic meant to avoid detection; it automatically fails to reveal information about events involving creatures, places, or objects affected by spells that could prevent or [counteract](rules/Counteracting.md) pulse of the city (such as [Nondetection](../../Arcane_Tradition/Level%203/Nondetection.md)).
 
 <hr>
 

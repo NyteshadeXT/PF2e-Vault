@@ -10,12 +10,12 @@ tags:
 - domain/nature/deity
 aliases: ["Xhamen-Dor", "The Star Seed"]
 ---
-# Xhamen-Dor (The Star Seed) *([NE](../../../rules/traits/neutral-evil-b1.md))*  
+# Xhamen-Dor (The Star Seed) *([NE](rules/traits/neutral-evil-b1.md))*  
 *Source: Lost Omens: Gods & Magic p. 130*  
 
 - **Category**: Great Old Ones
 - **Anathema**: none
-- **Follower Alignments**: [NE](../../../rules/traits/neutral-evil-b1.md), [CE](../../../rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [NE](rules/traits/neutral-evil-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
 
 ## Devotee benefits
 

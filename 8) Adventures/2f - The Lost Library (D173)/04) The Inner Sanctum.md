@@ -1,0 +1,7 @@
+
+
+
+
+
+
+Concluding the Adventure If the characters decide to spare Nibbik, you have the option of introducing kobolds as companion characters to the party. (For more information on companion characters, see page 27 of Dungeon Master Guide 2.) Three potential kobolds can join the group, depending on what the party needs. Nibbik, Kobold Wyrmpriest (Controller) Minnock, Kobold Slinger (Striker) Krunk One-Ear, Kobold Dragonshield (Defender) These kobolds are all members of the Fireclaw tribe. Nibbik is an opportunist—he sees potential in the characters. His loyalty is not absolute, and if the PCs ever face an opponent that seems able to defeat them, Nibbik will switch sides to save his own hide. He also seeks the power that a shard of the meteor would grant him—should he find one, he will attempt to seize it without a second thought. The PCs might choose to use Voran’s sanctum as a base of operations in the valley. No map is provided for the space below the Portal chamber, but the space should have the basic necessities for resting. If the players start using this area as a base of operations, they might be interested in outfitting the base with wondrous lair items as described on page 79 of Adventurer’s Vault 2.

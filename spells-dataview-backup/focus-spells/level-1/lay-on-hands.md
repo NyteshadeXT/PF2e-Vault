@@ -1,6 +1,6 @@
 # Lay on Hands
 #pf2e/focus_spell/level_1 #pf2e/class/champion #pf2e/school/necromancy 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Champion](../../../rules/traits/champion.md)== ==[Healing](../../../rules/traits/healing.md)== ==[Necromancy](../../../rules/traits/necromancy.md)== ==[Positive](../../../rules/traits/positive.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Champion](rules/traits/champion.md)== ==[Healing](rules/traits/healing.md)== ==[Necromancy](rules/traits/necromancy.md)== ==[Positive](rules/traits/positive.md)==
 *Source* Core Rulebook pg. 387 3.0
 **Cast** ► somatic
 **Range** touch; **Targets** 1 willing living creature or 1 undead creature

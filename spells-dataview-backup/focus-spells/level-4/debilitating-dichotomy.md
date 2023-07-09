@@ -1,6 +1,6 @@
 # Debilitating Dichotomy
 #pf2e/focus_spell/level_4 #pf2e/class/oracle #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cursebound](../../../Traits/Cursebound.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Mental](../../../rules/traits/mental.md)== ==[Oracle](../../../Traits/Oracle.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cursebound](../../../Traits/Cursebound.md)== ==[Evocation](rules/traits/evocation.md)== ==[Mental](rules/traits/mental.md)== ==[Oracle](../../../Traits/Oracle.md)==
 *Source* Advanced Player's Guide pg. 231 2.0
 **Cast** ►► somatic, verbal
 **Range** 30 feet; **Targets** 1 creature other than you

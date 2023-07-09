@@ -1,6 +1,6 @@
 # Tempest Touch
 #pf2e/focus_spell/level_1 #pf2e/class/oracle #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cold](../../../rules/traits/cold.md)== ==[Cursebound](../../../Traits/Cursebound.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Oracle](../../../Traits/Oracle.md)== ==[Water](../../../rules/traits/water.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cold](rules/traits/cold.md)== ==[Cursebound](../../../Traits/Cursebound.md)== ==[Evocation](rules/traits/evocation.md)== ==[Oracle](../../../Traits/Oracle.md)== ==[Water](rules/traits/water.md)==
 *Source* Advanced Player's Guide pg. 233 2.0
 Mystery tempest
 **Cast** ► somatic

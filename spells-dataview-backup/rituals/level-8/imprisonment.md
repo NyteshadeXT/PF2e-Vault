@@ -1,13 +1,13 @@
 # Imprisonment
 #pf2e/ritual/level_8
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Evocation](../../../rules/traits/evocation.md)==
+==[Uncommon](rulesd)== ==[Evocation](rulesvocation.md)==
 *Source* Core Rulebook pg. 412 3.0
 **Cast** 1 day; **Cost** reagents to construct the magical prison worth a total value of 800 gp × the target’s level; **Secondary Casters** 6
 **Primary Check** Arcana (legendary) or Occultism (legendary); **Secondary Check** Crafting, Society
 **Range** 10 feet; **Target(s)** 1 creature of up to 16th level
 
 ---
-You perform a ritual to imprison a creature in one of several forms. While some versions of this ritual offer all of the forms, others include only a single form or only a few of them. Whichever form you use, the effect can’t be [counteracted](../../../Rules/Counteracting.md), though it can be ended by freedom.
+You perform a ritual to imprison a creature in one of several forms. While some versions of this ritual offer all of the forms, others include only a single form or only a few of them. Whichever form you use, the effect can’t be [counteracted](rulescting.md), though it can be ended by freedom.
 
 Some forms of imprisonment can be ended by other means. Because the ritual requires the target to remain within 10 feet at all times, it typically requires you to subdue the target first.
 

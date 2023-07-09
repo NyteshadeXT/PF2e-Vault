@@ -10,12 +10,12 @@ tags:
 - domain/water/deity
 aliases: ["Ylimancha", "Harborwing"]
 ---
-# Ylimancha (Harborwing) *([NG](../../../rules/traits/neutral-good-b1.md))*  
+# Ylimancha (Harborwing) *([NG](rules/traits/neutral-good-b1.md))*  
 *Source: Lost Omens: Gods & Magic p. 128*  
 
 - **Category**: Empyreal Lords
 - **Anathema**: imprison birds or clip their wings, poison coastal waters, overfish, aid [Pazuzu](pazuzu-logm.md) or his minions
-- **Follower Alignments**: [LG](../../../rules/traits/lawful-goo-b1.md), [NG](../../../rules/traits/neutral-good-b1.md), [N](../../../rules/traits/neutral-b1.md), [CG](../../../rules/traits/chaotic-good-b1.md)
+- **Follower Alignments**: [LG](rules/traits/lawful-goo-b1.md), [NG](rules/traits/neutral-good-b1.md), [N](rules/traits/neutral-b1.md), [CG](rules/traits/chaotic-good-b1.md)
 
 ## Devotee benefits
 

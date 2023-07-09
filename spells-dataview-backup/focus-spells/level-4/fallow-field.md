@@ -1,6 +1,6 @@
 # Fallow Field
 #pf2e/focus_spell/level_4 #pf2e/school/necromancy 
-==[Necromancy](../../../rules/traits/necromancy.md)== ==[Negative](../../../rules/traits/negative.md)==
+==[Necromancy](rules/traits/necromancy.md)== ==[Negative](rules/traits/negative.md)==
 *Source* Gods & Magic pg. 113 2.0
 **Domain** decay
 **Cast** ►► somatic, verbal

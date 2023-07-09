@@ -1,6 +1,6 @@
 # Claim Undead
 #pf2e/focus_spell/level_6 #pf2e/class/oracle #pf2e/school/necromancy 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cursebound](../../../Traits/Cursebound.md)== ==[Incapacitation](../../../rules/traits/incapacitation.md)== ==[Necromancy](../../../rules/traits/necromancy.md)== ==[Oracle](../../../Traits/Oracle.md)==
+==[Uncommon](rulesd)== ==[Cursebound](../../../Traits/Cursebound.md)== ==[Incapacitation](rules/traits/incapacitation.md)== ==[Necromancy](rules/traits/necromancy.md)== ==[Oracle](../../../Traits/Oracle.md)==
 *Source* Advanced Player's Guide pg. 230 2.0
 **Mystery** bones
 **Cast** ►► somatic, verbal

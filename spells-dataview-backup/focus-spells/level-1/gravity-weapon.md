@@ -1,6 +1,6 @@
 # Gravity Weapon
 #pf2e/focus_spell/level_1 #pf2e/class/ranger #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Ranger](../../../rules/traits/ranger.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Evocation](rules/traits/evocation.md)== ==[Ranger](rules/traits/ranger.md)==
 *Source* Advanced Player's Guide pg. 234 2.0
 **Cast** ► somatic
 **Duration** 1 minute

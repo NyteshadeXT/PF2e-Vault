@@ -1,6 +1,6 @@
 # Primal Call
 #pf2e/ritual/level_6
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Abjuration](../../../rules/traits/abjuration.md)== ==[Conjuration](../../../rules/traits/conjuration.md)==
+==[Uncommon](rulesncommon.md)== ==[Abjuration](rules/traits/abjuration.md)== ==[Conjuration](rules/traits/conjuration.md)==
 *Source* Core Rulebook pg. 415 3.0
 **Cast** 1 day; **Cost** faerie circle ingredients worth a total value of 1 gp × the spell level × the target’s level; **Secondary Casters** 4
 **Primary Check** Nature (master); **Secondary Check** Crafting, Diplomacy, Survival

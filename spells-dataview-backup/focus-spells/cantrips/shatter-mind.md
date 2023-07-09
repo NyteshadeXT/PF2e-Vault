@@ -1,6 +1,6 @@
 # Shatter Mind
 #pf2e/focus_spell/cantrip_3 #pf2e/class/psychic #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cantrip](../../../rules/traits/cantrip.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Mental](../../../rules/traits/mental.md)== ==[Psychic](../../../Traits/Psychic.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cantrip](rules/traits/cantrip.md)== ==[Evocation](rules/traits/evocation.md)== ==[Mental](rules/traits/mental.md)== ==[Psychic](../../../Traits/Psychic.md)==
 *Source* Dark Archive pg. 21
 **Cast** ►► somatic, verbal
 **Area** 15-foot cone

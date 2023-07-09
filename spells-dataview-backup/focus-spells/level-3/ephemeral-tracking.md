@@ -1,6 +1,6 @@
 # Ephemeral Tracking
 #pf2e/focus_spell/level_3 #pf2e/class/ranger #pf2e/school/divination 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Divination](../../../rules/traits/divination.md)== ==[Ranger](../../../rules/traits/ranger.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Divination](rules/traits/divination.md)== ==[Ranger](rules/traits/ranger.md)==
 *Source* Advanced Player's Guide pg. 234 2.0
 **Cast** ►► somatic, verbal
 **Duration** 1 hour

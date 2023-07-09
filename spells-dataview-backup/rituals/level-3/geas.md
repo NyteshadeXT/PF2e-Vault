@@ -1,6 +1,6 @@
 # Geas
 #pf2e/ritual/level_3
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Curse](../../../rules/traits/curse.md)== ==[Enchantment](../../../rules/traits/enchantment.md)== ==[Mental](../../../rules/traits/mental.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Curse](rules/traits/curse.md)== ==[Enchantment](rules/traits/enchantment.md)== ==[Mental](rules/traits/mental.md)==
 *Source* Core Rulebook pg. 412 3.0
 **Cast** 1 day; **Secondary Casters** 1
 **Primary Check** Arcana (expert), Occultism (expert), or Religion (expert); **Secondary Check** Society or Legal Lore
@@ -15,7 +15,7 @@ Because the target is willing, geas can have a duration that lasts for as long a
 **Critical Success** The geas succeeds, and the target receives a +1 status bonus to skill checks that directly uphold the geas (at the GM’s discretion).
 **Success** The geas succeeds.
 **Failure** The geas fails.
-**Critical Failure** The geas fails, and you are instead affected by the geas you were attempting to place on the target. You are considered an unwilling target, so the geas can be [counteracted](../../../Rules/Counteracting.md) with a remove curse spell.
+**Critical Failure** The geas fails, and you are instead affected by the geas you were attempting to place on the target. You are considered an unwilling target, so the geas can be [counteracted](rules/Counteracting.md) with a remove curse spell.
 
 <hr>
 

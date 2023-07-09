@@ -26,15 +26,15 @@ Your deity sends wracking plagues. The target must attempt a Fortitude save. Whe
 ```ad-inline-affliction
 title: Divine Plague _Level 1_
 
-[disease](../../../rules/traits/disease.md)  
+[disease](rules/traits/disease.md)  
 
 ## Stages
 
-**Stage 1** [clumsy](../../../rules/conditions.md#Clumsy), [enfeebled](../../../rules/conditions.md#Enfeebled), or [stupefied](../../../rules/conditions.md#Stupefied) (1 round)
+**Stage 1** [clumsy](rules/conditions.md#Clumsy), [enfeebled](rules/conditions.md#Enfeebled), or [stupefied](rules/conditions.md#Stupefied) (1 round)
 
-**Stage 2** [slowed](../../../rules/conditions.md#Slowed) and [clumsy](../../../rules/conditions.md#Clumsy), [enfeebled](../../../rules/conditions.md#Enfeebled), or [stupefied](../../../rules/conditions.md#Stupefied) (1 round)
+**Stage 2** [slowed](rules/conditions.md#Slowed) and [clumsy](rules/conditions.md#Clumsy), [enfeebled](rules/conditions.md#Enfeebled), or [stupefied](rules/conditions.md#Stupefied) (1 round)
 
-**Stage 3** [clumsy](../../../rules/conditions.md#Clumsy), [enfeebled](../../../rules/conditions.md#Enfeebled), or [stupefied](../../../rules/conditions.md#Stupefied) and the target can't recover from the condition until they are cured} (1 day)
+**Stage 3** [clumsy](rules/conditions.md#Clumsy), [enfeebled](rules/conditions.md#Enfeebled), or [stupefied](rules/conditions.md#Stupefied) and the target can't recover from the condition until they are cured} (1 day)
 
 
 %% #trait/disease #affliction/level/level-1 %%

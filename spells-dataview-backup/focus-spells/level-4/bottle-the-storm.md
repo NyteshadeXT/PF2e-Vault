@@ -1,6 +1,6 @@
 # Bottle the Storm
 #pf2e/focus_spell/level_4
-==[Electricity](../../../rules/traits/electricity.md)== ==[Evocation](../../../rules/traits/evocation.md)==
+==[Electricity](rules/traits/electricity.md)== ==[Evocation](rules/traits/evocation.md)==
 *Source* Gods & Magic pg. 115 2.0
 **Domain** lightning
 **Cast** ◄ somatic; **Trigger** You would take electricity damage.

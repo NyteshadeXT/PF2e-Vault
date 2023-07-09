@@ -1,6 +1,6 @@
 # Retributive Pain
 #pf2e/focus_spell/level_4 #pf2e/class/cleric #pf2e/school/abjuration 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Abjuration](../../../rules/traits/abjuration.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Mental](../../../rules/traits/mental.md)== ==[Nonlethal](../../../rules/traits/nonlethal.md)==
+==[Uncommon](rulesuncommon.md)== ==[Abjuration](rules/abjuration.md)== ==[Cleric](rules/traits/cleric.md)== ==[Mental](rules/traits/mental.md)== ==[Nonlethal](rules/traits/nonlethal.md)==
 *Source* Core Rulebook pg. 396 3.0
 **Domain** pain
 **Cast** ◄ somatic; **Trigger** A creature in range damages you.

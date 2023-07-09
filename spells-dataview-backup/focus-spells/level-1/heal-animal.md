@@ -1,6 +1,6 @@
 # Heal Animal
 #pf2e/focus_spell/level_1 #pf2e/class/druid #pf2e/school/necromancy 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Druid](../../../rules/traits/druid.md)== ==[Healing](../../../rules/traits/healing.md)== ==[Necromancy](../../../rules/traits/necromancy.md)== ==[Positive](../../../rules/traits/positive.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Druid](rules/traits/druid.md)== ==[Healing](rules/traits/healing.md)== ==[Necromancy](rules/traits/necromancy.md)== ==[Positive](rules/traits/positive.md)==
 *Source* Core Rulebook pg. 399 3.0
 **Cast** ► to ►► somatic
 **Range** touch or 30 feet (see text); **Targets** 1 willing living animal creature

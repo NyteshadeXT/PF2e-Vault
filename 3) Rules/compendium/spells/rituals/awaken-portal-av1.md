@@ -9,7 +9,7 @@ tags:
 aliases: ["Awaken Portal"]
 ---
 # Awaken Portal *Ritual 3*  
-[conjuration](../../../rules/traits/conjuration.md)  [rare](../../../rules/traits/rare.md)  
+[conjuration](rules/traits/conjuration.md)  [rare](rules/traits/rare.md)  
 
 - **Cast** 1 hour
 - **Secondary Casters** up to 5
@@ -25,7 +25,7 @@ The DC required to successfully awaken a portal varies based on the strength and
 > [!success-degree] 
 > - **Critical Success** You awaken the portal. If its other side is awakened, the portal can be used normally and won't deactivate naturally. If its other side is not awakened, this side remains awakened for 1 year, possibly allowing you enough time to find and awaken the connecting portal.
 > - **Success** As critical success, but if the portal's other side is not awakened, this side remains awakened for only 1d6 days before it fades and falls dormant again.
-> - **Failure** You fail to activate the portal, and magical backlash leaves you [stupefied](../../../rules/conditions.md#Stupefied) for 24 hours.
+> - **Failure** You fail to activate the portal, and magical backlash leaves you [stupefied](rules/conditions.md#Stupefied) for 24 hours.
 > - **Critical Failure** As failure, but in addition, a hostile creature is drawn through the portal and immediately attacks anyone present. The creature drawn through the portal varies, according to the portal's nature; in the Abomination Vaults, the creature conjured depends on the dungeon level where the ritual was attempted, as listed below.
 
 - **First Level** vampiric mist

@@ -1,6 +1,6 @@
 # Evolution Surge
 #pf2e/focus_spell/level_1 #pf2e/class/summoner #pf2e/school/transmutation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Morph](../../../rules/traits/morph.md)== ==[Summoner](../../../Traits/Summoner.md)== ==[Transmutation](../../../rules/traits/transmutation.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Morph](rules/traits/morph.md)== ==[Summoner](../../../Traits/Summoner.md)== ==[Transmutation](rules/traits/transmutation.md)==
 *Source* Secrets of Magic pg. 144 1.1
 **Cast** ►► somatic, verbal
 **Range** 100 feet; **Targets** your eidolon

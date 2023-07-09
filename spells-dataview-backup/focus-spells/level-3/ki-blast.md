@@ -1,6 +1,6 @@
 # Ki Blast
 #pf2e/focus_spell/level_3 #pf2e/class/monk #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Force](../../../rules/traits/force.md)== ==[Monk](../../../rules/traits/monk.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Evocation](rules/traits/evocation.md)== ==[Force](rules/traits/force.md)== ==[Monk](rules/traits/monk.md)==
 *Source* Core Rulebook pg. 401 3.0
 **Cast** ► to ►►► somatic, verbal
 **Area** 15-foot cone or more
@@ -11,7 +11,7 @@ You unleash your ki as a powerful blast of force that deals `dice: 2d6|avg` forc
 
 **Critical Success** The creature is unaffected.
 **Success** The creature takes half damage.
-**Failure** The creature takes full damage and is [pushed](../../../Rules/Forced%20Movement.md) 5 feet.
+**Failure** The creature takes full damage and is [pushed](rules/Forced%20Movement.md) 5 feet.
 **Critical Failure** The creature takes double damage and is pushed 10 feet.
 
 <hr>

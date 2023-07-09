@@ -1,6 +1,6 @@
 # Call Spirit
 #pf2e/ritual/level_5
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Necromancy](../../../rules/traits/necromancy.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Necromancy](rules/traits/necromancy.md)==
 *Source* Core Rulebook pg. 410 3.0
 **Cast** 1 hour; **Cost** rare candles and incense worth a total value of 50 gp; **Secondary Casters** 1
 **Primary Check** Occultism (expert) or Religion (expert); **Secondary Check** Occultism or Religion (whichever isn’t used for the primary check)

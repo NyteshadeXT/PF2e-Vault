@@ -1,6 +1,6 @@
 # Shared Nightmare
 #pf2e/focus_spell/level_4 #pf2e/class/cleric #pf2e/school/enchantment 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Emotion](../../../rules/traits/emotion.md)== ==[Enchantment](../../../rules/traits/enchantment.md)== ==[Incapacitation](../../../rules/traits/incapacitation.md)== ==[Mental](../../../rules/traits/mental.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cleric](rules/traits/cleric.md)== ==[Emotion](rules/traits/emotion.md)== ==[Enchantment](rules/traits/enchantment.md)== ==[Incapacitation](rules/traits/incapacitation.md)== ==[Mental](rules/traits/mental.md)==
 *Source* Core Rulebook pg. 396 3.0
 **Domain** nightmares
 **Cast** ►► somatic, verbal

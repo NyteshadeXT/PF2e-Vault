@@ -1,6 +1,6 @@
 # Transcribe Moment
 #pf2e/focus_spell/level_4 #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Evocation](../../../rules/traits/evocation.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Evocation](rules/traits/evocation.md)==
 *Source* PFS Guide pg. 45
 **Cast** ►► material, somatic
 

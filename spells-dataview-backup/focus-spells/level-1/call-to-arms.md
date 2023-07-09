@@ -1,6 +1,6 @@
 # Call to Arms
 #pf2e/focus_spell/level_1 #pf2e/class/oracle #pf2e/school/enchantment 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Auditory](../../../rules/traits/auditory.md)== ==[Cursebound](../../../Traits/Cursebound.md)== ==[Emotion](../../../rules/traits/emotion.md)== ==[Enchantment](../../../rules/traits/enchantment.md)== ==[Mental](../../../rules/traits/mental.md)== ==[Oracle](../../../Traits/Oracle.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Auditory](rules/traits/auditory.md)== ==[Cursebound](../../../Traits/Cursebound.md)== ==[Emotion](rules/traits/emotion.md)== ==[Enchantment](rules/traits/enchantment.md)== ==[Mental](rules/traits/mental.md)== ==[Oracle](../../../Traits/Oracle.md)==
 *Source* Advanced Player's Guide pg. 230 2.0
 **Mystery** battle
 **Cast** ◄ verbal; **Trigger** You are about to roll for initiative.

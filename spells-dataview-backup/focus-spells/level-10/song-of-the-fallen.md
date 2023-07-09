@@ -1,6 +1,6 @@
 # Song of the Fallen
 #pf2e/focus_spell/level_10 #pf2e/class/bard #pf2e/school/necromancy 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Bard](../../../rules/traits/bard.md)== ==[Composition](../../../rules/traits/composition.md)== ==[Necromancy](../../../rules/traits/necromancy.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Bard](rules/traits/bard.md)== ==[Composition](rules/traits/composition.md)== ==[Necromancy](rules/traits/necromancy.md)==
 *Source* Pathfinder Release 150: Broken Promises pg. 77
 **Cast** ►► focus, verbal
 **Range** 30 feet; **Targets** up to 4 dead creatures or up to 4 undead creatures

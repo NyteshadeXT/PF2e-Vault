@@ -1,6 +1,6 @@
 # Vigilant Eye
 #pf2e/focus_spell/level_4 #pf2e/class/wizard #pf2e/school/divination 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Divination](../../../rules/traits/divination.md)== ==[Wizard](../../../rules/traits/wizard.md)==
+==[Uncommon](rulesncommon.md)== ==[Divination](rules/traits/divination.md)== ==[Wizard](rules/traits/wizard.md)==
 *Source* Core Rulebook pg. 407 3.0
 **Cast** ► somatic
 **Range** 500 feet

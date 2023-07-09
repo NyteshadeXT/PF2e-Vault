@@ -1,6 +1,6 @@
 # Mother's Blessing
 #pf2e/ritual/level_5
-==[Rare](../../../rules/traits/rare.md)== ==[Beast](../../../rules/traits/beast.md)== ==[consecration](../../../rules/traits/consecration.md)== ==[Necromancy](../../../rules/traits/necromancy.md)== ==[Positive](../../../rules/traits/positive.md)== ==[Primal](../../../rules/traits/primal.md)==
+==[Rare](rules ==[Beast](rules/traits/beast.md)== ==[consecration](rules/traits/consecration.md)== ==[Necromancy](rules/traits/necromancy.md)== ==[Positive](rules/traits/positive.md)== ==[Primal](rules/traits/primal.md)==
 *Source* Monsters of Myth pg. 118
 **Cast** 1 day; **Cost** at least 1 gallon of clean river water; **Secondary Casters** 3
 **Primary Check** Nature (expert); **Secondary Check** Crafting, Medicine, Survival

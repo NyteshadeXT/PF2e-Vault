@@ -9,7 +9,7 @@ tags:
 aliases: ["Mystic Carriage"]
 ---
 # Mystic Carriage *Ritual 3*  
-[conjuration](../../../rules/traits/conjuration.md)  [uncommon](../../../rules/traits/uncommon.md)  
+[conjuration](rules/traits/conjuration.md)  [uncommon](rules/traits/uncommon.md)  
 
 - **Cast** 1 hour
 - **Cost** toy carriage, horse statues, rare incense, and feathers worth 50 gp
@@ -29,6 +29,6 @@ If it's attacked, it continues going as long as nothing blocks its passage. If s
 > - **Failure** You don't create a mystic carriage.
 > - **Critical Failure** You don't create a mystic carriage, and you're attacked by a herd of four riding horses.
 
-**Heightened (+ 1)** The carriage's AC, Fortitude save, and Hardness increase by 2, its Hit Points increase by 20, and its [Broken](../../../rules/conditions.md#Broken) Threshold increases by 10.
+**Heightened (+ 1)** The carriage's AC, Fortitude save, and Hardness increase by 2, its Hit Points increase by 20, and its [Broken](rules/conditions.md#Broken) Threshold increases by 10.
 
 *Source: Secrets of Magic p. 152*

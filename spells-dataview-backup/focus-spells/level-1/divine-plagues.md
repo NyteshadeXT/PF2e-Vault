@@ -1,6 +1,6 @@
 # Divine Plagues
 #pf2e/focus_spell/level_1 #pf2e/school/necromancy 
-==[Disease](../../../rules/traits/disease.md)== ==[Necromancy](../../../rules/traits/necromancy.md)==
+==[Disease](rules/traits/disease.md)== ==[Necromancy](rules/traits/necromancy.md)==
 *Source* Gods & Magic pg. 115 2.0
 **Domain** plague
 **Cast** ►► somatic, verbal
@@ -14,7 +14,7 @@ Your deity sends wracking plagues. The target must attempt a Fortitude save. Whe
 **Failure** The target is afflicted with divine plague at stage 1.
 **Critical Failure** The target is afflicted with divine plague at stage 2.
 
-**Divine Plague** ([Disease](../../../rules/traits/disease.md)) Level 1;
+**Divine Plague** ([Disease](rules/traits/disease.md)) Level 1;
 - **Stage 1** clumsy 1, enfeebled 1, or stupefied 1 (1 round); 
 - **Stage 2** [Slowed](../../../Conditions/Slowed.md) 1 and clumsy 1, enfeebled 1, or stupefied 1 (1 round); 
 - **Stage 3** clumsy 1, enfeebled 1, or stupefied 1 and the target can’t recover from the condition until they are cured (1 day)

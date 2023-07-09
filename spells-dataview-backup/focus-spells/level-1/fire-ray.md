@@ -1,6 +1,6 @@
 # Fire Ray
 #pf2e/focus_spell/level_1 #pf2e/class/cleric #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Attack](../../../rules/traits/attack.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Fire](../../../rules/traits/fire.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Attack](rules/traits/attack.md)== ==[Cleric](rules/traits/cleric.md)== ==[Evocation](rules/traits/evocation.md)== ==[Fire](rules/traits/fire.md)==
 *Source* Core Rulebook pg. 392 3.0
 **Domain** fire
 **Cast** ►► somatic, verbal

@@ -1,6 +1,6 @@
 # Goodberry
 #pf2e/focus_spell/level_1 #pf2e/class/druid #pf2e/school/necromancy 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Druid](../../../rules/traits/druid.md)== ==[Healing](../../../rules/traits/healing.md)== ==[Necromancy](../../../rules/traits/necromancy.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Druid](rules/traits/druid.md)== ==[Healing](rules/traits/healing.md)== ==[Necromancy](rules/traits/necromancy.md)==
 *Source* Core Rulebook pg. 399 3.0
 **Cast** ►► somatic, verbal
 **Range** touch; **Targets** 1 ripe berry

@@ -1,6 +1,6 @@
 # Genie's Veil
 #pf2e/focus_spell/level_1 #pf2e/class/sorcerer #pf2e/school/abjuration 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Abjuration](../../../rules/traits/abjuration.md)== ==[Sorcerer](../../../rules/traits/sorcerer.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Abjuration](rules/traits/abjuration.md)== ==[Sorcerer](rules/traits/sorcerer.md)==
 *Source* Advanced Player's Guide pg. 236 2.0
 **Bloodline** genie
 **Cast** ◄ somatic; **Trigger** A creature within range is attacked.

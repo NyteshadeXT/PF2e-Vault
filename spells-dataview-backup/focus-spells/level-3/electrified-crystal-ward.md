@@ -1,6 +1,6 @@
 # Electrified Crystal Ward
 #pf2e/focus_spell/level_3 #pf2e/school/evocation 
-==[Rare](../../../rules/traits/rare.md)== ==[Electricity](../../../rules/traits/electricity.md)== ==[Evocation](../../../rules/traits/evocation.md)==
+==[Rare](rules/traits/rare.md)== ==[Electricity](rules/traits/electricity.md)== ==[Evocation](rules/traits/evocation.md)==
 *Source* Pathfinder Release 148: Fires of the Haunted City pg. 75
 **Cast** ►► somatic
 **Range** touch; **Targets** 1 hinge or latch

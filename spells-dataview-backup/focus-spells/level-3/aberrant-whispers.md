@@ -1,6 +1,6 @@
 # Aberrant Whispers
 #pf2e/focus_spell/level_3 #pf2e/class/sorcerer #pf2e/school/enchantment 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Auditory](../../../rules/traits/auditory.md)== ==[Enchantment](../../../rules/traits/enchantment.md)== ==[Mental](../../../rules/traits/mental.md)== ==[Sorcerer](../../../rules/traits/sorcerer.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Auditory](rules/traits/auditory.md)== ==[Enchantment](rules/traits/enchantment.md)== ==[Mental](rules/traits/mental.md)== ==[Sorcerer](rules/traits/sorcerer.md)==
 *Source* Core Rulebook pg. 402 3.0
 **Bloodline** aberrant
 **Cast** ► to ►►► verbal

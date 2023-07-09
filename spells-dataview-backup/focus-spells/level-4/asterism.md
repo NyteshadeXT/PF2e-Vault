@@ -1,6 +1,6 @@
 # Asterism
 #pf2e/focus_spell/level_4
-==[Evocation](../../../rules/traits/evocation.md)== ==[1 TTRPG/PF2e Wiki/Traits/Light](1%20TTRPG/PF2e%20Wiki/Traits/Light)==
+==[Evocation](rulesmd)== ==[1 TTRPG/PF2e Wiki/Traits/Light](1%20TTRPG/PF2e%20Wiki/Traits/Light)==
 *Source* Gods & Magic pg. 117 2.0
 **Domain** star
 **Cast** ►►► material, somatic, verbal

@@ -1,6 +1,6 @@
 # Recall Past Life
 #pf2e/ritual/level_4
-==[Rare](../../../rules/traits/rare.md)== ==[Necromancy](../../../rules/traits/necromancy.md)==
+==[Rare](rules/traits/rare.md)== ==[Necromancy](rules/traits/necromancy.md)==
 *Source* Dark Archive pg. 146
 Cast 3 days; **Cost** 100 gp in special wine and symbolic herbs; **Secondary Casters** 2
 **Primary Check** Occultism (master) or Religion (master); **Secondary Check** Crafting

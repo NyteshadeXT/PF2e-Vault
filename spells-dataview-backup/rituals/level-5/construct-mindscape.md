@@ -1,6 +1,6 @@
 # Construct Mindscape
 #pf2e/ritual/level_5
-==[Rare](../../../rules/traits/rare.md)== ==[Illusion](../../../rules/traits/illusion.md)==
+==[Rare](rules/traits/rare.md)== ==[Illusion](rules/traits/illusion.md)==
 *Source* Dark Archive pg. 199
 **Cast** 1 day; **Cost** precious clay, wood, or other modeling materials worth spell level × 20 gp; **Secondary Casters** 2
 **Primary Check** Arcana or Occultism (master); **Secondary Check** Arcana or Occultism, Crafting

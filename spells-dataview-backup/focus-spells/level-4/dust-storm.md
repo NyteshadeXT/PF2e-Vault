@@ -1,6 +1,6 @@
 # Dust Storm
 #pf2e/focus_spell/level_4 #pf2e/school/conjuration 
-==[Air](../../../rules/traits/air.md)== ==[Conjuration](../../../rules/traits/conjuration.md)== ==[Nonlethal](../../../rules/traits/nonlethal.md)==
+==[Air](rules/traits/air.md)== ==[Conjuration](rules/traits/conjuration.md)== ==[Nonlethal](rules/traits/nonlethal.md)==
 *Source* Gods & Magic pg. 114 2.0
 **Domain** dust
 **Cast** ►► somatic, verbal

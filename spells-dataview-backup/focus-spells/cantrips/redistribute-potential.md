@@ -1,6 +1,6 @@
 # Redistribute Potential
 #pf2e/focus_spell/cantrip_5 #pf2e/class/psychic #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cantrip](../../../rules/traits/cantrip.md)== ==[Cold](../../../rules/traits/cold.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Fire](../../../rules/traits/fire.md)== ==[Psychic](../../../Traits/Psychic.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cantrip](rules/traits/cantrip.md)== ==[Cold](rules/traits/cold.md)== ==[Evocation](rules/traits/evocation.md)== ==[Fire](rules/traits/fire.md)== ==[Psychic](../../../Traits/Psychic.md)==
 *Source* Dark Archive pg. 20
 **Cast** ►► somatic, verbal
 **Range** 60 feet; **Area** 2 adjacent 5-foot squares

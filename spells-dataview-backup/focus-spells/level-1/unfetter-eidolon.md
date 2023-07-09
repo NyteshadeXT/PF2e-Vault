@@ -1,6 +1,6 @@
 # Unfetter Eidolon
 #pf2e/focus_spell/level_1 #pf2e/class/summoner #pf2e/school/abjuration 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Abjuration](../../../rules/traits/abjuration.md)== ==[Summoner](../../../Traits/Summoner.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Abjuration](rules/traits/abjuration.md)== ==[Summoner](../../../Traits/Summoner.md)==
 *Source* Secrets of Magic pg. 145 1.1
 **Cast** ►► somatic, verbal
 **Range** 100 feet; **Targets** your eidolon

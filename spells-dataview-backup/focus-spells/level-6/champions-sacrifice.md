@@ -1,6 +1,6 @@
 # Champion's Sacrifice
 #pf2e/focus_spell/level_6 #pf2e/class/champion #pf2e/school/abjuration 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Abjuration](../../../rules/traits/abjuration.md)== ==[Champion](../../../rules/traits/champion.md)==
+==[Uncommon](rulesncommon.md)== ==[Abjuration](rules/traits/abjuration.md)== ==[Champion](ruleschampion.md)==
 *Source* Core Rulebook pg. 387 3.0
 **Cast** ◄ somatic; **Trigger** An ally is hit by a Strike, or an ally fails a saving throw against an effect that doesn't affect you.
 **Range** 30 feet; **Targets** 1 ally

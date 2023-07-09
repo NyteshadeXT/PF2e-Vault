@@ -1,6 +1,6 @@
 # Empower Ley Line
 #pf2e/ritual/level_7
-==[Rare](../../../rules/traits/rare.md)== ==[Evocation](../../../rules/traits/evocation.md)==
+==[Rare](rules/traits/rare.md)== ==[Evocation](rules/traits/evocation.md)==
 *Source* Secrets of Magic pg. 216 1.1
 **Cast** 1 day; **Cost** magical foci worth a total value of 50 gp × the spell level × the target's level; **Secondary Casters** 6
 **Primary Check** Arcana, Nature, Occultism, or Religion, matching the ley line's tradition (legendary); **Secondary Check** Ley Line Lore or Occultism

@@ -1,6 +1,6 @@
 # Healer's Blessing
 #pf2e/focus_spell/level_1 #pf2e/class/cleric #pf2e/school/necromancy 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Necromancy](../../../rules/traits/necromancy.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cleric](rules/traits/cleric.md)== ==[Necromancy](rules/traits/necromancy.md)==
 *Source* Core Rulebook pg. 393 3.0
 **Domain** healing
 **Cast** ► verbal

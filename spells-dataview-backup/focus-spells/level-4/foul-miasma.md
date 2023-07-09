@@ -1,6 +1,6 @@
 # Foul Miasma
 #pf2e/focus_spell/level_4 #pf2e/school/necromancy 
-==[Disease](../../../rules/traits/disease.md)== ==[Necromancy](../../../rules/traits/necromancy.md)==
+==[Disease](rules/traits/disease.md)== ==[Necromancy](rules/traits/necromancy.md)==
 *Source* Gods & Magic pg. 115 2.0
 **Domain** plague
 **Cast** ►► somatic, verbal

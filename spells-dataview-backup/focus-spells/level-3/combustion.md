@@ -1,6 +1,6 @@
 # Combustion
 #pf2e/focus_spell/level_3 #pf2e/class/druid #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Druid](../../../rules/traits/druid.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Fire](../../../rules/traits/fire.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Druid](rules/traits/druid.md)== ==[Evocation](rules/traits/evocation.md)== ==[Fire](rules/traits/fire.md)==
 *Source* Secrets of Magic pg. 200 1.1
 **Cast** ►► somatic, verbal
 **Range** 120 feet; **Targets** 1 creature

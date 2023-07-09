@@ -1,6 +1,6 @@
 # Atone
 #pf2e/ritual/level_4 #pf2e/school/abjuration
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Abjuration](../../../rules/traits/abjuration.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Abjuration](rules/traits/abjuration.md)==
 *Source* Core Rulebook pg. 409 3.0
 **Note** All characters have access to atone
 **Cast** 1 day; **Cost** rare incense and offerings worth a total value of 20 gp × the target’s level; **Secondary Casters** 1, must be the ritual’s target

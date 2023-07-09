@@ -1,6 +1,6 @@
 # Warped Terrain
 #pf2e/focus_spell/level_1 #pf2e/class/wizard #pf2e/school/illusion 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Illusion](../../../rules/traits/illusion.md)== ==[Visual](../../../rules/traits/visual.md)== ==[Wizard](../../../rules/traits/wizard.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Illusion](rules/traits/illusion.md)== ==[Visual](rules/traits/visual.md)== ==[Wizard](rules/traits/wizard.md)==
 *Source* Core Rulebook pg. 407 3.0
 **Cast** ► to ►►► somatic, verbal
 **Range** 60 feet; **Area** 5-foot burst or more

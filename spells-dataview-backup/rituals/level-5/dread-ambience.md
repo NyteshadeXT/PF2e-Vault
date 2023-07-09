@@ -1,6 +1,6 @@
 # Dread Ambience
 #pf2e/ritual/level_5
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[consecration](../../../rules/traits/consecration.md)== ==[Emotion](../../../rules/traits/emotion.md)== ==[Enchantment](../../../rules/traits/enchantment.md)== ==[Fear](../../Arcane_Tradition/Level%201/Fear.md)== ==[Mental](../../../rules/traits/mental.md)==
+==[Uncommon](rulesncommon.md)== ==[consecration](rules/traits/consecration.md)== ==[Emotion](rules/traits/emotion.md)== ==[Enchantment](rules/traits/enchantment.md)== ==[Fear](../../Arcane_Tradition/Level%201/Fear.md)== ==[Mental](rules/traits/mental.md)==
 *Source* Secrets of Magic pg. 149 1.1
 **Cast** 2 days; **Cost** candles, specialty salts, and rare herbs worth 80 gp total; **Secondary Casters** 1
 **Primary Check** Arcana or Occultism (expert); **Secondary Check** Deception

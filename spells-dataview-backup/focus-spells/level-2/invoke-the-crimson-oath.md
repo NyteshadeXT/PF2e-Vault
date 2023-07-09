@@ -1,6 +1,6 @@
 # Invoke the Crimson Oath
 #pf2e/focus_spell/level_2
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Evocation](../../../rules/traits/evocation.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Evocation](rules/traits/evocation.md)==
 *Source* Character Guide pg. 90 2.0
 **Cast** ►► somatic, verbal
 **Area** 20-foot cone

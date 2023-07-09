@@ -1,6 +1,6 @@
 # Dragon Wings
 #pf2e/focus_spell/level_5 #pf2e/class/sorcerer #pf2e/school/transmutation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Morph](../../../rules/traits/morph.md)== ==[Sorcerer](../../../rules/traits/sorcerer.md)== ==[Transmutation](../../../rules/traits/transmutation.md)==
+==[Uncommon](rulesd)== ==[Morph](rules/traits/morph.md)== ==[Sorcerer](rules/traits/sorcerer.md)== ==[Transmutation](rules/traits/transmutation.md)==
 *Source* Core Rulebook pg. 403 3.0
 **Bloodlines** draconic, wyrmblessed
 **Cast** ►► somatic, verbal

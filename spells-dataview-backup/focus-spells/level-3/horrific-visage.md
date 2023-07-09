@@ -1,6 +1,6 @@
 # Horrific Visage
 #pf2e/focus_spell/level_3 #pf2e/class/sorcerer #pf2e/school/illusion 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Emotion](../../../rules/traits/emotion.md)== ==[Fear](../../Arcane_Tradition/Level%201/Fear.md)== ==[Illusion](../../../rules/traits/illusion.md)== ==[Mental](../../../rules/traits/mental.md)== ==[Sorcerer](../../../rules/traits/sorcerer.md)== ==[Visual](../../../rules/traits/visual.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Emotion](rules/traits/emotion.md)== ==[Fear](../../Arcane_Tradition/Level%201/Fear.md)== ==[Illusion](rules/traits/illusion.md)== ==[Mental](rules/traits/mental.md)== ==[Sorcerer](rules/traits/sorcerer.md)== ==[Visual](rules/traits/visual.md)==
 *Source* Core Rulebook pg. 405 3.0
 **Bloodline** hag
 **Cast** ►► somatic, verbal

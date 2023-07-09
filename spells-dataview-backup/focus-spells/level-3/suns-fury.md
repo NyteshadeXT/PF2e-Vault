@@ -1,6 +1,6 @@
 # Sun's Fury
 #pf2e/focus_spell/level_3 #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Fire](../../../rules/traits/fire.md)== ==[Good](../../../rules/traits/good.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Evocation](rules/traits/evocation.md)== ==[Fire](rules/traits/fire.md)== ==[Good](rules/traits/good.md)==
 *Source* Legends pg. 101
 **Cast** ►► somatic, verbal
 **Range** touch; **Targets** 1 weapon without an [Unholy](../../../Items/Runes/Weapon%20Property%20Runes/Unholy.md) rune that is unattended or wielded by you or a willing ally

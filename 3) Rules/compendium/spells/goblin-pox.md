@@ -28,17 +28,17 @@ Your touch afflicts the target with goblin pox, an irritating allergenic rash. T
 ```ad-inline-affliction
 title: Goblin Pox _Level 1_
 
-[disease](../../../rules/traits/disease.md)  
+[disease](rules/traits/disease.md)  
 Goblins and goblin dogs are immune.
 
 
 ## Stages
 
-**Stage 1** [sickened](../../../rules/conditions.md#Sickened) (1 round)
+**Stage 1** [sickened](rules/conditions.md#Sickened) (1 round)
 
-**Stage 2** [sickened](../../../rules/conditions.md#Sickened) and [slowed](../../../rules/conditions.md#Slowed) (1 round)
+**Stage 2** [sickened](rules/conditions.md#Sickened) and [slowed](rules/conditions.md#Slowed) (1 round)
 
-**Stage 3** [sickened](../../../rules/conditions.md#Sickened) and the creature can't reduce its [sickened](../../../rules/conditions.md#Sickened) value below 1 (1 day)
+**Stage 3** [sickened](rules/conditions.md#Sickened) and the creature can't reduce its [sickened](rules/conditions.md#Sickened) value below 1 (1 day)
 
 
 %% #trait/disease #affliction/level/level-1 %%

@@ -1,6 +1,6 @@
 # Efficient Apport
 #pf2e/focus_spell/level_1 #pf2e/class/wizard #pf2e/school/conjuration 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Conjuration](../../../rules/traits/conjuration.md)== ==[Teleportation](../../../rules/traits/teleportation.md)== ==[Wizard](../../../rules/traits/wizard.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Conjuration](rules/traits/conjuration.md)== ==[Teleportation](rules/traits/teleportation.md)== ==[Wizard](rules/traits/wizard.md)==
 *Source* Secrets of Magic pg. 241 1.1
 **Cast** ► somatic
 **Range** 60 feet; **Targets** 1 unattended object of light Bulk or less

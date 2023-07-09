@@ -1,6 +1,6 @@
 # Time Skip
 #pf2e/focus_spell/level_3 #pf2e/class/oracle #pf2e/school/transmutation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cursebound](../../../Traits/Cursebound.md)== ==[Oracle](../../../Traits/Oracle.md)== ==[Transmutation](../../../rules/traits/transmutation.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cursebound](../../../Traits/Cursebound.md)== ==[Oracle](../../../Traits/Oracle.md)== ==[Transmutation](rules/traits/transmutation.md)==
 *Source* Dark Archive pg. 189
 **Mystery** time
 **Cast** ► somatic

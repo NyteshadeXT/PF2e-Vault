@@ -1,6 +1,6 @@
 # Heart's Desire
 #pf2e/focus_spell/level_3 #pf2e/class/sorcerer  #pf2e/school/illusion 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Emotion](../../../rules/traits/emotion.md)== ==[Illusion](../../../rules/traits/illusion.md)== ==[Mental](../../../rules/traits/mental.md)== ==[Sorcerer](../../../rules/traits/sorcerer.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Emotion](rules/traits/emotion.md)== ==[Illusion](rules/traits/illusion.md)== ==[Mental](rules/traits/mental.md)== ==[Sorcerer](rules/traits/sorcerer.md)==
 *Source* Advanced Player's Guide pg. 236 2.0
 **Bloodline** genie
 **Cast** ►► somatic, verbal

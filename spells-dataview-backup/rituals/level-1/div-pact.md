@@ -1,6 +1,6 @@
 # Div Pact
 #pf2e/ritual/level_1
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Conjuration](../../../rules/traits/conjuration.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Conjuration](rules/traits/conjuration.md)==
 *Source* Bestiary 3 pg. 310
 **Cast** 1 day
 **Primary Check** Religion (expert; you must be a div)

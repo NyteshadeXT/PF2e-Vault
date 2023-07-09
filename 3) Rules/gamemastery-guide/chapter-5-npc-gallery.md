@@ -103,7 +103,7 @@ These NPCs contain several specialists, such as barristers and navigators, who a
 
 ```ad-embed-ability
 title: Butter Up
-[emotion](../../../rules/traits/emotion.md)  [mental](../../../rules/traits/mental.md)  
+[emotion](rules/traits/emotion.md)  [mental](rules/traits/mental.md)  
 
 When someone eats a dish or treat made by this NPC, the NPC can attempt a Baking Lore, Cooking Lore, or similar check against that creature's Will DC, with the same results as the Make an Impression action of [Diplomacy](../../../compendium/skills.md#Diplomacy). If more than one creature partakes, the NPC uses the same check result against each creature's Will DC.  
 %% #trait/emotion #trait/mental %%
@@ -122,8 +122,8 @@ When treating infants, the NPC can use their Midwifery Lore skill in place of [M
 ```
 
 ```ad-embed-ability
-title: Find Footing [>](../../../rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[concentrate](../../../rules/traits/concentrate.md)  
+title: Find Footing [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+[concentrate](rules/traits/concentrate.md)  
 
 The NPC attempts an Architecture Lore, Engineering Lore, or similar skill check to find a stable path across uneven ground. This grants them and anyone they share this information with a +2 circumstance bonus on [Acrobatics](../../skills.md#Acrobatics) checks to Balance across that ground.  
 %% #trait/concentrate %%

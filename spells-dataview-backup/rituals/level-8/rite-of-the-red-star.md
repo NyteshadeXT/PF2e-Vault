@@ -1,6 +1,6 @@
 # Rite of the Red Star
 #pf2e/ritual/level_8
-==[Rare](../../../rules/traits/rare.md)== ==[Conjuration](../../../rules/traits/conjuration.md)== ==[Teleportation](../../../rules/traits/teleportation.md)==
+==[Rare](rules/traits/rare.md)== ==[Conjuration](rules/traits/conjuration.md)== ==[Teleportation](rules/traits/teleportation.md)==
 *Source* Pathfinder Release 173: Doorway to the Red Star pg. 77
 **Cast** 1 hour; **Secondary Casters** at least 1 (the maximum is limited only by the physical space within the ring of stones)
 **Primary Check** DC 40 Arcana or Nature (master); **Secondary Check** DC 35 Arcana, Nature, Occultism, or Religion
@@ -13,7 +13,7 @@ You invoke the latent power within the Doorway to the Red Star through repetitiv
 
 This portal is vertical and semi-circular, with a radius of 30 feet, and is filled with shimmering red energy— it doesn't provide a view of the other side. Any caster who steps through this portal is instantly transported to area B1 of the Hall of Reason on Akiton.
 
-**Success** As critical success, but the portal's magic is distressed and unstable. When a caster steps through the portal, they must attempt a DC 36 Fortitude save or become [Drained](../../../Conditions/Drained.md) 1 from the stress of the magical journey.
+**Success** As critical success, but the portal's magic is distressed and unstable. When a caster steps through the portal, they must attempt a DC 36 Fortitude save or become [Drained](rules../../Conditions/Drained.md) 1 from the stress of the magical journey.
 
 **Failure** The portal fails to open, and all casters must attempt a DC 36 Fortitude save to avoid becoming drained 1 from the backlash of magical energy.
 

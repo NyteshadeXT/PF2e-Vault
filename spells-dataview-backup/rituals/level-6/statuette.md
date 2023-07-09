@@ -1,6 +1,6 @@
 # Statuette
 #pf2e/ritual/level_6
-==[Rare](../../../rules/traits/rare.md)== ==[Polymorph](../../../rules/traits/polymorph.md)==
+==[Rare](rules/traits/rare.md)== ==[Polymorph](rules/traits/polymorph.md)==
 *Source* Pathfinder Release 154: Siege of the Dinosaurs pg. 75
 **Cast** 1 hour; **Secondary Casters** 2
 **Primary Check** Arcana (expert); **Secondary Check** Crafting, Occultism

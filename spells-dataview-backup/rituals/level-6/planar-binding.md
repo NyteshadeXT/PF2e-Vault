@@ -1,6 +1,6 @@
 # Planar Binding
 #pf2e/ritual/level_6
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Abjuration](../../../rules/traits/abjuration.md)== ==[Conjuration](../../../rules/traits/conjuration.md)==
+==[Uncommon](rulesncommon.md)== ==[Abjuration](rules/traits/abjuration.md)== ==[Conjuration](rulesconjuration.md)==
 *Source* Core Rulebook pg. 414 3.0
 **Cast** 1 day; **Cost** warding diagram ingredients worth a total value of 2 gp × the spell level × the target’s level; **Secondary Casters** 4
 **Primary Check** Arcana (master) or Occultism (master); **Secondary Check** Crafting; Diplomacy or Intimidation; Arcana or Occultism (whichever isn't used for the primary check)

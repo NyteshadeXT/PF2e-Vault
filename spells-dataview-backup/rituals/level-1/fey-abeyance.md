@@ -1,6 +1,6 @@
 # Fey Abeyance
 #pf2e/ritual/level_1
-==[Rare](../../../rules/traits/rare.md)== ==[Abjuration](../../../rules/traits/abjuration.md)==
+==[Rare](rules/traits/rare.md)== ==[Abjuration](rules/traits/abjuration.md)==
 *Source* Pathfinder Release 169: Kindled Magic pg. 23
 **Cast** 1 hour; **Cost** rare oils, cold iron bells worth at least 5 gp; **Secondary Casters** 1
 **Primary Check** Nature (trained); **Secondary Checks** Crafting, Intimidation, Occultism, Performance

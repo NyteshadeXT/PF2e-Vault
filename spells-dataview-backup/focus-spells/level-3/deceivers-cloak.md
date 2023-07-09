@@ -1,6 +1,6 @@
 # Deceiver's Cloak
 #pf2e/focus_spell/level_3 #pf2e/class/witch #pf2e/school/illusion 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Hex](../../../Traits/Hex.md)== ==[Illusion](../../../rules/traits/illusion.md)== ==[Witch](../../../Traits/Witch.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Hex](../../../Traits/Hex.md)== ==[Illusion](rules/traits/illusion.md)== ==[Witch](../../../Traits/Witch.md)==
 *Source* Advanced Player's Guide pg. 238 2.0
 **Lesson** lesson of mischief
 **Cast** ►► somatic, verbal

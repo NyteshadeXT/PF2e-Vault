@@ -1,6 +1,6 @@
 # Buzzing Bites
 #pf2e/focus_spell/cantrip_1 #pf2e/class/witch #pf2e/school/evocation 
-==[Rare](../../../rules/traits/rare.md)== ==[Cantrip](../../../rules/traits/cantrip.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Hex](../../../Traits/Hex.md)== ==[Witch](../../../Traits/Witch.md)==
+==[Rare](rules/traits/rare.md)== ==[Cantrip](rules/traits/cantrip.md)== ==[Evocation](rules/traits/evocation.md)== ==[Hex](../../../Traits/Hex.md)== ==[Witch](../../../Traits/Witch.md)==
 *Source* Monsters of Myth pg. 75
 **Patron Theme** mosquito witch
 **Cast** ► somatic

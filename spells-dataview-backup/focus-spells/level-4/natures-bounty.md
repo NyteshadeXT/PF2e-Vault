@@ -1,6 +1,6 @@
 # Nature's Bounty
 #pf2e/focus_spell/level_4 #pf2e/school/conjuration #pf2e/class/cleric 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Conjuration](../../../rules/traits/conjuration.md)== ==[Plant](../../../rules/traits/plant.md)== ==[Positive](../../../rules/traits/positive.md)==
+==[Uncommon](rulesncommon.md)== ==[Cleric](rules/traits/cleric.md)== ==[Conjuration](rules/traits/conjuration.md)== ==[Plant](rules/traits/plant.md)== ==[Positive](rules/traits/positive.md)==
 *Source* Core Rulebook pg. 394 3.0
 **Domain** nature
 **Cast** ► somatic; **Requirements** You have a free hand.

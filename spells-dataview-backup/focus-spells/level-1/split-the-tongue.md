@@ -1,6 +1,6 @@
 # Split the Tongue
 #pf2e/focus_spell/level_1 #pf2e/school/transmutation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Transmutation](../../../rules/traits/transmutation.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Transmutation](rules/traits/transmutation.md)==
 *Source* Pathfinder Release 161: Belly of the Black Whale pg. 75
 **Domain** naga
 **Cast** ◄ somatic; **Trigger** A creature within 30 feet fails a Deception or Diplomacy check.

@@ -1,6 +1,6 @@
 # Enduring Might
 #pf2e/focus_spell/level_4 #pf2e/class/cleric #pf2e/school/abjuration 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Abjuration](../../../rules/traits/abjuration.md)== ==[Cleric](../../../rules/traits/cleric.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Abjuration](rules/traits/abjuration.md)== ==[Cleric](rules/traits/cleric.md)==
 *Source* Core Rulebook pg. 392 3.0
 **Domain** might
 **Cast** ◄ somatic; **Trigger** An attack or effect would deal damage to you.

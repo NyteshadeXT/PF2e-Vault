@@ -1,6 +1,6 @@
 # Forbidden Thought
 #pf2e/focus_spell/cantrip_1 #pf2e/class/psychic #pf2e/school/enchantment 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cantrip](../../../rules/traits/cantrip.md)== ==[Enchantment](../../../rules/traits/enchantment.md)== ==[Mental](../../../rules/traits/mental.md)== ==[Psychic](../../../Traits/Psychic.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cantrip](rules/traits/cantrip.md)== ==[Enchantment](rules/traits/enchantment.md)== ==[Mental](rules/traits/mental.md)== ==[Psychic](../../../Traits/Psychic.md)==
 *Source* Dark Archive pg. 21
 **Cast** ►► somatic, verbal
 **Range** 30 feet; **Targets** 1 creature

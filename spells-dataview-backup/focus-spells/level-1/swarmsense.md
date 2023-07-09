@@ -1,6 +1,6 @@
 # Swarmsense
 #pf2e/focus_spell/level_1 #pf2e/school/divination 
-==[Divination](../../../rules/traits/divination.md)==
+==[Divination](rules/traits/divination.md)==
 *Source* Gods & Magic pg. 117 2.0
 **Domain** swarm
 **Cast** 1 minute (somatic, verbal)

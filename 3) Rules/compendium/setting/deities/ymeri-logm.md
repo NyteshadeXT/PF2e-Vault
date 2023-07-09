@@ -10,12 +10,12 @@ tags:
 - domain/zeal/deity
 aliases: ["Ymeri", "Queen of the Inferno"]
 ---
-# Ymeri (Queen of the Inferno) *([NE](../../../rules/traits/neutral-evil-b1.md))*  
+# Ymeri (Queen of the Inferno) *([NE](rules/traits/neutral-evil-b1.md))*  
 *Source: Lost Omens: Gods & Magic p. 128*  
 
 - **Category**: Elemental Lords
 - **Anathema**: extinguish destructive blazes, allow yourself to stagnate or lose motivation
-- **Follower Alignments**: [LE](../../../rules/traits/lawful-evil-b1.md), [N](../../../rules/traits/neutral-b1.md), [NE](../../../rules/traits/neutral-evil-b1.md), [CE](../../../rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [LE](rules/traits/lawful-evil-b1.md), [N](rules/traits/neutral-b1.md), [NE](rules/traits/neutral-evil-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
 
 ## Devotee benefits
 

@@ -9,7 +9,7 @@ tags:
 aliases: ["Unfettered Mark"]
 ---
 # Unfettered Mark *Ritual 8*  
-[abjuration](../../../rules/traits/abjuration.md)  [rare](../../../rules/traits/rare.md)  
+[abjuration](rules/traits/abjuration.md)  [rare](rules/traits/rare.md)  
 
 - **Cast** 1 hour
 - **Cost** rare inks and needles worth a total value of 100 gp × the spell level × the target's level (see text)
@@ -29,6 +29,6 @@ The ritual can be performed alone or with the aid of up to 10 secondary casters.
 > - **Critical Success** The target and primary and secondary casters all gain the ability to leave Stormholt. To do so, they must leave the prison by swimming through the water or by riding in a vessel that is in contact with the water (such as a rowboat). When they reach the great whirlpool, they are pulled under as normal, but instead of being transported to the Flotsam Graveyard in Absalom, they are immediately transported (as teleport) to a location in Absalom of their choice. They also gain the benefits of water walk, water breathing, and resistance to electricity 10 for the duration of the ritual.
 > - **Success** As critical success, except the affected creatures don't gain the benefits of water walk and water breathing.
 > - **Failure** You create the tattoo but fail to imbue it with magic.
-> - **Critical Failure** As failure, but the tattoo also creates an unwholesome bond with the demiplane of Stormholt. For 24 hours, the target and the primary and secondary casters gain a fishlike appearance and are covered in a slimy membrane. They gain the ability to breathe both water and air, but their skin quickly dries out when on land. After 1 hour on land they become [drained](../../../rules/conditions.md#Drained) and [fatigued](../../../rules/conditions.md#Fatigued), conditions that can be removed only if they reenter water. Additionally, the membrane conducts electricity well, causing them to gain weakness 10 to electricity.
+> - **Critical Failure** As failure, but the tattoo also creates an unwholesome bond with the demiplane of Stormholt. For 24 hours, the target and the primary and secondary casters gain a fishlike appearance and are covered in a slimy membrane. They gain the ability to breathe both water and air, but their skin quickly dries out when on land. After 1 hour on land they become [drained](rules/conditions.md#Drained) and [fatigued](rules/conditions.md#Fatigued), conditions that can be removed only if they reenter water. Additionally, the membrane conducts electricity well, causing them to gain weakness 10 to electricity.
 
 *Source: Agents of Edgewatch #5: Belly of the Black Whale p. 80*

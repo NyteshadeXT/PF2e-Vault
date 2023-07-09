@@ -1,6 +1,6 @@
 # Augment Summoning
 #pf2e/focus_spell/level_1 #pf2e/class/wizard #pf2e/school/conjuration 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Conjuration](../../../rules/traits/conjuration.md)== ==[Wizard](../../../rules/traits/wizard.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Conjuration](rules/traits/conjuration.md)== ==[Wizard](rules/traits/wizard.md)==
 *Source* Core Rulebook pg. 406 3.0
 **Cast** ► verbal
 **Range** 30 feet; **Targets** 1 creature you summoned

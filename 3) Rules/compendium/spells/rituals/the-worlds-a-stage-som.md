@@ -10,7 +10,7 @@ tags:
 aliases: ["The World's A Stage"]
 ---
 # The World's A Stage *Ritual 5*  
-[divination](../../../rules/traits/divination.md)  [fortune](../../../rules/traits/fortune.md)  [uncommon](../../../rules/traits/uncommon.md)  
+[divination](rules/traits/divination.md)  [fortune](rules/traits/fortune.md)  [uncommon](rules/traits/uncommon.md)  
 
 - **Cast** 1 day
 - **Cost** costumes and a stage large enough to fit all casters
@@ -26,6 +26,6 @@ The performance presents current events and offers a particular vision on how th
 > - **Critical Success** Something sublime sparks between performance and audience, and destiny conspires to push events in the right direction. You and each secondary caster can reroll up to three skill checks at any point during the duration of the ritual after determining the results, as long as the skill check is connected to ensuring the topic of the performance comes true (to sneak past the tyrant's guards or find the murder weapon, for instance).
 > - **Success** As critical success except the sparks of destiny are weaker, so each caster can reroll only a single skill check.
 > - **Failure** The ritual has no effect.
-> - **Critical Failure** The performance is a dramatic and horrendous botch, and fate strikes out at the casters. You and each secondary caster are [doomed](../../../rules/conditions.md#Doomed) for the next month, and this condition can't be removed by anything less than a wish or similarly powerful magic.
+> - **Critical Failure** The performance is a dramatic and horrendous botch, and fate strikes out at the casters. You and each secondary caster are [doomed](rules/conditions.md#Doomed) for the next month, and this condition can't be removed by anything less than a wish or similarly powerful magic.
 
 *Source: Secrets of Magic p. 153*

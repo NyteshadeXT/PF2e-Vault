@@ -1,6 +1,6 @@
 # Thermal Stasis
 #pf2e/focus_spell/cantrip_1 #pf2e/class/psychic #pf2e/school/abjuration 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Abjuration](../../../rules/traits/abjuration.md)== ==[Cantrip](../../../rules/traits/cantrip.md)== ==[Psychic](../../../Traits/Psychic.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Abjuration](rules/traits/abjuration.md)== ==[Cantrip](rules/traits/cantrip.md)== ==[Psychic](../../../Traits/Psychic.md)==
 *Source* Dark Archive pg. 20
 **Cast** ► verbal
 **Range** 60 feet; **Targets** 1 creature

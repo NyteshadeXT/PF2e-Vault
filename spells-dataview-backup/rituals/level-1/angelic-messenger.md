@@ -1,9 +1,9 @@
 # Angelic Messenger
 #pf2e/ritual/level_1
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Conjuration](../../../rules/traits/conjuration.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Conjuration](rules/traits/conjuration.md)==
 *Source* Bestiary pg. 348
 **Cast** 1 day
-**Primary Check** Religion (expert; you must be an [Angel](../../../rules/traits/angel.md))
+**Primary Check** Religion (expert; you must be an [Angel](rules/traits/angel.md))
 
 ---
 You transport yourself to either a celestial plane or a world on the Material Plane where worshippers of your patron can be found. You must be of no higher level than double angelic messenger’s spell level.

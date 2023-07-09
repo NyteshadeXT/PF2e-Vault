@@ -1,6 +1,6 @@
 # Elemental Tempest
 #pf2e/focus_spell/level_4 #pf2e/class/wizard #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Metamagic](../../../rules/traits/metamagic.md)== ==[Wizard](../../../rules/traits/wizard.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Evocation](rules/traits/evocation.md)== ==[Metamagic](rules/traits/metamagic.md)== ==[Wizard](rules/traits/wizard.md)==
 *Source* Core Rulebook pg. 406 3.0
 **Cast** ► verbal
 

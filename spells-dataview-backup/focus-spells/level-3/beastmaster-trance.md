@@ -1,6 +1,6 @@
 # Beastmaster Trance
 #pf2e/focus_spell/level_3 #pf2e/school/divination 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[archetype](../../../rules/traits/archetype.md)== ==[Concentrate](../../../rules/traits/concentrate.md)== ==[Divination](../../../rules/traits/divination.md)== ==[Mental](../../../rules/traits/mental.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[archetype](rules/traits/archetype.md)== ==[Concentrate](rules/traits/concentrate.md)== ==[Divination](rules/traits/divination.md)== ==[Mental](rules/traits/mental.md)==
 *Source* Advanced Player's Guide pg. 161 2.0
 **Cast** ►►► somatic, verbal
 **Range** 1 mile; **Targets** one of your animal companions you can percieve

@@ -1,6 +1,6 @@
 # Owb Pact
 #pf2e/ritual/level_3
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Conjuration](../../../rules/traits/conjuration.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Conjuration](rules/traits/conjuration.md)==
 *Source* Bestiary 3 pg. 41
 **Cast** 1 day; **Secondary Casters** 2
 **Primary Check** Occultism (expert)

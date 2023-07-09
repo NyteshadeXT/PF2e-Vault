@@ -1,6 +1,6 @@
 # Hellfire Plume
 #pf2e/focus_spell/level_5 #pf2e/class/sorcerer #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Evil](../../../rules/traits/evil.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Fire](../../../rules/traits/fire.md)== ==[Sorcerer](../../../rules/traits/sorcerer.md)==
+==[Uncommon](rulesd)== ==[Evil](rules/traits/evil.md)== ==[Evocation](rules/traits/evocation.md)== ==[Fire](rules/traits/fire.md)== ==[Sorcerer](rules/traits/sorcerer.md)==
 *Source* Core Rulebook pg. 405 3.0
 **Bloodline** diabolic
 **Cast** ►► somatic, verbal

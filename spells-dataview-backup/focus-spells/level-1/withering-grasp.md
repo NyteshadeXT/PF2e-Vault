@@ -1,6 +1,6 @@
 # Withering Grasp
 #pf2e/focus_spell/level_1 #pf2e/school/necromancy 
-==[Necromancy](../../../rules/traits/necromancy.md)== ==[Negative](../../../rules/traits/negative.md)==
+==[Necromancy](rules/traits/necromancy.md)== ==[Negative](rules/traits/negative.md)==
 *Source* Gods & Magic pg. 113 2.0
 **Note** The Targets entry for withering grasp should be “1 creature or unattended object”, not “1 creature or object.” When used on an unattended object, the object takes [Persistent Damage](../../../Conditions/Persistent%20Damage.md) on your next turn.
 **Domain** decay

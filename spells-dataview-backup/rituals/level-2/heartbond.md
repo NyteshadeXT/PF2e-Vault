@@ -1,6 +1,6 @@
 # Heartbond
 #pf2e/ritual/level_2
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Abjuration](../../../rules/traits/abjuration.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Abjuration](rules/traits/abjuration.md)==
 *Source* Advanced Player's Guide pg. 242 2.0
 **Cast** 1 hour; **Cost** fine wine and a set of matching rings or other tokens worth 40 gp total; **Secondary Casters** 2
 **Primary Check** Nature or Religion (expert); **Secondary Check** Diplomacy, Society

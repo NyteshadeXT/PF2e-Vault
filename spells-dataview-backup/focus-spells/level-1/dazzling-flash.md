@@ -1,6 +1,6 @@
 # Dazzling Flash
 #pf2e/focus_spell/level_1 #pf2e/class/cleric #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[1 TTRPG/PF2e Wiki/Traits/Light](1%20TTRPG/PF2e%20Wiki/Traits/Light)== ==[Visual](../../../rules/traits/visual.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cleric](rules/traits/cleric.md)== ==[Evocation](rules/traits/evocation.md)== ==[1 TTRPG/PF2e Wiki/Traits/Light](1%20TTRPG/PF2e%20Wiki/Traits/Light)== ==[Visual](rules/traits/visual.md)==
 *Source* Core Rulebook pg. 391 3.0
 **Domain** sun
 **Cast** ►► material, verbal

@@ -10,12 +10,12 @@ tags:
 - domain/wyrmkin/deity
 aliases: ["Zevgavizeb", "The Beast of Gluttondark"]
 ---
-# Zevgavizeb (The Beast of Gluttondark) *([CE](../../../rules/traits/chaotic-evil-b1.md))*  
+# Zevgavizeb (The Beast of Gluttondark) *([CE](rules/traits/chaotic-evil-b1.md))*  
 *Source: Lost Omens: Gods & Magic p. 77*  
 
 - **Category**: Demon Lords
 - **Anathema**: surrender in combat, express weakness in the face of adversity, show mercy to the weak
-- **Follower Alignments**: [NE](../../../rules/traits/neutral-evil-b1.md), [CE](../../../rules/traits/chaotic-evil-b1.md)
+- **Follower Alignments**: [NE](rules/traits/neutral-evil-b1.md), [CE](rules/traits/chaotic-evil-b1.md)
 
 ## Devotee benefits
 

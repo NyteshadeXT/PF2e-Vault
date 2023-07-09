@@ -1,6 +1,6 @@
 # Teleportation Circle
 #pf2e/ritual/level_7
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Conjuration](../../../rules/traits/conjuration.md)== ==[Teleportation](../../../rules/traits/teleportation.md)==
+==[Uncommon](rulesd)== ==[Conjuration](rules/traits/conjuration.md)== ==[Teleportation](rules/traits/teleportation.md)==
 *Source* Advanced Player's Guide pg. 244 2.0
 **Cast** 1 day; **Cost** rare incense, precious metals, and purified chalk worth 500 gp; **Secondary Casters** 2
 **Primary Check** Arcana or Occultism (master); **Secondary Check** Crafting, Survival

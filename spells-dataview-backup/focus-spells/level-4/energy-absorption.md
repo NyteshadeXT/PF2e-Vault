@@ -1,6 +1,6 @@
 # Energy Absorption
 #pf2e/focus_spell/level_4 #pf2e/class/wizard #pf2e/school/abjuration 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Abjuration](../../../rules/traits/abjuration.md)== ==[Wizard](../../../rules/traits/wizard.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Abjuration](rules/traits/abjuration.md)== ==[Wizard](rules/traits/wizard.md)==
 *Source* Core Rulebook pg. 407 3.0
 **Cast** ◄ verbal; **Trigger** An effect would deal acid, cold, electricity, or fire damage to you.
 

@@ -1,6 +1,6 @@
 # Supreme Connection
 #pf2e/ritual/level_7
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Divination](../../../rules/traits/divination.md)==
+==[Uncommon](rulesncommon.md)== ==[Divination](rulesivination.md)==
 *Source* Dark Archive pg. 146
 **Cast** 1 day; **Cost** rare perfume worth 250 gp; **Secondary Casters** 2
 **Primary Check** Occultism (master) or Religion (master); **Secondary Check** Performance

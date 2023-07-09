@@ -1,6 +1,6 @@
 # Untwisting Iron Buffer
 #pf2e/focus_spell/level_3 #pf2e/school/abjuration 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Abjuration](../../../rules/traits/abjuration.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Abjuration](rules/traits/abjuration.md)==
 *Source* World Guide pg. 83 2.0
 **Cast** ► verbal
 

@@ -10,7 +10,7 @@ tags:
 aliases: ["Establish Nexus"]
 ---
 # Establish Nexus *Ritual 5*  
-[consecration](../../../rules/traits/consecration.md)  [rare](../../../rules/traits/rare.md)  [transmutation](../../../rules/traits/transmutation.md)  
+[consecration](rules/traits/consecration.md)  [rare](rules/traits/rare.md)  [transmutation](rules/traits/transmutation.md)  
 
 - **Cast** 1 day
 - **Cost** magical foci worth 100 gp × the spell level × the node's level

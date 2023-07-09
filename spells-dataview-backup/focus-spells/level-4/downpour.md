@@ -1,6 +1,6 @@
 # Downpour
 #pf2e/focus_spell/level_4 #pf2e/class/cleric #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Water](../../../rules/traits/water.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Cleric](rules/traits/cleric.md)== ==[Evocation](rules/traits/evocation.md)== ==[Water](rules/traits/water.md)==
 *Source* Core Rulebook pg. 391 3.0
 **Domain** water
 **Cast** ►► somatic, verbal

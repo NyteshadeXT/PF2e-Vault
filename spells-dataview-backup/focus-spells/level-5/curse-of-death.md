@@ -1,6 +1,6 @@
 # Curse of Death
 #pf2e/focus_spell/level_5 #pf2e/class/witch #pf2e/school/necromancy 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Curse](../../../rules/traits/curse.md)== ==[Death](../../../rules/traits/death.md)== ==[Hex](../../../Traits/Hex.md)== ==[Necromancy](../../../rules/traits/necromancy.md)== ==[Witch](../../../Traits/Witch.md)==
+==[Uncommon](rulesncommon.md)== ==[Curse](ruleserulescurse.md)== ==[Death](s/death.md)== ==[Hex](../../../Traits/Hex.md)== ==[Necromancy](rulesecromancy.md)== ==[Witch](../../../Traits/Witch.md)==
 *Source* Advanced Player's Guide pg. 237 2.0
 **Lesson** lesson of death
 **Cast** ►► somatic, verbal

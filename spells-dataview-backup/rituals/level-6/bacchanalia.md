@@ -1,6 +1,6 @@
 # Bacchanalia
 #pf2e/ritual/level_6
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Enchantment](../../../rules/traits/enchantment.md)== ==[Mental](../../../rules/traits/mental.md)==
+==[Uncommon](rulesd)== ==[Enchantment](rules/traits/enchantment.md)== ==[Mental](rules/traits/mental.md)==
 *Source* Dark Archive pg. 145
 **Cast** 1 day; **Cost** a lavish meal with expensive alcohol for every caster (225 gp); **Secondary Casters** 8
 **Primary Check** Occultism or Religion; **Secondary Check** Performance

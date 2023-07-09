@@ -1,6 +1,6 @@
 # Arcane Countermeasure
 #pf2e/focus_spell/level_5 #pf2e/class/sorcerer #pf2e/school/abjuration 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Abjuration](../../../rules/traits/abjuration.md)== ==[Sorcerer](../../../rules/traits/sorcerer.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Abjuration](rules/traits/abjuration.md)== ==[Sorcerer](rules/traits/sorcerer.md)==
 *Source* Core Rulebook pg. 403 3.0
 **Bloodline** imperial
 **Cast** ◄ somatic; **Trigger** A creature within range that you can see Casts a Spell.

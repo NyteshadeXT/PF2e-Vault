@@ -32,17 +32,17 @@ You focus your malevolent gaze on a target, causing their heart to seize in drea
 ```ad-inline-affliction
 title: Curse of Death
 
-[curse](../../../rules/traits/curse.md)  
+[curse](rules/traits/curse.md)  
 This curse ends immediately when the spell ends
 
 
 ## Stages
 
-**Stage 1** `4d6` negative damage and [fatigued](../../../rules/conditions.md#Fatigued) (1 round)
+**Stage 1** `4d6` negative damage and [fatigued](rules/conditions.md#Fatigued) (1 round)
 
-**Stage 2** `8d6` negative damage and [fatigued](../../../rules/conditions.md#Fatigued) (1 round)
+**Stage 2** `8d6` negative damage and [fatigued](rules/conditions.md#Fatigued) (1 round)
 
-**Stage 3** `12d6` negative damage and [fatigued](../../../rules/conditions.md#Fatigued) (1 round)
+**Stage 3** `12d6` negative damage and [fatigued](rules/conditions.md#Fatigued) (1 round)
 
 **Stage 4** death
 

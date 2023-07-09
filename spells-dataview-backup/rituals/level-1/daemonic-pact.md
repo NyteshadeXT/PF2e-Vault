@@ -1,6 +1,6 @@
 # Daemonic Pact
 #pf2e/ritual/level_1
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Conjuration](../../../rules/traits/conjuration.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Conjuration](rules/traits/conjuration.md)==
 *Source* Bestiary 2 pg. 311 2.0
 **Cast** 1 day
 **Primary Check** Religion (expert; you must be a [Daemon](../../../Traits/Daemon.md) or an [urdefhan](urdefhan))

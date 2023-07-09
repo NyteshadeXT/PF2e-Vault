@@ -1,6 +1,6 @@
 # Oblivious Expulsion
 #pf2e/ritual/level_5
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Enchantment](../../../rules/traits/enchantment.md)== ==[Mental](../../../rules/traits/mental.md)==
+==[Uncommon](rulesncommon.md)== ==[Enchantment](rulesnchantment.md)== ==[Mental](rules/traits/mental.md)==
 *Source* Dark Archive pg. 145
 **Cast** 1 day; **Cost** incense worth a total value of 150 gp; **Secondary Casters** 2
 **Primary Check** Occultism (master) or Religion (master); **Secondary Check** Deception, Society

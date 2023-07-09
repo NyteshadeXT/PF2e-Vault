@@ -1,6 +1,6 @@
 # Stasis
 #pf2e/focus_spell/level_4 #pf2e/school/transmutation 
-==[Incapacitation](../../../rules/traits/incapacitation.md)== ==[Transmutation](../../../rules/traits/transmutation.md)==
+==[Incapacitation](rules/traits/incapacitation.md)== ==[Transmutation](rules/traits/transmutation.md)==
 *Source* Gods & Magic pg. 118 2.0
 **Domain** time
 **Cast** ►► somatic, verbal

@@ -1,6 +1,6 @@
 # Extract Brain
 #pf2e/ritual/level_4
-==[Rare](../../../rules/traits/rare.md)== ==[Necromancy](../../../rules/traits/necromancy.md)==
+==[Rare](rules/traits/rare.md)== ==[Necromancy](rules/traits/necromancy.md)==
 *Source* Malevolence pg. 67
 **Cast** 1 hour; **Cost** fine surgical tools and rare preservative salts and fluids worth a total value of 100 gp
 **Primary Check** Occultism (expert); **Secondary Check** Medicine

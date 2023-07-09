@@ -1,6 +1,6 @@
 # Restorative Moment
 #pf2e/focus_spell/level_5 #pf2e/class/witch #pf2e/school/necromancy 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Hex](../../../Traits/Hex.md)== ==[Necromancy](../../../rules/traits/necromancy.md)== ==[Witch](../../../Traits/Witch.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Hex](../../../Traits/Hex.md)== ==[Necromancy](rules/traits/necromancy.md)== ==[Witch](../../../Traits/Witch.md)==
 *Source* Advanced Player's Guide pg. 239 2.0
 **Lesson** lesson of renewal
 **Cast** ►► somatic, verbal

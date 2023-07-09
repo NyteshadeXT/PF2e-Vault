@@ -1,6 +1,6 @@
 # Achaekek's Clutch
 #pf2e/focus_spell/level_4 #pf2e/school/necromancy 
-==[Rare](../../../rules/traits/rare.md)== ==[Curse](../../../rules/traits/curse.md)== ==[Death](../../../rules/traits/death.md)== ==[Necromancy](../../../rules/traits/necromancy.md)==
+==[Rare](rules/traits/rare.md)== ==[Curse](rules/traits/curse.md)== ==[Death](rules/traits/death.md)== ==[Necromancy](rules/traits/necromancy.md)==
 *Source* Legends pg. 58
 **Cast** ►► somatic, verbal
 **Range** 30 feet; **Targets** 1 creature

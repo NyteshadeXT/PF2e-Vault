@@ -1,6 +1,6 @@
 # Tattoo Whispers
 #pf2e/ritual/level_3
-==[Rare](../../../rules/traits/rare.md)== ==[Auditory](../../../rules/traits/auditory.md)== ==[Divination](../../../rules/traits/divination.md)== ==[Linguistic](../../../rules/traits/linguistic.md)== ==[Mental](../../../rules/traits/mental.md)==
+==[Rare](rules ==[Auditory](rules/traits/auditory.md)== ==[Divination](rules/traits/divination.md)== ==[Linguistic](rules/traits/linguistic.md)== ==[Mental](rules/traits/mental.md)==
 *Source* Pathfinder Release 169: Kindled Magic pg. 38
 **Cast** 1 hour; **Cost** tattoo inks and silver tattooing needles worth 20 gp for each secondary caster; **Secondary Casters** 2, up to a maximum of 6
 **Primary Check** Crafting (expert); **Secondary Check** Arcana, Occultism

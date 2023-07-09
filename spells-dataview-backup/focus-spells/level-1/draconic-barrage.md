@@ -1,6 +1,6 @@
 # Draconic Barrage
 #pf2e/focus_spell/level_1 #pf2e/school/evocation 
-==[Evocation](../../../rules/traits/evocation.md)==
+==[Evocation](rules/traits/evocation.md)==
 *Source* Gods & Magic pg. 119 2.0
 **Domain** wyrmkin
 **Cast** ►► somatic, verbal

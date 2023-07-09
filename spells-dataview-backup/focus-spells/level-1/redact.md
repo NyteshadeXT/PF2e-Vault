@@ -1,6 +1,6 @@
 # Redact
 #pf2e/focus_spell/level_1 #pf2e/school/transmutation 
-==[Transmutation](../../../rules/traits/transmutation.md)==
+==[Transmutation](rules/traits/transmutation.md)==
 *Source* Gods & Magic pg. 114 2.0
 **Domain** glyph
 **Cast** ►► material, somatic

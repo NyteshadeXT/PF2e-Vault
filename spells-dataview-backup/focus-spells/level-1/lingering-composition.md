@@ -1,6 +1,6 @@
 # Lingering Composition
 #pf2e/focus_spell/level_1
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Bard](../../../rules/traits/bard.md)== ==[Enchantment](../../../rules/traits/enchantment.md)== ==[Metamagic](../../../rules/traits/metamagic.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Bard](rules/traits/bard.md)== ==[Enchantment](rules/traits/enchantment.md)== ==[Metamagic](rules/traits/metamagic.md)==
 *Source* Core Rulebook pg. 387 3.0
 **Cast** ▬ verbal
 

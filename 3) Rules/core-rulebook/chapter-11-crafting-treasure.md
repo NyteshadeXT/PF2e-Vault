@@ -438,11 +438,11 @@ A wide variety of spells can appear on scrolls. The following specific scrolls a
 title: Scroll of Illusory Disguise
 collapse: closed
 # Scroll of Illusory Disguise *Item 1*  
-[consumable](../../../rules/traits/consumable.md)  [illusion](../../../rules/traits/illusion.md)  [magical](../../../rules/traits/magical.md)  [scroll](../../../rules/traits/scroll.md)  
+[consumable](rules/traits/consumable.md)  [illusion](rules/traits/illusion.md)  [magical](rules/traits/magical.md)  [scroll](rules/traits/scroll.md)  
 
 - **Price** 3 gp
 - **Usage** held in 1 hand; **Bulk** L
-- **Activate** [Cast a Spell](../../../rules/actions/cast-a-spell.md)
+- **Activate** [Cast a Spell](rules/actions/cast-a-spell.md)
 - **Category** Scroll
 
 This scroll can cast [illusory disguise](../../../compendium/spells/illusory-disguise.md) as a 1st-level spell.
@@ -454,11 +454,11 @@ This scroll can cast [illusory disguise](../../../compendium/spells/illusory-dis
 title: Scroll of Glitterdust
 collapse: closed
 # Scroll of Glitterdust *Item 3*  
-[consumable](../../../rules/traits/consumable.md)  [evocation](../../../rules/traits/evocation.md)  [magical](../../../rules/traits/magical.md)  [scroll](../../../rules/traits/scroll.md)  
+[consumable](rules/traits/consumable.md)  [evocation](rules/traits/evocation.md)  [magical](rules/traits/magical.md)  [scroll](rules/traits/scroll.md)  
 
 - **Price** 12 gp
 - **Usage** held in 1 hand; **Bulk** L
-- **Activate** [Cast a Spell](../../../rules/actions/cast-a-spell.md)
+- **Activate** [Cast a Spell](rules/actions/cast-a-spell.md)
 - **Category** Scroll
 
 This scroll can be used to cast [glitterdust](../../../compendium/spells/glitterdust.md) as a 2nd-level spell.
@@ -756,7 +756,7 @@ Each type of wand has a Level and Price determined by the spell's level. The wan
 > title: Wand of Heal
 > collapse: closed
 > # Wand of Heal *Item 3+*  
-> [magical](../../../rules/traits/magical.md)  [necromancy](../../../rules/traits/necromancy.md)  [positive](../../../rules/traits/positive.md)  [wand](../../../rules/traits/wand.md)  
+> [magical](rules/traits/magical.md)  [necromancy](rules/traits/necromancy.md)  [positive](rules/traits/positive.md)  [wand](rules/traits/wand.md)  
 > 
 > - **Usage** held in 1 hand; **Bulk** L
 > - **Category** Wand

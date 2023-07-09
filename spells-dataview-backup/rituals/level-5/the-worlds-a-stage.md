@@ -1,6 +1,6 @@
 # The World's a Stage
 #pf2e/ritual/level_5
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Divination](../../../rules/traits/divination.md)== ==[Fortune](../../../rules/traits/fortune.md)==
+==[Uncommon](rulesd)== ==[Divination](rules/traits/divination.md)== ==[Fortune](rules/traits/fortune.md)==
 *Source* Secrets of Magic pg. 153 1.1
 **Cast** 1 day; **Cost** costumes and a stage large enough to fit all casters; **Secondary Casters** 2 to 12
 **Primary Check** Occultism (expert); **Secondary Check** Crafting, Performance

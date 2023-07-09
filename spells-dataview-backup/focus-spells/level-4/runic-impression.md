@@ -1,6 +1,6 @@
 # Runic Impression
 #pf2e/focus_spell/level_4 #pf2e/class/magus #pf2e/school/evocation 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Evocation](../../../rules/traits/evocation.md)== ==[Magus](../../../Traits/Magus.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Evocation](rules/traits/evocation.md)== ==[Magus](../../../Traits/Magus.md)==
 *Source* Secrets of Magic pg. 143 1.1
 **Cast** ► somatic
 **Range** touch; **Targets** you or one weapon you're wielding
@@ -11,7 +11,7 @@ Your unarmed attacks or weapon gain the benefits of a weapon rune you choose whe
 
 If this spell would give a weapon more property runes than its normal maximum, one of the existing property runes (you choose) is suppressed until the spell ends.
 
-For [Unarmed](../../../rules/traits/unarmed.md) attacks, if this spell would give you more property runes than you could have from [Handwraps of Mighty Blows](../../../Items/Worn%20Items/Other%20Worn%20Items/Handwraps%20of%20Mighty%20Blows.md), one of the existing property runes is similarly suppressed.
+For [Unarmed](rules/traits/unarmed.md) attacks, if this spell would give you more property runes than you could have from [Handwraps of Mighty Blows](../../../Items/Worn%20Items/Other%20Worn%20Items/Handwraps%20of%20Mighty%20Blows.md), one of the existing property runes is similarly suppressed.
 
 <hr>
 

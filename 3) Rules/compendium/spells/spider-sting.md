@@ -28,14 +28,14 @@ You magically duplicate a spider's venomous sting. You deal `1d4` piercing damag
 ```ad-inline-affliction
 title: Spider Venom _Level 1_
 
-[poison](../../../rules/traits/poison.md)  
+[poison](rules/traits/poison.md)  
 - **Maximum Duration**: 4 rounds
 
 ## Stages
 
-**Stage 1** `1d4` poison damage and [enfeebled](../../../rules/conditions.md#Enfeebled) (1 round)
+**Stage 1** `1d4` poison damage and [enfeebled](rules/conditions.md#Enfeebled) (1 round)
 
-**Stage 2** `1d4` poison damage and [enfeebled](../../../rules/conditions.md#Enfeebled) (1 round)
+**Stage 2** `1d4` poison damage and [enfeebled](rules/conditions.md#Enfeebled) (1 round)
 
 
 %% #trait/poison #affliction/level/level-1 %%

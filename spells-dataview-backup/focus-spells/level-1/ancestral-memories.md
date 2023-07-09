@@ -1,6 +1,6 @@
 # Ancestral Memories
 #pf2e/focus_spell/level_1 #pf2e/school/divination #pf2e/class/sorcerer
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Divination](../../../rules/traits/divination.md)== ==[Sorcerer](../../../rules/traits/sorcerer.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Divination](rules/traits/divination.md)== ==[Sorcerer](rules/traits/sorcerer.md)==
 *Source* Core Rulebook pg. 402 3.0
 **Bloodline** imperial
 **Cast** ► verbal

@@ -1,6 +1,6 @@
 # Angelic Halo
 #pf2e/focus_spell/level_1 #pf2e/class/sorcerer #pf2e/school/abjuration 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Abjuration](../../../rules/traits/abjuration.md)== ==[Aura](../../../rules/traits/aura.md)== ==[Good](../../../rules/traits/good.md)== ==[Sorcerer](../../../rules/traits/sorcerer.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Abjuration](rules/traits/abjuration.md)== ==[Aura](rules/traits/aura.md)== ==[Good](rules/traits/good.md)== ==[Sorcerer](rules/traits/sorcerer.md)==
 *Source* Core Rulebook pg. 402 3.0
 **Bloodline** angelic
 **Cast** ► verbal

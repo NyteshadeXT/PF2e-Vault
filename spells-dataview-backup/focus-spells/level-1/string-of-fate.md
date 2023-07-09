@@ -1,6 +1,6 @@
 # String of Fate
 #pf2e/focus_spell/level_1 #pf2e/class/cleric #pf2e/school/abjuration 
-==[Rare](../../../rules/traits/rare.md)== ==[Abjuration](../../../rules/traits/abjuration.md)== ==[Cleric](../../../rules/traits/cleric.md)== ==[Fortune](../../../rules/traits/fortune.md)==
+==[Rare](rules/traits/rare.md)== ==[Abjuration](rules/traits/abjuration.md)== ==[Cleric](rules/traits/cleric.md)== ==[Fortune](rules/traits/fortune.md)==
 *Source* Dark Archive pg. 143
 **Domain** fate (apocryphal)
 **Cast** ► somatic

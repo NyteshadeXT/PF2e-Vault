@@ -1,6 +1,6 @@
 # Blinding Beauty
 #pf2e/focus_spell/level_3 #pf2e/class/sorcerer #pf2e/school/enchantment 
-==[Uncommon](../../../rules/traits/uncommon.md)== ==[Emotion](../../../rules/traits/emotion.md)== ==[Enchantment](../../../rules/traits/enchantment.md)== ==[Incapacitation](../../../rules/traits/incapacitation.md)== ==[Sorcerer](../../../rules/traits/sorcerer.md)== ==[Visual](../../../rules/traits/visual.md)==
+==[Uncommon](rules/traits/uncommon.md)== ==[Emotion](rules/traits/emotion.md)== ==[Enchantment](rules/traits/enchantment.md)== ==[Incapacitation](rules/traits/incapacitation.md)== ==[Sorcerer](rules/traits/sorcerer.md)== ==[Visual](rules/traits/visual.md)==
 *Source* Advanced Player's Guide pg. 235 2.0
 **Bloodline** nymph
 **Cast** ► somatic
