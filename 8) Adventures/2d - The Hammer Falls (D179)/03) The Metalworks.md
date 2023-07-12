@@ -19,8 +19,6 @@ creatures:
 - 3: [[Duergar Miner]]
 ```
 
-Setup 3 duergar miners (M) 1 imp (I) 1 magma hurler (H) 
-
 The magma hurler starts hidden in the river of lava until its allies are in trouble. Do not place it on the map until it attacks. 
 
 # Another Ambush

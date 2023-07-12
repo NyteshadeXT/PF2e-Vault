@@ -41,7 +41,7 @@ The otyughs hide within the pit, waiting to attack any hero unfortunate enough t
 
 **Statues:** The statues provide cover and are difficult terrain. 
 
-**Braziers:** The two large, shallow braziers are filled with flaming, scented oil. A creature that moves (or is forced to move) into a square containing a brazier takes 5 fire damage and the brazier is knocked over. Once a brazier is knocked over, it no longer has any effect. 
+**Braziers:** The two large, shallow braziers are filled with flaming, scented oil. A creature that moves (or is forced to move) into a square containing a brazier takes 5 fire damage and the brazier is knocked over. Once a brazier is knocked over, it no longer has any effect. 
 
 > [!tip]+ Treasure
 > In the offal pit PCs can see several items.  PCs who brave the pit can find a *Wand of the Pampered Pet*, a *Wand of Mental Purification (Lesser)* and an *Ice Slick Snare*.
