@@ -36,7 +36,7 @@ With their shared fire resistance, Sleed, Barulg, and the Ember Fox will not hes
 
 The ember foxes have been summoned by Sleed as protection, so they engage any character that damages or threatens the imp. They intentionally walk in and out of the lava. If Sleed tries to escape, all remaining ember foxes move between the imp and the party to intercept the characters and buy him some time. 
 
-Barulg begins combat by using Take Them Down which affects all his allies unlike the standard version.  He follows with his maul against whichever character he believes to be the biggest threat. Although not extremely intelligent, Barulg is a capable fighter and excels in combat. He will always look to flank targets with the elementals while keeping excellent position. The room is quite small and Barulg will use Hammer Strike when characters bunch up and provide multiple targets. 
+Barulg begins combat by using Take Them Down which affects all his allies unlike the standard version.  He follows with his maul against whichever character he believes to be the biggest threat. Although not extremely intelligent, Barulg is a capable fighter and excels in combat. He will always look to flank targets with the elementals while keeping excellent position. The room is quite small and Barulg will use Hammer Strike when characters bunch up and provide multiple targets. 
 ![[Pasted image 20230616114033.png]]
 
 Sleed’s first priority is to stay alive. He uses vanish immediately and whenever engaged. He uses bite or tail sting only when he has a tactical advantage and room to move. Otherwise, he prefers to hover invisibly above the lava pit and make Arcana checks to trigger the lava’s attack when a character gets too close. Sleed isn’t certain that the characters are strong enough to defeat Barulg and his elementals and won’t stick around to find out if things look bad. He flees immediately when Barulg dies or when all three elementals are defeated. Sleed is clever and will not announce his escape; the imp simply turns invisible and makes a run for it when the characters are disabled or distracted. It’s possible the party won’t notice the devil is gone until after the battle. Sleed intends on using the trap door, but if the characters are aware and seem to be guarding it, the imp heads up the stairs and out of the refinery through the metalworks.
@@ -55,7 +55,7 @@ Barulg’s hammer is still intact and can be taken by the characters. Although g
 
 **Ceiling:** The room has a 10-foot-high ceiling of solid rock. 
 
-**Lava Chasm:** The 4 squares at the center of the chasm contain lava. The surface of the lava is 5 feet below the level of the floor. The 1-square-wide perimeter of rock surrounding the lava is rough stone which acts as difficult terrain. A creature falling into the lava takes 1d6 fire damage upon falling in and 1d10 fire damage when starting its turn in the lava. 
+**Lava Chasm:** The 4 squares at the center of the chasm contain lava. The surface of the lava is 5 feet below the level of the floor. The 1-square-wide perimeter of rock surrounding the lava is rough stone which acts as difficult terrain. A creature falling into the lava takes 1d6 fire damage upon falling in and 1d10 fire damage when starting its turn in the lava. 
 
 Sleed and Barulg already know how to use the Lava Pit by harnessing the chaotic power of the scar.  Players trained in [[skills#Arcana|Arcana]] had have seen a creature being attacked by the lava can also learn how to control it.
 
