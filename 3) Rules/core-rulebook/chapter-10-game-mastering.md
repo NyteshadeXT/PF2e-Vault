@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/crb
-aliases: ["Chapter 10: Game Mastering"]
+aliases: ["chapter-10-game-mastering"]
 ---
 # Chapter 10: Game Mastering
 <sup>CRB p. 483</sup>
@@ -158,23 +158,23 @@ Though a published adventure is prewritten, it's not set in stone. Changing the 
 > ### Blindness or Impaired Vision
 > <sup>CRB p. 487</sup>
 > 
-> A blind character can't detect anything using vision, critically fails [Perception](../../compendium/skills.md#Perception) checks requiring sight, is immune to [visual](../traits/visual.md) effects, and can't be [blinded](../conditions.md#Blinded) or [dazzled](../conditions.md#Dazzled). You might give this character the [Blind-Fight](../../compendium/feats/blind-fight-fighter.md) feat for free.
+> A blind character can't detect anything using vision, critically fails [Perception](compendium/skills.md#Perception) checks requiring sight, is immune to [visual](rules/traits/visual.md "Visual Effect Trait") effects, and can't be [blinded](rules/conditions.md#Blinded) or [dazzled](rules/conditions.md#Dazzled). You might give this character the [Blind-Fight](compendium/feats/blind-fight-fighter.md) feat for free.
 > 
-> A character with impaired vision might take a –2 to –4 penalty to vision-based [Perception](../../compendium/skills.md#Perception) checks. [Spectacles](../../compendium/equipment/items/basic-corrective-lenses-lotgb.md) or other corrective devices might reduce or remove this.
+> A character with impaired vision might take a –2 to –4 penalty to vision-based [Perception](compendium/skills.md#Perception) checks. [Spectacles](compendium/equipment/items/basic-corrective-lenses-lotgb.md) or other corrective devices might reduce or remove this.
 > 
 > ### Deafness or Being Hard of Hearing
 > <sup>CRB p. 487</sup>
 > 
-> A deaf character can't detect anything using hearing, critically fails [Perception](../../compendium/skills.md#Perception) checks that require hearing, and is immune to [auditory](../traits/auditory.md) effects. They have enough practice to supply verbal components for casting spells and command components for activating magic items, but if they perform an action they're not accustomed to that involves auditory elements, they must succeed at a DC 5 flat check or the action is lost. It's best to give them the [Sign Language](../../compendium/feats/sign-language.md) feat for free, and you might give them [Read Lips](../../compendium/feats/read-lips.md) as well. You might give one or more other characters in the group [Sign Language](../../compendium/feats/sign-language.md) for free as well.
+> A deaf character can't detect anything using hearing, critically fails [Perception](compendium/skills.md#Perception) checks that require hearing, and is immune to [auditory](rules/traits/auditory.md "Auditory Effect Trait") effects. They have enough practice to supply verbal components for casting spells and command components for activating magic items, but if they perform an action they're not accustomed to that involves auditory elements, they must succeed at a DC 5 flat check or the action is lost. It's best to give them the [Sign Language](compendium/feats/sign-language.md) feat for free, and you might give them [Read Lips](compendium/feats/read-lips.md) as well. You might give one or more other characters in the group [Sign Language](compendium/feats/sign-language.md) for free as well.
 > 
-> A hard-of-hearing character might take a –2 to –4 penalty to [Perception](../../compendium/skills.md#Perception) checks that are hearing-based. Corrective devices for hearing are less common than spectacles are in a typical Pathfinder world.
+> A hard-of-hearing character might take a –2 to –4 penalty to [Perception](compendium/skills.md#Perception) checks that are hearing-based. Corrective devices for hearing are less common than spectacles are in a typical Pathfinder world.
 > 
 > ### Missing Limb
 > <sup>CRB p. 487</sup>
 > 
 > Some magic items require certain limbs or other body parts. It's fine to allow an alternative form of the item, turning boots into bracers for a character without legs, for example.
 > 
-> A character with a missing hand or arm might need to spend 2 actions to [Interact](../actions/interact.md) with an item that requires two hands, or otherwise compensate. Using a two-handed weapon is not possible. A character can acquire a prosthetic hand or arm to compensate.
+> A character with a missing hand or arm might need to spend 2 actions to [Interact](rules/actions/interact.md) with an item that requires two hands, or otherwise compensate. Using a two-handed weapon is not possible. A character can acquire a prosthetic hand or arm to compensate.
 > 
 > Someone missing a foot or leg might take a small penalty to Speed, but can typically acquire a prosthetic to compensate. If they have no legs, they might use a wheelchair, a dependable mount, or levitation or flight magic.
 > 
@@ -258,20 +258,20 @@ Once you've selected a threat level, it's time to build the encounter. You have 
 #### Choosing Creatures
 <sup>CRB p. 488</sup>
 
-In all but the most unusual circumstances, you'll select creatures for your encounter that range from 4 levels lower than the PCs' level to 4 levels higher (see [Table 10–2: Creature XP and Role](../tables/creature-xp-and-role.md)). Each creature has a part to play in your encounter, from a lowly lackey to a boss so mighty it could defeat the entire party single-handedly.
+In all but the most unusual circumstances, you'll select creatures for your encounter that range from 4 levels lower than the PCs' level to 4 levels higher (see [Table 10–2: Creature XP and Role](rules/tables/creature-xp-and-role.md)). Each creature has a part to play in your encounter, from a lowly lackey to a boss so mighty it could defeat the entire party single-handedly.
 
 Each creature costs some of the XP from your XP budget for the encounter, based on its level compared to the levels of the characters in your party. For instance, if the PCs are 5th level, a 2nd-level creature is a "party level –3" creature, a lackey appropriate for a lowto- moderate-threat encounter, and it costs 15 XP in an encounter's XP budget. Party level is explained in detail on page 508.
 
 #### Different Party Sizes
 <sup>CRB p. 488</sup>
 
-For each additional character in the party beyond the fourth, increase your XP budget by the amount shown in the Character Adjustment value for your encounter in [Table 10–1: Encounter Budget](../tables/encounter-budget.md). If you have fewer than four characters, use the same process in reverse: for each missing character, remove that amount of XP from your XP budget. Note that if you adjust your XP budget to account for party size, the XP awards for the encounter don't change—you'll always award the amount of XP listed for a group of four characters.
+For each additional character in the party beyond the fourth, increase your XP budget by the amount shown in the Character Adjustment value for your encounter in [Table 10–1: Encounter Budget](rules/tables/encounter-budget.md). If you have fewer than four characters, use the same process in reverse: for each missing character, remove that amount of XP from your XP budget. Note that if you adjust your XP budget to account for party size, the XP awards for the encounter don't change—you'll always award the amount of XP listed for a group of four characters.
 
 It's best to use the XP increase from more characters to add more enemies or hazards, and the XP decrease from fewer characters to subtract enemies and hazards, rather than making one enemy tougher or weaker. Encounters are typically more satisfying if the number of enemy creatures is fairly close to the number of player characters.
 
-![Encounter Budget](../tables/encounter-budget.md)
+![Encounter Budget](rules/tables/encounter-budget.md)
 
-![Creature XP and Role](../tables/creature-xp-and-role.md)
+![Creature XP and Role](rules/tables/creature-xp-and-role.md)
 
 ## Running a Game Session
 <sup>CRB p. 489</sup>
@@ -340,7 +340,7 @@ To make calls on the fly, use the following guidelines, which are the same princ
 - If an effect raises or lowers chances of success, grant a +1 circumstance bonus or a –1 circumstance penalty.
 - If you're not sure how difficult a significant challenge should be, use the DC for the party's level.
 - If you're making up an effect, creatures should be incapacitated or killed on only a critical success (or for a saving throw, on a critical failure).
-- If you don't know what check to use, pick the most appropriate skill. If no other skill applies to a check to [Recall Knowledge](../actions/recall-knowledge.md), use an appropriate [Lore](../../compendium/skills.md#Lore) skill (usually at an untrained proficiency rank).
+- If you don't know what check to use, pick the most appropriate skill. If no other skill applies to a check to [Recall Knowledge](rules/actions/recall-knowledge.md), use an appropriate [Lore](compendium/skills.md#Lore) skill (usually at an untrained proficiency rank).
 - Use the characters' daily preparations as the time to reset anything that lasts roughly a day.
 - When a character accomplishes something noteworthy that doesn't have rules for XP, award them XP for an accomplishment (10 to 30 XP, as described 1).
 - When the PCs fail at a task, look for a way they might fail forward, meaning the story moves forward with a negative consequence rather than the failure halting progress entirely.
@@ -441,7 +441,7 @@ You'll have to think on your feet if information or items get skipped when playe
 
 > [!pf2-brown] PLAYING WITHOUT A GRID
 > 
-> The Pathfinder rules are built to play combat encounters on a 1-inch grid, but you can play without a grid or map. In what's traditionally called the "theater of the mind," you and other players imagine the locations of the combatants and the environment. In this style of play, you'll frequently need to make judgment calls. These are usually simple, like "Can I see the ogre from where I'm standing?" or "Can I get to the ogre with one Stride?" It's often best to have a player tell you what they want to do, such as "I want to cross the beam to get to the ogre and attack it." Then, you tell the player how that breaks down into actions, like "You'll need to spend one action and succeed at an [Acrobatics](../../compendium/skills.md#Acrobatics) check, then Stride to get close enough, then you'll have one action left for a Strike."
+> The Pathfinder rules are built to play combat encounters on a 1-inch grid, but you can play without a grid or map. In what's traditionally called the "theater of the mind," you and other players imagine the locations of the combatants and the environment. In this style of play, you'll frequently need to make judgment calls. These are usually simple, like "Can I see the ogre from where I'm standing?" or "Can I get to the ogre with one Stride?" It's often best to have a player tell you what they want to do, such as "I want to cross the beam to get to the ogre and attack it." Then, you tell the player how that breaks down into actions, like "You'll need to spend one action and succeed at an [Acrobatics](compendium/skills.md#Acrobatics) check, then Stride to get close enough, then you'll have one action left for a Strike."
 > 
 > When preparing encounters, avoid using lots of difficult terrain, cover, or other battlefield challenges that work better on a grid. Also, be more lenient with combat tactics like flanking. You won't have a way to measure flanking, but the rules expect melee characters like rogues to often get into a flanking position—often, two characters ganging up in melee is enough to count.
 
@@ -472,7 +472,7 @@ Most conversations play best as free-form roleplaying, with maybe one or two che
 
 Sometimes, though, a tense situation or crucial parlay requires a social encounter that uses initiative, much like a combat encounter. As with any other encounter, the stakes of a social encounter need to be high! A failed social encounter could mean a character is imprisoned or put to death, a major rival becomes a political powerhouse, or a key ally is disgraced and ostracized.
 
-Using the structure of an encounter is [helpful](../conditions.md#Helpful) because it makes the timing clearer than in free-form play, and each character feels like they're contributing. When running a social encounter, establish the stakes up front, so the players know the consequences of success or failure and the circumstances that will cause the encounter to end.
+Using the structure of an encounter is [helpful](rules/conditions.md#Helpful) because it makes the timing clearer than in free-form play, and each character feels like they're contributing. When running a social encounter, establish the stakes up front, so the players know the consequences of success or failure and the circumstances that will cause the encounter to end.
 
 You have much more flexibility in how you run a social encounter than in a combat encounter. Extending the length of rounds beyond 6 seconds, allowing more improvisation, and focusing less on special attacks and spells all differentiate a social encounter from a combat one. In most cases, you don't need to worry about character's movements, nor do you need a map. Some examples of social encounters include:
 
@@ -484,7 +484,7 @@ You have much more flexibility in how you run a social encounter than in a comba
 ##### Initiative and Actions
 <sup>CRB p. 494</sup>
 
-Initiative in a social encounter typically has characters rolling [Society](../../compendium/skills.md#Society) or a Charisma-based skill, such as [Diplomacy](../../compendium/skills.md#Diplomacy) or [Deception](../../compendium/skills.md#Deception). As with other encounters, a character's approach to the conflict determines which skill they'll roll. On a character's turn, they typically get to attempt one roll, usually by using a skill action. Let the player roleplay what their character says and does, then determine what they'll roll. Allow them to use any abilities or spells that might help them make their case, though keep in mind that when most people see the visual signs of a spell being cast, they think someone is using magic to try to influence or harm them, and they have a negative reaction.
+Initiative in a social encounter typically has characters rolling [Society](compendium/skills.md#Society) or a Charisma-based skill, such as [Diplomacy](compendium/skills.md#Diplomacy) or [Deception](compendium/skills.md#Deception). As with other encounters, a character's approach to the conflict determines which skill they'll roll. On a character's turn, they typically get to attempt one roll, usually by using a skill action. Let the player roleplay what their character says and does, then determine what they'll roll. Allow them to use any abilities or spells that might help them make their case, though keep in mind that when most people see the visual signs of a spell being cast, they think someone is using magic to try to influence or harm them, and they have a negative reaction.
 
 Good social encounters include an opposition. This can be direct, such as a rival who argues against the characters' case, or passive, such as a mob that automatically becomes more unruly as each round passes. Give the opposition one or more positions in the initiative order so you can convey what it is doing. You can create game statistics for the opposition, especially if it's an individual, but in situations like that of the unruly mob, you might need nothing more than establish a set of increasingly difficult DCs.
 
@@ -493,7 +493,7 @@ Good social encounters include an opposition. This can be direct, such as a riva
 
 You'll need to decide how to measure the characters' success in social encounters, because there's no AC to target or HP to whittle down. Chapter 4 includes guidance on setting DCs for social skill actions, often using a target's Will DC. If you need a DC for people who don't have stats, such as a crowd or an NPC for whom you haven't already generated statistics, use the guidelines on setting DCs, found on page 503. You can either pick a simple DC or use a level-based DC, estimating a level for the subject or how challenging it should be to sway them.
 
-The attitude conditions—[hostile](../conditions.md#Hostile), [unfriendly](../conditions.md#Unfriendly), [indifferent](../conditions.md#Indifferent), friendly, and helpful—provide a useful way to track the progress of a social encounter. Use these to represent the attitude of an authority, a crowd, a jury, or the like. A typical goal for a social encounter is to change the attitude of a person or group to helpful so they assist you, or calming a hostile group or person to defuse a situation. Try to give the players a clear idea of how much they've progressed as the encounter proceeds.
+The attitude conditions—[hostile](rules/conditions.md#Hostile), [unfriendly](rules/conditions.md#Unfriendly), [indifferent](rules/conditions.md#Indifferent), friendly, and helpful—provide a useful way to track the progress of a social encounter. Use these to represent the attitude of an authority, a crowd, a jury, or the like. A typical goal for a social encounter is to change the attitude of a person or group to helpful so they assist you, or calming a hostile group or person to defuse a situation. Try to give the players a clear idea of how much they've progressed as the encounter proceeds.
 
 Another option is to track the number of successes or failures the characters accrue. For instance, you might need to trick four guards into leaving their posts, and count each successful attempt to Lie or Create a Diversion toward a total of four necessary successes. You can combine these two methods; if the PCs need a group of important nobles to vote their way, the goal of the encounter might be to ensure that a majority of the nobles have a better attitude toward the PCs than they have of a rival—all within a limited time frame.
 
@@ -529,14 +529,14 @@ The following sections discuss exploration activities that require adjudication 
 ##### Detect Magic
 <sup>CRB p. 496</sup>
 
-This activity doesn't enable characters to automatically find every single magical aura or object during travel. Hazards that require a minimum proficiency can't be found with [detect magic](../../compendium/spells/detect-magic.md), nor can illusions of equal or higher level than the spell.
+This activity doesn't enable characters to automatically find every single magical aura or object during travel. Hazards that require a minimum proficiency can't be found with [detect magic](compendium/spells/detect-magic.md), nor can illusions of equal or higher level than the spell.
 
 When characters find something magical using this activity, let them know and give them the option to stop and explore further or continue on. Stopping brings you into a more roleplay-heavy scene in which players can search through an area, assess different items, or otherwise try to figure out the source of the magic and what it does. Continuing on might cause the group to miss out on beneficial magic items or trigger a magic trap.
 
 ##### Follow the Expert
 <sup>CRB p. 496</sup>
 
-A skilled character can help out less skilled allies who choose to [Follow the Expert](../actions/follow-the-expert.md). This is a good way to help a character with a low [Stealth](../../compendium/skills.md#Stealth) modifier sneak around, get a character with poor [Athletics](../../compendium/skills.md#Athletics) up a steep cliff, and so on. Usually, a character who is Following the Expert can't perform other exploration activities or follow more than one person at a time.
+A skilled character can help out less skilled allies who choose to [Follow the Expert](rules/actions/follow-the-expert.md). This is a good way to help a character with a low [Stealth](compendium/skills.md#Stealth) modifier sneak around, get a character with poor [Athletics](compendium/skills.md#Athletics) up a steep cliff, and so on. Usually, a character who is Following the Expert can't perform other exploration activities or follow more than one person at a time.
 
 ##### Investigate
 <sup>CRB p. 496</sup>
@@ -546,25 +546,25 @@ As with Searching or Detecting Magic, the initial result of Investigating is usu
 ##### Search
 <sup>CRB p. 496</sup>
 
-With a successful Perception check while [Searching](../actions/search.md), a character notices the presence or absence of something unusual in the area, but it doesn't provide a comprehensive catalog of everything there. Instead, it gives a jumping-off point for closer inspection or an encounter. For instance, if an area has both a DC 30 secret door and a DC 25 trap, and a [Searching](../actions/search.md) character got a 28 on their Perception check, you would tell the player that their character noticed a trap in the area, and you'd give a rough idea of the trap's location and nature. The party needs to examine the area more to learn specifics about the trap, and someone would need to Search again to get another chance to find the secret door.
+With a successful Perception check while [Searching](rules/actions/search.md), a character notices the presence or absence of something unusual in the area, but it doesn't provide a comprehensive catalog of everything there. Instead, it gives a jumping-off point for closer inspection or an encounter. For instance, if an area has both a DC 30 secret door and a DC 25 trap, and a [Searching](rules/actions/search.md) character got a 28 on their Perception check, you would tell the player that their character noticed a trap in the area, and you'd give a rough idea of the trap's location and nature. The party needs to examine the area more to learn specifics about the trap, and someone would need to Search again to get another chance to find the secret door.
 
-If an area contains many objects or something that will take a while to search (such as a cabinet full of papers), [Searching](../actions/search.md) would reveal the cabinet, but the PCs would have to examine it more thoroughly to check the papers. This usually requires the party to stop for a complete search.
+If an area contains many objects or something that will take a while to search (such as a cabinet full of papers), [Searching](rules/actions/search.md) would reveal the cabinet, but the PCs would have to examine it more thoroughly to check the papers. This usually requires the party to stop for a complete search.
 
-You roll a secret Perception check for a [Searching](../actions/search.md) character to detect any secrets they pass that's in a place that stands out (such as near a door or a turn in a corridor), but not one that's in a more inconspicuous place (like a random point in a long hallway) unless they are searching particularly slowly and meticulously.
+You roll a secret Perception check for a [Searching](rules/actions/search.md) character to detect any secrets they pass that's in a place that stands out (such as near a door or a turn in a corridor), but not one that's in a more inconspicuous place (like a random point in a long hallway) unless they are searching particularly slowly and meticulously.
 
 > [!pf2-brown] EXPLORATION ACTIVITIES
 > 
 > The following exploration activities are fully detailed on pages 479–480 of Chapter 9. Many more appear within Chapter 4: Skills.
 > 
-> - [Avoid Notice](../actions/avoid-notice.md)
-> - [Defend](../actions/defend.md)
-> - [Detect Magic](../actions/detect-magic.md)
-> - [Follow the Expert](../actions/follow-the-expert.md)
-> - [Hustle](../actions/hustle.md)
-> - [Investigate](../actions/investigate.md)
-> - [Repeat a Spell](../actions/repeat-a-spell.md)
-> - [Scout](../actions/scout.md)
-> - [Search](../actions/search.md)
+> - [Avoid Notice](rules/actions/avoid-notice.md)
+> - [Defend](rules/actions/defend.md)
+> - [Detect Magic](rules/actions/detect-magic.md)
+> - [Follow the Expert](rules/actions/follow-the-expert.md)
+> - [Hustle](rules/actions/hustle.md)
+> - [Investigate](rules/actions/investigate.md)
+> - [Repeat a Spell](rules/actions/repeat-a-spell.md)
+> - [Scout](rules/actions/scout.md)
+> - [Search](rules/actions/search.md)
 > 
 > ### Improvising New Activities
 > <sup>CRB p. 498</sup>
@@ -585,7 +585,7 @@ When you come out of exploration mode, the group usually remains in the same gen
 
 Exploration gets slower when the party faces dense jungles, deep snow, sandstorms, extreme heat, or similar difficult conditions. You decide how much these factors impact the characters' progress. The specific effects of certain types of terrain and weather are described starting on page 512.
 
-difficult terrain such as thick undergrowth usually slows down progress. Unless it's important how far the group gets in a particular time frame, this can be covered with a quick description of chopping through the vines or trudging through a bog. If the characters are on a deadline, adjust their progress on [Table 9–2: Travel Speed](../tables/travel-speed.md), typically cutting it in half if almost all of the land is difficult terrain or to one-third for greater difficult terrain.
+difficult terrain such as thick undergrowth usually slows down progress. Unless it's important how far the group gets in a particular time frame, this can be covered with a quick description of chopping through the vines or trudging through a bog. If the characters are on a deadline, adjust their progress on [Table 9–2: Travel Speed](rules/tables/travel-speed.md), typically cutting it in half if almost all of the land is difficult terrain or to one-third for greater difficult terrain.
 
 Hazardous terrain, such as the caldera of an active volcano, might physically harm the player characters. The group might have the option to travel directly through or go around by spending more time. You can transition into a more detailed scene while the characters move through hazardous terrain and attempt to mitigate the damage with spells or skill checks. If they endure hazardous terrain, consider giving the PCs a minor or moderate XP reward at the end of their exploration, with slightly more XP if they took smart precautions to avoid taking damage.
 
@@ -602,7 +602,7 @@ Exploration can get broken up by traps and other hazards (see Hazards on page 52
 Transitioning from exploration to an encounter usually involves rolling for initiative. Call for initiative once a trap is triggered, as soon as two opposing groups come into contact, or when a creature on one side decides to take action against the other. For example:
 
 - A group of PCs are exploring a cavern. They enter a narrow passage patrolled by a group of kobold warriors. Now that the two groups are in the same area, it's time to roll initiative.
-- Amiri and a kobold champion agree to have a [friendly](../conditions.md#Friendly) wrestling match. They square off on a patch of dirt, and you call for initiative using [Athletics](../../compendium/skills.md#Athletics).
+- Amiri and a kobold champion agree to have a [friendly](rules/conditions.md#Friendly) wrestling match. They square off on a patch of dirt, and you call for initiative using [Athletics](compendium/skills.md#Athletics).
 - Merisiel and Kyra are negotiating with the kobold king. Things aren't going well, so Merisiel decides to launch a surprise attack. As soon as she says this is her plan, you call for initiative.
 - Harsk and Ezren are trying to Balance across a narrow beam to reach an isolated kobold treasure trove. When they get halfway across, a red dragon who was hiding behind the mountain flies around to attack! As soon as the dragon makes its appearance, you call for an initiative roll.
 
@@ -614,16 +614,16 @@ In some cases, a trap or a foe has a reaction that tells you to roll initiative.
 ##### Choosing the Type of Roll
 <sup>CRB p. 498</sup>
 
-When choosing what type of roll to use for initiative, lean toward the most obvious choice. The most common roll is [Perception](../../compendium/skills.md#Perception); this is what the kobolds would use in the first example, as would Kyra and the kobold king in the third example. The next most common skills to use are [Stealth](../../compendium/skills.md#Stealth) (for sneaking up, like the dragon in the last example) and [Deception](../../compendium/skills.md#Deception) (for tricking opponents, like Merisiel in the third example). For social contests, it's common to use [Deception](../../compendium/skills.md#Deception), [Diplomacy](../../compendium/skills.md#Diplomacy), [Intimidation](../../compendium/skills.md#Intimidation), [Performance](../../compendium/skills.md#Performance), or [Society](../../compendium/skills.md#Society).
+When choosing what type of roll to use for initiative, lean toward the most obvious choice. The most common roll is [Perception](compendium/skills.md#Perception); this is what the kobolds would use in the first example, as would Kyra and the kobold king in the third example. The next most common skills to use are [Stealth](compendium/skills.md#Stealth) (for sneaking up, like the dragon in the last example) and [Deception](compendium/skills.md#Deception) (for tricking opponents, like Merisiel in the third example). For social contests, it's common to use [Deception](compendium/skills.md#Deception), [Diplomacy](compendium/skills.md#Diplomacy), [Intimidation](compendium/skills.md#Intimidation), [Performance](compendium/skills.md#Performance), or [Society](compendium/skills.md#Society).
 
-If you're unsure what roll to call for, use [Perception](../../compendium/skills.md#Perception). If a different type of roll could make sense for a character, you should usually offer the choice of that roll or [Perception](../../compendium/skills.md#Perception) and let the player decide. Don't do this if it's absolutely clear another kind of check matters more sense than [Perception](../../compendium/skills.md#Perception), such as when the character is sneaking up on enemies and should definitely use [Stealth](../../compendium/skills.md#Stealth).
+If you're unsure what roll to call for, use [Perception](compendium/skills.md#Perception). If a different type of roll could make sense for a character, you should usually offer the choice of that roll or [Perception](compendium/skills.md#Perception) and let the player decide. Don't do this if it's absolutely clear another kind of check matters more sense than [Perception](compendium/skills.md#Perception), such as when the character is sneaking up on enemies and should definitely use [Stealth](compendium/skills.md#Stealth).
 
-You can allow a player to make a case that they should use a different skill than [Perception](../../compendium/skills.md#Perception), but only if they base it on something they've established beforehand. For example, if in the prelude to the attack, Merisiel's player had said, "I'm going to dangle down off the chandelier to get the drop on them," you could let them use [Acrobatics](../../compendium/skills.md#Acrobatics) for their initiative roll. If they just said, "Hey, I want to attack these guys. Can I use [Acrobatics](../../compendium/skills.md#Acrobatics)?" without having established a reason beforehand, you probably shouldn't allow it.
+You can allow a player to make a case that they should use a different skill than [Perception](compendium/skills.md#Perception), but only if they base it on something they've established beforehand. For example, if in the prelude to the attack, Merisiel's player had said, "I'm going to dangle down off the chandelier to get the drop on them," you could let them use [Acrobatics](compendium/skills.md#Acrobatics) for their initiative roll. If they just said, "Hey, I want to attack these guys. Can I use [Acrobatics](compendium/skills.md#Acrobatics)?" without having established a reason beforehand, you probably shouldn't allow it.
 
 ##### Character Placement
 <sup>CRB p. 498</sup>
 
-When calling for initiative for a combat encounter, you'll need to decide where the participants in the encounter go on the battle map. Use the party's order, described on page 497, as a base. You can move forward characters who are using [Stealth](../../compendium/skills.md#Stealth) to get into position, putting them in a place they could reasonably have moved up to before having a chance to be detected. Consult with each player to make sure their position makes sense to both of you.
+When calling for initiative for a combat encounter, you'll need to decide where the participants in the encounter go on the battle map. Use the party's order, described on page 497, as a base. You can move forward characters who are using [Stealth](compendium/skills.md#Stealth) to get into position, putting them in a place they could reasonably have moved up to before having a chance to be detected. Consult with each player to make sure their position makes sense to both of you.
 
 > [!pf2-brown] MONITORING SPELL DURATIONS
 > 
@@ -653,8 +653,8 @@ When calling for initiative for a combat encounter, you'll need to decide where 
 Characters require 8 hours of sleep each day. Though resting typically happens at night, a group gains the same benefits for resting during the day. Either way, they can gain the benefits of resting only once every 24 hours. A character who rests for 8 hours recovers in the following ways:
 
 - The character regains Hit Points equal to their Constitution modifier (minimum 1) multiplied by their level. If they rest without any shelter or comfort, you might reduce this healing by half (to a minimum of 1 HP).
-- The character loses the [fatigued](../conditions.md#Fatigued) condition.
-- The character reduces the severity of the [doomed](../conditions.md#Doomed) and [drained](../conditions.md#Drained) conditions by 1.
+- The character loses the [fatigued](rules/conditions.md#Fatigued) condition.
+- The character reduces the severity of the [doomed](rules/conditions.md#Doomed) and [drained](rules/conditions.md#Drained) conditions by 1.
 - Most spellcasters need to rest before they regain their spells for the day.
 
 A group in exploration mode can attempt to rest, but they aren't entirely safe from danger, and their rest might be interrupted. The 8 hours of rest do not need to be consecutive, however, and after an interruption, characters can go back to sleep.
@@ -672,9 +672,9 @@ Adventuring parties usually put a few people on guard to watch out for danger wh
 
 Watches and Rest on the next page indicates how long the group needs to set aside for rest, assuming everyone gets a rotating watch assignment of equal length.
 
-If a surprise encounter would occur during rest, you can roll a die to randomly determine which character is on watch at the time. All characters roll initiative; sleeping characters typically roll Perception with a –4 status penalty for being unconscious. They don't automatically wake up when rolling initiative, but they might roll a Perception check to wake up at the start of their turn due to noise. If a savvy enemy waits for a particularly vulnerable character to take watch before attacking, the attack can happen on that character's watch automatically. However, you might have the ambusher attempt a [Stealth](../../compendium/skills.md#Stealth) check against the Perception DCs of all characters to see if anyone noticed its approach.
+If a surprise encounter would occur during rest, you can roll a die to randomly determine which character is on watch at the time. All characters roll initiative; sleeping characters typically roll Perception with a –4 status penalty for being unconscious. They don't automatically wake up when rolling initiative, but they might roll a Perception check to wake up at the start of their turn due to noise. If a savvy enemy waits for a particularly vulnerable character to take watch before attacking, the attack can happen on that character's watch automatically. However, you might have the ambusher attempt a [Stealth](compendium/skills.md#Stealth) check against the Perception DCs of all characters to see if anyone noticed its approach.
 
-![Watches and Rest](../tables/watches-and-rest.md)
+![Watches and Rest](rules/tables/watches-and-rest.md)
 
 #### Daily Preperations
 <sup>CRB p. 500</sup>
@@ -700,11 +700,11 @@ Usually, downtime is a few minutes at the start of a session or a break between 
 
 This section describes ways to handle downtime and details several activities and considerations specific to downtime, such as cost of living, buying and selling goods, long-term rest, and retraining. Most other downtime activities are skill actions; a number of these common downtime activities and their associated skills are listed below. See the relevant skills in Chapter 4 for details.
 
-- [Craft](../actions/craft.md) ([Crafting](../../compendium/skills.md#Crafting))
-- [Earn Income](../actions/earn-income.md) ([Crafting](../../compendium/skills.md#Crafting), [Lore](../../compendium/skills.md#Lore), [Performance](../../compendium/skills.md#Performance))
-- [Treat Disease](../actions/treat-disease.md) ([Medicine](../../compendium/skills.md#Medicine))
-- [Create Forgery](../actions/create-forgery.md) ([Society](../../compendium/skills.md#Society))
-- [Subsist](../actions/subsist.md) ([Society](../../compendium/skills.md#Society), [Survival](../../compendium/skills.md#Survival))
+- [Craft](rules/actions/craft.md) ([Crafting](compendium/skills.md#Crafting))
+- [Earn Income](rules/actions/earn-income.md) ([Crafting](compendium/skills.md#Crafting), [Lore](compendium/skills.md#Lore), [Performance](compendium/skills.md#Performance))
+- [Treat Disease](rules/actions/treat-disease.md) ([Medicine](compendium/skills.md#Medicine))
+- [Create Forgery](rules/actions/create-forgery.md) ([Society](compendium/skills.md#Society))
+- [Subsist](rules/actions/subsist.md) ([Society](compendium/skills.md#Society), [Survival](compendium/skills.md#Survival))
 
 **Stakes:** None to low. Downtime is the counterpart to adventuring and covers low-risk activities.
 
@@ -729,7 +729,7 @@ Multiple characters can cooperate on the same downtime task. If it's a simple ta
 ##### Checks
 <sup>CRB p. 500</sup>
 
-Some downtime activities require rolls, typically skill checks. Because these rolls represent the culmination of a series of tasks over a long period, players can't use most abilities or spells that manipulate die rolls, such as activating a magic item to gain a bonus or casting a fortune spell to roll twice. Constant benefits still apply, though, so someone might invest a magic item that gives them a bonus without requiring activation. You might make specific exceptions to this rule. If something could apply constantly, or so often that it might as well be constant, it's more likely to be used for downtime checks; for instance [Assurance](../../compendium/feats/assurance.md) could apply.
+Some downtime activities require rolls, typically skill checks. Because these rolls represent the culmination of a series of tasks over a long period, players can't use most abilities or spells that manipulate die rolls, such as activating a magic item to gain a bonus or casting a fortune spell to roll twice. Constant benefits still apply, though, so someone might invest a magic item that gives them a bonus without requiring activation. You might make specific exceptions to this rule. If something could apply constantly, or so often that it might as well be constant, it's more likely to be used for downtime checks; for instance [Assurance](compendium/feats/assurance.md) could apply.
 
 #### Longer Periods of Downtime
 <sup>CRB p. 501</sup>
@@ -743,9 +743,9 @@ However, it's also an opportunity for the characters to progress toward long-ter
 
 After the characters state what they want to achieve in their downtime, select a few standout events for each of them—usually one event for a period of a week or a month, or four events for a year or longer. These events should be tailored to each character and their goals, and they can serve as hooks for adventures or plot development.
 
-Though the following examples of downtime events all involve Earning Income, you can use them to spark ideas for other activities. A character using Perform to Earn Income could produce a commanding performance of a new play for visiting nobility. Someone using [Crafting](../../compendium/skills.md#Crafting) might get a lucrative commission to craft a special item. A character with Lore might have to research a difficult problem that needs a quick response.
+Though the following examples of downtime events all involve Earning Income, you can use them to spark ideas for other activities. A character using Perform to Earn Income could produce a commanding performance of a new play for visiting nobility. Someone using [Crafting](compendium/skills.md#Crafting) might get a lucrative commission to craft a special item. A character with Lore might have to research a difficult problem that needs a quick response.
 
-PCs who want to do things that don't correspond to a specific downtime activity should still experience downtime events; you just choose the relevant skill and DC. For example, if a character intends to build their own library to house their books on magic, you might decide setting the foundation and organizing the library once construction is finished are major events. The first could be a [Crafting](../../compendium/skills.md#Crafting) check, and the second an [Arcana](../../compendium/skills.md#Arcana) or Library Lore check.
+PCs who want to do things that don't correspond to a specific downtime activity should still experience downtime events; you just choose the relevant skill and DC. For example, if a character intends to build their own library to house their books on magic, you might decide setting the foundation and organizing the library once construction is finished are major events. The first could be a [Crafting](compendium/skills.md#Crafting) check, and the second an [Arcana](compendium/skills.md#Arcana) or Library Lore check.
 
 ##### Average Progress
 <sup>CRB p. 501</sup>
@@ -757,7 +757,7 @@ The events you include during a long stretch of downtime should typically featur
 #### Cost of Living
 <sup>CRB p. 502</sup>
 
-For short periods of downtime, characters are usually just passing through a settlement or spending a bit of time there. They can use the prices for inn stays and meals found on page 294. For long stretches of downtime, use the values on [Table 6–16: Cost of Living](../tables/cost-of-living.md) on the same page. Deduct these costs from a character's funds after they gain any money from their other downtime activities.
+For short periods of downtime, characters are usually just passing through a settlement or spending a bit of time there. They can use the prices for inn stays and meals found on page 294. For long stretches of downtime, use the values on [Table 6–16: Cost of Living](rules/tables/cost-of-living.md) on the same page. Deduct these costs from a character's funds after they gain any money from their other downtime activities.
 
 A character can live off the land instead, but each day they do, they typically use the Subsist activity (page 240) to the exclusion of any other downtime activity.
 
@@ -813,22 +813,22 @@ While some character options can't normally be retrained, you can invent ways fo
 
 Sometimes you need to quickly set a Difficulty Class. The easiest method is to select a simple DC from Table 10–4 by estimating which proficiency rank best matches the task (that rank is usually not required to succeed at the task).
 
-If it's something pretty much anyone would have a decent chance at, use the untrained DC. If it would require a degree of training, use the DC listed for trained, expert, master, or legendary proficiency, as appropriate to the complexity of the task. For example, say a PC was trying to uncover the true history behind a fable. You determine this requires a check to [Recall Knowledge](../actions/recall-knowledge.md), and that only someone with master proficiency in Folktale Lore would know the information, so you'd set the DC at 30—the simple master DC.
+If it's something pretty much anyone would have a decent chance at, use the untrained DC. If it would require a degree of training, use the DC listed for trained, expert, master, or legendary proficiency, as appropriate to the complexity of the task. For example, say a PC was trying to uncover the true history behind a fable. You determine this requires a check to [Recall Knowledge](rules/actions/recall-knowledge.md), and that only someone with master proficiency in Folktale Lore would know the information, so you'd set the DC at 30—the simple master DC.
 
 Simple DCs work well when you need a DC on the fly and there's no level associated with the task. They're most useful for skill checks. Because there isn't much gradation between the simple DCs, they don't work as well for hazards or combatants, where the PCs' lives are on the line; you're better off using level-based DCs for such challenges.
 
-![Simple DCs](../tables/simple-dcs.md)
+![Simple DCs](rules/tables/simple-dcs.md)
 
 ### Level-Based DCs
 <sup>CRB p. 503</sup>
 
 When you're determining a skill DC based on something that has a level, use Table 10–5 to set the DC. Find the level of the subject, and assign the corresponding DC. Since spells use a 1–10 scale, use the Spell Level column for them.
 
-Use these DCs when a PC needs to Identify a Spell or [Recall Knowledge](../actions/recall-knowledge.md) about a creature, attempts to Earn Income by performing a task of a certain level, and so on. You can also use the level-based DCs for obstacles instead of assigning a simple DC. For example, you might determine that a wall in a high-level dungeon was constructed of smooth metal and is hard to climb. You could simply say only someone with master proficiency could climb it, and use the simple DC of 30. Or you might decide that the 15th-level villain who created the dungeon crafted the wall, and use the 15th-level DC of 34. Either approach is reasonable!
+Use these DCs when a PC needs to Identify a Spell or [Recall Knowledge](rules/actions/recall-knowledge.md) about a creature, attempts to Earn Income by performing a task of a certain level, and so on. You can also use the level-based DCs for obstacles instead of assigning a simple DC. For example, you might determine that a wall in a high-level dungeon was constructed of smooth metal and is hard to climb. You could simply say only someone with master proficiency could climb it, and use the simple DC of 30. Or you might decide that the 15th-level villain who created the dungeon crafted the wall, and use the 15th-level DC of 34. Either approach is reasonable!
 
 Note that PCs who invest in a skill become more likely to succeed at a DC of their level as they increase in level, and the listed DCs eventually become very easy for them.
 
-![DCs by Level](../tables/dcs-by-level.md)
+![DCs by Level](rules/tables/dcs-by-level.md)
 
 ### Adjusting Difficulty
 <sup>CRB p. 503</sup>
@@ -839,11 +839,11 @@ Adjustments happen most often with tasks whose DCs are based on their level. Adj
 
 You'll often apply the adjustments for uncommon, rare, or unique subjects.
 
-![DC Adjustments](../tables/dc-adjustments.md)
+![DC Adjustments](rules/tables/dc-adjustments.md)
 
 The adjustments' names don't translate to how hard a task actually is for a PC or group of PCs, and adjustments aren't meant to balance out or replace PCs' bonuses and penalties. PCs who invest in a skill will become better and better at that skill as they increase in level. For example, even the best 1st-level PC has grim odds against an incredibly hard 1st-level DC, with a huge chance of critical failure, but by 20th level, an optimized character with a modicum of magic or assistance can take down incredibly hard 20th-level DCs over half the time, critically failing only on a 1. At higher levels, many groups will find that the very hard DC is more like standard for them; keep that in mind if you need a check that presents a true challenge to a high level group.
 
-You might use different DCs for a task based on the particular skill or statistic used for the check. Let's say your PCs encounter a magical tome about aberrant creatures. The tome is 4th-level and has the occult trait, so you set the DC of an [Occultism](../../compendium/skills.md#Occultism) check to Identify the Magic to 19, based on Table 10–5. As noted in Identify Magic, other magic-related skills can typically be used at a higher DC, so you might decide the check is very hard for a character using [Arcana](../../compendium/skills.md#Arcana) and set the DC at 24 for characters using that skill. If a character in your group had Aberration Lore, you might determine that it would be easy or very easy to use that skill and adjust the DC to 17 or 14. These adjustments aren't taking the place of characters' bonuses, modifiers, and penalties—they are due to the applicability of the skills being used.
+You might use different DCs for a task based on the particular skill or statistic used for the check. Let's say your PCs encounter a magical tome about aberrant creatures. The tome is 4th-level and has the occult trait, so you set the DC of an [Occultism](compendium/skills.md#Occultism) check to Identify the Magic to 19, based on Table 10–5. As noted in Identify Magic, other magic-related skills can typically be used at a higher DC, so you might decide the check is very hard for a character using [Arcana](compendium/skills.md#Arcana) and set the DC at 24 for characters using that skill. If a character in your group had Aberration Lore, you might determine that it would be easy or very easy to use that skill and adjust the DC to 17 or 14. These adjustments aren't taking the place of characters' bonuses, modifiers, and penalties—they are due to the applicability of the skills being used.
 
 #### Group Attempts
 <sup>CRB p. 504</sup>
@@ -855,7 +855,7 @@ At these DCs, most of the party will probably fail, but someone will probably st
 ### Minimum Proficiency
 <sup>CRB p. 504</sup>
 
-Sometimes succeeding at a particular task requires a character to have a specific proficiency rank in addition to a success on the check. Locks and traps often require a certain proficiency rank to successfully use the Pick a Lock or Disable a Device actions of [Thievery](../../compendium/skills.md#Thievery). A character whose proficiency rank is lower than what's listed can attempt the check, but they can't succeed. You can apply similar minimum proficiencies to other tasks. You might decide, for example, that a particular arcane theorem requires training in [Arcana](../../compendium/skills.md#Arcana) to understand. An untrained barbarian can't succeed at the check, but she can still attempt it if she wants—after all, she needs to have a chance to critically fail and get erroneous information!
+Sometimes succeeding at a particular task requires a character to have a specific proficiency rank in addition to a success on the check. Locks and traps often require a certain proficiency rank to successfully use the Pick a Lock or Disable a Device actions of [Thievery](compendium/skills.md#Thievery). A character whose proficiency rank is lower than what's listed can attempt the check, but they can't succeed. You can apply similar minimum proficiencies to other tasks. You might decide, for example, that a particular arcane theorem requires training in [Arcana](compendium/skills.md#Arcana) to understand. An untrained barbarian can't succeed at the check, but she can still attempt it if she wants—after all, she needs to have a chance to critically fail and get erroneous information!
 
 For checks that require a minimum proficiency, keep the following guidelines in mind. A 2nd-level or lower task should almost never require expert proficiency, a 6th-level or lower task should almost never require master proficiency, and a 14th-level or lower task should almost never require legendary proficiency. If they did, no character of the appropriate level could succeed.
 
@@ -874,7 +874,7 @@ When a character Crafts an item, use the item's level to determine the DC, apply
 
 You set the task level when someone tries to Earn Income.
 
-The highest-level task available is usually the same as the level of the settlement where the character is located. If you don't know the settlement's level, it's usually 0–1 for a village, 2–4 for a town, or 5–7 for a city. A PC might need to travel to a metropolis or capital to find tasks of levels 8-10, and to the largest cities in the world or another plane to routinely find tasks beyond that. Some locations might have higher-level tasks available based on the nature of the settlement. A major port might have higher-level tasks for Sailing Lore, a city with a vibrant arts scene might have higher-level tasks for [Performance](../../compendium/skills.md#Performance), and so on. If someone is trying to use a particularly obscure skill, they might have trouble finding tasks of an ideal level, or any at all—no one in most settlements is clamoring for the expertise of someone with Troll Lore.
+The highest-level task available is usually the same as the level of the settlement where the character is located. If you don't know the settlement's level, it's usually 0–1 for a village, 2–4 for a town, or 5–7 for a city. A PC might need to travel to a metropolis or capital to find tasks of levels 8-10, and to the largest cities in the world or another plane to routinely find tasks beyond that. Some locations might have higher-level tasks available based on the nature of the settlement. A major port might have higher-level tasks for Sailing Lore, a city with a vibrant arts scene might have higher-level tasks for [Performance](compendium/skills.md#Performance), and so on. If someone is trying to use a particularly obscure skill, they might have trouble finding tasks of an ideal level, or any at all—no one in most settlements is clamoring for the expertise of someone with Troll Lore.
 
 Once the PC has decided on a particular level of task from those available, use the DC for that level from Table 10–5. You might adjust the DC to be more difficult if there's inclement weather during an outdoor job, a rowdy audience for a performance, or the like.
 
@@ -886,45 +886,45 @@ To set the DC to Gather Information, use a simple DC representing the availabili
 #### Identify Magic or Learn a Spell
 <sup>CRB p. 505</sup>
 
-The DC to [Identify Magic](../actions/identify-magic.md) or [Learn a Spell](../actions/learn-a-spell.md) is usually the DC listed in Table 10–5 for the spell or item's level, adjusted for its rarity. A very strange item or phenomenon usually uses a higher DC adjustment. For a cursed item or certain illusory items, use an incredibly hard DC to increase the chance of misidentification.
+The DC to [Identify Magic](rules/actions/identify-magic.md) or [Learn a Spell](rules/actions/learn-a-spell.md) is usually the DC listed in Table 10–5 for the spell or item's level, adjusted for its rarity. A very strange item or phenomenon usually uses a higher DC adjustment. For a cursed item or certain illusory items, use an incredibly hard DC to increase the chance of misidentification.
 
 #### Recall Knowledge
 <sup>CRB p. 505</sup>
 
-On most topics, you can use simple DCs for checks to [Recall Knowledge](../actions/recall-knowledge.md). For a check about a specific creature, trap, or other subject with a level, use a level-based DCs (adjusting for rarity as needed). You might adjust the difficulty down, maybe even drastically, if the subject is especially notorious or famed. Knowing simple tales about an infamous dragon's exploits, for example, might be incredibly easy for the dragon's level, or even just a simple trained DC.
+On most topics, you can use simple DCs for checks to [Recall Knowledge](rules/actions/recall-knowledge.md). For a check about a specific creature, trap, or other subject with a level, use a level-based DCs (adjusting for rarity as needed). You might adjust the difficulty down, maybe even drastically, if the subject is especially notorious or famed. Knowing simple tales about an infamous dragon's exploits, for example, might be incredibly easy for the dragon's level, or even just a simple trained DC.
 
 ##### Alternative Skills
 <sup>CRB p. 505</sup>
 
-As noted in the action's description, a character might attempt to [Recall Knowledge](../actions/recall-knowledge.md) using a different skill than the ones listed as the default options. If the skill is highly applicable, like using [Medicine](../../compendium/skills.md#Medicine) to identify a medicinal tonic, you probably don't need to adjust the DC. If its relevance is a stretch, adjust the DC upward as described in Adjusting Difficulty.
+As noted in the action's description, a character might attempt to [Recall Knowledge](rules/actions/recall-knowledge.md) using a different skill than the ones listed as the default options. If the skill is highly applicable, like using [Medicine](compendium/skills.md#Medicine) to identify a medicinal tonic, you probably don't need to adjust the DC. If its relevance is a stretch, adjust the DC upward as described in Adjusting Difficulty.
 
 ##### Additional Knowledge
 <sup>CRB p. 505</sup>
 
-Sometimes a character might want to follow up on a check to [Recall Knowledge](../actions/recall-knowledge.md), rolling another check to discover more information. After a success, further uses of [Recall Knowledge](../actions/recall-knowledge.md) can yield more information, but you should adjust the difficulty to be higher for each attempt. Once a character has attempted an incredibly hard check or failed a check, further attempts are fruitless—the character has recalled everything they know about the subject.
+Sometimes a character might want to follow up on a check to [Recall Knowledge](rules/actions/recall-knowledge.md), rolling another check to discover more information. After a success, further uses of [Recall Knowledge](rules/actions/recall-knowledge.md) can yield more information, but you should adjust the difficulty to be higher for each attempt. Once a character has attempted an incredibly hard check or failed a check, further attempts are fruitless—the character has recalled everything they know about the subject.
 
 ##### Creature Identification
 <sup>CRB p. 505</sup>
 
 A character who successfully identifies a creature learns one of its best-known attributes—such as a troll's regeneration (and the fact that it can be stopped by acid or fire) or a manticore's tail spikes. On a critical success, the character also learns something subtler, like a demon's weakness or the trigger for one of the creature's reactions.
 
-The skill used to identify a creature usually depends on that creature's trait, as shown on Table 10–7, but you have leeway on which skills apply. For instance, hags are humanoids but have a strong connection to occult spells and live outside society, so you might allow a character to use [Occultism](../../compendium/skills.md#Occultism) to identify them without any DC adjustment, while Society is harder. Lore skills can also be used to identify their specific creature. Using the applicable Lore usually has an easy or very easy DC (before adjusting for rarity).
+The skill used to identify a creature usually depends on that creature's trait, as shown on Table 10–7, but you have leeway on which skills apply. For instance, hags are humanoids but have a strong connection to occult spells and live outside society, so you might allow a character to use [Occultism](compendium/skills.md#Occultism) to identify them without any DC adjustment, while Society is harder. Lore skills can also be used to identify their specific creature. Using the applicable Lore usually has an easy or very easy DC (before adjusting for rarity).
 
-![Creature Identification Skills](../tables/creature-identification-skills.md)
+![Creature Identification Skills](rules/tables/creature-identification-skills.md)
 
 > [!pf2-brown] DETERMINING THE SCOPE OF LORE
 > 
-> [Lore](../../compendium/skills.md#Lore) skills are one of the most specialized aspects of Pathfinder, but they require GM oversight, particularly in determining which [Lore](../../compendium/skills.md#Lore) subcategories are acceptable for characters to select. A [Lore](../../compendium/skills.md#Lore) subcategory represents a narrow focus, and thus it shouldn't replace all or even most of an entire skill, nor should it convey vast swaths of information. For example, a single [Lore](../../compendium/skills.md#Lore) subcategory doesn't cover all religions—that's covered by the [Religion](../../compendium/skills.md#Religion) skill—but a character could have a [Lore](../../compendium/skills.md#Lore) subcategory that covers a single deity. One [Lore](../../compendium/skills.md#Lore) subcategory won't cover an entire country or all of history, but it could cover a city, an ancient civilization, or one aspect of a modern country, like Taldan History [Lore](../../compendium/skills.md#Lore). A single [Lore](../../compendium/skills.md#Lore) subcategory couldn't cover the entire multiverse, but it could cover a whole plane other than the Material Plane.
+> [Lore](compendium/skills.md#Lore) skills are one of the most specialized aspects of Pathfinder, but they require GM oversight, particularly in determining which [Lore](compendium/skills.md#Lore) subcategories are acceptable for characters to select. A [Lore](compendium/skills.md#Lore) subcategory represents a narrow focus, and thus it shouldn't replace all or even most of an entire skill, nor should it convey vast swaths of information. For example, a single [Lore](compendium/skills.md#Lore) subcategory doesn't cover all religions—that's covered by the [Religion](compendium/skills.md#Religion) skill—but a character could have a [Lore](compendium/skills.md#Lore) subcategory that covers a single deity. One [Lore](compendium/skills.md#Lore) subcategory won't cover an entire country or all of history, but it could cover a city, an ancient civilization, or one aspect of a modern country, like Taldan History [Lore](compendium/skills.md#Lore). A single [Lore](compendium/skills.md#Lore) subcategory couldn't cover the entire multiverse, but it could cover a whole plane other than the Material Plane.
 
 #### Sense Direction
 <sup>CRB p. 506</sup>
 
-Pick the most appropriate simple DC when someone uses [Survival](../../compendium/skills.md#Survival) to Sense Direction. This is usually the trained DC in normal wilderness, expert in deep forest or underground, master in featureless or tricky locations, or legendary in weird or surreal environments on other planes.
+Pick the most appropriate simple DC when someone uses [Survival](compendium/skills.md#Survival) to Sense Direction. This is usually the trained DC in normal wilderness, expert in deep forest or underground, master in featureless or tricky locations, or legendary in weird or surreal environments on other planes.
 
 #### Social Skills
 <sup>CRB p. 506</sup>
 
-When a character uses [Deception](../../compendium/skills.md#Deception), [Diplomacy](../../compendium/skills.md#Diplomacy), [Intimidation](../../compendium/skills.md#Intimidation), or [Performance](../../compendium/skills.md#Performance) to influence or impress someone whose level or Will DC you don't know, estimate the level of the creature and use that DC. A commoner is usually level 0 or 1. Don't worry about being exact. It often makes sense to adjust the DC based on the target's attitude for [Deception](../../compendium/skills.md#Deception), [Diplomacy](../../compendium/skills.md#Diplomacy), or [Performance](../../compendium/skills.md#Performance), making the DC easy for a friendly creature, very easy for a helpful one, hard for an unfriendly one, or very hard for a hostile one. You might adjust the DC further or differently based on the PC's goal; for instance, the DC to Request something an indifferent NPC is fundamentally opposed to might be incredibly hard or impossible, and it might be easy to convince an unfriendly creature to do something it already wants to do.
+When a character uses [Deception](compendium/skills.md#Deception), [Diplomacy](compendium/skills.md#Diplomacy), [Intimidation](compendium/skills.md#Intimidation), or [Performance](compendium/skills.md#Performance) to influence or impress someone whose level or Will DC you don't know, estimate the level of the creature and use that DC. A commoner is usually level 0 or 1. Don't worry about being exact. It often makes sense to adjust the DC based on the target's attitude for [Deception](compendium/skills.md#Deception), [Diplomacy](compendium/skills.md#Diplomacy), or [Performance](compendium/skills.md#Performance), making the DC easy for a friendly creature, very easy for a helpful one, hard for an unfriendly one, or very hard for a hostile one. You might adjust the DC further or differently based on the PC's goal; for instance, the DC to Request something an indifferent NPC is fundamentally opposed to might be incredibly hard or impossible, and it might be easy to convince an unfriendly creature to do something it already wants to do.
 
 #### Subsist
 <sup>CRB p. 506</sup>
@@ -934,7 +934,7 @@ A simple DC is usually sufficient for the Subsist action, with a trained DC for 
 #### Track
 <sup>CRB p. 506</sup>
 
-Often when a PC uses [Survival](../../compendium/skills.md#Survival) to Track, you can pick a simple DC and adjust it based on the circumstances. For example, an army is usually easy to track, so you could use the untrained DC of 10. If the army marched through mud, you could even adjust this down to DC 5. On the other hand, if the party pursues a cunning survivalist using Cover Tracks, you might use their [Survival](../../compendium/skills.md#Survival) DC as the DC to Track.
+Often when a PC uses [Survival](compendium/skills.md#Survival) to Track, you can pick a simple DC and adjust it based on the circumstances. For example, an army is usually easy to track, so you could use the untrained DC of 10. If the army marched through mud, you could even adjust this down to DC 5. On the other hand, if the party pursues a cunning survivalist using Cover Tracks, you might use their [Survival](compendium/skills.md#Survival) DC as the DC to Track.
 
 #### Train an Animal
 <sup>CRB p. 506</sup>
@@ -981,11 +981,11 @@ Trivial encounters don't normally grant any XP, but you might decide to award th
 ##### Accomplishments
 <sup>CRB p. 507</sup>
 
-Characters' actions that move the story forward—like securing a major alliance, establishing an organization, or causing an NPC to have a change of heart—are considered accomplishments and should be rewarded with XP. Their significance determines the size of the XP award. Determine whether the achievement was a minor, moderate, or major accomplishment, and refer to [Table 10–8: XP Awards](../tables/xp-awards.md) to award an appropriate amount of XP. Minor accomplishments include all sorts of significant, memorable, or surprising moments in the game. A moderate accomplishment typically represents a goal that takes most of a session to complete, and a major accomplishment is usually the culmination of the characters' efforts across many sessions. Moderate and major accomplishments usually come after heroic effort, so that's an ideal time to also give a Hero Point to one or more of the characters involved.
+Characters' actions that move the story forward—like securing a major alliance, establishing an organization, or causing an NPC to have a change of heart—are considered accomplishments and should be rewarded with XP. Their significance determines the size of the XP award. Determine whether the achievement was a minor, moderate, or major accomplishment, and refer to [Table 10–8: XP Awards](rules/tables/xp-awards.md) to award an appropriate amount of XP. Minor accomplishments include all sorts of significant, memorable, or surprising moments in the game. A moderate accomplishment typically represents a goal that takes most of a session to complete, and a major accomplishment is usually the culmination of the characters' efforts across many sessions. Moderate and major accomplishments usually come after heroic effort, so that's an ideal time to also give a Hero Point to one or more of the characters involved.
 
 As mentioned earlier, it's up to you how much XP to give out for accomplishments. As a general guideline, in a given game session, you'll typically give several minor awards, one or two moderate awards, and only one major award, if any.
 
-![XP Awards](../tables/xp-awards.md)
+![XP Awards](rules/tables/xp-awards.md)
 
 #### Party Size
 <sup>CRB p. 508</sup>
@@ -1011,7 +1011,7 @@ This section provides guidelines for distributing treasure in a typical Pathfind
 #### Treasure by Level
 <sup>CRB p. 508</sup>
 
-[Table 10–9: Party Treasure by Level](../tables/party-treasure-by-level.md) on the next page shows how much treasure you should give out over the course of a level for a group of four PCs. The Total Value column gives an approximate total value of all the treasure, in case you want to spend it like a budget. The next several columns provide suggestions for breaking down that total into permanent items, which the PCs keep and use for a long time; consumables, which are destroyed after being used once; and currency, which includes coins, gems, and other valuables primarily spent to acquire items or services. The final column gives the amount of currency to add for each PC beyond four in the group; use this only if you have more than four characters in the game. (Different Party Sizes on page 510 provides more guidance on this.) For instance, between the time your PCs reach 3rd level and the time they reach 4th level, you should give them the treasure listed in the table for 3rd level, worth approximately 500 gp: two 4th-level permanent items, two 3rd-level permanent items, two 4th-level consumables, two 3rd-level consumables, two 2nd-level consumables, and 120 gp worth of currency.
+[Table 10–9: Party Treasure by Level](rules/tables/party-treasure-by-level.md) on the next page shows how much treasure you should give out over the course of a level for a group of four PCs. The Total Value column gives an approximate total value of all the treasure, in case you want to spend it like a budget. The next several columns provide suggestions for breaking down that total into permanent items, which the PCs keep and use for a long time; consumables, which are destroyed after being used once; and currency, which includes coins, gems, and other valuables primarily spent to acquire items or services. The final column gives the amount of currency to add for each PC beyond four in the group; use this only if you have more than four characters in the game. (Different Party Sizes on page 510 provides more guidance on this.) For instance, between the time your PCs reach 3rd level and the time they reach 4th level, you should give them the treasure listed in the table for 3rd level, worth approximately 500 gp: two 4th-level permanent items, two 3rd-level permanent items, two 4th-level consumables, two 3rd-level consumables, two 2nd-level consumables, and 120 gp worth of currency.
 
 When assigning 1st-level permanent items, your best options are armor, weapons, and other gear from Chapter 6 worth between 10 and 20 gp. The treasure listed in the row for 20th level represents a full level's worth of adventures, even though there is no way to reach 21st level.
 
@@ -1050,7 +1050,7 @@ If you include a lower-level permanent item as part of a currency reward, count 
 ##### Other Types of Treasure
 <sup>CRB p. 509</sup>
 
-Not all treasure has to be items or currency. Crafters can use the [Crafting](../../compendium/skills.md#Crafting) skill to turn raw materials directly into items instead of buying those items with coins. Knowledge can expand a character's abilities, and formulas make good treasure for item-crafting characters. A spellcaster might get access to new spells from an enemy's spellbook or an ancient scholar, while a monk might retrain techniques with rarer ones learned from a master on a remote mountaintop.
+Not all treasure has to be items or currency. Crafters can use the [Crafting](compendium/skills.md#Crafting) skill to turn raw materials directly into items instead of buying those items with coins. Knowledge can expand a character's abilities, and formulas make good treasure for item-crafting characters. A spellcaster might get access to new spells from an enemy's spellbook or an ancient scholar, while a monk might retrain techniques with rarer ones learned from a master on a remote mountaintop.
 
 ##### Treasure and Rarity
 <sup>CRB p. 509</sup>
@@ -1059,12 +1059,12 @@ Giving out uncommon and rare items and formulas can get players more interested 
 
 Uncommon and rare formulas make great treasure for a character who Crafts items. Note that if an uncommon or rare formula is broadly disseminated, it eventually becomes more common. This can take months or years, but the item might start showing up in shops all around the world.
 
-![Party Treasure by Level](../tables/party-treasure-by-level.md)
+![Party Treasure by Level](rules/tables/party-treasure-by-level.md)
 
 ##### Different Item Levels
 <sup>CRB p. 510</sup>
 
-The levels listed for items on [Table 10–9: Party Treasure by Level](../tables/party-treasure-by-level.md) aren't set in stone. You can provide items of slightly higher or lower level as long as you take into account the value of the items you hand out. For instance, suppose you were considering giving a party of 11th-level PCs a [runestone](../../compendium/equipment/items/runestone.md) with a [fortification](../../compendium/equipment/items/fortification.md) rune (with a Price of 2,000 gp) as one of their 12th-level items, but you realize they've had trouble finding armor in their recent adventures, so you instead decide to give them a suit of 11th-level +2 resilient armor (1,400 gp) instead. Since the armor has a lower Price than the rune, you might also add a 9th-level [shadow](../../compendium/equipment/items/shadow.md) rune (650 gp) to make up the difference. The total isn't exactly the same, but that's all right.
+The levels listed for items on [Table 10–9: Party Treasure by Level](rules/tables/party-treasure-by-level.md) aren't set in stone. You can provide items of slightly higher or lower level as long as you take into account the value of the items you hand out. For instance, suppose you were considering giving a party of 11th-level PCs a [runestone](compendium/equipment/items/runestone.md) with a [fortification](compendium/equipment/items/fortification.md) rune (with a Price of 2,000 gp) as one of their 12th-level items, but you realize they've had trouble finding armor in their recent adventures, so you instead decide to give them a suit of 11th-level +2 resilient armor (1,400 gp) instead. Since the armor has a lower Price than the rune, you might also add a 9th-level [shadow](compendium/equipment/items/shadow.md) rune (650 gp) to make up the difference. The total isn't exactly the same, but that's all right.
 
 However, if you wanted to place a 13th-level permanent item in a treasure hoard, you could remove two 11thlevel permanent items to make a roughly equivalent exchange. When you make an exchange upward like this, be cautious: not only might you introduce an item with effects that are disruptive at the party's current level of play, but you also might give an amazing item to one PC while other characters don't gain any new items at all!
 
@@ -1101,7 +1101,7 @@ If the party has fewer than four characters, you can subtract the same amount fo
 #### Treasure for New Characters
 <sup>CRB p. 510</sup>
 
-When your new campaign starts at a higher level, a new player joins an existing group, or a current player's character dies and they need a new one, your campaign will have one or more PCs who don't start at 1st level. In these cases, refer to [Table 10–10: Character Wealth](../tables/character-wealth.md) on the next page, which shows how many common permanent items of various levels the PC should have, in addition to currency. A single item on this table is always a baseline item. If the player wants armor or a weapon with property runes, they must buy the property runes separately, and for armor or a weapon made of a precious material, they must pay for the precious material separately as well.
+When your new campaign starts at a higher level, a new player joins an existing group, or a current player's character dies and they need a new one, your campaign will have one or more PCs who don't start at 1st level. In these cases, refer to [Table 10–10: Character Wealth](rules/tables/character-wealth.md) on the next page, which shows how many common permanent items of various levels the PC should have, in addition to currency. A single item on this table is always a baseline item. If the player wants armor or a weapon with property runes, they must buy the property runes separately, and for armor or a weapon made of a precious material, they must pay for the precious material separately as well.
 
 These values are for a PC just starting out at the given level. If the PC is joining a party that has already made progress toward the next level, consider giving the new character an additional item of their current level. If your party has kept the treasure of dead or retired PCs and passed it on to new characters, you might need to give the new character less than the values on the table or reduce some of the treasure rewards of the next few adventures.
 
@@ -1116,7 +1116,7 @@ A PC can voluntarily choose an item that has a lower level than any or all of th
 
 If you choose, you can allow the player to instead start with a lump sum of currency and buy whatever common items they want, with a maximum item level of 1 lower than the character's level. This has a lower total value than the normal allotment of permanent items and currency, since the player can select a higher ratio of high-level items.
 
-![Character Wealth](../tables/character-wealth.md)
+![Character Wealth](rules/tables/character-wealth.md)
 
 #### Buying and Selling Items
 <sup>CRB p. 511</sup>
@@ -1130,7 +1130,7 @@ Each of the environments presented in this section uses the terrain rules (which
 
 Table 10–12 lists the features of various environments alphabetically for quick reference. The Proficiency DC Band entry indicates a range of appropriate simple DCs for that environmental feature, while also providing a rough estimate of the danger or complexity of the feature.
 
-![Enviromental Features](../tables/enviromental-features.md)
+![Enviromental Features](rules/tables/enviromental-features.md)
 
 ### Environmental Damage
 <sup>CRB p. 512</sup>
@@ -1139,12 +1139,12 @@ Some environmental features or natural disasters deal damage. Because the amount
 
 Use Table 10–11 below to determine damage from an environment or natural disaster. When deciding the exact damage amount, use your best judgment based on how extreme you deem the danger to be.
 
-![Enviromental Damage](../tables/enviromental-damage.md)
+![Enviromental Damage](rules/tables/enviromental-damage.md)
 
 ### Aquatic
 <sup>CRB p. 512</sup>
 
-Aquatic environments are among the most challenging for PCs short of other worlds and unusual planes. PCs in an aquatic environment need a way to breathe (typically a [water breathing](../../compendium/spells/water-breathing.md) spell) and must usually [Swim](../actions/swim.md) to move, though a PC who sinks to the bottom can walk awkwardly, using the rules for greater difficult terrain.
+Aquatic environments are among the most challenging for PCs short of other worlds and unusual planes. PCs in an aquatic environment need a way to breathe (typically a [water breathing](compendium/spells/water-breathing.md) spell) and must usually [Swim](rules/actions/swim.md) to move, though a PC who sinks to the bottom can walk awkwardly, using the rules for greater difficult terrain.
 
 Characters in aquatic environments make frequent use of the aquatic combat and drowning and suffocation rules.
 
@@ -1198,7 +1198,7 @@ These diverse environments include jungles and other wooded areas. They are some
 #### Canopies
 <sup>CRB p. 513</sup>
 
-Particularly dense forests, such as rain forests, have a canopy level above the ground. A creature trying to reach the canopy or travel along it must Climb. Swinging on vines and branches usually requires an [Acrobatics](../../compendium/skills.md#Acrobatics) or [Athletics](../../compendium/skills.md#Athletics) check. A canopy provides cover, and a thicker one can prevent creatures in the canopy from seeing those on the ground, and vice versa.
+Particularly dense forests, such as rain forests, have a canopy level above the ground. A creature trying to reach the canopy or travel along it must Climb. Swinging on vines and branches usually requires an [Acrobatics](compendium/skills.md#Acrobatics) or [Athletics](compendium/skills.md#Athletics) check. A canopy provides cover, and a thicker one can prevent creatures in the canopy from seeing those on the ground, and vice versa.
 
 #### Trees
 <sup>CRB p. 513</sup>
@@ -1223,7 +1223,7 @@ Chasms are natural pits, typically at least 20 feet long and clearly visible (ba
 #### Cliffs
 <sup>CRB p. 513</sup>
 
-Cliffs and rock walls require creatures to [Climb](../actions/climb.md) to ascend or descend. Without extensive safety precautions, a critical failure can result in significant falling damage.
+Cliffs and rock walls require creatures to [Climb](rules/actions/climb.md) to ascend or descend. Without extensive safety precautions, a critical failure can result in significant falling damage.
 
 #### Rubble
 <sup>CRB p. 513</sup>
@@ -1300,14 +1300,14 @@ Urban environments include open city spaces as well as buildings. The building i
 #### Crowds
 <sup>CRB p. 514</sup>
 
-Crowded thoroughfares and similar areas are difficult terrain, or greater difficult terrain if an area is truly packed with people. You might allow a character to get a crowd to part using [Diplomacy](../../compendium/skills.md#Diplomacy), [Intimidation](../../compendium/skills.md#Intimidation), or [Performance](../../compendium/skills.md#Performance).
+Crowded thoroughfares and similar areas are difficult terrain, or greater difficult terrain if an area is truly packed with people. You might allow a character to get a crowd to part using [Diplomacy](compendium/skills.md#Diplomacy), [Intimidation](compendium/skills.md#Intimidation), or [Performance](compendium/skills.md#Performance).
 
 A crowd exposed to an obvious danger, like a fire or a rampaging monster, attempts to move away from the danger as quickly as possible, but it is slowed by its own mass. A fleeing crowd typically moves at the Speed of an average member each round (usually 25 feet), potentially trampling or leaving behind slower-moving members of the crowd.
 
 #### Doors
 <sup>CRB p. 515</sup>
 
-Opening an unlocked door requires an Interact action (or more than one for a particularly complicated or large door). Stuck doors must be Forced Open, and locked ones require a character to Pick the Lock or Force them Open.
+Opening an unlocked door requires an Interact action (or more than one for a particularly complicated or large door). Stuck doors must be Forced Open, and locked ones require a character to [Pick the Lock](rules/actions/pick-a-lock.md) or Force them Open.
 
 #### Floors
 <sup>CRB p. 515</sup>
@@ -1336,7 +1336,7 @@ A portcullis is a wooden or iron grate that descends to seal off a gate or corri
 > ### Climbing
 > <sup>CRB p. 515</sup>
 > 
-> The table below gives the typical DC for [Athletics](../../compendium/skills.md#Athletics) checks to Climb a structure, which is usually a simple DC. You might adjust the difficulty based on the specifics of the structure and environment.
+> The table below gives the typical DC for [Athletics](compendium/skills.md#Athletics) checks to Climb a structure, which is usually a simple DC. You might adjust the difficulty based on the specifics of the structure and environment.
 > 
 > ### Demolishing
 > <sup>CRB p. 515</sup>
@@ -1364,7 +1364,7 @@ A portcullis is a wooden or iron grate that descends to seal off a gate or corri
 > ### Forcing Open
 > <sup>CRB p. 515</sup>
 > 
-> Structures that can be opened—such as doors, gates, and windows—can be Forced Open using [Athletics](../../compendium/skills.md#Athletics). This is usually necessary only if they're locked or stuck. The DC to Force Open a structure uses the [Thievery](../../compendium/skills.md#Thievery) DC of its lock but adjusts it to be very hard (increasing the DC by 5).
+> Structures that can be opened—such as doors, gates, and windows—can be Forced Open using [Athletics](compendium/skills.md#Athletics). This is usually necessary only if they're locked or stuck. The DC to Force Open a structure uses the [Thievery](compendium/skills.md#Thievery) DC of its lock but adjusts it to be very hard (increasing the DC by 5).
 > 
 > If there's no lock, use the following table; when lifting a portcullis, use the lock DC or the DC from the table, whichever is higher.
 
@@ -1419,7 +1419,7 @@ Natural underground environments rarely have flat floors, instead featuring abru
 #### Ledges
 <sup>CRB p. 516</sup>
 
-Ledges are narrow surfaces that overlook a lower area or provide the only means to move along the edge of a chasm. Moving across a narrow ledge requires using [Acrobatics](../../compendium/skills.md#Acrobatics) to Balance.
+Ledges are narrow surfaces that overlook a lower area or provide the only means to move along the edge of a chasm. Moving across a narrow ledge requires using [Acrobatics](compendium/skills.md#Acrobatics) to Balance.
 
 #### Rubble
 <sup>CRB p. 516</sup>
@@ -1448,7 +1448,7 @@ Weather is more than just set dressing to establish mood—it has mechanical eff
 #### Fog
 <sup>CRB p. 517</sup>
 
-Fog imposes a circumstance penalty to visual [Perception](../../compendium/skills.md#Perception) checks, depending on the thickness; it causes creatures viewed through significant amounts of fog to be concealed; and it cuts off all visibility at half a mile or less—possibly much less. Conditions limiting visibility to about a mile are called mist, and those that do so to about 3 miles are called haze.
+Fog imposes a circumstance penalty to visual [Perception](compendium/skills.md#Perception) checks, depending on the thickness; it causes creatures viewed through significant amounts of fog to be concealed; and it cuts off all visibility at half a mile or less—possibly much less. Conditions limiting visibility to about a mile are called mist, and those that do so to about 3 miles are called haze.
 
 #### Precipitation
 <sup>CRB p. 517</sup>
@@ -1458,7 +1458,7 @@ Precipitation includes rain as well as colder snow, sleet, and hail. Wet precipi
 ##### Visibility
 <sup>CRB p. 517</sup>
 
-Most forms of precipitation impose circumstance penalties on visual [Perception](../../compendium/skills.md#Perception) checks. Hail often is sparser but loud, instead penalizing auditory [Perception](../../compendium/skills.md#Perception) checks.
+Most forms of precipitation impose circumstance penalties on visual [Perception](compendium/skills.md#Perception) checks. Hail often is sparser but loud, instead penalizing auditory [Perception](compendium/skills.md#Perception) checks.
 
 Especially heavy precipitation, such as a downpour of rain or heavy snow, might make creatures concealed if they're far away.
 
@@ -1481,12 +1481,12 @@ Particularly hot and cold weather can make creatures fatigued more quickly durin
 
 Appropriate cold-weather gear (such as the winter clothing) can negate the damage from severe cold or reduce the damage from extreme cold to that of particularly severe cold.
 
-![Temperature Effects](../tables/temperature-effects.md)
+![Temperature Effects](rules/tables/temperature-effects.md)
 
 #### Wind
 <sup>CRB p. 517</sup>
 
-Wind imposes a circumstance penalty on auditory [Perception](../../compendium/skills.md#Perception) checks depending on its strength. It also interferes with physical ranged attacks such as arrows, imposing a circumstance penalty to attack rolls involving such weapons, and potentially making attacks with them impossible in powerful windstorms. Wind snuffs out handheld flames; lanterns protect their flame from the wind, but particularly powerful winds can extinguish these as well.
+Wind imposes a circumstance penalty on auditory [Perception](compendium/skills.md#Perception) checks depending on its strength. It also interferes with physical ranged attacks such as arrows, imposing a circumstance penalty to attack rolls involving such weapons, and potentially making attacks with them impossible in powerful windstorms. Wind snuffs out handheld flames; lanterns protect their flame from the wind, but particularly powerful winds can extinguish these as well.
 
 ##### Moving in Wind
 <sup>CRB p. 517</sup>
@@ -1495,7 +1495,7 @@ Wind is difficult or greater difficult terrain when Flying.
 
 Moving in wind of sufficient strength requires a Maneuver in Flight action, and fliers are blown away on a critical failure or if they don't succeed at a minimum of one such check each round.
 
-Even on the ground, particularly strong winds might require a creature to succeed at an [Athletics](../../compendium/skills.md#Athletics) check to move, knocking the creature back and prone on a critical failure. On such checks, Small creatures typically take a –1 circumstance penalty, and Tiny creatures typically take a –2 penalty.
+Even on the ground, particularly strong winds might require a creature to succeed at an [Athletics](compendium/skills.md#Athletics) check to move, knocking the creature back and prone on a critical failure. On such checks, Small creatures typically take a –1 circumstance penalty, and Tiny creatures typically take a –2 penalty.
 
 ### Natural Disasters
 <sup>CRB p. 518</sup>
@@ -1516,7 +1516,7 @@ An avalanche deals major or even massive bludgeoning damage to creatures and obj
 
 Buried creatures take minor bludgeoning damage each minute, and they potentially take minor cold damage if buried under an avalanche of snow. At the GM's discretion, creatures without a sufficient air pocket could also risk suffocation (page 478). A buried creature is restrained and usually can't free itself.
 
-Allies or bystanders can attempt to dig out a buried creature. Each creature digging clears roughly a 5-footby- 5-foot square every 4 minutes with a successful [Athletics](../../compendium/skills.md#Athletics) check (or every 2 minutes on a critical success).
+Allies or bystanders can attempt to dig out a buried creature. Each creature digging clears roughly a 5-footby- 5-foot square every 4 minutes with a successful [Athletics](compendium/skills.md#Athletics) check (or every 2 minutes on a critical success).
 
 Using shovels or other proper tools halves the time.
 
@@ -1543,7 +1543,7 @@ Fissures and other ground ruptures can destabilize structures, but more directly
 ##### Soil Liquefaction
 <sup>CRB p. 518</sup>
 
-Liquefaction occurs when granular particles shake to the point where they temporarily lose their solid form and act as liquids. When this happens to soil, it can cause creatures and even whole buildings to sink into the ground. You can use the [earthquake](../../compendium/spells/earthquake.md) spell for more specific rules, though that spell represents only one particular kind of localized quake.
+Liquefaction occurs when granular particles shake to the point where they temporarily lose their solid form and act as liquids. When this happens to soil, it can cause creatures and even whole buildings to sink into the ground. You can use the [earthquake](compendium/spells/earthquake.md) spell for more specific rules, though that spell represents only one particular kind of localized quake.
 
 ##### Tremors
 <sup>CRB p. 518</sup>
@@ -1555,7 +1555,7 @@ Tremors knock creatures prone, causing them to fall or careen into other objects
 
 Though more gradual floods can damage structures and drown creatures, flash floods are similar to avalanches, except with a liquid mass instead of a solid one. Instead of burying creatures, a flash flood carries creatures and even massive objects away, buffeting the creatures and potentially drowning them. The drowning rules appear on page 478.
 
-![Temperature Effects](../tables/temperature-effects.md)
+![Temperature Effects](rules/tables/temperature-effects.md)
 
 #### Sandstorms
 <sup>CRB p. 519</sup>
@@ -1624,7 +1624,7 @@ Wildfires increase the temperature in advance of the front, reaching nearly 1,50
 ##### Smoke
 <sup>CRB p. 519</sup>
 
-Wind can carry smoke far in front of the wildfire itself. Smoke imposes a circumstance penalty to visual [Perception](../../compendium/skills.md#Perception) checks, depending on the thickness. It causes creatures viewed through significant amounts of smoke to be concealed, and it cuts off all visibility at half a mile or less. Near or within the wildfire, the combination of smoke and heated air require characters to hold their breath or suffocate (page 478).
+Wind can carry smoke far in front of the wildfire itself. Smoke imposes a circumstance penalty to visual [Perception](compendium/skills.md#Perception) checks, depending on the thickness. It causes creatures viewed through significant amounts of smoke to be concealed, and it cuts off all visibility at half a mile or less. Near or within the wildfire, the combination of smoke and heated air require characters to hold their breath or suffocate (page 478).
 
 ## Hazards
 <sup>CRB p. 520</sup>
@@ -1634,11 +1634,11 @@ Wind can carry smoke far in front of the wildfire itself. Smoke imposes a circum
 
 Every hazard has a trigger of some kind that sets its dangers in motion. For traps, this could be a mechanism like a trip wire or a pressure plate, while for an environmental hazard or haunt, the trigger may simply be proximity. When characters approach a hazard, they have a chance of finding the trigger area or mechanism before triggering the hazard. They automatically receive a check to detect hazards unless the hazards require a minimum proficiency rank to do so.
 
-During exploration, determine whether the party detects a hazard when the PCs first enter the general area in which it appears. If the hazard doesn't list a minimum proficiency rank, roll a secret Perception check against the hazard's [Stealth](../../compendium/skills.md#Stealth) DC for each PC. For hazards with a minimum proficiency rank, roll only if someone is actively searching (using the Search activity while exploring or the [Seek](../actions/seek.md) action in an encounter), and only if they have the listed proficiency rank or higher. Anyone who succeeds becomes aware of the hazard, and you can describe what they notice.
+During exploration, determine whether the party detects a hazard when the PCs first enter the general area in which it appears. If the hazard doesn't list a minimum proficiency rank, roll a secret Perception check against the hazard's [Stealth](compendium/skills.md#Stealth) DC for each PC. For hazards with a minimum proficiency rank, roll only if someone is actively searching (using the Search activity while exploring or the [Seek](rules/actions/seek.md) action in an encounter), and only if they have the listed proficiency rank or higher. Anyone who succeeds becomes aware of the hazard, and you can describe what they notice.
 
-Magical hazards that don't have a minimum proficiency rank can be found using [detect magic](../../compendium/spells/detect-magic.md), but this spell doesn't provide enough information to understand or disable the hazard—it only reveals the hazard's presence.
+Magical hazards that don't have a minimum proficiency rank can be found using [detect magic](compendium/spells/detect-magic.md), but this spell doesn't provide enough information to understand or disable the hazard—it only reveals the hazard's presence.
 
-Determining a magical hazard's properties thoroughly enough to disable it requires either the use of more powerful magic or a successful skill check, likely using [Identify Magic](../actions/identify-magic.md) or [Recall Knowledge](../actions/recall-knowledge.md). Magical hazards with a minimum proficiency rank cannot be found with [detect magic](../../compendium/spells/detect-magic.md) at all.
+Determining a magical hazard's properties thoroughly enough to disable it requires either the use of more powerful magic or a successful skill check, likely using [Identify Magic](rules/actions/identify-magic.md) or [Recall Knowledge](rules/actions/recall-knowledge.md). Magical hazards with a minimum proficiency rank cannot be found with [detect magic](compendium/spells/detect-magic.md) at all.
 
 ### Triggering a Hazard
 <sup>CRB p. 520</sup>
@@ -1653,7 +1653,7 @@ Most hazards have reactions that occur when they're triggered. For simple hazard
 #### Routine
 <sup>CRB p. 520</sup>
 
-A complex hazard usually follows a set of preprogrammed actions called a routine. Once triggered, the hazard first performs its initial reaction; then, if the PCs are not yet in encounter mode, they should roll initiative. (If they're already in encounter mode, their initiative remains the same.) The hazard might tell you to roll initiative for it—in this case, the hazard rolls initiative using its [Stealth](../../compendium/skills.md#Stealth) modifier.
+A complex hazard usually follows a set of preprogrammed actions called a routine. Once triggered, the hazard first performs its initial reaction; then, if the PCs are not yet in encounter mode, they should roll initiative. (If they're already in encounter mode, their initiative remains the same.) The hazard might tell you to roll initiative for it—in this case, the hazard rolls initiative using its [Stealth](compendium/skills.md#Stealth) modifier.
 
 After this happens, the hazard follows its routine each round on its initiative. The number of actions a hazard can take each round, as well as what they can be used for, depend on the hazard.
 
@@ -1661,7 +1661,7 @@ After this happens, the hazard follows its routine each round on its initiative.
 > 
 > The statistics for NPCs and monsters usually don't list their proficiency ranks. Most of the time, they don't need to deal with detecting or disabling hazards the way PCs do, so you don't need this information. However, if a PC resets a trap in a monster's path or plans to lure a monster into a hazard, you can improvise this information.
 > 
-> For Perception, a monster is usually an expert at 3rd or 4th level, a master at 8th or 9th level, and legendary at 16th or 17th level. If the monster has [Thievery](../../compendium/skills.md#Thievery) listed in its skills, it has the highest proficiency possible for its level (trained at 1st, expert at 3rd, master at 7th, and legendary at 15th); otherwise, it's untrained. Of course, an individual monster might deviate from these guidelines, especially if it's mindless or not very perceptive.
+> For Perception, a monster is usually an expert at 3rd or 4th level, a master at 8th or 9th level, and legendary at 16th or 17th level. If the monster has [Thievery](compendium/skills.md#Thievery) listed in its skills, it has the highest proficiency possible for its level (trained at 1st, expert at 3rd, master at 7th, and legendary at 15th); otherwise, it's untrained. Of course, an individual monster might deviate from these guidelines, especially if it's mindless or not very perceptive.
 
 #### Resetting a Hazard
 <sup>CRB p. 520</sup>
@@ -1671,7 +1671,7 @@ Some hazards can be reset, allowing them to be triggered again. This can occur a
 ### Disabling a Hazard
 <sup>CRB p. 521</sup>
 
-The most versatile method for deactivating traps is the Disable a Device action of the [Thievery](../../compendium/skills.md#Thievery) skill, though most mechanical traps can also simply be smashed, and magical traps can usually be counteracted. Environmental hazards often can be overcome with [Nature](../../compendium/skills.md#Nature) or [Survival](../../compendium/skills.md#Survival), and haunts can often be overcome with [Occultism](../../compendium/skills.md#Occultism) or [Religion](../../compendium/skills.md#Religion). The specific skill and DC required to disable a hazard are listed in the hazard's stat block. Like using Disable a Device, using these skills to disable a trap is a 2-action activity with the same degrees of success, though the activity might have different traits determined by the GM. As with detecting a hazard, disabling a hazard might require a character to have a certain proficiency rank in the listed skill.
+The most versatile method for deactivating traps is the Disable a Device action of the [Thievery](compendium/skills.md#Thievery) skill, though most mechanical traps can also simply be smashed, and magical traps can usually be counteracted. Environmental hazards often can be overcome with [Nature](compendium/skills.md#Nature) or [Survival](compendium/skills.md#Survival), and haunts can often be overcome with [Occultism](compendium/skills.md#Occultism) or [Religion](compendium/skills.md#Religion). The specific skill and DC required to disable a hazard are listed in the hazard's stat block. Like using Disable a Device, using these skills to disable a trap is a 2-action activity with the same degrees of success, though the activity might have different traits determined by the GM. As with detecting a hazard, disabling a hazard might require a character to have a certain proficiency rank in the listed skill.
 
 A character must first detect a hazard (or have it pointed out to them) to try to deactivate it. They can attempt to deactivate a hazard whether or not it has already been triggered, though some hazards no longer pose a danger once their reactions have occurred, especially if there is no way for them to be reset.
 
@@ -1701,14 +1701,14 @@ You might allow a character to repair a damaged hazard to restore its functional
 #### Counteracting a Magical Hazard
 <sup>CRB p. 521</sup>
 
-Some magical hazards can be counteracted using [dispel magic](../../compendium/spells/dispel-magic.md) and the counteracting rules found on page 458. These hazards' spell levels and counteract DCs are listed in their stat block. Counteracting a hazard otherwise works like using a skill check to disable the hazard.
+Some magical hazards can be counteracted using [dispel magic](compendium/spells/dispel-magic.md) and the counteracting rules found on page 458. These hazards' spell levels and counteract DCs are listed in their stat block. Counteracting a hazard otherwise works like using a skill check to disable the hazard.
 
 ### Hazard Experience
 <sup>CRB p. 521</sup>
 
 Characters gain Experience Points for overcoming a hazard, whether they disable it, avoid it, or simply endure its attacks. If they trigger the same hazard later on, they don't gain XP for the hazard again. The XP values for hazards of different levels also appear on page 508, but are repeated here for convenience. The XP for a complex hazard is equal to the XP for a monster of the same level, and the XP for a simple hazard is one-fifth of that. Hazards of a lower level than the party's level –4 are trivial and award no XP.
 
-![Hazard XP](../tables/hazard-xp.md)
+![Hazard XP](rules/tables/hazard-xp.md)
 
 ### Hazard Format
 <sup>CRB p. 522</sup>
@@ -1719,7 +1719,7 @@ Hazards are presented in a stat block format similar to those used for monsters.
 title: Hazard Name *Hazard  [Level]*
 traits  
 
-This entry lists the [Stealth](../../../compendium/skills.md#Stealth) modifier for a complex hazard's initiative or the [Stealth](../../../compendium/skills.md#Stealth) DC to detect a simple hazard, followed by the minimum proficiency rank to detect the hazard (if any) in parentheses. If [detect magic](../../../compendium/spells/detect-magic.md) can be used to detect the hazard, this information is located here as well.
+This entry lists the [Stealth](compendium/skills.md#Stealth) modifier for a complex hazard's initiative or the [Stealth](compendium/skills.md#Stealth) DC to detect a simple hazard, followed by the minimum proficiency rank to detect the hazard (if any) in parentheses. If [detect magic](compendium/spells/detect-magic.md) can be used to detect the hazard, this information is located here as well.
 
 This explains what the hazard looks like and might include special rules.
 
@@ -1765,7 +1765,7 @@ The most notable hazard traits are trap (constructed to harm intruders), environ
 #### Stealth or Stealth DC
 <sup>CRB p. 522</sup>
 
-Complex hazards list their [Stealth](../../compendium/skills.md#Stealth) modifier, which they use for initiative, instead of their [Stealth](../../compendium/skills.md#Stealth) DC. If you need the DC, it's equal to this modifier + 10.
+Complex hazards list their [Stealth](compendium/skills.md#Stealth) modifier, which they use for initiative, instead of their [Stealth](compendium/skills.md#Stealth) DC. If you need the DC, it's equal to this modifier + 10.
 
 ### Hazards
 <sup>CRB p. 526</sup>
@@ -1777,4 +1777,4 @@ Complex hazards list their [Stealth](../../compendium/skills.md#Stealth) modifie
 > 
 > You can make a summoning rune of nearly any level. It summons a creature of a level equal to the trap's level.
 > 
-> Use [Table 10–5: DCs by Level](../tables/dcs-by-level.md) to determine the [Thievery](../../compendium/skills.md#Thievery) DC and spell DC, using the trap's level and applying a [hard adjustment](../tables/dc-adjustments.md) (+2). The [Stealth](../../compendium/skills.md#Stealth) modifier for the trap is equal to this number –10. Stronger summoning runes usually require expert proficiency or better in [Perception](../../compendium/skills.md#Perception) to find, and they might require a higher proficiency rank in [Thievery](../../compendium/skills.md#Thievery) to disable.
+> Use [Table 10–5: DCs by Level](rules/tables/dcs-by-level.md) to determine the [Thievery](compendium/skills.md#Thievery) DC and spell DC, using the trap's level and applying a [hard adjustment](rules/tables/dc-adjustments.md) (+2). The [Stealth](compendium/skills.md#Stealth) modifier for the trap is equal to this number –10. Stronger summoning runes usually require expert proficiency or better in [Perception](compendium/skills.md#Perception) to find, and they might require a higher proficiency rank in [Thievery](compendium/skills.md#Thievery) to disable.

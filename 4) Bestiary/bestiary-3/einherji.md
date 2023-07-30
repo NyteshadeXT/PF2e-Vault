@@ -1,4 +1,5 @@
 ---
+obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Einherji"
 tags: 
@@ -67,7 +68,7 @@ attacks:
 
 spellcasting:
   - name: "Champion Devotion Spells"
-    desc: "DC 29, (2 Focus Points); __1st__ [[weapon surge]]; __4th__ [[word of freedom]];"
+    desc: "DC 29, (2 Focus Points); __1st__ [[weapon-surge|weapon surge]]; __4th__ [[word-of-freedom|word of freedom]];"
 sourcebook: "_Bestiary 3_, page 89."
 ```
 

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/crb
-aliases: ["Chapter 8: The Age of Lost Omens"]
+aliases: ["chapter-8-the-age-of-lost-omens"]
 ---
 # Chapter 8: The Age of Lost Omens
 <sup>CRB p. 417</sup>
@@ -78,7 +78,7 @@ These languages are uncommon outside the region of their genesis. A character ha
 
 Nearly every language listed here is spoken on the melting-pot streets of Absalom.
 
-![Regional Languages](../tables/regional-languages.md)
+![Regional Languages](rules/tables/regional-languages.md)
 
 ## Creatures
 <sup>CRB p. 433</sup>
@@ -196,4 +196,4 @@ Of course, faith can express itself in more ways than venerating a single deityâ
 
 The following domains are used by the primary deities of Golarion, as listed on pages 437â€“440.
 
-![Domains](../tables/domains.md)
+![Domains](rules/tables/domains.md)

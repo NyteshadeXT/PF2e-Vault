@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-ability
 aliases: ["Push"]
 ---
-# Push [>](../core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+# Push [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 
 - **Requirements**: The monster's last action was a success with a Strike that lists Push in its damage entry.
 

@@ -1,4 +1,5 @@
 ---
+obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Nagaji Soldier"
 tags: 
@@ -56,7 +57,7 @@ attacks:
   - name: Melee
     desc: "⬻ ranseur +10 ([[disarm]], [[reach|reach 10 feet]]); __Damage__ 1d10+4 (1d10+4) piercing"
   - name: Ranged
-    desc: "⬻ longbow +7 ([[deadly|deadly d10]], [[range increment|range increment 100 feet]], [[volley|volley 30 feet]]); __Damage__ 1d8 (1d8) piercing"
+    desc: "⬻ longbow +7 ([[deadly|deadly d10]], [[range-increment|range increment 100 feet]], [[volley|volley 30 feet]]); __Damage__ 1d8 (1d8) piercing"
 
 sourcebook: "_Bestiary 3_, page 182."
 ```

@@ -9,11 +9,11 @@ Many proteans can inflict disorienting alterations in time and space called warp
 
 | `D8` | Warpwave Effect |
 |------|-----------------|
-| 1 | [Clumsy](../conditions.md#Clumsy) ([clumsy](../conditions.md#Clumsy) on a critical failure) |
-| 2 | [Confused](../conditions.md#Confused) and gains `4d6` temporary Hit Points |
-| 3 | [Dazzled](../conditions.md#Dazzled) (permanent on a critical failure) |
-| 4 | [Enfeebled](../conditions.md#Enfeebled) (3 on a critical failure) |
-| 5 | [Immobilized](../conditions.md#Immobilized) by filaments of energy |
-| 6 | [Quickened](../conditions.md#Quickened) ([Stride](../actions/stride.md), [Strike](../actions/strike.md), or [Step](../actions/step.md) only) |
-| 7 | [Slowed](../conditions.md#Slowed) |
-| 8 | [Stupefied](../conditions.md#Stupefied) (3 on a critical failure) |
+| 1 | [Clumsy](rules/conditions.md#Clumsy) ([clumsy](rules/conditions.md#Clumsy) on a critical failure) |
+| 2 | [Confused](rules/conditions.md#Confused) and gains `4d6` temporary Hit Points |
+| 3 | [Dazzled](rules/conditions.md#Dazzled) (permanent on a critical failure) |
+| 4 | [Enfeebled](rules/conditions.md#Enfeebled) (3 on a critical failure) |
+| 5 | [Immobilized](rules/conditions.md#Immobilized) by filaments of energy |
+| 6 | [Quickened](rules/conditions.md#Quickened) ([Stride](rules/actions/stride.md), [Strike](rules/actions/strike.md), or [Step](rules/actions/step.md) only) |
+| 7 | [Slowed](rules/conditions.md#Slowed) |
+| 8 | [Stupefied](rules/conditions.md#Stupefied) (3 on a critical failure) |

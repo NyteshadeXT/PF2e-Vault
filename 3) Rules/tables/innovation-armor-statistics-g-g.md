@@ -10,5 +10,5 @@ aliases: ["Innovation Armor Statistics"]
 
 | Medium Armor | AC Bonus | Dex Cap | Check Penalty | Speed Penalty | Strength | Bulk | Group | Armor Traits |
 |--------------|----------|---------|---------------|---------------|----------|------|-------|--------------|
-| [Power Suit](../../compendium/equipment/items/power-suit-g-g.md) | +4 | +1 | -2 | -5 feet | 16 | 2 | composite | — |
-| [Subterfuge Suit](../../compendium/equipment/items/subterfuge-suit-g-g.md) | +1 | +4 | -1 | — | 10 | 1 | composite | — |
+| [Power Suit](compendium/equipment/items/power-suit-g-g.md) | +4 | +1 | -2 | -5 feet | 16 | 2 | composite | — |
+| [Subterfuge Suit](compendium/equipment/items/subterfuge-suit-g-g.md) | +1 | +4 | -1 | — | 10 | 1 | composite | — |

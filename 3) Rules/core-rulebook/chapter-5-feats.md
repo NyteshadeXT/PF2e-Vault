@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/crb
-aliases: ["Chapter 5: Feats"]
+aliases: ["chapter-5-feats"]
 ---
 # Chapter 5: Feats
 <sup>CRB p. 255</sup>
@@ -15,6 +15,6 @@ General feats also include a subcategory of skill feats, which expand on what yo
 > [!pf2-note]
 > Please visit the feats page to view all feats.
 
-![General Feats](../tables/general-feats.md)
+![General Feats](rules/tables/general-feats.md)
 
-![General Skill Feats](../tables/general-skill-feats.md)
+![General Skill Feats](rules/tables/general-skill-feats.md)

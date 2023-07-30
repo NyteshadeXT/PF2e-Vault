@@ -1,4 +1,5 @@
 ---
+obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Animated Furnace"
 tags: 
@@ -52,7 +53,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ door +21 ([[magical]]); __Damage__ 2d12+9 (2d12+9) bludgeoning plus 1d8 (1d8) fire and [[Improved Grab]]"
+    desc: "⬻ door +21 ([[magical]]); __Damage__ 2d12+9 (2d12+9) bludgeoning plus 1d8 (1d8) fire and [[Improved-Grab|Improved Grab]]"
 
 sourcebook: "_Bestiary 3_, page 18."
 ```

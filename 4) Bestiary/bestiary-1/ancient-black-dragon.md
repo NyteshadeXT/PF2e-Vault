@@ -1,4 +1,5 @@
 ---
+obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Ancient Black Dragon"
 tags: 
@@ -61,7 +62,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +33 ([[acid]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 3d10+14 (3d10+14) piercing plus 2d6 (2d6) acid and 2d6 (2d6) [[persistent damage|persistent acid]]"
+    desc: "⬻ jaws +33 ([[acid]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 3d10+14 (3d10+14) piercing plus 2d6 (2d6) acid and 2d6 (2d6) [[rules/conditions.md#Persistent%20Damage|persistent acid]]"
   - name: Melee
     desc: "⬻ claw +33 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 3d8+14 (3d8+14) slashing"
   - name: Melee

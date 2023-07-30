@@ -8,12 +8,12 @@ tags:
 aliases: ["Gossip"]
 ---
 # Gossip
-[downtime](../traits/downtime.md)  [secret](../traits/secret.md)  
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 *Source: Gamemastery Guide p. 163*  
 
 **Variant Rule** Infiltration
 
-You seek out rumors about the infiltration's target. Attempt a normal, hard, or very hard [Diplomacy](../../compendium/skills.md#Diplomacy) check.
+You seek out rumors about the infiltration's target. Attempt a normal, hard, or very hard [Diplomacy](compendium/skills.md#Diplomacy) check.
 
 > [!success-degree] 
 > - **Critical Success** You gain inside information about the location or group you're trying to infiltrate. This grants you a +2 circumstance bonus to future checks you attempt for preparation activities for this infiltration. If you share this information, those you share it with also gain this bonus.

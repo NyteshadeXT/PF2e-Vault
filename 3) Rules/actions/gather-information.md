@@ -9,10 +9,10 @@ tags:
 aliases: ["Gather Information"]
 ---
 # Gather Information (basic)
-[exploration](../traits/exploration.md)  [secret](../traits/secret.md)  
+[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 *Source: Core Rulebook p. 246*  
 
-**Skill** [diplomacy](../../compendium/skills.md#Diplomacy) (untrained)
+**Skill** [diplomacy](compendium/skills.md#Diplomacy) (untrained)
 
 You canvass local markets, taverns, and gathering places in an attempt to learn about a specific individual or topic. The GM determines the DC of the check and the amount of time it takes (typically 2 hours, but sometimes more), along with any benefit you might be able to gain by spending coin on bribes, drinks, or gifts.
 

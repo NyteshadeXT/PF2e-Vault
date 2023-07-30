@@ -22,4 +22,4 @@ aliases: ["Formulas"]
 | 9 | 35 gp | 20 | 3,500 gp |
 | 10 | 50 gp |  |  |
 
-* Formulas for all 0-level common items from this chapter can be purchased collectively in a [basic crafter's book](../../compendium/equipment/items/basic-crafters-book.md).
+* Formulas for all 0-level common items from this chapter can be purchased collectively in a [basic crafter's book](compendium/equipment/items/basic-crafters-book.md).

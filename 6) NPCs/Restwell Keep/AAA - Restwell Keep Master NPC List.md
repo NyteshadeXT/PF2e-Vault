@@ -363,6 +363,7 @@ columns:
       - { label: "Noble", value: "Noble", color: "hsl(28, 95%, 90%)"}
       - { label: "Priest", value: "Priest", color: "hsl(322, 95%, 90%)"}
       - { label: "Royal", value: "Royal", color: "hsl(126, 95%, 90%)"}
+      - { label: "Scribe", value: "Scribe", color: "hsl(24, 95%, 90%)"}
       - { label: "Servant", value: "Servant", color: "hsl(249, 95%, 90%)"}
       - { label: "Stablehand", value: "Stablehand", color: "hsl(25, 95%, 90%)"}
       - { label: "Steward", value: "Steward", color: "hsl(339, 95%, 90%)"}

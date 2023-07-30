@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/logm
-aliases: ["Demigods and Other Divinities"]
+aliases: ["demigods-and-other-divinities"]
 ---
 # Demigods and Other Divinities
 <sup>LOGM p. 72</sup>

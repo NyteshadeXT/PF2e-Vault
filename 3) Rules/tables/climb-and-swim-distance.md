@@ -8,7 +8,7 @@ aliases: ["Climb and Swim Distance"]
 # Climb and Swim Distance  
 *Source: Core Rulebook p. 242*  
 
-This table provides a quick reference for how far you can move with a [Climb](../actions/climb.md) or [Swim](../actions/swim.md) action.
+This table provides a quick reference for how far you can move with a [Climb](rules/actions/climb.md) or [Swim](rules/actions/swim.md) action.
 
 <table>
 <tr>

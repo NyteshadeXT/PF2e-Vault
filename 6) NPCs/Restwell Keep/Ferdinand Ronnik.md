@@ -13,6 +13,7 @@ Race: Human
 Occupation:
   - Banker
 Location: Restwell Keep
+Age: Adult
 ---
 > [!infobox]
 > **Pronounced:**  "`=this.Pronounced`"

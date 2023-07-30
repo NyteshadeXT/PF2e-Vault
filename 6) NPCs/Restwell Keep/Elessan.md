@@ -13,6 +13,7 @@ Race: Seer Elf
 Occupation:
   - Priest
 Location: Restwell Keep
+Age: Adult
 ---
 > [!infobox]
 > **Pronounced:**  "`=this.Pronounced`"

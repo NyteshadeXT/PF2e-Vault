@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8deb39cbd76c557e",
+        "id": "a5716b8f640c5f4c",
         "type": "tabs",
         "children": [
           {
-            "id": "99edc23978ceb49b",
+            "id": "5adc7f4c03f0e32c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/03) Shard Slave of the Glass Spire Shrine.md",
-                "mode": "preview",
+                "file": "8) Adventures/3B - The Splintered Spring (D179)/01) Running the Adventure.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 348.5
   },
   "right": {
     "id": "e19cced9a0292528",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/03) Shard Slave of the Glass Spire Shrine.md",
+                "file": "8) Adventures/3B - The Splintered Spring (D179)/01) Running the Adventure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,15 +109,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/03) Shard Slave of the Glass Spire Shrine.md"
+                "file": "8) Adventures/3B - The Splintered Spring (D179)/01) Running the Adventure.md"
               }
             }
           },
           {
-            "id": "f329cc18e23bbba5",
+            "id": "63f387b626c259e3",
             "type": "leaf",
             "state": {
-              "type": "DICE_ROLLER_VIEW",
+              "type": "FANTASY_CALENDAR",
               "state": {}
             }
           },
@@ -138,15 +138,23 @@
             }
           },
           {
-            "id": "63f387b626c259e3",
+            "id": "96c7391633fe55ff",
             "type": "leaf",
             "state": {
-              "type": "FANTASY_CALENDAR",
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "437cb9fb29b41ada",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "1e7c9fcd78ecb350",
@@ -168,9 +176,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "initiative-tracker:Intiative Tracker Encounter Builder": false,
       "dbfolder:Create a new database table": false,
       "switcher:Open quick switcher": false,
@@ -178,37 +184,51 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "99edc23978ceb49b",
+  "active": "5adc7f4c03f0e32c",
   "lastOpenFiles": [
-    "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/02) Glass Guardian Attack.md",
-    "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/03) Shard Slave of the Glass Spire Shrine.md",
-    "4) Bestiary/homebrew/Glass-Guardian-Nestling.md",
-    "4) Bestiary/homebrew/Glass-Guardian.md",
-    "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/01) Running the Adventure.md",
-    "5) World/Chaos Scar - GM View.md",
-    "5) World/Restwell Keep.md",
-    "5) World/Restwell Rumors.md",
-    "5) World/Abandoned Shrine of Moradin.md",
-    "8) Adventures/2d - The Hammer Falls (D179)/2d - The Hammer Falls (D179).md",
-    "8) Adventures/2d - The Hammer Falls (D179)/02) The Entrance.md",
-    "8) Adventures/2d - The Hammer Falls (D179)/03) The Metalworks.md",
-    "8) Adventures/2d - The Hammer Falls (D179)/04) Sleed’s Sanctum.md",
-    "3) Rules/compendium/equipment/items/magma-hammer.md",
-    "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/2B - The Shrine of Glass-Spire Forest (D175).md",
-    "8) Adventures/2d - The Hammer Falls (D179)/01) Running the Adventure.md",
-    "Note.md",
-    "4) Bestiary/homebrew/magma-hurler.md",
-    "zz-Attachments/Magma Hurler.png",
-    "4) Bestiary/homebrew/goblin-underboss.md",
-    "4) Bestiary/bestiary-1/duergar-sharpshooter.md",
-    "1) GM Screen/Skill-Actions-Cheat-Sheet.md",
-    "4) Bestiary/homebrew/deathjump-spider.md",
-    "4) Bestiary/homebrew/duergar-guard.md",
-    "6) NPCs/Restwell Keep/Balidor.md",
+    "8) Adventures/3B - The Splintered Spring (D179)/04) The Black Lake.md",
+    "8) Adventures/3B - The Splintered Spring (D179)/3B - The Splintered Spring (D179).md",
+    "8) Adventures/3B - The Splintered Spring (D179)/03) The Foul Mire.md",
+    "8) Adventures/3B - The Splintered Spring (D179)/02) Serpent Strike.md",
+    "8) Adventures/3B - The Splintered Spring (D179)/01) Running the Adventure.md",
+    "8) Adventures/3A - The Crawling Fane (D178)/3A - The Crawling Fane (D178).md",
+    "8) Adventures/3A - The Crawling Fane (D178)/01) Running the Adventure.md",
+    "8) Adventures/3A - The Crawling Fane (D178)/05) The Profaned Chapel.md",
+    "8) Adventures/3A - The Crawling Fane (D178)/04) The Hall of Honored Dead.md",
+    "8) Adventures/3A - The Crawling Fane (D178)/03) Ancient Rectory.md",
+    "8) Adventures/3A - The Crawling Fane (D178)/02) Temple Ruins.md",
     "8) Adventures/2e - Down the Goblin Hole (D280)/2e - Down the Goblin Hole (D280).md",
-    "8) Adventures/2g - The Crossroads (D176)/2g - The Crossroads (D176).md"
+    "8) Adventures/2e - Down the Goblin Hole (D280)/01) Running the Adventure.md",
+    "8) Adventures/2g - The Crossroads (D176)/2g - The Crossroads (D176).md",
+    "8) Adventures/2f - The Lost Library (D173)/2f - The Lost Library (D173).md",
+    "8) Adventures/2f - The Lost Library (D173)/04) The Inner Sanctum.md",
+    "8) Adventures/2f - The Lost Library (D173)/03) The Lost Library.md",
+    "8) Adventures/2f - The Lost Library (D173)/02) The Wyrmling's Cave.md",
+    "4) Bestiary/homebrew/dolgaunt.md",
+    "4) Bestiary/homebrew/dolgarr.md",
+    "4) Bestiary/homebrew/dolgrim.md",
+    "zz-Attachments/Dolgrim 1.webp",
+    "zz-Attachments/Dolgrim.webp",
+    "zz-Attachments/Dolgarr.webp",
+    "zz-Attachments/Pasted image 20230727141737.png",
+    "4) Bestiary/homebrew/otyugh-elite.md",
+    "4) Bestiary/homebrew/magma-hurler.md",
+    "4) Bestiary/homebrew/glass-guardian.md",
+    "4) Bestiary/homebrew/dwarven-caravan-master.md",
+    "4) Bestiary/homebrew/dwarven-caravan-guard.md",
+    "zz-Attachments/Dolgaunt.webp",
+    "zz-Attachments/Pasted image 20230726153915.png",
+    "zz-Attachments/Pasted image 20230726115905.png",
+    "zz-Attachments/Pasted image 20230726110633.png",
+    "zz-Attachments/Pasted image 20230726090249.png",
+    "zz-Attachments/Pasted image 20230726082332.png",
+    "4) Bestiary/adventures/crown-of-the-kobold-king",
+    "4) Bestiary/adventure-paths/Untitled",
+    "4) Bestiary/adventure-paths"
   ]
 }

@@ -2,7 +2,7 @@
 Type:
   - NPC
 Party1Standing: Unmet
-Alignment: ""
+Alignment: NG
 Gender: Male
 Sexuality: Straight
 Condition: Healthy
@@ -13,6 +13,7 @@ Race: Human
 Occupation:
   - Priest
 Location: Restwell Keep
+Age: Adult
 ---
 > [!infobox]
 > **Pronounced:**  "`=this.Pronounced`"

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/lowg
-aliases: ["Chapter 9: Old Cheliax"]
+aliases: ["chapter-9-old-cheliax"]
 ---
 # Chapter 9: Old Cheliax
 <sup>LOWG p. 96</sup>
@@ -12,7 +12,7 @@ aliases: ["Chapter 9: Old Cheliax"]
 - **Peoples** Gnome, Goblin, Hafling, Nidalese, Taldan, Varisian
 - **Languages** Common, Gnomish, Goblin, Halfling, Infernal, Shadowtongue, Varisian
 - **Factions** Bellflower Network, Firebrands, Hellknights
-- **Religions** [Asmodeus](../../compendium/setting/deities/asmodeus.md), [Desna](../../compendium/setting/deities/desna.md), [Erastil](../../compendium/setting/deities/erastil.md), [Norgorber](../../compendium/setting/deities/norgorber.md), [Shelyn](../../compendium/setting/deities/shelyn.md), [Zon-Kuthon](../../compendium/setting/deities/zon-kuthon.md)
+- **Religions** [Asmodeus](compendium/setting/deities/asmodeus.md), [Desna](compendium/setting/deities/desna.md), [Erastil](compendium/setting/deities/erastil.md), [Norgorber](compendium/setting/deities/norgorber.md), [Shelyn](compendium/setting/deities/shelyn.md), [Zon-Kuthon](compendium/setting/deities/zon-kuthon.md)
 - **Resources** Alcohol/Drugs, Armor/Weapons, Jewelry/Gems, Livestock/Hides, Lumber, Luxury Goods, Mercenaries, Ores, Seafood, Ships, Spices/Salt, Textiles
 
 > [!pf2-sidebar] TIMELINE
@@ -50,21 +50,21 @@ aliases: ["Chapter 9: Old Cheliax"]
 
 The following backgrounds are particularly suitable for characters from the Old Cheliax region.
 
-- [Atteran Rancher](../../compendium/character/backgrounds/atteran-rancher-lowg.md)
-- [Bellflower Agent](../../compendium/character/backgrounds/bellflower-agent-lowg.md)
-- [Chelish Rebel](../../compendium/character/backgrounds/chelish-rebel-lowg.md)
-- [Child of Westcrown](../../compendium/character/backgrounds/child-of-westcrown-lowg.md)
-- [Goblinblood Orphan](../../compendium/character/backgrounds/goblinblood-orphan-lowg.md)
-- [Shadow Haunted](../../compendium/character/backgrounds/shadow-haunted-lowg.md)
-- [Thrune Loyalist](../../compendium/character/backgrounds/thrune-loyalist-lowg.md)
+- [Atteran Rancher](compendium/character/backgrounds/atteran-rancher-lowg.md)
+- [Bellflower Agent](compendium/character/backgrounds/bellflower-agent-lowg.md)
+- [Chelish Rebel](compendium/character/backgrounds/chelish-rebel-lowg.md)
+- [Child of Westcrown](compendium/character/backgrounds/child-of-westcrown-lowg.md)
+- [Goblinblood Orphan](compendium/character/backgrounds/goblinblood-orphan-lowg.md)
+- [Shadow Haunted](compendium/character/backgrounds/shadow-haunted-lowg.md)
+- [Thrune Loyalist](compendium/character/backgrounds/thrune-loyalist-lowg.md)
 
 ## Hellknight Armiger
 <sup>LOWG p. 107</sup>
 
 You have presented yourself to a Hellknight citadel as a candidate to become a fearsome Hellknight. You believe that all who live must be forced to obey law, and you adventure as a test of your loyalty, discipline, and courage. Someday you will take the Hellknight test and battle a devil in single combat to prove your strength and join the Hellknight ranks.
 
-- [Hellknight Armiger Dedication](../../compendium/feats/hellknight-armiger-dedication-lowg.md)
-- [Ardent Armiger](../../compendium/feats/ardent-armiger-lowg.md)
-- [Diabolic Certitude](../../compendium/feats/diabolic-certitude-lowg.md)
-- [Mortification](../../compendium/feats/mortification-lowg.md)
-- [Armiger's Mobility](../../compendium/feats/armigers-mobility-lowg.md)
+- [Hellknight Armiger Dedication](compendium/feats/hellknight-armiger-dedication-lowg.md)
+- [Ardent Armiger](compendium/feats/ardent-armiger-lowg.md)
+- [Diabolic Certitude](compendium/feats/diabolic-certitude-lowg.md)
+- [Mortification](compendium/feats/mortification-lowg.md)
+- [Armiger's Mobility](compendium/feats/armigers-mobility-lowg.md)

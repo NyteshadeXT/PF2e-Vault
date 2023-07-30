@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/som
-aliases: ["Chapter 1: Essentials of Magic"]
+aliases: ["chapter-1-essentials-of-magic"]
 ---
 # Chapter 1: Essentials of Magic
 <sup>SoM p. 7</sup>
@@ -14,9 +14,9 @@ aliases: ["Chapter 1: Essentials of Magic"]
 > 
 > You might also want to look at the following backgrounds from the _Core Rulebook_ and _Advanced Player's Guide_.
 > 
-> **Core Rulebook**: [Acolyte](../../compendium/character/backgrounds/acolyte.md), [animal whisperer](../../compendium/character/backgrounds/animal-whisperer.md), [fortune teller](../../compendium/character/backgrounds/fortune-teller.md), [herbalist](../../compendium/character/backgrounds/herbalist.md), [hermit](../../compendium/character/backgrounds/hermit.md), [scholar](../../compendium/character/backgrounds/scholar.md)
+> **Core Rulebook**: [Acolyte](compendium/character/backgrounds/acolyte.md), [animal whisperer](compendium/character/backgrounds/animal-whisperer.md), [fortune teller](compendium/character/backgrounds/fortune-teller.md), [herbalist](compendium/character/backgrounds/herbalist.md), [hermit](compendium/character/backgrounds/hermit.md), [scholar](compendium/character/backgrounds/scholar.md)
 > 
-> **Advanced Player's Guide**: [Cultist](../../compendium/character/backgrounds/cultist-apg.md), [pilgrim](../../compendium/character/backgrounds/pilgrim-apg.md), [root worker](../../compendium/character/backgrounds/root-worker-apg.md), [teacher](../../compendium/character/backgrounds/teacher-apg.md)
+> **Advanced Player's Guide**: [Cultist](compendium/character/backgrounds/cultist-apg.md), [pilgrim](compendium/character/backgrounds/pilgrim-apg.md), [root worker](compendium/character/backgrounds/root-worker-apg.md), [teacher](compendium/character/backgrounds/teacher-apg.md)
 > 
 > ### Rare Backgrounds
 > <sup>SoM p. 7</sup>
@@ -88,27 +88,27 @@ aliases: ["Chapter 1: Essentials of Magic"]
 ## Magical Backgrounds
 <sup>SoM p. 28</sup>
 
-- [Academy Dropout](../../compendium/character/backgrounds/academy-dropout-som.md)
-- [Astrologer](../../compendium/character/backgrounds/astrologer-som.md)
-- [Eidolon Contact](../../compendium/character/backgrounds/eidolon-contact-som.md)
-- [False Medium](../../compendium/character/backgrounds/false-medium-som.md)
-- [Magical Merchant](../../compendium/character/backgrounds/magical-merchant-som.md)
-- [Magical Misfit](../../compendium/character/backgrounds/magical-misfit-som.md)
-- [Musical Prodigy](../../compendium/character/backgrounds/musical-prodigy-som.md)
-- [Occult Librarian](../../compendium/character/backgrounds/occult-librarian-som.md)
-- [Plant Whisperer](../../compendium/character/backgrounds/plant-whisperer-som.md)
-- [Street Preacher](../../compendium/character/backgrounds/street-preacher-som.md)
-- [Student of Magic](../../compendium/character/backgrounds/student-of-magic-som.md)
+- [Academy Dropout](compendium/character/backgrounds/academy-dropout-som.md)
+- [Astrologer](compendium/character/backgrounds/astrologer-som.md)
+- [Eidolon Contact](compendium/character/backgrounds/eidolon-contact-som.md)
+- [False Medium](compendium/character/backgrounds/false-medium-som.md)
+- [Magical Merchant](compendium/character/backgrounds/magical-merchant-som.md)
+- [Magical Misfit](compendium/character/backgrounds/magical-misfit-som.md)
+- [Musical Prodigy](compendium/character/backgrounds/musical-prodigy-som.md)
+- [Occult Librarian](compendium/character/backgrounds/occult-librarian-som.md)
+- [Plant Whisperer](compendium/character/backgrounds/plant-whisperer-som.md)
+- [Street Preacher](compendium/character/backgrounds/street-preacher-som.md)
+- [Student of Magic](compendium/character/backgrounds/student-of-magic-som.md)
 
 ## Rare Magical Backgrounds
 <sup>SoM p. 30</sup>
 
 These rare backgrounds can give a player a significantly different roleplaying experience by setting their character up with a history or legacy beyond the norm. Whether a character with the chosen one background has been prophesied to achieve a goal that's part of the main plot of the campaign or a side quest just for them, the character is situated in a special position within the narrative. Your character's background is an intrinsic part of where they come from and not something they earn during the game. Rare backgrounds should be chosen only after a discussion between the GM and the other players as to whether one would apply for a particular character in your group's game.
 
-- [Anti-Magical](../../compendium/character/backgrounds/anti-magical-som.md)
-- [Chosen One](../../compendium/character/backgrounds/chosen-one-som.md)
-- [Genie-Blessed](../../compendium/character/backgrounds/genie-blessed-som.md)
-- [Magical Experiment](../../compendium/character/backgrounds/magical-experiment-som.md)
-- [Seer of the Dead](../../compendium/character/backgrounds/seer-of-the-dead-som.md)
-- [Song of the Deep](../../compendium/character/backgrounds/song-of-the-deep-som.md)
-- [Time Traveler](../../compendium/character/backgrounds/time-traveler-som.md)
+- [Anti-Magical](compendium/character/backgrounds/anti-magical-som.md)
+- [Chosen One](compendium/character/backgrounds/chosen-one-som.md)
+- [Genie-Blessed](compendium/character/backgrounds/genie-blessed-som.md)
+- [Magical Experiment](compendium/character/backgrounds/magical-experiment-som.md)
+- [Seer of the Dead](compendium/character/backgrounds/seer-of-the-dead-som.md)
+- [Song of the Deep](compendium/character/backgrounds/song-of-the-deep-som.md)
+- [Time Traveler](compendium/character/backgrounds/time-traveler-som.md)

@@ -10,4 +10,4 @@ aliases: ["Uncommon Martial Ranged Weapons"]
 
 | Weapon | Price | Damage | Bulk | Hands | Group | Weapon Traits |
 |--------|-------|--------|------|-------|-------|---------------|
-| [Bola](../../compendium/equipment/items/bola-apg.md) | 5 sp | `1d6` B | L | 1 | Sling | [Nonlethal](../traits/nonlethal.md), [ranged trip](../traits/ranged-trip-b1.md), [thrown <20 feet>](../traits/thrown.md) |
+| Bola | 5 sp | `1d6` B | L | 1 | Sling | [Nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait"), [ranged trip](rules/traits/ranged-trip-b1.md "Ranged Trip Weapon Trait"), [thrown <20 feet>](rules/traits/thrown-20-feet.md "Thrown Weapon Trait") |

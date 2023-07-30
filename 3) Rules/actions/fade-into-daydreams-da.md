@@ -9,10 +9,10 @@ tags:
 - trait/psychic
 aliases: ["Fade Into Daydreams"]
 ---
-# Fade Into Daydreams [>](../core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[illusion](../traits/illusion.md)  [psyche](../traits/psyche-da.md)  [psychic](../traits/psychic-da.md)  
+# Fade Into Daydreams [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [psyche](rules/traits/psyche-da.md "Psyche Action & Ability Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  
 *Source: Dark Archive p. 16*  
 
 - **Activity**: Single Action
 
-Your flights of imagination spill into the real world, causing you to become indistinct, hazy, or cloaked in figments. You become [concealed](../conditions.md#Concealed) until the start of your next turn. This concealment can't be used to [Hide](hide.md), as normal for concealing effects that leave your location obvious.
+Your flights of imagination spill into the real world, causing you to become indistinct, hazy, or cloaked in figments. You become [concealed](rules/conditions.md#Concealed) until the start of your next turn. This concealment can't be used to [Hide](rules/actions/hide.md), as normal for concealing effects that leave your location obvious.

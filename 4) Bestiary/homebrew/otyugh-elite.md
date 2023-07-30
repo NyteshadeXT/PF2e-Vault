@@ -36,7 +36,7 @@ abilities_bot:
   - name: "Constrict"
     desc: "⬻  1d6+6 (1d6+6) bludgeoning, DC 24."
   - name: "Reposition"
-    desc: "⬻  The otyugh attempts to move all creatures that it has [[grabbed|grabbed]] into other spaces within the reach of its tentacles, rolling a single [[Athletics]] check and comparing the result against each creature's Fortitude DC. On a failure, the creature remains in place, and on a critical failure, the creature is no longer [[grabbed|grabbed]]."
+    desc: "⬻  The otyugh attempts to move all creatures that it has [[grab|grabed]] into other spaces within the reach of its tentacles, rolling a single [[Athletics]] check and comparing the result against each creature's Fortitude DC. On a failure, the creature remains in place, and on a critical failure, the creature is no longer grabbed."
   - name: "Filth Fever"
     desc: " ([[disease]]);  __Saving Throw__ DC 22 Fortitude. __Stage 1__ carrier with no ill effect (1d4 (1d4) hours) __Stage 2__ [[sickened|sickened 1]] (1 day) __Stage 3__ [[sickened|sickened 1]] and [[slowed|slowed 1]] as long as it remains [[sickened|sickened]] (1 day) __Stage 4__ [[unconscious|unconscious]] ; (1 day)"
 
@@ -53,9 +53,9 @@ health:
 
 
 attacks:
-  - name: Melee_1
+  - name: Melee
     desc: "⬻ jaws +16 __Damage__ 2d6+8 (2d6+8) piercing plus filth fever"
-  - name: Melee_2
+  - name: Melee
     desc: "⬻ tentacle +16 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1d6+8 (1d6+8) bludgeoning plus Grab"
 
 sourcebook: "_Bestiary_, page 258."

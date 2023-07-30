@@ -25,6 +25,7 @@ MentalTrait:
   - Courageous
 Race: ElfWood
 Location: Restwell Keep
+Age: Young Adult
 ---
 
 > [!infobox]

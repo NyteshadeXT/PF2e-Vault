@@ -5,4 +5,4 @@ aliases: ["Call Your Bluff"]
 ---
 # Call Your Bluff
 
-When gambling, the NPC may use [Games Lore](../../compendium/skills.md#Lore) to [Sense Motive](../actions/sense-motive.md) instead of [Perception](../../compendium/skills.md#Perception).
+When gambling, the NPC may use [Games Lore](compendium/skills.md#Lore) to [Sense Motive](rules/actions/sense-motive.md) instead of [Perception](compendium/skills.md#Perception).

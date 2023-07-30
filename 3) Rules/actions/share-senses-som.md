@@ -10,12 +10,12 @@ tags:
 - trait/summoner
 aliases: ["Share Senses"]
 ---
-# Share Senses [>](../core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[concentrate](../traits/concentrate.md)  [divination](../traits/divination.md)  [scrying](../traits/scrying.md)  [summoner](../traits/summoner-som.md)  
+# Share Senses [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [scrying](rules/traits/scrying.md "Scrying Effect Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  
 *Source: Secrets of Magic p. 53*  
 
 **Class** summoner
 - **Requirements**: Your eidolon is manifested.
 - **Activity**: Single Action
 
-You project your senses into your eidolon, allowing you to perceive through it. When you do, you lose all sensory information from your own body, but can sense through your eidolon's body for up to 1 minute. You can [Dismiss](dismiss.md) this effect.
+You project your senses into your eidolon, allowing you to perceive through it. When you do, you lose all sensory information from your own body, but can sense through your eidolon's body for up to 1 minute. You can [Dismiss](rules/actions/dismiss.md) this effect.

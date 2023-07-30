@@ -10,8 +10,8 @@ tags:
 - trait/thaumaturge
 aliases: ["Mirror's Reflection"]
 ---
-# Mirror's Reflection [>](../core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[illusion](../traits/illusion.md)  [magical](../traits/magical.md)  [manipulate](../traits/manipulate.md)  [thaumaturge](../traits/thaumaturge-da.md)  
+# Mirror's Reflection [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+[illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  
 *Source: Dark Archive p. 39*  
 
 - **Requirements**: You're holding your First Implement and Esoterica|Thaumaturge|DA|mirror|DA|1||mirror implement.

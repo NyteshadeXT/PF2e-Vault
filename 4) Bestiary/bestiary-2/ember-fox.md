@@ -1,4 +1,5 @@
 ---
+obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Ember Fox"
 tags: 
@@ -48,7 +49,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +10 ([[agile]], [[finesse]]); __Damage__ 1d4+3 (1d4+3) piercing plus 1d4 (1d4) [[persistent damage|persistent fire]]"
+    desc: "⬻ jaws +10 ([[agile]], [[finesse]]); __Damage__ 1d4+3 (1d4+3) piercing plus 1d4 (1d4) [[rules/conditions.md#Persistent%20Damage|persistent fire]]"
 
 sourcebook: "_Bestiary 2_, page 110."
 ```

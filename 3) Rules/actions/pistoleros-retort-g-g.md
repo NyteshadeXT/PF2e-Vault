@@ -7,8 +7,8 @@ tags:
 - trait/gunslinger
 aliases: ["Pistolero's Retort"]
 ---
-# Pistolero's Retort [R](../core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[gunslinger](../traits/gunslinger-g-g.md)  
+# Pistolero's Retort [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+[gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
 *Source: Guns & Gears p. 108*  
 
 **Class** gunslinger; **Subclass** Pistolero
@@ -16,4 +16,4 @@ aliases: ["Pistolero's Retort"]
 - **Requirements**: You're wielding a one-handed firearm or one-handed crossbow.
 - **Activity**: Reaction
 
-You punish your foe's failure with a shot. Make a [Strike](strike.md) against the triggering foe with a one-handed firearm or one-handed crossbow.
+You punish your foe's failure with a shot. Make a [Strike](rules/actions/strike.md) against the triggering foe with a one-handed firearm or one-handed crossbow.

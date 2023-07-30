@@ -6,7 +6,7 @@ tags:
 - compendium/src/pf2e/locg
 aliases: ["Energy Emanation"]
 ---
-# Energy Emanation [>>](../core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+# Energy Emanation [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 *Source: Lost Omens: Character Guide p. 19*  
 
 **Ancestry** Dwarf; **Heritage** Dwarf||Elemental Heart|Elemental Heart|LOCG|

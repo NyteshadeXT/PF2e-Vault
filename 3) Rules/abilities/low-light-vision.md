@@ -5,4 +5,4 @@ aliases: ["Low-Light Vision"]
 ---
 # Low-Light Vision
 
-The monster can see in dim light as though it were bright light, so it ignores the [concealed](../conditions.md#Concealed) condition due to dim light.
+The monster can see in dim light as though it were bright light, so it ignores the [concealed](rules/conditions.md#Concealed) condition due to dim light.

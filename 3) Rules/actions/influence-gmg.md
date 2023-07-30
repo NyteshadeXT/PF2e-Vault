@@ -8,7 +8,7 @@ tags:
 aliases: ["Influence"]
 ---
 # Influence
-[concentrate](../traits/concentrate.md)  [linguistic](../traits/linguistic.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  
 *Source: Gamemastery Guide p. 151*  
 
 **Variant Rule** Influence

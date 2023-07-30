@@ -7,11 +7,11 @@ tags:
 - trait/move
 aliases: ["Drop Prone"]
 ---
-# Drop Prone (basic) [>](../core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[move](../traits/move.md)  
+# Drop Prone (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+[move](rules/traits/move.md "Move Combat Trait")  
 *Source: Core Rulebook p. 470*  
 
 
 - **Activity**: Single Action
 
-You fall [prone](../conditions.md#Prone).
+You fall [prone](rules/conditions.md#Prone).

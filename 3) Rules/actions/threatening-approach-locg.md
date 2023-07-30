@@ -6,10 +6,10 @@ tags:
 - compendium/src/pf2e/locg
 aliases: ["Threatening Approach"]
 ---
-# Threatening Approach [>>](../core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
+# Threatening Approach [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 *Source: Lost Omens: Character Guide p. 57*  
 
 **Ancestry** Lizardfolk; **Heritage** Lizardfolk|LOCG|Frilled|Frilled|LOCG|
 - **Activity**: Two-Action
 
-You [Stride](stride.md) to be adjacent to a foe and [Demoralize](demoralize.md) that foe. If you succeed, the foe is [frightened](../conditions.md#Frightened) instead of [frightened](../conditions.md#Frightened).
+You [Stride](rules/actions/stride.md) to be adjacent to a foe and [Demoralize](rules/actions/demoralize.md) that foe. If you succeed, the foe is [frightened](rules/conditions.md#Frightened) instead of [frightened](rules/conditions.md#Frightened).

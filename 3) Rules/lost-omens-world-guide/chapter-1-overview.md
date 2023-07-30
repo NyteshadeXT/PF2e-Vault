@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/lowg
-aliases: ["Chapter 1: Overview"]
+aliases: ["chapter-1-overview"]
 ---
 # Chapter 1: Overview
 <sup>LOWG p. 6</sup>
@@ -79,18 +79,8 @@ aliases: ["Chapter 1: Overview"]
 > 
 > Sometimes an archetype feat lets you gain another feat. You must always meet the prerequisites of the feat you gain in this way.
 
-Heroes aren't born, they're forged: forced by extraordinary circumstances to rise above and shaped by the world they inhabit.
-
-This book is a guide to that world. In its pages, you'll learn about the heart of the Pathfinder setting, known as the Inner Sea region, from the towns and cities your heroes call home to the wild frontiers and monstrous lairs where they'll risk everything in search of fortune and glory. The information presented here provides players with a sense of the setting as a whole and is perfect for both fleshing out existing character concepts and inspiring you when you're not sure what to play. Is your wizard a necromancer from haunted Ustalav, raised to battle the undead armies of the Whispering Tyrant, or a young student at the Arcanamirium in Absalom, the City at the Center of the World? Perhaps you're a daring priest from the burning deserts of Qadira, blasting manticores and genies with the blazing light of the sun goddess Sarenrae, or a troll-hunting warrior from the icy Lands of the Linnorm Kings. Regardless, here you'll find the rich details you need to give your character the perfect backstory, as well as new backgrounds, gods, feats, spells, and other rules to help you customize your ideal hero.
-
-Likewise, Game Masters will find a rich and exciting world filled with hundreds of inspiring characters, plots, and adventure locations to get their creativity flowing, as well as new gear and magical items to reward their band of adventurers. Will you take your group to the rugged land of Numeria in search of alien technology from a crashed spaceship? Might they fight devils in diabolical Cheliax, or instead ally with the denizens of Hell themselves to reforge a troubled empire? They could venture into the ancient pyramids of Osirion, where mummies guard magic from a lost age, or battle dragons in the fractious orc hold of Belkzen. Whether you want your party to face pirates or giants, elves or dwarves, vampires or sphinxes, there's no end to the threats and treasures lurking in the ruins of lost empires, in temples to forgotten gods—or just beyond their campfire's light.
-
-The Inner Sea awaits. Are you ready?
-
 ## The World of Golarion
 <sup>LOWG p. 6</sup>
-
-While the multiverse is a big place, most Pathfinder adventures take place on Golarion: a planet of magic and mystery, where mortal heroes can ascend to godhood and terrifying monsters threaten entire civilizations. This book focuses on the Inner Sea region, the traditional heart of the Pathfinder campaign setting, which consists of the entire continent of Avistan and the northern third of the continent of Garund directly to the south. Yet Golarion is much larger than any one nation or continent, and adventurers from the Inner Sea may travel far and wide in pursuit of greatness. Below is a brief overview of Golarion's different major regions.
 
 ### Arcadia
 <sup>LOWG p. 6</sup>

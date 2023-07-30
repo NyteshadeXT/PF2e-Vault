@@ -10,7 +10,7 @@ tags:
 aliases: ["Identify Magic"]
 ---
 # Identify Magic (basic)
-[concentrate](../traits/concentrate.md)  [exploration](../traits/exploration.md)  [secret](../traits/secret.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 *Source: Core Rulebook p. 238*  
 
 
@@ -29,8 +29,8 @@ Once you discover that an item, location, or ongoing effect is magical, you can 
 > 
 > | Magical Tradition | Corresponding Skill |
 > |-------------------|---------------------|
-> | Arcane | [Arcana](../../compendium/skills.md#Arcana) |
-> | Divine | [Religion](../../compendium/skills.md#Religion) |
-> | Occult | [Occultism](../../compendium/skills.md#Occultism) |
-> | Primal | [Nature](../../compendium/skills.md#Nature) |
+> | Arcane | [Arcana](compendium/skills.md#Arcana) |
+> | Divine | [Religion](compendium/skills.md#Religion) |
+> | Occult | [Occultism](compendium/skills.md#Occultism) |
+> | Primal | [Nature](compendium/skills.md#Nature) |
 >

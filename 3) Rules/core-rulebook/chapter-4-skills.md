@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/crb
-aliases: ["Chapter 4: Skills"]
+aliases: ["chapter-4-skills"]
 ---
 # Chapter 4: Skills
 <sup>CRB p. 233</sup>
 
-A character's acumen in skills can come from all sorts of training, from practicing acrobatic tricks to studying academic topics to rehearsing a performing art. When you create your character and as they advance in level, you have flexibility as to which skills they become better at and when. Some classes depend heavily on certain skills—such as the alchemist's reliance on [Crafting](../../compendium/skills.md#Crafting)—but for most classes, you can choose whichever skills make the most sense for your character's theme and backstory at 1st level, then use their adventure and downtime experiences to inform how their skills should improve as your character levels up.
+A character's acumen in skills can come from all sorts of training, from practicing acrobatic tricks to studying academic topics to rehearsing a performing art. When you create your character and as they advance in level, you have flexibility as to which skills they become better at and when. Some classes depend heavily on certain skills—such as the alchemist's reliance on [Crafting](compendium/skills.md#Crafting)—but for most classes, you can choose whichever skills make the most sense for your character's theme and backstory at 1st level, then use their adventure and downtime experiences to inform how their skills should improve as your character levels up.
 
-A character gains training in certain skills at 1st level: typically two skills from their background, a small number of predetermined skills from their class, and several skills of your choice granted by your class. This training increases your proficiency ranks for those skills to trained instead of untrained and lets you use more of the skills' actions. Sometimes you might gain training in a specific skill from multiple sources, such as if your background granted training in [Crafting](../../compendium/skills.md#Crafting) and you took the alchemist class, which also grants training in [Crafting](../../compendium/skills.md#Crafting). Each time after the first that you would gain the trained proficiency rank in a given skill, you instead allocate the trained proficiency to any other skill of your choice—though if the skill is a [Lore](../../compendium/skills.md#Lore) skill, the new skill must also be a [Lore](../../compendium/skills.md#Lore) skill.
+A character gains training in certain skills at 1st level: typically two skills from their background, a small number of predetermined skills from their class, and several skills of your choice granted by your class. This training increases your proficiency ranks for those skills to trained instead of untrained and lets you use more of the skills' actions. Sometimes you might gain training in a specific skill from multiple sources, such as if your background granted training in [Crafting](compendium/skills.md#Crafting) and you took the alchemist class, which also grants training in [Crafting](compendium/skills.md#Crafting). Each time after the first that you would gain the trained proficiency rank in a given skill, you instead allocate the trained proficiency to any other skill of your choice—though if the skill is a [Lore](compendium/skills.md#Lore) skill, the new skill must also be a [Lore](compendium/skills.md#Lore) skill.
 
 > [!pf2-sidebar] Improving Skills
 > 
@@ -29,14 +29,14 @@ A character gains training in certain skills at 1st level: typically two skills 
 ## Key Ability
 <sup>CRB p. 233</sup>
 
-Each skill is tied to a key ability. You add your modifier for this ability to checks and DCs when using that skill. For example, skulking about the shadows of a city at night with [Stealth](../../compendium/skills.md#Stealth) uses your Dexterity modifier, navigating the myriad personalities and power plays of court politics with Society uses your Intelligence modifier, and so on. The key ability for each skill is listed on [Table 4–1: Skills, Key Abilities, and Actions](../tables/skills-key-abilities-and-actions.md) and also appears in parentheses following the skill's name in the descriptions on the following pages. If the GM deems it appropriate for a certain situation, however, they might have you use a different ability modifier for a skill check or when determining your skill DC.
+Each skill is tied to a key ability. You add your modifier for this ability to checks and DCs when using that skill. For example, skulking about the shadows of a city at night with [Stealth](compendium/skills.md#Stealth) uses your Dexterity modifier, navigating the myriad personalities and power plays of court politics with Society uses your Intelligence modifier, and so on. The key ability for each skill is listed on [Table 4–1: Skills, Key Abilities, and Actions](rules/tables/skills-key-abilities-and-actions.md) and also appears in parentheses following the skill's name in the descriptions on the following pages. If the GM deems it appropriate for a certain situation, however, they might have you use a different ability modifier for a skill check or when determining your skill DC.
 
 ## Skill Actions
 <sup>CRB p. 233</sup>
 
-The actions you can perform with a given skill are sorted into those you can use untrained and those that require you to be trained in the skill, as shown on [Table 4–1: Skills, Key Abilities, and Actions](../tables/skills-key-abilities-and-actions.md). The untrained and trained actions of each skill appear in separate sections within the skill's description.
+The actions you can perform with a given skill are sorted into those you can use untrained and those that require you to be trained in the skill, as shown on [Table 4–1: Skills, Key Abilities, and Actions](rules/tables/skills-key-abilities-and-actions.md). The untrained and trained actions of each skill appear in separate sections within the skill's description.
 
-Anyone can use a skill's untrained actions, but you can use trained actions only if you have a proficiency rank of trained or better in that skill. A circumstance, condition, or effect might bar you from a skill action regardless of your proficiency rank, and sometimes using a skill in a specific situation might require you to have a higher proficiency rank than what is listed on the table. For instance, even though a barbarian untrained in [Arcana](../../compendium/skills.md#Arcana) could identify a construct with a lucky roll using [Arcana](../../compendium/skills.md#Arcana) to [Recall Knowledge](../actions/recall-knowledge.md), the GM might decide that Recalling Knowledge to determine the spells used to create such a construct is beyond the scope of the barbarian's anecdotal knowledge. The GM decides whether a task requires a particular proficiency rank.
+Anyone can use a skill's untrained actions, but you can use trained actions only if you have a proficiency rank of trained or better in that skill. A circumstance, condition, or effect might bar you from a skill action regardless of your proficiency rank, and sometimes using a skill in a specific situation might require you to have a higher proficiency rank than what is listed on the table. For instance, even though a barbarian untrained in [Arcana](compendium/skills.md#Arcana) could identify a construct with a lucky roll using [Arcana](compendium/skills.md#Arcana) to [Recall Knowledge](rules/actions/recall-knowledge.md), the GM might decide that Recalling Knowledge to determine the spells used to create such a construct is beyond the scope of the barbarian's anecdotal knowledge. The GM decides whether a task requires a particular proficiency rank.
 
 ## Skill Checks and Skill DCs
 <sup>CRB p. 234</sup>
@@ -53,11 +53,11 @@ The GM sets the DC of a skill check, using the guidelines in Chapter 10: Game Ma
 
 | Task Difficulty | Simple DC |
 |-----------------|-----------|
-| Untrained | 10 |
-| Trained | 15 |
-| Expert | 20 |
-| Master | 30 |
-| Legendary | 40 |
+| Untrained       | 10        |
+| Trained         | 15        |
+| Expert          | 20        |
+| Master          | 30        |
+| Legendary       | 40        |
 
 When someone or something tests your skill, they attempt a check against your skill DC, which is equal to 10 plus your skill modifier. A skill DC works like any other DC to determine the effect of an opposing creature's skill action.
 
@@ -87,19 +87,19 @@ General skill actions are skill actions that can be used with multiple different
 
 | General Skill Action | Proficiency | Page |
 |----------------------|-------------|------|
-| [Decipher Writing](../actions/decipher-writing.md) | Trained | 234 |
-| [Earn Income](../actions/earn-income.md) | Trained | 236 |
-| [Identify Magic](../actions/identify-magic.md) | Trained | 238 |
-| [Learn a Spell](../actions/learn-a-spell.md) | Trained | 238 |
-| [Recall Knowledge](../actions/recall-knowledge.md) [>](chapter-9-playing-the-game.md#Actions "Single Action") | Untrained | 238 |
-| [Subsist](../actions/subsist.md) | Untrained | 240 |
+| [Decipher Writing](rules/actions/decipher-writing.md) | Trained | 234 |
+| [Earn Income](rules/actions/earn-income.md) | Trained | 236 |
+| [Identify Magic](rules/actions/identify-magic.md) | Trained | 238 |
+| [Learn a Spell](rules/actions/learn-a-spell.md) | Trained | 238 |
+| [Recall Knowledge](rules/actions/recall-knowledge.md) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") | Untrained | 238 |
+| [Subsist](rules/actions/subsist.md) | Untrained | 240 |
 
 ### Decipher Writing (Trained)
 <sup>CRB p. 234</sup>
 
-When you encounter particularly archaic or esoteric texts, the GM might require you to Decipher the Writing before you can understand it. You must be trained in the relevant skill to Decipher Writing. [Arcana](../../compendium/skills.md#Arcana) is typically used for writing about magic or science, [Occultism](../../compendium/skills.md#Occultism) for esoteric texts about mysteries and philosophy, [Religion](../../compendium/skills.md#Religion) for scripture, and Society for coded messages or archaic documents.
+When you encounter particularly archaic or esoteric texts, the GM might require you to Decipher the Writing before you can understand it. You must be trained in the relevant skill to Decipher Writing. [Arcana](compendium/skills.md#Arcana) is typically used for writing about magic or science, [Occultism](compendium/skills.md#Occultism) for esoteric texts about mysteries and philosophy, [Religion](compendium/skills.md#Religion) for scripture, and Society for coded messages or archaic documents.
 
-![Decipher Writing](../actions/decipher-writing.md)
+![Decipher Writing](rules/actions/decipher-writing.md)
 
 > [!pf2-example] Sample Decipher Tasks
 > 
@@ -111,12 +111,12 @@ When you encounter particularly archaic or esoteric texts, the GM might require 
 > 
 > **Legendary** esoteric planar text written in metaphor by an ancient celestial
 
-![Skills, Key Abilities, and Actions](../tables/skills-key-abilities-and-actions.md)
+![Skills, Key Abilities, and Actions](rules/tables/skills-key-abilities-and-actions.md)
 
 ### Earn Income (Trained)
 <sup>CRB p. 236</sup>
 
-You can use a skill—typically [Crafting](../../compendium/skills.md#Crafting), Lore, or [Performance](../../compendium/skills.md#Performance)—to earn money during downtime. You must be trained in the skill to do so. This takes time to set up, and your income depends on your proficiency rank and how lucrative a task you can find. Because this process requires a significant amount of time and involves tracking things outside the progress of adventures, it won't come up in every campaign.
+You can use a skill—typically [Crafting](compendium/skills.md#Crafting), Lore, or [Performance](compendium/skills.md#Performance)—to earn money during downtime. You must be trained in the skill to do so. This takes time to set up, and your income depends on your proficiency rank and how lucrative a task you can find. Because this process requires a significant amount of time and involves tracking things outside the progress of adventures, it won't come up in every campaign.
 
 > [!pf2-brown] Extra Preperation
 > 
@@ -129,9 +129,9 @@ You can use a skill—typically [Crafting](../../compendium/skills.md#Crafting),
 > 
 > However, you might pause a task due to an adventure or event that wouldn't prevent you from returning to the old job later. The GM might decide that you can pick up where you left off, assuming the task hasn't been completed by others in your absence. Whether you roll a new skill check when you resume is also up to the GM. Generally speaking, if you had a good initial roll and want to keep it, you can, but if you had a bad initial roll, you can't try for a better one by pausing to do something else. If your statistics changed during the break—usually because you leveled up while adventuring—you can attempt a new check.
 
-In some cases, the GM might let you use a different skill to Earn Income through specialized work. Usually, this is scholarly work, such as using [Religion](../../compendium/skills.md#Religion) in a monastery to study old texts—but giving sermons at a church would still fall under [Performance](../../compendium/skills.md#Performance) instead of [Religion](../../compendium/skills.md#Religion). You also might be able to use physical skills to make money, such as using [Acrobatics](../../compendium/skills.md#Acrobatics) to perform feats in a circus or [Thievery](../../compendium/skills.md#Thievery) to pick pockets. If you're using a skill other than [Crafting](../../compendium/skills.md#Crafting), Lore, or [Performance](../../compendium/skills.md#Performance), the DC tends to be significantly higher.
+In some cases, the GM might let you use a different skill to Earn Income through specialized work. Usually, this is scholarly work, such as using [Religion](compendium/skills.md#Religion) in a monastery to study old texts—but giving sermons at a church would still fall under [Performance](compendium/skills.md#Performance) instead of [Religion](compendium/skills.md#Religion). You also might be able to use physical skills to make money, such as using [Acrobatics](compendium/skills.md#Acrobatics) to perform feats in a circus or [Thievery](compendium/skills.md#Thievery) to pick pockets. If you're using a skill other than [Crafting](compendium/skills.md#Crafting), Lore, or [Performance](compendium/skills.md#Performance), the DC tends to be significantly higher.
 
-![Earn Income](../actions/earn-income.md)
+![Earn Income](rules/actions/earn-income.md)
 
 > [!pf2-example] Sample Earn Income Tasks
 > 
@@ -145,12 +145,12 @@ In some cases, the GM might let you use a different skill to Earn Income through
 > 
 > **Legendary** run an international brewing franchise, present a case in Hell's courts
 
-![Income Earned](../tables/income-earned.md)
+![Income Earned](rules/tables/income-earned.md)
 
-#### Crafting Goods for the Market ([Crafting](../../compendium/skills.md#Crafting))
+#### Crafting Goods for the Market ([Crafting](compendium/skills.md#Crafting))
 <sup>CRB p. 237</sup>
 
-Using [Crafting](../../compendium/skills.md#Crafting), you can work at producing common items for the market. It's usually easy to find work making basic items whose level is 1 or 2 below your settlement's level (see Earn Income on page 504). Higher-level tasks represent special commissions, which might require you to Craft a specific item using the Craft downtime activity and sell it to a buyer at full price. These opportunities don't occur as often and might have special requirements—or serious consequences if you disappoint a prominent client.
+Using [Crafting](compendium/skills.md#Crafting), you can work at producing common items for the market. It's usually easy to find work making basic items whose level is 1 or 2 below your settlement's level (see Earn Income on page 504). Higher-level tasks represent special commissions, which might require you to Craft a specific item using the Craft downtime activity and sell it to a buyer at full price. These opportunities don't occur as often and might have special requirements—or serious consequences if you disappoint a prominent client.
 
 #### Practicing a Trade (Lore)
 <sup>CRB p. 237</sup>
@@ -179,15 +179,15 @@ You apply the practical benefits of one of your Lore specialties during downtime
 > ### Lem Performs
 > <sup>CRB p. 237</sup>
 > 
-> Lem is a 16th-level bard and legendary with his flute. He has a [Performance](../../compendium/skills.md#Performance) modifier of +31 with his enchanted flute. With 30 days of downtime ahead of him, Lem wonders if he can find something that might excite him more than performing in front of a bunch of stuffy nobles.
+> Lem is a 16th-level bard and legendary with his flute. He has a [Performance](compendium/skills.md#Performance) modifier of +31 with his enchanted flute. With 30 days of downtime ahead of him, Lem wonders if he can find something that might excite him more than performing in front of a bunch of stuffy nobles.
 > 
 > He finds a momentous offer indeed—a performance in a celestial realm, and Lem's patron goddess Shelyn might even be in attendance! This is a 20th-level task, and the GM secretly sets the DC at 40.
 > 
-> Lem rolls an 11 on his [Performance](../../compendium/skills.md#Performance) check for a result of 42. Success! The engagement lasts for a week, and at the end, the grateful celestials present Lem with a beautiful living diamond rose in constant bloom worth 1,400 gold pieces (200 gp per day for 7 days).
+> Lem rolls an 11 on his [Performance](compendium/skills.md#Performance) check for a result of 42. Success! The engagement lasts for a week, and at the end, the grateful celestials present Lem with a beautiful living diamond rose in constant bloom worth 1,400 gold pieces (200 gp per day for 7 days).
 > 
 > With 23 days of downtime left, Lem accepts a 14thlevel task performing at a prestigious bardic college for members of a royal court. The GM secretly sets the DC at 32, and Lem critically succeeds, earning 28 gp per day for a total of 644 gp. Between the two performances, Lem has earned just over 2,000 gold pieces during his downtime—though he's not sure he'll ever sell that rose.
 
-#### Staging a Performance ([Performance](../../compendium/skills.md#Performance))
+#### Staging a Performance ([Performance](compendium/skills.md#Performance))
 <sup>CRB p. 238</sup>
 
 You perform for an audience to make money. The available audiences determine the level of your task, since more discerning audiences are harder to impress but provide a bigger payout. The GM determines the task level based on the audiences available. Performing for a typical audience of commoners on the street is a level 0 task, but a performance for a group of artisans with more refined tastes might be a 2nd- or 3rd-level task, and ones for merchants, nobility, and royalty are increasingly higher level. Your degree of success determines whether you moved your audience and whether you were rewarded with applause or rotten fruit.
@@ -197,7 +197,7 @@ You perform for an audience to make money. The available audiences determine the
 
 Using the skill related to the appropriate tradition, as explained in Magical Traditions and Skills on page 238, you can attempt to identify a magical item, location, or ongoing effect. In many cases, you can use a skill to attempt to Identify Magic of a tradition other than your own at a higher DC. The GM determines whether you can do this and what the DC is.
 
-![Identify Magic](../actions/identify-magic.md)
+![Identify Magic](rules/actions/identify-magic.md)
 
 > [!pf2-example] Magical Traditions and Skills
 > 
@@ -207,43 +207,43 @@ Using the skill related to the appropriate tradition, as explained in Magical Tr
 
 | Magical Tradition | Correspoding Skill |
 |-------------------|--------------------|
-| Arcane | [Arcana](../../compendium/skills.md#Arcana) |
-| Divine | [Religion](../../compendium/skills.md#Religion) |
-| Occult | [Occultism](../../compendium/skills.md#Occultism) |
-| Primal | [Nature](../../compendium/skills.md#Nature) |
+| Arcane | [Arcana](compendium/skills.md#Arcana) |
+| Divine | [Religion](compendium/skills.md#Religion) |
+| Occult | [Occultism](compendium/skills.md#Occultism) |
+| Primal | [Nature](compendium/skills.md#Nature) |
 
 ### Learn a Spell (Trained)
 <sup>CRB p. 238</sup>
 
-If you're a spellcaster, you can use the skill corresponding to your magical tradition to learn a new spell of that tradition. [Table 4–3: Learning a Spell](../tables/learning-a-spell.md) lists the Price of the materials needed to Learn a Spell of each level.
+If you're a spellcaster, you can use the skill corresponding to your magical tradition to learn a new spell of that tradition. [Table 4–3: Learning a Spell](rules/tables/learning-a-spell.md) lists the Price of the materials needed to Learn a Spell of each level.
 
-![Learn a Spell](../actions/learn-a-spell.md)
+![Learn a Spell](rules/actions/learn-a-spell.md)
 
-![Learning a Spell](../tables/learning-a-spell.md)
+![Learning a Spell](rules/tables/learning-a-spell.md)
 
 ### Recall Knowledge (Untrained)
 <sup>CRB p. 238</sup>
 
-To remember useful information on a topic, you can attempt to [Recall Knowledge](../actions/recall-knowledge.md). You might know basic information about something without needing to attempt a check, but [Recall Knowledge](../actions/recall-knowledge.md) requires you to stop and think for a moment so you can recollect more specific facts and apply them. You might even need to spend time investigating first. For instance, to use [Medicine](../../compendium/skills.md#Medicine) to learn the cause of death, you might need to conduct a forensic examination before attempting to [Recall Knowledge](../actions/recall-knowledge.md).
+To remember useful information on a topic, you can attempt to [Recall Knowledge](rules/actions/recall-knowledge.md). You might know basic information about something without needing to attempt a check, but [Recall Knowledge](rules/actions/recall-knowledge.md) requires you to stop and think for a moment so you can recollect more specific facts and apply them. You might even need to spend time investigating first. For instance, to use [Medicine](compendium/skills.md#Medicine) to learn the cause of death, you might need to conduct a forensic examination before attempting to [Recall Knowledge](rules/actions/recall-knowledge.md).
 
-![Recall Knowledge](../actions/recall-knowledge.md)
+![Recall Knowledge](rules/actions/recall-knowledge.md)
 
-The following skills can be used to [Recall Knowledge](../actions/recall-knowledge.md), getting information about the listed topics. In some cases, you can get the GM's permission to use a different but related skill, usually against a higher DC than normal. Some topics might appear on multiple lists, but the skills could give different information. For example, [Arcana](../../compendium/skills.md#Arcana) might tell you about the magical defenses of a golem, whereas [Crafting](../../compendium/skills.md#Crafting) could tell you about its sturdy resistance to physical attacks.
+The following skills can be used to [Recall Knowledge](rules/actions/recall-knowledge.md), getting information about the listed topics. In some cases, you can get the GM's permission to use a different but related skill, usually against a higher DC than normal. Some topics might appear on multiple lists, but the skills could give different information. For example, [Arcana](compendium/skills.md#Arcana) might tell you about the magical defenses of a golem, whereas [Crafting](compendium/skills.md#Crafting) could tell you about its sturdy resistance to physical attacks.
 
-- **[Arcana](../../compendium/skills.md#Arcana):** Arcane theories, magical traditions, creatures of arcane significance, and arcane planes.
-- **[Crafting](../../compendium/skills.md#Crafting):** Alchemical reactions and creatures, item value, engineering, unusual materials, and constructs.
+- **[Arcana](compendium/skills.md#Arcana):** Arcane theories, magical traditions, creatures of arcane significance, and arcane planes.
+- **[Crafting](compendium/skills.md#Crafting):** Alchemical reactions and creatures, item value, engineering, unusual materials, and constructs.
 - **Lore:** The subject of the Lore skill's subcategory.
-- **[Medicine](../../compendium/skills.md#Medicine):** Diseases, poisons, wounds, and forensics.
-- **[Nature](../../compendium/skills.md#Nature):** The environment, flora, geography, weather, creatures of natural origin, and natural planes.
-- **[Occultism](../../compendium/skills.md#Occultism):** Ancient mysteries, obscure philosophy, creatures of occult significance, and esoteric planes.
-- **[Religion](../../compendium/skills.md#Religion):** Divine agents, divine planes, theology, obscure myths, and creatures of religious significance.
+- **[Medicine](compendium/skills.md#Medicine):** Diseases, poisons, wounds, and forensics.
+- **[Nature](compendium/skills.md#Nature):** The environment, flora, geography, weather, creatures of natural origin, and natural planes.
+- **[Occultism](compendium/skills.md#Occultism):** Ancient mysteries, obscure philosophy, creatures of occult significance, and esoteric planes.
+- **[Religion](compendium/skills.md#Religion):** Divine agents, divine planes, theology, obscure myths, and creatures of religious significance.
 - **Society:** Local history, key personalities, legal institutions, societal structure, and humanoid culture.
 
-The GM might allow checks to [Recall Knowledge](../actions/recall-knowledge.md) using other skills. For example, you might assess the skill of an acrobat using [Acrobatics](../../compendium/skills.md#Acrobatics). If you're using a physical skill (like in this example), the GM will most likely have you use a mental ability score—typically Intelligence—instead of the skill's normal physical ability score.
+The GM might allow checks to [Recall Knowledge](rules/actions/recall-knowledge.md) using other skills. For example, you might assess the skill of an acrobat using [Acrobatics](compendium/skills.md#Acrobatics). If you're using a physical skill (like in this example), the GM will most likely have you use a mental ability score—typically Intelligence—instead of the skill's normal physical ability score.
 
 > [!pf2-example] Recall Knowledge Tasks
 > 
-> These examples use Society or [Religion](../../compendium/skills.md#Religion).
+> These examples use Society or [Religion](compendium/skills.md#Religion).
 > 
 > **Untrained** name of a ruler, key noble, or major deity
 > 
@@ -258,9 +258,9 @@ The GM might allow checks to [Recall Knowledge](../actions/recall-knowledge.md) 
 ### Subsist (Untrained)
 <sup>CRB p. 240</sup>
 
-If you need to provide food and shelter, you can use the [Subsist](../actions/subsist.md) downtime activity. This typically uses Society if you're in a settlement or [Survival](../../compendium/skills.md#Survival) if you're in the wild.
+If you need to provide food and shelter, you can use the [Subsist](rules/actions/subsist.md) downtime activity. This typically uses Society if you're in a settlement or [Survival](compendium/skills.md#Survival) if you're in the wild.
 
-![Subsist](../actions/subsist.md)
+![Subsist](rules/actions/subsist.md)
 
 > [!pf2-example] Sample Subsist Tasks
 > 
@@ -284,9 +284,9 @@ Most skills include entries for success and failure, as well as descriptions of 
 ### Acrobatics (Dex)
 <sup>CRB p. 240</sup>
 
-[Acrobatics](../../compendium/skills.md#Acrobatics) measures your ability to perform tasks requiring coordination and grace. When you use the [Escape](../actions/escape.md) basic action (page 470), you can use your [Acrobatics](../../compendium/skills.md#Acrobatics) modifier instead of your unarmed attack modifier.
+[Acrobatics](compendium/skills.md#Acrobatics) measures your ability to perform tasks requiring coordination and grace. When you use the [Escape](rules/actions/escape.md) basic action (page 470), you can use your [Acrobatics](compendium/skills.md#Acrobatics) modifier instead of your unarmed attack modifier.
 
-![Balance](../actions/balance.md)
+![Balance](rules/actions/balance.md)
 
 > [!pf2-example] Sample Balance Tasks
 > 
@@ -300,12 +300,12 @@ Most skills include entries for success and failure, as well as descriptions of 
 > 
 > **Legendary** razor's edge, chunks of floor falling in midair
 
-![Tumble Through](../actions/tumble-through.md)
+![Tumble Through](rules/actions/tumble-through.md)
 
 #### Acrobatics Trained Actions
 <sup>CRB p. 240</sup>
 
-![Maneuver in Flight](../actions/maneuver-in-flight.md)
+![Maneuver in Flight](rules/actions/maneuver-in-flight.md)
 
 > [!pf2-example] Sample Maneuver in Flight Tasks
 > 
@@ -317,7 +317,7 @@ Most skills include entries for success and failure, as well as descriptions of 
 > 
 > **Legendary** fly through gale force winds
 
-![Squeeze](../actions/squeeze.md)
+![Squeeze](rules/actions/squeeze.md)
 
 > [!pf2-example] Sample Squeeze Tasks
 > 
@@ -328,27 +328,27 @@ Most skills include entries for success and failure, as well as descriptions of 
 ### Arcana (Int)
 <sup>CRB p. 241</sup>
 
-[Arcana](../../compendium/skills.md#Arcana) measures how much you know about arcane magic and creatures. Even if you're untrained, you can [Recall Knowledge](../actions/recall-knowledge.md).
+[Arcana](compendium/skills.md#Arcana) measures how much you know about arcane magic and creatures. Even if you're untrained, you can [Recall Knowledge](rules/actions/recall-knowledge.md).
 
 - **Recall Knowledge** about arcane theories; magic traditions; creatures of arcane significance (like dragons and beasts); and the Elemental, Astral, and Shadow Planes.
 
 #### Arcana Trained Actions
 <sup>CRB p. 241</sup>
 
-You must be trained in [Arcana](../../compendium/skills.md#Arcana) to use it for the following general skill actions (page 234).
+You must be trained in [Arcana](compendium/skills.md#Arcana) to use it for the following general skill actions (page 234).
 
 - **Decipher Writing** about arcane theory.
 - **Identify Magic**, particularly arcane magic.
-- **Learn a Spell** from the [arcane](../traits/arcane.md) tradition.
+- **Learn a Spell** from the [arcane](rules/traits/arcane.md "Arcane Tradition Trait") tradition.
 
-![Borrow an Arcane Spell](../actions/borrow-an-arcane-spell.md)
+![Borrow an Arcane Spell](rules/actions/borrow-an-arcane-spell.md)
 
 ### Athletics (Str)
 <sup>CRB p. 241</sup>
 
-[Athletics](../../compendium/skills.md#Athletics) allows you to perform deeds of physical prowess. When you use the [Escape](../actions/escape.md) basic action, you can use your [Athletics](../../compendium/skills.md#Athletics) modifier instead of your unarmed attack modifier.
+[Athletics](compendium/skills.md#Athletics) allows you to perform deeds of physical prowess. When you use the [Escape](rules/actions/escape.md) basic action, you can use your [Athletics](compendium/skills.md#Athletics) modifier instead of your unarmed attack modifier.
 
-![Climb](../actions/climb.md)
+![Climb](rules/actions/climb.md)
 
 > [!pf2-example] Sample Climb Tasks
 > 
@@ -409,7 +409,7 @@ You must be trained in [Arcana](../../compendium/skills.md#Arcana) to use it for
 > </table>
 > 
 
-![Force Open](../actions/force-open.md)
+![Force Open](rules/actions/force-open.md)
 
 > [!pf2-example] Sample Force Open Tasks
 > 
@@ -423,23 +423,23 @@ You must be trained in [Arcana](../../compendium/skills.md#Arcana) to use it for
 > 
 > **Legendary** stone or iron door
 
-![Grapple](../actions/grapple.md)
+![Grapple](rules/actions/grapple.md)
 
-![High Jump](../actions/high-jump.md)
+![High Jump](rules/actions/high-jump.md)
 
 > [!pf2-example] Leap
 > 
 > The Leap basic action is used for High Jump and Long Jump. Leap lets you take a careful, short jump. You can Leap up to 10 feet horizontally if your Speed is at least 15 feet, or up to 15 feet horizontally if your Speed is at least 30 feet. You land in the space where your Leap ends (meaning you can typically clear a 5-foot gap if your Speed is between 15 feet and 30 feet, or a 10-foot gap if your Speed is 30 feet or more). If you make a vertical Leap, you can move up to 3 feet vertically and 5 feet horizontally onto an elevated surface.
 
-![Long Jump](../actions/long-jump.md)
+![Long Jump](rules/actions/long-jump.md)
 
-![Shove](../actions/shove.md)
+![Shove](rules/actions/shove.md)
 
 > [!pf2-example] Forced Movement
 > 
-> The [Shove](../actions/shove.md) action can force a creature to move. When an effect forces you to move, or if you start falling, the distance you move is defined by the effect that moved you, not by your Speed. Because you're not acting to move, this doesn't trigger reactions triggered by movement.
+> The [Shove](rules/actions/shove.md) action can force a creature to move. When an effect forces you to move, or if you start falling, the distance you move is defined by the effect that moved you, not by your Speed. Because you're not acting to move, this doesn't trigger reactions triggered by movement.
 
-![Swim](../actions/swim.md)
+![Swim](rules/actions/swim.md)
 
 > [!pf2-example] Sample Swim Tasks
 > 
@@ -453,7 +453,7 @@ You must be trained in [Arcana](../../compendium/skills.md#Arcana) to use it for
 > 
 > **Legendary** maelstrom, waterfall
 
-![Trip](../actions/trip.md)
+![Trip](rules/actions/trip.md)
 
 > [!pf2-brown] FALLING
 > 
@@ -461,75 +461,75 @@ You must be trained in [Arcana](../../compendium/skills.md#Arcana) to use it for
 > 
 > If you fall into water, snow, or another soft substance, calculate the damage from the fall as though your fall were 20 feet shorter. The reduction can't be greater than the depth of the water (so when falling into water that is only 10 feet deep, you treat the fall as 10 feet shorter).
 > 
-> You can [Grab an Edge](../actions/grab-an-edge.md) as a reaction to reduce or eliminate the damage from some falls. More detailed rules for falling damage appear on page 463.
+> You can [Grab an Edge](rules/actions/grab-an-edge.md) as a reaction to reduce or eliminate the damage from some falls. More detailed rules for falling damage appear on page 463.
 
 #### Athletics Trained Action
 <sup>CRB p. 243</sup>
 
-![Disarm](../actions/disarm.md)
+![Disarm](rules/actions/disarm.md)
 
 ### Crafting (Int)
 <sup>CRB p. 243</sup>
 
 You can use this skill to create, understand, and repair items.
 
-Even if you're untrained, you can [Recall Knowledge](../actions/recall-knowledge.md).
+Even if you're untrained, you can [Recall Knowledge](rules/actions/recall-knowledge.md).
 
 - **Recall Knowledge** about alchemical reactions, the value of items, engineering, unusual materials, and alchemical or mechanical creatures. The GM determines which creatures this applies to, but it usually includes constructs.
 
-![Repair](../actions/repair.md)
+![Repair](rules/actions/repair.md)
 
 #### Crafting Trained Actions
 <sup>CRB p. 244</sup>
 
-You must be trained in [Crafting](../../compendium/skills.md#Crafting) to use it to [Earn Income](../actions/earn-income.md).
+You must be trained in [Crafting](compendium/skills.md#Crafting) to use it to [Earn Income](rules/actions/earn-income.md).
 
 - **Earn Income** by crafting goods for the market.
 
-![Craft](../actions/craft.md)
+![Craft](rules/actions/craft.md)
 
 > [!pf2-example] Consumables and Ammunition
 > 
-> You can Craft items with the consumable trait in batches, making up to four of the same item at once with a single check. This requires you to include the raw materials for all the items in the batch at the start, and you must complete the batch all at once. You also Craft non-magical ammunition in batches, using the quantity listed in [Table 6–8: Ranged Weapons](../tables/ranged-weapons.md) (typically 10).
+> You can Craft items with the consumable trait in batches, making up to four of the same item at once with a single check. This requires you to include the raw materials for all the items in the batch at the start, and you must complete the batch all at once. You also Craft non-magical ammunition in batches, using the quantity listed in [Table 6–8: Ranged Weapons](rules/tables/ranged-weapons.md) (typically 10).
 
 > [!pf2-example] Getting Formulas
 > 
-> You can gain access to the formulas for all common items in Chapter 6: Equipment by purchasing a [basic crafter's book](../../compendium/equipment/items/basic-crafters-book.md). See the rules on page 293 for information on how to acquire other formulas.
+> You can gain access to the formulas for all common items in Chapter 6: Equipment by purchasing a [basic crafter's book](compendium/equipment/items/basic-crafters-book.md). See the rules on page 293 for information on how to acquire other formulas.
 
 > [!pf2-brown] Crafting Example
 > 
-> Ezren is a 5th-level wizard and an expert in [Crafting](../../compendium/skills.md#Crafting). He has a [Crafting](../../compendium/skills.md#Crafting) modifier of +13 and the [Magical Crafting](../../compendium/feats/magical-crafting.md) feat. With 2 weeks of downtime ahead of him, he decides to craft a [striking](../../compendium/equipment/items/striking.md) rune, a 4th-level item. The GM secretly chooses a DC of 19.
+> Ezren is a 5th-level wizard and an expert in [Crafting](compendium/skills.md#Crafting). He has a [Crafting](compendium/skills.md#Crafting) modifier of +13 and the [Magical Crafting](compendium/feats/magical-crafting.md) feat. With 2 weeks of downtime ahead of him, he decides to craft a [striking](compendium/equipment/items/striking.md) rune, a 4th-level item. The GM secretly chooses a DC of 19.
 > 
-> The item has a Price of 65 gp, so Ezren prepares 32 gp, 5 sp worth of raw materials. He has another 32 gp, 5 sp worth of raw materials on hand. After spending 4 days building and incanting spells, he rolls a 12 on his [Crafting](../../compendium/skills.md#Crafting) check, for a result of 25. That's a success! At this point, Ezren can spend the additional 32 gp, 5 sp worth of materials to complete the item immediately for 65 gp.
+> The item has a Price of 65 gp, so Ezren prepares 32 gp, 5 sp worth of raw materials. He has another 32 gp, 5 sp worth of raw materials on hand. After spending 4 days building and incanting spells, he rolls a 12 on his [Crafting](compendium/skills.md#Crafting) check, for a result of 25. That's a success! At this point, Ezren can spend the additional 32 gp, 5 sp worth of materials to complete the item immediately for 65 gp.
 > 
 > However, Ezren has 10 more days on his hands, so he decides to spend additional time to complete the item.
 > 
-> Because he's a 5th-level character and an expert at [Crafting](../../compendium/skills.md#Crafting), he reduces the amount he has to pay by 1 gp for each day spent. After spending 10 days working, he reduces the cost to complete the item from 65 gp to 55 gp. He spends the remaining portion of its Price in materials, completes the [striking](../../compendium/equipment/items/striking.md) rune, and goes out on his next adventure. (He could have stayed home to keep working on the striking rune, eventually reducing the item's total Price to just the half he paid up front, but adventuring is far more lucrative!) If Ezren's [Crafting](../../compendium/skills.md#Crafting) check result were a 29 or higher, he'd have gotten a critical success. In that case, he'd reduce the remaining amount by 2 gp per day, lowering the amount needed to complete the item after 10 additional days of work to 45 gp.
+> Because he's a 5th-level character and an expert at [Crafting](compendium/skills.md#Crafting), he reduces the amount he has to pay by 1 gp for each day spent. After spending 10 days working, he reduces the cost to complete the item from 65 gp to 55 gp. He spends the remaining portion of its Price in materials, completes the [striking](compendium/equipment/items/striking.md) rune, and goes out on his next adventure. (He could have stayed home to keep working on the striking rune, eventually reducing the item's total Price to just the half he paid up front, but adventuring is far more lucrative!) If Ezren's [Crafting](compendium/skills.md#Crafting) check result were a 29 or higher, he'd have gotten a critical success. In that case, he'd reduce the remaining amount by 2 gp per day, lowering the amount needed to complete the item after 10 additional days of work to 45 gp.
 
-![Identify Alchemy](../actions/identify-alchemy.md)
+![Identify Alchemy](rules/actions/identify-alchemy.md)
 
 ### Deception (Cha)
 <sup>CRB p. 245</sup>
 
 You can trick and mislead others using disguises, lies, and other forms of subterfuge.
 
-![Create a Diversion](../actions/create-a-diversion.md)
+![Create a Diversion](rules/actions/create-a-diversion.md)
 
-![Impersonate](../actions/impersonate.md)
+![Impersonate](rules/actions/impersonate.md)
 
-![Lie](../actions/lie.md)
+![Lie](rules/actions/lie.md)
 
 #### Deception Trained Action
 <sup>CRB p. 246</sup>
 
-![Feint](../actions/feint.md)
+![Feint](rules/actions/feint.md)
 
 ### Diplomacy (Cha)
 <sup>CRB p. 246</sup>
 
 You influence others through negotiation and flattery.
 
-![Gather Information](../actions/gather-information.md)
+![Gather Information](rules/actions/gather-information.md)
 
 > [!pf2-example] Sample Gather Information Tasks
 > 
@@ -543,7 +543,7 @@ You influence others through negotiation and flattery.
 > 
 > **Legendary** information known only to an incredibly select few, or only to extraordinary beings
 
-![Make an Impression](../actions/make-an-impression.md)
+![Make an Impression](rules/actions/make-an-impression.md)
 
 > [!pf2-example] Changing Attitudes
 > 
@@ -551,24 +551,24 @@ You influence others through negotiation and flattery.
 > 
 > The attitudes are detailed in the Conditions Appendix and are summarized here.
 > 
-> - **[Helpful:](../conditions.md#Helpful)** Willing to help you and responds favorably to your requests.
-> - **[Friendly:](../conditions.md#Friendly)** Has a good attitude toward you, but won't necessarily stick their neck out to help you.
-> - **[Indifferent:](../conditions.md#Indifferent)** Doesn't care about you either way. (Most NPCs start out indifferent.)
-> - **[Unfriendly:](../conditions.md#Unfriendly)** Dislikes you and doesn't want to help you.
-> - **[Hostile:](../conditions.md#Hostile)** Actively works against you—and might attack you just because of their dislike.
+> - **[Helpful:](rules/conditions.md#Helpful)** Willing to help you and responds favorably to your requests.
+> - **[Friendly:](rules/conditions.md#Friendly)** Has a good attitude toward you, but won't necessarily stick their neck out to help you.
+> - **[Indifferent:](rules/conditions.md#Indifferent)** Doesn't care about you either way. (Most NPCs start out indifferent.)
+> - **[Unfriendly:](rules/conditions.md#Unfriendly)** Dislikes you and doesn't want to help you.
+> - **[Hostile:](rules/conditions.md#Hostile)** Actively works against you—and might attack you just because of their dislike.
 > 
-> No one can ever change the attitude of a player character with these skills. You can roleplay interactions with player characters, and even use [Diplomacy](../../compendium/skills.md#Diplomacy) results if the player wants a mechanical sense of how convincing or charming a character is, but players make the ultimate decisions about how their characters respond.
+> No one can ever change the attitude of a player character with these skills. You can roleplay interactions with player characters, and even use [Diplomacy](compendium/skills.md#Diplomacy) results if the player wants a mechanical sense of how convincing or charming a character is, but players make the ultimate decisions about how their characters respond.
 
-![Request](../actions/request.md)
+![Request](rules/actions/request.md)
 
 ### Intimidation (Cha)
 <sup>CRB p. 247</sup>
 
 You bend others to your will using threats.
 
-![Coerce](../actions/coerce.md)
+![Coerce](rules/actions/coerce.md)
 
-![Demoralize](../actions/demoralize.md)
+![Demoralize](rules/actions/demoralize.md)
 
 ### Lore (Int)
 <sup>CRB p. 247</sup>
@@ -577,13 +577,13 @@ You have specialized information on a narrow topic.
 
 Lore features many subcategories. You might have Military Lore, Sailing Lore, Vampire Lore, or any similar subcategory of the skill. Each subcategory counts as its own skill, so applying a skill increase to Planar Lore wouldn't increase your proficiency with Sailing Lore, for example.
 
-You gain a specific subcategory of the Lore skill from your background. The GM determines what other subcategories they'll allow as Lore skills, though these categories are always less broad than any of the other skills that allow you to Recall Knowledge, and they should never be able to fully or mainly take the place of another skill's [Recall Knowledge](../actions/recall-knowledge.md) action. For instance, Magic Lore wouldn't enable you to recall the same breadth of knowledge covered by [Arcana](../../compendium/skills.md#Arcana), Adventuring Lore wouldn't simply give you all the information an adventurer needs, and Planar Lore would not be sufficient to gain all the information spread across various skills and subcategories such as Heaven Lore.
+You gain a specific subcategory of the Lore skill from your background. The GM determines what other subcategories they'll allow as Lore skills, though these categories are always less broad than any of the other skills that allow you to Recall Knowledge, and they should never be able to fully or mainly take the place of another skill's [Recall Knowledge](rules/actions/recall-knowledge.md) action. For instance, Magic Lore wouldn't enable you to recall the same breadth of knowledge covered by [Arcana](compendium/skills.md#Arcana), Adventuring Lore wouldn't simply give you all the information an adventurer needs, and Planar Lore would not be sufficient to gain all the information spread across various skills and subcategories such as Heaven Lore.
 
 If you have multiple subcategories of Lore that could apply to a check or that would overlap with another skill in the circumstances, you can use the skill with the better skill modifier or the one you would prefer to use. If there's any doubt whether a Lore skill applies to a specific topic or action, the GM decides whether it can be used or not.
 
-Even if you're untrained in Lore, you can use it to [Recall Knowledge](../actions/recall-knowledge.md).
+Even if you're untrained in Lore, you can use it to [Recall Knowledge](rules/actions/recall-knowledge.md).
 
-- **[Recall Knowledge](../actions/recall-knowledge.md)** about the subject of your Lore skill's subcategory.
+- **[Recall Knowledge](rules/actions/recall-knowledge.md)** about the subject of your Lore skill's subcategory.
 
 > [!pf2-example] Common Lore Categories
 > 
@@ -608,7 +608,7 @@ Even if you're untrained in Lore, you can use it to [Recall Knowledge](../action
 > - Labor Lore
 > - Legal Lore
 > - Library Lore
-> - Lore about a specific deity ([Golarion](../../compendium/setting/deities/abadar.md) Lore, [Golarion](../../compendium/setting/deities/iomedae.md) Lore, etc.)
+> - Lore about a specific deity ([Golarion](compendium/setting/deities/abadar.md) Lore, [Golarion](compendium/setting/deities/iomedae.md) Lore, etc.)
 > - Lore about a specific creature or narrow category of creatures (Demon Lore, Owlbear Lore, Vampire Lore, etc.)
 > - Lore of a specific plane other than the Material Plane,or the plane in which the game is set if not the Material Plane (Abyss Lore, Astral Plane Lore, Heaven Lore, etc.)
 > - Lore about a specific settlement (Absalom Lore,Magnimar Lore, etc.)
@@ -632,34 +632,34 @@ Even if you're untrained in Lore, you can use it to [Recall Knowledge](../action
 
 You must be trained in Lore to use it to Earn Income (page 236).
 
-- **[Earn Income](../actions/earn-income.md)** by using your knowledge to practice a trade.
+- **[Earn Income](rules/actions/earn-income.md)** by using your knowledge to practice a trade.
 
 ### Medicine (Wis)
 <sup>CRB p. 248</sup>
 
-You can patch up wounds and help people recover from diseases and poisons. Even if you're untrained in [Medicine](../../compendium/skills.md#Medicine), you can use it to [Recall Knowledge](../actions/recall-knowledge.md).
+You can patch up wounds and help people recover from diseases and poisons. Even if you're untrained in [Medicine](compendium/skills.md#Medicine), you can use it to [Recall Knowledge](rules/actions/recall-knowledge.md).
 
-- **[Recall Knowledge](../actions/recall-knowledge.md)** about diseases, injuries, poisons, and other ailments. You can use this to perform forensic examinations if you spend 10 minutes (or more, as determined by the GM) checking for evidence such as wound patterns. This is most useful when determining how a body was injured or killed.
+- **[Recall Knowledge](rules/actions/recall-knowledge.md)** about diseases, injuries, poisons, and other ailments. You can use this to perform forensic examinations if you spend 10 minutes (or more, as determined by the GM) checking for evidence such as wound patterns. This is most useful when determining how a body was injured or killed.
 
-![Administer First Aid](../actions/administer-first-aid.md)
+![Administer First Aid](rules/actions/administer-first-aid.md)
 
 #### Medicine Trained Actions
 <sup>CRB p. 248</sup>
 
-![Treat Disease](../actions/treat-disease.md)
+![Treat Disease](rules/actions/treat-disease.md)
 
-![Treat Poison](../actions/treat-poison.md)
+![Treat Poison](rules/actions/treat-poison.md)
 
-![Treat Wounds](../actions/treat-wounds.md)
+![Treat Wounds](rules/actions/treat-wounds.md)
 
 ### Nature (Wis)
 <sup>CRB p. 249</sup>
 
-You know a great deal about the natural world, and you command and train animals and magical beasts. Even if you're untrained in [Nature](../../compendium/skills.md#Nature), you can use it to [Recall Knowledge](../actions/recall-knowledge.md).
+You know a great deal about the natural world, and you command and train animals and magical beasts. Even if you're untrained in [Nature](compendium/skills.md#Nature), you can use it to [Recall Knowledge](rules/actions/recall-knowledge.md).
 
-- **[Recall Knowledge](../actions/recall-knowledge.md)** about fauna, flora, geography, weather, the environment, creatures of natural origin (like animals, beasts, fey, and plants), the First World, the Material Plane, and the Elemental Planes.
+- **[Recall Knowledge](rules/actions/recall-knowledge.md)** about fauna, flora, geography, weather, the environment, creatures of natural origin (like animals, beasts, fey, and plants), the First World, the Material Plane, and the Elemental Planes.
 
-![Command an Animal](../actions/command-an-animal.md)
+![Command an Animal](rules/actions/command-an-animal.md)
 
 > [!pf2-brown] COMMANDED ANIMALS
 > 
@@ -670,26 +670,26 @@ You know a great deal about the natural world, and you command and train animals
 #### Nature Trained Actions
 <sup>CRB p. 249</sup>
 
-You must be trained in [Nature](../../compendium/skills.md#Nature) to use it for the following general skill actions (page 234).
+You must be trained in [Nature](compendium/skills.md#Nature) to use it for the following general skill actions (page 234).
 
-- **[Identify Magic](../actions/identify-magic.md)**, particularly primal magic.
-- **[Learn a Spell](../actions/learn-a-spell.md)** from the [primal](../traits/primal.md) tradition.
+- **[Identify Magic](rules/actions/identify-magic.md)**, particularly primal magic.
+- **[Learn a Spell](rules/actions/learn-a-spell.md)** from the [primal](rules/traits/primal.md "Primal Tradition Trait") tradition.
 
 ### Occultism (Int)
 <sup>CRB p. 249</sup>
 
-You know a great deal about ancient philosophies, esoteric lore, obscure mysticism, and supernatural creatures. Even if you're untrained in [Occultism](../../compendium/skills.md#Occultism), you can use it to [Recall Knowledge](../actions/recall-knowledge.md).
+You know a great deal about ancient philosophies, esoteric lore, obscure mysticism, and supernatural creatures. Even if you're untrained in [Occultism](compendium/skills.md#Occultism), you can use it to [Recall Knowledge](rules/actions/recall-knowledge.md).
 
-- **[Recall Knowledge](../actions/recall-knowledge.md)** about ancient mysteries; obscure philosophies; creatures of occult significance (like aberrations, spirits, and oozes); and the Positive Energy, Negative Energy, Shadow, Astral, and Ethereal Planes.
+- **[Recall Knowledge](rules/actions/recall-knowledge.md)** about ancient mysteries; obscure philosophies; creatures of occult significance (like aberrations, spirits, and oozes); and the Positive Energy, Negative Energy, Shadow, Astral, and Ethereal Planes.
 
 #### Occultism Trained Actions
 <sup>CRB p. 249</sup>
 
-You must be trained in [Occultism](../../compendium/skills.md#Occultism) to use it for the following general skill actions (page 234).
+You must be trained in [Occultism](compendium/skills.md#Occultism) to use it for the following general skill actions (page 234).
 
-- **[Decipher Writing](../actions/decipher-writing.md)** on occult topics, including complex metaphysical systems, syncretic principles, weird philosophies, and incoherent ramblings.
-- **[Identify Magic](../actions/identify-magic.md)**, particularly occult magic.
-- **[Learn a Spell](../actions/learn-a-spell.md)** from the [occult](../traits/occult.md) tradition.
+- **[Decipher Writing](rules/actions/decipher-writing.md)** on occult topics, including complex metaphysical systems, syncretic principles, weird philosophies, and incoherent ramblings.
+- **[Identify Magic](rules/actions/identify-magic.md)**, particularly occult magic.
+- **[Learn a Spell](rules/actions/learn-a-spell.md)** from the [occult](rules/traits/occult.md "Occult Tradition Trait") tradition.
 
 ### Performance (Cha)
 <sup>CRB p. 250</sup>
@@ -706,16 +706,16 @@ Likewise, if you are orating and have a negative Intelligence modifier, you migh
 #### Performance Traits
 <sup>CRB p. 250</sup>
 
-When you use an action that utilizes the [Performance](../../compendium/skills.md#Performance) skill, it gains one or more traits relevant to the type of performance. The GM might change these depending on the circumstances, but the most common performancebased traits are listed below.
+When you use an action that utilizes the [Performance](compendium/skills.md#Performance) skill, it gains one or more traits relevant to the type of performance. The GM might change these depending on the circumstances, but the most common performancebased traits are listed below.
 
 | Performance | Additional Traits |
 |-------------|-------------------|
-| Act or perform comedy | [Auditory](../traits/auditory.md), [linguistic](../traits/linguistic.md), and [visual](../traits/visual.md) |
-| Dance | [Move](../traits/move.md) and [visual](../traits/visual.md) |
-| Play an instrument | [Auditory](../traits/auditory.md) and [manipulate](../traits/manipulate.md) |
-| Orate or sing | [Auditory](../traits/auditory.md) and [linguistic](../traits/linguistic.md) |
+| Act or perform comedy | [Auditory](rules/traits/auditory.md "Auditory Effect Trait"), [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait"), and [visual](rules/traits/visual.md "Visual Effect Trait") |
+| Dance | [Move](rules/traits/move.md "Move Combat Trait") and [visual](rules/traits/visual.md "Visual Effect Trait") |
+| Play an instrument | [Auditory](rules/traits/auditory.md "Auditory Effect Trait") and [manipulate](rules/traits/manipulate.md "Manipulate General Trait") |
+| Orate or sing | [Auditory](rules/traits/auditory.md "Auditory Effect Trait") and [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait") |
 
-![Perform](../actions/perform.md)
+![Perform](rules/actions/perform.md)
 
 > [!pf2-example] Sample Perform Tasks
 > 
@@ -732,62 +732,62 @@ When you use an action that utilizes the [Performance](../../compendium/skills.m
 #### Performance Trained Action
 <sup>CRB p. 250</sup>
 
-You must be trained in [Performance](../../compendium/skills.md#Performance) to use it to Earn Income (page 236).
+You must be trained in [Performance](compendium/skills.md#Performance) to use it to Earn Income (page 236).
 
-- **[Earn Income](../actions/earn-income.md)** by staging a performance.
+- **[Earn Income](rules/actions/earn-income.md)** by staging a performance.
 
 ### Religion (Wis)
 <sup>CRB p. 250</sup>
 
 The secrets of deities, dogma, faith, and the realms of divine creatures both sublime and sinister are open to you. You also understand how magic works, though your training imparts a religious slant to that knowledge.
 
-Even if you're untrained in [Religion](../../compendium/skills.md#Religion), you can use it to [Recall Knowledge](../actions/recall-knowledge.md).
+Even if you're untrained in [Religion](compendium/skills.md#Religion), you can use it to [Recall Knowledge](rules/actions/recall-knowledge.md).
 
-- **[Recall Knowledge](../actions/recall-knowledge.md)** about divine agents, the finer points of theology, obscure myths regarding a faith, and creatures of religious significance (like celestials, fiends, and undead), the Outer Sphere, and the Positive and Negative Energy Planes.
+- **[Recall Knowledge](rules/actions/recall-knowledge.md)** about divine agents, the finer points of theology, obscure myths regarding a faith, and creatures of religious significance (like celestials, fiends, and undead), the Outer Sphere, and the Positive and Negative Energy Planes.
 
 #### Religion Trained Actions
 <sup>CRB p. 250</sup>
 
-You must be trained in [Religion](../../compendium/skills.md#Religion) to use it for the following general skill actions (page 234).
+You must be trained in [Religion](compendium/skills.md#Religion) to use it for the following general skill actions (page 234).
 
-- **[Decipher Writing](../actions/decipher-writing.md)** of a religious nature, including allegories, homilies, and proverbs.
-- **[Identify Magic](../actions/identify-magic.md)**, particularly divine magic.
-- **[Learn a Spell](../actions/learn-a-spell.md)** from the [divine](../traits/divine.md) tradition.
+- **[Decipher Writing](rules/actions/decipher-writing.md)** of a religious nature, including allegories, homilies, and proverbs.
+- **[Identify Magic](rules/actions/identify-magic.md)**, particularly divine magic.
+- **[Learn a Spell](rules/actions/learn-a-spell.md)** from the [divine](rules/traits/divine.md "Divine Tradition Trait") tradition.
 
 ### Society (Int)
 <sup>CRB p. 250</sup>
 
 You understand the people and systems that make civilization run, and you know the historical events that make societies what they are today. Further, you can use that knowledge to navigate the complex physical, societal, and economic workings of settlements. Even if you're untrained in Society, you can use it for the following general skill actions (page 234).
 
-- **[Recall Knowledge](../actions/recall-knowledge.md)** about local history, important personalities, legal institutions, societal structure, and humanoid cultures. The GM might allow Society to apply to other creatures that are major elements of society in your region, such as the draconic nobility in a kingdom of humans ruled by dragons.
-- **[Subsist](../actions/subsist.md)** in a settlement by finding shelter, scrounging, or begging for food.
+- **[Recall Knowledge](rules/actions/recall-knowledge.md)** about local history, important personalities, legal institutions, societal structure, and humanoid cultures. The GM might allow Society to apply to other creatures that are major elements of society in your region, such as the draconic nobility in a kingdom of humans ruled by dragons.
+- **[Subsist](rules/actions/subsist.md)** in a settlement by finding shelter, scrounging, or begging for food.
 
 #### Society Trained Actions
 <sup>CRB p. 250</sup>
 
-You must be trained in Society to use it to [Decipher Writing](../actions/decipher-writing.md).
+You must be trained in Society to use it to [Decipher Writing](rules/actions/decipher-writing.md).
 
-- **[Decipher Writing](../actions/decipher-writing.md)** that's a coded message, text written in an incomplete or archaic form, or in some cases, text in a language you don't know.
+- **[Decipher Writing](rules/actions/decipher-writing.md)** that's a coded message, text written in an incomplete or archaic form, or in some cases, text in a language you don't know.
 
-![Create Forgery](../actions/create-forgery.md)
+![Create Forgery](rules/actions/create-forgery.md)
 
 ### Stealth (Dex)
 <sup>CRB p. 251</sup>
 
 You are skilled at avoiding detection, allowing you to slip past foes, hide, or conceal an item.
 
-![Conceal an Object](../actions/conceal-an-object.md)
+![Conceal an Object](rules/actions/conceal-an-object.md)
 
 > [!pf2-brown] Being Stealthy
 > 
-> If you want to sneak around when there are creatures that can see you, you can use a combination of [Hide](../actions/hide.md) and [Sneak](../actions/sneak.md) to do so.
+> If you want to sneak around when there are creatures that can see you, you can use a combination of [Hide](rules/actions/hide.md) and [Sneak](rules/actions/sneak.md) to do so.
 > 
-> - First, [Hide](../actions/hide.md) behind something (either by taking advantage of cover or having the [concealed](../conditions.md#Concealed) condition due to fog, a spell, or a similar effect). A successful [Stealth](../../compendium/skills.md#Stealth) check makes you hidden, though the creatures still know roughly where you are.
-> - Second, now that you're hidden, you can [Sneak](../actions/sneak.md). That means you can move at half your Speed and attempt another [Stealth](../../compendium/skills.md#Stealth) check. If it's successful, you're now [undetected](../conditions.md#Undetected). That means the creatures don't know which square you're in anymore.
+> - First, [Hide](rules/actions/hide.md) behind something (either by taking advantage of cover or having the [concealed](rules/conditions.md#Concealed) condition due to fog, a spell, or a similar effect). A successful [Stealth](compendium/skills.md#Stealth) check makes you hidden, though the creatures still know roughly where you are.
+> - Second, now that you're hidden, you can [Sneak](rules/actions/sneak.md). That means you can move at half your Speed and attempt another [Stealth](compendium/skills.md#Stealth) check. If it's successful, you're now [undetected](rules/conditions.md#Undetected). That means the creatures don't know which square you're in anymore.
 > 
-> If you were approaching creatures that didn't know you were there, you could begin [Sneaking](../actions/sneak.md) right away, since they didn't know your location to start with. Some actions can cause you to become [observed](../conditions.md#Observed) again, but they're mostly what you'd expect: standing out in the open, attacking someone, making a bunch of noise, and so forth. If you [Strike](../actions/strike.md) someone after successfully [Hiding](../actions/hide.md) or [Sneaking](../actions/sneak.md), though, they're [flat-footed](../conditions.md#Flat-footed) to that [Strike](../actions/strike.md).
+> If you were approaching creatures that didn't know you were there, you could begin [Sneaking](rules/actions/sneak.md) right away, since they didn't know your location to start with. Some actions can cause you to become [observed](rules/conditions.md#Observed) again, but they're mostly what you'd expect: standing out in the open, attacking someone, making a bunch of noise, and so forth. If you [Strike](rules/actions/strike.md) someone after successfully [Hiding](rules/actions/hide.md) or [Sneaking](rules/actions/sneak.md), though, they're [flat-footed](rules/conditions.md#Flat-footed) to that [Strike](rules/actions/strike.md).
 > 
-> Creatures can try to find you using the [Seek](../actions/seek.md) action , described on page 471.
+> Creatures can try to find you using the [Seek](rules/actions/seek.md) action , described on page 471.
 > 
 > Three conditions explain the states of detection. Remember that these conditions are relative to each creature—you can be observed by one creature while hidden to another and undetected by a third.
 > 
@@ -806,16 +806,16 @@ You are skilled at avoiding detection, allowing you to slip past foes, hide, or 
 > 
 > The creature doesn't know your location.
 
-![Hide](../actions/hide.md)
+![Hide](rules/actions/hide.md)
 
 ### Survival (Wis)
 <sup>CRB p. 252</sup>
 
-You are adept at living in the wilderness, foraging for food and building shelter, and with training you discover the secrets of tracking and hiding your trail. Even if you're untrained, you can still use [Survival](../../compendium/skills.md#Survival) to Subsist (page 240).
+You are adept at living in the wilderness, foraging for food and building shelter, and with training you discover the secrets of tracking and hiding your trail. Even if you're untrained, you can still use [Survival](compendium/skills.md#Survival) to Subsist (page 240).
 
-- **[Subsist](../actions/subsist.md)** in the wild by foraging for food and building shelter.
+- **[Subsist](rules/actions/subsist.md)** in the wild by foraging for food and building shelter.
 
-![Sense Direction](../actions/sense-direction.md)
+![Sense Direction](rules/actions/sense-direction.md)
 
 > [!pf2-example] Sense Direction Tasks
 > 
@@ -832,9 +832,9 @@ You are adept at living in the wilderness, foraging for food and building shelte
 #### Survival Trained Actions
 <sup>CRB p. 252</sup>
 
-![Cover Tracks](../actions/cover-tracks.md)
+![Cover Tracks](rules/actions/cover-tracks.md)
 
-![Track](../actions/track.md)
+![Track](rules/actions/track.md)
 
 > [!pf2-example] Sample Track Tasks
 > 
@@ -853,13 +853,13 @@ You are adept at living in the wilderness, foraging for food and building shelte
 
 You are trained in a particular set of skills favored by thieves and miscreants.
 
-![Palm an Object](../actions/palm-an-object.md)
+![Palm an Object](rules/actions/palm-an-object.md)
 
-![Steal](../actions/steal.md)
+![Steal](rules/actions/steal.md)
 
 #### Thievery Trained Actions
 <sup>CRB p. 253</sup>
 
-![Disable a Device](../actions/disable-a-device.md)
+![Disable a Device](rules/actions/disable-a-device.md)
 
-![Pick a Lock](../actions/pick-a-lock.md)
+![Pick a Lock](rules/actions/pick-a-lock.md)

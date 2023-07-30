@@ -7,14 +7,14 @@ tags:
 - trait/concentrate
 aliases: ["Perform"]
 ---
-# Perform (basic) [>](../core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[concentrate](../traits/concentrate.md)  
+# Perform (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 *Source: Core Rulebook p. 250*  
 
-**Skill** [performance](../../compendium/skills.md#Performance) (untrained)
+**Skill** [performance](compendium/skills.md#Performance) (untrained)
 - **Activity**: Single Action
 
-When making a brief performance—one song, a quick dance, or a few jokes—you use the Perform action. This action is most useful when you want to prove your capability or impress someone quickly. Performing rarely has an impact on its own, but it might influence the DCs of subsequent [Diplomacy](../../compendium/skills.md#Diplomacy) checks against the observers—or even change their attitudes—if the GM sees fit.
+When making a brief performance—one song, a quick dance, or a few jokes—you use the Perform action. This action is most useful when you want to prove your capability or impress someone quickly. Performing rarely has an impact on its own, but it might influence the DCs of subsequent [Diplomacy](compendium/skills.md#Diplomacy) checks against the observers—or even change their attitudes—if the GM sees fit.
 
 > [!success-degree] 
 > - **Critical Success** Your performance impresses the observers, and they're likely to share stories of your ability.

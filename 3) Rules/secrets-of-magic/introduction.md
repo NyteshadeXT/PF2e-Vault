@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/som
-aliases: ["Introduction"]
+aliases: ["introduction"]
 ---
 # Introduction
 <sup>SoM p. 5</sup>

@@ -15,6 +15,7 @@ Occupation:
 Location: Restwell Keep
 AssociatedGroup:
   - Saruun Guild
+Age: Adult
 ---
 > [!infobox]
 > **Pronounced:**  "`=this.Pronounced`"

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/gmg
-aliases: ["Chapter 4: Variant Rules"]
+aliases: ["chapter-4-variant-rules"]
 ---
 # Chapter 4: Variant Rules
 <sup>GMG p. 181</sup>
@@ -25,7 +25,7 @@ Most of the variant rules in this chapter involve characters, how they progress,
 
 When you and your group are deciding which variant rules to use, think about the types of stories you want to tell together, including the genre, themes, and characters, and use that information to choose which variant rules might be the best fit. If different players think different variant options would work best for the game, let each of them make their point, but ultimately you as the GM make the final call.
 
-You might discover that your game requires variant rules beyond those listed here—and that's okay! In fact, it's to be expected. Use these options as a starting point for some of the most commonly [helpful](../conditions.md#Helpful) tools, but you and your group should work together to build your own variant rules whenever you want a different experience. Don't be afraid to deviate from the baseline—you and your group know what you like and what you're looking for better than a baseline rules set ever could. More about creating your own house rules can be found on page 29.
+You might discover that your game requires variant rules beyond those listed here—and that's okay! In fact, it's to be expected. Use these options as a starting point for some of the most commonly [helpful](rules/conditions.md#Helpful) tools, but you and your group should work together to build your own variant rules whenever you want a different experience. Don't be afraid to deviate from the baseline—you and your group know what you like and what you're looking for better than a baseline rules set ever could. More about creating your own house rules can be found on page 29.
 
 If you're not sure about a variant rule, take a chance! Make sure everyone in your group understands that this is a trial run and that you might need to adjust or remove the variant rules later on if they're causing unexpected side effects or not working as you intended. When you're playing with variant rules, be sure to let any new players who join the group know about the variant rules your group has chosen. This helps them set their expectations and ensures they don't feel ambushed by any variant rules the first time they're encountered in the game, which is important for making sure there is a feeling of fairness among your players.
 
@@ -138,13 +138,13 @@ The classic ability scores aren't of equal value in the rules. Dexterity, Consti
 
 Make the following changes.
 
-- **Strength** does everything that both Strength and Constitution do in the _Core Rulebook_, and Constitution is gone. A character uses their Strength for melee weapon and unarmed attack rolls, damage rolls, [Athletics](../../compendium/skills.md#Athletics), Hit Points, Fortitude saves, and so on.
-- **Dexterity** splits into two ability scores. The first, still called Dexterity, represents manual dexterity and applies to ranged weapon and unarmed attack rolls, attack and damage rolls with [finesse](../traits/finesse.md) attacks (if better than Strength), and [Thievery](../../compendium/skills.md#Thievery) checks. Agility, which represents footwork, applies to Armor Class, Reflex saves, [Acrobatics](../../compendium/skills.md#Acrobatics) checks, and [Stealth](../../compendium/skills.md#Stealth) checks.
+- **Strength** does everything that both Strength and Constitution do in the _Core Rulebook_, and Constitution is gone. A character uses their Strength for melee weapon and unarmed attack rolls, damage rolls, [Athletics](compendium/skills.md#Athletics), Hit Points, Fortitude saves, and so on.
+- **Dexterity** splits into two ability scores. The first, still called Dexterity, represents manual dexterity and applies to ranged weapon and unarmed attack rolls, attack and damage rolls with [finesse](rules/traits/finesse.md "Finesse Weapon Trait") attacks (if better than Strength), and [Thievery](compendium/skills.md#Thievery) checks. Agility, which represents footwork, applies to Armor Class, Reflex saves, [Acrobatics](compendium/skills.md#Acrobatics) checks, and [Stealth](compendium/skills.md#Stealth) checks.
 - **Charisma** applies to Will saves instead of Wisdom.
 - **Wisdom** is otherwise unchanged.
 - **Intelligence** is unchanged.
 
-You'll need a small number of gameplay tweaks. [Anklets of alacrity](../../compendium/equipment/items/anklets-of-alacrity.md) become an Agility apex item, both the [belt of giant strength](../../compendium/equipment/items/belt-of-giant-strength.md) and [belt of regeneration](../../compendium/equipment/items/belt-of-regeneration.md) become Strength apex items, and so on. The rogue's thief racket is obsolete, so you might allow rogues to choose a different racket but still gain [Thievery](../../compendium/skills.md#Thievery). For anything else that references an ability score, such as feats with a Dexterity prerequisite, decide with you group whether Dexterity or Agility makes more sense as the prerequisite. For instance, Agility would make sense for Feather Step since that feat involves footwork. Prewritten NPCs and monsters can just use their Dexterity modifier when their Agility modifier is necessary.
+You'll need a small number of gameplay tweaks. [Anklets of alacrity](compendium/equipment/items/anklets-of-alacrity.md) become an Agility apex item, both the [belt of giant strength](compendium/equipment/items/belt-of-giant-strength.md) and [belt of regeneration](compendium/equipment/items/belt-of-regeneration.md) become Strength apex items, and so on. The rogue's thief racket is obsolete, so you might allow rogues to choose a different racket but still gain [Thievery](compendium/skills.md#Thievery). For anything else that references an ability score, such as feats with a Dexterity prerequisite, decide with you group whether Dexterity or Agility makes more sense as the prerequisite. For instance, Agility would make sense for Feather Step since that feat involves footwork. Prewritten NPCs and monsters can just use their Dexterity modifier when their Agility modifier is necessary.
 
 ## Alignment Variants
 <sup>GMG p. 184</sup>
@@ -228,7 +228,7 @@ Alignment-detecting effects don't exist. In the moral intentions variant, you mi
 ##### Traits
 <sup>GMG p. 185</sup>
 
-Alignment traits don't exist, and anything that has those traits loses them. Effects that require the traits to function, like [protection](../../compendium/spells/protection.md), don't exist.
+Alignment traits don't exist, and anything that has those traits loses them. Effects that require the traits to function, like [protection](compendium/spells/protection.md), don't exist.
 
 ## Deep Backgrounds
 <sup>GMG p. 186</sup>
@@ -239,8 +239,8 @@ Alignment traits don't exist, and anything that has those traits loses them. Eff
 This variant replaces Step 4 of Character Creation (Core Rulebook page 25). The player rolls on the tables in this section to determine their character's family background, homeland, major childhood event, influential associate, relationships, and drawbacks. Each element of the player's background adds options to the final list of ability boosts, skills, feats, and other options that their background can grant. The player writes these options down as they build their character's background. At the end of the process, they select the following from among the options written down.
 
 - Two ability boosts, each to a different ability score.
-- Training in a [Lore](../../compendium/skills.md#Lore) skill.
-- One skill feat (or possibly another feat or piece of equipment). If the player chooses a skill feat, they become trained in its prerequisite skill, or one of its possible prerequisite skills if it has multiple (such as [Quick Identification](../../compendium/feats/quick-identification.md)). If the random results include a feat that isn't a skill feat and the player selects that feat, they don't gain training in a skill. If they choose a piece of equipment instead of a skill feat, the entry indicates what skill training, if any, they receive.
+- Training in a [Lore](compendium/skills.md#Lore) skill.
+- One skill feat (or possibly another feat or piece of equipment). If the player chooses a skill feat, they become trained in its prerequisite skill, or one of its possible prerequisite skills if it has multiple (such as [Quick Identification](compendium/feats/quick-identification.md)). If the random results include a feat that isn't a skill feat and the player selects that feat, they don't gain training in a skill. If they choose a piece of equipment instead of a skill feat, the entry indicates what skill training, if any, they receive.
 
 #### Rerolling and Selecting
 <sup>GMG p. 186</sup>
@@ -255,10 +255,10 @@ As a player, follow the steps below to generate your character's deep background
 #### Step 1: Family Background
 <sup>GMG p. 186</sup>
 
-The word family means something different to everyone. You might have a biological family, adopted family, stepfamily, or any other kind and combination you choose; family bonds come in all types. To determine the number of family members you grew up with as an active part of your life, roll `d100` on the following table. Use the medium family for most ancestries, small if you're a half-elf or half-orc, and large if you're a goblin or halfling. For ancestries other than those in the _Core Rulebook_, use the column that best suits the ancestry. It's up to you whether these family members are parents, siblings, grandparents, or other close relatives.
+The word family means something different to everyone. You might have a biological family, adopted family, stepfamily, or any other kind and combination you choose; family bonds come in all types. To determine the number of family members you grew up with as an active part of your life, roll 1d% on the following table. Use the medium family for most ancestries, small if you're a half-elf or half-orc, and large if you're a goblin or halfling. For ancestries other than those in the _Core Rulebook_, use the column that best suits the ancestry. It's up to you whether these family members are parents, siblings, grandparents, or other close relatives.
 
-| `d100` | Small Family | Medium Family | Large Family |
-|--------|--------------|---------------|--------------|
+| d% | Small Family | Medium Family | Large Family |
+|----|--------------|---------------|--------------|
 | 1-4 | 0 | 0 | 0 |
 | 5-8 | 0 | 0 | 1 |
 | 9-20 | 0 | 0 | 2 |
@@ -285,22 +285,22 @@ The word family means something different to everyone. You might have a biologic
 #### Step 2: Homeland
 <sup>GMG p. 186</sup>
 
-Where you grew up is highly formative. Roll on the following table to determine the nature of your homeland. If your character is a dwarf, `1d20-3`; if an elf, `1d20+2`; if a goblin, `1d20-4`. For ancestries other than those in the _Core Rulebook_, apply a modifier that best suits the ancestry, if needed. Work with your GM to flesh your homeland out in further detail. With any of these options, you add a [Lore](../../compendium/skills.md#Lore) skill based on your homeland's terrain to your background options, such as [Forest Lore](../../compendium/skills.md#Lore) for a wooded frontier or [Absalom Lore](../../compendium/skills.md#Lore) if you grew up in that city.
+Where you grew up is highly formative. Roll on the following table to determine the nature of your homeland. If your character is a dwarf, subtract 3; if an elf, add 2; if a goblin, subtract 4. For ancestries other than those in the _Core Rulebook_, apply a modifier that best suits the ancestry, if needed. Work with your GM to flesh your homeland out in further detail. With any of these options, you add a [Lore](compendium/skills.md#Lore) skill based on your homeland's terrain to your background options, such as [Forest Lore](compendium/skills.md#Lore) for a wooded frontier or [Absalom Lore](compendium/skills.md#Lore) if you grew up in that city.
 
 | `1d20 + 0` | Result |
 |------------|--------|
-| 1 or less | **Underground** You grew up in a partly or wholly underground region, such as a human mining town, a goblin warren, or a dwarf-held cavern. Add [Engineering Lore](../../compendium/skills.md#Lore), [Labor Lore](../../compendium/skills.md#Lore), and [Mining Lore](../../compendium/skills.md#Lore) to your background options. |
-| 2-3 | **Frontier** You grew up at the edge of a settled region. This might have been isolated hills if you are a dwarf, a ranch or farm if you are a human, or another similar frontier. Add [Farming Lore](../../compendium/skills.md#Lore), [Fishing Lore](../../compendium/skills.md#Lore), [Hunting Lore](../../compendium/skills.md#Lore), [Scouting Lore](../../compendium/skills.md#Lore), and [Lore](../../compendium/skills.md#Lore) pertaining to a type of creature that threatened your homeland regularly (such as [Giant Lore](../../compendium/skills.md#Lore)) to your background options. |
-| 4-5 | **Trade Town** People frequently passed through your homeland. You might have been raised near a major thoroughfare or crossroads, or in a small trade town. Add [Accounting Lore](../../compendium/skills.md#Lore), [Guild Lore](../../compendium/skills.md#Lore), [Mercantile Lore](../../compendium/skills.md#Lore), [Stabling Lore](../../compendium/skills.md#Lore), and [Lore](../../compendium/skills.md#Lore) of a common ancestry (such as [Dwarf Lore](../../compendium/skills.md#Lore)) to your background options. |
-| 6-7 | **Simple Village** You were raised in a sleepy village such as a bucolic gnome hamlet, a close-knit human town, or an established goblin fort. Add [Herbalism Lore](../../compendium/skills.md#Lore), [Midwifery Lore](../../compendium/skills.md#Lore), [Milling Lore](../../compendium/skills.md#Lore), [Tanning Lore](../../compendium/skills.md#Lore), and [Lore](../../compendium/skills.md#Lore) of a type of food, drink, or product the village was known for producing (such as [Alcohol Lore](../../compendium/skills.md#Lore) or [Wagon Lore](../../compendium/skills.md#Lore)) to your background options. |
-| 8-9 | **Cosmopolitan City** You were raised in a community where no single ancestry predominated. This might have created tensions, but the community might also have pulled together from diverse foundations. Add [Art Lore](../../compendium/skills.md#Lore), [Guild Lore](../../compendium/skills.md#Lore), [Legal Lore](../../compendium/skills.md#Lore), and [Underworld Lore](../../compendium/skills.md#Lore) to your background options. |
-| 10-11 | **Metropolis** You grew up in one of the largest cities in the world, such as Absalom or Westcrown. Add [Architecture Lore](../../compendium/skills.md#Lore), [Gladiatorial Lore](../../compendium/skills.md#Lore), [Guild Lore](../../compendium/skills.md#Lore), [Legal Lore](../../compendium/skills.md#Lore), and [Theater Lore](../../compendium/skills.md#Lore) to your background options. |
-| 12 | **Front Lines** You grew up in a homeland torn by war. Even if you didn't personally participate, it was never far away. Add [Heraldry Lore](../../compendium/skills.md#Lore), [Scouting Lore](../../compendium/skills.md#Lore), and [Warfare Lore](../../compendium/skills.md#Lore) to your background options. |
-| 13-14 | **Itinerant** You never had a single place to call home. You might have been part of a nomadic caravan, a traveling group of entertainers, or a smuggling ring. Add [Circus Lore](../../compendium/skills.md#Lore), Fortune-[Telling Lore](../../compendium/skills.md#Lore), [Games Lore](../../compendium/skills.md#Lore), [Labor Lore](../../compendium/skills.md#Lore), and [Underworld Lore](../../compendium/skills.md#Lore) to your background options. |
-| 15 | **Another Ancestry's Settlement** Randomly determine another common ancestry; you grew up surrounded by that ancestry. Reroll on this table (with a modifier for the new ancestry, if applicable) to determine the type of community in which you grew up (for example, if your gnome grew up among dwarves and rolls a 3, they grew up underground). Add the [Adopted Ancestry](../../compendium/feats/adopted-ancestry.md) feat and the [Lore](../../compendium/skills.md#Lore) skill related to your adopted ancestry (such as [Dwarf Lore](../../compendium/skills.md#Lore)) to your background options. If you select this feat instead of a skill feat, you aren't trained in a background skill. |
-| 16 | **Coastal Community** You grew up along a wide river, in a wetland, beside an ocean, or on an island. Add [Fishing Lore](../../compendium/skills.md#Lore), [Sailing Lore](../../compendium/skills.md#Lore), and [Lore](../../compendium/skills.md#Lore) of a specific type of sea creature (such as [Shark Lore](../../compendium/skills.md#Lore)) to your background options. |
-| 17-18 | **Religious Community** You were raised in a community of religious scholars, such as the town around an abbey, a remote elven forest shrine, or a dwarven temple-city. Add [Art Lore](../../compendium/skills.md#Lore), [Scribing Lore](../../compendium/skills.md#Lore), Lore about a deity that was the focus or enemy of your community (such as [Pharasma Lore](../../compendium/skills.md#Lore)), and [Lore](../../compendium/skills.md#Lore) about a plane (other than the Material Plane) where that deity resides to your background options. |
-| 19+ | **Academic Community** You were raised in or near a university, academy, or other center of learning. Add [Academia Lore](../../compendium/skills.md#Lore), [Genealogy Lore](../../compendium/skills.md#Lore), [Library Lore](../../compendium/skills.md#Lore), and [Scribing Lore](../../compendium/skills.md#Lore) to your background options. |
+| 1 or less | **Underground** You grew up in a partly or wholly underground region, such as a human mining town, a goblin warren, or a dwarf-held cavern. Add [Engineering Lore](compendium/skills.md#Lore), [Labor Lore](compendium/skills.md#Lore), and [Mining Lore](compendium/skills.md#Lore) to your background options. |
+| 2-3 | **Frontier** You grew up at the edge of a settled region. This might have been isolated hills if you are a dwarf, a ranch or farm if you are a human, or another similar frontier. Add [Farming Lore](compendium/skills.md#Lore), [Fishing Lore](compendium/skills.md#Lore), [Hunting Lore](compendium/skills.md#Lore), [Scouting Lore](compendium/skills.md#Lore), and [Lore](compendium/skills.md#Lore) pertaining to a type of creature that threatened your homeland regularly (such as [Giant Lore](compendium/skills.md#Lore)) to your background options. |
+| 4-5 | **Trade Town** People frequently passed through your homeland. You might have been raised near a major thoroughfare or crossroads, or in a small trade town. Add [Accounting Lore](compendium/skills.md#Lore), [Guild Lore](compendium/skills.md#Lore), [Mercantile Lore](compendium/skills.md#Lore), [Stabling Lore](compendium/skills.md#Lore), and [Lore](compendium/skills.md#Lore) of a common ancestry (such as [Dwarf Lore](compendium/skills.md#Lore)) to your background options. |
+| 6-7 | **Simple Village** You were raised in a sleepy village such as a bucolic gnome hamlet, a close-knit human town, or an established goblin fort. Add [Herbalism Lore](compendium/skills.md#Lore), [Midwifery Lore](compendium/skills.md#Lore), [Milling Lore](compendium/skills.md#Lore), [Tanning Lore](compendium/skills.md#Lore), and [Lore](compendium/skills.md#Lore) of a type of food, drink, or product the village was known for producing (such as [Alcohol Lore](compendium/skills.md#Lore) or [Wagon Lore](compendium/skills.md#Lore)) to your background options. |
+| 8-9 | **Cosmopolitan City** You were raised in a community where no single ancestry predominated. This might have created tensions, but the community might also have pulled together from diverse foundations. Add [Art Lore](compendium/skills.md#Lore), [Guild Lore](compendium/skills.md#Lore), [Legal Lore](compendium/skills.md#Lore), and [Underworld Lore](compendium/skills.md#Lore) to your background options. |
+| 10-11 | **Metropolis** You grew up in one of the largest cities in the world, such as Absalom or Westcrown. Add [Architecture Lore](compendium/skills.md#Lore), [Gladiatorial Lore](compendium/skills.md#Lore), [Guild Lore](compendium/skills.md#Lore), [Legal Lore](compendium/skills.md#Lore), and [Theater Lore](compendium/skills.md#Lore) to your background options. |
+| 12 | **Front Lines** You grew up in a homeland torn by war. Even if you didn't personally participate, it was never far away. Add [Heraldry Lore](compendium/skills.md#Lore), [Scouting Lore](compendium/skills.md#Lore), and [Warfare Lore](compendium/skills.md#Lore) to your background options. |
+| 13-14 | **Itinerant** You never had a single place to call home. You might have been part of a nomadic caravan, a traveling group of entertainers, or a smuggling ring. Add [Circus Lore](compendium/skills.md#Lore), Fortune-[Telling Lore](compendium/skills.md#Lore), [Games Lore](compendium/skills.md#Lore), [Labor Lore](compendium/skills.md#Lore), and [Underworld Lore](compendium/skills.md#Lore) to your background options. |
+| 15 | **Another Ancestry's Settlement** Randomly determine another common ancestry; you grew up surrounded by that ancestry. Reroll on this table (with a modifier for the new ancestry, if applicable) to determine the type of community in which you grew up (for example, if your gnome grew up among dwarves and rolls a 3, they grew up underground). Add the [Adopted Ancestry](compendium/feats/adopted-ancestry.md) feat and the [Lore](compendium/skills.md#Lore) skill related to your adopted ancestry (such as [Dwarf Lore](compendium/skills.md#Lore)) to your background options. If you select this feat instead of a skill feat, you aren't trained in a background skill. |
+| 16 | **Coastal Community** You grew up along a wide river, in a wetland, beside an ocean, or on an island. Add [Fishing Lore](compendium/skills.md#Lore), [Sailing Lore](compendium/skills.md#Lore), and [Lore](compendium/skills.md#Lore) of a specific type of sea creature (such as [Shark Lore](compendium/skills.md#Lore)) to your background options. |
+| 17-18 | **Religious Community** You were raised in a community of religious scholars, such as the town around an abbey, a remote elven forest shrine, or a dwarven temple-city. Add [Art Lore](compendium/skills.md#Lore), [Scribing Lore](compendium/skills.md#Lore), Lore about a deity that was the focus or enemy of your community (such as [Pharasma Lore](compendium/skills.md#Lore)), and [Lore](compendium/skills.md#Lore) about a plane (other than the Material Plane) where that deity resides to your background options. |
+| 19+ | **Academic Community** You were raised in or near a university, academy, or other center of learning. Add [Academia Lore](compendium/skills.md#Lore), [Genealogy Lore](compendium/skills.md#Lore), [Library Lore](compendium/skills.md#Lore), and [Scribing Lore](compendium/skills.md#Lore) to your background options. |
 
 #### Step 3: Major Childhood Event
 <sup>GMG p. 186</sup>
@@ -309,26 +309,26 @@ During your childhood, you were influenced by a significant event that helped sh
 
 | `1d20` | Result |
 |--------|--------|
-| 1 | **Abandoned in a Distant Land** Due to some mischance (such as wandering off while on a trip or being press-ganged onto a seagoing ship), you had to survive in a distant land for a while. Add the [Multilingual](../../compendium/feats/multilingual.md) skill feat to your background options. |
-| 2 | **Academy Trained** You attended an academy where you studied a number of topics and skills. Whether you were a studious pupil or a dropout, the academy was your home for a good portion of your formative years. Add the [Additional Lore](../../compendium/feats/additional-lore.md) skill feat to your background options. If you select [Additional Lore](../../compendium/feats/additional-lore.md) as your skill feat, instead of becoming trained in [Lore](../../compendium/skills.md#Lore), you become trained in your choice of [Arcana](../../compendium/skills.md#Arcana), [Occultism](../../compendium/skills.md#Occultism), or [Society](../../compendium/skills.md#Society). |
-| 3 | **Attained a Magical Gift** When you were a child, you found, stole, or were given a magic item that gave you an extraordinary ability. Add the [Arcane Sense](../../compendium/feats/arcane-sense.md) skill feat to your background options. |
-| 4 | **Betrayed** A friend or family member whom you trusted more than anyone else betrayed you. Add the [Lie to Me](../../compendium/feats/lie-to-me.md) skill feat to your background options. |
-| 5 | **Bullied** In your early life, you were often picked on. The callousness of bullies sharpened your resolve to stand up for yourself and others. Add the [Intimidating Glare](../../compendium/feats/intimidating-glare.md) skill feat to your background options. |
-| 6 | **Captured by Giants** You were captured by marauding giants and fought your way free. Add the [Titan Wrestler](../../compendium/feats/titan-wrestler.md) skill feat to your background options. |
-| 7 | **Claimed an Inheritance** You were bequeathed great wealth or property at an early age. You retained some of it; add a piece of common adventuring gear worth 15 gp or less to your background options. If you select it instead of a skill feat, you are trained in [Society](../../compendium/skills.md#Society). |
-| 8 | **Died** You died or came so close that you walked the boundary between life and death. Add the [Diehard](../../compendium/feats/diehard.md) feat to your background options. If you select it instead of a skill feat, you aren't trained in a background skill. |
-| 9 | **Fell In with a Bad Crowd** In your youth, you ran with a criminal element: a gang, thieves' guild, or similar organization. Add the [Experienced Smuggler](../../compendium/feats/experienced-smuggler.md) skill feat to your background options. |
-| 10 | **Had an Ordinary Childhood** Your childhood was fairly ordinary, with no major catastrophe—a stark contrast to most adventurers. Add the [Assurance](../../compendium/feats/assurance.md) skill feat for a skill of your choice to your background options. |
-| 11 | **Had Your First Kill** You've had blood on your hands since your youth, when you first took the life of another. You still have the weapon you used for the deed; add a common weapon worth 15 gp or less to your background options. If you select this option instead of a skill feat, you are trained in [Athletics](../../compendium/skills.md#Athletics). |
-| 12 | **Kidnapped** You were kidnapped at some point in your childhood and had to escape, perhaps by pirates, slavers, a cult, or someone else. Add the [Quick Squeeze](../../compendium/feats/quick-squeeze.md) skill feat to your background options. |
-| 13 | **Lost in the Wilderness** Whether lured to the wilderness by a malevolent force or simply lost, you had to survive on your own for a while. Add the [Survey Wildlife](../../compendium/feats/survey-wildlife.md) skill feat to your background options. |
-| 14 | **Met a Fantastic Creature** When you were a child, you made contact with a magical creature, such as a dragon, unicorn, genie, pixie, or similar creature. Add the [Recognize Spell](../../compendium/feats/recognize-spell.md) skill feat to your background options. |
-| 15 | **Raided** A horde of raiders attacked your settlement and killed and wounded several of your people. This could have been a band of highway robbers or a conquering army. You have a relic from those times; add an armor or shield worth 15 gp or less to your background options. If you select this option instead of a skill feat, you are trained in [Medicine](../../compendium/skills.md#Medicine). |
-| 16 | **Robbed** Your family's possessions were stolen, and you vowed to catch the next burglar in the act. Add the [Snare Crafting](../../compendium/feats/snare-crafting.md) skill feat to your background options. |
-| 17 | **Survived a Disaster** You witnessed and survived a major disaster in your childhood years—such as a great fire, flood, earthquake, volcano, or storm—by relying on what was at hand. Add the [Quick Repair](../../compendium/feats/quick-repair.md) skill feat to your background options. |
-| 18 | **Trained by a Mentor** A mentor or patron took an interest in your development and volunteered to train or sponsor you. Add the [Experienced Professional](../../compendium/feats/experienced-professional.md) skill feat to your background options. |
-| 19 | **Witnessed War** You grew up against the backdrop of a major military conflict that affected much of your childhood world. Add the [Battle Medicine](../../compendium/feats/battle-medicine.md) skill feat to your background options. |
-| 20 | **Won a Competition** You distinguished yourself at an early age when you won a competition. This might have been a martial contest of arms, a showing of apprentice magicians, high-stakes gambling, or something more mundane, like an eating contest. Add the [Fascinating Performance](../../compendium/feats/fascinating-performance.md) skill feat to your background options. |
+| 1 | **Abandoned in a Distant Land** Due to some mischance (such as wandering off while on a trip or being press-ganged onto a seagoing ship), you had to survive in a distant land for a while. Add the [Multilingual](compendium/feats/multilingual.md) skill feat to your background options. |
+| 2 | **Academy Trained** You attended an academy where you studied a number of topics and skills. Whether you were a studious pupil or a dropout, the academy was your home for a good portion of your formative years. Add the [Additional Lore](compendium/feats/additional-lore.md) skill feat to your background options. If you select [Additional Lore](compendium/feats/additional-lore.md) as your skill feat, instead of becoming trained in [Lore](compendium/skills.md#Lore), you become trained in your choice of [Arcana](compendium/skills.md#Arcana), [Occultism](compendium/skills.md#Occultism), or [Society](compendium/skills.md#Society). |
+| 3 | **Attained a Magical Gift** When you were a child, you found, stole, or were given a magic item that gave you an extraordinary ability. Add the [Arcane Sense](compendium/feats/arcane-sense.md) skill feat to your background options. |
+| 4 | **Betrayed** A friend or family member whom you trusted more than anyone else betrayed you. Add the [Lie to Me](compendium/feats/lie-to-me.md) skill feat to your background options. |
+| 5 | **Bullied** In your early life, you were often picked on. The callousness of bullies sharpened your resolve to stand up for yourself and others. Add the [Intimidating Glare](compendium/feats/intimidating-glare.md) skill feat to your background options. |
+| 6 | **Captured by Giants** You were captured by marauding giants and fought your way free. Add the [Titan Wrestler](compendium/feats/titan-wrestler.md) skill feat to your background options. |
+| 7 | **Claimed an Inheritance** You were bequeathed great wealth or property at an early age. You retained some of it; add a piece of common adventuring gear worth 15 gp or less to your background options. If you select it instead of a skill feat, you are trained in [Society](compendium/skills.md#Society). |
+| 8 | **Died** You died or came so close that you walked the boundary between life and death. Add the [Diehard](compendium/feats/diehard.md) feat to your background options. If you select it instead of a skill feat, you aren't trained in a background skill. |
+| 9 | **Fell In with a Bad Crowd** In your youth, you ran with a criminal element: a gang, thieves' guild, or similar organization. Add the [Experienced Smuggler](compendium/feats/experienced-smuggler.md) skill feat to your background options. |
+| 10 | **Had an Ordinary Childhood** Your childhood was fairly ordinary, with no major catastrophe—a stark contrast to most adventurers. Add the [Assurance](compendium/feats/assurance.md) skill feat for a skill of your choice to your background options. |
+| 11 | **Had Your First Kill** You've had blood on your hands since your youth, when you first took the life of another. You still have the weapon you used for the deed; add a common weapon worth 15 gp or less to your background options. If you select this option instead of a skill feat, you are trained in [Athletics](compendium/skills.md#Athletics). |
+| 12 | **Kidnapped** You were kidnapped at some point in your childhood and had to escape, perhaps by pirates, slavers, a cult, or someone else. Add the [Quick Squeeze](compendium/feats/quick-squeeze.md) skill feat to your background options. |
+| 13 | **Lost in the Wilderness** Whether lured to the wilderness by a malevolent force or simply lost, you had to survive on your own for a while. Add the [Survey Wildlife](compendium/feats/survey-wildlife.md) skill feat to your background options. |
+| 14 | **Met a Fantastic Creature** When you were a child, you made contact with a magical creature, such as a dragon, unicorn, genie, pixie, or similar creature. Add the [Recognize Spell](compendium/feats/recognize-spell.md) skill feat to your background options. |
+| 15 | **Raided** A horde of raiders attacked your settlement and killed and wounded several of your people. This could have been a band of highway robbers or a conquering army. You have a relic from those times; add an armor or shield worth 15 gp or less to your background options. If you select this option instead of a skill feat, you are trained in [Medicine](compendium/skills.md#Medicine). |
+| 16 | **Robbed** Your family's possessions were stolen, and you vowed to catch the next burglar in the act. Add the [Snare Crafting](compendium/feats/snare-crafting.md) skill feat to your background options. |
+| 17 | **Survived a Disaster** You witnessed and survived a major disaster in your childhood years—such as a great fire, flood, earthquake, volcano, or storm—by relying on what was at hand. Add the [Quick Repair](compendium/feats/quick-repair.md) skill feat to your background options. |
+| 18 | **Trained by a Mentor** A mentor or patron took an interest in your development and volunteered to train or sponsor you. Add the [Experienced Professional](compendium/feats/experienced-professional.md) skill feat to your background options. |
+| 19 | **Witnessed War** You grew up against the backdrop of a major military conflict that affected much of your childhood world. Add the [Battle Medicine](compendium/feats/battle-medicine.md) skill feat to your background options. |
+| 20 | **Won a Competition** You distinguished yourself at an early age when you won a competition. This might have been a martial contest of arms, a showing of apprentice magicians, high-stakes gambling, or something more mundane, like an eating contest. Add the [Fascinating Performance](compendium/feats/fascinating-performance.md) skill feat to your background options. |
 
 #### Step 4: Influencial Associate
 <sup>GMG p. 186</sup>
@@ -368,32 +368,32 @@ Other players can reject a relationship connection they don't feel fits with the
 | `1d12` | Result |
 |--------|--------|
 | 1 | **Animal Helpers** When you and this character were younger, you worked together to nurse sick animals back to health. Add the Train Animal skill feat to your background options. |
-| 2 | **Comrade-in-Arms** You and this character were once comrades in military service, and you trained yourself and this character to improve your physical fitness. Add the [Assurance](../../compendium/feats/assurance.md) skill feat for [Athletics](../../compendium/skills.md#Athletics) to your background options. |
-| 3 | **Desperate Intimidation** You had to frighten off pirates or slavers looking to capture you and this character. Add the [Group Coercion](../../compendium/feats/group-coercion.md) skill feat to your background options. |
-| 4 | **Homelessness** At a time when you were both living on the streets, you taught this character valuable pointers to survive. Add the [Streetwise](../../compendium/feats/streetwise.md) skill feat to your background options. |
-| 5 | **Kindly Witch** This character connected you to a kindly but reclusive person who was living at the edge of civilization but had expansive knowledge to share. Add the [Natural Medicine](../../compendium/feats/natural-medicine.md) skill feat to your background options. |
-| 6 | **Liberators** You and this character worked together to free some captives—including one of your friends or relatives—from a gang of slavers. Add the [Lengthy Diversion](../../compendium/feats/lengthy-diversion.md) skill feat to your background options. |
-| 7 | **Magician** This character supported your brief dalliance with stage magic, which you took up as a precursor to learning actual magic or simply to keep your fingers nimble. Add the [Subtle Theft](../../compendium/feats/subtle-theft.md) skill feat to your background options. |
-| 8 | **Missing Child** When a young relative disappeared in a busy market, this character helped you question merchants and shoppers and find the child before they came to any harm. Add the [Hobnobber](../../compendium/feats/hobnobber.md) skill feat to your background options. |
-| 9 | **Patron of the Arts** This character encouraged you to excel at a type of performance you loved, even going so far as to support you in lean times. Add the [Virtuosic Performer](../../compendium/feats/virtuosic-performer.md) skill feat to your background options. |
-| 10 | **Religious Students** You and this character shared some religious training in the past, even if you didn't stick with it, and you admired their piety. Add the [Student of the Canon](../../compendium/feats/student-of-the-canon.md) skill feat to your background options. |
-| 11 | **Timely Cure** When a family member of yours was dying and there didn't seem to be much hope, this character brought a simple but effective alchemical cure. You are determined to pay this favor forward. Add the [Alchemical Crafting](../../compendium/feats/alchemical-crafting.md) skill feat to your background options. |
-| 12 | **Wasteland Survivors** You and this character were lost in a dangerous wasteland together and depended upon each other for survival; you're still not certain that either of you would have survived the ordeal without the other's aid. Add the [Forager](../../compendium/feats/forager.md) skill feat to your background options. |
+| 2 | **Comrade-in-Arms** You and this character were once comrades in military service, and you trained yourself and this character to improve your physical fitness. Add the [Assurance](compendium/feats/assurance.md) skill feat for [Athletics](compendium/skills.md#Athletics) to your background options. |
+| 3 | **Desperate Intimidation** You had to frighten off pirates or slavers looking to capture you and this character. Add the [Group Coercion](compendium/feats/group-coercion.md) skill feat to your background options. |
+| 4 | **Homelessness** At a time when you were both living on the streets, you taught this character valuable pointers to survive. Add the [Streetwise](compendium/feats/streetwise.md) skill feat to your background options. |
+| 5 | **Kindly Witch** This character connected you to a kindly but reclusive person who was living at the edge of civilization but had expansive knowledge to share. Add the [Natural Medicine](compendium/feats/natural-medicine.md) skill feat to your background options. |
+| 6 | **Liberators** You and this character worked together to free some captives—including one of your friends or relatives—from a gang of slavers. Add the [Lengthy Diversion](compendium/feats/lengthy-diversion.md) skill feat to your background options. |
+| 7 | **Magician** This character supported your brief dalliance with stage magic, which you took up as a precursor to learning actual magic or simply to keep your fingers nimble. Add the [Subtle Theft](compendium/feats/subtle-theft.md) skill feat to your background options. |
+| 8 | **Missing Child** When a young relative disappeared in a busy market, this character helped you question merchants and shoppers and find the child before they came to any harm. Add the [Hobnobber](compendium/feats/hobnobber.md) skill feat to your background options. |
+| 9 | **Patron of the Arts** This character encouraged you to excel at a type of performance you loved, even going so far as to support you in lean times. Add the [Virtuosic Performer](compendium/feats/virtuosic-performer.md) skill feat to your background options. |
+| 10 | **Religious Students** You and this character shared some religious training in the past, even if you didn't stick with it, and you admired their piety. Add the [Student of the Canon](compendium/feats/student-of-the-canon.md) skill feat to your background options. |
+| 11 | **Timely Cure** When a family member of yours was dying and there didn't seem to be much hope, this character brought a simple but effective alchemical cure. You are determined to pay this favor forward. Add the [Alchemical Crafting](compendium/feats/alchemical-crafting.md) skill feat to your background options. |
+| 12 | **Wasteland Survivors** You and this character were lost in a dangerous wasteland together and depended upon each other for survival; you're still not certain that either of you would have survived the ordeal without the other's aid. Add the [Forager](compendium/feats/forager.md) skill feat to your background options. |
 
 | `1d12` | Result |
 |--------|--------|
-| 1 | **Accidental Fall** This character once inadvertently shoved you off a ledge or balcony. You're mostly certain it was a mistake, but the fall was terrifying, and you've resolved to never be caught unaware like that again. Add the [Cat Fall](../../compendium/feats/cat-fall.md) skill feat to your background options. |
-| 2 | **Accusation of Theft** You were once secretly certain that this character stole a cherished valuable from you. You were determined to steal it back, until you learned that this character wasn't in fact to blame and you'd only misplaced the item. Add the [Pickpocket](../../compendium/feats/pickpocket.md) skill feat to your background options. |
-| 3 | **Called Before Judges** Information provided by this character—either intentionally or inadvertently given—required you to justify yourself in front of a group of bureaucrats or magistrates. Add the [Group Impression](../../compendium/feats/group-impression.md) skill feat to your background options. |
-| 4 | **Matter of Might** You have long considered this character your rival in a question of strength. You are determined to prove yourself to be mightier, perhaps by intelligent application of force if you aren't physically imposing. Add the [Hefty Hauler](../../compendium/feats/hefty-hauler.md) skill feat to your background options. |
-| 5 | **Mercantile Expertise** To encourage an employer to hire you instead of this character, you worked hard to demonstrate your keen mercantile sense. It didn't work; the employer hired this character anyway. Add the [Bargain Hunter](../../compendium/feats/bargain-hunter.md) skill feat to your background options. |
-| 6 | **Privileged Position** You once sought the favor of a powerful spellcaster as a mentor, but this character was plainly the mentor's favorite, no matter how hard you tried. Add the [Quick Identification](../../compendium/feats/quick-identification.md) skill feat to your background options. |
-| 7 | **Relationship Ender** You once warned off an admirer seeking this character's affections. You still maintain that the match would have been a poor one and that you did this character a favor. Add the [Quick Coercion](../../compendium/feats/quick-coercion.md) skill feat to your background options. |
-| 8 | **Rival Trackers** You and this character worked for a time as rival hunters, whether tracking animals or escaped criminals. Add the [Experienced Tracker](../../compendium/feats/experienced-tracker.md) skill feat to your background options. |
-| 9 | **Seeking Accolades** You never seemed to capture the attention of the crowds at the tavern as easily as this character did, so you worked hard to practice your showmanship. Add the [Impressive Performance](../../compendium/feats/impressive-performance.md) skill feat to your background options. |
-| 10 | **Slander** You and this character were rivals for the same person's affections, and you stooped to spreading vicious lies before the whole situation fell apart. Add the [Charming Liar](../../compendium/feats/charming-liar.md) skill feat to your background options. |
-| 11 | **Social Maneuvering** You have always wanted to prove yourself better than this character in a fancy social situation but have yet to decisively do so. Add the [Courtly Graces](../../compendium/feats/courtly-graces.md) skill feat to your background options |
-| 12 | **Spy** You spied upon this character in the past, either at the behest of someone else or because of your own suspicions. Add the [Read Lips](../../compendium/feats/read-lips.md) skill feat to your background options. |
+| 1 | **Accidental Fall** This character once inadvertently shoved you off a ledge or balcony. You're mostly certain it was a mistake, but the fall was terrifying, and you've resolved to never be caught unaware like that again. Add the [Cat Fall](compendium/feats/cat-fall.md) skill feat to your background options. |
+| 2 | **Accusation of Theft** You were once secretly certain that this character stole a cherished valuable from you. You were determined to steal it back, until you learned that this character wasn't in fact to blame and you'd only misplaced the item. Add the [Pickpocket](compendium/feats/pickpocket.md) skill feat to your background options. |
+| 3 | **Called Before Judges** Information provided by this character—either intentionally or inadvertently given—required you to justify yourself in front of a group of bureaucrats or magistrates. Add the [Group Impression](compendium/feats/group-impression.md) skill feat to your background options. |
+| 4 | **Matter of Might** You have long considered this character your rival in a question of strength. You are determined to prove yourself to be mightier, perhaps by intelligent application of force if you aren't physically imposing. Add the [Hefty Hauler](compendium/feats/hefty-hauler.md) skill feat to your background options. |
+| 5 | **Mercantile Expertise** To encourage an employer to hire you instead of this character, you worked hard to demonstrate your keen mercantile sense. It didn't work; the employer hired this character anyway. Add the [Bargain Hunter](compendium/feats/bargain-hunter.md) skill feat to your background options. |
+| 6 | **Privileged Position** You once sought the favor of a powerful spellcaster as a mentor, but this character was plainly the mentor's favorite, no matter how hard you tried. Add the [Quick Identification](compendium/feats/quick-identification.md) skill feat to your background options. |
+| 7 | **Relationship Ender** You once warned off an admirer seeking this character's affections. You still maintain that the match would have been a poor one and that you did this character a favor. Add the [Quick Coercion](compendium/feats/quick-coercion.md) skill feat to your background options. |
+| 8 | **Rival Trackers** You and this character worked for a time as rival hunters, whether tracking animals or escaped criminals. Add the [Experienced Tracker](compendium/feats/experienced-tracker.md) skill feat to your background options. |
+| 9 | **Seeking Accolades** You never seemed to capture the attention of the crowds at the tavern as easily as this character did, so you worked hard to practice your showmanship. Add the [Impressive Performance](compendium/feats/impressive-performance.md) skill feat to your background options. |
+| 10 | **Slander** You and this character were rivals for the same person's affections, and you stooped to spreading vicious lies before the whole situation fell apart. Add the [Charming Liar](compendium/feats/charming-liar.md) skill feat to your background options. |
+| 11 | **Social Maneuvering** You have always wanted to prove yourself better than this character in a fancy social situation but have yet to decisively do so. Add the [Courtly Graces](compendium/feats/courtly-graces.md) skill feat to your background options |
+| 12 | **Spy** You spied upon this character in the past, either at the behest of someone else or because of your own suspicions. Add the [Read Lips](compendium/feats/read-lips.md) skill feat to your background options. |
 
 ## Feats and Features
 <sup>GMG p. 192</sup>
@@ -408,7 +408,7 @@ Sometimes, especially when you have a particularly small play group or want to p
 
 When building a dual-class character, the primary changes to the character creation process are fairly straightforward. Choose and implement your character's ancestry and background as normal. Then, when you get to the step of choosing a class, select two classes and add everything from each class except Hit Points and starting skills: initial proficiencies, class features, class feats, extra skill feats and skill increases for rogues, and so on. As always, use the highest proficiency granted for a given statistic. For instance, if one class gave you expert proficiency in Will saves and the other gave you master proficiency in Will saves, you would be a master in Will saves.
 
-Use only the higher Hit Points per level from the two classes. For starting skills, apply the skills automatically granted by each class, and then apply the larger number of additional skills. For instance, a cleric of [Shelyn](../../compendium/setting/deities/shelyn.md)/ranger would gain Hit Points equal to 10 + their Constitution modifier per level, start with the trained proficiency rank in [Nature](../../compendium/skills.md#Nature) and [Survival](../../compendium/skills.md#Survival) from ranger and [Religion](../../compendium/skills.md#Religion) and either [Crafting](../../compendium/skills.md#Crafting) or [Performance](../../compendium/skills.md#Performance) from [cleric](../../compendium/skills.md#Cleric), and then gain a number of additional skills of their choice equal to 4 + their Intelligence modifier, since the ranger provides the trained proficiency rank in more additional skills than the cleric does (this example doesn't include any skills they gained from their background or other sources). This character would also have the deity|Cleric||1, divine spellcasting|Cleric||1, divine font|Cleric||1, and doctrine|Cleric||1 class features from cleric plus the Hunt Prey|Ranger||1, hunter's edge|Ranger||1, and ranger feats|Ranger||1||ranger feat class features from ranger.
+Use only the higher Hit Points per level from the two classes. For starting skills, apply the skills automatically granted by each class, and then apply the larger number of additional skills. For instance, a cleric of [Shelyn](compendium/setting/deities/shelyn.md)/ranger would gain Hit Points equal to 10 + their Constitution modifier per level, start with the trained proficiency rank in [Nature](compendium/skills.md#Nature) and [Survival](compendium/skills.md#Survival) from ranger and [Religion](compendium/skills.md#Religion) and either [Crafting](compendium/skills.md#Crafting) or [Performance](compendium/skills.md#Performance) from [cleric](compendium/skills.md#Cleric), and then gain a number of additional skills of their choice equal to 4 + their Intelligence modifier, since the ranger provides the trained proficiency rank in more additional skills than the cleric does (this example doesn't include any skills they gained from their background or other sources). This character would also have the deity|Cleric||1, divine spellcasting|Cleric||1, divine font|Cleric||1, and doctrine|Cleric||1 class features from cleric plus the Hunt Prey|Ranger||1, hunter's edge|Ranger||1, and ranger feats|Ranger||1||ranger feat class features from ranger.
 
 ##### Spells
 <sup>GMG p. 192</sup>
@@ -422,7 +422,7 @@ Classes with focus pools get all the Focus Points granted by all of them. These 
 
 A dual-class character gains the class feats and class features for both classes at each level as they advance, with the exception of ability boosts, general feats, skill feats, and skill increases—the character gets each of these benefits only once per level, since both classes would provide the same benefit. (A dual-class rogue/ranger still gets the extra skill feat and skill increase at levels where the other class doesn't provide them.)
 
-If a character gains the same proficiency rank in a statistic more than once, they still use only the highest rank. In the example above, when the cleric gets Alertness|Cleric||5 at 5th level, they wouldn't change their [Perception](../../compendium/skills.md#Perception) rank, since it was already expert due to the ranger's initial proficiencies|Ranger||1.
+If a character gains the same proficiency rank in a statistic more than once, they still use only the highest rank. In the example above, when the cleric gets Alertness|Cleric||5 at 5th level, they wouldn't change their [Perception](compendium/skills.md#Perception) rank, since it was already expert due to the ranger's initial proficiencies|Ranger||1.
 
 #### Playing with Dual-Class Characters
 <sup>GMG p. 192</sup>
@@ -473,7 +473,7 @@ The variants presented so far have mostly been aimed at groups looking to increa
 #### Building a Simplified Ancestry Character
 <sup>GMG p. 194</sup>
 
-When choosing an ancestry for a simplified ancestry character, you gain the ancestry's normal abilities at 1st level, choose a heritage, and gain the appropriate lore feat ([Dwarven Lore](../../compendium/skills.md#Lore) for dwarves, for example) as your ancestry feat. Simplified ancestry characters never gain ancestry feats beyond that first lore feat. If you want to keep the power level of your game consistent, you can replace the ancestry feats gained at higher levels with general feats.
+When choosing an ancestry for a simplified ancestry character, you gain the ancestry's normal abilities at 1st level, choose a heritage, and gain the appropriate lore feat ([Dwarven Lore](compendium/skills.md#Lore) for dwarves, for example) as your ancestry feat. Simplified ancestry characters never gain ancestry feats beyond that first lore feat. If you want to keep the power level of your game consistent, you can replace the ancestry feats gained at higher levels with general feats.
 
 ### Simplified Ancestries
 <sup>GMG p. 194</sup>
@@ -501,7 +501,7 @@ Building a level 0 character is similar to building a 1st-level character, but y
 #### Initial Proficiencies
 <sup>GMG p. 195</sup>
 
-A level 0 character is trained in [Perception](../../compendium/skills.md#Perception), all saving throws, unarmed attacks, unarmored defense, and one simple weapon of their choice. Additionally, they are trained in a number of skills equal to 2 + their Intelligence modifier. The proficiency bonus for a level 0 character works the same way as normal, but since the level is 0, the total proficiency bonus for being trained is +2.
+A level 0 character is trained in [Perception](compendium/skills.md#Perception), all saving throws, unarmed attacks, unarmored defense, and one simple weapon of their choice. Additionally, they are trained in a number of skills equal to 2 + their Intelligence modifier. The proficiency bonus for a level 0 character works the same way as normal, but since the level is 0, the total proficiency bonus for being trained is +2.
 
 #### Hit Points
 <sup>GMG p. 195</sup>
@@ -516,7 +516,7 @@ A level 0 character starts with 5 gp (50 sp) to spend on equipment.
 #### Apprentice Option
 <sup>GMG p. 195</sup>
 
-If the story you want to tell is about characters who have started training to become a particular class, you can grant them a small number of additional abilities. An apprentice character is trained in the skill or skills specified for their chosen class (such as [Occultism](../../compendium/skills.md#Occultism) and [Performance](../../compendium/skills.md#Performance) for a bard) in addition to the skills they gain through their initial proficiencies. They also gain benefits based on the class.
+If the story you want to tell is about characters who have started training to become a particular class, you can grant them a small number of additional abilities. An apprentice character is trained in the skill or skills specified for their chosen class (such as [Occultism](compendium/skills.md#Occultism) and [Performance](compendium/skills.md#Performance) for a bard) in addition to the skills they gain through their initial proficiencies. They also gain benefits based on the class.
 
 ##### Alchemist
 <sup>GMG p. 195</sup>
@@ -561,7 +561,7 @@ This variant removes the item bonus to rolls and DCs usually provided by magic i
 #### Special Class Features
 <sup>GMG p. 196</sup>
 
-Every character automatically gains the class features on [Table 4–11: Automatic Bonus Progression](../tables/automatic-bonus-progression-gmg.md).
+Every character automatically gains the class features on [Table 4–11: Automatic Bonus Progression](rules/tables/automatic-bonus-progression-gmg.md).
 
 | Level | Benefits |
 |-------|----------|
@@ -599,7 +599,7 @@ At 3rd level, choose a single skill. You gain a +1 potency bonus with that skill
 ##### Devastating Attacks
 <sup>GMG p. 196</sup>
 
-At 4th level, your weapon and unarmed [Strikes](../actions/strike.md) deal two damage dice instead of one. This increases to three at 12th level and to four at 19th level.
+At 4th level, your weapon and unarmed [Strikes](rules/actions/strike.md) deal two damage dice instead of one. This increases to three at 12th level and to four at 19th level.
 
 ##### Defense Potency
 <sup>GMG p. 196</sup>
@@ -624,16 +624,16 @@ At 17th level, choose one ability score to either increase by 2 or increase to 1
 #### Adjusting Items and Treasure
 <sup>GMG p. 196</sup>
 
-With this variant, you can ignore as much of [Table 10–9: Party Treasure by Level](../tables/party-treasure-by-level.md) on page 509 of the Core Rulebook as you want, though you'll usually want to provide consistent currency. The main area your choice will impact is in spellcasting items, such as scrolls and wands.
+With this variant, you can ignore as much of [Table 10–9: Party Treasure by Level](rules/tables/party-treasure-by-level.md) on page 509 of the Core Rulebook as you want, though you'll usually want to provide consistent currency. The main area your choice will impact is in spellcasting items, such as scrolls and wands.
 
-Remove all potency runes, striking runes, and resilient runes. Items that normally grant an item bonus to statistics or damage dice no longer do, other than the base item bonus to AC from armor. Apex items do not increase ability scores. If your world still includes magic items, a safe bet is to continue to give out consumable items at roughly the rate on [Table 10–9](../tables/party-treasure-by-level.md) of the Core Rulebook.
+Remove all potency runes, striking runes, and resilient runes. Items that normally grant an item bonus to statistics or damage dice no longer do, other than the base item bonus to AC from armor. Apex items do not increase ability scores. If your world still includes magic items, a safe bet is to continue to give out consumable items at roughly the rate on [Table 10–9](rules/tables/party-treasure-by-level.md) of the Core Rulebook.
 
-If you choose to eliminate runes entirely, this can reduce the PCs' damage since they won't have runes like flaming or [holy](../../compendium/equipment/items/holy.md). If you've removed nearly all treasure, challenges might become more difficult, even with automatic bonuses.
+If you choose to eliminate runes entirely, this can reduce the PCs' damage since they won't have runes like flaming or [holy](compendium/equipment/items/holy.md). If you've removed nearly all treasure, challenges might become more difficult, even with automatic bonuses.
 
 ### High-Quality
 <sup>GMG p. 197</sup>
 
-In this variant, gear can provide bonuses even if it's not magical. This is useful for games and settings that set out to give fine, non-magical items the same prominence as magic items. High-quality gear requires the corresponding proficiency rank in [Crafting](../../compendium/skills.md#Crafting) to [Craft](../actions/craft.md).
+In this variant, gear can provide bonuses even if it's not magical. This is useful for games and settings that set out to give fine, non-magical items the same prominence as magic items. High-quality gear requires the corresponding proficiency rank in [Crafting](compendium/skills.md#Crafting) to [Craft](rules/actions/craft.md).
 
 | Quality | Item Bonus | Property Rune Slots | Item Level | Price |
 |---------|------------|---------------------|------------|-------|
@@ -668,12 +668,12 @@ In this variant, gear can provide bonuses even if it's not magical. This is usef
 #### High-Quality Weapons and Armor
 <sup>GMG p. 197</sup>
 
-High-quality weapons and armor give the same benefits as weapon and armor potency runes ([Tables 4–12](../tables/high-quality-weapons-gmg.md) and [4–13](../tables/high-quality-armor-gmg.md)). To remove magic from weapons and armor, you can use the devastating attacks and saving throw potency entries from the automatic bonus progression variant, or you can have quality also provide the effects of striking and resilient runes, using [Table 4–14](../tables/devastating-weapons-gmg.md) and [Table 4–15](../tables/resilient-armor-gmg.md). If you choose to still have magic weapons and armor, the effects don't stack with quality.
+High-quality weapons and armor give the same benefits as weapon and armor potency runes ([Tables 4–12](rules/tables/high-quality-weapons-gmg.md) and [4–13](rules/tables/high-quality-armor-gmg.md)). To remove magic from weapons and armor, you can use the devastating attacks and saving throw potency entries from the automatic bonus progression variant, or you can have quality also provide the effects of striking and resilient runes, using [Table 4–14](rules/tables/devastating-weapons-gmg.md) and [Table 4–15](rules/tables/resilient-armor-gmg.md). If you choose to still have magic weapons and armor, the effects don't stack with quality.
 
 #### High-Quality Skill Items
 <sup>GMG p. 197</sup>
 
-Items with skill or [Perception](../../compendium/skills.md#Perception) bonuses don't have fundamental runes. If an existing skill bonus item costs less than the listed Price for a high-quality skill item or has a lower level, it likely has a feature such as a limitation, so adjust accordingly. A character in a game with this variant can [Craft](../actions/craft.md) or buy a non-magical item to boost [Perception](../../compendium/skills.md#Perception) or a skill using the table below.
+Items with skill or [Perception](compendium/skills.md#Perception) bonuses don't have fundamental runes. If an existing skill bonus item costs less than the listed Price for a high-quality skill item or has a lower level, it likely has a feature such as a limitation, so adjust accordingly. A character in a game with this variant can [Craft](rules/actions/craft.md) or buy a non-magical item to boost [Perception](compendium/skills.md#Perception) or a skill using the table below.
 
 | Quality | Item Bonus | Item Level | Price |
 |---------|------------|------------|-------|
@@ -690,7 +690,7 @@ The initial implementation is fairly straightforward: the proficiency bonus just
 
 Additionally, for creatures, hazards, magic items, and so on, reduce each statistic that would include a proficiency bonus by the level of the creature or other rules element. These statistics are typically modifiers and DCs for attacks, ACs, saving throws, Perception, skills, and spells.
 
-Finally, decrease the skill DCs of most tasks to account for the level being removed. You can just subtract the level from the DC tables on page 503 of the _Core Rulebook_, or you can reference [Table 4–17: Simple Skill DCs (No Level)](../tables/simple-skill-dcs-no-level-gmg.md) for a set of DCs that's easier to remember. The new DCs make it a little harder for high-level characters to succeed than it would be when using the default numbers from the Core Rulebook, in keeping with the theme mentioned earlier. Combat outcomes will tend to flatten out, with critical successes and critical failures being less likely across the game. This is particularly notable in spells, where you're less likely to see the extreme effects of critical failures on saves.
+Finally, decrease the skill DCs of most tasks to account for the level being removed. You can just subtract the level from the DC tables on page 503 of the _Core Rulebook_, or you can reference [Table 4–17: Simple Skill DCs (No Level)](rules/tables/simple-skill-dcs-no-level-gmg.md) for a set of DCs that's easier to remember. The new DCs make it a little harder for high-level characters to succeed than it would be when using the default numbers from the Core Rulebook, in keeping with the theme mentioned earlier. Combat outcomes will tend to flatten out, with critical successes and critical failures being less likely across the game. This is particularly notable in spells, where you're less likely to see the extreme effects of critical failures on saves.
 
 | Proficiency Rank | DC |
 |------------------|----|
@@ -705,7 +705,7 @@ Finally, decrease the skill DCs of most tasks to account for the level being rem
 
 Telling stories where a large group of low-level monsters can still be a significant threat to a high-level PC (and conversely, a single higher-level monster is not much of a threat to a group of PCs) requires some significant shifts in encounter building, including shifts in the PCs' rewards.
 
-Under the math in the _Core Rulebook_, two monsters of a certain level are roughly as challenging as a single monster 2 levels higher. However, with level removed from proficiency, this assumption is no longer true. The XP budget for creatures uses a different scale, as shown in [Table 4–18: Creature XP (No Level)](../tables/creature-xp-no-level-gmg.md). You'll still use the same XP budget for a given threat level as shown on [Table 10–1: Encounter Budget](../tables/encounter-budget.md) (80 XP for a moderate-threat encounter, 120 for a severe-threat encounter, and so on).
+Under the math in the _Core Rulebook_, two monsters of a certain level are roughly as challenging as a single monster 2 levels higher. However, with level removed from proficiency, this assumption is no longer true. The XP budget for creatures uses a different scale, as shown in [Table 4–18: Creature XP (No Level)](rules/tables/creature-xp-no-level-gmg.md). You'll still use the same XP budget for a given threat level as shown on [Table 10–1: Encounter Budget](rules/tables/encounter-budget.md) (80 XP for a moderate-threat encounter, 120 for a severe-threat encounter, and so on).
 
 | Creature's Level | XP |
 |------------------|----|
@@ -725,7 +725,7 @@ Under the math in the _Core Rulebook_, two monsters of a certain level are rough
 | Party level + 6 | 135 |
 | Party level + 7 | 160 |
 
-While the XP values in [Table 4–18](../tables/creature-xp-no-level-gmg.md) work well in most cases, sometimes they might not account for the effects of creatures' special abilities when facing a party of a drastically different level. For instance, a ghost mage could prove too much for 5th-level PCs with its incorporeality, flight, and high-level spells, even though it's outnumbered.
+While the XP values in [Table 4–18](rules/tables/creature-xp-no-level-gmg.md) work well in most cases, sometimes they might not account for the effects of creatures' special abilities when facing a party of a drastically different level. For instance, a ghost mage could prove too much for 5th-level PCs with its incorporeality, flight, and high-level spells, even though it's outnumbered.
 
 ### Adjusting Treasure
 <sup>GMG p. 198</sup>
@@ -738,7 +738,7 @@ Treasure and the cost of items in the Core Rulebook are designed to make it as e
 ### Assigning Skill Points
 <sup>GMG p. 199</sup>
 
-At 1st level, a character using the Skill Points variant gains their initial skill proficiencies as described in the Core Rulebook. However, at every level beyond 1st, instead of gaining skill increases, the character gains a number of Skill Points, as indicated on [Table 4–19: Skill Points by Level](../tables/skill-points-by-level-gmg.md). The character can spend these Skill Points to increase their proficiency rank in various skills, as shown on [Table 4–20: Cost to Increase Rank](../tables/cost-to-increase-rank-gmg.md). A character must meet the minimum level indicated on the table to increase their rank, primarily to avoid having a player becoming unrealistically good at one skill early in their adventuring career while neglecting everything else. Characters can save up Skill Points between levels for a more expensive increase later on.
+At 1st level, a character using the Skill Points variant gains their initial skill proficiencies as described in the Core Rulebook. However, at every level beyond 1st, instead of gaining skill increases, the character gains a number of Skill Points, as indicated on [Table 4–19: Skill Points by Level](rules/tables/skill-points-by-level-gmg.md). The character can spend these Skill Points to increase their proficiency rank in various skills, as shown on [Table 4–20: Cost to Increase Rank](rules/tables/cost-to-increase-rank-gmg.md). A character must meet the minimum level indicated on the table to increase their rank, primarily to avoid having a player becoming unrealistically good at one skill early in their adventuring career while neglecting everything else. Characters can save up Skill Points between levels for a more expensive increase later on.
 
 | Level | Skill Points Gained |
 |-------|---------------------|
@@ -757,7 +757,7 @@ At 1st level, a character using the Skill Points variant gains their initial ski
 #### Rogues
 <sup>GMG p. 199</sup>
 
-Because rogues get skill increases at every level in the standard rules, they also get more Skill Points. Rogues gain double the number of Skill Points listed on [Table 4–19](../tables/skill-points-by-level-gmg.md).
+Because rogues get skill increases at every level in the standard rules, they also get more Skill Points. Rogues gain double the number of Skill Points listed on [Table 4–19](rules/tables/skill-points-by-level-gmg.md).
 
 #### Retraining
 <sup>GMG p. 199</sup>
@@ -774,22 +774,22 @@ Players using Skill Points have more flexibility to build characters with a broa
 
 > [!pf2-sidebar] Stamina's Impact
 > 
-> The main gameplay consequence of using these stamina rules is that a quick 10- or 20-minute rest can restore most groups to full or nearly full health via [Taking a Breather](../actions/take-a-breather-gmg.md) and [Treating Wounds](../actions/treat-wounds.md) as necessary, allowing more encounters with shorter breaks in between. Additionally, charismatic or otherwise diplomatic characters gain fun and useful ways to bolster their allies.
+> The main gameplay consequence of using these stamina rules is that a quick 10- or 20-minute rest can restore most groups to full or nearly full health via [Taking a Breather](rules/actions/take-a-breather-gmg.md) and [Treating Wounds](rules/actions/treat-wounds.md) as necessary, allowing more encounters with shorter breaks in between. Additionally, charismatic or otherwise diplomatic characters gain fun and useful ways to bolster their allies.
 > 
 > Because spells that heal Hit Points don't restore Stamina Points, it's a little harder to heal up completely in the middle of a fight. This can mean that fights become deadly after characters have been beaten down, possibly causing retreats to be more frequent, but the retreats themselves are shorter. The focus of the game can stay consistently within encounters, with less managing of time and resources outside of battle.
 
 > [!pf2-sidebar] No-Limit Stamina
 > 
-> If you want a fast-paced, almost superheroic game, you can skip the Resolve Point component of this subsystem and simply make [Taking a Breather](../actions/take-a-breather-gmg.md) and [Rally](../actions/rally-gmg.md) free. This gives the characters a lot of staying power, meaning that the group will typically keep adventuring until they run out of spells for the day, rather than having the additional pressure of running out of Resolve Points. If you use this approach, omit the Steel Your Resolve feat, as it's too powerful if there's no cost to use it! Alternatively, if you want to keep it, you can require a character to [Take a Breather](../actions/take-a-breather-gmg.md) before they can [Steel their Resolve](../../compendium/feats/steel-your-resolve-gmg.md) again.
+> If you want a fast-paced, almost superheroic game, you can skip the Resolve Point component of this subsystem and simply make [Taking a Breather](rules/actions/take-a-breather-gmg.md) and [Rally](rules/actions/rally-gmg.md) free. This gives the characters a lot of staying power, meaning that the group will typically keep adventuring until they run out of spells for the day, rather than having the additional pressure of running out of Resolve Points. If you use this approach, omit the Steel Your Resolve feat, as it's too powerful if there's no cost to use it! Alternatively, if you want to keep it, you can require a character to [Take a Breather](rules/actions/take-a-breather-gmg.md) before they can [Steel their Resolve](compendium/feats/steel-your-resolve-gmg.md) again.
 
 ### Stamina Points
 <sup>GMG p. 200</sup>
 
 Stamina Points represent a character's energy and readiness. They're reduced by damage just like Hit Points, but a character always loses their Stamina Points first, and loses Hit Points only if they're out of Stamina Points. If a character takes damage exceeding their remaining Stamina Points, the excess damage reduces their Hit Points. However, they lose any temporary Hit Points before losing Stamina Points.
 
-Though Stamina Points and Hit Points function similarly when a character takes damage, a character recovers them differently. A [heal](../../compendium/spells/heal.md) spell restores Hit Points, not Stamina Points, and the actions described below (like [Take a Breather](../actions/take-a-breather-gmg.md)) restore only Stamina Points, not Hit Points. A character regains all their Stamina Points after a full night's rest. Hit Points still determine whether a character remains conscious—a character at 0 HP is unconscious, no matter how many Stamina Points they have.
+Though Stamina Points and Hit Points function similarly when a character takes damage, a character recovers them differently. A [heal](compendium/spells/heal.md) spell restores Hit Points, not Stamina Points, and the actions described below (like [Take a Breather](rules/actions/take-a-breather-gmg.md)) restore only Stamina Points, not Hit Points. A character regains all their Stamina Points after a full night's rest. Hit Points still determine whether a character remains conscious—a character at 0 HP is unconscious, no matter how many Stamina Points they have.
 
-In addition to their ancestry Hit Points, a PC gains the number of Stamina Points and Hit Points indicated in the second and third columns of [Table 4–21](../tables/stamina-and-hit-points-by-class-gmg.md) at 1st level. Both values increase by the same amount at each level thereafter. This replaces the Hit Points a character gains from their class in a standard game.
+In addition to their ancestry Hit Points, a PC gains the number of Stamina Points and Hit Points indicated in the second and third columns of [Table 4–21](rules/tables/stamina-and-hit-points-by-class-gmg.md) at 1st level. Both values increase by the same amount at each level thereafter. This replaces the Hit Points a character gains from their class in a standard game.
 
 | Normal Class HP | Class Stamina Points | Class Hit Points | Classes |
 |-----------------|----------------------|------------------|---------|
@@ -815,7 +815,7 @@ If a character is dying at the start of their turn, their player can spend 1 Res
 title: Take a Breather
 collapse: closed
 # Take a Breather
-[exploration](rules/traits/exploration.md)  
+[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  
 *Source: Gamemastery Guide p. 200*  
 
 - **Cost**: 1 Resolve Point
@@ -827,12 +827,12 @@ You rest for 10 minutes and recover your stamina. After you complete this activi
 title: Rally
 collapse: closed
 # Rally
-[auditory](rules/traits/auditory.md)  [emotion](rules/traits/emotion.md)  [exploration](rules/traits/exploration.md)  [linguistic](rules/traits/linguistic.md)  [mental](rules/traits/mental.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 *Source: Gamemastery Guide p. 201*  
 
-- **Prerequisites**: trained in [Diplomacy](../../../compendium/skills.md#Diplomacy), [Intimidation](../../../compendium/skills.md#Intimidation), [Performance](../../../compendium/skills.md#Performance)
+- **Prerequisites**: trained in [Diplomacy](compendium/skills.md#Diplomacy), [Intimidation](compendium/skills.md#Intimidation), [Performance](compendium/skills.md#Performance)
 
-You spend 1 minute encouraging your ally. Though this action typically has the auditory and linguistic traits, if you're using the [Performance](../../../compendium/skills.md#Performance) skill, the GM might adjust the traits for this action to match the traits for your type of performance.
+You spend 1 minute encouraging your ally. Though this action typically has the auditory and linguistic traits, if you're using the [Performance](compendium/skills.md#Performance) skill, the GM might adjust the traits for this action to match the traits for your type of performance.
 
 Attempt a DC 15 skill check. The GM might adjust this DC based on the circumstances, such as attempting to Rally an ally who just suffered a humiliating defeat.
 
@@ -849,13 +849,13 @@ Attempt a DC 15 skill check. The GM might adjust this DC based on the circumstan
 title: Encouraging Words [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action"), *Feat 2*
 collapse: closed
 # Encouraging Words  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 2*  
-[auditory](rules/traits/auditory.md)  [general](rules/traits/general.md)  [linguistic](rules/traits/linguistic.md)  [mental](rules/traits/mental.md)  [skill](rules/traits/skill.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [general](rules/traits/general.md "General Feat Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [skill](rules/traits/skill.md "Skill Feat Trait")  
 
-- **Prerequisites**: trained in [Diplomacy](../../../compendium/skills.md#Diplomacy)
+- **Prerequisites**: trained in [Diplomacy](compendium/skills.md#Diplomacy)
 - **Requirements**: The target ally lost Stamina Points within the last round.
 - **Activity** Single Action ([>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action"))
 
-You give an ally within 30 feet a quick pep talk, helping them recover. Attempt a [Diplomacy](../../../compendium/skills.md#Diplomacy) check. The DC is usually 15, though the GM might adjust it based on the circumstances. If you have expert proficiency in [Diplomacy](../../../compendium/skills.md#Diplomacy), you can instead attempt a DC 20 check to increase the Stamina Points recovered by 5; if you have master proficiency, you can attempt a DC 30 check to increase the Stamina Points by 15; if you have legendary proficiency, you can attempt a DC 40 check to increase the Stamina Points by 25. No matter the result, the ally is temporarily immune to Encouraging Words until they either Take a Breather or rest for the day.
+You give an ally within 30 feet a quick pep talk, helping them recover. Attempt a [Diplomacy](compendium/skills.md#Diplomacy) check. The DC is usually 15, though the GM might adjust it based on the circumstances. If you have expert proficiency in [Diplomacy](compendium/skills.md#Diplomacy), you can instead attempt a DC 20 check to increase the Stamina Points recovered by 5; if you have master proficiency, you can attempt a DC 30 check to increase the Stamina Points by 15; if you have legendary proficiency, you can attempt a DC 40 check to increase the Stamina Points by 25. No matter the result, the ally is temporarily immune to Encouraging Words until they either Take a Breather or rest for the day.
 
 > [!success-degree] 
 > - **Critical Success** The ally recovers `2d8` Stamina Points.
@@ -870,7 +870,7 @@ You give an ally within 30 feet a quick pep talk, helping them recover. Attempt 
 title: Steel Your Resolve [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action"), *Feat 3*
 collapse: closed
 # Steel Your Resolve  [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") *Feat 3*  
-[general](rules/traits/general.md)  
+[general](rules/traits/general.md "General Feat Trait")  
 
 - **Cost**: 1 Resolve Point
 - **Activity** Single Action ([>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action"))

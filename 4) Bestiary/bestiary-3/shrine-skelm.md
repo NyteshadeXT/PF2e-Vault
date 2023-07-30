@@ -1,4 +1,5 @@
 ---
+obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Shrine Skelm"
 tags: 
@@ -60,7 +61,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 22; __3rd__ [[command]], [[enthrall]], [[mind reading]] (3), [[soothe]];"
+    desc: "DC 22; __3rd__ [[command]], [[enthrall]], [[mind-reading|mind reading]] (3), [[soothe]];"
 sourcebook: "_Bestiary 3_, page 239."
 ```
 

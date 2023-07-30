@@ -10,14 +10,14 @@ tags:
 - trait/mental
 aliases: ["Request"]
 ---
-# Request (basic) [>](../core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[auditory](../traits/auditory.md)  [concentrate](../traits/concentrate.md)  [linguistic](../traits/linguistic.md)  [mental](../traits/mental.md)  
+# Request (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 *Source: Core Rulebook p. 247*  
 
-**Skill** [diplomacy](../../compendium/skills.md#Diplomacy) (untrained)
+**Skill** [diplomacy](compendium/skills.md#Diplomacy) (untrained)
 - **Activity**: Single Action
 
-You can make a request of a creature that's [friendly](../conditions.md#Friendly) or [helpful](../conditions.md#Helpful) to you. You must couch the request in terms that the target would accept given their current attitude toward you. The GM sets the DC based on the difficulty of the request. Some requests are unsavory or impossible, and even a helpful NPC would never agree to them.
+You can make a request of a creature that's [friendly](rules/conditions.md#Friendly) or [helpful](rules/conditions.md#Helpful) to you. You must couch the request in terms that the target would accept given their current attitude toward you. The GM sets the DC based on the difficulty of the request. Some requests are unsavory or impossible, and even a helpful NPC would never agree to them.
 
 > [!success-degree] 
 > - **Critical Success** The target agrees to your request without qualifications.

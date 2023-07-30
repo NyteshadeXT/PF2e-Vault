@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/crb
-aliases: ["Chapter 3: Classes"]
+aliases: ["chapter-3-classes"]
 ---
 # Chapter 3: Classes
 <sup>CRB p. 67</sup>
@@ -33,7 +33,7 @@ This is the ability score that a member of your class cares about the most. Many
 
 For instance, this is the ability score you'll use to determine the Difficulty Class (DC) associated with your character's class features and feats. This is called your class DC. If your character is a member of a spellcasting class, this key ability is used to calculate spell DCs and similar values.
 
-Most classes are associated with one key ability score, but some allow you to choose from two options. For instance, if you're a fighter, you can choose either Strength or Dexterity as your key ability. A fighter who chooses Strength will excel in hand-to-hand combat, while those who choose Dexterity prefer ranged or [finesse](../traits/finesse.md) weapons.
+Most classes are associated with one key ability score, but some allow you to choose from two options. For instance, if you're a fighter, you can choose either Strength or Dexterity as your key ability. A fighter who chooses Strength will excel in hand-to-hand combat, while those who choose Dexterity prefer ranged or [finesse](rules/traits/finesse.md "Finesse Weapon Trait") weapons.
 
 Additionally, when you choose your character's class, they gain an ability boost to their key ability score, increasing that ability score by 2. For more about ability boosts, see page 20.
 
@@ -132,7 +132,7 @@ Ancestry feats are detailed in each ancestry entry in Chapter 2, which begins on
 ### Animal Companions
 <sup>CRB p. 214</sup>
 
-An animal companion is a loyal comrade who follows your orders without you needing to use Handle an Animal on it. Your animal companion has the [animal](../traits/animal.md) and [minion](../traits/minion.md) traits, and it gains 2 actions during your turn if you use the [Command an Animal](../actions/command-an-animal.md) action to command it; this is in place of the usual effects of [Command an Animal](../actions/command-an-animal.md). If your companion dies, you can spend a week of downtime to replace it at no cost. You can have only one animal companion at a time.
+An animal companion is a loyal comrade who follows your orders without you needing to use Handle an Animal on it. Your animal companion has the [animal](rules/traits/animal.md "Animal Creature Type Trait") and [minion](rules/traits/minion.md "Minion Creature Trait") traits, and it gains 2 actions during your turn if you use the [Command an Animal](rules/actions/command-an-animal.md) action to command it; this is in place of the usual effects of [Command an Animal](rules/actions/command-an-animal.md). If your companion dies, you can spend a week of downtime to replace it at no cost. You can have only one animal companion at a time.
 
 #### Riding Animal Companions
 <sup>CRB p. 214</sup>
@@ -147,7 +147,7 @@ The following are the base statistics for a young animal companion, the first an
 #### Proficiencies
 <sup>CRB p. 214</sup>
 
-Your animal companion uses your level to determine its proficiency bonuses. It's trained in its unarmed attacks, unarmored defense, barding, all saving throws, Perception, [Acrobatics](../../compendium/skills.md#Acrobatics), and [Athletics](../../compendium/skills.md#Athletics). Animal companions can't use abilities that require greater Intelligence, such as Coerce or Decipher Writing, even if trained in the appropriate skill, unless they have a specialization that allows it.
+Your animal companion uses your level to determine its proficiency bonuses. It's trained in its unarmed attacks, unarmored defense, barding, all saving throws, Perception, [Acrobatics](compendium/skills.md#Acrobatics), and [Athletics](compendium/skills.md#Athletics). Animal companions can't use abilities that require greater Intelligence, such as Coerce or Decipher Writing, even if trained in the appropriate skill, unless they have a specialization that allows it.
 
 #### Ability Modifiers
 <sup>CRB p. 214</sup>
@@ -162,24 +162,24 @@ Your animal companion has ancestry Hit Points from its type, plus a number of Hi
 #### Mature Animal Companions
 <sup>CRB p. 214</sup>
 
-To advance a young animal companion to a mature animal companion (usually a result of one of your class feat choices), increase its Strength, Dexterity, Constitution, and Wisdom modifiers by 1. Increase its unarmed attack damage from one die to two dice (for instance 1d8 to 2d8), and its proficiency rank for Perception and all saving throws to expert. Increase its proficiency ranks in [Intimidation](../../compendium/skills.md#Intimidation), [Stealth](../../compendium/skills.md#Stealth), and [Survival](../../compendium/skills.md#Survival) to trained, and if it was already trained in one of those skills from its type, increase its proficiency rank in that skill to expert. If your companion is Medium or smaller, it grows by one size.
+To advance a young animal companion to a mature animal companion (usually a result of one of your class feat choices), increase its Strength, Dexterity, Constitution, and Wisdom modifiers by 1. Increase its unarmed attack damage from one die to two dice (for instance 1d8 to 2d8), and its proficiency rank for Perception and all saving throws to expert. Increase its proficiency ranks in [Intimidation](compendium/skills.md#Intimidation), [Stealth](compendium/skills.md#Stealth), and [Survival](compendium/skills.md#Survival) to trained, and if it was already trained in one of those skills from its type, increase its proficiency rank in that skill to expert. If your companion is Medium or smaller, it grows by one size.
 
 #### Nimble Animal Companions
 <sup>CRB p. 214</sup>
 
-To advance a mature animal companion to a nimble animal companion, increase its Dexterity modifier by 2 and its Strength, Constitution, and Wisdom modifiers by 1. It deals 2 additional damage with its unarmed attacks. Increase its proficiency ranks in [Acrobatics](../../compendium/skills.md#Acrobatics) to expert. It also learns the advanced maneuver for its type. Its attacks become magical for the purpose of ignoring resistances.
+To advance a mature animal companion to a nimble animal companion, increase its Dexterity modifier by 2 and its Strength, Constitution, and Wisdom modifiers by 1. It deals 2 additional damage with its unarmed attacks. Increase its proficiency ranks in [Acrobatics](compendium/skills.md#Acrobatics) to expert. It also learns the advanced maneuver for its type. Its attacks become magical for the purpose of ignoring resistances.
 
 #### Savage Animal Companions
 <sup>CRB p. 214</sup>
 
-To advance a mature animal companion to a savage animal companion, increase its Strength modifier by 2 and its Dexterity, Constitution, and Wisdom modifiers by 1. It deals 3 additional damage with its unarmed attacks. Increase its proficiency rank in [Athletics](../../compendium/skills.md#Athletics) to expert. It also learns the advanced maneuver for its type. If your companion is Medium or smaller, it grows by one size. Its attacks become magical for the purpose of ignoring resistances.
+To advance a mature animal companion to a savage animal companion, increase its Strength modifier by 2 and its Dexterity, Constitution, and Wisdom modifiers by 1. It deals 3 additional damage with its unarmed attacks. Increase its proficiency rank in [Athletics](compendium/skills.md#Athletics) to expert. It also learns the advanced maneuver for its type. If your companion is Medium or smaller, it grows by one size. Its attacks become magical for the purpose of ignoring resistances.
 
 #### Companion Types
 <sup>CRB p. 214</sup>
 
 The species of animal you choose is called your companion's type. Each companion type has its own statistics. The Size entry indicates your companion's starting size as a young animal companion. Following the size entry are the companion's unarmed attacks, and then its ability modifiers. The Hit Points entry indicates the companion's ancestry Hit Points. The Skill entry indicates an additional trained skill your companion has. The Senses entry lists your companion's special senses. The Speed entry gives your companion's Speeds. The Special entry, if present, lists any other special abilities your companion has, for example whether it often serves as a mount and is particularly appropriate for mounted classes, such as the champion.
 
-The Support Benefit entry indicates a special benefit you gain by [Commanding the Animal](../actions/command-an-animal.md) to use the Support action (see below). The Advanced Maneuver entry indicates a powerful new action your companion learns how to use if it becomes a nimble or savage animal companion.
+The Support Benefit entry indicates a special benefit you gain by [Commanding the Animal](rules/actions/command-an-animal.md) to use the Support action (see below). The Advanced Maneuver entry indicates a powerful new action your companion learns how to use if it becomes a nimble or savage animal companion.
 
 #### Specialized Animal Companions
 <sup>CRB p. 217</sup>
@@ -193,19 +193,19 @@ Each specialization grants additional benefits. Most animal companions can have 
 ##### Ambusher
 <sup>CRB p. 217</sup>
 
-In your companion's natural environment, it can use a [Sneak](../actions/sneak.md) action even if it's currently observed. Its proficiency rank in [Stealth](../../compendium/skills.md#Stealth) increases to expert (or master if it was already an expert from its type), and its Dexterity modifier increases by 1. Its proficiency rank for unarmored defense increases to expert.
+In your companion's natural environment, it can use a [Sneak](rules/actions/sneak.md) action even if it's currently observed. Its proficiency rank in [Stealth](compendium/skills.md#Stealth) increases to expert (or master if it was already an expert from its type), and its Dexterity modifier increases by 1. Its proficiency rank for unarmored defense increases to expert.
 
 ##### Bully
 <sup>CRB p. 217</sup>
 
-Your companion terrorizes foes with dominance displays and pushes them around the battlefield. Its proficiency ranks for [Athletics](../../compendium/skills.md#Athletics) and [Intimidation](../../compendium/skills.md#Intimidation) increase to expert (or master if it was already expert from its type), its Strength modifier increases by 1, and its Charisma modifier increases by 3.
+Your companion terrorizes foes with dominance displays and pushes them around the battlefield. Its proficiency ranks for [Athletics](compendium/skills.md#Athletics) and [Intimidation](compendium/skills.md#Intimidation) increase to expert (or master if it was already expert from its type), its Strength modifier increases by 1, and its Charisma modifier increases by 3.
 
 ##### Daredevil
 <sup>CRB p. 217</sup>
 
 Your companion joins the fray with graceful leaps and dives.
 
-It gains the deny advantage|barbarian||3 ability, so it isn't [flat-footed](../conditions.md#Flat-footed) to hidden, undetected, or flanking creatures unless such a creature's level is greater than yours. Its proficiency rank in [Acrobatics](../../compendium/skills.md#Acrobatics) increases to master, and its Dexterity modifier increases by 1. Its proficiency rank in unarmored defense increases to expert.
+It gains the deny advantage|barbarian||3 ability, so it isn't [flat-footed](rules/conditions.md#Flat-footed) to hidden, undetected, or flanking creatures unless such a creature's level is greater than yours. Its proficiency rank in [Acrobatics](compendium/skills.md#Acrobatics) increases to master, and its Dexterity modifier increases by 1. Its proficiency rank in unarmored defense increases to expert.
 
 ##### Racer
 <sup>CRB p. 217</sup>
@@ -215,12 +215,12 @@ Your companion races. It gains a +10-foot status bonus to its Speed, swim Speed,
 ##### Tracker
 <sup>CRB p. 217</sup>
 
-Your companion is an incredible tracker. It can move at full Speed while following tracks. Its proficiency rank in [Survival](../../compendium/skills.md#Survival) increases to expert (or master if it was already an expert from its type), and its Wisdom modifier increases by 1.
+Your companion is an incredible tracker. It can move at full Speed while following tracks. Its proficiency rank in [Survival](compendium/skills.md#Survival) increases to expert (or master if it was already an expert from its type), and its Wisdom modifier increases by 1.
 
 ##### Wrecker
 <sup>CRB p. 217</sup>
 
-Your companion smashes things. Its unarmed attacks ignore half an object's Hardness. Its [Athletics](../../compendium/skills.md#Athletics) proficiency increases to master, and its Strength modifier increases by 1.
+Your companion smashes things. Its unarmed attacks ignore half an object's Hardness. Its [Athletics](compendium/skills.md#Athletics) proficiency increases to master, and its Strength modifier increases by 1.
 
 ### Familiars
 <sup>CRB p. 217</sup>
@@ -234,7 +234,7 @@ You can have only one familiar at a time.
 #### Modifiers and AC
 <sup>CRB p. 217</sup>
 
-Your familiar's save modifiers and AC are equal to yours before applying circumstance or status bonuses or penalties. Its Perception, [Acrobatics](../../compendium/skills.md#Acrobatics), and [Stealth](../../compendium/skills.md#Stealth) modifiers are equal to your level plus your spellcasting ability modifier (Charisma if you don't have one, unless otherwise specified). If it attempts an attack roll or other skill check, it uses your level as its modifier. It doesn't have or use its own ability modifiers and can never benefit from item bonuses.
+Your familiar's save modifiers and AC are equal to yours before applying circumstance or status bonuses or penalties. Its Perception, [Acrobatics](compendium/skills.md#Acrobatics), and [Stealth](compendium/skills.md#Stealth) modifiers are equal to your level plus your spellcasting ability modifier (Charisma if you don't have one, unless otherwise specified). If it attempts an attack roll or other skill check, it uses your level as its modifier. It doesn't have or use its own ability modifiers and can never benefit from item bonuses.
 
 #### Hit Points
 <sup>CRB p. 217</sup>
@@ -249,7 +249,7 @@ Your familiar is Tiny.
 #### Senses
 <sup>CRB p. 218</sup>
 
-Your familiar has [low-light vision](../abilities/low-light-vision.md) and can gain additional senses from familiar abilities. It can communicate empathically with you as long as it's within 1 mile of you, sharing emotions. It doesn't understand or speak languages normally, but it can gain speech from a familiar ability.
+Your familiar has [low-light vision](rules/abilities/low-light-vision.md) and can gain additional senses from familiar abilities. It can communicate empathically with you as long as it's within 1 mile of you, sharing emotions. It doesn't understand or speak languages normally, but it can gain speech from a familiar ability.
 
 #### Movement
 <sup>CRB p. 218</sup>
@@ -270,13 +270,13 @@ Each day, you channel your magic into two abilities, which can be either familia
 - It gains a burrow Speed of 5 feet, allowing it to dig Tiny holes.
 - It gains a climb Speed of 25 feet.
 - Choose one type of save. It takes no damage when it succeeds at that type of save; this doesn't prevent effects other than damage.
-- It gains [darkvision](../abilities/darkvision.md).
+- It gains [darkvision](rules/abilities/darkvision.md).
 - Increase one of the familiar's Speeds from 25 feet to 40 feet.
 - It gains a fly Speed of 25 feet.
 - It can understand and speak with animals of the same species. To select this, your familiar must be an animal, it must have the speech ability, and you must be at least 6th level.
 - It can use your Quick Alchemy action. You must have Quick Alchemy, and your familiar must be in your space. This has the same cost and requirement as if you used it. It must have the manual dexterity ability to select this.
 - It can use up to two of its limbs as if they were hands to use manipulate actions.
-- It gains [scent](../abilities/scent.md) (imprecise, 30 feet).
+- It gains [scent](rules/abilities/scent.md) (imprecise, 30 feet).
 - It understands and speaks a language you know.
 
 ##### Master Abilities
@@ -284,8 +284,8 @@ Each day, you channel your magic into two abilities, which can be either familia
 
 - You can prepare an additional cantrip, or if you have a repertoire, instead designate a cantrip to add to your repertoire every time you select this ability; you can retrain it but can't otherwise change it. You must be able to prepare cantrips or add them to your repertoire to select this.
 - Your familiar grows extra infused reagents on or in its body. You gain an additional batch of infused reagents. You must have the infused reagents ability to select this ability.
-- Once per day, your familiar can use 2 actions with the [concentrate](../traits/concentrate.md) to regain 1 Focus Point, up to your usual maximum You must have a focus pool to select this.
-- If your familiar would be reduced to 0 HP by damage, as a reaction with the [concentrate](../traits/concentrate.md), you can take the damage. If you do, you take all the damage and your familiar takes none. However, if special effects when a hit damages your familiar (such as snake venom) still apply to your familiar.
+- Once per day, your familiar can use 2 actions with the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait") to regain 1 Focus Point, up to your usual maximum You must have a focus pool to select this.
+- If your familiar would be reduced to 0 HP by damage, as a reaction with the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait"), you can take the damage. If you do, you take all the damage and your familiar takes none. However, if special effects when a hit damages your familiar (such as snake venom) still apply to your familiar.
 - You gain one additional spell slot at least 3 levels lower than your highest-level spell slot; you must be able to cast 4th-level spells using spell slots to select this master ability.
 - If your familiar is in your space, you can cast a spell with a range of touch, transfer its power to your familiar, and command the familiar to deliver the spell. If you do, the familiar uses its 2 actions for the round to move to a target of your choice and touch that target. If it doesn't reach the target to touch it this turn, the spell has no effect.
 

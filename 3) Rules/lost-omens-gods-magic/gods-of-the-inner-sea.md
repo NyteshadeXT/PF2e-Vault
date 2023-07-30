@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/logm
-aliases: ["Gods of the Inner Sea"]
+aliases: ["gods-of-the-inner-sea"]
 ---
 # Gods of the Inner Sea
 <sup>LOGM p. 10</sup>
@@ -43,24 +43,24 @@ The entries for the 20 deities who are most influential in the Inner Sea region 
 
 **Sacred Colors:** The colors favored by the deity and typically worn in the raiment of their followers.
 
-**Divine Ability:** This section lists the two ability boosts the deity grants as options for characters with the [raised by belief](../../compendium/character/backgrounds/raised-by-belief-logm.md) background.
+**Divine Ability:** This section lists the two ability boosts the deity grants as options for characters with the [raised by belief](compendium/character/backgrounds/raised-by-belief-logm.md) background.
 
 **Alternate Domains:** If the deity offers 1, they are listed here. If the deity does not offer alternate domains, this section is omitted.
 
 ### Other Deities
 <sup>LOGM p. 11</sup>
 
-Starting on page 52, this chapter also provides details on 20 additional deities who are important in their own right, including their statistics and the mechanical information required to play a champion, cleric, or other worshipper of that deity. Each god's stat block presents information useful for understanding that deity and lists the benefits worshippers receive from the [avatar](../../compendium/spells/avatar.md) spell. These statistics use the following format.
+Starting on page 52, this chapter also provides details on 20 additional deities who are important in their own right, including their statistics and the mechanical information required to play a champion, cleric, or other worshipper of that deity. Each god's stat block presents information useful for understanding that deity and lists the benefits worshippers receive from the [avatar](compendium/spells/avatar.md) spell. These statistics use the following format.
 
 **Name:** The deity's name plus a common title or epithet.
 
 **Areas of Concern:** The topics that the deity cares most deeply about.
 
-**Alignment:** The deity's alignment. In parentheses, the entry lists other character alignments that this deity accepts from worshippers. For instance, [Kazutal](../../compendium/setting/deities/kazutal-logm.md), the goddess of protection and community, accepts any good-aligned clerics. [Arazni](../../compendium/setting/deities/arazni-logm.md), who is embittered and prone to cruelty, nonetheless has some sympathy for victims of abuse and accepts evil, neutral, and good worshippers, since she is less concerned about her worshippers' morality.
+**Alignment:** The deity's alignment. In parentheses, the entry lists other character alignments that this deity accepts from worshippers. For instance, [Kazutal](compendium/setting/deities/kazutal-logm.md), the goddess of protection and community, accepts any good-aligned clerics. [Arazni](compendium/setting/deities/arazni-logm.md), who is embittered and prone to cruelty, nonetheless has some sympathy for victims of abuse and accepts evil, neutral, and good worshippers, since she is less concerned about her worshippers' morality.
 
-**Divine Font:** This entry presents whether the deity grants worshippers [heal](../../compendium/spells/heal.md) or [harm](../../compendium/spells/harm.md), or can grant both. [Heal](../../compendium/spells/heal.md) heals the living and harms undead, while [harm](../../compendium/spells/harm.md) harms the living and heals undead. Usually, good deities channel [heal](../../compendium/spells/heal.md), evil deities channel [harm](../../compendium/spells/harm.md), and neutral deities can channel [harm](../../compendium/spells/harm.md) or [heal](../../compendium/spells/heal.md), but there are exceptions.
+**Divine Font:** This entry presents whether the deity grants worshippers [heal](compendium/spells/heal.md) or [harm](compendium/spells/harm.md), or can grant both. [Heal](compendium/spells/heal.md) heals the living and harms undead, while [harm](compendium/spells/harm.md) harms the living and heals undead. Usually, good deities channel [heal](compendium/spells/heal.md), evil deities channel [harm](compendium/spells/harm.md), and neutral deities can channel [harm](compendium/spells/harm.md) or [heal](compendium/spells/heal.md), but there are exceptions.
 
-**Divine Ability:** This section lists the two ability boosts the deity grants as options for characters with the [raised by belief](../../compendium/character/backgrounds/raised-by-belief-logm.md) background.
+**Divine Ability:** This section lists the two ability boosts the deity grants as options for characters with the [raised by belief](compendium/character/backgrounds/raised-by-belief-logm.md) background.
 
 **Divine Skill:** This section lists a skill that is especially associated with this deity, which their followers would naturally be good at due to their worship or association with this deity.
 

@@ -10,8 +10,8 @@ aliases: ["Magical Gear"]
 
 | Consumable Magic Items | Price | Bulk | Page |
 |------------------------|-------|------|------|
-| _[Holy water](../../compendium/equipment/items/holy-water.md)_ | 3 gp | L | 571 |
-| _[Unholy water](../../compendium/equipment/items/unholy-water.md)_ | 3 gp | L | 571 |
+| _[Holy water](compendium/equipment/items/holy-water.md)_ | 3 gp | L | 571 |
+| _[Unholy water](compendium/equipment/items/unholy-water.md)_ | 3 gp | L | 571 |
 ^magical-gear-6-12-3
 
 | Potions | Price | Bulk | Page |
@@ -26,4 +26,4 @@ aliases: ["Magical Gear"]
 
 | Talismans | Price | Bulk | Page |
 |-----------|-------|------|------|
-| _[Potency crystal](../../compendium/equipment/items/potency-crystal.md)_ | 4 gp | — | 568 |
+| _[Potency crystal](compendium/equipment/items/potency-crystal.md)_ | 4 gp | — | 568 |

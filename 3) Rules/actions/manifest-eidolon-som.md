@@ -11,8 +11,8 @@ tags:
 - trait/teleportation
 aliases: ["Manifest Eidolon"]
 ---
-# Manifest Eidolon [>>>](../core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
-[concentrate](../traits/concentrate.md)  [conjuration](../traits/conjuration.md)  [manipulate](../traits/manipulate.md)  [summoner](../traits/summoner-som.md)  [teleportation](../traits/teleportation.md)  
+# Manifest Eidolon [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  
 *Source: Secrets of Magic p. 52*  
 
 **Class** summoner

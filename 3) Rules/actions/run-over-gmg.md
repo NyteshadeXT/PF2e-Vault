@@ -7,8 +7,8 @@ tags:
 - trait/reckless
 aliases: ["Run Over"]
 ---
-# Run Over [>>>](../core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
-[move](../traits/move.md)  [reckless](../traits/reckless-gmg.md)  
+# Run Over [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
+[move](rules/traits/move.md "Move Combat Trait")  [reckless](rules/traits/reckless-gmg.md "Reckless Action & Ability Trait")  
 *Source: Gamemastery Guide p. 176*  
 
 **Variant Rule** Vehicles

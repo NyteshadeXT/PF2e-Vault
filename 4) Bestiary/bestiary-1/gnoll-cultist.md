@@ -1,4 +1,5 @@
 ---
+obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Gnoll Cultist"
 tags: 
@@ -34,7 +35,7 @@ abilities_bot:
   - name: "Pack Attack"
     desc: "  A gnoll hunter deals 1d4 (1d4) extra damage to any creature that's within reach of at least two of the gnoll hunter's allies."
   - name: "Rugged Travel"
-    desc: "  A gnoll ignores the first square of [[terrain|difficult terrain]] it moves into each time it [[Step|Steps]] or [[Stride|Strides]]."
+    desc: "  A gnoll ignores the first square of [[rules/core-rulebook/chapter-9-playing-the-game.md#Terrain|difficult terrain]] it moves into each time it [[Step|Steps]] or [[Stride|Strides]]."
 abilities_top:
   - name: Items
     desc: "falchion, hide armor, wooden religious symbol;"

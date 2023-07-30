@@ -10,14 +10,14 @@ tags:
 aliases: ["Craft Disharmonic Instrument"]
 ---
 # Craft Disharmonic Instrument
-[downtime](../traits/downtime.md)  [manipulate](../traits/manipulate.md)  [rare](../traits/rare.md)  
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
 *Source: Lost Omens: Monsters of Myth p. 53*  
 
-- **Requirements**: Legendary in [Crafting](../../compendium/skills.md#Crafting)
+- **Requirements**: Legendary in [Crafting](compendium/skills.md#Crafting)
 
 You use legendary Vudran techniques to craft a disharmonic instrument that incorporates pieces of Kothogaz's heart. This is likely a tanpura, but legends mention other instruments and even voice enhancers. A disharmonic instrument is a virtuoso musical instrument.
 
-This activity requires seven [disharmonic heartslivers](harvest-heartsliver-lomm.md), the formula for a disharmonic instrument, 55,000 gp worth of rare materials, and 7 days of work. At the end of the 7 days, attempt a DC 40 Crafting check to [Craft](craft.md).
+This activity requires seven [disharmonic heartslivers](rules/actions/harvest-heartsliver-lomm.md), the formula for a disharmonic instrument, 55,000 gp worth of rare materials, and 7 days of work. At the end of the 7 days, attempt a DC 40 Crafting check to [Craft](rules/actions/craft.md).
 
 > [!success-degree] 
 > - **Critical Success** You masterfully complete the disharmonic instrument. Holding the instrument grants immunity to Kothogaz's tympanic heartbeat and many-eyed blight.

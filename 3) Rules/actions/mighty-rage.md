@@ -7,12 +7,12 @@ tags:
 - trait/barbarian
 aliases: ["Mighty Rage"]
 ---
-# Mighty Rage [F](../core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
-[barbarian](../traits/barbarian.md)  
+# Mighty Rage [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
+[barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  
 *Source: Core Rulebook p. 85*  
 
 **Class** barbarian
-- **Trigger** You use the [Rage](rage.md) action on your turn.
+- **Trigger** You use the [Rage](rules/actions/rage.md) action on your turn.
 - **Activity**: Free Action
 
-Use an action that has the [rage](../traits/rage.md) trait. Alternatively, you can increase the actions of the triggering [Rage](rage.md) to 2 to instead use a 2-action activity with the rage trait.
+Use an action that has the [rage](rules/traits/rage.md "Rage Combat Trait") trait. Alternatively, you can increase the actions of the triggering [Rage](rules/actions/rage.md) to 2 to instead use a 2-action activity with the rage trait.

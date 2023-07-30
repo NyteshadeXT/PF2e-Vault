@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/crb
-aliases: ["Chapter 7: Spells"]
+aliases: ["chapter-7-spells"]
 ---
 # Chapter 7: Spells
 <sup>CRB p. 297</sup>
@@ -62,9 +62,9 @@ Illusions create the semblance of something real, fooling the eyes, ears, and ot
 
 > [!pf2-brown] Disbelieving Illusions
 > 
-> Sometimes illusions allow an affected creature a chance to disbelieve the spell, which lets the creature effectively ignore the spell if it succeeds at doing so. This usually happens when a creature [Seeks](../actions/seek.md) or otherwise spends actions to engage with the illusion, comparing the result of its [Perception](../../compendium/skills.md#Perception) check (or another check or saving throw, at the GM's discretion) to the caster's spell DC. [Mental](../traits/mental.md) illusions typically provide rules in the spell's description for disbelieving the effect (often allowing the affected creature to attempt a Will save).
+> Sometimes illusions allow an affected creature a chance to disbelieve the spell, which lets the creature effectively ignore the spell if it succeeds at doing so. This usually happens when a creature [Seeks](rules/actions/seek.md) or otherwise spends actions to engage with the illusion, comparing the result of its [Perception](compendium/skills.md#Perception) check (or another check or saving throw, at the GM's discretion) to the caster's spell DC. [Mental](rules/traits/mental.md "Mental Effect Trait") illusions typically provide rules in the spell's description for disbelieving the effect (often allowing the affected creature to attempt a Will save).
 > 
-> If the illusion is [visual](../traits/visual.md), and a creature interacts with the illusion in a way that would prove it is not what it seems, the creature might know that an illusion is present, but it still can't ignore the illusion without successfully disbelieving it. For instance, if a character is pushed through the illusion of a door, they will know that the door is an illusion, but they still can't see through it. Disbelieving an illusion makes it and those things it blocks seem hazy and indistinct, so even in the case where a visual illusion is disbelieved, it may, at the GM's discretion, block vision enough to make those on the other side concealed..
+> If the illusion is [visual](rules/traits/visual.md "Visual Effect Trait"), and a creature interacts with the illusion in a way that would prove it is not what it seems, the creature might know that an illusion is present, but it still can't ignore the illusion without successfully disbelieving it. For instance, if a character is pushed through the illusion of a door, they will know that the door is an illusion, but they still can't see through it. Disbelieving an illusion makes it and those things it blocks seem hazy and indistinct, so even in the case where a visual illusion is disbelieved, it may, at the GM's discretion, block vision enough to make those on the other side concealed..
 
 ### Necromancy
 <sup>CRB p. 298</sup>
@@ -86,7 +86,7 @@ Transmutation spells make alterations to or transform the physical form of a cre
 > 
 > **Spell DC = 10 + your spellcasting ability modifier + proficiency bonus + other bonuses + penalties**
 > 
-> A spell attack roll is like other attack rolls, so any bonuses or penalties that apply to all your attack rolls should be included in your calculation. For instance, the +1 status bonus from the [bless](../../compendium/spells/bless.md) spell would benefit your spell ray just like it could an arrow. However, note that the spell attack roll doesn't gain any bonuses or penalties that apply specifically to weapon attacks or unarmed attacks. The multiple attack penalty applies to spell attacks, so it's usually a bad idea to cast a spell that has a spell attack roll if you've already made an attack that turn.
+> A spell attack roll is like other attack rolls, so any bonuses or penalties that apply to all your attack rolls should be included in your calculation. For instance, the +1 status bonus from the [bless](compendium/spells/bless.md) spell would benefit your spell ray just like it could an arrow. However, note that the spell attack roll doesn't gain any bonuses or penalties that apply specifically to weapon attacks or unarmed attacks. The multiple attack penalty applies to spell attacks, so it's usually a bad idea to cast a spell that has a spell attack roll if you've already made an attack that turn.
 > 
 > As with other checks and DCs, bonuses can increase the result of your spell attack roll or your spell DC, and penalties can decrease the result of your spell attack roll or your spell DC. See pages 444–445 in Chapter 9: Playing the Game for more information about modifiers, bonuses, and penalties.
 
@@ -131,12 +131,12 @@ This is called heightening the spell. A prepared spellcaster can heighten a spel
 
 In addition, many spells have additional specific benefits when they are heightened, such as increased damage. These extra benefits are described at the end of the spell's stat block. Some heightened entries specify one or more levels at which the spell must be prepared or cast to gain these extra advantages. Each of these heightened entries states specifically which aspects of the spell change at the given level. Read the heightened entry only for the spell level you're using or preparing; if its benefits are meant to include any of the effects of a lower-level heightened entry, those benefits will be included in the entry.
 
-Other heightened entries give a number after a plus sign, indicating that heightening grants extra advantages over multiple levels. The listed effect applies for every increment of levels by which the spell is heightened above its lowest spell level, and the benefit is cumulative. For example, [fireball](../../compendium/spells/fireball.md) says "**Heightened (+1)** The damage increases by 2d6." Because [fireball](../../compendium/spells/fireball.md) deals `6d6` fire damage at 3rd level, a 4th-level [fireball](../../compendium/spells/fireball.md) would deal `8d6` fire damage, a 5th-level spell would deal `10d6` fire damage, and so on.
+Other heightened entries give a number after a plus sign, indicating that heightening grants extra advantages over multiple levels. The listed effect applies for every increment of levels by which the spell is heightened above its lowest spell level, and the benefit is cumulative. For example, [fireball](compendium/spells/fireball.md) says "**Heightened (+1)** The damage increases by 2d6." Because [fireball](compendium/spells/fireball.md) deals `6d6` fire damage at 3rd level, a 4th-level [fireball](compendium/spells/fireball.md) would deal `8d6` fire damage, a 5th-level spell would deal `10d6` fire damage, and so on.
 
 #### Heightened Spontaneous Spells
 <sup>CRB p. 299</sup>
 
-If you're a spontaneous spellcaster, you must know a spell at the specific level that you want to cast it in order to heighten it. You can add a spell to your spell repertoire at more than a single level so that you have more options when casting it. For example, if you added [fireball](../../compendium/spells/fireball.md) to your repertoire as a 3rd-level spell and again as a 5th-level spell, you could cast it as a 3rd-level or a 5th-level spell; however, you couldn't cast it as a 4th-level spell.
+If you're a spontaneous spellcaster, you must know a spell at the specific level that you want to cast it in order to heighten it. You can add a spell to your spell repertoire at more than a single level so that you have more options when casting it. For example, if you added [fireball](compendium/spells/fireball.md) to your repertoire as a 3rd-level spell and again as a 5th-level spell, you could cast it as a 3rd-level or a 5th-level spell; however, you couldn't cast it as a 4th-level spell.
 
 Many spontaneous spellcasting classes provide abilities like the signature spells class feature, which allows you to cast a limited number of spells as heightened versions even if you know the spell at only a single level.
 
@@ -182,19 +182,19 @@ A cantrip is always automatically heightened to half your level, rounded up. For
 > ### Minion
 > <sup>CRB p. 301</sup>
 > 
-> Minions are creatures that directly serve another creature. A creature with this trait can use only 2 actions per turn and can't use reactions. Your minion acts on your turn in combat, once per turn, when you spend an action to issue it commands. For an animal companion, you Command an Animal; for a minion that's a spell or magic item effect like a summoned minion you Sustain a Spell or Sustain an Activation; and if not otherwise specified, you issue a verbal command, which is a single action with the auditory and [concentrate](../traits/concentrate.md)s. If given no commands, by default minions use no actions except to defend themselves or to escape obvious harm. If left unattended for long enough, typically 1 minute, mindless minions usually don't act, animals often indulge their creature comforts, and sapient minions act how they please.
+> Minions are creatures that directly serve another creature. A creature with this trait can use only 2 actions per turn and can't use reactions. Your minion acts on your turn in combat, once per turn, when you spend an action to issue it commands. For an animal companion, you Command an Animal; for a minion that's a spell or magic item effect like a summoned minion you Sustain a Spell or Sustain an Activation; and if not otherwise specified, you issue a verbal command, which is a single action with the auditory and [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")s. If given no commands, by default minions use no actions except to defend themselves or to escape obvious harm. If left unattended for long enough, typically 1 minute, mindless minions usually don't act, animals often indulge their creature comforts, and sapient minions act how they please.
 > 
 > ### Morph
 > <sup>CRB p. 301</sup>
 > 
-> Spells that slightly alter a creature's form have the morph trait. Any [Strikes](../actions/strike.md) specifically granted by a morph effect are magical. You can be affected by multiple morph spells at once, but if you morph the same body part more than once, the second morph effect attempts to counteract the first (in the same manner as two polymorph effects, described below).
+> Spells that slightly alter a creature's form have the morph trait. Any [Strikes](rules/actions/strike.md) specifically granted by a morph effect are magical. You can be affected by multiple morph spells at once, but if you morph the same body part more than once, the second morph effect attempts to counteract the first (in the same manner as two polymorph effects, described below).
 > 
 > Your morph effects might also end if you are polymorphed and the polymorph effect invalidates or overrides your morph effect. For instance, a morph that gave you wings would be dismissed if you polymorphed into a form that had wings of its own (though if your new form lacked wings, you'd keep the wings from your morph). The GM determines which morph effects can be used together and which can't.
 > 
 > ### Polymorph
 > <sup>CRB p. 301</sup>
 > 
-> These effects transform the target into a new form. A target can't be under the effect of more than one polymorph effect at a time. If it comes under the effect of a second polymorph effect, the second polymorph effect attempts to counteract the first. If it succeeds, it takes effect, and if it fails, the spell has no effect on that target. Any [Strikes](../actions/strike.md) specifically granted by a polymorph effect are magical. Unless otherwise stated, polymorph spells don't allow the target to take on the appearance of a specific individual creature, but rather just a generic creature of a general type or ancestry.
+> These effects transform the target into a new form. A target can't be under the effect of more than one polymorph effect at a time. If it comes under the effect of a second polymorph effect, the second polymorph effect attempts to counteract the first. If it succeeds, it takes effect, and if it fails, the spell has no effect on that target. Any [Strikes](rules/actions/strike.md) specifically granted by a polymorph effect are magical. Unless otherwise stated, polymorph spells don't allow the target to take on the appearance of a specific individual creature, but rather just a generic creature of a general type or ancestry.
 > 
 > If you take on a battle form with a polymorph spell, the special statistics can be adjusted only by circumstance bonuses, status bonuses, and penalties. Unless otherwise noted, the battle form prevents you from casting spells, speaking, and using most manipulate actions that require hands. (If there's doubt about whether you can use an action, the GM decides.) Your gear is absorbed into you; the constant abilities of your gear still function, but you can't activate any items.
 > 
@@ -203,7 +203,7 @@ A cantrip is always automatically heightened to half your level, rounded up. For
 > 
 > A creature called by a conjuration spell or effect gains the summoned trait. A summoned creature can't summon other creatures, create things of value, or cast spells that require a cost. It has the minion trait. If it tries to cast a spell of equal or higher level than the spell that summoned it, the spell fails and the summon spell ends. Otherwise, it uses the standard abilities for a creature of its kind. It generally attacks your enemies to the best of its abilities. If you can communicate with it, you can attempt to command it, but the GM determines the degree to which it follows your commands.
 > 
-> Immediately when you finish [Casting the Spell](../actions/cast-a-spell.md), the summoned creature uses its 2 actions for that turn.
+> Immediately when you finish [Casting the Spell](rules/actions/cast-a-spell.md), the summoned creature uses its 2 actions for that turn.
 > 
 > Summoned creatures can be banished by various spells and effects. They are automatically banished if reduced to 0 Hit Points or if the spell that called them ends.
 > 
@@ -221,17 +221,17 @@ Focus spells are automatically heightened to half your level rounded up, just li
 
 Casting any of your focus spells costs you 1 Focus Point. You automatically gain a focus pool of 1 Focus Point the first time you gain an ability that gives you a focus spell.
 
-You replenish all the Focus Points in your pool during your daily preparations. You can also use the [Refocus](../actions/refocus.md) activity to pray, study, meditate, or otherwise reattune yourself to the source of your focus magic and regain a Focus Point.
+You replenish all the Focus Points in your pool during your daily preparations. You can also use the [Refocus](rules/actions/refocus.md) activity to pray, study, meditate, or otherwise reattune yourself to the source of your focus magic and regain a Focus Point.
 
 Some abilities allow you to increase the Focus Points in your pool beyond 1. Typically, these are feats that give you a new focus spell and increase the number of points in your pool by 1. Your focus pool can't have a capacity beyond 3 Focus Points, even if feats that increase your pool would cause it to exceed this number.
 
-![Refocus](../actions/refocus.md)
+![Refocus](rules/actions/refocus.md)
 
 > [!pf2-brown] Focus Points from Multiple Sources
 > 
 > It's possible, especially through archetypes, to gain focus spells and Focus Points from more than one source. If this happens, you have just one focus pool, adding all the Focus Points together to determine the total size of your pool. (Remember that the maximum number of Focus Points a pool can have is 3.) If you have multiple abilities that give you a focus pool, each one adds 1 Focus Point to your pool. For instance, if you were a cleric with the Domain Initiate feat, you would have a pool with 1 Focus Point. Let's say you then took the champion multiclass archetype and the Healing Touch feat. Normally, this feat would give you a focus pool. Since you already have one, it instead increases your existing pool's capacity by 1.
 > 
-> Focus Points are not differentiated by source; you can spend any of your Focus Points on any of your focus spells. Likewise, when you [Refocus](../actions/refocus.md), you get back a point as long as you follow the guidelines of any abilities that granted you focus spells. Having Focus Points from multiple sources doesn't change the tradition of your spells; if you had both cleric domain spells and druid order spells, your domain spells would remain divine and the order spells primal. This could mean that you need to keep track of a different proficiency and ability modifier with the spell DC and spell attack roll of different focus spells.
+> Focus Points are not differentiated by source; you can spend any of your Focus Points on any of your focus spells. Likewise, when you [Refocus](rules/actions/refocus.md), you get back a point as long as you follow the guidelines of any abilities that granted you focus spells. Having Focus Points from multiple sources doesn't change the tradition of your spells; if you had both cleric domain spells and druid order spells, your domain spells would remain divine and the order spells primal. This could mean that you need to keep track of a different proficiency and ability modifier with the spell DC and spell attack roll of different focus spells.
 
 ### Spellcasters with Focus Spells
 <sup>CRB p. 302</sup>
@@ -241,12 +241,12 @@ If you are a spellcaster, your focus spells are the same tradition of spell as t
 ### Non-Spellcasters with Focus Spells
 <sup>CRB p. 302</sup>
 
-If you get focus spells from a class or other source that doesn't grant spellcasting ability (for example, if you're a monk with the [Ki Strike](../../compendium/feats/ki-strike.md) feat), the ability that gives you focus spells also provides your proficiency rank for spell attack rolls and spell DCs, as well as the magical tradition of your focus spells. You gain the ability to [Cast a Spell](../actions/cast-a-spell.md) and use any spellcasting actions necessary to cast your focus spells (see below). However, you don't qualify for feats and other rules that require you to be a spellcaster.
+If you get focus spells from a class or other source that doesn't grant spellcasting ability (for example, if you're a monk with the [Ki Strike](compendium/feats/ki-strike.md) feat), the ability that gives you focus spells also provides your proficiency rank for spell attack rolls and spell DCs, as well as the magical tradition of your focus spells. You gain the ability to [Cast a Spell](rules/actions/cast-a-spell.md) and use any spellcasting actions necessary to cast your focus spells (see below). However, you don't qualify for feats and other rules that require you to be a spellcaster.
 
 ## Innate Spells
 <sup>CRB p. 302</sup>
 
-Certain spells are natural to your character, typically coming from your ancestry or a magic item rather than your class. You can cast your innate spells even if you aren't a member of a spellcasting class. The ability that gives you an innate spell tells you how often you can cast it—usually once per day—and its magical tradition. Innate spells are refreshed during your daily preparations. Innate cantrips are cast at will and automatically heightened as normal for cantrips (see Cantrips on page 300) unless otherwise specified. You gain the ability to [Cast a Spell](../actions/cast-a-spell.md) and use any spellcasting actions necessary to cast your innate spells; since this magic is innate, you can replace any material component with a somatic component (page 303). Innate spells don't let you qualify for abilities that require you to be a spellcaster.
+Certain spells are natural to your character, typically coming from your ancestry or a magic item rather than your class. You can cast your innate spells even if you aren't a member of a spellcasting class. The ability that gives you an innate spell tells you how often you can cast it—usually once per day—and its magical tradition. Innate spells are refreshed during your daily preparations. Innate cantrips are cast at will and automatically heightened as normal for cantrips (see Cantrips on page 300) unless otherwise specified. You gain the ability to [Cast a Spell](rules/actions/cast-a-spell.md) and use any spellcasting actions necessary to cast your innate spells; since this magic is innate, you can replace any material component with a somatic component (page 303). Innate spells don't let you qualify for abilities that require you to be a spellcaster.
 
 You're always trained in spell attack rolls and spell DCs for your innate spells, even if you aren't otherwise trained in spell attack rolls or spell DCs. If your proficiency in spell attack rolls or spell DCs is expert or better, apply that proficiency to your innate spells, too. You use your Charisma modifier as your spellcasting ability modifier for innate spells unless otherwise specified.
 
@@ -257,14 +257,14 @@ You can't use your spell slots to cast your innate spells, but you might have an
 ## Casting Spells
 <sup>CRB p. 302</sup>
 
-The casting of a spell can range from a simple word of magical might that creates a fleeting effect to a complex process taking minutes or hours to cast and producing a long-term impact. [Casting a Spell](../actions/cast-a-spell.md) is a special activity that takes a number of actions defined by the spell. When you [Cast a Spell](../actions/cast-a-spell.md), your spellcasting creates obvious visual manifestations of the gathering magic, although feats such as Conceal Spell (page 210) and Melodious Spell (page 101) can help hide such manifestations or otherwise prevent observers from noticing that you are casting.
+The casting of a spell can range from a simple word of magical might that creates a fleeting effect to a complex process taking minutes or hours to cast and producing a long-term impact. [Casting a Spell](rules/actions/cast-a-spell.md) is a special activity that takes a number of actions defined by the spell. When you [Cast a Spell](rules/actions/cast-a-spell.md), your spellcasting creates obvious visual manifestations of the gathering magic, although feats such as Conceal Spell (page 210) and Melodious Spell (page 101) can help hide such manifestations or otherwise prevent observers from noticing that you are casting.
 
-![Cast a Spell](../actions/cast-a-spell.md)
+![Cast a Spell](rules/actions/cast-a-spell.md)
 
 ### Spell Components
 <sup>CRB p. 303</sup>
 
-A spell description lists the components required to [Cast the Spell](../actions/cast-a-spell.md). For most spells, the number of components is equal to the number of actions you must spend to [Cast the Spell](../actions/cast-a-spell.md). Each component adds certain traits to the [Cast a Spell](../actions/cast-a-spell.md) activity, and some components have special requirements. The components that appear in this book are listed below.
+A spell description lists the components required to [Cast the Spell](rules/actions/cast-a-spell.md). For most spells, the number of components is equal to the number of actions you must spend to [Cast the Spell](rules/actions/cast-a-spell.md). Each component adds certain traits to the [Cast a Spell](rules/actions/cast-a-spell.md) activity, and some components have special requirements. The components that appear in this book are listed below.
 
 #### Material
 <sup>CRB p. 303</sup>
@@ -285,34 +285,34 @@ Spells that require you to touch the target require a somatic component. You can
 
 A verbal component is a vocalization of words of power.
 
-You must speak them in a strong voice, so it's hard to conceal that you're [Casting a Spell](../actions/cast-a-spell.md). The spell gains the [concentrate](../traits/concentrate.md). You must be able to speak to provide this component.
+You must speak them in a strong voice, so it's hard to conceal that you're [Casting a Spell](rules/actions/cast-a-spell.md). The spell gains the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait"). You must be able to speak to provide this component.
 
 #### Focus
 <sup>CRB p. 303</sup>
 
 A focus is an object that funnels the magical energy of the spell. The spell gains the manipulate trait and requires you to either have a free hand to retrieve the focus listed in the spell or already be holding the focus in your hand.
 
-As part of [Casting the Spell](../actions/cast-a-spell.md), you retrieve the focus (if necessary), manipulate it, and can stow it again if you so choose.
+As part of [Casting the Spell](rules/actions/cast-a-spell.md), you retrieve the focus (if necessary), manipulate it, and can stow it again if you so choose.
 
-Foci tend to be expensive, and you need to acquire them in advance to [Cast the Spell](../actions/cast-a-spell.md).
+Foci tend to be expensive, and you need to acquire them in advance to [Cast the Spell](rules/actions/cast-a-spell.md).
 
 > [!pf2-brown] Component Substitution
 > 
 > Some classes can substitute one component for another or alter how a component works.
 > 
-> If you're a bard [Casting a Spell](../actions/cast-a-spell.md) from the [occult](../traits/occult.md) tradition you can usually play an [instrument](../../compendium/equipment/items/musical-instrument.md) for spells requiring somatic or material components, as long as it takes at least one of your hands to do so. If you use an instrument, you don't need a spell component pouch or another hand free. You can usually also play an instrument for spells requiring verbal components, instead of speaking.
+> If you're a bard [Casting a Spell](rules/actions/cast-a-spell.md) from the [occult](rules/traits/occult.md "Occult Tradition Trait") tradition you can usually play an [instrument](compendium/equipment/items/musical-instrument.md) for spells requiring somatic or material components, as long as it takes at least one of your hands to do so. If you use an instrument, you don't need a spell component pouch or another hand free. You can usually also play an instrument for spells requiring verbal components, instead of speaking.
 > 
-> If you're a cleric [Casting a Spell](../actions/cast-a-spell.md) from the [divine](../traits/divine.md) tradition while holding a divine focus (such as a religious symbol or [text](../../compendium/equipment/items/religious-text.md)), you can replace any material component the spell requires by using the divine focus as a focus component instead. Unlike the normal rules for a focus component, you can't retrieve or stow the focus when making this substitution.
+> If you're a cleric [Casting a Spell](rules/actions/cast-a-spell.md) from the [divine](rules/traits/divine.md "Divine Tradition Trait") tradition while holding a divine focus (such as a religious symbol or [text](compendium/equipment/items/religious-text.md)), you can replace any material component the spell requires by using the divine focus as a focus component instead. Unlike the normal rules for a focus component, you can't retrieve or stow the focus when making this substitution.
 > 
-> If you're a druid [Casting a Spell](../actions/cast-a-spell.md) from the [primal](../traits/primal.md) tradition while holding a primal focus (such as [holly and mistletoe](../../compendium/equipment/items/holly-and-mistletoe.md)), you can replace any material component the spell requires by using the primal focus as a focus component instead. Unlike the normal rules for a focus component, you can't retrieve or stow the focus when making this substitution.
+> If you're a druid [Casting a Spell](rules/actions/cast-a-spell.md) from the [primal](rules/traits/primal.md "Primal Tradition Trait") tradition while holding a primal focus (such as [holly and mistletoe](compendium/equipment/items/holly-and-mistletoe.md)), you can replace any material component the spell requires by using the primal focus as a focus component instead. Unlike the normal rules for a focus component, you can't retrieve or stow the focus when making this substitution.
 > 
-> If you're a sorcerer [Casting a Spell](../actions/cast-a-spell.md) from the magical tradition that matches your bloodline, you can draw on the magic within your blood to replace any material component with a somatic component.
+> If you're a sorcerer [Casting a Spell](rules/actions/cast-a-spell.md) from the magical tradition that matches your bloodline, you can draw on the magic within your blood to replace any material component with a somatic component.
 > 
 > Any character casting an innate spell can replace any material component with a somatic component.
 
 > [!pf2-brown] Metamagic
 > 
-> Many spellcasters can gain access to metamagic actions, typically by selecting metamagic feats. Actions with the metamagic trait tweak the properties of your spells, changing their range, damage, or any number of other properties. You must use a metamagic action directly before the spell you want to alter. If you use any action (including free actions, reactions, and additional metamagic actions) other than [Cast a Spell](../actions/cast-a-spell.md) directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell's effect, not of the metamagic action itself.
+> Many spellcasters can gain access to metamagic actions, typically by selecting metamagic feats. Actions with the metamagic trait tweak the properties of your spells, changing their range, damage, or any number of other properties. You must use a metamagic action directly before the spell you want to alter. If you use any action (including free actions, reactions, and additional metamagic actions) other than [Cast a Spell](rules/actions/cast-a-spell.md) directly after, you waste the benefits of the metamagic action. Any additional effects added by a metamagic action are part of the spell's effect, not of the metamagic action itself.
 
 ## Ranges, Areas, and Targets
 <sup>CRB p. 304</sup>
@@ -354,7 +354,7 @@ Spells that last for more than an instant have a Duration entry. A spell might l
 
 Some spells have effects that remain even after the spell's magic is gone. Any ongoing effect that isn't part of the spell's duration entry isn't considered magical.
 
-For instance, a spell that creates a loud sound and has no duration might deafen someone for a time, even permanently. This deafness couldn't be counteracted because it is not itself magical (though it might be cured by other magic, such as [restore senses](../../compendium/spells/restore-senses.md)).
+For instance, a spell that creates a loud sound and has no duration might deafen someone for a time, even permanently. This deafness couldn't be counteracted because it is not itself magical (though it might be cured by other magic, such as [restore senses](compendium/spells/restore-senses.md)).
 
 If a spell's caster dies or is incapacitated during the spell's duration, the spell remains in effect till its duration ends.
 
@@ -365,21 +365,21 @@ You might need to keep track of the caster's initiative after they stopped being
 
 If the spell's duration is "sustained," it lasts until the end of your next turn unless you use a Sustain a Spell action on that turn to extend the duration of that spell.
 
-![Sustain a Spell](../actions/sustain-a-spell.md)
+![Sustain a Spell](rules/actions/sustain-a-spell.md)
 
 ### Long Durations
 <sup>CRB p. 305</sup>
 
 If a spell's duration says it lasts until your next daily preparations, on the next day you can refrain from preparing a new spell in that spell's slot. (If you are a spontaneous caster, you can instead expend a spell slot during your preparations.) Doing so extends the spell's duration until your next daily preparations. This effectively Sustains the Spell over a long period of time.
 
-If you prepare a new spell in the slot (or don't expend a spell slot), the spell ends. You can't do this if the spell didn't come from one of your spell slots. If you are dead or otherwise incapacitated at the 24-hour mark after the time you [Cast the Spell](../actions/cast-a-spell.md) or the last time you extended its duration, the spell ends. Spells with an unlimited duration last until counteracted or Dismissed. You don't need to keep a spell slot open for these spells.
+If you prepare a new spell in the slot (or don't expend a spell slot), the spell ends. You can't do this if the spell didn't come from one of your spell slots. If you are dead or otherwise incapacitated at the 24-hour mark after the time you [Cast the Spell](rules/actions/cast-a-spell.md) or the last time you extended its duration, the spell ends. Spells with an unlimited duration last until counteracted or Dismissed. You don't need to keep a spell slot open for these spells.
 
 ### Dismissing
 <sup>CRB p. 305</sup>
 
 Some spells can be dismissed, ending the duration early. This requires the caster or target to use the Dismiss action.
 
-![Dismiss](../actions/dismiss.md)
+![Dismiss](rules/actions/dismiss.md)
 
 ## Saving Throws
 <sup>CRB p. 305</sup>
@@ -405,24 +405,24 @@ In rare cases, a spell might have you make some other type of attack, such as a 
 
 Sometimes you need to identify a spell, especially if its effects are not obvious right away. If you notice a spell being cast, and you have prepared that spell or have it in your repertoire, you automatically know what the spell is, including the level to which it is heightened.
 
-If you want to identify a spell but don't have it prepared or in your repertoire, you must spend an action on your turn to attempt to identify it using [Recall Knowledge](../actions/recall-knowledge.md). You typically notice a spell being cast by seeing its visual manifestations or hearing its verbal casting components. Identifying long-lasting spells that are already in place requires using Identify Magic instead of [Recall Knowledge](../actions/recall-knowledge.md) because you don't have the advantage of watching the spell being cast.
+If you want to identify a spell but don't have it prepared or in your repertoire, you must spend an action on your turn to attempt to identify it using [Recall Knowledge](rules/actions/recall-knowledge.md). You typically notice a spell being cast by seeing its visual manifestations or hearing its verbal casting components. Identifying long-lasting spells that are already in place requires using Identify Magic instead of [Recall Knowledge](rules/actions/recall-knowledge.md) because you don't have the advantage of watching the spell being cast.
 
 ## Counteracting
 <sup>CRB p. 305</sup>
 
-Some spells, such as [dispel magic](../../compendium/spells/dispel-magic.md), can be used to eliminate the effects of other spells. At least one creature, object, or manifestation of the spell you are trying to counteract must be within range of the spell that you are using. You attempt a counteract check using your spellcasting ability modifier and your proficiency bonus for spell attack rolls.
+Some spells, such as [dispel magic](compendium/spells/dispel-magic.md), can be used to eliminate the effects of other spells. At least one creature, object, or manifestation of the spell you are trying to counteract must be within range of the spell that you are using. You attempt a counteract check using your spellcasting ability modifier and your proficiency bonus for spell attack rolls.
 
 ## Hostile Actions
 <sup>CRB p. 305</sup>
 
 Sometimes spell effects prevent a target from using hostile actions, or the spell ends if a creature uses any hostile actions. A hostile action is one that can harm or damage another creature, whether directly or indirectly, but not one that a creature is unaware could cause harm.
 
-For instance, lobbing a [fireball](../../compendium/spells/fireball.md) into a crowd would be a hostile action, but opening a door and accidentally freeing a horrible monster would not be. The GM is the final arbitrator of what constitutes a hostile action.
+For instance, lobbing a [fireball](compendium/spells/fireball.md) into a crowd would be a hostile action, but opening a door and accidentally freeing a horrible monster would not be. The GM is the final arbitrator of what constitutes a hostile action.
 
 ## Setting Triggers
 <sup>CRB p. 305</sup>
 
-If a spell is meant to respond only to certain events or under certain conditions—such as [magic mouth](../../compendium/spells/magic-mouth.md)—it might require you to set a trigger. This is a simple sensory cue that causes the spell to activate. The spell activates as a reaction when the spell's sensor observes something that fits its trigger. Depending on the spell, the trigger might be the presence of a type of creature, such as "red-haired dwarven women," or it could be an observed action, such as "whenever someone enters the spell's area." Disguises and illusions fool the spell as long as they appear to match its parameters. For a spell to detect something visually, the spell's origin point must have line of sight. Darkness doesn't prevent this, but invisibility does, as does a successful [Stealth](../../compendium/skills.md#Stealth) check to Hide (against the spell's DC). For auditory detection, line of sight isn't necessary, though the sound must be audible at the spell's origin point. A [Stealth](../../compendium/skills.md#Stealth) check to Sneak can fool the sensor.
+If a spell is meant to respond only to certain events or under certain conditions—such as [magic mouth](compendium/spells/magic-mouth.md)—it might require you to set a trigger. This is a simple sensory cue that causes the spell to activate. The spell activates as a reaction when the spell's sensor observes something that fits its trigger. Depending on the spell, the trigger might be the presence of a type of creature, such as "red-haired dwarven women," or it could be an observed action, such as "whenever someone enters the spell's area." Disguises and illusions fool the spell as long as they appear to match its parameters. For a spell to detect something visually, the spell's origin point must have line of sight. Darkness doesn't prevent this, but invisibility does, as does a successful [Stealth](compendium/skills.md#Stealth) check to Hide (against the spell's DC). For auditory detection, line of sight isn't necessary, though the sound must be audible at the spell's origin point. A [Stealth](compendium/skills.md#Stealth) check to Sneak can fool the sensor.
 
 ## Walls
 <sup>CRB p. 306</sup>
@@ -495,7 +495,7 @@ Learning a ritual does not count against any limits on spells in your spell repe
 #### Cost
 <sup>CRB p. 408</sup>
 
-A ritual's Cost entry lists valuable components required to cast the ritual. If a ritual doesn't have any such components, it won't have a Cost entry. The cost is consumed when you attempt the primary skill check. Costs are often presented as a base cost multiplied by the target's level and sometimes the spell's level. If the target's level is lower than 1, multiply the cost by 1 instead. Heightened versions that increase the base cost multiply it by the target's level or another value as appropriate. Most rituals that create permanent creatures, such as [create undead](../../compendium/spells/rituals/create-undead.md), use costs based on the level of the spell, as presented on [Table 7–1](../tables/creature-creation-rituals.md).
+A ritual's Cost entry lists valuable components required to cast the ritual. If a ritual doesn't have any such components, it won't have a Cost entry. The cost is consumed when you attempt the primary skill check. Costs are often presented as a base cost multiplied by the target's level and sometimes the spell's level. If the target's level is lower than 1, multiply the cost by 1 instead. Heightened versions that increase the base cost multiply it by the target's level or another value as appropriate. Most rituals that create permanent creatures, such as [create undead](compendium/spells/rituals/create-undead.md), use costs based on the level of the spell, as presented on [Table 7–1](rules/tables/creature-creation-rituals.md).
 
 #### Secondary Casters
 <sup>CRB p. 408</sup>
@@ -509,7 +509,7 @@ At the ritual's culmination, you must attempt the skill check listed in the Prim
 
 The GM can adjust the DCs of rituals, add or change primary or secondary checks, or even waive requirements to fit specific circumstances. For example, performing a ritual in a location where ley lines converge on the night of a new moon might make a normally difficult ritual drastically easier.
 
-![Creature Creation Rituals](../tables/creature-creation-rituals.md)
+![Creature Creation Rituals](rules/tables/creature-creation-rituals.md)
 
 ### Secondary Checks
 <sup>CRB p. 408</sup>

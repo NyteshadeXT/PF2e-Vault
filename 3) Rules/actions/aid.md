@@ -6,7 +6,7 @@ tags:
 - compendium/src/pf2e/crb
 aliases: ["Aid", "Help"]
 ---
-# Aid (basic) [R](../core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+# Aid (basic) [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 *Source: Core Rulebook p. 470*  
 
 

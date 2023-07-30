@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/crb
-aliases: ["Chapter 9: Playing the Game"]
+aliases: ["chapter-9-playing-the-game"]
 ---
 # Chapter 9: Playing the Game
 <sup>CRB p. 443</sup>
@@ -46,7 +46,7 @@ When success isn't certain—whether you're swinging a sword at a foul beast, at
 - Compare the result to the difficulty class (DC).
 - Determine the degree of success and the effect.
 
-Checks and difficulty classes (DC) both come in many forms. When you swing your sword at that foul beast, you'll make an attack roll against its Armor Class, which is the DC to hit another creature. If you are leaping across that chasm, you'll attempt an [Athletics](../../compendium/skills.md#Athletics) skill check with a DC based on the distance you are trying to jump. When calling to mind the name of the earl's second cousin, you attempt a check to [Recall Knowledge](../actions/recall-knowledge.md). You might use either the Society skill or a Lore skill you have that's relevant to the task, and the DC depends on how common the knowledge of the cousin's name might be, or how many drinks your character had when they were introduced to the cousin the night before.
+Checks and difficulty classes (DC) both come in many forms. When you swing your sword at that foul beast, you'll make an attack roll against its Armor Class, which is the DC to hit another creature. If you are leaping across that chasm, you'll attempt an [Athletics](compendium/skills.md#Athletics) skill check with a DC based on the distance you are trying to jump. When calling to mind the name of the earl's second cousin, you attempt a check to [Recall Knowledge](rules/actions/recall-knowledge.md). You might use either the Society skill or a Lore skill you have that's relevant to the task, and the DC depends on how common the knowledge of the cousin's name might be, or how many drinks your character had when they were introduced to the cousin the night before.
 
 No matter the details, for any check you must roll the d20 and achieve a result equal to or greater than the DC to succeed. Each of these steps is explained below.
 
@@ -81,7 +81,7 @@ No matter the details, for any check you must roll the d20 and achieve a result 
 > ### Duplicate Effects
 > <sup>CRB p. 444</sup>
 > 
-> When you're affected by the same thing multiple times, only one instance applies, using the higher level of the effects, or the newer effect if the two are the same level. For example, if you were using [mage armor](../../compendium/spells/mage-armor.md) and then cast it again, you'd still benefit from only one casting of that spell. Casting a spell again on the same target might get you a better duration or effect if it were cast at a higher level the second time, but otherwise doing so gives you no advantage.
+> When you're affected by the same thing multiple times, only one instance applies, using the higher level of the effects, or the newer effect if the two are the same level. For example, if you were using [mage armor](compendium/spells/mage-armor.md) and then cast it again, you'd still benefit from only one casting of that spell. Casting a spell again on the same target might get you a better duration or effect if it were cast at a higher level the second time, but otherwise doing so gives you no advantage.
 > 
 > ### Ambiguous Rules
 > <sup>CRB p. 444</sup>
@@ -113,11 +113,11 @@ There are three other types of bonus that frequently appear: circumstance bonuse
 
 **Circumstance bonuses** typically involve the situation you find yourself in when attempting a check. For instance, using Raise a Shield with a buckler grants you a +1 circumstance bonus to AC. Being behind cover grants you a +2 circumstance bonus to AC. If you are both behind cover and Raising a Shield, you gain only the +2 circumstance bonus for cover, since they're the same type and the bonus from cover is higher.
 
-**Item bonuses** are granted by some item that you are wearing or using, either mundane or magical. For example, armor gives you an item bonus to AC, while expanded alchemist's tools grant you an item bonus to [Crafting](../../compendium/skills.md#Crafting) checks when making alchemical items.
+**Item bonuses** are granted by some item that you are wearing or using, either mundane or magical. For example, armor gives you an item bonus to AC, while expanded alchemist's tools grant you an item bonus to [Crafting](compendium/skills.md#Crafting) checks when making alchemical items.
 
-**Status bonuses** typically come from spells, other magical effects, or something applying a helpful, often temporary, condition to you. For instance, the 3rd-level [heroism](../../compendium/spells/heroism.md) spell grants a +1 status bonus to attack rolls, [Perception](../../compendium/skills.md#Perception) checks, saving throws, and skill checks. If you were under the effect of [heroism](../../compendium/spells/heroism.md) and someone cast the [bless](../../compendium/spells/bless.md) spell, which also grants a +1 status bonus on attacks, your attack rolls would gain only a +1 status bonus, since both spells grant a +1 status bonus to those rolls, and you only take the highest status bonus.
+**Status bonuses** typically come from spells, other magical effects, or something applying a helpful, often temporary, condition to you. For instance, the 3rd-level [heroism](compendium/spells/heroism.md) spell grants a +1 status bonus to attack rolls, [Perception](compendium/skills.md#Perception) checks, saving throws, and skill checks. If you were under the effect of [heroism](compendium/spells/heroism.md) and someone cast the [bless](compendium/spells/bless.md) spell, which also grants a +1 status bonus on attacks, your attack rolls would gain only a +1 status bonus, since both spells grant a +1 status bonus to those rolls, and you only take the highest status bonus.
 
-Penalties work very much like bonuses. You can have {**circumstance penalties**, **status penalties**, and sometimes even **item penalties.** Like bonuses of the same type, you take only the worst all of various penalties of a given type. However, you can apply both a bonus and a penalty of the same type on a single roll. For example, if you had a +1 status bonus from a [heroism](../../compendium/spells/heroism.md) spell but a –2 status penalty from the sickened condition, you'd apply them both to your roll—so [heroism](../../compendium/spells/heroism.md) still helps even though you're feeling unwell.
+Penalties work very much like bonuses. You can have {**circumstance penalties**, **status penalties**, and sometimes even **item penalties.** Like bonuses of the same type, you take only the worst all of various penalties of a given type. However, you can apply both a bonus and a penalty of the same type on a single roll. For example, if you had a +1 status bonus from a [heroism](compendium/spells/heroism.md) spell but a –2 status penalty from the sickened condition, you'd apply them both to your roll—so [heroism](compendium/spells/heroism.md) still helps even though you're feeling unwell.
 
 Unlike bonuses, penalties can also be **untyped**, in which case they won't be classified as "circumstance," "item," or "status." Unlike other penalties, you always add all your untyped penalties together rather than simply taking the worst one. For instance, when you use attack actions, you incur a multiple attack penalty on each attack you make on your turn after the first attack, and when you attack a target that's beyond your weapon's normal range increment, you incur a range penalty on the attack.
 
@@ -135,7 +135,7 @@ This step is simple. Add up all the various modifiers, bonuses, and penalties yo
 
 This step can be simple, or it can create suspense. Sometimes you'll know the **Difficulty Class** (**DC**) of your check. In these cases, if your result is equal to or greater than the DC, you succeed! If your roll anything less than the DC, you fail.
 
-Other times, you might not know the DC right away. Swimming across a river would require an [Athletics](../../compendium/skills.md#Athletics) check, but it doesn't have a specified DC—so how will you know if you succeed or fail? You call out your result to the GM and they will let you know if it is a success, failure, or otherwise. While you might learn the exact DC through trial and error, DCs sometimes change, so asking the GM whether a check is successful is the best way to determine whether or not you have met or exceeded the DC.
+Other times, you might not know the DC right away. Swimming across a river would require an [Athletics](compendium/skills.md#Athletics) check, but it doesn't have a specified DC—so how will you know if you succeed or fail? You call out your result to the GM and they will let you know if it is a success, failure, or otherwise. While you might learn the exact DC through trial and error, DCs sometimes change, so asking the GM whether a check is successful is the best way to determine whether or not you have met or exceeded the DC.
 
 #### Calculating DCs
 <sup>CRB p. 445</sup>
@@ -161,13 +161,13 @@ While most checks follow these basic rules, it's useful to know about a few spec
 ### Attack Rolls
 <sup>CRB p. 446</sup>
 
-When you use a [Strike](../actions/strike.md) action or make a spell attack, you attempt a check called an attack roll. Attack rolls take a variety of forms and are often highly variable based on the weapon you are using for the attack, but there are three main types: melee attack rolls, ranged attack rolls, and spell attack rolls. Spell attack rolls work a little bit differently, so they are explained separately on the next page.
+When you use a [Strike](rules/actions/strike.md) action or make a spell attack, you attempt a check called an attack roll. Attack rolls take a variety of forms and are often highly variable based on the weapon you are using for the attack, but there are three main types: melee attack rolls, ranged attack rolls, and spell attack rolls. Spell attack rolls work a little bit differently, so they are explained separately on the next page.
 
-**Melee attack rolls** use Strength as their ability modifier by default. If you're using a weapon or attack with the [finesse](../traits/finesse.md) trait, then you can use your Dexterity modifier instead.
+**Melee attack rolls** use Strength as their ability modifier by default. If you're using a weapon or attack with the [finesse](rules/traits/finesse.md "Finesse Weapon Trait") trait, then you can use your Dexterity modifier instead.
 
 > [!pf2-inset] 
 > 
-> Melee attack roll result = d20 roll + Strength modifier (or optionally Dexterity modifier for a [finesse](../traits/finesse.md) weapon) + proficiency bonus + other bonuses + penalties
+> Melee attack roll result = d20 roll + Strength modifier (or optionally Dexterity modifier for a [finesse](rules/traits/finesse.md "Finesse Weapon Trait") weapon) + proficiency bonus + other bonuses + penalties
 
 **Ranged attack rolls** use Dexterity as their ability modifier.
 
@@ -184,9 +184,9 @@ Penalties to attack rolls come from situations and effects as well. Circumstance
 #### Multiple Attack Penalty
 <sup>CRB p. 446</sup>
 
-The more attacks you make beyond your first in a single turn, the less accurate you become, represented by the multiple attack penalty. The second time you use an [attack](../traits/attack.md) action during your turn, you take a –5 penalty to your check. The third time you attack, and on any subsequent attacks, you take a –10 penalty to your check. Every check that has the [attack](../traits/attack.md) trait counts toward your multiple attack penalty, including [Strikes](../actions/strike.md), spell attack rolls, certain skill actions like [Shove](../actions/shove.md), and many others.
+The more attacks you make beyond your first in a single turn, the less accurate you become, represented by the multiple attack penalty. The second time you use an [attack](rules/traits/attack.md "Attack Combat Trait") action during your turn, you take a –5 penalty to your check. The third time you attack, and on any subsequent attacks, you take a –10 penalty to your check. Every check that has the [attack](rules/traits/attack.md "Attack Combat Trait") trait counts toward your multiple attack penalty, including [Strikes](rules/actions/strike.md), spell attack rolls, certain skill actions like [Shove](rules/actions/shove.md), and many others.
 
-Some weapons and abilities reduce multiple attack penalties, such as [agile](../traits/agile.md) weapons, which reduce these penalties to –4 on the second attack or –8 on further attacks.
+Some weapons and abilities reduce multiple attack penalties, such as [agile](rules/traits/agile.md "Agile Weapon Trait") weapons, which reduce these penalties to –4 on the second attack or –8 on further attacks.
 
 | Attack | Multiple Attack Penalty | Agile |
 |--------|-------------------------|-------|
@@ -194,9 +194,9 @@ Some weapons and abilities reduce multiple attack penalties, such as [agile](../
 | Second | –5 | –4 |
 | Third or subsequent | –10 | –8 |
 
-Always calculate your multiple attack penalty for the weapon you're using on that attack. For example, let's say you're wielding a [longsword](../../compendium/equipment/items/longsword.md) in one hand and a [shortsword](../../compendium/equipment/items/shortsword.md) (which has the [agile](../traits/agile.md) trait) in your other hand, and you are going to make three [Strikes](../actions/strike.md) with these weapons during the course of your turn. The first [Strike](../actions/strike.md) you make during your turn has no penalty, no matter what weapon you are using. The second Strike will take either a –5 penalty if you use the [longsword](../../compendium/equipment/items/longsword.md) or a –4 penalty if you use the [shortsword](../../compendium/equipment/items/shortsword.md).
+Always calculate your multiple attack penalty for the weapon you're using on that attack. For example, let's say you're wielding a [longsword](compendium/equipment/items/longsword.md) in one hand and a [shortsword](compendium/equipment/items/shortsword.md) (which has the [agile](rules/traits/agile.md "Agile Weapon Trait") trait) in your other hand, and you are going to make three [Strikes](rules/actions/strike.md) with these weapons during the course of your turn. The first [Strike](rules/actions/strike.md) you make during your turn has no penalty, no matter what weapon you are using. The second Strike will take either a –5 penalty if you use the [longsword](compendium/equipment/items/longsword.md) or a –4 penalty if you use the [shortsword](compendium/equipment/items/shortsword.md).
 
-Just like the second attack, the penalty for your third attack is based on which weapon you're using for that particular [Strike](../actions/strike.md). It would be a –10 penalty with the [longsword](../../compendium/equipment/items/longsword.md) and a –8 penalty with the [shortsword](../../compendium/equipment/items/shortsword.md), no matter what weapon you used for your previous [Strikes](../actions/strike.md).
+Just like the second attack, the penalty for your third attack is based on which weapon you're using for that particular [Strike](rules/actions/strike.md). It would be a –10 penalty with the [longsword](compendium/equipment/items/longsword.md) and a –8 penalty with the [shortsword](compendium/equipment/items/shortsword.md), no matter what weapon you used for your previous [Strikes](rules/actions/strike.md).
 
 The multiple attack penalty applies only during your turn, so you don't have to keep track of it if you can perform an Attack of Opportunity or a similar reaction that lets you make a Strike on someone else's turn.
 
@@ -212,7 +212,7 @@ For example, the range increment of a crossbow is 120 feet. If you are shooting 
 ##### Armor Class
 <sup>CRB p. 447</sup>
 
-Attack rolls are compared to a special difficulty class called an **Armor Class** (**AC**), which measures how hard it is for your foes to hit you with [Strikes](../actions/strike.md) and other attack actions. Just like for any other check and DC, the result of an attack roll must meet or exceed your AC to be successful, which allows your foe to deal damage to you.
+Attack rolls are compared to a special difficulty class called an **Armor Class** (**AC**), which measures how hard it is for your foes to hit you with [Strikes](rules/actions/strike.md) and other attack actions. Just like for any other check and DC, the result of an attack roll must meet or exceed your AC to be successful, which allows your foe to deal damage to you.
 
 Armor Class is calculated using the following formula.
 
@@ -230,24 +230,24 @@ Penalties to AC come from situations and effects in much the same way bonuses do
 > 
 > Two of the simplest and most common actions you'll use in combat are Stride and Strike, described in full on page 471.
 > 
-> **[Stride](../actions/stride.md)** is an action that has the move trait and that allows you to move a number of feet up to your Speed.
+> **[Stride](rules/actions/stride.md)** is an action that has the move trait and that allows you to move a number of feet up to your Speed.
 > 
 > You'll often need to Stride multiple times to reach a foe who's far away or to run from danger! Move actions can often trigger reactions or free actions. However, unlike other actions, a move action can trigger reactions not only when you first use the action, but also for every 5 feet you move during that action, as described on page 474. The Step action (page 471) lets you move without triggering reactions, but only 5 feet.
 > 
-> **[Strike](../actions/strike.md)** is an action that has the attack trait and that allows you to attack with a weapon you're wielding or an unarmed attack (such as a fist).
+> **[Strike](rules/actions/strike.md)** is an action that has the attack trait and that allows you to attack with a weapon you're wielding or an unarmed attack (such as a fist).
 > 
 > If you're using a melee weapon or unarmed attack, your target must be within your reach; if you're attacking with a ranged weapon, your target must be within range. Your reach is how far you can physically extend a part of your body to make an unarmed attack, or the farthest distance you can reach with a melee weapon. This is typically 5 feet, but special weapons and larger creatures have longer reaches. Your range is how far away you can attack with a ranged weapon or with some types of magical attacks.
 > 
 > Different weapons and magical attacks have different maximum ranges, and ranged weapons get less effective as you exceed their range increments.
 > 
-> Striking multiple times in a turn has diminishing returns. The multiple attack penalty (detailed on page 446) applies to each attack after the first, whether those attacks are [Strikes](../actions/strike.md), special attacks like the Grapple action of the [Athletics](../../compendium/skills.md#Athletics) skill, or spell attack rolls.
+> Striking multiple times in a turn has diminishing returns. The multiple attack penalty (detailed on page 446) applies to each attack after the first, whether those attacks are [Strikes](rules/actions/strike.md), special attacks like the Grapple action of the [Athletics](compendium/skills.md#Athletics) skill, or spell attack rolls.
 
 ### Spell Attack Rolls
 <sup>CRB p. 447</sup>
 
 If you cast spells, you might be able to make a spell attack roll. These rolls are usually made when a spell makes an attack against a creature's AC.
 
-The ability modifier for a spell attack roll depends on how you gained access to your spells. If your class grants you spellcasting, use your key ability modifier. Innate spells use your Charisma modifier unless the ability that granted them states otherwise. Focus spells and other sources of spells specify which ability modifier you use for spell attack rolls in the ability that granted them. If you have spells from multiple sources or traditions, you might use different ability modifiers for spell attack rolls for these different sources of spells. For example, a dwarf cleric with the Stonewalker ancestry feat would use her Charisma modifier when casting [meld into stone](../../compendium/spells/meld-into-stone.md) from that feat, since it's a divine innate spell, but she would use her Wisdom modifier when casting [heal](../../compendium/spells/heal.md) and other spells using her cleric divine spellcasting.
+The ability modifier for a spell attack roll depends on how you gained access to your spells. If your class grants you spellcasting, use your key ability modifier. Innate spells use your Charisma modifier unless the ability that granted them states otherwise. Focus spells and other sources of spells specify which ability modifier you use for spell attack rolls in the ability that granted them. If you have spells from multiple sources or traditions, you might use different ability modifiers for spell attack rolls for these different sources of spells. For example, a dwarf cleric with the Stonewalker ancestry feat would use her Charisma modifier when casting [meld into stone](compendium/spells/meld-into-stone.md) from that feat, since it's a divine innate spell, but she would use her Wisdom modifier when casting [heal](compendium/spells/heal.md) and other spells using her cleric divine spellcasting.
 
 Determine the spell attack roll with the following formula.
 
@@ -288,7 +288,7 @@ Often, you'll roll a Perception check to determine your order in initiative. Whe
 ### Saving Throws
 <sup>CRB p. 448</sup>
 
-There are three types of saving throws: Fortitude saves, Reflex saves, and Will saves. In all cases, saving throws measure your ability to shrug off harmful effects in the form of afflictions, damage, or conditions. You'll always add a proficiency bonus to each save. Your class might give a different proficiency to each save, but you'll be trained at minimum. Some circumstances and spells might give you circumstance or status bonuses to saves, and you might find [resilient](../../compendium/equipment/items/resilient.md) armor or other magic items that give an item bonus.
+There are three types of saving throws: Fortitude saves, Reflex saves, and Will saves. In all cases, saving throws measure your ability to shrug off harmful effects in the form of afflictions, damage, or conditions. You'll always add a proficiency bonus to each save. Your class might give a different proficiency to each save, but you'll be trained at minimum. Some circumstances and spells might give you circumstance or status bonuses to saves, and you might find [resilient](compendium/equipment/items/resilient.md) armor or other magic items that give an item bonus.
 
 **Fortitude saving throws** allow you to reduce the effects of abilities and afflictions that can debilitate the body.
 
@@ -338,7 +338,7 @@ For a basic save, you'll attempt the check and determine whether you critically 
 ### Skill Checks
 <sup>CRB p. 449</sup>
 
-Pathfinder has a variety of skills, from [Athletics](../../compendium/skills.md#Athletics) to [Medicine](../../compendium/skills.md#Medicine) to [Occultism](../../compendium/skills.md#Occultism). Each grants you a set of related actions that rely on you rolling a skill check. Each skill has a key ability score, based on the scope of the skill in question. For instance, [Athletics](../../compendium/skills.md#Athletics) deals with feats of physical prowess, like swimming and jumping, so its key ability score is Strength. [Medicine](../../compendium/skills.md#Medicine) deals with the ability to diagnose and treat wounds and ailments, so its key ability score is Wisdom. The key ability score for each skill is listed in Chapter 4: Skills. No matter which skill you're using, you calculate a check for it using the following formula.
+Pathfinder has a variety of skills, from [Athletics](compendium/skills.md#Athletics) to [Medicine](compendium/skills.md#Medicine) to [Occultism](compendium/skills.md#Occultism). Each grants you a set of related actions that rely on you rolling a skill check. Each skill has a key ability score, based on the scope of the skill in question. For instance, [Athletics](compendium/skills.md#Athletics) deals with feats of physical prowess, like swimming and jumping, so its key ability score is Strength. [Medicine](compendium/skills.md#Medicine) deals with the ability to diagnose and treat wounds and ailments, so its key ability score is Wisdom. The key ability score for each skill is listed in Chapter 4: Skills. No matter which skill you're using, you calculate a check for it using the following formula.
 
 > [!pf2-inset] 
 > 
@@ -370,7 +370,7 @@ If more than one flat check would ever cause or prevent the same thing, just rol
 ### Secret Checks
 <sup>CRB p. 450</sup>
 
-Sometimes you as the player shouldn't know the exact result and effect of a check. In these situations, the rules (or the GM) will call for a secret check. The secret trait appears on anything that uses secret checks. This type of check uses the same formulas you normally would use for that check, but is rolled by the GM, who doesn't reveal the result. Instead, the GM simply describes the information or effects determined by the check's result. If you don't know a secret check is happening (for instance, if the GM rolls a secret Fortitude save against a poison that you failed to notice), you can't use any fortune or misfortune abilities (see the sidebar on page 449) on that check, but if a fortune or misfortune effect would apply automatically, the GM applies it to the secret check. If you know that the GM is attempting a secret check—as often happens with [Recall Knowledge](../actions/recall-knowledge.md) or Seek—you can usually activate fortune or misfortune abilities for that check. Just tell the GM, and they'll apply the ability to the check.
+Sometimes you as the player shouldn't know the exact result and effect of a check. In these situations, the rules (or the GM) will call for a secret check. The secret trait appears on anything that uses secret checks. This type of check uses the same formulas you normally would use for that check, but is rolled by the GM, who doesn't reveal the result. Instead, the GM simply describes the information or effects determined by the check's result. If you don't know a secret check is happening (for instance, if the GM rolls a secret Fortitude save against a poison that you failed to notice), you can't use any fortune or misfortune abilities (see the sidebar on page 449) on that check, but if a fortune or misfortune effect would apply automatically, the GM applies it to the secret check. If you know that the GM is attempting a secret check—as often happens with [Recall Knowledge](rules/actions/recall-knowledge.md) or Seek—you can usually activate fortune or misfortune abilities for that check. Just tell the GM, and they'll apply the ability to the check.
 
 The GM can choose to make any check secret, even if it's not usually rolled secretly. Conversely, the GM can let you roll any check yourself, even if that check would usually be secret. Some groups find it simpler to have players roll all secret checks and just try to avoid acting on any out-of-character knowledge, while others enjoy the mystery.
 
@@ -391,7 +391,7 @@ Like checks, a damage roll—especially a melee weapon damage roll—is often mo
 ### Step 1: Roll The Damage Dice and Apply Modifiers, Bonuses, and Penalties
 <sup>CRB p. 450</sup>
 
-Your weapon, unarmed attack, spell, or sometimes even a magic item determines what type of dice you roll for damage, and how many. For instance, if you're using a normal longsword, you'll roll `1d8`. If you're casting a 3rd-level [fireball](../../compendium/spells/fireball.md) spell, you'll roll `6d6`. Sometimes, especially in the case of weapons, you'll apply modifiers, bonuses, and penalties to the damage.
+Your weapon, unarmed attack, spell, or sometimes even a magic item determines what type of dice you roll for damage, and how many. For instance, if you're using a normal longsword, you'll roll `1d8`. If you're casting a 3rd-level [fireball](compendium/spells/fireball.md) spell, you'll roll `6d6`. Sometimes, especially in the case of weapons, you'll apply modifiers, bonuses, and penalties to the damage.
 
 When you use melee weapons, unarmed attacks, and thrown ranged weapons, the most common modifier you'll add to damage is your Strength ability modifier. Weapons with the propulsive trait sometimes add half your Strength modifier. You typically do not add an ability modifier to spell damage, damage from most ranged weapons, or damage from alchemical bombs and similar items.
 
@@ -416,7 +416,7 @@ If the combined penalties on an attack would reduce the damage to 0 or below, yo
 #### Increasing Damage
 <sup>CRB p. 451</sup>
 
-In some cases, you increase the number of dice you roll when making weapon damage rolls. Magic weapons etched with the [striking](../../compendium/equipment/items/striking.md) rune can add one or more weapon damage dice to your damage roll. These extra dice are the same die size as the weapon's damage die. At certain levels, most characters gain the ability to deal extra damage from the weapon specialization class feature.
+In some cases, you increase the number of dice you roll when making weapon damage rolls. Magic weapons etched with the [striking](compendium/equipment/items/striking.md) rune can add one or more weapon damage dice to your damage roll. These extra dice are the same die size as the weapon's damage die. At certain levels, most characters gain the ability to deal extra damage from the weapon specialization class feature.
 
 #### Persistent Damage
 <sup>CRB p. 451</sup>
@@ -430,17 +430,17 @@ See the Conditions Appendix on pages 618–623 for the complete rules regarding 
 #### Doubling and Halving Damage
 <sup>CRB p. 451</sup>
 
-Sometimes you'll need to halve or double an amount of damage, such as when the outcome of your Strike is a critical hit, or when you succeed at a basic Reflex save against a spell. When this happens, you roll the damage normally, adding all the normal modifiers, bonuses, and penalties. Then you double or halve the amount as appropriate (rounding down if you halved it). The GM might allow you to roll the dice twice and double the modifiers, bonuses, and penalties instead of doubling the entire result, but this usually works best for singletarget attacks or spells at low levels when you have a small number of damage dice to roll. Benefits you gain specifically from a critical hit, like the [flaming](../../compendium/equipment/items/flaming.md) weapon rune's persistent fire damage or the extra damage die from the fatal weapon trait, aren't doubled.
+Sometimes you'll need to halve or double an amount of damage, such as when the outcome of your Strike is a critical hit, or when you succeed at a basic Reflex save against a spell. When this happens, you roll the damage normally, adding all the normal modifiers, bonuses, and penalties. Then you double or halve the amount as appropriate (rounding down if you halved it). The GM might allow you to roll the dice twice and double the modifiers, bonuses, and penalties instead of doubling the entire result, but this usually works best for singletarget attacks or spells at low levels when you have a small number of damage dice to roll. Benefits you gain specifically from a critical hit, like the [flaming](compendium/equipment/items/flaming.md) weapon rune's persistent fire damage or the extra damage die from the fatal weapon trait, aren't doubled.
 
 ### Step 2: Determine The Damage Type
 <sup>CRB p. 451</sup>
 
-Once you've calculated how much damage you deal, you'll need to determine the damage type. There are many types of damage and sometimes certain types are applied in different ways. The smack of a club deals bludgeoning damage. The stab of a spear deals piercing damage. The staccato crack of a [lightning bolt](../../compendium/spells/lightning-bolt.md) spell deals electricity damage. Sometimes you might apply precision damage, dealing more damage for hitting a creature in a vulnerable spot or when the target is somehow vulnerable. The damage types are described on page 452.
+Once you've calculated how much damage you deal, you'll need to determine the damage type. There are many types of damage and sometimes certain types are applied in different ways. The smack of a club deals bludgeoning damage. The stab of a spear deals piercing damage. The staccato crack of a [lightning bolt](compendium/spells/lightning-bolt.md) spell deals electricity damage. Sometimes you might apply precision damage, dealing more damage for hitting a creature in a vulnerable spot or when the target is somehow vulnerable. The damage types are described on page 452.
 
 #### Damage Types and Traits
 <sup>CRB p. 451</sup>
 
-When an attack deals a type of damage, the attack action gains that trait. For example, the [Strikes](../actions/strike.md) and attack actions you use wielding a sword when its [flaming](../../compendium/equipment/items/flaming.md) rune is active gain the fire trait, since the rune gives the weapon the ability to deal fire damage.
+When an attack deals a type of damage, the attack action gains that trait. For example, the [Strikes](rules/actions/strike.md) and attack actions you use wielding a sword when its [flaming](compendium/equipment/items/flaming.md) rune is active gain the fire trait, since the rune gives the weapon the ability to deal fire damage.
 
 > [!pf2-brown] DAMAGE TYPES
 > 
@@ -506,14 +506,14 @@ Defenses against certain types of damage or effects are called immunities or res
 
 When you have immunity to a specific type of damage, you ignore all damage of that type. If you have immunity to a specific condition or type of effect, you can't be affected by that condition or any effect of that type. If you have immunity to effects with a certain trait (such as death effects, poison, or disease) you are unaffected by any effect with that trait. Often, an effect can be both a trait and a damage type (this is especially true in the case of energy damage types). In these cases, the immunity applies to the entire effect, not just the damage. You can still be targeted by an ability with an effect you are immune to; you just don't apply the effect. However, some complex effects might have parts that affect you even if you're immune to one of the effect's traits; for instance, a spell that deals both fire and acid damage can still deal acid damage to you even if you're immune to fire.
 
-Immunity to critical hits works a little differently. When a creature immune to critical hits is critically hit by a Strike or other attack that deals damage, it takes normal damage instead of double damage. This does not make it immune to any other critical success effects of other actions that have the attack trait (such as [Grapple](../actions/grapple.md) and [Shove](../actions/shove.md)).
+Immunity to critical hits works a little differently. When a creature immune to critical hits is critically hit by a Strike or other attack that deals damage, it takes normal damage instead of double damage. This does not make it immune to any other critical success effects of other actions that have the attack trait (such as [Grapple](rules/actions/grapple.md) and [Shove](rules/actions/shove.md)).
 
-Another exception is immunity to nonlethal attacks. If you are immune to nonlethal attacks, you are immune to all damage from attacks with the nonlethal trait, no matter what other type the damage has. For instance, a stone golem has immunity to nonlethal attacks. This means that no matter how hard you hit it with your fist, you're not going to damage it—unless your fists don't have the [nonlethal](../traits/nonlethal.md) trait, such as if you're a monk.
+Another exception is immunity to nonlethal attacks. If you are immune to nonlethal attacks, you are immune to all damage from attacks with the nonlethal trait, no matter what other type the damage has. For instance, a stone golem has immunity to nonlethal attacks. This means that no matter how hard you hit it with your fist, you're not going to damage it—unless your fists don't have the [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait") trait, such as if you're a monk.
 
 #### Temporary Immunity
 <sup>CRB p. 453</sup>
 
-Some effects grant you immunity to the same effect for a set amount of time. If an effect grants you temporary immunity, repeated applications of that effect don't affect you for as long as the temporary immunity lasts. Unless the effect says it applies only to a certain creature's ability, it doesn't matter who created the effect. For example, the [blindness](../../compendium/spells/blindness.md) spell says, "The target is temporarily immune to blindness for 1 minute." If anyone casts [blindness](../../compendium/spells/blindness.md) on that creature again before 1 minute passes, the spell has no effect.
+Some effects grant you immunity to the same effect for a set amount of time. If an effect grants you temporary immunity, repeated applications of that effect don't affect you for as long as the temporary immunity lasts. Unless the effect says it applies only to a certain creature's ability, it doesn't matter who created the effect. For example, the [blindness](compendium/spells/blindness.md) spell says, "The target is temporarily immune to blindness for 1 minute." If anyone casts [blindness](compendium/spells/blindness.md) on that creature again before 1 minute passes, the spell has no effect.
 
 Temporary immunity doesn't prevent or end ongoing effects of the source of the temporary immunity. For instance, if an ability makes you frightened and you then gain temporary immunity to the ability, you don't immediately lose the frightened condition due to the immunity you just gained—you simply don't become frightened if you're targeted by the ability again before the immunity ends.
 
@@ -527,7 +527,7 @@ If you have a weakness to something that doesn't normally deal damage, such as w
 #### Resistance
 <sup>CRB p. 453</sup>
 
-If you have resistance to a type of damage, each time you take that type of damage, you reduce the amount of damage you take by the listed amount (to a minimum of 0 damage). Resistance can specify combinations of damage types or other traits. For instance, you might encounter a monster that's resistant to non-magical bludgeoning damage, meaning it would take less damage from bludgeoning attacks that weren't magical, but would take normal damage from your mace (since it's magical) or a non-magical [spear](../../compendium/equipment/items/spear.md) (since it deals piercing damage). A resistance also might have an exception. For example, resistance 10 to physical damage (except silver) would reduce any physical damage by 10 unless that damage was dealt by a silver weapon.
+If you have resistance to a type of damage, each time you take that type of damage, you reduce the amount of damage you take by the listed amount (to a minimum of 0 damage). Resistance can specify combinations of damage types or other traits. For instance, you might encounter a monster that's resistant to non-magical bludgeoning damage, meaning it would take less damage from bludgeoning attacks that weren't magical, but would take normal damage from your mace (since it's magical) or a non-magical [spear](compendium/equipment/items/spear.md) (since it deals piercing damage). A resistance also might have an exception. For example, resistance 10 to physical damage (except silver) would reduce any physical damage by 10 unless that damage was dealt by a silver weapon.
 
 If you have more than one type of resistance that would apply to the same instance of damage, use only the highest applicable resistance value.
 
@@ -556,89 +556,89 @@ Conditions are persistent; when you're affected by a condition, its effects last
 > 
 > These conditions appear often in the game and are defined in detail in the Conditions Appendix on pages 618–623. Here's a brief summary of each.
 > 
-> **[Blinded](../conditions.md#Blinded):** You're unable to see.
+> **[Blinded](rules/conditions.md#Blinded):** You're unable to see.
 > 
-> **[Broken](../conditions.md#Broken):** This item can't be used for its normal function until repaired.
+> **[Broken](rules/conditions.md#Broken):** This item can't be used for its normal function until repaired.
 > 
-> **[Clumsy](../conditions.md#Clumsy):** You can't move as easily or gracefully as usual.
+> **[Clumsy](rules/conditions.md#Clumsy):** You can't move as easily or gracefully as usual.
 > 
-> **[Concealed](../conditions.md#Concealed):** Fog or similar obscuration makes you difficult to see and target.
+> **[Concealed](rules/conditions.md#Concealed):** Fog or similar obscuration makes you difficult to see and target.
 > 
-> **[Confused](../conditions.md#Confused):** You attack indiscriminately.
+> **[Confused](rules/conditions.md#Confused):** You attack indiscriminately.
 > 
-> **[Controlled](../conditions.md#Controlled):** Another creature determines your actions.
+> **[Controlled](rules/conditions.md#Controlled):** Another creature determines your actions.
 > 
-> **[Dazzled](../conditions.md#Dazzled):** Everything is [concealed](../conditions.md#Concealed) to you.
+> **[Dazzled](rules/conditions.md#Dazzled):** Everything is [concealed](rules/conditions.md#Concealed) to you.
 > 
-> **[Deafened](../conditions.md#Deafened):** You're unable to hear.
+> **[Deafened](rules/conditions.md#Deafened):** You're unable to hear.
 > 
-> **[Doomed](../conditions.md#Doomed):** With your soul in peril, you are now closer to death.
+> **[Doomed](rules/conditions.md#Doomed):** With your soul in peril, you are now closer to death.
 > 
-> **[Drained](../conditions.md#Drained):** Blood loss or something similar has leached your vitality.
+> **[Drained](rules/conditions.md#Drained):** Blood loss or something similar has leached your vitality.
 > 
-> **[Dying](../conditions.md#Dying):** You're slipping closer to death.
+> **[Dying](rules/conditions.md#Dying):** You're slipping closer to death.
 > 
-> **[Encumbered](../conditions.md#Encumbered):** You're carrying more weight than you can manage.
+> **[Encumbered](rules/conditions.md#Encumbered):** You're carrying more weight than you can manage.
 > 
-> **[Enfeebled](../conditions.md#Enfeebled):** Your strength has been sapped away.
+> **[Enfeebled](rules/conditions.md#Enfeebled):** Your strength has been sapped away.
 > 
-> **[Fascinated](../conditions.md#Fascinated):** You are compelled to focus your attention on something.
+> **[Fascinated](rules/conditions.md#Fascinated):** You are compelled to focus your attention on something.
 > 
-> **[Fatigued](../conditions.md#Fatigued):** Your defenses are lower and you can't focus while exploring.
+> **[Fatigued](rules/conditions.md#Fatigued):** Your defenses are lower and you can't focus while exploring.
 > 
-> **[Flat-Footed](../conditions.md#Flat-footed):** You're unable to defend yourself to your full capability.
+> **[Flat-Footed](rules/conditions.md#Flat-footed):** You're unable to defend yourself to your full capability.
 > 
-> **[Fleeing](../conditions.md#Fleeing):** You must run away.
+> **[Fleeing](rules/conditions.md#Fleeing):** You must run away.
 > 
-> **[Friendly](../conditions.md#Friendly):** An NPC with this condition has a good attitude toward you.
+> **[Friendly](rules/conditions.md#Friendly):** An NPC with this condition has a good attitude toward you.
 > 
-> **[Frightened](../conditions.md#Frightened):** Fear makes you less capable of attacking and defending.
+> **[Frightened](rules/conditions.md#Frightened):** Fear makes you less capable of attacking and defending.
 > 
-> **[Grabbed](../conditions.md#Grabbed):** A creature, object, or magic holds you in place.
+> **[Grabbed](rules/conditions.md#Grabbed):** A creature, object, or magic holds you in place.
 > 
-> **[Helpful](../conditions.md#Helpful):** An NPC with this condition wants to assist you.
+> **[Helpful](rules/conditions.md#Helpful):** An NPC with this condition wants to assist you.
 > 
-> **[Hidden](../conditions.md#Hidden):** A creature you're [hidden](../conditions.md#Hidden) from knows your location but can't see you.
+> **[Hidden](rules/conditions.md#Hidden):** A creature you're [hidden](rules/conditions.md#Hidden) from knows your location but can't see you.
 > 
-> **[Hostile](../conditions.md#Hostile):** An NPC with this condition wants to harm you.
+> **[Hostile](rules/conditions.md#Hostile):** An NPC with this condition wants to harm you.
 > 
-> **[Immobilized](../conditions.md#Immobilized):** You can't move.
+> **[Immobilized](rules/conditions.md#Immobilized):** You can't move.
 > 
-> **[Indifferent](../conditions.md#Indifferent):** An NPC with this condition doesn't have a strong opinion about you.
+> **[Indifferent](rules/conditions.md#Indifferent):** An NPC with this condition doesn't have a strong opinion about you.
 > 
-> **[Invisible](../conditions.md#Invisible):** Creatures can't see you.
+> **[Invisible](rules/conditions.md#Invisible):** Creatures can't see you.
 > 
-> **[Observed](../conditions.md#Observed):** You're in plain view.
+> **[Observed](rules/conditions.md#Observed):** You're in plain view.
 > 
-> **[Paralyzed](../conditions.md#Paralyzed):** You body is frozen in place.
+> **[Paralyzed](rules/conditions.md#Paralyzed):** You body is frozen in place.
 > 
-> **[Persistent Damage](../conditions.md#Persistent%20Damage):** You keep taking damage every round.
+> **[Persistent Damage](rules/conditions.md#Persistent%20Damage):** You keep taking damage every round.
 > 
-> **[Petrified](../conditions.md#Petrified):** You've been turned to stone.
+> **[Petrified](rules/conditions.md#Petrified):** You've been turned to stone.
 > 
-> **[Prone](../conditions.md#Prone):** You're lying on the ground and easier to attack.
+> **[Prone](rules/conditions.md#Prone):** You're lying on the ground and easier to attack.
 > 
-> **[Quickened](../conditions.md#Quickened):** You get an extra action each turn.
+> **[Quickened](rules/conditions.md#Quickened):** You get an extra action each turn.
 > 
-> **[Restrained](../conditions.md#Restrained):** You're tied up and can't move, or a grappling creature has you pinned.
+> **[Restrained](rules/conditions.md#Restrained):** You're tied up and can't move, or a grappling creature has you pinned.
 > 
-> **[Sickened](../conditions.md#Sickened):** You're sick to your stomach.
+> **[Sickened](rules/conditions.md#Sickened):** You're sick to your stomach.
 > 
-> **[Slowed](../conditions.md#Slowed):** You lose actions each turn.
+> **[Slowed](rules/conditions.md#Slowed):** You lose actions each turn.
 > 
-> **[Stunned](../conditions.md#Stunned):** You can't use actions.
+> **[Stunned](rules/conditions.md#Stunned):** You can't use actions.
 > 
-> **[Stupefied](../conditions.md#Stupefied):** Your can't access your full mental faculties, and you have trouble casting spells.
+> **[Stupefied](rules/conditions.md#Stupefied):** Your can't access your full mental faculties, and you have trouble casting spells.
 > 
-> **[Unconscious](../conditions.md#Unconscious):** You're asleep or knocked out.
+> **[Unconscious](rules/conditions.md#Unconscious):** You're asleep or knocked out.
 > 
-> **[Undetected](../conditions.md#Undetected):** A creature you're [undetected](../conditions.md#Undetected) by doesn't know where you are.
+> **[Undetected](rules/conditions.md#Undetected):** A creature you're [undetected](rules/conditions.md#Undetected) by doesn't know where you are.
 > 
-> **[Unfriendly](../conditions.md#Unfriendly):** An NPC with this condition doesn't like you.
+> **[Unfriendly](rules/conditions.md#Unfriendly):** An NPC with this condition doesn't like you.
 > 
-> **[Unnoticed](../conditions.md#Unnoticed):** A creature is entirely unaware you're present.
+> **[Unnoticed](rules/conditions.md#Unnoticed):** A creature is entirely unaware you're present.
 > 
-> **[Wounded](../conditions.md#Wounded):** You've been brought back from the brink of death but haven't fully recovered.
+> **[Wounded](rules/conditions.md#Wounded):** You've been brought back from the brink of death but haven't fully recovered.
 
 ## Effects
 <sup>CRB p. 453</sup>
@@ -649,7 +649,7 @@ If you tell the GM that you draw your sword, no check is needed, and the result 
 
 Many spells, magic items, and feats create specific effects, and your character will be subject to effects caused by monsters, hazards, the environment, and other characters.
 
-While a check might determine the overall impact or strength of an effect, a check is not always part of creating an effect. Casting a [fly](../../compendium/spells/fly.md) spell on yourself creates an effect that allows you to soar through the air, but casting the spell does not require a check. Conversely, using the Intimidate skill to Demoralize a foe does require a check, and your result on that check determines the effect's outcome.
+While a check might determine the overall impact or strength of an effect, a check is not always part of creating an effect. Casting a [fly](compendium/spells/fly.md) spell on yourself creates an effect that allows you to soar through the air, but casting the spell does not require a check. Conversely, using the Intimidate skill to Demoralize a foe does require a check, and your result on that check determines the effect's outcome.
 
 The following general rules are used to understand and apply effects.
 
@@ -671,7 +671,7 @@ Ranged and thrown weapons have a **range increment**.
 
 Attacks with such weapons work normally up to that range. Attacks against targets beyond that range take a –2 penalty, which worsens by 2 for every additional multiple of that range, to a maximum of a –10 penalty after five additional range increments. Attacks beyond this range are not possible. For example, if you are using a shortbow, your attacks take no penalty against a target up to 60 feet away, a –2 penalty if a target is over 60 and up to 120 feet away, a –4 if a target is over 120 and up to 180 feet away, and so on, up to a maximum distance of 360 feet.
 
-**Reach** is how far you can physically reach with your body or a weapon. Melee [Strikes](../actions/strike.md) rely on reach. Your reach also creates an area around your space where other creatures could trigger your reactions. Your reach is typically 5 feet, but weapons with the reach trait can extend this. Larger creatures can have greater reach; for instance, an ogre has a 10-foot reach. Unlike with measuring most distances, 10-foot reach can reach 2 squares diagonally. Reach greater than 10 feet is measured normally; 20-foot reach can reach 3 squares diagonally, 25-foot reach can reach 4, and so on.
+**Reach** is how far you can physically reach with your body or a weapon. Melee [Strikes](rules/actions/strike.md) rely on reach. Your reach also creates an area around your space where other creatures could trigger your reactions. Your reach is typically 5 feet, but weapons with the reach trait can extend this. Larger creatures can have greater reach; for instance, an ogre has a 10-foot reach. Unlike with measuring most distances, 10-foot reach can reach 2 squares diagonally. Reach greater than 10 feet is measured normally; 20-foot reach can reach 3 squares diagonally, 25-foot reach can reach 4, and so on.
 
 ### Targets
 <sup>CRB p. 455</sup>
@@ -694,7 +694,7 @@ An area effect always has a point of origin and extends out from that point. The
 #### Burst
 <sup>CRB p. 456</sup>
 
-A burst effect issues forth in all directions from a single corner of a square within the range of the effect, spreading in all directions to a specified radius. For instance, when you cast [fireball](../../compendium/spells/fireball.md), it detonates at the corner of a square within 500 feet of you and creates a 20-foot burst, meaning it extends out 20 feet in every direction from the corner of the square you chose, affecting each creature whose space (or even one square of its space) is within the burst.
+A burst effect issues forth in all directions from a single corner of a square within the range of the effect, spreading in all directions to a specified radius. For instance, when you cast [fireball](compendium/spells/fireball.md), it detonates at the corner of a square within 500 feet of you and creates a 20-foot burst, meaning it extends out 20 feet in every direction from the corner of the square you chose, affecting each creature whose space (or even one square of its space) is within the burst.
 
 #### Cone
 <sup>CRB p. 457</sup>
@@ -708,24 +708,24 @@ If you make a cone originate from someone or something else, follow these same r
 #### Emanation
 <sup>CRB p. 457</sup>
 
-An emanation issues forth from each side of your space, extending out to a specified number of feet in all directions. For instance, the [bless](../../compendium/spells/bless.md) spell's emanation radiates 5 or more feet outward from the caster. Because the sides of a creature's space are the starting point for the emanation, an emanation from a Large or larger creature affects a greater overall area than that of a Medium or smaller creature. Unless the text states otherwise, the creature creating an emanation effect chooses whether the creature at its center is affected.
+An emanation issues forth from each side of your space, extending out to a specified number of feet in all directions. For instance, the [bless](compendium/spells/bless.md) spell's emanation radiates 5 or more feet outward from the caster. Because the sides of a creature's space are the starting point for the emanation, an emanation from a Large or larger creature affects a greater overall area than that of a Medium or smaller creature. Unless the text states otherwise, the creature creating an emanation effect chooses whether the creature at its center is affected.
 
 #### Line
 <sup>CRB p. 457</sup>
 
-A line shoots forth from you in a straight line in a direction of your choosing. The line affects each creature whose space it overlaps. Unless a line effect says otherwise, it is 5 feet wide. For example, the [lightning bolt](../../compendium/spells/lightning-bolt.md) spell's area is a 60-foot line that's 5 feet wide.
+A line shoots forth from you in a straight line in a direction of your choosing. The line affects each creature whose space it overlaps. Unless a line effect says otherwise, it is 5 feet wide. For example, the [lightning bolt](compendium/spells/lightning-bolt.md) spell's area is a 60-foot line that's 5 feet wide.
 
 ### Line of Effect
 <sup>CRB p. 457</sup>
 
 When creating an effect, you usually need an unblocked path to the target of a spell, the origin point of an effect's area, or the place where you create something with a spell or other ability. This is called a line of effect. You have line of effect unless a creature is entirely behind a solid physical barrier. Visibility doesn't matter for line of effect, nor do portcullises and other barriers that aren't totally solid. If you're unsure whether a barrier is solid enough, usually a 1-foot-square gap is enough to maintain a line of effect, though the GM makes the final call.
 
-In an area effect, creatures or targets must have line of effect to the point of origin to be affected. If there's no line of effect between the origin of the area and the target, the effect doesn't apply to that target. For example, if there's a solid wall between the origin of a [fireball](../../compendium/spells/fireball.md) and a creature that's within the burst radius, the wall blocks the effect—that creature is unaffected by the [fireball](../../compendium/spells/fireball.md) and doesn't need to attempt a save against it. Likewise, any ongoing effects created by an ability with an area cease to affect anyone who moves outside of the line of effect.
+In an area effect, creatures or targets must have line of effect to the point of origin to be affected. If there's no line of effect between the origin of the area and the target, the effect doesn't apply to that target. For example, if there's a solid wall between the origin of a [fireball](compendium/spells/fireball.md) and a creature that's within the burst radius, the wall blocks the effect—that creature is unaffected by the [fireball](compendium/spells/fireball.md) and doesn't need to attempt a save against it. Likewise, any ongoing effects created by an ability with an area cease to affect anyone who moves outside of the line of effect.
 
 ### Line of Sight
 <sup>CRB p. 457</sup>
 
-Some effects require you to have line of sight to your target. As long as you can precisely sense the area (as described in Perception on page 464) and it is not blocked by a solid barrier (as described in Cover), you have line of sight. An area of darkness prevents line of sight if you don't have [darkvision](../abilities/darkvision.md), but portcullises and other obstacles that aren't totally solid do not. If you're unsure whether a barrier is solid enough to block line of sight, usually a 1-foot-square gap is enough to maintain line of sight, though the GM makes the final call.
+Some effects require you to have line of sight to your target. As long as you can precisely sense the area (as described in Perception on page 464) and it is not blocked by a solid barrier (as described in Cover), you have line of sight. An area of darkness prevents line of sight if you don't have [darkvision](rules/abilities/darkvision.md), but portcullises and other obstacles that aren't totally solid do not. If you're unsure whether a barrier is solid enough to block line of sight, usually a 1-foot-square gap is enough to maintain line of sight, though the GM makes the final call.
 
 ## Afflictions
 <sup>CRB p. 457</sup>
@@ -783,7 +783,7 @@ Multiple exposures to the same curse or disease currently affecting you have no 
 ### Virulent Afflictions
 <sup>CRB p. 458</sup>
 
-Afflictions with the [virulent](../traits/virulent.md) trait are harder to remove.
+Afflictions with the [virulent](rules/traits/virulent.md "Virulent Item Trait") trait are harder to remove.
 
 You must succeed at two consecutive saves to reduce a virulent affliction's stage by 1. A critical success reduces a virulent affliction's stage by only 1 instead of by 2.
 
@@ -821,7 +821,7 @@ Player characters, their companions, and other significant characters and creatu
 As a player character, when you are reduced to 0 Hit Points, you're knocked out with the following effects:
 
 - You immediately move your initiative position to directly before the turn in which you were reduced to 0 HP.
-- You gain the [dying](../conditions.md#Dying) condition. If the effect that knocked you out was a critical success from the attacker or the result of your critical failure, you gain the [dying](../conditions.md#Dying) condition instead. If you have the [wounded](../conditions.md#Wounded) condition (page 460), increase your [dying](../conditions.md#Dying) value by an amount equal to your [wounded](../conditions.md#Wounded) value. If the damage was dealt by a nonlethal attack or nonlethal effect, you don't gain the dying condition; you are instead unconscious with 0 Hit Points.
+- You gain the [dying](rules/conditions.md#Dying) condition. If the effect that knocked you out was a critical success from the attacker or the result of your critical failure, you gain the [dying](rules/conditions.md#Dying) condition instead. If you have the [wounded](rules/conditions.md#Wounded) condition (page 460), increase your [dying](rules/conditions.md#Dying) value by an amount equal to your [wounded](rules/conditions.md#Wounded) value. If the damage was dealt by a nonlethal attack or nonlethal effect, you don't gain the dying condition; you are instead unconscious with 0 Hit Points.
 
 #### Taking Damage while Dying
 <sup>CRB p. 459</sup>
@@ -834,46 +834,46 @@ If you take damage while you already have the dying condition, increase your dyi
 When you're dying, at the start of each of your turns, you must attempt a flat check with a DC equal to 10 + your current dying value to see if you get better or worse. This is called a recovery check. The effects of this check are as follows.
 
 > [!success-degree] 
-> - **Critical Success** Your [dying](../conditions.md#Dying) value is reduced by 2.
-> - **Success** Your [dying](../conditions.md#Dying) value is reduced by 1.
-> - **Failure** Your [dying](../conditions.md#Dying) value increases by 1.
-> - **Critical Failure** Your [dying](../conditions.md#Dying) value increases by 2.
+> - **Critical Success** Your [dying](rules/conditions.md#Dying) value is reduced by 2.
+> - **Success** Your [dying](rules/conditions.md#Dying) value is reduced by 1.
+> - **Failure** Your [dying](rules/conditions.md#Dying) value increases by 1.
+> - **Critical Failure** Your [dying](rules/conditions.md#Dying) value increases by 2.
 
 ### Conditions Related to Death and Dying
 <sup>CRB p. 459</sup>
 
 To understand the rules for getting knocked out and how dying works in the game, you'll need some more information on the conditions used in those rules.
 
-Presented below are the rules for the [dying](../conditions.md#Dying), [unconscious](../conditions.md#Unconscious), wounded, and doomed conditions.
+Presented below are the rules for the [dying](rules/conditions.md#Dying), [unconscious](rules/conditions.md#Unconscious), wounded, and doomed conditions.
 
 #### Dying
 <sup>CRB p. 459</sup>
 
 You are bleeding out or otherwise at death's door. While you have this condition, you are unconscious. Dying always includes a value. If this value ever reaches dying 4, you die. If you're dying, you must attempt a recovery check at the start of your turn each round to determine whether you get better or worse.
 
-If you lose the [dying](../conditions.md#Dying) condition by succeeding at a recovery check and are still at 0 Hit Points, you remain unconscious, but you can wake up as described on page 460. You lose the dying condition automatically and wake up if you ever have 1 Hit Point or more. Anytime you lose the dying condition, you gain the wounded 1 condition, or increase your wounded value by 1 if you already have that condition.
+If you lose the [dying](rules/conditions.md#Dying) condition by succeeding at a recovery check and are still at 0 Hit Points, you remain unconscious, but you can wake up as described on page 460. You lose the dying condition automatically and wake up if you ever have 1 Hit Point or more. Anytime you lose the dying condition, you gain the wounded 1 condition, or increase your wounded value by 1 if you already have that condition.
 
 #### Unconscious
 <sup>CRB p. 459</sup>
 
 You're sleeping, or you've been knocked out. You can't act.
 
-You take a –4 status penalty to AC, Perception, and Reflex saves, and you have the blinded and [flat-footed](../conditions.md#Flat-footed) conditions.
+You take a –4 status penalty to AC, Perception, and Reflex saves, and you have the blinded and [flat-footed](rules/conditions.md#Flat-footed) conditions.
 
-When you gain this condition, you fall [prone](../conditions.md#Prone) and drop items you are wielding or holding unless the effect states otherwise or the GM determines you're in a position in which you wouldn't.
+When you gain this condition, you fall [prone](rules/conditions.md#Prone) and drop items you are wielding or holding unless the effect states otherwise or the GM determines you're in a position in which you wouldn't.
 
-**If you're [unconscious](../conditions.md#Unconscious) because you're [dying](../conditions.md#Dying)**, you can't wake up as long as you have 0 Hit Points. If you're restored to 1 Hit Point or more via healing, you lose the dying and unconscious conditions and can act normally on your next turn.
+**If you're [unconscious](rules/conditions.md#Unconscious) because you're [dying](rules/conditions.md#Dying)**, you can't wake up as long as you have 0 Hit Points. If you're restored to 1 Hit Point or more via healing, you lose the dying and unconscious conditions and can act normally on your next turn.
 
-If you are [unconscious](../conditions.md#Unconscious) and at 0 Hit Points, but not **dying**, you naturally return to 1 Hit Point and awaken after sufficient time passes. The GM determines how long you remain unconscious, from a minimum of 10 minutes to several hours. If you receive healing during this time, you lose the unconscious condition and can act normally on your next turn.
+If you are [unconscious](rules/conditions.md#Unconscious) and at 0 Hit Points, but not **dying**, you naturally return to 1 Hit Point and awaken after sufficient time passes. The GM determines how long you remain unconscious, from a minimum of 10 minutes to several hours. If you receive healing during this time, you lose the unconscious condition and can act normally on your next turn.
 
-If you're [unconscious](../conditions.md#Unconscious) and have more than 1 Hit Point (typically because you are asleep or unconscious due to an effect), you wake up in one of the following ways.
+If you're [unconscious](rules/conditions.md#Unconscious) and have more than 1 Hit Point (typically because you are asleep or unconscious due to an effect), you wake up in one of the following ways.
 
-Each causes you to lose the [unconscious](../conditions.md#Unconscious) condition.
+Each causes you to lose the [unconscious](rules/conditions.md#Unconscious) condition.
 
-- You take damage, provided the damage doesn't reduce you to 0 Hit Points. (If the damage reduces you to 0 Hit Points, you remain [unconscious](../conditions.md#Unconscious) and gain the [dying](../conditions.md#Dying) condition as normal.)
+- You take damage, provided the damage doesn't reduce you to 0 Hit Points. (If the damage reduces you to 0 Hit Points, you remain [unconscious](rules/conditions.md#Unconscious) and gain the [dying](rules/conditions.md#Dying) condition as normal.)
 - You receive healing, other than the natural healing you get from resting.
 - Someone nudges or shakes you awake using an Interact action.
-- Loud noise is being made around you—though this isn't automatic. At the start of your turn, you automatically attempt a Perception check against the noise's DC (or the lowest DC if there is more than one noise), waking up if you succeed. This is often DC 5 for a battle, but if creatures are attempting to stay quiet around you, this Perception check uses their [Stealth](../../compendium/skills.md#Stealth) DC. Some magical effects make you sleep so deeply that they don't allow you to attempt this Perception check.
+- Loud noise is being made around you—though this isn't automatic. At the start of your turn, you automatically attempt a Perception check against the noise's DC (or the lowest DC if there is more than one noise), waking up if you succeed. This is often DC 5 for a battle, but if creatures are attempting to stay quiet around you, this Perception check uses their [Stealth](compendium/skills.md#Stealth) DC. Some magical effects make you sleep so deeply that they don't allow you to attempt this Perception check.
 - If you are simply asleep, the GM decides you wake up either because you have had a restful night's sleep or something disrupted that rest.
 
 #### Wounded
@@ -884,14 +884,14 @@ You have been seriously injured during a fight. Anytime you lose the dying condi
 #### Doomed
 <sup>CRB p. 460</sup>
 
-Your life is ebbing away, bringing you ever closer to death. Some powerful spells and evil creatures can inflict the doomed condition on you. Doomed always includes a value. The maximum dying value at which you die is reduced by your doomed value. For example, if you were [doomed](../conditions.md#Doomed), you would die upon reaching dying 3 instead of dying 4. If your maximum dying value is ever reduced to 0, you instantly die. When you die, you're no longer doomed.
+Your life is ebbing away, bringing you ever closer to death. Some powerful spells and evil creatures can inflict the doomed condition on you. Doomed always includes a value. The maximum dying value at which you die is reduced by your doomed value. For example, if you were [doomed](rules/conditions.md#Doomed), you would die upon reaching dying 3 instead of dying 4. If your maximum dying value is ever reduced to 0, you instantly die. When you die, you're no longer doomed.
 
-Your [doomed](../conditions.md#Doomed) value decreases by 1 each time you get a full night's rest.
+Your [doomed](rules/conditions.md#Doomed) value decreases by 1 each time you get a full night's rest.
 
 ### Death
 <sup>CRB p. 460</sup>
 
-After you die you lose all your actions, and you can't act or be affected by spells that target creatures (unless they specifically target dead creatures), and for all other purposes you are an object. When you die, you are reduced to 0 Hit Points if you had a different amount, and you can't be brought above 0 Hit Points as long as you remain dead. Some magic can bring creatures back to life, such as the [resurrect](../../compendium/spells/rituals/resurrect.md) ritual or the [raise dead](../../compendium/spells/raise-dead.md) spell.
+After you die you lose all your actions, and you can't act or be affected by spells that target creatures (unless they specifically target dead creatures), and for all other purposes you are an object. When you die, you are reduced to 0 Hit Points if you had a different amount, and you can't be brought above 0 Hit Points as long as you remain dead. Some magic can bring creatures back to life, such as the [resurrect](compendium/spells/rituals/resurrect.md) ritual or the [raise dead](compendium/spells/raise-dead.md) spell.
 
 ### Heroic Recovery
 <sup>CRB p. 460</sup>
@@ -942,15 +942,15 @@ You affect the world around you primarily by using actions, which produce effect
 > 
 > These icons appear in stat blocks as shorthand for each type of action.
 > 
-> [>](chapter-9-playing-the-game.md#Actions "Single Action") Single Action
+> [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Single Action
 > 
-> [>>](chapter-9-playing-the-game.md#Actions "Two-Action") Two-Action Activity
+> [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") Two-Action Activity
 > 
-> [>>>](chapter-9-playing-the-game.md#Actions "Three-Action") Three-Action Activity
+> [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") Three-Action Activity
 > 
-> [R](chapter-9-playing-the-game.md#Actions "Reaction") Reaction
+> [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") Reaction
 > 
-> [F](chapter-9-playing-the-game.md#Actions "Free Action") Free Action
+> [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") Free Action
 
 ### Activities
 <sup>CRB p. 461</sup>
@@ -982,7 +982,7 @@ If an activity that occurs outside of an encounter is interrupted or disrupted, 
 > 
 > An action might allow you to use a simpler action—usually one of the Basic Actions on page 469—in a different circumstance or with different effects. This subordinate action still has its normal traits and effects, but is modified in any ways listed in the larger action. For example, an activity that tells you to Stride up to half your Speed alters the normal distance you can move in a Stride. The Stride would still have the move trait, would still trigger reactions that occur based on movement, and so on. The subordinate action doesn't gain any of the traits of the larger action unless specified. The action that allows you to use a subordinate action doesn't require you to spend more actions or reactions to do so; that cost is already factored in.
 > 
-> Using an activity is not the same as using any of its subordinate actions. For example, the quickened condition you get from the [haste](../../compendium/spells/haste.md) spell lets you spend an extra action each turn to Stride or Strike, but you couldn't use the extra action for an activity that includes a Stride or Strike. As another example, if you used an action that specified, "If the next action you use is a Strike," an activity that includes a Strike wouldn't count, because the next thing you are doing is starting an activity, not using the Strike basic action.
+> Using an activity is not the same as using any of its subordinate actions. For example, the quickened condition you get from the [haste](compendium/spells/haste.md) spell lets you spend an extra action each turn to Stride or Strike, but you couldn't use the extra action for an activity that includes a Stride or Strike. As another example, if you used an action that specified, "If the next action you use is a Strike," an activity that includes a Strike wouldn't count, because the next thing you are doing is starting an activity, not using the Strike basic action.
 
 ### Actions with Triggers
 <sup>CRB p. 462</sup>
@@ -1001,7 +1001,7 @@ This limitation of one action per trigger is per creature; more than one creatur
 ### Other Actions
 <sup>CRB p. 462</sup>
 
-Sometimes you need to attempt something not already covered by defined actions in the game. When this happens, the rules tell you how many actions you need to spend, as well any traits your action might have. For example, a spell that lets you switch targets might say you can do so "by spending a single action, which has the [concentrate](../traits/concentrate.md)." Game masters can also use this approach when a character tries to do something that isn't covered in the rules.
+Sometimes you need to attempt something not already covered by defined actions in the game. When this happens, the rules tell you how many actions you need to spend, as well any traits your action might have. For example, a spell that lets you switch targets might say you can do so "by spending a single action, which has the [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")." Game masters can also use this approach when a character tries to do something that isn't covered in the rules.
 
 ### Gaining and Losing Actions
 <sup>CRB p. 462</sup>
@@ -1010,14 +1010,14 @@ Conditions can change the number of actions you can use on your turn, or whether
 
 Conditions are detailed in the appendix on pages 618–623.
 
-Whenever you lose a number of actions—whether from these conditions or in any other way—you choose which to lose if there's any difference between them. For instance, the [haste](../../compendium/spells/haste.md) spell makes you quickened, but it limits what you can use your extra action to do. If you lost an action while [haste](../../compendium/spells/haste.md) was active, you might want to lose the action from haste first, since it's more limited than your normal actions.
+Whenever you lose a number of actions—whether from these conditions or in any other way—you choose which to lose if there's any difference between them. For instance, the [haste](compendium/spells/haste.md) spell makes you quickened, but it limits what you can use your extra action to do. If you lost an action while [haste](compendium/spells/haste.md) was active, you might want to lose the action from haste first, since it's more limited than your normal actions.
 
 Some effects are even more restrictive. Certain abilities, instead of or in addition to changing the number of actions you can use, say specifically that you can't use reactions. The most restrictive form of reducing actions is when an effect states that you can't act: this means you can't use any actions, or even speak.
 
 ### Disrupting Actions
 <sup>CRB p. 462</sup>
 
-Various abilities and conditions, such as an Attack of Opportunity, can disrupt an action. When an action is disrupted, you still use the actions or reactions you committed and you still expend any costs, but the action's effects don't occur. In the case of an activity, you usually lose all actions spent for the activity up through the end of that turn. For instance, if you began a [Cast a Spell](../actions/cast-a-spell.md) activity requiring 3 actions and the first action was disrupted, you lose all 3 actions that you committed to that activity.
+Various abilities and conditions, such as an Attack of Opportunity, can disrupt an action. When an action is disrupted, you still use the actions or reactions you committed and you still expend any costs, but the action's effects don't occur. In the case of an activity, you usually lose all actions spent for the activity up through the end of that turn. For instance, if you began a [Cast a Spell](rules/actions/cast-a-spell.md) activity requiring 3 actions and the first action was disrupted, you lose all 3 actions that you committed to that activity.
 
 The GM decides what effects a disruption causes beyond simply negating the effects that would have occurred from the disrupted action. For instance, a Leap disrupted midway wouldn't transport you back to the start of your jump, and a disrupted item hand off might cause the item to fall to the ground instead of staying in the hand of the creature who was trying to give it away.
 
@@ -1045,32 +1045,32 @@ Most characters and monsters have a speed statistic—also called land Speed—w
 #### Burrow Speed
 <sup>CRB p. 463</sup>
 
-A burrow Speed lets you tunnel through the ground. You can use the [Burrow](../actions/burrow.md) action if you have a burrow Speed. Burrowing doesn't normally leave behind a tunnel unless the ability specifically states that it does. Most creatures need to hold their breath when burrowing, and they may need tremorsense (page 465) to navigate with any accuracy.
+A burrow Speed lets you tunnel through the ground. You can use the [Burrow](rules/actions/burrow.md) action if you have a burrow Speed. Burrowing doesn't normally leave behind a tunnel unless the ability specifically states that it does. Most creatures need to hold their breath when burrowing, and they may need tremorsense (page 465) to navigate with any accuracy.
 
 #### Climb Speed
 <sup>CRB p. 463</sup>
 
-A climb Speed allows you to move up or down inclines and vertical surfaces. Instead of needing to attempt [Athletics](../../compendium/skills.md#Athletics) checks to Climb, you automatically succeed and move up to your climb Speed instead of the listed distance.
+A climb Speed allows you to move up or down inclines and vertical surfaces. Instead of needing to attempt [Athletics](compendium/skills.md#Athletics) checks to Climb, you automatically succeed and move up to your climb Speed instead of the listed distance.
 
-You might still have to attempt [Athletics](../../compendium/skills.md#Athletics) checks to Climb in hazardous conditions, to Climb extremely difficult surfaces, or to cross horizontal planes such as ceilings. You can also choose to roll an [Athletics](../../compendium/skills.md#Athletics) check to Climb rather than accept an automatic success in hopes of getting a critical success. Your climb Speed grants you a +4 circumstance bonus to [Athletics](../../compendium/skills.md#Athletics) checks to Climb.
+You might still have to attempt [Athletics](compendium/skills.md#Athletics) checks to Climb in hazardous conditions, to Climb extremely difficult surfaces, or to cross horizontal planes such as ceilings. You can also choose to roll an [Athletics](compendium/skills.md#Athletics) check to Climb rather than accept an automatic success in hopes of getting a critical success. Your climb Speed grants you a +4 circumstance bonus to [Athletics](compendium/skills.md#Athletics) checks to Climb.
 
-If you have a climb Speed, you're not [flat-footed](../conditions.md#Flat-footed) while climbing.
+If you have a climb Speed, you're not [flat-footed](rules/conditions.md#Flat-footed) while climbing.
 
 #### Fly Speed
 <sup>CRB p. 463</sup>
 
-As long as you have a fly Speed, you can use the [Fly](../actions/fly.md) and [Arrest a Fall](../actions/arrest-a-fall.md) actions. You can also attempt to [Maneuver in Flight](../actions/maneuver-in-flight.md) if you're trained in the [Acrobatics](../../compendium/skills.md#Acrobatics) skill.
+As long as you have a fly Speed, you can use the [Fly](rules/actions/fly.md) and [Arrest a Fall](rules/actions/arrest-a-fall.md) actions. You can also attempt to [Maneuver in Flight](rules/actions/maneuver-in-flight.md) if you're trained in the [Acrobatics](compendium/skills.md#Acrobatics) skill.
 
-Wind conditions can affect how you use the [Fly](../actions/fly.md) action. In general, moving against the wind uses the same rules as moving through difficult terrain (or greater difficult terrain, if you're also flying upward), and moving with the wind allows you to move 10 feet for every 5 feet of movement you spend (not cumulative with moving straight downward). For more information on spending movement, see Movement in Encounters on page 473.
+Wind conditions can affect how you use the [Fly](rules/actions/fly.md) action. In general, moving against the wind uses the same rules as moving through difficult terrain (or greater difficult terrain, if you're also flying upward), and moving with the wind allows you to move 10 feet for every 5 feet of movement you spend (not cumulative with moving straight downward). For more information on spending movement, see Movement in Encounters on page 473.
 
 Upward and downward movement are both relative to the gravity in your area; if you're in a place with zero gravity, moving up or down is no different from moving horizontally.
 
 #### Swim Speed
 <sup>CRB p. 463</sup>
 
-With a swim Speed, you can propel yourself through the water with little impediment. Instead of attempting [Athletics](../../compendium/skills.md#Athletics) checks to [Swim](../actions/swim.md), you automatically succeed and move up to your swim Speed instead of the listed distance. Moving up or down is still moving through difficult terrain.
+With a swim Speed, you can propel yourself through the water with little impediment. Instead of attempting [Athletics](compendium/skills.md#Athletics) checks to [Swim](rules/actions/swim.md), you automatically succeed and move up to your swim Speed instead of the listed distance. Moving up or down is still moving through difficult terrain.
 
-You might still have to attempt checks to [Swim](../actions/swim.md) in hazardous conditions or to cross turbulent water. You can also choose to roll an [Athletics](../../compendium/skills.md#Athletics) check to [Swim](../actions/swim.md) rather than accept an automatic success in hopes of getting a critical success. Your swim Speed grants you a +4 circumstance bonus to [Athletics](../../compendium/skills.md#Athletics) checks to [Swim](../actions/swim.md).
+You might still have to attempt checks to [Swim](rules/actions/swim.md) in hazardous conditions or to cross turbulent water. You can also choose to roll an [Athletics](compendium/skills.md#Athletics) check to [Swim](rules/actions/swim.md) rather than accept an automatic success in hopes of getting a critical success. Your swim Speed grants you a +4 circumstance bonus to [Athletics](compendium/skills.md#Athletics) checks to [Swim](rules/actions/swim.md).
 
 Having a swim Speed doesn't necessarily mean you can breathe in water, so you might still have to hold your breath if you're underwater to avoid drowning.
 
@@ -1100,7 +1100,7 @@ A dropped object takes damage just like a falling creature. If the object lands 
 ## Perception
 <sup>CRB p. 464</sup>
 
-Your Perception measures your ability to notice things, search for what's hidden, and tell whether something about a situation is suspicious. This statistic is frequently used for rolling initiative to determine who goes first in an encounter, and it's also used for the [Seek](../actions/seek.md) action.
+Your Perception measures your ability to notice things, search for what's hidden, and tell whether something about a situation is suspicious. This statistic is frequently used for rolling initiative to determine who goes first in an encounter, and it's also used for the [Seek](rules/actions/seek.md) action.
 
 The rules for rolling a Perception check are found on page 448. The rules below describe the effects of light and visibility on your specific senses to perceive the world, as well as the rules for sensing and locating creatures with Perception.
 
@@ -1112,22 +1112,22 @@ The amount of light in an area can affect how well you see things. There are thr
 #### Bright Light
 <sup>CRB p. 464</sup>
 
-In bright light, such as sunlight, creatures and objects can be observed clearly by anyone with average vision or better. Some types of creatures are [dazzled](../conditions.md#Dazzled) or [blinded](../conditions.md#Blinded) by bright light.
+In bright light, such as sunlight, creatures and objects can be observed clearly by anyone with average vision or better. Some types of creatures are [dazzled](rules/conditions.md#Dazzled) or [blinded](rules/conditions.md#Blinded) by bright light.
 
 #### Dim Light
 <sup>CRB p. 464</sup>
 
-Areas in shadow or lit by weak light sources are in dim light. Creatures and objects in dim light have the [concealed](../conditions.md#Concealed) condition, unless the seeker has [darkvision](../abilities/darkvision.md) or [low-light vision](../abilities/low-light-vision.md), or a 0 other than vision.
+Areas in shadow or lit by weak light sources are in dim light. Creatures and objects in dim light have the [concealed](rules/conditions.md#Concealed) condition, unless the seeker has [darkvision](rules/abilities/darkvision.md) or [low-light vision](rules/abilities/low-light-vision.md), or a 0 other than vision.
 
 #### Darkness
 <sup>CRB p. 464</sup>
 
-A creature or object within darkness is hidden or undetected unless the seeker has [darkvision](../abilities/darkvision.md) or a 0 other than vision. A creature without [darkvision](../abilities/darkvision.md) or another means of perceiving in darkness has the [blinded](../conditions.md#Blinded) condition while in darkness, though it might be able to see illuminated areas beyond the darkness. If a creature can see into an illuminated area, it can observe creatures within that illuminated area normally. After being in darkness, sudden exposure to bright light might make you [dazzled](../conditions.md#Dazzled) for a short time, as determined by the GM.
+A creature or object within darkness is hidden or undetected unless the seeker has [darkvision](rules/abilities/darkvision.md) or a 0 other than vision. A creature without [darkvision](rules/abilities/darkvision.md) or another means of perceiving in darkness has the [blinded](rules/conditions.md#Blinded) condition while in darkness, though it might be able to see illuminated areas beyond the darkness. If a creature can see into an illuminated area, it can observe creatures within that illuminated area normally. After being in darkness, sudden exposure to bright light might make you [dazzled](rules/conditions.md#Dazzled) for a short time, as determined by the GM.
 
 ### Senses
 <sup>CRB p. 464</sup>
 
-The ways a creature can use [Perception](../../compendium/skills.md#Perception) depend on what senses it has. The primary concepts you need to know for understanding senses are precise senses, imprecise senses, and the three states of detection a target can be in: observed, hidden, or undetected. Vision, hearing, and scent are three prominent senses, but they don't have the same degree of acuity.
+The ways a creature can use [Perception](compendium/skills.md#Perception) depend on what senses it has. The primary concepts you need to know for understanding senses are precise senses, imprecise senses, and the three states of detection a target can be in: observed, hidden, or undetected. Vision, hearing, and scent are three prominent senses, but they don't have the same degree of acuity.
 
 #### Precise Senses
 <sup>CRB p. 464</sup>
@@ -1137,16 +1137,16 @@ Average vision is a precise sense—a sense that can be used to perceive the wor
 #### Imprecise Senses
 <sup>CRB p. 464</sup>
 
-Hearing is an imprecise sense—it cannot detect the full range of detail that a 0 can. You can usually sense a creature automatically with an imprecise sense, but it has the [hidden](../conditions.md#Hidden) condition instead of the [observed](../conditions.md#Observed) condition. It might be [undetected](../conditions.md#Undetected) by you if it's using [Stealth](../../compendium/skills.md#Stealth) or is in an environment that distorts the sense, such as a noisy room in the case of hearing. In those cases, you have to use the [Seek](../actions/seek.md) basic action to detect the creature. At best, an imprecise sense can be used to make an [undetected](../conditions.md#Undetected) creature (or one you didn't even know was there) merely [hidden](../conditions.md#Hidden)—it can't make the creature [observed](../conditions.md#Observed).
+Hearing is an imprecise sense—it cannot detect the full range of detail that a 0 can. You can usually sense a creature automatically with an imprecise sense, but it has the [hidden](rules/conditions.md#Hidden) condition instead of the [observed](rules/conditions.md#Observed) condition. It might be [undetected](rules/conditions.md#Undetected) by you if it's using [Stealth](compendium/skills.md#Stealth) or is in an environment that distorts the sense, such as a noisy room in the case of hearing. In those cases, you have to use the [Seek](rules/actions/seek.md) basic action to detect the creature. At best, an imprecise sense can be used to make an [undetected](rules/conditions.md#Undetected) creature (or one you didn't even know was there) merely [hidden](rules/conditions.md#Hidden)—it can't make the creature [observed](rules/conditions.md#Observed).
 
 #### Vague Senses
 <sup>CRB p. 465</sup>
 
-A character also has many vague senses—ones that can alert you that something is there but aren't useful for zeroing in on it to determine exactly what it is. The most useful of these for a typical character is the sense of smell. At best, a vague sense can be used to detect the presence of an [unnoticed](../conditions.md#Unnoticed) creature, making it [undetected](../conditions.md#Undetected). Even then, the vague sense isn't sufficient to make the creature [hidden](../conditions.md#Hidden) or [observed](../conditions.md#Observed).
+A character also has many vague senses—ones that can alert you that something is there but aren't useful for zeroing in on it to determine exactly what it is. The most useful of these for a typical character is the sense of smell. At best, a vague sense can be used to detect the presence of an [unnoticed](rules/conditions.md#Unnoticed) creature, making it [undetected](rules/conditions.md#Undetected). Even then, the vague sense isn't sufficient to make the creature [hidden](rules/conditions.md#Hidden) or [observed](rules/conditions.md#Observed).
 
 When one creature might detect another, the GM almost always uses the most 0 available.
 
-Pathfinder's rules assume that a given creature has vision as its only 0 and hearing as its only 0. Some characters and creatures, however, have 0 or 0 that don't match this assumption. For instance, a character with poor vision might treat that sense as 0, an animal with the [scent](../abilities/scent.md) ability can use its sense of smell as an 0, and a creature with echolocation or a similar ability can use hearing as a 0 sense. Such senses are often given special names and appear as "echolocation (precise)," "scent (imprecise) 30 feet," or the like.
+Pathfinder's rules assume that a given creature has vision as its only 0 and hearing as its only 0. Some characters and creatures, however, have 0 or 0 that don't match this assumption. For instance, a character with poor vision might treat that sense as 0, an animal with the [scent](rules/abilities/scent.md) ability can use its sense of smell as an 0, and a creature with echolocation or a similar ability can use hearing as a 0 sense. Such senses are often given special names and appear as "echolocation (precise)," "scent (imprecise) 30 feet," or the like.
 
 ### Special Senses
 <sup>CRB p. 465</sup>
@@ -1158,19 +1158,19 @@ Special senses grant greater awareness that allows a creature with these senses 
 #### Darkvision and Greater Darkvision
 <sup>CRB p. 465</sup>
 
-A creature with [darkvision](../abilities/darkvision.md) or [greater darkvision](../abilities/darkvision.md) can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. Some forms of magical darkness, such as a 4th-level [darkness](../../compendium/spells/darkness.md) spell, block normal [darkvision](../abilities/darkvision.md). A creature with [greater darkvision](../abilities/darkvision.md), however, can see through even these forms of magical darkness.
+A creature with [darkvision](rules/abilities/darkvision.md) or [greater darkvision](rules/abilities/darkvision.md) can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. Some forms of magical darkness, such as a 4th-level [darkness](compendium/spells/darkness.md) spell, block normal [darkvision](rules/abilities/darkvision.md). A creature with [greater darkvision](rules/abilities/darkvision.md), however, can see through even these forms of magical darkness.
 
 #### Low-Light Vision
 <sup>CRB p. 465</sup>
 
-A creature with [low-light vision](../abilities/low-light-vision.md) can see in dim light as though it were bright light, so it ignores the [concealed](../conditions.md#Concealed) condition due to dim light.
+A creature with [low-light vision](rules/abilities/low-light-vision.md) can see in dim light as though it were bright light, so it ignores the [concealed](rules/conditions.md#Concealed) condition due to dim light.
 
 #### Scent
 <sup>CRB p. 465</sup>
 
 Scent involves sensing creatures or objects by smell, and is usually a vague sense. The range is listed in the ability, and it functions only if the creature or object being detected emits an aroma (for instance, incorporeal creatures usually do not exude an aroma).
 
-If a creature emits a heavy aroma or is upwind, the GM can double or even triple the range of [scent](../abilities/scent.md) abilities used to detect that creature, and the GM can reduce the range if a creature is downwind.
+If a creature emits a heavy aroma or is upwind, the GM can double or even triple the range of [scent](rules/abilities/scent.md) abilities used to detect that creature, and the GM can reduce the range if a creature is downwind.
 
 #### Tremorsense
 <sup>CRB p. 465</sup>
@@ -1179,46 +1179,46 @@ Tremorsense allows a creature to feel the vibrations through a solid surface cau
 
 > [!pf2-brown] DETECTING WITH OTHER SENSES
 > 
-> If a monster uses a sense other than vision, the GM can adapt the variables that keep its foes from being detected to equivalents that work with the monster's senses. For example, a creature that has echolocation might use hearing as a primary sense. This could mean its quarry is concealed in a noisy chamber, hidden in a great enough din, or even [invisible](../conditions.md#Invisible) in the area of a [silence](../../compendium/spells/silence.md) spell.
+> If a monster uses a sense other than vision, the GM can adapt the variables that keep its foes from being detected to equivalents that work with the monster's senses. For example, a creature that has echolocation might use hearing as a primary sense. This could mean its quarry is concealed in a noisy chamber, hidden in a great enough din, or even [invisible](rules/conditions.md#Invisible) in the area of a [silence](compendium/spells/silence.md) spell.
 > 
 > ### Using Stealth with Other Senses
 > <sup>CRB p. 465</sup>
 > 
-> The [Stealth](../../compendium/skills.md#Stealth) skill is designed to use Hide for avoiding visual detection and Avoid Notice and Sneak to avoid being both seen and heard. For many special senses, a player can describe how they're avoiding detection by that special sense and use the most applicable [Stealth](../../compendium/skills.md#Stealth) action. For instance, a creature stepping lightly to avoid being detected via tremorsense would be using Sneak.
+> The [Stealth](compendium/skills.md#Stealth) skill is designed to use Hide for avoiding visual detection and Avoid Notice and Sneak to avoid being both seen and heard. For many special senses, a player can describe how they're avoiding detection by that special sense and use the most applicable [Stealth](compendium/skills.md#Stealth) action. For instance, a creature stepping lightly to avoid being detected via tremorsense would be using Sneak.
 > 
-> In some cases, rolling a Dexterity-based [Stealth](../../compendium/skills.md#Stealth) skill check to Sneak doesn't make the most sense. For example, when facing a creature that can detect heartbeats, a PC trying to avoid being detected might meditate to slow their heart rate, using Wisdom instead of Dexterity as the ability modifier for the [Stealth](../../compendium/skills.md#Stealth) check. When a creature that can detect you has multiple senses, such as if it could also hear or see, the PC would use the lowest applicable ability modifier for the check.
+> In some cases, rolling a Dexterity-based [Stealth](compendium/skills.md#Stealth) skill check to Sneak doesn't make the most sense. For example, when facing a creature that can detect heartbeats, a PC trying to avoid being detected might meditate to slow their heart rate, using Wisdom instead of Dexterity as the ability modifier for the [Stealth](compendium/skills.md#Stealth) check. When a creature that can detect you has multiple senses, such as if it could also hear or see, the PC would use the lowest applicable ability modifier for the check.
 
 ### Detecting Creatures
 <sup>CRB p. 465</sup>
 
 There are three conditions that measure the degree to which you can sense a creature: observed, hidden, and undetected. However, the concealed and invisible conditions can partially mask a creature, and the unnoticed condition indicates you have no idea a creature is around. In addition to the descriptions here, you can find these conditions in the Conditions page.
 
-With the exception of [invisible](../conditions.md#Invisible), these conditions are relative to the viewer—it's possible for a creature to be observed to you but hidden from your ally. When you're trying to target a creature that's hard to see or otherwise sense, various drawbacks apply. Most of these rules apply to objects you're trying to detect as well as creatures.
+With the exception of [invisible](rules/conditions.md#Invisible), these conditions are relative to the viewer—it's possible for a creature to be observed to you but hidden from your ally. When you're trying to target a creature that's hard to see or otherwise sense, various drawbacks apply. Most of these rules apply to objects you're trying to detect as well as creatures.
 
-Typically, the GM tracks how well creatures detect each other, since neither party has perfect information. For example, you might think a creature is in the last place you sensed it, but it was able to Sneak away. Or you might think a creature can't see you in the dark, but it has [darkvision](../abilities/darkvision.md).
+Typically, the GM tracks how well creatures detect each other, since neither party has perfect information. For example, you might think a creature is in the last place you sensed it, but it was able to Sneak away. Or you might think a creature can't see you in the dark, but it has [darkvision](rules/abilities/darkvision.md).
 
-You can attempt to avoid detection by using the [Stealth](../../compendium/skills.md#Stealth) skill to [Avoid Notice](../actions/avoid-notice.md), [Hide](../actions/hide.md), or [Sneak](../actions/sneak.md), or by using [Deception](../../compendium/skills.md#Deception) to [Create a Diversion](../actions/create-a-diversion.md).
+You can attempt to avoid detection by using the [Stealth](compendium/skills.md#Stealth) skill to [Avoid Notice](rules/actions/avoid-notice.md), [Hide](rules/actions/hide.md), or [Sneak](rules/actions/sneak.md), or by using [Deception](compendium/skills.md#Deception) to [Create a Diversion](rules/actions/create-a-diversion.md).
 
 #### Observed
 <sup>CRB p. 466</sup>
 
-In most circumstances, you can sense creatures without difficulty and target them normally. Creatures in this state are observed. Observing requires a precise sense, which for most creatures means sight, but see the Detecting with Other Senses sidebar for advice regarding creatures that don't use sight as their primary sense. If you can't observe the creature, it's either [hidden](../conditions.md#Hidden), [undetected](../conditions.md#Undetected), or [unnoticed](../conditions.md#Unnoticed), and you'll need to factor in the targeting restrictions. Even if a creature is [observed](../conditions.md#Observed), it might still be [concealed](../conditions.md#Concealed).
+In most circumstances, you can sense creatures without difficulty and target them normally. Creatures in this state are observed. Observing requires a precise sense, which for most creatures means sight, but see the Detecting with Other Senses sidebar for advice regarding creatures that don't use sight as their primary sense. If you can't observe the creature, it's either [hidden](rules/conditions.md#Hidden), [undetected](rules/conditions.md#Undetected), or [unnoticed](rules/conditions.md#Unnoticed), and you'll need to factor in the targeting restrictions. Even if a creature is [observed](rules/conditions.md#Observed), it might still be [concealed](rules/conditions.md#Concealed).
 
 #### Hidden
 <sup>CRB p. 466</sup>
 
-A creature that's hidden is only barely perceptible. You know what space a hidden creature occupies, but little else. Perhaps the creature just moved behind cover and successfully used the Hide action. Your target might be in a deep fogbank or behind a waterfall, where you can see some movement but can't determine an exact location. Maybe you've been [blinded](../conditions.md#Blinded) or the creature is under the effects of [invisibility](../../compendium/spells/invisibility.md), but you used the [Seek](../actions/seek.md) basic action to determine its general location based on hearing alone. Regardless of the specifics, you're [flat-footed](../conditions.md#Flat-footed) to a hidden creature.
+A creature that's hidden is only barely perceptible. You know what space a hidden creature occupies, but little else. Perhaps the creature just moved behind cover and successfully used the Hide action. Your target might be in a deep fogbank or behind a waterfall, where you can see some movement but can't determine an exact location. Maybe you've been [blinded](rules/conditions.md#Blinded) or the creature is under the effects of [invisibility](compendium/spells/invisibility.md), but you used the [Seek](rules/actions/seek.md) basic action to determine its general location based on hearing alone. Regardless of the specifics, you're [flat-footed](rules/conditions.md#Flat-footed) to a hidden creature.
 
-When targeting a [hidden](../conditions.md#Hidden) creature, before you roll to determine your effect, you must attempt a DC 11 flat check. If you fail, you don't affect the creature, though the actions you used are still expended—as well as any spell slots, costs, and other resources. You remain [flat-footed](../conditions.md#Flat-footed) to the creature, whether you successfully target it or not.
+When targeting a [hidden](rules/conditions.md#Hidden) creature, before you roll to determine your effect, you must attempt a DC 11 flat check. If you fail, you don't affect the creature, though the actions you used are still expended—as well as any spell slots, costs, and other resources. You remain [flat-footed](rules/conditions.md#Flat-footed) to the creature, whether you successfully target it or not.
 
 #### Undetected
 <sup>CRB p. 466</sup>
 
-If a creature is undetected, you don't know what space it occupies, you're [flat-footed](../conditions.md#Flat-footed) to it, and you can't easily target it. Using the [Seek](../actions/seek.md) basic action can help you find an undetected creature, usually making it [hidden](../conditions.md#Hidden) from you instead of [undetected](../conditions.md#Undetected). If a creature is [undetected](../conditions.md#Undetected), that doesn't necessarily mean you're unaware of its presence—you might suspect an [undetected](../conditions.md#Undetected) creature is in the room with you, even though you're unable to find its space. The [unnoticed](../conditions.md#Unnoticed) condition covers creatures you're entirely unaware of.
+If a creature is undetected, you don't know what space it occupies, you're [flat-footed](rules/conditions.md#Flat-footed) to it, and you can't easily target it. Using the [Seek](rules/actions/seek.md) basic action can help you find an undetected creature, usually making it [hidden](rules/conditions.md#Hidden) from you instead of [undetected](rules/conditions.md#Undetected). If a creature is [undetected](rules/conditions.md#Undetected), that doesn't necessarily mean you're unaware of its presence—you might suspect an [undetected](rules/conditions.md#Undetected) creature is in the room with you, even though you're unable to find its space. The [unnoticed](rules/conditions.md#Unnoticed) condition covers creatures you're entirely unaware of.
 
-Targeting an [undetected](../conditions.md#Undetected) creature is difficult. If you suspect there's a creature around, you can pick a square and attempt an attack. This works like targeting a [hidden](../conditions.md#Hidden) creature, but the flat check and attack roll are both rolled in secret by the GM. The GM won't tell you why you missed—whether it was due to failing the flat check, rolling an insufficient attack roll, or choosing the wrong square. The GM might allow you to try targeting an undetected creature with some spells or other abilities in a similar fashion. [Undetected](../conditions.md#Undetected) creatures are subject to area effects normally.
+Targeting an [undetected](rules/conditions.md#Undetected) creature is difficult. If you suspect there's a creature around, you can pick a square and attempt an attack. This works like targeting a [hidden](rules/conditions.md#Hidden) creature, but the flat check and attack roll are both rolled in secret by the GM. The GM won't tell you why you missed—whether it was due to failing the flat check, rolling an insufficient attack roll, or choosing the wrong square. The GM might allow you to try targeting an undetected creature with some spells or other abilities in a similar fashion. [Undetected](rules/conditions.md#Undetected) creatures are subject to area effects normally.
 
-For instance, suppose an enemy elf wizard cast [invisibility](../../compendium/spells/invisibility.md) and then [Sneaked](../actions/sneak.md) away. You suspect that with the elf's Speed of 30 feet, they probably moved 15 feet toward an open door. You move up and attack a space 15 feet from where the elf started and directly on the path to the door. The GM secretly rolls an attack roll and flat check, but they know that you were not quite correct—the elf was actually in the adjacent space! The GM tells you that you missed, so you decide to make your next attack on the adjacent space, just in case. This time, it's the right space, and the GM's secret attack roll and flat check both succeed, so you hit!
+For instance, suppose an enemy elf wizard cast [invisibility](compendium/spells/invisibility.md) and then [Sneaked](rules/actions/sneak.md) away. You suspect that with the elf's Speed of 30 feet, they probably moved 15 feet toward an open door. You move up and attack a space 15 feet from where the elf started and directly on the path to the door. The GM secretly rolls an attack roll and flat check, but they know that you were not quite correct—the elf was actually in the adjacent space! The GM tells you that you missed, so you decide to make your next attack on the adjacent space, just in case. This time, it's the right space, and the GM's secret attack roll and flat check both succeed, so you hit!
 
 #### Unnoticed
 <sup>CRB p. 467</sup>
@@ -1235,18 +1235,18 @@ The concealed and invisible conditions reflect certain circumstances that can ma
 
 This condition protects a creature if it's in mist, within dim light, or amid something else that obscures sight but does not provide a physical barrier to effects. An effect or type of terrain that describes an area of concealment makes all creatures within it concealed.
 
-When you target a creature that's [concealed](../conditions.md#Concealed) from you, you must attempt a DC 5 flat check before you roll to determine your effect. If you fail, you don't affect the target. the [concealed](../conditions.md#Concealed) condition doesn't change which of the main categories of detection apply to the creature. A creature in a light fog bank is still observed even though it's concealed.
+When you target a creature that's [concealed](rules/conditions.md#Concealed) from you, you must attempt a DC 5 flat check before you roll to determine your effect. If you fail, you don't affect the target. the [concealed](rules/conditions.md#Concealed) condition doesn't change which of the main categories of detection apply to the creature. A creature in a light fog bank is still observed even though it's concealed.
 
 ### Invisible
 <sup>CRB p. 467</sup>
 
-A creature with the invisible condition (by way of an [invisibility](../../compendium/spells/invisibility.md) spell or [invisibility potion](../../compendium/equipment/items/invisibility-potion.md), for example) is automatically [undetected](../conditions.md#Undetected) to any creatures relying on sight as their only precise sense. Precise senses other than sight ignore the invisible condition.
+A creature with the invisible condition (by way of an [invisibility](compendium/spells/invisibility.md) spell or [invisibility potion](compendium/equipment/items/invisibility-potion.md), for example) is automatically [undetected](rules/conditions.md#Undetected) to any creatures relying on sight as their only precise sense. Precise senses other than sight ignore the invisible condition.
 
-You can use the [Seek](../actions/seek.md) basic action to attempt to figure out an [invisible](../conditions.md#Invisible) creature's location, making it instead only [hidden](../conditions.md#Hidden) from you. This lasts until the [invisible](../conditions.md#Invisible) creature successfully uses [Sneak](../actions/sneak.md) to become [undetected](../conditions.md#Undetected) again. If you're already [observing](../conditions.md#Observed) a creature when it becomes [invisible](../conditions.md#Invisible), it starts out [hidden](../conditions.md#Hidden), since you know where it was when it became [invisible](../conditions.md#Invisible), though it can then [Sneak](../actions/sneak.md) to become [undetected](../conditions.md#Undetected).
+You can use the [Seek](rules/actions/seek.md) basic action to attempt to figure out an [invisible](rules/conditions.md#Invisible) creature's location, making it instead only [hidden](rules/conditions.md#Hidden) from you. This lasts until the [invisible](rules/conditions.md#Invisible) creature successfully uses [Sneak](rules/actions/sneak.md) to become [undetected](rules/conditions.md#Undetected) again. If you're already [observing](rules/conditions.md#Observed) a creature when it becomes [invisible](rules/conditions.md#Invisible), it starts out [hidden](rules/conditions.md#Hidden), since you know where it was when it became [invisible](rules/conditions.md#Invisible), though it can then [Sneak](rules/actions/sneak.md) to become [undetected](rules/conditions.md#Undetected).
 
-Other effects might make an [invisible](../conditions.md#Invisible) creature hidden or even observed but concealed. For instance, if you were tracking an invisible creature's footprints through the snow, the footprints would make it hidden.
+Other effects might make an [invisible](rules/conditions.md#Invisible) creature hidden or even observed but concealed. For instance, if you were tracking an invisible creature's footprints through the snow, the footprints would make it hidden.
 
-Similarly, throwing a net over an [invisible](../conditions.md#Invisible) creature would make it [observed](../conditions.md#Observed) but [concealed](../conditions.md#Concealed) for as long as the net is on the creature.
+Similarly, throwing a net over an [invisible](rules/conditions.md#Invisible) creature would make it [observed](rules/conditions.md#Observed) but [concealed](rules/conditions.md#Concealed) for as long as the net is on the creature.
 
 ## Hero Points
 <sup>CRB p. 467</sup>
@@ -1262,7 +1262,7 @@ You can spend your Hero Points in one of two ways.
 Neither of these is an action, and you can spend Hero Points even if you aren't able to act. You can spend a Hero Point on behalf of your familiar or animal companion.
 
 - **Spend 1 Hero Point** to reroll a check. You must use the second result. This is a fortune effect (which means you can't use more than 1 Hero Point on a check).
-- **Spend all your Hero Points** (minimum 1) to avoid death. You can do this when your [dying](../conditions.md#Dying) condition would increase. You lose the [dying](../conditions.md#Dying) condition entirely and stabilize with 0 Hit Points. You don't gain the [wounded](../conditions.md#Wounded) condition or increase its value from losing the [dying](../conditions.md#Dying) condition in this way, but if you already had that condition, you don't lose it or decrease its value.
+- **Spend all your Hero Points** (minimum 1) to avoid death. You can do this when your [dying](rules/conditions.md#Dying) condition would increase. You lose the [dying](rules/conditions.md#Dying) condition entirely and stabilize with 0 Hit Points. You don't gain the [wounded](rules/conditions.md#Wounded) condition or increase its value from losing the [dying](rules/conditions.md#Dying) condition in this way, but if you already had that condition, you don't lose it or decrease its value.
 
 ### Describing Heroic Deeds
 <sup>CRB p. 467</sup>
@@ -1286,7 +1286,7 @@ You roll initiative to determine this order at the start of the encounter and th
 
 When the GM calls for it, you'll roll initiative to determine your place in the initiative order, which is the sequence in which the encounter's participants will take their turns. Rolling initiative marks the start of an encounter. More often than not, you'll roll initiative when you enter a battle.
 
-Typically, you'll roll a Perception check to determine your initiative—the more aware you are of your surroundings, the more quickly you can respond. Sometimes, though, the GM might call on you to roll some other type of check. For instance, if you were Avoiding Notice during exploration (page 479), you'd roll a [Stealth](../../compendium/skills.md#Stealth) check. A social encounter could call for a [Deception](../../compendium/skills.md#Deception) or [Diplomacy](../../compendium/skills.md#Diplomacy) check.
+Typically, you'll roll a Perception check to determine your initiative—the more aware you are of your surroundings, the more quickly you can respond. Sometimes, though, the GM might call on you to roll some other type of check. For instance, if you were Avoiding Notice during exploration (page 479), you'd roll a [Stealth](compendium/skills.md#Stealth) check. A social encounter could call for a [Deception](compendium/skills.md#Deception) or [Diplomacy](compendium/skills.md#Diplomacy) check.
 
 The GM rolls initiative for anyone other than the player characters in the encounter. If these include a number of identical creatures, the GM could roll once for the group as a whole and have them take their turns within the group in any order. However, this can make battles less predictable and more dangerous, so the GM might want to roll initiative for some or all creatures individually unless it's too much of a burden.
 
@@ -1312,7 +1312,7 @@ When your foes are defeated, some sort of truce is reached, or some other event 
 ### Turns
 <sup>CRB p. 468</sup>
 
-When it's your turn to act, you can use single actions ([>](chapter-9-playing-the-game.md#Actions "Single Action")), short activities ([>>](chapter-9-playing-the-game.md#Actions "Two-Action") and [>>>](chapter-9-playing-the-game.md#Actions "Three-Action")), reactions ([reaction]), and free actions ([F](chapter-9-playing-the-game.md#Actions "Free Action")). When you're finished, your turn ends and the character next in the initiative order begins their turn.
+When it's your turn to act, you can use single actions ([>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")), short activities ([>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") and [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")), reactions ([reaction]), and free actions ([F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")). When you're finished, your turn ends and the character next in the initiative order begins their turn.
 
 Sometimes it's important to note when during your turn something happens, so a turn is divided into three steps.
 
@@ -1323,12 +1323,12 @@ Many things happen automatically at the start of your turn—it's a common point
 
 - If you created an effect lasting for a certain number of rounds, reduce the number of rounds remaining by 1. The effect ends if the duration is reduced to 0. For example, if you cast a spell that lasts 3 rounds on yourself during your first turn of a fight, it would affect you during that turn, decrease to 2 rounds of duration at the start of your second turn, decrease to 1 round of duration at the start of your third turn, and expire at the start of your fourth turn.
 - You can use 1 free action or reaction with a trigger of "Your turn begins" or something similar.
-- If you're [dying](../conditions.md#Dying), roll a recovery check (page 459).
+- If you're [dying](rules/conditions.md#Dying), roll a recovery check (page 459).
 - Do anything else that is specified to happen at the start of your turn.
 
 The last step of starting your turn is always the same.
 
-- Regain your 3 actions and 1 reaction. If you haven't spent your reaction from your last turn, you lose it—you can't "save" actions or reactions from one turn to use during the next turn. If a condition prevents you from being able to act, you don't regain any actions or your reaction. Some abilities or conditions (such as [quickened](../conditions.md#Quickened) and [slowed](../conditions.md#Slowed)) can change how many actions you regain and whether you regain your reaction. If you lose actions and gain additional actions (such as if you're both [quickened](../conditions.md#Quickened) and [slowed](../conditions.md#Slowed)), you choose which actions to lose.
+- Regain your 3 actions and 1 reaction. If you haven't spent your reaction from your last turn, you lose it—you can't "save" actions or reactions from one turn to use during the next turn. If a condition prevents you from being able to act, you don't regain any actions or your reaction. Some abilities or conditions (such as [quickened](rules/conditions.md#Quickened) and [slowed](rules/conditions.md#Slowed)) can change how many actions you regain and whether you regain your reaction. If you lose actions and gain additional actions (such as if you're both [quickened](rules/conditions.md#Quickened) and [slowed](rules/conditions.md#Slowed)), you choose which actions to lose.
 
 #### Step 2: Act
 <sup>CRB p. 469</sup>
@@ -1346,8 +1346,8 @@ Once you've done all the things you want to do with the actions you have availab
 
 Take the following steps in any order you choose. Play then proceeds to the next creature in the initiative order.
 
-- End any effects that last until the end of your turn. For example, spells with a sustained duration end at the end of your turn unless you used the [Sustain a Spell](../actions/sustain-a-spell.md) action during your turn to extend them. Some effects caused by enemies might also last through a certain number of your turns, and you decrease the remaining duration by 1 during this step, ending the effect if its duration is reduced to 0.
-- If you have a [persistent damage](../conditions.md#Persistent%20Damage) condition, you take the damage at this point. After you take the damage, you can attempt the flat check to end the [persistent damage](../conditions.md#Persistent%20Damage). You then attempt any saving throws for ongoing afflictions. Many other conditions change at the end of your turn, such as the [frightened](../conditions.md#Frightened) condition decreasing in severity. These take place after you've taken any [persistent damage](../conditions.md#Persistent%20Damage), attempted flat checks to end the [persistent damage](../conditions.md#Persistent%20Damage), and attempted saves against any afflictions.
+- End any effects that last until the end of your turn. For example, spells with a sustained duration end at the end of your turn unless you used the [Sustain a Spell](rules/actions/sustain-a-spell.md) action during your turn to extend them. Some effects caused by enemies might also last through a certain number of your turns, and you decrease the remaining duration by 1 during this step, ending the effect if its duration is reduced to 0.
+- If you have a [persistent damage](rules/conditions.md#Persistent%20Damage) condition, you take the damage at this point. After you take the damage, you can attempt the flat check to end the [persistent damage](rules/conditions.md#Persistent%20Damage). You then attempt any saving throws for ongoing afflictions. Many other conditions change at the end of your turn, such as the [frightened](rules/conditions.md#Frightened) condition decreasing in severity. These take place after you've taken any [persistent damage](rules/conditions.md#Persistent%20Damage), attempted flat checks to end the [persistent damage](rules/conditions.md#Persistent%20Damage), and attempted saves against any afflictions.
 - You can use 1 free action or reaction with a trigger of "Your turn ends" or something similar.
 - Resolve anything else specified to happen at the end of your turn.
 
@@ -1378,9 +1378,9 @@ In addition to the actions in these two sections, the actions for spellcasting c
 
 > [!pf2-brown] SPEAKING
 > 
-> As long as you can act, you can also speak. You don't need to spend any type of action to speak, but because a round represents 6 seconds of time, you can usually speak at most a single sentence or so per round. Special uses of speech, such as attempting a [Deception](../../compendium/skills.md#Deception) skill check to Lie, require spending actions and follow their own rules.
+> As long as you can act, you can also speak. You don't need to spend any type of action to speak, but because a round represents 6 seconds of time, you can usually speak at most a single sentence or so per round. Special uses of speech, such as attempting a [Deception](compendium/skills.md#Deception) skill check to Lie, require spending actions and follow their own rules.
 > 
-> All speech has the [auditory](../traits/auditory.md) trait. If you communicate in some way other than speech, other rules might apply. For instance, using sign language is [visual](../traits/visual.md) instead of [auditory](../traits/auditory.md).
+> All speech has the [auditory](rules/traits/auditory.md "Auditory Effect Trait") trait. If you communicate in some way other than speech, other rules might apply. For instance, using sign language is [visual](rules/traits/visual.md "Visual Effect Trait") instead of [auditory](rules/traits/auditory.md "Auditory Effect Trait").
 
 #### Specialty Basic Actions
 <sup>CRB p. 472</sup>
@@ -1401,13 +1401,13 @@ Once your first turn begins, you gain your actions and reaction. You can use 1 r
 
 Some reactions are specifically meant to be used in combat and can change how the battle plays out drastically.
 
-One example of such a reaction is [Attack of Opportunity](../actions/attack-of-opportunity.md), which fighters gain at 1st level.
+One example of such a reaction is [Attack of Opportunity](rules/actions/attack-of-opportunity.md), which fighters gain at 1st level.
 
-This reaction lets you make a melee [Strike](../actions/strike.md) if a creature within reach uses a [manipulate](../traits/manipulate.md) or [move](../traits/move.md) action, makes a ranged attack, or leaves a square during a [move](../traits/move.md) action. The Triggering Moves diagram on page 474 illustrates examples of movements that might trigger an [Attack of Opportunity](../actions/attack-of-opportunity.md) from a creature without reach and one with reach.
+This reaction lets you make a melee [Strike](rules/actions/strike.md) if a creature within reach uses a [manipulate](rules/traits/manipulate.md "Manipulate General Trait") or [move](rules/traits/move.md "Move Combat Trait") action, makes a ranged attack, or leaves a square during a [move](rules/traits/move.md "Move Combat Trait") action. The Triggering Moves diagram on page 474 illustrates examples of movements that might trigger an [Attack of Opportunity](rules/actions/attack-of-opportunity.md) from a creature without reach and one with reach.
 
-You'll notice this reaction allows you to use a modified basic action, a [Strike](../actions/strike.md). This follows the rules on subordinate actions found on page 462.
+You'll notice this reaction allows you to use a modified basic action, a [Strike](rules/actions/strike.md). This follows the rules on subordinate actions found on page 462.
 
-Because your [Attack of Opportunity](../actions/attack-of-opportunity.md) takes place outside of your turn, the attack roll doesn't incur a multiple attack penalty.
+Because your [Attack of Opportunity](rules/actions/attack-of-opportunity.md) takes place outside of your turn, the attack roll doesn't incur a multiple attack penalty.
 
 ### Movement in Encounters
 <sup>CRB p. 473</sup>
@@ -1428,13 +1428,13 @@ Because moving diagonally covers more ground, you count that movement differentl
 #### Size, Space, and Reach
 <sup>CRB p. 473</sup>
 
-Creatures and objects of different sizes occupy different amounts of space. The sizes and the spaces they each take up on a grid are listed in [Table 9–1: Size and Reach](../tables/size-and-reach.md).
+Creatures and objects of different sizes occupy different amounts of space. The sizes and the spaces they each take up on a grid are listed in [Table 9–1: Size and Reach](rules/tables/size-and-reach.md).
 
 Table 9–1 also lists the typical reach for creatures of each size, for both tall creatures (most bipeds) and long creatures (most quadrupeds). See page 455 for more about reach.
 
 The Space entry lists how many feet on a side a creature's space is, so a Large creature fills a 10-foot-by-10-foot space (4 squares on the grid). Sometimes part of a creature extends beyond its space, such as if a giant octopus is grabbing you with its tentacles. In that case, the GM will usually allow attacking the extended portion, even if you can't reach the main creature. A Small or larger creature or object takes up at least 1 square on a grid, and creatures of these sizes can't usually share spaces except in situations like a character riding a mount. Rules for moving through other creatures' spaces appear below.
 
-![Size and Reach](../tables/size-and-reach.md)
+![Size and Reach](rules/tables/size-and-reach.md)
 
 Multiple Tiny creatures can occupy the same square. At least four can fit in a single square, though the GM might determine that even more can fit. Tiny creatures can occupy a space occupied by a larger creature as well, and if their reach is 0 feet, they must do so in order to attack.
 
@@ -1448,7 +1448,7 @@ Some actions, such as Step, specifically state they don't trigger reactions or f
 #### Moving Through a Creature's Space
 <sup>CRB p. 474</sup>
 
-You can move through the space of a willing creature. If you want to move through an unwilling creature's space, you can [Tumble Through](../actions/tumble-through.md) that creature's space using [Acrobatics](../../compendium/skills.md#Acrobatics). You can't end your turn in a square occupied by another creature, though you can end a move action in its square provided that you immediately use another move action to leave that square. If two creatures end up in the same square by accident, the GM determines which one is forced out of the square (or whether one falls prone).
+You can move through the space of a willing creature. If you want to move through an unwilling creature's space, you can [Tumble Through](rules/actions/tumble-through.md) that creature's space using [Acrobatics](compendium/skills.md#Acrobatics). You can't end your turn in a square occupied by another creature, though you can end a move action in its square provided that you immediately use another move action to leave that square. If two creatures end up in the same square by accident, the GM determines which one is forced out of the square (or whether one falls prone).
 
 ##### Prone and Incapacitated Creatures
 <sup>CRB p. 474</sup>
@@ -1496,43 +1496,43 @@ Hazardous terrain damages you whenever you move through it. An acid pool and a p
 #### Narrow Surfaces
 <sup>CRB p. 476</sup>
 
-A narrow surface is so precariously thin that you need to [Balance](../actions/balance.md) or risk falling. Even on a success, you are [flat-footed](../conditions.md#Flat-footed) on a narrow surface.
+A narrow surface is so precariously thin that you need to [Balance](rules/actions/balance.md) or risk falling. Even on a success, you are [flat-footed](rules/conditions.md#Flat-footed) on a narrow surface.
 
-Each time you are hit by an attack or fail a save on a narrow surface, you must succeed at a Reflex save (with the same DC as the [Acrobatics](../../compendium/skills.md#Acrobatics) check to [Balance](../actions/balance.md)) or fall.
+Each time you are hit by an attack or fail a save on a narrow surface, you must succeed at a Reflex save (with the same DC as the [Acrobatics](compendium/skills.md#Acrobatics) check to [Balance](rules/actions/balance.md)) or fall.
 
 #### Uneven Ground
 <sup>CRB p. 476</sup>
 
-Uneven ground is an area unsteady enough that you need to [Balance](../actions/balance.md) or risk falling prone and possibly injuring yourself, depending on the specifics of the uneven ground. You are [flat-footed](../conditions.md#Flat-footed) on uneven ground. Each time you are hit by an attack or fail a save on uneven ground, you must succeed at a Reflex save (with the same DC as the [Acrobatics](../../compendium/skills.md#Acrobatics) check to Balance) or fall prone.
+Uneven ground is an area unsteady enough that you need to [Balance](rules/actions/balance.md) or risk falling prone and possibly injuring yourself, depending on the specifics of the uneven ground. You are [flat-footed](rules/conditions.md#Flat-footed) on uneven ground. Each time you are hit by an attack or fail a save on uneven ground, you must succeed at a Reflex save (with the same DC as the [Acrobatics](compendium/skills.md#Acrobatics) check to Balance) or fall prone.
 
 #### Inclines
 <sup>CRB p. 476</sup>
 
-An incline is an area so steep that you need to [Climb](../actions/climb.md) using the [Athletics](../../compendium/skills.md#Athletics) skill in order to progress upward.
+An incline is an area so steep that you need to [Climb](rules/actions/climb.md) using the [Athletics](compendium/skills.md#Athletics) skill in order to progress upward.
 
-You're [flat-footed](../conditions.md#Flat-footed) when [Climbing](../actions/climb.md) an incline.
+You're [flat-footed](rules/conditions.md#Flat-footed) when [Climbing](rules/actions/climb.md) an incline.
 
 ### Flanking
 <sup>CRB p. 476</sup>
 
-When you and an ally are flanking a foe, it has a harder time defending against you. A creature is [flat-footed](../conditions.md#Flat-footed) (taking a –2 circumstance penalty to AC) to melee attacks from creatures that are flanking it.
+When you and an ally are flanking a foe, it has a harder time defending against you. A creature is [flat-footed](rules/conditions.md#Flat-footed) (taking a –2 circumstance penalty to AC) to melee attacks from creatures that are flanking it.
 
-To flank a foe, you and your ally must be on opposites sides or corners of the creature. A line drawn between the center of your space and the center of your ally's space must pass through opposite sides or opposite corners of the foe's space. Additionally, both you and the ally have to be able to act, must be wielding melee weapons or able to make an unarmed attack, can't be under any effects that prevent you from attacking, and must have the enemy within reach. If you are wielding a reach weapon, you use your [reach](../traits/reach.md) with that weapon for this purpose.
+To flank a foe, you and your ally must be on opposites sides or corners of the creature. A line drawn between the center of your space and the center of your ally's space must pass through opposite sides or opposite corners of the foe's space. Additionally, both you and the ally have to be able to act, must be wielding melee weapons or able to make an unarmed attack, can't be under any effects that prevent you from attacking, and must have the enemy within reach. If you are wielding a reach weapon, you use your [reach](rules/traits/reach.md "Reach Weapon Trait") with that weapon for this purpose.
 
 ### Cover
 <sup>CRB p. 477</sup>
 
-When you're behind an obstacle that could block weapons, guard you against explosions, and make you harder to detect, you're behind cover. Standard cover gives you a +2 circumstance bonus to AC, to Reflex saves against area effects, and to [Stealth](../../compendium/skills.md#Stealth) checks to [Hide](../actions/hide.md), [Sneak](../actions/sneak.md), or otherwise avoid detection. You can increase this to greater cover using the [Take Cover](../actions/take-cover.md) basic action, increasing the circumstance bonus to +4. If cover is especially light, typically when it's provided by a creature, you have lesser cover, which grants a +1 circumstance bonus to AC. A creature with standard cover or greater cover can attempt to use [Stealth](../../compendium/skills.md#Stealth) to [Hide](../actions/hide.md), but lesser cover isn't sufficient.
+When you're behind an obstacle that could block weapons, guard you against explosions, and make you harder to detect, you're behind cover. Standard cover gives you a +2 circumstance bonus to AC, to Reflex saves against area effects, and to [Stealth](compendium/skills.md#Stealth) checks to [Hide](rules/actions/hide.md), [Sneak](rules/actions/sneak.md), or otherwise avoid detection. You can increase this to greater cover using the [Take Cover](rules/actions/take-cover.md) basic action, increasing the circumstance bonus to +4. If cover is especially light, typically when it's provided by a creature, you have lesser cover, which grants a +1 circumstance bonus to AC. A creature with standard cover or greater cover can attempt to use [Stealth](compendium/skills.md#Stealth) to [Hide](rules/actions/hide.md), but lesser cover isn't sufficient.
 
 | Type of Cover | Bonus | Can Hide |
 |---------------|-------|----------|
 | Lesser | +1 to AC | No |
-| Standard | +2 to AC, Reflex, [Stealth](../../compendium/skills.md#Stealth) | Yes |
-| Greater | +4 to AC, Reflex, [Stealth](../../compendium/skills.md#Stealth) | Yes |
+| Standard | +2 to AC, Reflex, [Stealth](compendium/skills.md#Stealth) | Yes |
+| Greater | +4 to AC, Reflex, [Stealth](compendium/skills.md#Stealth) | Yes |
 
 Cover is relative, so you might simultaneously have cover against one creature and not another. Cover applies only if your path to the target is partially blocked. If a creature is entirely behind a wall or the like, you don't have line of effect and typically can't target it at all.
 
-Usually, the GM can quickly decide whether your target has cover. If you're uncertain or need to be more precise, draw a line from the center of your space to the center of the target's space. If that line passes through any terrain or object that would block the effect, the target has standard cover (or greater cover if the obstruction is extreme or the target has [Taken Cover](../actions/take-cover.md)). If the line passes through a creature instead, the target has lesser cover. When measuring cover against an area effect, draw the line from the effect's point of origin to the center of the creature's space.
+Usually, the GM can quickly decide whether your target has cover. If you're uncertain or need to be more precise, draw a line from the center of your space to the center of the target's space. If that line passes through any terrain or object that would block the effect, the target has standard cover (or greater cover if the obstruction is extreme or the target has [Taken Cover](rules/actions/take-cover.md)). If the line passes through a creature instead, the target has lesser cover. When measuring cover against an area effect, draw the line from the effect's point of origin to the center of the creature's space.
 
 #### Cover and Large Creatures
 <sup>CRB p. 477</sup>
@@ -1552,14 +1552,14 @@ Sometimes fights occur while the characters are atop mounts or when the PCs take
 #### Mounted Combat
 <sup>CRB p. 478</sup>
 
-You can ride some creatures into combat. As noted in the [Mount](../actions/mount.md) specialty basic action, your mount needs to be at least one size larger than you and willing. Your mount acts on your initiative. You must use the [Command an Animal](../actions/command-an-animal.md) action (page 249) to get your mount to spend its actions. If you don't, the animal wastes its actions. If you have the Ride general feat, you succeed automatically when you [Command an Animal](../actions/command-an-animal.md) that's your mount.
+You can ride some creatures into combat. As noted in the [Mount](rules/actions/mount.md) specialty basic action, your mount needs to be at least one size larger than you and willing. Your mount acts on your initiative. You must use the [Command an Animal](rules/actions/command-an-animal.md) action (page 249) to get your mount to spend its actions. If you don't, the animal wastes its actions. If you have the Ride general feat, you succeed automatically when you [Command an Animal](rules/actions/command-an-animal.md) that's your mount.
 
-For example, if you are mounted on a horse and you make three attacks, your horse would remain stationary since you didn't command it. If you instead spent your first action to [Command an Animal](../actions/command-an-animal.md) and succeeded, you could get your mount to Stride. You could spend your next action to attack or to command the horse to attack, but not both.
+For example, if you are mounted on a horse and you make three attacks, your horse would remain stationary since you didn't command it. If you instead spent your first action to [Command an Animal](rules/actions/command-an-animal.md) and succeeded, you could get your mount to Stride. You could spend your next action to attack or to command the horse to attack, but not both.
 
 ##### Mounted Attacks
 <sup>CRB p. 478</sup>
 
-You and your mount fight as a unit. Consequently, you share a multiple attack penalty. For example, if you Strike and then [Command an Animal](../actions/command-an-animal.md) to have your mount Strike, your mount's attack takes a –5 multiple attack penalty.
+You and your mount fight as a unit. Consequently, you share a multiple attack penalty. For example, if you Strike and then [Command an Animal](rules/actions/command-an-animal.md) to have your mount Strike, your mount's attack takes a –5 multiple attack penalty.
 
 You occupy every square of your mount's space for the purpose of making your attacks. If you were Medium and on a Large mount, you could attack a creature on one side of your mount, then attack on the opposite side with your next action. If you have a longer reach, the distance depends partly on the size of your mount. On a Medium or smaller mount, use your normal reach. On a Large or Huge mount, you can attack any square adjacent to the mount if you have 5- or 10-foot reach, or any square within 10 feet of the mount (including diagonally) if you have 15-foot reach.
 
@@ -1584,14 +1584,14 @@ Because you can't move your body as freely while you're riding a mount, you take
 #### Aerial Combat
 <sup>CRB p. 478</sup>
 
-Many monsters can fly, and PCs can use spells and items to gain the ability to fly. Flying creatures have to use the Fly action (page 472) to move through the air. Performing an especially tricky maneuver—such as trying to reverse course 180 degrees or fly through a narrow gap—might require using [Acrobatics](../../compendium/skills.md#Acrobatics) to Maneuver in Flight. Creatures might fall from the sky, using the falling rules found on page 463. At the GM's discretion, some ground-based actions might not work in the air. For instance, a flying creature couldn't Leap.
+Many monsters can fly, and PCs can use spells and items to gain the ability to fly. Flying creatures have to use the Fly action (page 472) to move through the air. Performing an especially tricky maneuver—such as trying to reverse course 180 degrees or fly through a narrow gap—might require using [Acrobatics](compendium/skills.md#Acrobatics) to Maneuver in Flight. Creatures might fall from the sky, using the falling rules found on page 463. At the GM's discretion, some ground-based actions might not work in the air. For instance, a flying creature couldn't Leap.
 
 #### Aquatic Combat
 <sup>CRB p. 478</sup>
 
 Use these rules for battles in water or underwater:
 
-- You're [flat-footed](../conditions.md#Flat-footed) unless you have a swim Speed.
+- You're [flat-footed](rules/conditions.md#Flat-footed) unless you have a swim Speed.
 - You gain resistance 5 to acid and fire.
 - You take a –2 circumstance penalty to melee slashing or bludgeoning attacks that pass through water.
 - Ranged attacks that deal bludgeoning or slashing damage automatically miss if the attacker or target is underwater, and piercing ranged attacks made by an underwater creature or against an underwater target have their range increments halved.
@@ -1603,7 +1603,7 @@ Use these rules for battles in water or underwater:
 
 You can hold your breath for a number of rounds equal to 5 + your Constitution modifier. Reduce your remaining air by 1 round at the end of each of your turns, or by 2 if you attacked or cast any spells that turn. You also lose 1 round worth of air each time you are critically hit or critically fail a save against a damaging effect. If you speak (including casting spells with verbal components or activating items with command components) you lose all remaining air.
 
-When you run out of air, you fall [unconscious](../conditions.md#Unconscious) and start suffocating. You can't recover from being unconscious and must attempt a DC 20 Fortitude save at the end of each of your turns. On a failure, you take 1d10 damage, and on a critical failure, you die. On each check after the first, the DC increases by 5 and the damage by 1d10; these increases are cumulative. Once your access to air is restored, you stop suffocating and are no longer unconscious (unless you're at 0 Hit Points).
+When you run out of air, you fall [unconscious](rules/conditions.md#Unconscious) and start suffocating. You can't recover from being unconscious and must attempt a DC 20 Fortitude save at the end of each of your turns. On a failure, you take 1d10 damage, and on a critical failure, you die. On each check after the first, the DC increases by 5 and the damage by 1d10; these increases are cumulative. Once your access to air is restored, you stop suffocating and are no longer unconscious (unless you're at 0 Hit Points).
 
 ## Exploration Mode
 <sup>CRB p. 479</sup>
@@ -1615,7 +1615,7 @@ Much of exploration mode involves movement and roleplaying. You might be traveli
 
 Depending on how the GM tracks movement, you move in feet or miles based on your character's Speed with the relevant movement type. Typical rates are on the table below.
 
-![Travel Speed](../tables/travel-speed.md)
+![Travel Speed](rules/tables/travel-speed.md)
 
 The rates in Table 9 –2 assume traveling over flat and clear terrain at a determined pace, but one that's not exhausting.
 
@@ -1634,40 +1634,40 @@ These are most common exploration activities.
 > 
 > Chapter 4: Skills includes numerous additional exploration activities, which are summarized here.
 > 
-> **[Borrow an Arcane Spell](../actions/borrow-an-arcane-spell.md):** You use [Arcana](../../compendium/skills.md#Arcana) to prepare a spell from someone else's spellbook (page 241).
+> **[Borrow an Arcane Spell](rules/actions/borrow-an-arcane-spell.md):** You use [Arcana](compendium/skills.md#Arcana) to prepare a spell from someone else's spellbook (page 241).
 > 
-> **[Coerce](../actions/coerce.md):** You use [Intimidation](../../compendium/skills.md#Intimidation) to threaten a creature so it does what you want (page 247).
+> **[Coerce](rules/actions/coerce.md):** You use [Intimidation](compendium/skills.md#Intimidation) to threaten a creature so it does what you want (page 247).
 > 
-> **[Cover Tracks](../actions/cover-tracks.md):** You use [Survival](../../compendium/skills.md#Survival) to obscure your passing (page 252).
+> **[Cover Tracks](rules/actions/cover-tracks.md):** You use [Survival](compendium/skills.md#Survival) to obscure your passing (page 252).
 > 
-> **[Decipher Writing](../actions/decipher-writing.md):** You use a suitable skill to understand archaic, esoteric, or obscure texts (page 234).
+> **[Decipher Writing](rules/actions/decipher-writing.md):** You use a suitable skill to understand archaic, esoteric, or obscure texts (page 234).
 > 
-> **[Gather Information](../actions/gather-information.md):** You use [Diplomacy](../../compendium/skills.md#Diplomacy) to canvass the area to learn about a specific individual or topic (page 246).
+> **[Gather Information](rules/actions/gather-information.md):** You use [Diplomacy](compendium/skills.md#Diplomacy) to canvass the area to learn about a specific individual or topic (page 246).
 > 
-> **[Identify Alchemy](../actions/identify-alchemy.md):** You use Craft and alchemist's tools to identify an alchemical item (page 245).
+> **[Identify Alchemy](rules/actions/identify-alchemy.md):** You use Craft and alchemist's tools to identify an alchemical item (page 245).
 > 
-> **[Identify Magic](../actions/identify-magic.md):** Using a variety of skills, you can learn about a magic item, location, or ongoing effect (page 238).
+> **[Identify Magic](rules/actions/identify-magic.md):** Using a variety of skills, you can learn about a magic item, location, or ongoing effect (page 238).
 > 
-> **[Impersonate](../actions/impersonate.md):** You use [Deception](../../compendium/skills.md#Deception) and usually a disguise kit to create a disguise (page 245).
+> **[Impersonate](rules/actions/impersonate.md):** You use [Deception](compendium/skills.md#Deception) and usually a disguise kit to create a disguise (page 245).
 > 
-> **[Learn a Spell](../actions/learn-a-spell.md):** You use the skill corresponding to the spell's tradition to gain access to a new spell (page 238).
+> **[Learn a Spell](rules/actions/learn-a-spell.md):** You use the skill corresponding to the spell's tradition to gain access to a new spell (page 238).
 > 
-> **[Make an Impression](../actions/make-an-impression.md):** You use [Diplomacy](../../compendium/skills.md#Diplomacy) to make a good impression on someone (page 246).
+> **[Make an Impression](rules/actions/make-an-impression.md):** You use [Diplomacy](compendium/skills.md#Diplomacy) to make a good impression on someone (page 246).
 > 
-> **[Repair](../actions/repair.md):** With a repair kit and the [Crafting](../../compendium/skills.md#Crafting) skill, you fix a damaged item (page 243).
+> **[Repair](rules/actions/repair.md):** With a repair kit and the [Crafting](compendium/skills.md#Crafting) skill, you fix a damaged item (page 243).
 > 
-> **[Sense Direction](../actions/sense-direction.md):** You use [Survival](../../compendium/skills.md#Survival) to get a sense of where you are or determine the cardinal directions (page 252).
+> **[Sense Direction](rules/actions/sense-direction.md):** You use [Survival](compendium/skills.md#Survival) to get a sense of where you are or determine the cardinal directions (page 252).
 > 
-> **[Squeeze](../actions/squeeze.md):** Using [Acrobatics](../../compendium/skills.md#Acrobatics), you squeeze though very tight spaces (page 241).
+> **[Squeeze](rules/actions/squeeze.md):** Using [Acrobatics](compendium/skills.md#Acrobatics), you squeeze though very tight spaces (page 241).
 > 
-> **[Track](../actions/track.md):** You use [Survival](../../compendium/skills.md#Survival) to find and follow creatures' tracks (page 252).
+> **[Track](rules/actions/track.md):** You use [Survival](compendium/skills.md#Survival) to find and follow creatures' tracks (page 252).
 > 
-> **[Treat Wounds](../actions/treat-wounds.md):** You use [Medicine](../../compendium/skills.md#Medicine) to treat a living creature's wounds (page 249).
+> **[Treat Wounds](rules/actions/treat-wounds.md):** You use [Medicine](compendium/skills.md#Medicine) to treat a living creature's wounds (page 249).
 
 ### Rest and Daily Preparations
 <sup>CRB p. 480</sup>
 
-You perform at your best when you take enough time to rest and prepare. Once every 24 hours, you can take a period of rest (typically 8 hours), after which you regain Hit Points equal to your Constitution modifier (minimum 1) times your level, and you might recover from or improve certain conditions (page 453). Sleeping in armor results in poor rest that leaves you [fatigued](../conditions.md#Fatigued). If you go more than 16 hours without resting, you become [fatigued](../conditions.md#Fatigued) (you cannot recover from this until you rest at least 6 continuous hours).
+You perform at your best when you take enough time to rest and prepare. Once every 24 hours, you can take a period of rest (typically 8 hours), after which you regain Hit Points equal to your Constitution modifier (minimum 1) times your level, and you might recover from or improve certain conditions (page 453). Sleeping in armor results in poor rest that leaves you [fatigued](rules/conditions.md#Fatigued). If you go more than 16 hours without resting, you become [fatigued](rules/conditions.md#Fatigued) (you cannot recover from this until you rest at least 6 continuous hours).
 
 After you rest, you make your daily preparations, which takes around 1 hour. You can prepare only if you've rested, and only once per day. Preparing includes the following:
 
@@ -1705,7 +1705,7 @@ You can spend a week of downtime retraining to swap out one of your feats. Remov
 #### Skills
 <sup>CRB p. 481</sup>
 
-You can spend a week of downtime retraining to swap out one of your skill increases. Reduce your proficiency rank in the skill losing its increase by one step and increase your proficiency rank in another skill by one step. The new proficiency rank has to be equal to or lower than the proficiency rank you traded away. For instance, if your bard is a master in [Performance](../../compendium/skills.md#Performance) and [Stealth](../../compendium/skills.md#Stealth), and an expert in [Occultism](../../compendium/skills.md#Occultism), you could reduce the character's proficiency in [Stealth](../../compendium/skills.md#Stealth) to expert and become a master in [Occultism](../../compendium/skills.md#Occultism), but you couldn't reassign that skill increase to become legendary in [Performance](../../compendium/skills.md#Performance). Keep track of your level when you reassign skill increases; the level at which your skill proficiencies changed can influence your ability to retrain feats with skill prerequisites.
+You can spend a week of downtime retraining to swap out one of your skill increases. Reduce your proficiency rank in the skill losing its increase by one step and increase your proficiency rank in another skill by one step. The new proficiency rank has to be equal to or lower than the proficiency rank you traded away. For instance, if your bard is a master in [Performance](compendium/skills.md#Performance) and [Stealth](compendium/skills.md#Stealth), and an expert in [Occultism](compendium/skills.md#Occultism), you could reduce the character's proficiency in [Stealth](compendium/skills.md#Stealth) to expert and become a master in [Occultism](compendium/skills.md#Occultism), but you couldn't reassign that skill increase to become legendary in [Performance](compendium/skills.md#Performance). Keep track of your level when you reassign skill increases; the level at which your skill proficiencies changed can influence your ability to retrain feats with skill prerequisites.
 
 You can also spend a week to retrain an initial trained skill you gained during character creation.
 
@@ -1718,15 +1718,15 @@ You can change a class feature that required a choice, making a different choice
 > 
 > Chapter 4: Skills includes several downtime activities, which are summarized here.
 > 
-> **[Craft](../actions/craft.md):** Using the [Crafting](../../compendium/skills.md#Crafting) skill, you can create items from raw materials (page 244).
+> **[Craft](rules/actions/craft.md):** Using the [Crafting](compendium/skills.md#Crafting) skill, you can create items from raw materials (page 244).
 > 
-> **[Create Forgery](../actions/create-forgery.md):** You forge a document (page 251).
+> **[Create Forgery](rules/actions/create-forgery.md):** You forge a document (page 251).
 > 
-> **[Earn Income](../actions/earn-income.md):** You earn money, typically using [Crafting](../../compendium/skills.md#Crafting), Lore, or [Performance](../../compendium/skills.md#Performance) (page 236).
+> **[Earn Income](rules/actions/earn-income.md):** You earn money, typically using [Crafting](compendium/skills.md#Crafting), Lore, or [Performance](compendium/skills.md#Performance) (page 236).
 > 
-> **[Subsist](../actions/subsist.md):** You find food and shelter in the wilderness or within a settlement (page 240).
+> **[Subsist](rules/actions/subsist.md):** You find food and shelter in the wilderness or within a settlement (page 240).
 > 
-> **[Treat Disease](../actions/treat-disease.md):** You spend time caring for a diseased creature in the hope of curing that creature (page 248).
+> **[Treat Disease](rules/actions/treat-disease.md):** You spend time caring for a diseased creature in the hope of curing that creature (page 248).
 
 ### Other Downtime Activities
 <sup>CRB p. 481</sup>

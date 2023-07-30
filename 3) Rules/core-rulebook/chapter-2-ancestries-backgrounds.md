@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/crb
-aliases: ["Chapter 2: Ancestries & Backgrounds"]
+aliases: ["chapter-2-ancestries-backgrounds"]
 ---
 # Chapter 2: Ancestries & Backgrounds
 <sup>CRB p. 32</sup>
@@ -141,17 +141,17 @@ The languages presented here are grouped according to how common they are throug
 
 Languages that are common are regularly encountered in most places, even among those who aren't native speakers.
 
-Languages that are uncommon (see [Table 2–2](../tables/uncommon-languages.md) and Regional Languages) are most frequently spoken by native speakers, but they are also spoken by certain scholars and others interested in the associated cultures.
+Languages that are uncommon (see [Table 2–2](rules/tables/uncommon-languages.md) and Regional Languages) are most frequently spoken by native speakers, but they are also spoken by certain scholars and others interested in the associated cultures.
 
 Druidic is a secret language, and is available only to characters who are druids. In fact, druids are prohibited from teaching the language to non-druids (described further in Anathema on page 130).
 
-It is possible for your character to learn languages later in their adventuring career. Selecting the Multilingual feat, for example, grants a character two new languages chosen from those listed in [Table 2–1: Common Languages](../tables/common-languages.md) and [Table 2–2: Uncommon Languages](../tables/uncommon-languages.md). Other abilities and effects might grant access to common or uncommon languages, as detailed in their descriptions.
+It is possible for your character to learn languages later in their adventuring career. Selecting the Multilingual feat, for example, grants a character two new languages chosen from those listed in [Table 2–1: Common Languages](rules/tables/common-languages.md) and [Table 2–2: Uncommon Languages](rules/tables/uncommon-languages.md). Other abilities and effects might grant access to common or uncommon languages, as detailed in their descriptions.
 
-![Common Languages](../tables/common-languages.md)
+![Common Languages](rules/tables/common-languages.md)
 
-![Uncommon Languages](../tables/uncommon-languages.md)
+![Uncommon Languages](rules/tables/uncommon-languages.md)
 
-![Secret Language](../tables/secret-language.md)
+![Secret Language](rules/tables/secret-language.md)
 
 ### Regional Languages
 <sup>CRB p. 65</sup>

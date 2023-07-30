@@ -7,15 +7,15 @@ tags:
 - trait/move
 aliases: ["Maneuver in Flight"]
 ---
-# Maneuver in Flight (basic) [>](../core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[move](../traits/move.md)  
+# Maneuver in Flight (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+[move](rules/traits/move.md "Move Combat Trait")  
 *Source: Core Rulebook p. 240*  
 
-**Skill** [acrobatics](../../compendium/skills.md#Acrobatics) (trained)
+**Skill** [acrobatics](compendium/skills.md#Acrobatics) (trained)
 - **Requirements**: You have a fly Speed.
 - **Activity**: Single Action
 
-You try a difficult maneuver while [Flying](fly.md). Attempt an [Acrobatics](../../compendium/skills.md#Acrobatics) check. The GM determines what maneuvers are possible, but they rarely allow you to move farther than your fly Speed.
+You try a difficult maneuver while [Flying](rules/actions/fly.md). Attempt an [Acrobatics](compendium/skills.md#Acrobatics) check. The GM determines what maneuvers are possible, but they rarely allow you to move farther than your fly Speed.
 
 > [!success-degree] 
 > - **Success** You succeed at the maneuver.

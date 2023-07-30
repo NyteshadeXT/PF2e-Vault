@@ -1,4 +1,5 @@
 ---
+obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Hobgoblin Soldier"
 tags: 
@@ -57,7 +58,7 @@ attacks:
   - name: Melee
     desc: "⬻ longsword +8 ([[versatile|versatile p]]); __Damage__ 1d8+3 (1d8+3) slashing"
   - name: Ranged
-    desc: "⬻ shortbow +8 ([[deadly|deadly 1d10]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6 (1d6) piercing"
+    desc: "⬻ shortbow +8 ([[deadly|deadly 1d10]], [[range-increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6 (1d6) piercing"
 
 sourcebook: "_Bestiary_, page 206."
 ```

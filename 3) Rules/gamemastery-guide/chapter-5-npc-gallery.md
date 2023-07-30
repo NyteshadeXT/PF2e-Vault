@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/gmg
-aliases: ["Chapter 5: Npc Gallery"]
+aliases: ["chapter-5-npc-gallery"]
 ---
 # Chapter 5: Npc Gallery
 <sup>GMG p. 203</sup>
@@ -32,7 +32,7 @@ If you need to change the NPC's level beyond that, use the values from the table
 ### Changing Alignment
 <sup>GMG p. 203</sup>
 
-Aside from some obviously aligned NPCs, like the villains, most of the NPCs in this gallery are presented as neutral. If you want to change an NPC's alignment, all you have to do is change their alignment trait. You might consider how the new alignment affects the NPC's personality and adjust their skills accordingly; for instance, a lawful evil teacher might have a higher modifier for [Intimidation](../../compendium/skills.md#Intimidation) than [Diplomacy](../../compendium/skills.md#Diplomacy).
+Aside from some obviously aligned NPCs, like the villains, most of the NPCs in this gallery are presented as neutral. If you want to change an NPC's alignment, all you have to do is change their alignment trait. You might consider how the new alignment affects the NPC's personality and adjust their skills accordingly; for instance, a lawful evil teacher might have a higher modifier for [Intimidation](compendium/skills.md#Intimidation) than [Diplomacy](compendium/skills.md#Diplomacy).
 
 ### Changing Languages
 <sup>GMG p. 203</sup>
@@ -42,7 +42,7 @@ If you need a human character who speaks more languages to fit their backstory, 
 ### Npc Ancestry Adjustments
 <sup>GMG p. 204</sup>
 
-To use one of the NPCs in this section to represent an NPC of a different ancestry, apply the adjustments below for the desired ancestry. These provide the basic features from that ancestry, like [darkvision](../abilities/darkvision.md), altered Speed, and unique abilities like a halfling's keen eyes. For other ancestries, you can create similar templates following the same format.
+To use one of the NPCs in this section to represent an NPC of a different ancestry, apply the adjustments below for the desired ancestry. These provide the basic features from that ancestry, like [darkvision](rules/abilities/darkvision.md), altered Speed, and unique abilities like a halfling's keen eyes. For other ancestries, you can create similar templates following the same format.
 
 In addition to these base changes, you can add the effects of a specific heritage: you might apply the snow goblin heritage if your NPC is a Frostfur goblin and you want them to have cold resistance. You can also give them an ancestry feat, or even adjust their ability scores and skills to reflect the new ancestry's strengths and weaknesses.
 
@@ -51,41 +51,41 @@ For a half-elf, half-orc, or any other heritage essential to the character, you 
 #### Dwarf
 <sup>GMG p. 204</sup>
 
-Change the [human](../traits/human.md) trait to [dwarf](../traits/dwarf.md).
+Change the [human](rules/traits/human.md "Human Ancestry & Heritage Trait") trait to [dwarf](rules/traits/dwarf.md "Dwarf Ancestry & Heritage Trait").
 
 - Add Dwarven to the NPC's languages.
-- Add [darkvision](../abilities/darkvision.md).
-- Decrease the NPC's Speed by 5 feet. If the NPC already has a reduced Speed due to their armor, consider applying the [Unburdened Iron](../../compendium/feats/unburdened-iron.md) ancestry feat.
+- Add [darkvision](rules/abilities/darkvision.md).
+- Decrease the NPC's Speed by 5 feet. If the NPC already has a reduced Speed due to their armor, consider applying the [Unburdened Iron](compendium/feats/unburdened-iron.md) ancestry feat.
 
 #### Elf
 <sup>GMG p. 204</sup>
 
-Change the [human](../traits/human.md) trait to [elf](../traits/elf.md).
+Change the [human](rules/traits/human.md "Human Ancestry & Heritage Trait") trait to [elf](rules/traits/elf.md "Elf Ancestry & Heritage Trait").
 
 - Add Elven to the NPC's languages.
-- Add [low-light vision](../abilities/low-light-vision.md).
+- Add [low-light vision](rules/abilities/low-light-vision.md).
 - Increase the NPC's Speed by 5 feet.
 
 #### Gnome
 <sup>GMG p. 204</sup>
 
-Change the [human](../traits/human.md) trait to [gnome](../traits/gnome.md).
+Change the [human](rules/traits/human.md "Human Ancestry & Heritage Trait") trait to [gnome](rules/traits/gnome.md "Gnome Ancestry & Heritage Trait").
 
 - Add Gnomish and Sylvan to the NPC's languages.
-- Add [low-light vision](../abilities/low-light-vision.md).
+- Add [low-light vision](rules/abilities/low-light-vision.md).
 
 #### Goblin
 <sup>GMG p. 204</sup>
 
-Change the [human](../traits/human.md) trait to [goblin](../traits/goblin.md).
+Change the [human](rules/traits/human.md "Human Ancestry & Heritage Trait") trait to [goblin](rules/traits/goblin.md "Goblin Ancestry & Heritage Trait").
 
 - Add Goblin to the NPC's languages.
-- Add [darkvision](../abilities/darkvision.md).
+- Add [darkvision](rules/abilities/darkvision.md).
 
 #### Halfling
 <sup>GMG p. 204</sup>
 
-Change the [human](../traits/human.md) trait to [halfling](../traits/halfling.md).
+Change the [human](rules/traits/human.md "Human Ancestry & Heritage Trait") trait to [halfling](rules/traits/halfling.md "Halfling Ancestry & Heritage Trait").
 
 - Add Halfling to the NPC's languages.
 - Add the keen eyes ability below.
@@ -103,9 +103,9 @@ These NPCs contain several specialists, such as barristers and navigators, who a
 
 ```ad-embed-ability
 title: Butter Up
-[emotion](rules/traits/emotion.md)  [mental](rules/traits/mental.md)  
+[emotion](rules/traits/emotion.md "Emotion Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 
-When someone eats a dish or treat made by this NPC, the NPC can attempt a Baking Lore, Cooking Lore, or similar check against that creature's Will DC, with the same results as the Make an Impression action of [Diplomacy](../../../compendium/skills.md#Diplomacy). If more than one creature partakes, the NPC uses the same check result against each creature's Will DC.  
+When someone eats a dish or treat made by this NPC, the NPC can attempt a Baking Lore, Cooking Lore, or similar check against that creature's Will DC, with the same results as the Make an Impression action of [Diplomacy](compendium/skills.md#Diplomacy). If more than one creature partakes, the NPC uses the same check result against each creature's Will DC.  
 %% #trait/emotion #trait/mental %%
 ```
 
@@ -118,14 +118,14 @@ When gambling, the NPC may use Games Lore to Sense Motive instead of Perception.
 ```ad-embed-ability
 title: Child Care
 
-When treating infants, the NPC can use their Midwifery Lore skill in place of [Medicine](../../../compendium/skills.md#Medicine), and can use [Medicine](../../../compendium/skills.md#Medicine)'s trained actions on infants.
+When treating infants, the NPC can use their Midwifery Lore skill in place of [Medicine](compendium/skills.md#Medicine), and can use [Medicine](compendium/skills.md#Medicine)'s trained actions on infants.
 ```
 
 ```ad-embed-ability
 title: Find Footing [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[concentrate](rules/traits/concentrate.md)  
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  
 
-The NPC attempts an Architecture Lore, Engineering Lore, or similar skill check to find a stable path across uneven ground. This grants them and anyone they share this information with a +2 circumstance bonus on [Acrobatics](../../skills.md#Acrobatics) checks to Balance across that ground.  
+The NPC attempts an Architecture Lore, Engineering Lore, or similar skill check to find a stable path across uneven ground. This grants them and anyone they share this information with a +2 circumstance bonus on [Acrobatics](compendium/skills.md#Acrobatics) checks to Balance across that ground.  
 %% #trait/concentrate %%
 ```
 
@@ -285,12 +285,12 @@ Using their strength to bully others into submission, ruffians often work as bod
 ### Charlatan
 <sup>GMG p. 210</sup>
 
-Charlatans use pretense and misdirection to swindle money and other valuables from the credulous and [confused](../conditions.md#Confused). Selling snake oil (literally or figuratively), distracting marks to pick their pockets, or faking mediumship are classic grifts.
+Charlatans use pretense and misdirection to swindle money and other valuables from the credulous and [confused](rules/conditions.md#Confused). Selling snake oil (literally or figuratively), distracting marks to pick their pockets, or faking mediumship are classic grifts.
 
 ### Burglar
 <sup>GMG p. 211</sup>
 
-Burglars specialize in breaking and entering to rob homes and businesses. These criminals focus on gaining access to secure buildings and bypassing traps and other security measures while remaining [undetected](../conditions.md#Undetected) all the while.
+Burglars specialize in breaking and entering to rob homes and businesses. These criminals focus on gaining access to secure buildings and bypassing traps and other security measures while remaining [undetected](rules/conditions.md#Undetected) all the while.
 
 ### Fence
 <sup>GMG p. 211</sup>
@@ -320,7 +320,7 @@ The gods occasionally send messages in dreams to individuals who wander the land
 ### Zealot
 <sup>GMG p. 212</sup>
 
-Zealots ferret out plots against their religion and seek justice for their church's followers. This zealot serves Asmodeus, but others might serve [Abadar](../../compendium/setting/deities/abadar.md), Calistria, Iomedae, Norgorber, Pharasma, Sarenrae, or Zon-Kuthon. They often ride a war horse (_Bestiary_ 209) wearing light barding. This horse is an additional monster in the fight.
+Zealots ferret out plots against their religion and seek justice for their church's followers. This zealot serves Asmodeus, but others might serve [Abadar](compendium/setting/deities/abadar.md), Calistria, Iomedae, Norgorber, Pharasma, Sarenrae, or Zon-Kuthon. They often ride a war horse (_Bestiary_ 209) wearing light barding. This horse is an additional monster in the fight.
 
 ### Priest
 <sup>GMG p. 213</sup>
@@ -595,7 +595,7 @@ Executioners carry out sentences from cruel tyrants and legitimate rulers alike.
 ## Performers
 <sup>GMG p. 237</sup>
 
-[Performance](../../compendium/skills.md#Performance)s can serve as entertainment, expressions of beauty, or part of a shared culture.
+[Performance](compendium/skills.md#Performance)s can serve as entertainment, expressions of beauty, or part of a shared culture.
 
 ### Dancer
 <sup>GMG p. 237</sup>
@@ -711,7 +711,7 @@ Small settlements can typically support one or two generalist merchants, and lar
 
 Merchants can be found anywhere: vendors hustling in the public square, shopkeepers running small storefronts, traveling salespeople in carriages or caravans, or wealthy tycoons running entire organizations devoted to commerce.
 
-For encounters involving negotiation or mercantile skill, a merchant is a 4thlevel challenge. A merchant might have an additional [Lore](../../compendium/skills.md#Lore) skill about a specific category of item (such as jewelry or magic weapons), with a total skill bonus 2 higher than [Mercantile Lore](../../compendium/skills.md#Lore).
+For encounters involving negotiation or mercantile skill, a merchant is a 4thlevel challenge. A merchant might have an additional [Lore](compendium/skills.md#Lore) skill about a specific category of item (such as jewelry or magic weapons), with a total skill bonus 2 higher than [Mercantile Lore](compendium/skills.md#Lore).
 
 ### Smith
 <sup>GMG p. 245</sup>

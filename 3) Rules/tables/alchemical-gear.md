@@ -28,5 +28,5 @@ aliases: ["Alchemical Gear"]
 | Alchemical Tools | Price | Bulk | Page |
 |------------------|-------|------|------|
 | Lesser smokestick | 3 gp | L | 554 |
-| [Sunrod](../../compendium/equipment/items/sunrod.md) | 3 gp | L | 554 |
+| [Sunrod](compendium/equipment/items/sunrod.md) | 3 gp | L | 554 |
 | Tindertwig (10) | 2 sp | — | 554 |

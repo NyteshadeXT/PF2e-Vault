@@ -8,7 +8,7 @@ tags:
 aliases: ["Practical Research"]
 ---
 # Practical Research
-[downtime](../traits/downtime.md)  
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  
 *Source: Strength of Thousands #1: Kindled Magic p. 63*  
 
 - **Requirements**: You are a conversant or lore-speaker.

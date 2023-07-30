@@ -8,15 +8,15 @@ tags:
 - trait/manipulate
 aliases: ["Treat Disease"]
 ---
-# Treat Disease (basic) [⏲](../core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency")
-[downtime](../traits/downtime.md)  [manipulate](../traits/manipulate.md)  
+# Treat Disease (basic) [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency")
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 *Source: Core Rulebook p. 248*  
 
-**Skill** [medicine](../../compendium/skills.md#Medicine) (trained)
-- **Requirements**: You are holding [healer's tools](../../compendium/equipment/items/healers-tools.md), or you are wearing them and have a hand free.
+**Skill** [medicine](compendium/skills.md#Medicine) (trained)
+- **Requirements**: You are holding [healer's tools](compendium/equipment/items/healers-tools.md), or you are wearing them and have a hand free.
 - **Activity**: 8 hour (at least 8 hours)
 
-You spend at least 8 hours caring for a diseased creature. Attempt a [Medicine](../../compendium/skills.md#Medicine) check against the disease's DC. After you attempt to Treat a Disease for a creature, you can't try again until after that creature's next save against the disease.
+You spend at least 8 hours caring for a diseased creature. Attempt a [Medicine](compendium/skills.md#Medicine) check against the disease's DC. After you attempt to Treat a Disease for a creature, you can't try again until after that creature's next save against the disease.
 
 > [!success-degree] 
 > - **Critical Success** You grant the creature a +4 circumstance bonus to its next saving throw against the disease.

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/som
-aliases: ["Chapter 3: Spells"]
+aliases: ["chapter-3-spells"]
 ---
 # Chapter 3: Spells
 <sup>SoM p. 79</sup>
@@ -67,7 +67,7 @@ aliases: ["Chapter 3: Spells"]
 > 
 > If the spell would affect an ability the creature doesn't have, the spell doesn't give the creature that ability unless the spell says it does. For example, a spell that causes your companion to make a Strike wouldn't let a familiar make a Strike but would give it all other benefits of the spell.
 > 
-> The spells in this section that can target companions or eidolons are: [clone companion](../../compendium/spells/clone-companion-som.md), [envenom companion](../../compendium/spells/envenom-companion-som.md), [juvenile companion](../../compendium/spells/juvenile-companion-som.md), [protect companion](../../compendium/spells/protect-companion-som.md), [rapid adaptation](../../compendium/spells/rapid-adaptation-som.md), [summoner's precaution](../../compendium/spells/summoners-precaution-som.md), [summoner's visage](../../compendium/spells/summoners-visage-som.md), [thundering dominance](../../compendium/spells/thundering-dominance-som.md), and [timely tutor](../../compendium/spells/timely-tutor-som.md).
+> The spells in this section that can target companions or eidolons are: [clone companion](compendium/spells/clone-companion-som.md), [envenom companion](compendium/spells/envenom-companion-som.md), [juvenile companion](compendium/spells/juvenile-companion-som.md), [protect companion](compendium/spells/protect-companion-som.md), [rapid adaptation](compendium/spells/rapid-adaptation-som.md), [summoner's precaution](compendium/spells/summoners-precaution-som.md), [summoner's visage](compendium/spells/summoners-visage-som.md), [thundering dominance](compendium/spells/thundering-dominance-som.md), and [timely tutor](compendium/spells/timely-tutor-som.md).
 
 > [!pf2-sidebar] Incarnate Spells
 > 
@@ -75,7 +75,7 @@ aliases: ["Chapter 3: Spells"]
 > 
 > A creature summoned by an incarnate spell acts in your interests, directs its effects away from you and your allies as much as possible, and might listen to your requests, but ultimately makes its own decisions. If the spell indicates that the incarnate makes a decision, the GM determines what the incarnate would do. It might even become more inclined to do precisely as you wish over multiple summonings.
 > 
-> The incarnate is not fully a creature. It can't take any other actions, nor can it be targeted or harmed by [Strikes](../actions/strike.md), spells, or other effects unless they would be able to target or end a spell effect (such as [dispel magic](../../compendium/spells/dispel-magic.md)). It has a size for the purposes of determining its placement for effects, but it doesn't block movement. If applicable, its effects use your spell DCs and spell attack roll modifier.
+> The incarnate is not fully a creature. It can't take any other actions, nor can it be targeted or harmed by [Strikes](rules/actions/strike.md), spells, or other effects unless they would be able to target or end a spell effect (such as [dispel magic](compendium/spells/dispel-magic.md)). It has a size for the purposes of determining its placement for effects, but it doesn't block movement. If applicable, its effects use your spell DCs and spell attack roll modifier.
 
 > [!pf2-paper] A letter
 > 

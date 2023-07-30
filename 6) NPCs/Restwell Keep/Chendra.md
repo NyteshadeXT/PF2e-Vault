@@ -13,6 +13,8 @@ Race: Half-Elf
 Occupation:
   - Priest
 Location: Restwell Keep
+Dislikes: Lord Drysdale
+Age: Adult
 ---
 > [!infobox]
 > **Pronounced:**  "`=this.Pronounced`"

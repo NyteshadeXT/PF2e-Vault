@@ -1,4 +1,5 @@
 ---
+obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Sprite"
 tags: 
@@ -56,7 +57,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 16; __Cantrips (1st)__ [[dancing lights]], [[daze]], [[detect magic]]; __1st__ [[color spray]];"
+    desc: "DC 16; __Cantrips (1st)__ [[dancing-lights|dancing lights]], [[daze]], [[detect-magic|detect magic]]; __1st__ [[color-spray|color spray]];"
 sourcebook: "_Bestiary_, page 308."
 ```
 

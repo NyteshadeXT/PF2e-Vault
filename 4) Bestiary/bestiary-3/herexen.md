@@ -1,4 +1,5 @@
 ---
+obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Herexen"
 tags: 
@@ -49,7 +50,7 @@ armorclass:
 hp: 30
 health:
   - name: HP
-    desc: "30; [[negative healing]]; __Immunities__ poison, death effects, disease, paralyzed, unconscious;"
+    desc: "30; [[negative-healing-b2|negative healing]]; __Immunities__ poison, death effects, disease, paralyzed, unconscious;"
 
 
 attacks:

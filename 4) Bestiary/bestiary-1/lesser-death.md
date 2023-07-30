@@ -1,4 +1,5 @@
 ---
+obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Lesser Death"
 tags: 
@@ -66,7 +67,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 38; __Constant__ __(2nd)__ [[see invisibility]], __(3rd)__ [[haste]], __(6th)__ [[true seeing]];"
+    desc: "DC 38; __Constant__ __(2nd)__ [[see-invisibility|see invisibility]], __(3rd)__ [[haste]], __(6th)__ [[true-seeing|true seeing]];"
 sourcebook: "_Bestiary_, page 197."
 ```
 

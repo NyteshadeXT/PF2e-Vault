@@ -11,6 +11,7 @@ Alias: N/A
 NoteIcon: Character
 Race: DwarfRock
 Location: Restwell Keep
+Age: Adult
 ---
 > [!infobox]
 > **Pronounced:**  "`=this.Pronounced`"

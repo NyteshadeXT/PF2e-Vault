@@ -8,9 +8,9 @@ tags:
 aliases: ["Defend"]
 ---
 # Defend (basic)
-[exploration](../traits/exploration.md)  
+[exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  
 *Source: Core Rulebook p. 479*  
 
 
 
-You move at half your travel speed with your shield raised. If combat breaks out, you gain the benefits of [Raising a Shield](raise-a-shield.md) before your first turn begins.
+You move at half your travel speed with your shield raised. If combat breaks out, you gain the benefits of [Raising a Shield](rules/actions/raise-a-shield.md) before your first turn begins.

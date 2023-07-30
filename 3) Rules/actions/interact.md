@@ -7,8 +7,8 @@ tags:
 - trait/manipulate
 aliases: ["Interact", "Use an Object"]
 ---
-# Interact (basic) [>](../core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[manipulate](../traits/manipulate.md)  
+# Interact (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+[manipulate](rules/traits/manipulate.md "Manipulate General Trait")  
 *Source: Core Rulebook p. 470*  
 
 

@@ -8,14 +8,14 @@ tags:
 aliases: ["Earn Income"]
 ---
 # Earn Income (basic)
-[downtime](../traits/downtime.md)  
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  
 *Source: Core Rulebook p. 236*  
 
 
 
-You use one of your skills to make money during downtime. The GM assigns a task level representing the most lucrative job available. You can search for lower-level tasks, with the GM determining whether you find any. Sometimes you can attempt to find better work than the initial offerings, though this takes time and requires using the [Diplomacy](../../compendium/skills.md#Diplomacy) skill to [Gather Information](gather-information.md), doing some research, or socializing.
+You use one of your skills to make money during downtime. The GM assigns a task level representing the most lucrative job available. You can search for lower-level tasks, with the GM determining whether you find any. Sometimes you can attempt to find better work than the initial offerings, though this takes time and requires using the [Diplomacy](compendium/skills.md#Diplomacy) skill to [Gather Information](rules/actions/gather-information.md), doing some research, or socializing.
 
-When you take on a job, the GM secretly sets the DC of your skill check. After your first day of work, you roll to determine your earnings. You gain an amount of income based on your result, the task's level, and your proficiency rank (as listed on [Table 4–2: Income Earned](../tables/income-earned.md)).
+When you take on a job, the GM secretly sets the DC of your skill check. After your first day of work, you roll to determine your earnings. You gain an amount of income based on your result, the task's level, and your proficiency rank (as listed on [Table 4–2: Income Earned](rules/tables/income-earned.md)).
 
 You can continue working at the task on subsequent days without needing to roll again. For each day you spend after the first, you earn the same amount as the first day, up until the task's completion. The GM determines how long you can work at the task. Most tasks last a week or two, though some can take months or even years.
 
@@ -34,4 +34,4 @@ You can continue working at the task on subsequent days without needing to roll 
 > - **Master** run a large brewery, present important court cases
 > - **Legendary** run an international brewing franchise, present a case in Hell's courts
 
-![EARN INCOME TASKS](../tables/earn-income-tasks-gmg.md)
+![EARN INCOME TASKS](rules/tables/earn-income-tasks-gmg.md)

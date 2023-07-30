@@ -8,8 +8,8 @@ tags:
 - trait/uncommon
 aliases: ["Selfish Shield"]
 ---
-# Selfish Shield [R](../core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
-[champion](../traits/champion.md)  [uncommon](../traits/uncommon.md)  
+# Selfish Shield [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+[champion](rules/traits/champion.md "Champion Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 *Source: Advanced Player's Guide p. 116*  
 
 **Class** champion; **Subclass** Desecrator
@@ -18,4 +18,4 @@ aliases: ["Selfish Shield"]
 
 Your self-interest keeps you safe. You gain resistance against the triggering damage equal to 2 + half your level, regardless of damage type.
 
-In addition, your [Strikes](strike.md) against the triggering creature deal 1 extra damage until the end of your next turn. You choose whether this extra damage is evil or negative each time you use this reaction. This extra damage increases to 2 at 9th level and 3 at 16th level.
+In addition, your [Strikes](rules/actions/strike.md) against the triggering creature deal 1 extra damage until the end of your next turn. You choose whether this extra damage is evil or negative each time you use this reaction. This extra damage increases to 2 at 9th level and 3 at 16th level.

@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/gmg
-aliases: ["Chapter 2: Tools"]
+aliases: ["chapter-2-tools"]
 ---
 # Chapter 2: Tools
 <sup>GMG p. 55</sup>
@@ -90,9 +90,9 @@ Now that you understand your creature's concept, it's time to get to the statist
 
 Most of the statistics in this section use a scale of extreme, high, moderate, and low—some use terrible values as well.
 
-**Extreme:** The creature is world class in this statistic and can challenge almost any character. Most creatures have no extreme statistics or only one extreme statistic, although some creatures might have additional extreme statistics and weaker related statistics elsewhere (a common example being a creature trading accuracy for extreme damage). Examples from the _Bestiary_ include the succubus's [Diplomacy](../../compendium/skills.md#Diplomacy) and the lich's spell DC.
+**Extreme:** The creature is world class in this statistic and can challenge almost any character. Most creatures have no extreme statistics or only one extreme statistic, although some creatures might have additional extreme statistics and weaker related statistics elsewhere (a common example being a creature trading accuracy for extreme damage). Examples from the _Bestiary_ include the succubus's [Diplomacy](compendium/skills.md#Diplomacy) and the lich's spell DC.
 
-**High:** Extremely capable but not world class, the creature presents a challenge for most characters. Just about all creatures have at least one high value. Most combat-focused creatures have high AC and either a high attack bonus and high damage, or a merely moderate attack bonus but extreme damage. An ogre warrior's attack bonus and a kobold scout's [Stealth](../../compendium/skills.md#Stealth) are high values.
+**High:** Extremely capable but not world class, the creature presents a challenge for most characters. Just about all creatures have at least one high value. Most combat-focused creatures have high AC and either a high attack bonus and high damage, or a merely moderate attack bonus but extreme damage. An ogre warrior's attack bonus and a kobold scout's [Stealth](compendium/skills.md#Stealth) are high values.
 
 **Moderate:** A middle-of-the road statistic can cover anything unremarkable about the creature. Use this one often.
 
@@ -109,7 +109,7 @@ When it comes to statistics, a creature should be balanced overall. That means i
 
 > [!pf2-brown] RESKINNING A CREATURE
 > 
-> Sometimes you need a creature with abilities that are almost exactly the same as those of a published creature. In that case, it can be more efficient to simply "reskin" the old creature rather than design a new one—that is, to change the description but keep the abilities mostly the same. Occasionally reskinning requires small mechanical adjustments. For instance, a fire cat that has immunity to fire, an aura that deals fire damage, and the ability to light people on fire with its jaws to deal [persistent fire damage](../conditions.md#Persistent%20Damage) could be reskinned as a caustic animate tree that has immunity to acid, an aura that deals acid damage, and branch attacks that smear acidic sap on a creature's body when they hit, dealing [persistent acid damage](../conditions.md#Persistent%20Damage).
+> Sometimes you need a creature with abilities that are almost exactly the same as those of a published creature. In that case, it can be more efficient to simply "reskin" the old creature rather than design a new one—that is, to change the description but keep the abilities mostly the same. Occasionally reskinning requires small mechanical adjustments. For instance, a fire cat that has immunity to fire, an aura that deals fire damage, and the ability to light people on fire with its jaws to deal [persistent fire damage](rules/conditions.md#Persistent%20Damage) could be reskinned as a caustic animate tree that has immunity to acid, an aura that deals acid damage, and branch attacks that smear acidic sap on a creature's body when they hit, dealing [persistent acid damage](rules/conditions.md#Persistent%20Damage).
 
 #### Extreme Increases
 <sup>GMG p. 58</sup>
@@ -142,7 +142,7 @@ Add any traits that have detailed rules attached to them, like amphibious, aquat
 > 
 > You can use the following suggestions to set the baseline when creating your road map. For example, use brute for a big, tough creature like an ogre, and skirmisher for a darting enemy. Each entry is a starting point you can customize as you see fit. Any core statistic that isn't listed should typically use moderate numbers. You can set ability modifiers and add additional abilities as needed. To make a creature that resembles a character of a certain class, see Class Road maps on page 73.
 > 
-> **Brute** low [Perception](../../compendium/skills.md#Perception); high or extreme Str modifier, high to moderate Con modifier, low or lower Dex and mental modifiers; moderate or low AC; high Fortitude, low Reflex or Will or both; high HP; high attack bonus and high damage or moderate attack bonus and extreme damage
+> **Brute** low [Perception](compendium/skills.md#Perception); high or extreme Str modifier, high to moderate Con modifier, low or lower Dex and mental modifiers; moderate or low AC; high Fortitude, low Reflex or Will or both; high HP; high attack bonus and high damage or moderate attack bonus and extreme damage
 > 
 > **Magical Striker** high attack and high damage; moderate to high spell DCs; either a scattering of innate spells or prepared or spontaneous spells up to half the creature's level (rounded up) minus 1
 > 
@@ -150,9 +150,9 @@ Add any traits that have detailed rules attached to them, like amphibious, aquat
 > 
 > **Skirmisher** high Dex modifier; low Fortitude, high Reflex; higher Speed than typical
 > 
-> **Sniper** high [Perception](../../compendium/skills.md#Perception); high Dex modifier; low Fortitude, high Reflex; moderate to low HP; ranged [Strikes](../actions/strike.md) have high attack bonus and damage or moderate attack bonus and extreme damage (melee [Strikes](../actions/strike.md) are weaker)
+> **Sniper** high [Perception](compendium/skills.md#Perception); high Dex modifier; low Fortitude, high Reflex; moderate to low HP; ranged [Strikes](rules/actions/strike.md) have high attack bonus and damage or moderate attack bonus and extreme damage (melee [Strikes](rules/actions/strike.md) are weaker)
 > 
-> **Soldier** high Str modifier; high to extreme AC; high Fortitude; high attack bonus and high damage; [Attack of Opportunity](../actions/attack-of-opportunity.md) or other tactical abilities
+> **Soldier** high Str modifier; high to extreme AC; high Fortitude; high attack bonus and high damage; [Attack of Opportunity](rules/actions/attack-of-opportunity.md) or other tactical abilities
 > 
 > **Spellcaster** high or extreme modifier for the corresponding mental ability; low Fortitude, high Will; low HP; low attack bonus and moderate or low damage; high or extreme spell DCs; prepared or spontaneous spells up to half the creature's level (rounded up)
 
@@ -161,7 +161,7 @@ Add any traits that have detailed rules attached to them, like amphibious, aquat
 
 Next, figure out your creature's ability modifiers, since these will suggest what their other statistics should be.
 
-You don't have to determine the exact numbers, but it's good to avoid creating creatures whose ability modifiers are at odds with their abilities, like creatures with a terrible Wisdom modifier and very high [Perception](../../compendium/skills.md#Perception). Most of the time, you'll just be using ability modifiers for untrained skills, so they're useful as a guide but not crucial.
+You don't have to determine the exact numbers, but it's good to avoid creating creatures whose ability modifiers are at odds with their abilities, like creatures with a terrible Wisdom modifier and very high [Perception](compendium/skills.md#Perception). Most of the time, you'll just be using ability modifiers for untrained skills, so they're useful as a guide but not crucial.
 
 Table 2–1 shows some benchmarks for your creatures.
 
@@ -175,85 +175,85 @@ This happens with only Large or larger creatures from 1st to 5th level, only Hug
 
 | Level | Extreme | High | Moderate | Low |
 |-------|---------|------|----------|-----|
-| –1 | — | `1d20+3` | `1d20+2` | `1d20+0` |
-| 0 | — | `1d20+3` | `1d20+2` | `1d20+0` |
-| 1 | `1d20+5` | `1d20+4` | `1d20+3` | `1d20+1` |
-| 2 | `1d20+5` | `1d20+4` | `1d20+3` | `1d20+1` |
-| 3 | `1d20+5` | `1d20+4` | `1d20+3` | `1d20+1` |
-| 4 | `1d20+6` | `1d20+5` | `1d20+3` | `1d20+2` |
-| 5 | `1d20+6` | `1d20+5` | `1d20+4` | `1d20+2` |
-| 6 | `1d20+7` | `1d20+5` | `1d20+4` | `1d20+2` |
-| 7 | `1d20+7` | `1d20+6` | `1d20+4` | `1d20+2` |
-| 8 | `1d20+7` | `1d20+6` | `1d20+4` | `1d20+3` |
-| 9 | `1d20+7` | `1d20+6` | `1d20+4` | `1d20+3` |
-| 10 | `1d20+8` | `1d20+7` | `1d20+5` | `1d20+3` |
-| 11 | `1d20+8` | `1d20+7` | `1d20+5` | `1d20+3` |
-| 12 | `1d20+8` | `1d20+7` | `1d20+5` | `1d20+4` |
-| 13 | `1d20+9` | `1d20+8` | `1d20+5` | `1d20+4` |
-| 14 | `1d20+9` | `1d20+8` | `1d20+5` | `1d20+4` |
-| 15 | `1d20+9` | `1d20+8` | `1d20+6` | `1d20+4` |
-| 16 | `1d20+10` | `1d20+9` | `1d20+6` | `1d20+5` |
-| 17 | `1d20+10` | `1d20+9` | `1d20+6` | `1d20+5` |
-| 18 | `1d20+10` | `1d20+9` | `1d20+6` | `1d20+5` |
-| 19 | `1d20+11` | `1d20+10` | `1d20+6` | `1d20+5` |
-| 20 | `1d20+11` | `1d20+10` | `1d20+7` | `1d20+6` |
-| 21 | `1d20+11` | `1d20+10` | `1d20+7` | `1d20+6` |
-| 22 | `1d20+11` | `1d20+10` | `1d20+8` | `1d20+6` |
-| 23 | `1d20+11` | `1d20+10` | `1d20+8` | `1d20+6` |
-| 24 | `1d20+13` | `1d20+12` | `1d20+9` | `1d20+7` |
+| –1 | — | +3 | +2 | +0 |
+| 0 | — | +3 | +2 | +0 |
+| 1 | +5 | +4 | +3 | +1 |
+| 2 | +5 | +4 | +3 | +1 |
+| 3 | +5 | +4 | +3 | +1 |
+| 4 | +6 | +5 | +3 | +2 |
+| 5 | +6 | +5 | +4 | +2 |
+| 6 | +7 | +5 | +4 | +2 |
+| 7 | +7 | +6 | +4 | +2 |
+| 8 | +7 | +6 | +4 | +3 |
+| 9 | +7 | +6 | +4 | +3 |
+| 10 | +8 | +7 | +5 | +3 |
+| 11 | +8 | +7 | +5 | +3 |
+| 12 | +8 | +7 | +5 | +4 |
+| 13 | +9 | +8 | +5 | +4 |
+| 14 | +9 | +8 | +5 | +4 |
+| 15 | +9 | +8 | +6 | +4 |
+| 16 | +10 | +9 | +6 | +5 |
+| 17 | +10 | +9 | +6 | +5 |
+| 18 | +10 | +9 | +6 | +5 |
+| 19 | +11 | +10 | +6 | +5 |
+| 20 | +11 | +10 | +7 | +6 |
+| 21 | +11 | +10 | +7 | +6 |
+| 22 | +11 | +10 | +8 | +6 |
+| 23 | +11 | +10 | +8 | +6 |
+| 24 | +13 | +12 | +9 | +7 |
 
 ### Perception
 <sup>GMG p. 60</sup>
 
-[Perception](../../compendium/skills.md#Perception) is a fairly straightforward statistic. Use Wisdom as a guide for setting it, and adjust to the high side if your creature has acute senses or extra training. If your creature has low Wisdom, for example, it would probably have a low [Perception](../../compendium/skills.md#Perception) modifier, or moderate if it's supposed to be a great hunter. Don't make your creature's [Perception](../../compendium/skills.md#Perception) higher just because it's often used for initiative; creatures with poor [Perception](../../compendium/skills.md#Perception) could use a skill check for initiative instead, such as [Stealth](../../compendium/skills.md#Stealth).
+[Perception](compendium/skills.md#Perception) is a fairly straightforward statistic. Use Wisdom as a guide for setting it, and adjust to the high side if your creature has acute senses or extra training. If your creature has low Wisdom, for example, it would probably have a low [Perception](compendium/skills.md#Perception) modifier, or moderate if it's supposed to be a great hunter. Don't make your creature's [Perception](compendium/skills.md#Perception) higher just because it's often used for initiative; creatures with poor [Perception](compendium/skills.md#Perception) could use a skill check for initiative instead, such as [Stealth](compendium/skills.md#Stealth).
 
 #### Senses
 <sup>GMG p. 60</sup>
 
-Choose or design any special senses for your creature, such as [low-light vision](../abilities/low-light-vision.md), [darkvision](../abilities/darkvision.md), or [scent](../abilities/scent.md). If you're making a sense from scratch, simply decide what it senses, whether it has a range limit, and whether it's precise or imprecise.
+Choose or design any special senses for your creature, such as [low-light vision](rules/abilities/low-light-vision.md), [darkvision](rules/abilities/darkvision.md), or [scent](rules/abilities/scent.md). If you're making a sense from scratch, simply decide what it senses, whether it has a range limit, and whether it's precise or imprecise.
 
 For example, a sinspawn has "sin scent (imprecise) 30 feet." This means it can smell creatures bearing its associated sin if they're within 30 feet, and the sense is imprecise—about as acute as human hearing.
 
 | Level | Extreme | High | Moderate | Low | Terrible |
 |-------|---------|------|----------|-----|----------|
-| –1 | `1d20+9` | `1d20+8` | `1d20+5` | `1d20+2` | `1d20+0` |
-| 0 | `1d20+10` | `1d20+9` | `1d20+6` | `1d20+3` | `1d20+1` |
-| 1 | `1d20+11` | `1d20+10` | `1d20+7` | `1d20+4` | `1d20+2` |
-| 2 | `1d20+12` | `1d20+11` | `1d20+8` | `1d20+5` | `1d20+3` |
-| 3 | `1d20+14` | `1d20+12` | `1d20+9` | `1d20+6` | `1d20+4` |
-| 4 | `1d20+15` | `1d20+14` | `1d20+11` | `1d20+8` | `1d20+6` |
-| 5 | `1d20+17` | `1d20+15` | `1d20+12` | `1d20+9` | `1d20+7` |
-| 6 | `1d20+18` | `1d20+17` | `1d20+14` | `1d20+11` | `1d20+8` |
-| 7 | `1d20+20` | `1d20+18` | `1d20+15` | `1d20+12` | `1d20+10` |
-| 8 | `1d20+21` | `1d20+19` | `1d20+16` | `1d20+13` | `1d20+11` |
-| 9 | `1d20+23` | `1d20+21` | `1d20+18` | `1d20+15` | `1d20+12` |
-| 10 | `1d20+24` | `1d20+22` | `1d20+19` | `1d20+16` | `1d20+14` |
-| 11 | `1d20+26` | `1d20+24` | `1d20+21` | `1d20+18` | `1d20+15` |
-| 12 | `1d20+27` | `1d20+25` | `1d20+22` | `1d20+19` | `1d20+16` |
-| 13 | `1d20+29` | `1d20+26` | `1d20+23` | `1d20+20` | `1d20+18` |
-| 14 | `1d20+30` | `1d20+28` | `1d20+25` | `1d20+22` | `1d20+19` |
-| 15 | `1d20+32` | `1d20+29` | `1d20+26` | `1d20+23` | `1d20+20` |
-| 16 | `1d20+33` | `1d20+30` | `1d20+28` | `1d20+25` | `1d20+22` |
-| 17 | `1d20+35` | `1d20+32` | `1d20+29` | `1d20+26` | `1d20+23` |
-| 18 | `1d20+36` | `1d20+33` | `1d20+30` | `1d20+27` | `1d20+24` |
-| 19 | `1d20+38` | `1d20+35` | `1d20+32` | `1d20+29` | `1d20+26` |
-| 20 | `1d20+39` | `1d20+36` | `1d20+33` | `1d20+30` | `1d20+27` |
-| 21 | `1d20+41` | `1d20+38` | `1d20+35` | `1d20+32` | `1d20+28` |
-| 22 | `1d20+43` | `1d20+39` | `1d20+36` | `1d20+33` | `1d20+30` |
-| 23 | `1d20+44` | `1d20+40` | `1d20+37` | `1d20+34` | `1d20+31` |
-| 24 | `1d20+46` | `1d20+42` | `1d20+38` | `1d20+36` | `1d20+32` |
+| –1 | +9 | +8 | +5 | +2 | +0 |
+| 0 | +10 | +9 | +6 | +3 | +1 |
+| 1 | +11 | +10 | +7 | +4 | +2 |
+| 2 | +12 | +11 | +8 | +5 | +3 |
+| 3 | +14 | +12 | +9 | +6 | +4 |
+| 4 | +15 | +14 | +11 | +8 | +6 |
+| 5 | +17 | +15 | +12 | +9 | +7 |
+| 6 | +18 | +17 | +14 | +11 | +8 |
+| 7 | +20 | +18 | +15 | +12 | +10 |
+| 8 | +21 | +19 | +16 | +13 | +11 |
+| 9 | +23 | +21 | +18 | +15 | +12 |
+| 10 | +24 | +22 | +19 | +16 | +14 |
+| 11 | +26 | +24 | +21 | +18 | +15 |
+| 12 | +27 | +25 | +22 | +19 | +16 |
+| 13 | +29 | +26 | +23 | +20 | +18 |
+| 14 | +30 | +28 | +25 | +22 | +19 |
+| 15 | +32 | +29 | +26 | +23 | +20 |
+| 16 | +33 | +30 | +28 | +25 | +22 |
+| 17 | +35 | +32 | +29 | +26 | +23 |
+| 18 | +36 | +33 | +30 | +27 | +24 |
+| 19 | +38 | +35 | +32 | +29 | +26 |
+| 20 | +39 | +36 | +33 | +30 | +27 |
+| 21 | +41 | +38 | +35 | +32 | +28 |
+| 22 | +43 | +39 | +36 | +33 | +30 |
+| 23 | +44 | +40 | +37 | +34 | +31 |
+| 24 | +46 | +42 | +38 | +36 | +32 |
 
 ### Languages
 <sup>GMG p. 60</sup>
 
-Think about what languages the creature would need to communicate with other creatures in its home. For instance, many intelligent undead speak Necril, and many creatures from the Darklands speak Undercommon. If you want your creature to be able to speak to the PCs, be sure it has Common; for a creature with no reason to speak the common tongue of your setting (such as most extraplanar creatures in a typical campaign), be sure it doesn't. Some creatures can understand language but can't vocalize; in this case, you can state that they can't speak any language. For creatures that need to be able to infiltrate and communicate wherever they go, you might give them [tongues](../../compendium/spells/tongues.md) or a similar ability as a constant innate spell.
+Think about what languages the creature would need to communicate with other creatures in its home. For instance, many intelligent undead speak Necril, and many creatures from the Darklands speak Undercommon. If you want your creature to be able to speak to the PCs, be sure it has Common; for a creature with no reason to speak the common tongue of your setting (such as most extraplanar creatures in a typical campaign), be sure it doesn't. Some creatures can understand language but can't vocalize; in this case, you can state that they can't speak any language. For creatures that need to be able to infiltrate and communicate wherever they go, you might give them [tongues](compendium/spells/tongues.md) or a similar ability as a constant innate spell.
 
 ### Skills
 <sup>GMG p. 60</sup>
 
 You have lots of flexibility in setting your creature's skills.
 
-Pick some skills you think are appropriate, and consider how good the creature is at them. High skills are roughly on par with a specialized PC of the creature's level, though they could be a little lower or higher. Most creatures have at least one high skill, but no more than three. The best skills should go with the best ability modifiers, and you might even want to estimate the creature's proficiency rank for these skills. Some skills can get a high bonus for free to fit the creature's theme, particularly [Lore](../../compendium/skills.md#Lore) skills.
+Pick some skills you think are appropriate, and consider how good the creature is at them. High skills are roughly on par with a specialized PC of the creature's level, though they could be a little lower or higher. Most creatures have at least one high skill, but no more than three. The best skills should go with the best ability modifiers, and you might even want to estimate the creature's proficiency rank for these skills. Some skills can get a high bonus for free to fit the creature's theme, particularly [Lore](compendium/skills.md#Lore) skills.
 
 > [!pf2-brown] CONVERTING FIRST EDITION CREATURES
 > 
@@ -267,41 +267,41 @@ Pick some skills you think are appropriate, and consider how good the creature i
 > - Damage reduction has been replaced with two options: resistance to all damage (possibly with exceptions), or more HP and a weakness. Immunities, Weaknesses, and Resistances on page 63 describes the distinction.
 > - If you want to convert spell resistance, you can give the creature a +1 status bonus to all saves against magic, or +2 if it had abnormally high spell resistance for its level.
 
-Most creatures don't have an extreme skill unless they are world class for their level, like a succubus's [Diplomacy](../../compendium/skills.md#Diplomacy). Having an extreme skill is less impactful than an extreme AC or attack bonus, but still might warrant a sacrifice elsewhere, especially if the creature also has more high skills than usual. There's no need for terrible skill modifiers, since an untrained skill usually represents that.
+Most creatures don't have an extreme skill unless they are world class for their level, like a succubus's [Diplomacy](compendium/skills.md#Diplomacy). Having an extreme skill is less impactful than an extreme AC or attack bonus, but still might warrant a sacrifice elsewhere, especially if the creature also has more high skills than usual. There's no need for terrible skill modifiers, since an untrained skill usually represents that.
 
 | Level | Extreme | High | Moderate | Low |
 |-------|---------|------|----------|-----|
-| –1 | `1d20+8` | `1d20+5` | `1d20+4` | `1d20+2` to `1d20+1` |
-| 0 | `1d20+9` | `1d20+6` | `1d20+5` | `1d20+3` to `1d20+2` |
-| 1 | `1d20+10` | `1d20+7` | `1d20+6` | `1d20+4` to `1d20+3` |
-| 2 | `1d20+11` | `1d20+8` | `1d20+7` | `1d20+5` to `1d20+4` |
-| 3 | `1d20+13` | `1d20+10` | `1d20+9` | `1d20+7` to `1d20+5` |
-| 4 | `1d20+15` | `1d20+12` | `1d20+10` | `1d20+8` to `1d20+7` |
-| 5 | `1d20+16` | `1d20+13` | `1d20+12` | `1d20+10` to `1d20+8` |
-| 6 | `1d20+18` | `1d20+15` | `1d20+13` | `1d20+11` to `1d20+9` |
-| 7 | `1d20+20` | `1d20+17` | `1d20+15` | `1d20+13` to `1d20+11` |
-| 8 | `1d20+21` | `1d20+18` | `1d20+16` | `1d20+14` to `1d20+12` |
-| 9 | `1d20+23` | `1d20+20` | `1d20+18` | `1d20+16` to `1d20+13` |
-| 10 | `1d20+25` | `1d20+22` | `1d20+19` | `1d20+17` to `1d20+15` |
-| 11 | `1d20+26` | `1d20+23` | `1d20+21` | `1d20+19` to `1d20+16` |
-| 12 | `1d20+28` | `1d20+25` | `1d20+22` | `1d20+20` to `1d20+17` |
-| 13 | `1d20+30` | `1d20+27` | `1d20+24` | `1d20+22` to `1d20+19` |
-| 14 | `1d20+31` | `1d20+28` | `1d20+25` | `1d20+23` to `1d20+20` |
-| 15 | `1d20+33` | `1d20+30` | `1d20+27` | `1d20+25` to `1d20+21` |
-| 16 | `1d20+35` | `1d20+32` | `1d20+28` | `1d20+26` to `1d20+23` |
-| 17 | `1d20+36` | `1d20+33` | `1d20+30` | `1d20+28` to `1d20+24` |
-| 18 | `1d20+38` | `1d20+35` | `1d20+31` | `1d20+29` to `1d20+25` |
-| 19 | `1d20+40` | `1d20+37` | `1d20+33` | `1d20+31` to `1d20+27` |
-| 20 | `1d20+41` | `1d20+38` | `1d20+34` | `1d20+32` to `1d20+28` |
-| 21 | `1d20+43` | `1d20+40` | `1d20+36` | `1d20+34` to `1d20+29` |
-| 22 | `1d20+45` | `1d20+42` | `1d20+37` | `1d20+35` to `1d20+31` |
-| 23 | `1d20+46` | `1d20+43` | `1d20+38` | `1d20+36` to `1d20+32` |
-| 24 | `1d20+48` | `1d20+45` | `1d20+40` | `1d20+38` to `1d20+33` |
+| –1 | +8 | +5 | +4 | +2 to +1 |
+| 0 | +9 | +6 | +5 | +3 to +2 |
+| 1 | +10 | +7 | +6 | +4 to +3 |
+| 2 | +11 | +8 | +7 | +5 to +4 |
+| 3 | +13 | +10 | +9 | +7 to +5 |
+| 4 | +15 | +12 | +10 | +8 to +7 |
+| 5 | +16 | +13 | +12 | +10 to +8 |
+| 6 | +18 | +15 | +13 | +11 to +9 |
+| 7 | +20 | +17 | +15 | +13 to +11 |
+| 8 | +21 | +18 | +16 | +14 to +12 |
+| 9 | +23 | +20 | +18 | +16 to +13 |
+| 10 | +25 | +22 | +19 | +17 to +15 |
+| 11 | +26 | +23 | +21 | +19 to +16 |
+| 12 | +28 | +25 | +22 | +20 to +17 |
+| 13 | +30 | +27 | +24 | +22 to +19 |
+| 14 | +31 | +28 | +25 | +23 to +20 |
+| 15 | +33 | +30 | +27 | +25 to +21 |
+| 16 | +35 | +32 | +28 | +26 to +23 |
+| 17 | +36 | +33 | +30 | +28 to +24 |
+| 18 | +38 | +35 | +31 | +29 to +25 |
+| 19 | +40 | +37 | +33 | +31 to +27 |
+| 20 | +41 | +38 | +34 | +32 to +28 |
+| 21 | +43 | +40 | +36 | +34 to +29 |
+| 22 | +45 | +42 | +37 | +35 to +31 |
+| 23 | +46 | +43 | +38 | +36 to +32 |
+| 24 | +48 | +45 | +40 | +38 to +33 |
 
 #### Special Modifiers
 <sup>GMG p. 61</sup>
 
-You can also add special, thematic modifiers for certain skill uses. For instance, you might give a creature that secretes adhesive "[Athletics](../../compendium/skills.md#Athletics) `1d20+7` (`1d20+9` to [Climb](../actions/climb.md) or [Grab](../abilities/grab.md))." This special bonus should still remain at or below the extreme number, especially if it has a combat purpose like the Grab bonus above.
+You can also add special, thematic modifiers for certain skill uses. For instance, you might give a creature that secretes adhesive "[Athletics](compendium/skills.md#Athletics) +7 (+9 to [Climb](rules/actions/climb.md) or [Grab](rules/abilities/grab.md))." This special bonus should still remain at or below the extreme number, especially if it has a combat purpose like the Grab bonus above.
 
 ### Items
 <sup>GMG p. 61</sup>
@@ -375,9 +375,9 @@ You might adjust your creature's HP, AC, and saves in tandem. Almost no creature
 
 > [!pf2-brown] IMPROVISING A CREATURE
 > 
-> As you get more experienced, you might find that you don't need to build some creatures in advance. In many cases, especially for simple creatures, you can just select values from the relevant tables on the fly and track its HP. When you do, track which value you used as it came up. For instance, let's say you're improvising a 2nd-level kobold soldier. When it's time for initiative, you decide it has moderate [Perception](../../compendium/skills.md#Perception) and jot down "Per +8." Your group's fighter beats it at initiative and attacks. You decide the soldier has high AC—looking at Table 2–5, you see that's 18—and add this information to your note.
+> As you get more experienced, you might find that you don't need to build some creatures in advance. In many cases, especially for simple creatures, you can just select values from the relevant tables on the fly and track its HP. When you do, track which value you used as it came up. For instance, let's say you're improvising a 2nd-level kobold soldier. When it's time for initiative, you decide it has moderate [Perception](compendium/skills.md#Perception) and jot down "Per +8." Your group's fighter beats it at initiative and attacks. You decide the soldier has high AC—looking at Table 2–5, you see that's 18—and add this information to your note.
 > 
-> The fighter's [Strike](../actions/strike.md) hits, and you select the low end of high HP: 36. Well, now it's 25. Your note says "Per +8, AC 18, HP 25." If it gets to take a turn, you can give it a [Strike](../actions/strike.md) then.
+> The fighter's [Strike](rules/actions/strike.md) hits, and you select the low end of high HP: 36. Well, now it's 25. Your note says "Per +8, AC 18, HP 25." If it gets to take a turn, you can give it a [Strike](rules/actions/strike.md) then.
 
 ### Saving Throws
 <sup>GMG p. 62</sup>
@@ -388,32 +388,32 @@ Extreme saves often pair with extreme or high ability modifiers. Almost no creat
 
 | Level | Extreme | High | Moderate | Low | Terrible |
 |-------|---------|------|----------|-----|----------|
-| –1 | `1d20+9` | `1d20+8` | `1d20+5` | `1d20+2` | `1d20+0` |
-| 0 | `1d20+10` | `1d20+9` | `1d20+6` | `1d20+3` | `1d20+1` |
-| 1 | `1d20+11` | `1d20+10` | `1d20+7` | `1d20+4` | `1d20+2` |
-| 2 | `1d20+12` | `1d20+11` | `1d20+8` | `1d20+5` | `1d20+3` |
-| 3 | `1d20+14` | `1d20+12` | `1d20+9` | `1d20+6` | `1d20+4` |
-| 4 | `1d20+15` | `1d20+14` | `1d20+11` | `1d20+8` | `1d20+6` |
-| 5 | `1d20+17` | `1d20+15` | `1d20+12` | `1d20+9` | `1d20+7` |
-| 6 | `1d20+18` | `1d20+17` | `1d20+14` | `1d20+11` | `1d20+8` |
-| 7 | `1d20+20` | `1d20+18` | `1d20+15` | `1d20+12` | `1d20+10` |
-| 8 | `1d20+21` | `1d20+19` | `1d20+16` | `1d20+13` | `1d20+11` |
-| 9 | `1d20+23` | `1d20+21` | `1d20+18` | `1d20+15` | `1d20+12` |
-| 10 | `1d20+24` | `1d20+22` | `1d20+19` | `1d20+16` | `1d20+14` |
-| 11 | `1d20+26` | `1d20+24` | `1d20+21` | `1d20+18` | `1d20+15` |
-| 12 | `1d20+27` | `1d20+25` | `1d20+22` | `1d20+19` | `1d20+16` |
-| 13 | `1d20+29` | `1d20+26` | `1d20+23` | `1d20+20` | `1d20+18` |
-| 14 | `1d20+30` | `1d20+28` | `1d20+25` | `1d20+22` | `1d20+19` |
-| 15 | `1d20+32` | `1d20+29` | `1d20+26` | `1d20+23` | `1d20+20` |
-| 16 | `1d20+33` | `1d20+30` | `1d20+28` | `1d20+25` | `1d20+22` |
-| 17 | `1d20+35` | `1d20+32` | `1d20+29` | `1d20+26` | `1d20+23` |
-| 18 | `1d20+36` | `1d20+33` | `1d20+30` | `1d20+27` | `1d20+24` |
-| 19 | `1d20+38` | `1d20+35` | `1d20+32` | `1d20+29` | `1d20+26` |
-| 20 | `1d20+39` | `1d20+36` | `1d20+33` | `1d20+30` | `1d20+27` |
-| 21 | `1d20+41` | `1d20+38` | `1d20+35` | `1d20+32` | `1d20+28` |
-| 22 | `1d20+43` | `1d20+39` | `1d20+36` | `1d20+33` | `1d20+30` |
-| 23 | `1d20+44` | `1d20+40` | `1d20+37` | `1d20+34` | `1d20+31` |
-| 24 | `1d20+46` | `1d20+42` | `1d20+38` | `1d20+36` | `1d20+32` |
+| –1 | +9 | +8 | +5 | +2 | +0 |
+| 0 | +10 | +9 | +6 | +3 | +1 |
+| 1 | +11 | +10 | +7 | +4 | +2 |
+| 2 | +12 | +11 | +8 | +5 | +3 |
+| 3 | +14 | +12 | +9 | +6 | +4 |
+| 4 | +15 | +14 | +11 | +8 | +6 |
+| 5 | +17 | +15 | +12 | +9 | +7 |
+| 6 | +18 | +17 | +14 | +11 | +8 |
+| 7 | +20 | +18 | +15 | +12 | +10 |
+| 8 | +21 | +19 | +16 | +13 | +11 |
+| 9 | +23 | +21 | +18 | +15 | +12 |
+| 10 | +24 | +22 | +19 | +16 | +14 |
+| 11 | +26 | +24 | +21 | +18 | +15 |
+| 12 | +27 | +25 | +22 | +19 | +16 |
+| 13 | +29 | +26 | +23 | +20 | +18 |
+| 14 | +30 | +28 | +25 | +22 | +19 |
+| 15 | +32 | +29 | +26 | +23 | +20 |
+| 16 | +33 | +30 | +28 | +25 | +22 |
+| 17 | +35 | +32 | +29 | +26 | +23 |
+| 18 | +36 | +33 | +30 | +27 | +24 |
+| 19 | +38 | +35 | +32 | +29 | +26 |
+| 20 | +39 | +36 | +33 | +30 | +27 |
+| 21 | +41 | +38 | +35 | +32 | +28 |
+| 22 | +43 | +39 | +36 | +33 | +30 |
+| 23 | +44 | +40 | +37 | +34 | +31 |
+| 24 | +46 | +42 | +38 | +36 | +32 |
 
 ### Hit Points
 <sup>GMG p. 62</sup>
@@ -425,7 +425,7 @@ Hit Points are closely tied in with immunities, weaknesses, and resistances, so 
 #### Regeneration and Healing Abilities
 <sup>GMG p. 62</sup>
 
-Your creature might have regeneration, fast healing, or some other ability to heal itself. These healing abilities can greatly affect the flow of a fight. Regeneration or fast healing heals some number of hits each round—usually one to one and a half hits. To determine the number of Hit Points it should restore, look at the high damage value on Table 2–10: [Strike](../actions/strike.md) Damage (page 65) and multiply that value by the number of hits healed. For instance, if the high damage is 20, regeneration between 20 to 30 makes sense. The value should be higher if the regeneration is easy to overcome—and remember that most regeneration gets easier to overcome at higher levels. Also, you might want to decrease the creature's total HP by double its regeneration value. Fast healing follows the same rules, but because it can't prevent a creature's death and there isn't always have a way to deactivate it, you might want to give the creature more HP instead of fast healing to keep things simple.
+Your creature might have regeneration, fast healing, or some other ability to heal itself. These healing abilities can greatly affect the flow of a fight. Regeneration or fast healing heals some number of hits each round—usually one to one and a half hits. To determine the number of Hit Points it should restore, look at the high damage value on Table 2–10: [Strike](rules/actions/strike.md) Damage (page 65) and multiply that value by the number of hits healed. For instance, if the high damage is 20, regeneration between 20 to 30 makes sense. The value should be higher if the regeneration is easy to overcome—and remember that most regeneration gets easier to overcome at higher levels. Also, you might want to decrease the creature's total HP by double its regeneration value. Fast healing follows the same rules, but because it can't prevent a creature's death and there isn't always have a way to deactivate it, you might want to give the creature more HP instead of fast healing to keep things simple.
 
 If a creature can use an ability that heals it, that ability typically restores more HP since it costs actions. An at-will healing ability should be based on a _heal_ spell 2 levels lower than the highest-level spell a creature of that level could ordinarily cast (for example, an 11th-level creature can typically cast up to 6th-level spells, so you would base its healing ability on a 4th-level _heal_ spell). If the ability both deals damage and heals, use that same baseline scale from above but with _vampiric touch_ instead of _heal_
 
@@ -463,7 +463,7 @@ If a creature can use an ability that heals it, that ability typically restores 
 
 If it's highly thematic for a creature to have an immunity, weakness, or resistance, consider adding it. Table 2–8 lists the ranges for weaknesses and resistances by level.
 
-Immunities are generally reserved for creatures made of an unusual substance (like a fire elemental being immune to fire). You can also give an immunity if a creature's biology or construction would logically cause it to be unaffected (like a mindless creature's immunity to [mental](../traits/mental.md) effects)
+Immunities are generally reserved for creatures made of an unusual substance (like a fire elemental being immune to fire). You can also give an immunity if a creature's biology or construction would logically cause it to be unaffected (like a mindless creature's immunity to [mental](rules/traits/mental.md "Mental Effect Trait") effects)
 
 If the creature should be hard to affect with something but the conditions above aren't true, give it a resistance instead. For instance, a giant octopus isn't actually made of cold water, so it wouldn't be immune to cold, but its life in the ocean depths make it resistant to cold. You'll typically use the lower end of the value on Table 2–8 for a broad resistance that applies to a wide range of effects, like "physical 5 (except silver)" and the higher end for something narrower, like a single damage type. A creature with a resistance, especially a broad resistance or a physical resistance, usually has fewer HP.
 
@@ -509,12 +509,12 @@ Your creature's Speed should be 25 feet if it moves like a human. Beyond that, y
 
 Creatures can have climb and swim Speeds even at low levels. While you can give your creature a fly Speed at those low levels, it's better to wait until around 7th level (when PCs gain access to _fly_) to give your creature a fly Speed if it also has ranged attacks or another way to harry the PCs from a distance indefinitely.
 
-### [Strikes](../actions/strike.md)
+### Strikes
 <sup>GMG p. 64</sup>
 
-When building your creature's selection of [Strikes](../actions/strike.md), use the following sections to set the [Strike](../actions/strike.md)'s attack bonus and damage. Give the attack all the normal traits if it's a weapon; for unarmed attacks or weapons you invent, give whatever traits you feel are appropriate. Note that these traits might influence the damage you give the [Strike](../actions/strike.md).
+When building your creature's selection of [Strikes](rules/actions/strike.md), use the following sections to set the [Strike](rules/actions/strike.md)'s attack bonus and damage. Give the attack all the normal traits if it's a weapon; for unarmed attacks or weapons you invent, give whatever traits you feel are appropriate. Note that these traits might influence the damage you give the [Strike](rules/actions/strike.md).
 
-You might want to make sure a creature has an unarmed attack if you think it's likely to get disarmed. At 7th level and higher, PCs might have the ability to fly, which makes it more important for creatures to have decent ranged [Strikes](../actions/strike.md) to make sure they aren't totally hopeless against flying PCs (though they could instead have fast fly Speeds or something similar)
+You might want to make sure a creature has an unarmed attack if you think it's likely to get disarmed. At 7th level and higher, PCs might have the ability to fly, which makes it more important for creatures to have decent ranged [Strikes](rules/actions/strike.md) to make sure they aren't totally hopeless against flying PCs (though they could instead have fast fly Speeds or something similar)
 
 #### Strike Attack Bonus
 <sup>GMG p. 64</sup>
@@ -523,45 +523,45 @@ Use a high attack bonus for combat creatures—fighter types—that also usually
 
 | Level | Extreme | High | Moderate | Low |
 |-------|---------|------|----------|-----|
-| –1 | `1d20+10` | `1d20+8` | `1d20+6` | `1d20+4` |
-| 0 | `1d20+10` | `1d20+8` | `1d20+6` | `1d20+4` |
-| 1 | `1d20+11` | `1d20+9` | `1d20+7` | `1d20+5` |
-| 2 | `1d20+13` | `1d20+11` | `1d20+9` | `1d20+7` |
-| 3 | `1d20+14` | `1d20+12` | `1d20+10` | `1d20+8` |
-| 4 | `1d20+16` | `1d20+14` | `1d20+12` | `1d20+9` |
-| 5 | `1d20+17` | `1d20+15` | `1d20+13` | `1d20+11` |
-| 6 | `1d20+19` | `1d20+17` | `1d20+15` | `1d20+12` |
-| 7 | `1d20+20` | `1d20+18` | `1d20+16` | `1d20+13` |
-| 8 | `1d20+22` | `1d20+20` | `1d20+18` | `1d20+15` |
-| 9 | `1d20+23` | `1d20+21` | `1d20+19` | `1d20+16` |
-| 10 | `1d20+25` | `1d20+23` | `1d20+21` | `1d20+17` |
-| 11 | `1d20+27` | `1d20+24` | `1d20+22` | `1d20+19` |
-| 12 | `1d20+28` | `1d20+26` | `1d20+24` | `1d20+20` |
-| 13 | `1d20+29` | `1d20+27` | `1d20+25` | `1d20+21` |
-| 14 | `1d20+31` | `1d20+29` | `1d20+27` | `1d20+23` |
-| 15 | `1d20+32` | `1d20+30` | `1d20+28` | `1d20+24` |
-| 16 | `1d20+34` | `1d20+32` | `1d20+30` | `1d20+25` |
-| 17 | `1d20+35` | `1d20+33` | `1d20+31` | `1d20+27` |
-| 18 | `1d20+37` | `1d20+35` | `1d20+33` | `1d20+28` |
-| 19 | `1d20+38` | `1d20+36` | `1d20+34` | `1d20+29` |
-| 20 | `1d20+40` | `1d20+38` | `1d20+36` | `1d20+31` |
-| 21 | `1d20+41` | `1d20+39` | `1d20+37` | `1d20+32` |
-| 22 | `1d20+43` | `1d20+41` | `1d20+39` | `1d20+33` |
-| 23 | `1d20+44` | `1d20+42` | `1d20+40` | `1d20+35` |
-| 24 | `1d20+46` | `1d20+44` | `1d20+42` | `1d20+36` |
+| –1 | +10 | +8 | +6 | +4 |
+| 0 | +10 | +8 | +6 | +4 |
+| 1 | +11 | +9 | +7 | +5 |
+| 2 | +13 | +11 | +9 | +7 |
+| 3 | +14 | +12 | +10 | +8 |
+| 4 | +16 | +14 | +12 | +9 |
+| 5 | +17 | +15 | +13 | +11 |
+| 6 | +19 | +17 | +15 | +12 |
+| 7 | +20 | +18 | +16 | +13 |
+| 8 | +22 | +20 | +18 | +15 |
+| 9 | +23 | +21 | +19 | +16 |
+| 10 | +25 | +23 | +21 | +17 |
+| 11 | +27 | +24 | +22 | +19 |
+| 12 | +28 | +26 | +24 | +20 |
+| 13 | +29 | +27 | +25 | +21 |
+| 14 | +31 | +29 | +27 | +23 |
+| 15 | +32 | +30 | +28 | +24 |
+| 16 | +34 | +32 | +30 | +25 |
+| 17 | +35 | +33 | +31 | +27 |
+| 18 | +37 | +35 | +33 | +28 |
+| 19 | +38 | +36 | +34 | +29 |
+| 20 | +40 | +38 | +36 | +31 |
+| 21 | +41 | +39 | +37 | +32 |
+| 22 | +43 | +41 | +39 | +33 |
+| 23 | +44 | +42 | +40 | +35 |
+| 24 | +46 | +44 | +42 | +36 |
 
 #### Strike Damage
 <sup>GMG p. 64</sup>
 
-Table 2–10 on the next page gives the damage a creature should deal with a single [Strike](../actions/strike.md). You might use a lower category if the creature has better accuracy, or a higher category if its accuracy is lower.
+Table 2–10 on the next page gives the damage a creature should deal with a single [Strike](rules/actions/strike.md). You might use a lower category if the creature has better accuracy, or a higher category if its accuracy is lower.
 
-A creature that's meant to be primarily a combat threat uses high damage for its melee [Strikes](../actions/strike.md), or moderate for melee [Strikes](../actions/strike.md) that have the [agile](../traits/agile.md) trait. Ranged attacks more typically use the moderate value, or even low. A creature that's meant to be highly damaging uses the extreme damage values, but might then have a moderate attack bonus. As with most statistics, extreme damage is more likely at higher levels. You can also use the extreme value for special attacks that the creature can use only a limited number of times or under circumstances that aren't likely to happen every round.
+A creature that's meant to be primarily a combat threat uses high damage for its melee [Strikes](rules/actions/strike.md), or moderate for melee [Strikes](rules/actions/strike.md) that have the [agile](rules/traits/agile.md "Agile Weapon Trait") trait. Ranged attacks more typically use the moderate value, or even low. A creature that's meant to be highly damaging uses the extreme damage values, but might then have a moderate attack bonus. As with most statistics, extreme damage is more likely at higher levels. You can also use the extreme value for special attacks that the creature can use only a limited number of times or under circumstances that aren't likely to happen every round.
 
-More versatile creatures, such as ones that can cast some spells and aren't meant to primarily get their damage through [Strikes](../actions/strike.md), go one category lower: moderate for their main melee [Strikes](../actions/strike.md), low for agile and ranged [Strikes](../actions/strike.md).
+More versatile creatures, such as ones that can cast some spells and aren't meant to primarily get their damage through [Strikes](rules/actions/strike.md), go one category lower: moderate for their main melee [Strikes](rules/actions/strike.md), low for agile and ranged [Strikes](rules/actions/strike.md).
 
-Spellcasters and other creatures that aren't meant to be competent in a direct fight might use the low damage value, or even less if they completely don't care about their [Strikes](../actions/strike.md).
+Spellcasters and other creatures that aren't meant to be competent in a direct fight might use the low damage value, or even less if they completely don't care about their [Strikes](rules/actions/strike.md).
 
-On Table 2–10, you'll find a damage expression (a die roll or rolls plus a flat modifier) you can use as is, or you can take the damage in parentheses and build your own damage expression to hit that number. If you do the latter, remember that a d4 counts as 2.5 damage, a d6 as 3.5, a d8 as 4.5, a d10 as 5.5, and a d12 as 6.5. Usually a damage expression works best when roughly half the damage is from dice and half is from the flat modifier. If your creature deals special damage, like `1d6` fire from flaming attacks, that counts toward its total damage per [Strike](../actions/strike.md). Keep in mind that a creature using a weapon should have a damage value that feels right for that weapon. Extreme damage works well for two-handed weapons that uses d10s or d12s for damage. On the other hand, a dagger uses only d4s, so a dagger wielder would need something like sneak attack to deal extreme damage, or you might compensate for the dagger's lower damage per [Strike](../actions/strike.md) by giving the creature the ability to attack more efficiently or use other tricks.
+On Table 2–10, you'll find a damage expression (a die roll or rolls plus a flat modifier) you can use as is, or you can take the damage in parentheses and build your own damage expression to hit that number. If you do the latter, remember that a d4 counts as 2.5 damage, a d6 as 3.5, a d8 as 4.5, a d10 as 5.5, and a d12 as 6.5. Usually a damage expression works best when roughly half the damage is from dice and half is from the flat modifier. If your creature deals special damage, like `1d6` fire from flaming attacks, that counts toward its total damage per [Strike](rules/actions/strike.md). Keep in mind that a creature using a weapon should have a damage value that feels right for that weapon. Extreme damage works well for two-handed weapons that uses d10s or d12s for damage. On the other hand, a dagger uses only d4s, so a dagger wielder would need something like sneak attack to deal extreme damage, or you might compensate for the dagger's lower damage per [Strike](rules/actions/strike.md) by giving the creature the ability to attack more efficiently or use other tricks.
 
 | Level | Extreme | High | Moderate | Low |
 |-------|---------|------|----------|-----|
@@ -594,7 +594,7 @@ On Table 2–10, you'll find a damage expression (a die roll or rolls plus a fla
 
 > [!pf2-brown] MANUFACTURED WEAPONS
 > 
-> As noted in Items on page 61, most creatures have less treasure than PCs, so those that rely on manufactured weapons are significantly weaker if you don't adjust the weapons' damage to compensate. The method for determining [Strike](../actions/strike.md) damage on page 64 abstracts over the sources of damage so you don't have to worry about adjusting the weapon's damage. If you do decide to calculate the weapon's damage, give your creature weapon specialization or greater weapon specialization much earlier than a PC would get it. You might also need to add sneak attack or similar abilities to make the creature deal more damage.
+> As noted in Items on page 61, most creatures have less treasure than PCs, so those that rely on manufactured weapons are significantly weaker if you don't adjust the weapons' damage to compensate. The method for determining [Strike](rules/actions/strike.md) damage on page 64 abstracts over the sources of damage so you don't have to worry about adjusting the weapon's damage. If you do decide to calculate the weapon's damage, give your creature weapon specialization or greater weapon specialization much earlier than a PC would get it. You might also need to add sneak attack or similar abilities to make the creature deal more damage.
 > 
 > On the flip side, you might want to use a one-off creature as a source of a particularly high-level piece of treasure, such as a magic weapon. In these cases, you might want to make the attack bonus higher for the potency rune or the damage higher for a potent striking rune so the PCs feel the weapon's effect before they obtain it. This will make the treasure feel more powerful, since they've already been on the receiving end.
 
@@ -603,11 +603,11 @@ On Table 2–10, you'll find a damage expression (a die roll or rolls plus a fla
 
 Your creature might have magical abilities that are best represented by spells. If you're making a highly spellcasting-themed creature, give it prepared or spontaneous spells. For a creature that has spells due to its magical nature, especially if that magic isn't its core focus, consider giving it some innate spells instead.
 
-How many spells you should give a creature depends on how you expect it to spend its actions in combat. If it's primarily going to be making [Strikes](../actions/strike.md), it might not have any spells, or it might just have a few to help it move around better or protect against certain types of magic.
+How many spells you should give a creature depends on how you expect it to spend its actions in combat. If it's primarily going to be making [Strikes](rules/actions/strike.md), it might not have any spells, or it might just have a few to help it move around better or protect against certain types of magic.
 
 When choosing spells, lean hard into the creature's theme. While many PCs choose spells to cover a wide variety of situations, creatures are more evocative the more focused they are. Consider selecting about three-quarters of the spells based on relevance to the theme and the remainder for other things. However, make sure the spells aren't one note—selecting _fireball_ for most of a creature's spell slots doesn't make for a compelling fire creature in the way a diverse selection of fire spells would.
 
-When choosing spells, some spells won't be very useful if cast at an extremely low level compared to the creature's levels. Most notably, damaging spells drop off in usefulness for a creature that's expected to last only a single fight. A damaging spell 2 levels below the highest level a creature of that level can cast is still potentially useful, but beyond that, don't bother. Spells that have the [incapacitation](../traits/incapacitation.md) trait should be in the highest level slot if you want the creature to potentially get their full effect against PCs.
+When choosing spells, some spells won't be very useful if cast at an extremely low level compared to the creature's levels. Most notably, damaging spells drop off in usefulness for a creature that's expected to last only a single fight. A damaging spell 2 levels below the highest level a creature of that level can cast is still potentially useful, but beyond that, don't bother. Spells that have the [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait") trait should be in the highest level slot if you want the creature to potentially get their full effect against PCs.
 
 #### Spell Dc and Spell Attack Roll
 <sup>GMG p. 65</sup>
@@ -616,7 +616,7 @@ Set the creature's spell DC and spell attack roll using Table 2–11 on page 66.
 
 Use the high numbers for primary casters, and the moderate numbers for creatures that have some supplemental spells but are focused more on combat.
 
-At 15th level and higher, the extreme numbers become standard for spellcasters. A few creatures might use the extreme numbers at lower levels, but they tend to be highly specialized, with very weak defenses and [Strikes](../actions/strike.md).
+At 15th level and higher, the extreme numbers become standard for spellcasters. A few creatures might use the extreme numbers at lower levels, but they tend to be highly specialized, with very weak defenses and [Strikes](rules/actions/strike.md).
 
 Secondary spellcasters can go up to high numbers if they're above 15th level and have offensive spells. There is no low value—the creature shouldn't have any spells in the first place if it would be that bad at using them!
 
@@ -642,32 +642,32 @@ Though you can achieve all sorts of things with innate spells, always start with
 
 | Level | Extreme DC | Extreme Spell Attack Bonus | High DC | High Spell Attack Bonus | Moderate DC | Moderate Spell Attack Bonus |
 |-------|------------|----------------------------|---------|-------------------------|-------------|-----------------------------|
-| –1 | 19 | `1d20+11` | 16 | `1d20+8` | 13 | `1d20+5` |
-| 0 | 19 | `1d20+11` | 16 | `1d20+8` | 13 | `1d20+5` |
-| 1 | 20 | `1d20+12` | 17 | `1d20+9` | 14 | `1d20+6` |
-| 2 | 22 | `1d20+14` | 18 | `1d20+10` | 15 | `1d20+7` |
-| 3 | 23 | `1d20+15` | 20 | `1d20+12` | 17 | `1d20+9` |
-| 4 | 25 | `1d20+17` | 21 | `1d20+13` | 18 | `1d20+10` |
-| 5 | 26 | `1d20+18` | 22 | `1d20+14` | 19 | `1d20+11` |
-| 6 | 27 | `1d20+19` | 24 | `1d20+16` | 21 | `1d20+13` |
-| 7 | 29 | `1d20+21` | 25 | `1d20+17` | 22 | `1d20+14` |
-| 8 | 30 | `1d20+22` | 26 | `1d20+18` | 23 | `1d20+15` |
-| 9 | 32 | `1d20+24` | 28 | `1d20+20` | 25 | `1d20+17` |
-| 10 | 33 | `1d20+25` | 29 | `1d20+21` | 26 | `1d20+18` |
-| 11 | 34 | `1d20+26` | 30 | `1d20+22` | 27 | `1d20+19` |
-| 12 | 36 | `1d20+28` | 32 | `1d20+24` | 29 | `1d20+21` |
-| 13 | 37 | `1d20+29` | 33 | `1d20+25` | 30 | `1d20+22` |
-| 14 | 39 | `1d20+31` | 34 | `1d20+26` | 31 | `1d20+23` |
-| 15 | 40 | `1d20+32` | 36 | `1d20+28` | 33 | `1d20+25` |
-| 16 | 41 | `1d20+33` | 37 | `1d20+29` | 34 | `1d20+26` |
-| 17 | 43 | `1d20+35` | 38 | `1d20+30` | 35 | `1d20+27` |
-| 18 | 44 | `1d20+36` | 40 | `1d20+32` | 37 | `1d20+29` |
-| 19 | 46 | `1d20+38` | 41 | `1d20+33` | 38 | `1d20+30` |
-| 20 | 47 | `1d20+39` | 42 | `1d20+34` | 39 | `1d20+31` |
-| 21 | 48 | `1d20+40` | 44 | `1d20+36` | 41 | `1d20+33` |
-| 22 | 50 | `1d20+42` | 45 | `1d20+37` | 42 | `1d20+34` |
-| 23 | 51 | `1d20+43` | 46 | `1d20+38` | 43 | `1d20+35` |
-| 24 | 52 | `1d20+44` | 48 | `1d20+40` | 45 | `1d20+37` |
+| –1 | 19 | +11 | 16 | +8 | 13 | +5 |
+| 0 | 19 | +11 | 16 | +8 | 13 | +5 |
+| 1 | 20 | +12 | 17 | +9 | 14 | +6 |
+| 2 | 22 | +14 | 18 | +10 | 15 | +7 |
+| 3 | 23 | +15 | 20 | +12 | 17 | +9 |
+| 4 | 25 | +17 | 21 | +13 | 18 | +10 |
+| 5 | 26 | +18 | 22 | +14 | 19 | +11 |
+| 6 | 27 | +19 | 24 | +16 | 21 | +13 |
+| 7 | 29 | +21 | 25 | +17 | 22 | +14 |
+| 8 | 30 | +22 | 26 | +18 | 23 | +15 |
+| 9 | 32 | +24 | 28 | +20 | 25 | +17 |
+| 10 | 33 | +25 | 29 | +21 | 26 | +18 |
+| 11 | 34 | +26 | 30 | +22 | 27 | +19 |
+| 12 | 36 | +28 | 32 | +24 | 29 | +21 |
+| 13 | 37 | +29 | 33 | +25 | 30 | +22 |
+| 14 | 39 | +31 | 34 | +26 | 31 | +23 |
+| 15 | 40 | +32 | 36 | +28 | 33 | +25 |
+| 16 | 41 | +33 | 37 | +29 | 34 | +26 |
+| 17 | 43 | +35 | 38 | +30 | 35 | +27 |
+| 18 | 44 | +36 | 40 | +32 | 37 | +29 |
+| 19 | 46 | +38 | 41 | +33 | 38 | +30 |
+| 20 | 47 | +39 | 42 | +34 | 39 | +31 |
+| 21 | 48 | +40 | 44 | +36 | 41 | +33 |
+| 22 | 50 | +42 | 45 | +37 | 42 | +34 |
+| 23 | 51 | +43 | 46 | +38 | 43 | +35 |
+| 24 | 52 | +44 | 48 | +40 | 45 | +37 |
 
 #### Rituals
 <sup>GMG p. 67</sup>
@@ -703,7 +703,7 @@ Understanding a creature's action economy is key for making it work in play. Rem
 
 Reactions can help, giving the creature a way to act when it's not its turn. See Reactive Abilities on page 69 for advice on designing these tricky abilities.
 
-Because of PC capabilities at higher levels, creatures at those levels should get more abilities that improve their action economy. For instance, creatures that grapple should have [Improved Grab](../abilities/improved-grab.md) instead of Grab, Speeds should be higher, and many abilities that would have cost an action at a lower level should be free actions.
+Because of PC capabilities at higher levels, creatures at those levels should get more abilities that improve their action economy. For instance, creatures that grapple should have [Improved Grab](rules/abilities/improved-grab.md) instead of Grab, Speeds should be higher, and many abilities that would have cost an action at a lower level should be free actions.
 
 ##### Level Appropriateness
 <sup>GMG p. 67</sup>
@@ -713,7 +713,7 @@ The effects of an ability should be appropriate to the creature's level. For dam
 ##### Invisible Abilities
 <sup>GMG p. 68</sup>
 
-Avoid abilities that do nothing but change the creature's math, also known as "[invisible](../conditions.md#Invisible) abilities." These alter a creature's statistics in a way that's [invisible](../conditions.md#Invisible) to the players, which makes the creature less engaging because the players don't see it using its abilities in a tangible or evocative way. For example, an ability that allows a creature to use an action to increase its accuracy for the round with no outward sign (or worse, just grants a passive bonus to its accuracy) isn't that compelling, whereas one that increases its damage by lighting its arrows on fire is noticeable.
+Avoid abilities that do nothing but change the creature's math, also known as "[invisible](rules/conditions.md#Invisible) abilities." These alter a creature's statistics in a way that's [invisible](rules/conditions.md#Invisible) to the players, which makes the creature less engaging because the players don't see it using its abilities in a tangible or evocative way. For example, an ability that allows a creature to use an action to increase its accuracy for the round with no outward sign (or worse, just grants a passive bonus to its accuracy) isn't that compelling, whereas one that increases its damage by lighting its arrows on fire is noticeable.
 
 These both work toward the same goal—dealing more damage this round—but one is far more memorable.
 
@@ -724,27 +724,27 @@ Abilities a creature uses on its turn have the most flexibility and scope. You c
 
 Consider how you want your creature to spend its turns.
 
-Two-action activities pretty much define the creature's turn, and single actions work best for supplemental benefits or normal [Strikes](../actions/strike.md). And as you build out your idea of a creature's turn, don't forget about movement! A creature often needs to spend actions getting into position, especially early in a fight. This is especially challenging with meleeonly creatures. You can give such creatures abilities similar to Sudden Charge or the deadly mantis's Leaping Grab.
+Two-action activities pretty much define the creature's turn, and single actions work best for supplemental benefits or normal [Strikes](rules/actions/strike.md). And as you build out your idea of a creature's turn, don't forget about movement! A creature often needs to spend actions getting into position, especially early in a fight. This is especially challenging with meleeonly creatures. You can give such creatures abilities similar to Sudden Charge or the deadly mantis's Leaping Grab.
 
-Use 3-action abilities sparingly, as a creature can't use them if it is [slowed](../conditions.md#Slowed) or [stunned](../conditions.md#Stunned)—making a creature's coolest or most defining ability use up 3 actions might mean the creature never gets to use it. These activities should be reserved for abilities that include some movement (like Trample) or that the creature is likely to use before engaging in combat. Don't make an ability use 3 actions as a way to balance it—saying "This can be more powerful than other abilities because it is less likely to work," is a recipe for frustration if you've made a cool ability that's too hard or even impossible for the creature to use.
+Use 3-action abilities sparingly, as a creature can't use them if it is [slowed](rules/conditions.md#Slowed) or [stunned](rules/conditions.md#Stunned)—making a creature's coolest or most defining ability use up 3 actions might mean the creature never gets to use it. These activities should be reserved for abilities that include some movement (like Trample) or that the creature is likely to use before engaging in combat. Don't make an ability use 3 actions as a way to balance it—saying "This can be more powerful than other abilities because it is less likely to work," is a recipe for frustration if you've made a cool ability that's too hard or even impossible for the creature to use.
 
-Be especially careful with activities when designing boss creatures. They're likely to get targeted with the PCs' most powerful detrimental effects, get [grabbed](../conditions.md#Grabbed), become [slowed](../conditions.md#Slowed), or otherwise have their actions restricted. Bosses need to have solid options they can use with 1 or 2 actions.
+Be especially careful with activities when designing boss creatures. They're likely to get targeted with the PCs' most powerful detrimental effects, get [grabbed](rules/conditions.md#Grabbed), become [slowed](rules/conditions.md#Slowed), or otherwise have their actions restricted. Bosses need to have solid options they can use with 1 or 2 actions.
 
 This lets them use their remaining actions to get away, use a simple ability, or otherwise keep the fight dynamic.
 
 ##### Free Actions
 <sup>GMG p. 68</sup>
 
-Use free actions that don't have triggers sparingly, and when you do, they should almost always be used for support or utility actions, not [Strikes](../actions/strike.md) or movement. If you come up with a free action, consider whether it should be its own action or part of a combo, such as drawing a weapon and attacking. In cases like the latter, you might be better off making a single action that allows the creature to draw a weapon and then [Strike](../actions/strike.md).
+Use free actions that don't have triggers sparingly, and when you do, they should almost always be used for support or utility actions, not [Strikes](rules/actions/strike.md) or movement. If you come up with a free action, consider whether it should be its own action or part of a combo, such as drawing a weapon and attacking. In cases like the latter, you might be better off making a single action that allows the creature to draw a weapon and then [Strike](rules/actions/strike.md).
 
 ##### Damage-Dealing Abilities
 <sup>GMG p. 68</sup>
 
-If a special action is a single action with only one target, you can often set damage using Table 2–10: [Strike](../actions/strike.md) Damage on page 65. If it uses more than 1 action or requires setup in some way, it might deal higher damage than is typical; often, you can just use the extreme column in these cases.
+If a special action is a single action with only one target, you can often set damage using Table 2–10: [Strike](rules/actions/strike.md) Damage on page 65. If it uses more than 1 action or requires setup in some way, it might deal higher damage than is typical; often, you can just use the extreme column in these cases.
 
 For abilities that deal damage in an area, use Table 2–12 below. These numbers are based on a 2-action activity (e.g., most damaging spells). Single actions should deal much less damage. An ability that has another significant effect, like applying a condition, should deal less damage; for this, look at the damage for 2 or more levels lower, and judge which value would best match based on the severity of the additional effect. These abilities typically allow a basic saving throw. The table includes values for unlimited-use abilities (ones that can be used at-will) and limited-use ones (which can be used once or, like a Breath Weapon, once or twice but not on consecutive turns)
 
-You can use the dice given or generate your own expression based on the damage in parentheses, as detailed in the [Strike](../actions/strike.md) Damage section on page 64. If a high-level effect has a small area compared to similar abilities, you have it deal more damage.
+You can use the dice given or generate your own expression based on the damage in parentheses, as detailed in the [Strike](rules/actions/strike.md) Damage section on page 64. If a high-level effect has a small area compared to similar abilities, you have it deal more damage.
 
 | Level | Unlimited Use | Limited Use |
 |-------|---------------|-------------|
@@ -778,29 +778,29 @@ You can use the dice given or generate your own expression based on the damage i
 #### Defensive Abilities
 <sup>GMG p. 69</sup>
 
-Active offensive abilities usually fit creatures better than defensive abilities do. Save defense increases for creatures that are strongly defense-themed. For martial creatures, something as simple as a shield and [Shield Block](../../compendium/feats/shield-block.md) is usually plenty. Defensive abilities often run the risk of being [invisible](../conditions.md#Invisible) abilities. For examples of good defensive abilities, look at spells like _sanctuary_ for ideas, or other spells that create interesting protective effects instead of just granting a bonus. If you do want to make a creature defensive, pick one defensive ability rather than several, since stacking up multiple defenses can make for a frustrating fight. One solid style of defensive ability is a mode switch, which causes the creature to get stronger defenses, but limits its attacks, spells, or other offensive options.
+Active offensive abilities usually fit creatures better than defensive abilities do. Save defense increases for creatures that are strongly defense-themed. For martial creatures, something as simple as a shield and [Shield Block](compendium/feats/shield-block.md) is usually plenty. Defensive abilities often run the risk of being [invisible](rules/conditions.md#Invisible) abilities. For examples of good defensive abilities, look at spells like _sanctuary_ for ideas, or other spells that create interesting protective effects instead of just granting a bonus. If you do want to make a creature defensive, pick one defensive ability rather than several, since stacking up multiple defenses can make for a frustrating fight. One solid style of defensive ability is a mode switch, which causes the creature to get stronger defenses, but limits its attacks, spells, or other offensive options.
 
 #### Reactive Abilities
 <sup>GMG p. 69</sup>
 
 Reactions and free actions with triggers can give a creature an impact outside its turn. This can make the fight more interesting, but may also be risky. It's tempting to give every creature a reaction, but that's not necessarily a good idea.
 
-To decide whether your creature should have a reaction, first consider if the creature has the reflexes or insight to react well in the first place—for instance, an ogre doesn't have [Attack of Opportunity](../actions/attack-of-opportunity.md) because it's a big oaf. Oozes, constructs, and unintelligent creatures are less likely to have reactions than others for this reason.
+To decide whether your creature should have a reaction, first consider if the creature has the reflexes or insight to react well in the first place—for instance, an ogre doesn't have [Attack of Opportunity](rules/actions/attack-of-opportunity.md) because it's a big oaf. Oozes, constructs, and unintelligent creatures are less likely to have reactions than others for this reason.
 
 Second, look at the complexity of the encounter your creature is likely to appear in. If you'll have a large number of creatures, skipping reactions can make the fight flow faster. A creature that's more likely to fight solo, on the other hand, might have a reaction to give it a way to continue to be dangerous amid an onslaught of attacks by the party.
 
-When creating reactions, be careful with "gotcha" abilities—ones that punish players for making perfectly reasonable choices, for rolling poorly, and so on. If you include abilities like this, they need to reinforce the creature's core theme and the play style you want it to use in combat. For example, a creature that [Strikes](../actions/strike.md) as a reaction when someone fails an attack roll will encourage PCs to use their actions on other tactics, rather than attacking multiple times each turn. Is that what you want? Is this dynamic essential for making the creature feel like it's supposed to? This isn't the type of ability you'd give to any old creature— only an incredible duelist or something similar.
+When creating reactions, be careful with "gotcha" abilities—ones that punish players for making perfectly reasonable choices, for rolling poorly, and so on. If you include abilities like this, they need to reinforce the creature's core theme and the play style you want it to use in combat. For example, a creature that [Strikes](rules/actions/strike.md) as a reaction when someone fails an attack roll will encourage PCs to use their actions on other tactics, rather than attacking multiple times each turn. Is that what you want? Is this dynamic essential for making the creature feel like it's supposed to? This isn't the type of ability you'd give to any old creature— only an incredible duelist or something similar.
 
-Reactions should require something out of the ordinary to happen, or should be relatively weak if triggered by something ordinary. A reaction that triggers anytime someone tries to [Strike](../actions/strike.md) a creature is likely to be perceived by the players as uninteresting because it's so predictable.
+Reactions should require something out of the ordinary to happen, or should be relatively weak if triggered by something ordinary. A reaction that triggers anytime someone tries to [Strike](rules/actions/strike.md) a creature is likely to be perceived by the players as uninteresting because it's so predictable.
 
-The best reactions should be telegraphed so when they happen, it makes sense to the players. Think of one of the core reactions of the game: [Shield Block](../../compendium/feats/shield-block.md). The creature raises its shield—an obvious action the PCs can see—so when it blocks damage from an attack, that makes perfect sense.
+The best reactions should be telegraphed so when they happen, it makes sense to the players. Think of one of the core reactions of the game: [Shield Block](compendium/feats/shield-block.md). The creature raises its shield—an obvious action the PCs can see—so when it blocks damage from an attack, that makes perfect sense.
 
 Similarly, if you made a crystalline creature, you might have it build up sonic energy in a low thrum, so when it uses a reaction to release a burst of sonic energy when hit, the players can say, "Oh, I should have seen that coming."
 
 ##### Reaction Damage
 <sup>GMG p. 69</sup>
 
-Reactions should use lower damage, usually that of a moderate [Strike](../actions/strike.md). A reaction that deals area damage might deal low damage, though use such reactions with caution.
+Reactions should use lower damage, usually that of a moderate [Strike](rules/actions/strike.md). A reaction that deals area damage might deal low damage, though use such reactions with caution.
 
 #### Constant and Automatic Abilities
 <sup>GMG p. 69</sup>
@@ -814,7 +814,7 @@ Conversely, the Ferocity ability is a reaction because it requires the creature 
 ##### Constant and Automatic Damage
 <sup>GMG p. 69</sup>
 
-Much like for reactions, damage for a constant ability should be pretty low. Usually this value is just below low [Strike](../actions/strike.md) damage. Automatic abilities like the living wildfire's explosion ability tend to deal moderate [Strike](../actions/strike.md) damage or unlimited-use area damage, and can deal even more if they happen only after the creature is dead or otherwise no longer presents a threat.
+Much like for reactions, damage for a constant ability should be pretty low. Usually this value is just below low [Strike](rules/actions/strike.md) damage. Automatic abilities like the living wildfire's explosion ability tend to deal moderate [Strike](rules/actions/strike.md) damage or unlimited-use area damage, and can deal even more if they happen only after the creature is dead or otherwise no longer presents a threat.
 
 #### Skill Abilities
 <sup>GMG p. 69</sup>
@@ -826,7 +826,7 @@ The skill feats in the _Core Rulebook_ make for a good baseline. Avoid giving yo
 ### Review Holistically
 <sup>GMG p. 69</sup>
 
-Now it's time to look over your completed creature as a whole and make sure it's living up to your concept. Can it do everything you wanted? Does it fit its intended role? Is there anything you could add or anything superfluous you could cut to get the creature where it needs to be? If this creature is built for combat, run through a few turns in your head. Does it still work decently if it gets [slowed](../conditions.md#Slowed)? Can it move into combat against the PCs effectively given their mobility options compared to its own? Does it have any abilities it'll never use given its other actions? When you're satisfied with your creation, it's ready to hit the table. But that's not necessarily the end! If you notice issues during the game, you can fix them on the spot. It's your game, and you can freely change what you wrote if you think differently later on.
+Now it's time to look over your completed creature as a whole and make sure it's living up to your concept. Can it do everything you wanted? Does it fit its intended role? Is there anything you could add or anything superfluous you could cut to get the creature where it needs to be? If this creature is built for combat, run through a few turns in your head. Does it still work decently if it gets [slowed](rules/conditions.md#Slowed)? Can it move into combat against the PCs effectively given their mobility options compared to its own? Does it have any abilities it'll never use given its other actions? When you're satisfied with your creation, it's ready to hit the table. But that's not necessarily the end! If you notice issues during the game, you can fix them on the spot. It's your game, and you can freely change what you wrote if you think differently later on.
 
 ### Trait Abilities
 <sup>GMG p. 70</sup>
@@ -844,7 +844,7 @@ usually Aklo
 ```ad-pf2-note
 title: Aeon
   
-[LN](rules/traits/lawful-neutral-b1.md), [monitor](rules/traits/monitor.md)
+[LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [monitor](rules/traits/monitor.md "Monitor Creature Type Trait")
 
 usually Utopian and other planar languages; envisioning for true aeons
 
@@ -864,7 +864,7 @@ Many air creatures have fly Speeds.
 ```ad-pf2-note
 title: Angel
   
-good (usually [NG](rules/traits/neutral-good-b1.md)), [celestial](rules/traits/celestial.md)
+good (usually [NG](rules/traits/ng-b1.md "Neutral Good Alignment Trait")), [celestial](rules/traits/celestial.md "Celestial Creature Type Trait")
 
 Angels each have a unique aura based on how they serve as messengers and how they deliver those messages.
 
@@ -876,7 +876,7 @@ usually angelic messenger
 ```ad-pf2-note
 title: Animal
   
-[N](rules/traits/neutral-b1.md)
+[N](rules/traits/n-b1.md "Neutral Alignment Trait")
 
 None
 
@@ -886,7 +886,7 @@ None
 ```ad-pf2-note
 title: Archon
   
-[LG](rules/traits/lawful-goo-b1.md), [celestial](rules/traits/celestial.md)
+[LG](rules/traits/lg-b1.md "Lawful Good Alignment Trait"), [celestial](rules/traits/celestial.md "Celestial Creature Type Trait")
 
 Archons each represent a specific virtue, like courage or hope, and have a special ability based on the virtue they represent.
 ```
@@ -894,13 +894,13 @@ Archons each represent a specific virtue, like courage or hope, and have a speci
 ```ad-pf2-note
 title: Astral
   
-[Darkvision](rules/abilities/darkvision.md)
+[darkvision](rules/abilities/darkvision.md)
 ```
 
 ```ad-pf2-note
 title: Azata
   
-[CG](rules/traits/chaotic-good-b1.md), [celestial](rules/traits/celestial.md)
+[CG](rules/traits/cg-b1.md "Chaotic Good Alignment Trait"), [celestial](rules/traits/celestial.md "Celestial Creature Type Trait")
 
 cold iron, evil
 
@@ -938,15 +938,15 @@ or **Resistances** cold
 ```ad-pf2-note
 title: Construct
   
-Many constructs lack minds and have the [mindless](rules/traits/mindless.md) trait.
+Many constructs lack minds and have the [mindless](rules/traits/mindless.md "Mindless Creature Trait") trait.
 
-bleed, death effects, diseased, [doomed](rules/conditions.md#Doomed), [drained](rules/conditions.md#Drained), [fatigued](rules/conditions.md#Fatigued), healing, necromancy, nonlethal attacks, [paralyzed](rules/conditions.md#Paralyzed), poison, [sickened](rules/conditions.md#Sickened), [unconscious](rules/conditions.md#Unconscious); if [mindless](rules/traits/mindless.md), add mental
+bleed, death effects, diseased, [doomed](rules/conditions.md#Doomed), [drained](rules/conditions.md#Drained), [fatigued](rules/conditions.md#Fatigued), healing, necromancy, nonlethal attacks, [paralyzed](rules/conditions.md#Paralyzed), poison, [sickened](rules/conditions.md#Sickened), [unconscious](rules/conditions.md#Unconscious); if [mindless](rules/traits/mindless.md "Mindless Creature Trait"), add mental
 ```
 
 ```ad-pf2-note
 title: Daemon
   
-[NE](rules/traits/neutral-evil-b1.md), [fiend](rules/traits/fiend.md)
+[NE](rules/traits/ne-b1.md "Neutral Evil Alignment Trait"), [fiend](rules/traits/fiend.md "Fiend Creature Type Trait")
 
 Daemonic, telepathy 100 feet
 
@@ -958,7 +958,7 @@ Daemons each represent a specific kind of death, like death by disease or starva
 ```ad-pf2-note
 title: Demon
   
-[CE](rules/traits/chaotic-evil-b1.md), [fiend](rules/traits/fiend.md)
+[CE](rules/traits/ce-b1.md "Chaotic Evil Alignment Trait"), [fiend](rules/traits/fiend.md "Fiend Creature Type Trait")
 
 Abyssal, telepathy (usually 100 feet)
 
@@ -968,9 +968,9 @@ typically high to account for their multiple weaknesses
 
 Demons each represent a specific sin, like envy or wrath, and have a special vulnerability based on the sin they represent. This should be something the PCs can exploit through their actions, which should then deal mental damage to the demon. The amount of damage should be based on how easy the vulnerability is to exploit.
 
-usually 5th-level [dimension door](../../../compendium/spells/dimension-door.md) and at-will 4th-level [dimension door](../../../compendium/spells/dimension-door.md)
+usually 5th-level [dimension door](compendium/spells/dimension-door.md) and at-will 4th-level [dimension door](compendium/spells/dimension-door.md)
 
-usually [Abyssal pact](../../../compendium/spells/rituals/abyssal-pact-b1.md)
+usually [Abyssal pact](compendium/spells/rituals/abyssal-pact-b1.md)
 
 Demons also have a special ability based on the sin they represent, which either makes them better embody the sin or instills that sin in others.
 ```
@@ -978,7 +978,7 @@ Demons also have a special ability based on the sin they represent, which either
 ```ad-pf2-note
 title: Devil
   
-[LE](rules/traits/lawful-evil-b1.md), [fiend](rules/traits/fiend.md)
+[LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"), [fiend](rules/traits/fiend.md "Fiend Creature Type Trait")
 
 Infernal, telepathy (usually 100 feet)
 
@@ -986,9 +986,9 @@ fire
 
 physical (except silver), poison
 
-usually one 5th-level [dimension door](../../../compendium/spells/dimension-door.md) and at-will 4th-level [dimension door](../../../compendium/spells/dimension-door.md)
+usually one 5th-level [dimension door](compendium/spells/dimension-door.md) and at-will 4th-level [dimension door](compendium/spells/dimension-door.md)
 
-usually [Infernal pact](../../../compendium/spells/rituals/infernal-pact-b1.md)
+usually [Infernal pact](compendium/spells/rituals/infernal-pact-b1.md)
 
 Devils each have an ability corresponding to the role they play in the infernal hierarchy, typically focused around control or being controlled, from the lowly lemure's Subservience to the gelugon's Tactician of Cocytus and the pit fiend's Devil Shaping.
 ```
@@ -1066,9 +1066,9 @@ cold
 ```ad-pf2-note
 title: Fungus
   
-fungi without minds have the [mindless](rules/traits/mindless.md) trait
+fungi without minds have the [mindless](rules/traits/mindless.md "Mindless Creature Trait") trait
 
-if [mindless](rules/traits/mindless.md), mental
+if [mindless](rules/traits/mindless.md "Mindless Creature Trait"), mental
 
 sometimes slashing or fire
 ```
@@ -1076,7 +1076,7 @@ sometimes slashing or fire
 ```ad-pf2-note
 title: Giant
   
-[Large](rules/traits/large-b1.md) or bigger, [humanoid](rules/traits/humanoid.md)
+[Large](rules/traits/large-b1.md "Large Size Trait") or bigger, [humanoid](rules/traits/humanoid.md "Humanoid Creature Type Trait")
 
 [low-light vision](rules/abilities/low-light-vision.md)
 
@@ -1092,9 +1092,9 @@ title: Humanoid
 ```ad-pf2-note
 title: Inevitable
   
-[LN](rules/traits/lawful-neutral-b1.md), [aeon](rules/traits/aeon-b1.md), [monitor](rules/traits/monitor.md)
+[LN](rules/traits/ln-b1.md "Lawful Neutral Alignment Trait"), [aeon](rules/traits/aeon-b1.md "Aeon Creature Trait"), [monitor](rules/traits/monitor.md "Monitor Creature Type Trait")
 
-[death effects](rules/traits/death.md), disease, [emotion](rules/traits/emotion.md), poison, [unconscious](rules/conditions.md#Unconscious)
+death effects, disease, [emotion](rules/traits/emotion.md "Emotion Effect Trait"), poison, [unconscious](rules/conditions.md#Unconscious)
 
 Attacks always deal additional lawful damage.
 ```
@@ -1102,7 +1102,7 @@ Attacks always deal additional lawful damage.
 ```ad-pf2-note
 title: Monitor
   
-neither [good](rules/traits/good.md) nor [evil](rules/traits/evil.md)
+neither [good](rules/traits/good.md "Good Alignment Trait") nor [evil](rules/traits/evil.md "Evil Alignment Trait")
 
 [darkvision](rules/abilities/darkvision.md)
 ```
@@ -1110,7 +1110,7 @@ neither [good](rules/traits/good.md) nor [evil](rules/traits/evil.md)
 ```ad-pf2-note
 title: Ooze
   
-Almost all oozes lack minds and have the [mindless](rules/traits/mindless.md) trait.
+Almost all oozes lack minds and have the [mindless](rules/traits/mindless.md "Mindless Creature Trait") trait.
 
 typically motion sense (Bestiary 254) and no vision
 
@@ -1118,17 +1118,17 @@ usually well below the low value for their level
 
 usually around double
 
-critical hits, precision, [unconscious](rules/conditions.md#Unconscious), often acid; if it has no vision, add [visual effects](rules/traits/visual.md); if [mindless](rules/traits/mindless.md), add mental
+critical hits, precision, [unconscious](rules/conditions.md#Unconscious), often acid; if it has no vision, add visual effects; if [mindless](rules/traits/mindless.md "Mindless Creature Trait"), add mental
 ```
 
 ```ad-pf2-note
 title: Plant
   
-plants without minds have the [mindless](rules/traits/mindless.md) trait
+plants without minds have the [mindless](rules/traits/mindless.md "Mindless Creature Trait") trait
 
 usually [low-light vision](rules/abilities/low-light-vision.md)
 
-if [mindless](rules/traits/mindless.md), mental
+if [mindless](rules/traits/mindless.md "Mindless Creature Trait"), mental
 
 sometimes fire
 ```
@@ -1136,7 +1136,7 @@ sometimes fire
 ```ad-pf2-note
 title: Protean
   
-[CN](rules/traits/chaotic-neutral-b1.md), [monitor](rules/traits/monitor.md)
+[CN](rules/traits/cn-b1.md "Chaotic Neutral Alignment Trait"), [monitor](rules/traits/monitor.md "Monitor Creature Type Trait")
 
 Protean
 
@@ -1148,7 +1148,7 @@ precision, protean anatomy
 
 Attacks always deal additional chaotic damage.
 
-constant [freedom of movement](../../../compendium/spells/freedom-of-movement.md)
+constant [freedom of movement](compendium/spells/freedom-of-movement.md)
 
 
 ```
@@ -1156,13 +1156,13 @@ constant [freedom of movement](../../../compendium/spells/freedom-of-movement.md
 ```ad-pf2-note
 title: Psychopomp
   
-[N](rules/traits/neutral-b1.md), [monitor](rules/traits/monitor.md)
+[N](rules/traits/n-b1.md "Neutral Alignment Trait"), [monitor](rules/traits/monitor.md "Monitor Creature Type Trait")
 
 lifesense (typically 60 feet)
 
 Requian
 
-[death effects](rules/traits/death.md), disease
+death effects, disease
 
 negative, poison
 
@@ -1172,7 +1172,7 @@ spirit touch (Bestiary 270)
 ```ad-pf2-note
 title: Rakshasa
   
-[LE](rules/traits/lawful-evil-b1.md), [fiend](rules/traits/fiend.md)
+[LE](rules/traits/le-b1.md "Lawful Evil Alignment Trait"), [fiend](rules/traits/fiend.md "Fiend Creature Type Trait")
 
 usually +2 status bonus to all saves vs. magic (+3 vs. divine magic)
 
@@ -1184,13 +1184,13 @@ physical (except piercing)
 ```ad-pf2-note
 title: Spirit
   
-[incorporeal](rules/traits/incorporeal-b1.md), often [undead](rules/traits/undead.md)
+[incorporeal](rules/traits/incorporeal-b1.md "Incorporeal Creature Trait"), often [undead](rules/traits/undead.md "Undead Creature Type Trait")
 ```
 
 ```ad-pf2-note
 title: Swarm
   
-size based on the entire mass, usually [Large](rules/traits/large-b1.md) or bigger
+size based on the entire mass, usually [Large](rules/traits/large-b1.md "Large Size Trait") or bigger
 
 typically low
 
@@ -1204,13 +1204,13 @@ physical, usually with one physical type having lower or no resistance
 ```ad-pf2-note
 title: Undead
   
-Almost all undead are [evil](rules/traits/evil.md). Ghostly undead have the [incorporeal](rules/traits/incorporeal-b1.md) trait. Undead without minds, such as most zombies, have the [mindless](rules/traits/mindless.md) trait.
+Almost all undead are [evil](rules/traits/evil.md "Evil Alignment Trait"). Ghostly undead have the [incorporeal](rules/traits/incorporeal-b1.md "Incorporeal Creature Trait") trait. Undead without minds, such as most zombies, have the [mindless](rules/traits/mindless.md "Mindless Creature Trait") trait.
 
 [darkvision](rules/abilities/darkvision.md)
 
 negative healing
 
-[death effects](rules/traits/death.md), disease, [paralyzed](rules/conditions.md#Paralyzed), poison, sleep (or unconscious if it never rests at all); if [mindless](rules/traits/mindless.md), add mental
+death effects, disease, [paralyzed](rules/conditions.md#Paralyzed), poison, sleep (or unconscious if it never rests at all); if [mindless](rules/traits/mindless.md "Mindless Creature Trait"), add mental
 ```
 
 ```ad-pf2-note
@@ -1230,7 +1230,7 @@ You can build NPCs just like you would any other creatures. If an NPC should wor
 
 If the NPC isn't meant to work like they have a class (a baker, for example), instead look at the NPC Gallery on pages 202–249. Compare your NPC to the existing ones to determine the NPC's level, and look for abilities that are similar to what yours should have. You can also create new abilities as needed to get the NPC's interactions with the PCs to express their theme and role in the story. These NPCs can be level –1 or level 0. Their capabilities are below those of PCs, and they should typically not use any class features or feats from PC classes. Creatures of these levels tend to be extremely simple, and usually you can just take one from the NPC Gallery and reskin it.
 
-It's highly recommended that you select NPC skills using proficiency ranks as you would a PC, though you don't need to be precise about the number of skill increases you give the NPC. You can give them earlier access to expert, master, or legendary proficiency if they're a skill-based NPC, and better proficiency in narrow areas of expertise, like [Engineering Lore](../../compendium/skills.md#Lore) for a tinker NPC.
+It's highly recommended that you select NPC skills using proficiency ranks as you would a PC, though you don't need to be precise about the number of skill increases you give the NPC. You can give them earlier access to expert, master, or legendary proficiency if they're a skill-based NPC, and better proficiency in narrow areas of expertise, like [Engineering Lore](compendium/skills.md#Lore) for a tinker NPC.
 
 #### Non-Combat Level
 <sup>GMG p. 72</sup>
@@ -1243,7 +1243,7 @@ This can go the other way as well, such as with a powerful combat creature that'
 
 Building an NPC's non-combat level is pretty simple.
 
-Choose the level you want the NPC to be for the type of challenge you have in mind, and use the skill numbers for that level—typically high or even extreme. Some challenges, such as social challenges, require the creature to have a high [Perception](../../compendium/skills.md#Perception) and Will DC, so in those cases, you should increase those values as well. These should be set at the moderate or high values for the non-combat level, usually, depending on how adept you want the NPC to be.
+Choose the level you want the NPC to be for the type of challenge you have in mind, and use the skill numbers for that level—typically high or even extreme. Some challenges, such as social challenges, require the creature to have a high [Perception](compendium/skills.md#Perception) and Will DC, so in those cases, you should increase those values as well. These should be set at the moderate or high values for the non-combat level, usually, depending on how adept you want the NPC to be.
 
 The Experience Points gained for besting an NPC depend on how the party overcame them, because XP comes from overcoming a specific challenge. If the PCs defeat the NPC in a non-combat setting of the NPC's specialty, the party gets XP based on the NPC's non-combat level. If they just beat the NPC up, the XP would be based on the NPC's creature level. Quite often, that means 0 XP and failure at the PCs' objective; for instance, during a baking contest, if the PCs murder the other baker, not only would they be disqualified, but they would likely be apprehended for their crime.
 
@@ -1253,7 +1253,7 @@ The Experience Points gained for besting an NPC depend on how the party overcame
 If you do choose to build an NPC fully using the PC rules, your NPC should generally end up being an appropriate challenge as a creature of their level. They will likely have lower statistics in some areas than if you had built them using the creature rules, but more options due to their full complement of feats and class features. This is best saved for important, recurring NPCs, especially if they're meant to engage in social or exploration endeavors rather than just battles. There are still some considerations and shortcuts that can expedite the process while ensuring the NPC works as you intend.
 
 - The creature's treasure should follow the Treasure for New Characters rules on page 510 of the _Core Rulebook_. You'll need to account for this in your campaign's overall treasure. You might even want to give the NPC a higher-level item appropriate as a treasure allotment for the level.
-- You can expedite ability score generation by making the starting ability modifiers add up to +9, with no more than one modifier at +4 (and typically no more than one negative modifier). You can skip adding a background if you do this, but you might want to give the creature two skills, which includes one [Lore](../../compendium/skills.md#Lore) skill, to represent the skills granted by a background.
+- You can expedite ability score generation by making the starting ability modifiers add up to +9, with no more than one modifier at +4 (and typically no more than one negative modifier). You can skip adding a background if you do this, but you might want to give the creature two skills, which includes one [Lore](compendium/skills.md#Lore) skill, to represent the skills granted by a background.
 - It's not necessary to assign every skill feat, particularly for a higher-level NPC. You can just pick the most emblematic ones and gloss over the rest.
 - For general feats, Incredible Initiative and Toughness make good choices.
 - Most of the guidelines about choosing spells still apply, though you might want a few more utility spells that deal with non-combat challenges, particularly in low-level slots.
@@ -1262,36 +1262,36 @@ If you do choose to build an NPC fully using the PC rules, your NPC should gener
 > 
 > You can use these suggestions when creating your road map to emulate a PC class, customizing as you see fit. You'll still need to look through the class to pick feats, weapons, and the like. Any statistic that isn't specifically listed can use moderate numbers.
 > 
-> - **Alchemist** low [Perception](../../compendium/skills.md#Perception); high [Crafting](../../compendium/skills.md#Crafting); high Int, moderate or better Dex or Str; low to moderate HP; moderate attack with bombs; infused alchemical items, Quick Bomber if a bomber alchemist, a few other alchemist abilities; it's usually easier to give the alchemist its bomb items rather than use [Quick Alchemy](../actions/quick-alchemy.md) on the spot.
-> - **Barbarian** high [Athletics](../../compendium/skills.md#Athletics); high Str, high to moderate Con; high AC; high Fortitude; high HP; moderate attack and extreme damage (when raging); [Rage](../actions/rage.md) and a few barbarian abilities
-> - **Bard** moderate [Occultism](../../compendium/skills.md#Occultism), high [Performance](../../compendium/skills.md#Performance), high Charisma-based skills; high Cha; low Fortitude, moderate to high Will; low to moderate HP; low accuracy; high to extreme spell DC; spontaneous occult spellcasting as a bard of their level; composition spells
-> - **Champion** low [Perception](../../compendium/skills.md#Perception); moderate [Religion](../../compendium/skills.md#Religion); high Str or Dex, moderate Cha; extreme AC; low Reflex; moderate attack and high damage; champion's reaction, devotion spells, [Shield Block](../../compendium/feats/shield-block.md)
-> - **Cleric (Cloistered Cleric)** high [Perception](../../compendium/skills.md#Perception); high [Religion](../../compendium/skills.md#Religion), moderate or high skill themed to deity; low AC; high Wis; low Fortitude, high Will; low to moderate HP; low accuracy; high to extreme spell DC; prepared divine spellcasting as a cleric of their level; divine font; domain spells
-> - **Cleric (Warpriest)** moderate [Perception](../../compendium/skills.md#Perception); moderate [Religion](../../compendium/skills.md#Religion), moderate or high skill themed to deity; high Str, moderate Wis; high AC; low Reflex, high Will; high spell DC; prepared divine spellcasting as a cleric of their level; divine font, [Shield Block](../../compendium/feats/shield-block.md)
-> - **Druid** high [Perception](../../compendium/skills.md#Perception); high [Nature](../../compendium/skills.md#Nature), moderate or high skill from order; high Wis; high Will; low to moderate HP; low accuracy; high to extreme spell DC; prepared primal spellcasting as a druid of their level; order ability and order spell for their order; Shield Block; add an animal to the encounter for animal order
-> - **Fighter** high [Acrobatics](../../compendium/skills.md#Acrobatics) or [Athletics](../../compendium/skills.md#Athletics); high Str or Dex; high AC; low Will; high attack and high damage; [Attack of Opportunity](../actions/attack-of-opportunity.md), [Shield Block](../../compendium/feats/shield-block.md), a few fighter abilities
-> - **Monk** high [Acrobatics](../../compendium/skills.md#Acrobatics), [Athletics](../../compendium/skills.md#Athletics), or both; high Str or Dex, moderate Wis; high or extreme AC; moderate attack and high damage; [Flurry of Blows](../actions/flurry-of-blows.md), a few monk abilities (possibly including ki spells)
-> - **Ranger** high [Perception](../../compendium/skills.md#Perception); moderate [Nature](../../compendium/skills.md#Nature) and moderate to high [Survival](../../compendium/skills.md#Survival); high Str or Dex; high AC; moderate attack and high damage (or for a simpler ranger, remove [Hunt Prey](../actions/hunt-prey.md) and just use high attack and high damage); a few ranger abilities
-> - **Rogue** high [Perception](../../compendium/skills.md#Perception); high Dex (or key ability score for a specific rogue's racket); high [Stealth](../../compendium/skills.md#Stealth) and [Thievery](../../compendium/skills.md#Thievery), plus more skills than usual; high AC; low Fortitude, high Reflex; low to moderate HP; moderate attack and low to moderate damage before sneak attack plus high or extreme damage with sneak attack; sneak attack, a few rogue abilities
-> - **Sorcerer** low [Perception](../../compendium/skills.md#Perception); moderate bloodline skills and high Charisma-based bloodline skills; high Cha; low AC; low Fortitude; low HP; low accuracy; high to extreme spell DC; spontaneous spellcasting of a tradition based on bloodline as a sorcerer of their level; bloodline spells
-> - **Wizard** low [Perception](../../compendium/skills.md#Perception); high [Arcana](../../compendium/skills.md#Arcana); high Int; low AC; low Fortitude; low HP; low accuracy; high to extreme spell DC; prepared arcane spellcasting as a wizard of their level; [Drain Bonded Item](../actions/drain-bonded-item.md), school spells and additional slots for a specialist (or additional uses of [Drain Bonded Item](../actions/drain-bonded-item.md) for a universalist)
+> - **Alchemist** low [Perception](compendium/skills.md#Perception); high [Crafting](compendium/skills.md#Crafting); high Int, moderate or better Dex or Str; low to moderate HP; moderate attack with bombs; infused alchemical items, Quick Bomber if a bomber alchemist, a few other alchemist abilities; it's usually easier to give the alchemist its bomb items rather than use [Quick Alchemy](rules/actions/quick-alchemy.md) on the spot.
+> - **Barbarian** high [Athletics](compendium/skills.md#Athletics); high Str, high to moderate Con; high AC; high Fortitude; high HP; moderate attack and extreme damage (when raging); [Rage](rules/actions/rage.md) and a few barbarian abilities
+> - **Bard** moderate [Occultism](compendium/skills.md#Occultism), high [Performance](compendium/skills.md#Performance), high Charisma-based skills; high Cha; low Fortitude, moderate to high Will; low to moderate HP; low accuracy; high to extreme spell DC; spontaneous occult spellcasting as a bard of their level; composition spells
+> - **Champion** low [Perception](compendium/skills.md#Perception); moderate [Religion](compendium/skills.md#Religion); high Str or Dex, moderate Cha; extreme AC; low Reflex; moderate attack and high damage; champion's reaction, devotion spells, [Shield Block](compendium/feats/shield-block.md)
+> - **Cleric (Cloistered Cleric)** high [Perception](compendium/skills.md#Perception); high [Religion](compendium/skills.md#Religion), moderate or high skill themed to deity; low AC; high Wis; low Fortitude, high Will; low to moderate HP; low accuracy; high to extreme spell DC; prepared divine spellcasting as a cleric of their level; divine font; domain spells
+> - **Cleric (Warpriest)** moderate [Perception](compendium/skills.md#Perception); moderate [Religion](compendium/skills.md#Religion), moderate or high skill themed to deity; high Str, moderate Wis; high AC; low Reflex, high Will; high spell DC; prepared divine spellcasting as a cleric of their level; divine font, [Shield Block](compendium/feats/shield-block.md)
+> - **Druid** high [Perception](compendium/skills.md#Perception); high [Nature](compendium/skills.md#Nature), moderate or high skill from order; high Wis; high Will; low to moderate HP; low accuracy; high to extreme spell DC; prepared primal spellcasting as a druid of their level; order ability and order spell for their order; Shield Block; add an animal to the encounter for animal order
+> - **Fighter** high [Acrobatics](compendium/skills.md#Acrobatics) or [Athletics](compendium/skills.md#Athletics); high Str or Dex; high AC; low Will; high attack and high damage; [Attack of Opportunity](rules/actions/attack-of-opportunity.md), [Shield Block](compendium/feats/shield-block.md), a few fighter abilities
+> - **Monk** high [Acrobatics](compendium/skills.md#Acrobatics), [Athletics](compendium/skills.md#Athletics), or both; high Str or Dex, moderate Wis; high or extreme AC; moderate attack and high damage; [Flurry of Blows](rules/actions/flurry-of-blows.md), a few monk abilities (possibly including ki spells)
+> - **Ranger** high [Perception](compendium/skills.md#Perception); moderate [Nature](compendium/skills.md#Nature) and moderate to high [Survival](compendium/skills.md#Survival); high Str or Dex; high AC; moderate attack and high damage (or for a simpler ranger, remove [Hunt Prey](rules/actions/hunt-prey.md) and just use high attack and high damage); a few ranger abilities
+> - **Rogue** high [Perception](compendium/skills.md#Perception); high Dex (or key ability score for a specific rogue's racket); high [Stealth](compendium/skills.md#Stealth) and [Thievery](compendium/skills.md#Thievery), plus more skills than usual; high AC; low Fortitude, high Reflex; low to moderate HP; moderate attack and low to moderate damage before sneak attack plus high or extreme damage with sneak attack; sneak attack, a few rogue abilities
+> - **Sorcerer** low [Perception](compendium/skills.md#Perception); moderate bloodline skills and high Charisma-based bloodline skills; high Cha; low AC; low Fortitude; low HP; low accuracy; high to extreme spell DC; spontaneous spellcasting of a tradition based on bloodline as a sorcerer of their level; bloodline spells
+> - **Wizard** low [Perception](compendium/skills.md#Perception); high [Arcana](compendium/skills.md#Arcana); high Int; low AC; low Fortitude; low HP; low accuracy; high to extreme spell DC; prepared arcane spellcasting as a wizard of their level; [Drain Bonded Item](rules/actions/drain-bonded-item.md), school spells and additional slots for a specialist (or additional uses of [Drain Bonded Item](rules/actions/drain-bonded-item.md) for a universalist)
 
 > [!pf2-brown] CLASS ABILITIES
 > 
 > You don't need to give an NPC all the abilities from its class— especially those that just alter numbers. The following abilities are good quick choices that make for more interesting encounters.
 > 
-> - **Alchemist** Feats 1st: [Quick Bomber](../../compendium/feats/quick-bomber.md); 6th: [Debilitating Bomb](../../compendium/feats/debilitating-bomb.md); 8th: [Sticky Bomb](../../compendium/feats/sticky-bomb.md); 10th: [Expanded Splash](../../compendium/feats/expanded-splash.md), [Greater Debilitating Bomb](../../compendium/feats/greater-debilitating-bomb.md); 14th: [True Debilitating Bomb](../../compendium/feats/true-debilitating-bomb.md); 18th: [Miracle Worker](../../compendium/feats/miracle-worker.md)
-> - **Barbarian** instinct ability and related feats, raging resistance; Feats 1st: [Raging Intimidation](../../compendium/feats/raging-intimidation.md); 2nd: [No Escape](../../compendium/feats/no-escape.md), [Shake it Off](../../compendium/feats/shake-it-off.md); 4th: [Fast Movement](../../compendium/feats/fast-movement.md), [Swipe (Barbarian)](../../compendium/feats/swipe-barbarian.md); 6th: [Attack of Opportunity (Barbarian)](../../compendium/feats/attack-of-opportunity-barbarian.md), [Cleave](../../compendium/feats/cleave.md); 8th: [Sudden Leap (Barbarian)](../../compendium/feats/sudden-leap-barbarian.md); 10th: [Come and Get Me](../../compendium/feats/come-and-get-me.md), [Knockback](../../compendium/feats/knockback.md), [Terrifying Howl](../../compendium/feats/terrifying-howl.md); 14th: [Awesome Blow](../../compendium/feats/awesome-blow.md), [Whirlwind Strike (Barbarian)](../../compendium/feats/whirlwind-strike-barbarian.md); 18th: [Vicious Evisceration](../../compendium/feats/vicious-evisceration.md)
-> - **Bard** muse feats; Feats 4th: [Melodious Spell](../../compendium/feats/melodious-spell.md); 6th: [Dirge of Doom](../../compendium/feats/dirge-of-doom.md), [Steady Spellcasting (Bard)](../../compendium/feats/steady-spellcasting-bard.md); 10th: [Quickened Casting (Bard)](../../compendium/feats/quickened-casting-bard.md); 14th: [Allegro](../../compendium/feats/allegro.md), [Soothing Ballad](../../compendium/feats/soothing-ballad.md); 16th: [Effortless Concentration (Bard)](../../compendium/feats/effortless-concentration-bard.md); 20th: [Fatal Aria](../../compendium/feats/fatal-aria.md)
-> - **Champion** divine ally and related feats, divine smite, exalt, feats based on cause; Feats 1st: [Deity's Domain](../../compendium/feats/deitys-domain.md); 2nd: [Divine Grace](../../compendium/feats/divine-grace.md); 4th: [Aura of Courage](../../compendium/feats/aura-of-courage.md), [Mercy](../../compendium/feats/mercy.md); 6th: [Attack of Opportunity (Champion)](../../compendium/feats/attack-of-opportunity-champion.md); 8th: [Greater Mercy](../../compendium/feats/greater-mercy.md); 12th: [Aura of Faith](../../compendium/feats/aura-of-faith.md); 14th: [Aura of Righteousness](../../compendium/feats/aura-of-righteousness.md), [Divine Reflexes](../../compendium/feats/divine-reflexes.md); 18th: [Celestial Form](../../compendium/feats/celestial-form.md), [Ultimate Mercy](../../compendium/feats/ultimate-mercy.md)
-> - **Cleric** Feats 1st: [Harming Hands](../../compendium/feats/harming-hands.md), [Healing Hands](../../compendium/feats/healing-hands.md); 2nd: [Sap Life](../../compendium/feats/sap-life.md), [Turn Undead](../../compendium/feats/turn-undead.md); 4th: [Command Undead](../../compendium/feats/command-undead.md), [Necrotic Infusion](../../compendium/feats/necrotic-infusion.md); 6th: [Divine Weapon](../../compendium/feats/divine-weapon.md), [Selective Energy](../../compendium/feats/selective-energy.md); 8th: [Channeled Succor](../../compendium/feats/channeled-succor.md); 12th: [Defensive Recovery](../../compendium/feats/defensive-recovery.md); 14th: [Fast Channel](../../compendium/feats/fast-channel.md); 16th: [Eternal Bane](../../compendium/feats/eternal-bane.md), [Eternal Blessing](../../compendium/feats/eternal-blessing.md)
-> - **Druid** order feats; Feats 6th: [Steady Spellcasting (Druid)](../../compendium/feats/steady-spellcasting-druid.md); 8th: [Fey Caller](../../compendium/feats/fey-caller.md) (only the added spells); 10th: [Overwhelming Energy (Druid)](../../compendium/feats/overwhelming-energy-druid.md); 12th: [Primal Summons](../../compendium/feats/primal-summons.md); 16th: [Effortless Concentration (Druid)](../../compendium/feats/effortless-concentration-druid.md), 20th: [Leyline Conduit](../../compendium/feats/leyline-conduit.md)
-> - **Fighter** bravery, feats associated with a combat style; Feats 1st: [Power Attack](../../compendium/feats/power-attack.md), [Sudden Charge (Fighter)](../../compendium/feats/sudden-charge-fighter.md); 2nd: [Intimidating Strike](../../compendium/feats/intimidating-strike.md), [Lunge](../../compendium/feats/lunge.md); 4th: [Knockdown](../../compendium/feats/knockdown.md), [Swipe (Fighter)](../../compendium/feats/swipe-fighter.md); 6th: [Shatter Defenses](../../compendium/feats/shatter-defenses.md); 8th: [Blind-Fight (Fighter)](../../compendium/feats/blind-fight-fighter.md), [Felling Strike](../../compendium/feats/felling-strike.md), [Sudden Leap (Fighter)](../../compendium/feats/sudden-leap-fighter.md); 10th: [Certain Strike](../../compendium/feats/certain-strike.md), [Combat Reflexes](../../compendium/feats/combat-reflexes.md), [Disruptive Stance](../../compendium/feats/disruptive-stance.md), [Fearsome Brute](../../compendium/feats/fearsome-brute.md); 12th: [Spring Attack](../../compendium/feats/spring-attack.md); 14th: [Determination](../../compendium/feats/determination.md), [Whirlwind Strike (Fighter)](../../compendium/feats/whirlwind-strike-fighter.md); 20th: [Weapon Supremacy](../../compendium/feats/weapon-supremacy.md)
-> - **Monk** metal strikes, mystic strikes, perfected form, stance and related feats; Feats 1st: [Ki Rush](../../compendium/feats/ki-rush.md), [Ki Strike](../../compendium/feats/ki-strike.md); 2nd: [Crushing Grab](../../compendium/feats/crushing-grab.md), [Stunning Fist](../../compendium/feats/stunning-fist.md); 4th: [Deflect Arrow](../../compendium/feats/deflect-arrow.md), [Flying Kick](../../compendium/feats/flying-kick.md); 6th: [Abundant Step](../../compendium/feats/abundant-step.md), [Ki Blast](../../compendium/feats/ki-blast.md), [Whirling Throw](../../compendium/feats/whirling-throw.md); 8th: [Wall Run](../../compendium/feats/wall-run.md); 10th: [Winding Flow](../../compendium/feats/winding-flow.md); 16th: [Quivering Palm](../../compendium/feats/quivering-palm.md), [Shattering Strike](../../compendium/feats/shattering-strike.md); 18th: [Diamond Fists](../../compendium/feats/diamond-fists.md), [Swift River](../../compendium/feats/swift-river.md); 20th: [Enduring Quickness](../../compendium/feats/enduring-quickness.md), Impossible Techniques
-> - **Ranger** [Hunt Prey](../actions/hunt-prey.md), hunter's edge, nature's edge, masterful hunter, swift prey, companion or combat style and related feats; Feats 2nd: [Quick Draw (Ranger)](../../compendium/feats/quick-draw-ranger.md), [Wild Empathy](../../compendium/feats/wild-empathy.md); 4th: Scout's Warning; 6th: Skirmish Strike; 8th: [Blind-Fight (Ranger)](../../compendium/feats/blind-fight-ranger.md), [Warden's Boon](../../compendium/feats/wardens-boon.md); 10th: [Camouflage](../../compendium/feats/camouflage.md); 14th: Sense the Unseen; 18th: [Shadow Hunter](../../compendium/feats/shadow-hunter.md); 20th: [Ultimate Skirmisher](../../compendium/feats/ultimate-skirmisher.md)
-> - **Rogue** surprise attack, deny advantage, debilitating strike, master strike, rogue's racket and related feats; Feats 1st: Nimble Dodge; 2nd: [Mobility](../../compendium/feats/mobility.md), [Quick Draw (Rogue)](../../compendium/feats/quick-draw-rogue.md); 4th: Scout's Warning; 6th: [Gang Up](../../compendium/feats/gang-up.md), Skirmish Strike, [Twist the Knife](../../compendium/feats/twist-the-knife.md); 8th: [Blind-Fight (Rogue)](../../compendium/feats/blind-fight-rogue.md), [Opportune Backstab](../../compendium/feats/opportune-backstab.md); 10th: [Sneak Savant](../../compendium/feats/sneak-savant.md); 12th: [Fantastic Leap](../../compendium/feats/fantastic-leap.md), [Spring from the Shadows](../../compendium/feats/spring-from-the-shadows.md); 14th: Sense the Unseen; 16th: [Dispelling Slice](../../compendium/feats/dispelling-slice.md), [Perfect Distraction](../../compendium/feats/perfect-distraction.md); 20th: [Hidden Paragon](../../compendium/feats/hidden-paragon.md), [Reactive Distraction](../../compendium/feats/reactive-distraction.md)
-> - **Sorcerer** bloodline and related feats; Feats 1st: [Counterspell (Sorcerer)](../../compendium/feats/counterspell-sorcerer.md), [Dangerous Sorcery](../../compendium/feats/dangerous-sorcery.md); 4th: [Bespell Weapon (Sorcerer)](../../compendium/feats/bespell-weapon-sorcerer.md); 6th: [Steady Spellcasting (Sorcerer)](../../compendium/feats/steady-spellcasting-sorcerer.md); 10th: [Overwhelming Energy (Sorcerer)](../../compendium/feats/overwhelming-energy-sorcerer.md), [Quickened Casting (Sorcerer)](../../compendium/feats/quickened-casting-sorcerer.md); 16th: [Effortless Concentration (Sorcerer)](../../compendium/feats/effortless-concentration-sorcerer.md); 20th: [Metamagic Mastery (Sorcerer)](../../compendium/feats/metamagic-mastery-sorcerer.md)
-> - **Wizard** school and related feats; Feats 1st: [Counterspell (Wizard)](../../compendium/feats/counterspell-wizard.md); 4th: [Bespell Weapon (Wizard)](../../compendium/feats/bespell-weapon-wizard.md); 6th: [Steady Spellcasting (Wizard)](../../compendium/feats/steady-spellcasting-wizard.md); 10th: [Overwhelming Energy (Wizard)](../../compendium/feats/overwhelming-energy-wizard.md), [Quickened Casting (Wizard)](../../compendium/feats/quickened-casting-wizard.md); 12th: [Clever Counterspell](../../compendium/feats/clever-counterspell.md); 14th: [Reflect Spell (Wizard)](../../compendium/feats/reflect-spell-wizard.md); 16th: [Effortless Concentration (Wizard)](../../compendium/feats/effortless-concentration-wizard.md); 18th: [Infinite Possibilities](../../compendium/feats/infinite-possibilities.md); 20th: [Metamagic Mastery (Wizard)](../../compendium/feats/metamagic-mastery-wizard.md), [Spell Combination](../../compendium/feats/spell-combination.md).
+> - **Alchemist** Feats 1st: [Quick Bomber](compendium/feats/quick-bomber.md); 6th: [Debilitating Bomb](compendium/feats/debilitating-bomb.md); 8th: [Sticky Bomb](compendium/feats/sticky-bomb.md); 10th: [Expanded Splash](compendium/feats/expanded-splash.md), [Greater Debilitating Bomb](compendium/feats/greater-debilitating-bomb.md); 14th: [True Debilitating Bomb](compendium/feats/true-debilitating-bomb.md); 18th: [Miracle Worker](compendium/feats/miracle-worker.md)
+> - **Barbarian** instinct ability and related feats, raging resistance; Feats 1st: [Raging Intimidation](compendium/feats/raging-intimidation.md); 2nd: [No Escape](compendium/feats/no-escape.md), [Shake it Off](compendium/feats/shake-it-off.md); 4th: [Fast Movement](compendium/feats/fast-movement.md), [Swipe (Barbarian)](compendium/feats/swipe-barbarian.md); 6th: [Attack of Opportunity (Barbarian)](compendium/feats/attack-of-opportunity-barbarian.md), [Cleave](compendium/feats/cleave.md); 8th: [Sudden Leap (Barbarian)](compendium/feats/sudden-leap-barbarian.md); 10th: [Come and Get Me](compendium/feats/come-and-get-me.md), [Knockback](compendium/feats/knockback.md), [Terrifying Howl](compendium/feats/terrifying-howl.md); 14th: [Awesome Blow](compendium/feats/awesome-blow.md), [Whirlwind Strike (Barbarian)](compendium/feats/whirlwind-strike-barbarian.md); 18th: [Vicious Evisceration](compendium/feats/vicious-evisceration.md)
+> - **Bard** muse feats; Feats 4th: [Melodious Spell](compendium/feats/melodious-spell.md); 6th: [Dirge of Doom](compendium/feats/dirge-of-doom.md), [Steady Spellcasting (Bard)](compendium/feats/steady-spellcasting-bard.md); 10th: [Quickened Casting (Bard)](compendium/feats/quickened-casting-bard.md); 14th: [Allegro](compendium/feats/allegro.md), [Soothing Ballad](compendium/feats/soothing-ballad.md); 16th: [Effortless Concentration (Bard)](compendium/feats/effortless-concentration-bard.md); 20th: [Fatal Aria](compendium/feats/fatal-aria.md)
+> - **Champion** divine ally and related feats, divine smite, exalt, feats based on cause; Feats 1st: [Deity's Domain](compendium/feats/deitys-domain.md); 2nd: [Divine Grace](compendium/feats/divine-grace.md); 4th: [Aura of Courage](compendium/feats/aura-of-courage.md), [Mercy](compendium/feats/mercy.md); 6th: [Attack of Opportunity (Champion)](compendium/feats/attack-of-opportunity-champion.md); 8th: [Greater Mercy](compendium/feats/greater-mercy.md); 12th: [Aura of Faith](compendium/feats/aura-of-faith.md); 14th: [Aura of Righteousness](compendium/feats/aura-of-righteousness.md), [Divine Reflexes](compendium/feats/divine-reflexes.md); 18th: [Celestial Form](compendium/feats/celestial-form.md), [Ultimate Mercy](compendium/feats/ultimate-mercy.md)
+> - **Cleric** Feats 1st: [Harming Hands](compendium/feats/harming-hands.md), [Healing Hands](compendium/feats/healing-hands.md); 2nd: [Sap Life](compendium/feats/sap-life.md), [Turn Undead](compendium/feats/turn-undead.md); 4th: [Command Undead](compendium/feats/command-undead.md), [Necrotic Infusion](compendium/feats/necrotic-infusion.md); 6th: [Divine Weapon](compendium/feats/divine-weapon.md), [Selective Energy](compendium/feats/selective-energy.md); 8th: [Channeled Succor](compendium/feats/channeled-succor.md); 12th: [Defensive Recovery](compendium/feats/defensive-recovery.md); 14th: [Fast Channel](compendium/feats/fast-channel.md); 16th: [Eternal Bane](compendium/feats/eternal-bane.md), [Eternal Blessing](compendium/feats/eternal-blessing.md)
+> - **Druid** order feats; Feats 6th: [Steady Spellcasting (Druid)](compendium/feats/steady-spellcasting-druid.md); 8th: [Fey Caller](compendium/feats/fey-caller.md) (only the added spells); 10th: [Overwhelming Energy (Druid)](compendium/feats/overwhelming-energy-druid.md); 12th: [Primal Summons](compendium/feats/primal-summons.md); 16th: [Effortless Concentration (Druid)](compendium/feats/effortless-concentration-druid.md), 20th: [Leyline Conduit](compendium/feats/leyline-conduit.md)
+> - **Fighter** bravery, feats associated with a combat style; Feats 1st: [Power Attack](compendium/feats/power-attack.md), [Sudden Charge (Fighter)](compendium/feats/sudden-charge-fighter.md); 2nd: [Intimidating Strike](compendium/feats/intimidating-strike.md), [Lunge](compendium/feats/lunge.md); 4th: [Knockdown](compendium/feats/knockdown.md), [Swipe (Fighter)](compendium/feats/swipe-fighter.md); 6th: [Shatter Defenses](compendium/feats/shatter-defenses.md); 8th: [Blind-Fight (Fighter)](compendium/feats/blind-fight-fighter.md), [Felling Strike](compendium/feats/felling-strike.md), [Sudden Leap (Fighter)](compendium/feats/sudden-leap-fighter.md); 10th: [Certain Strike](compendium/feats/certain-strike.md), [Combat Reflexes](compendium/feats/combat-reflexes.md), [Disruptive Stance](compendium/feats/disruptive-stance.md), [Fearsome Brute](compendium/feats/fearsome-brute.md); 12th: [Spring Attack](compendium/feats/spring-attack.md); 14th: [Determination](compendium/feats/determination.md), [Whirlwind Strike (Fighter)](compendium/feats/whirlwind-strike-fighter.md); 20th: [Weapon Supremacy](compendium/feats/weapon-supremacy.md)
+> - **Monk** metal strikes, mystic strikes, perfected form, stance and related feats; Feats 1st: [Ki Rush](compendium/feats/ki-rush.md), [Ki Strike](compendium/feats/ki-strike.md); 2nd: [Crushing Grab](compendium/feats/crushing-grab.md), [Stunning Fist](compendium/feats/stunning-fist.md); 4th: [Deflect Arrow](compendium/feats/deflect-arrow.md), [Flying Kick](compendium/feats/flying-kick.md); 6th: [Abundant Step](compendium/feats/abundant-step.md), [Ki Blast](compendium/feats/ki-blast.md), [Whirling Throw](compendium/feats/whirling-throw.md); 8th: [Wall Run](compendium/feats/wall-run.md); 10th: [Winding Flow](compendium/feats/winding-flow.md); 16th: [Quivering Palm](compendium/feats/quivering-palm.md), [Shattering Strike](compendium/feats/shattering-strike.md); 18th: [Diamond Fists](compendium/feats/diamond-fists.md), [Swift River](compendium/feats/swift-river.md); 20th: [Enduring Quickness](compendium/feats/enduring-quickness.md), Impossible Techniques
+> - **Ranger** [Hunt Prey](rules/actions/hunt-prey.md), hunter's edge, nature's edge, masterful hunter, swift prey, companion or combat style and related feats; Feats 2nd: [Quick Draw (Ranger)](compendium/feats/quick-draw-ranger.md), [Wild Empathy](compendium/feats/wild-empathy.md); 4th: Scout's Warning; 6th: Skirmish Strike; 8th: [Blind-Fight (Ranger)](compendium/feats/blind-fight-ranger.md), [Warden's Boon](compendium/feats/wardens-boon.md); 10th: [Camouflage](compendium/feats/camouflage.md); 14th: Sense the Unseen; 18th: [Shadow Hunter](compendium/feats/shadow-hunter.md); 20th: [Ultimate Skirmisher](compendium/feats/ultimate-skirmisher.md)
+> - **Rogue** surprise attack, deny advantage, debilitating strike, master strike, rogue's racket and related feats; Feats 1st: Nimble Dodge; 2nd: [Mobility](compendium/feats/mobility.md), [Quick Draw (Rogue)](compendium/feats/quick-draw-rogue.md); 4th: Scout's Warning; 6th: [Gang Up](compendium/feats/gang-up.md), Skirmish Strike, [Twist the Knife](compendium/feats/twist-the-knife.md); 8th: [Blind-Fight (Rogue)](compendium/feats/blind-fight-rogue.md), [Opportune Backstab](compendium/feats/opportune-backstab.md); 10th: [Sneak Savant](compendium/feats/sneak-savant.md); 12th: [Fantastic Leap](compendium/feats/fantastic-leap.md), [Spring from the Shadows](compendium/feats/spring-from-the-shadows.md); 14th: Sense the Unseen; 16th: [Dispelling Slice](compendium/feats/dispelling-slice.md), [Perfect Distraction](compendium/feats/perfect-distraction.md); 20th: [Hidden Paragon](compendium/feats/hidden-paragon.md), [Reactive Distraction](compendium/feats/reactive-distraction.md)
+> - **Sorcerer** bloodline and related feats; Feats 1st: [Counterspell (Sorcerer)](compendium/feats/counterspell-sorcerer.md), [Dangerous Sorcery](compendium/feats/dangerous-sorcery.md); 4th: [Bespell Weapon (Sorcerer)](compendium/feats/bespell-weapon-sorcerer.md); 6th: [Steady Spellcasting (Sorcerer)](compendium/feats/steady-spellcasting-sorcerer.md); 10th: [Overwhelming Energy (Sorcerer)](compendium/feats/overwhelming-energy-sorcerer.md), [Quickened Casting (Sorcerer)](compendium/feats/quickened-casting-sorcerer.md); 16th: [Effortless Concentration (Sorcerer)](compendium/feats/effortless-concentration-sorcerer.md); 20th: [Metamagic Mastery (Sorcerer)](compendium/feats/metamagic-mastery-sorcerer.md)
+> - **Wizard** school and related feats; Feats 1st: [Counterspell (Wizard)](compendium/feats/counterspell-wizard.md); 4th: [Bespell Weapon (Wizard)](compendium/feats/bespell-weapon-wizard.md); 6th: [Steady Spellcasting (Wizard)](compendium/feats/steady-spellcasting-wizard.md); 10th: [Overwhelming Energy (Wizard)](compendium/feats/overwhelming-energy-wizard.md), [Quickened Casting (Wizard)](compendium/feats/quickened-casting-wizard.md); 12th: [Clever Counterspell](compendium/feats/clever-counterspell.md); 14th: [Reflect Spell (Wizard)](compendium/feats/reflect-spell-wizard.md); 16th: [Effortless Concentration (Wizard)](compendium/feats/effortless-concentration-wizard.md); 18th: [Infinite Possibilities](compendium/feats/infinite-possibilities.md); 20th: [Metamagic Mastery (Wizard)](compendium/feats/metamagic-mastery-wizard.md), [Spell Combination](compendium/feats/spell-combination.md).
 
 ## Building Hazards
 <sup>GMG p. 74</sup>
@@ -1310,18 +1310,18 @@ The following information builds on concepts from Building Creatures, which star
 
 The three main types of hazards are traps, environmental hazards, and haunts.
 
-Traps are usually built or placed, though they can also form accidentally, such as if a magic portal, through millennia of disuse, malfunctions as its magic warps. Mechanical traps always have some physical component, whereas purely magical traps typically don't. Magical traps can usually be counteracted by _dispel magic_, and those without a listed proficiency rank for [Stealth](../../compendium/skills.md#Stealth) can be found using _detect magic_. [Thievery](../../compendium/skills.md#Thievery) is the most common skill used to disable traps.
+Traps are usually built or placed, though they can also form accidentally, such as if a magic portal, through millennia of disuse, malfunctions as its magic warps. Mechanical traps always have some physical component, whereas purely magical traps typically don't. Magical traps can usually be counteracted by _dispel magic_, and those without a listed proficiency rank for [Stealth](compendium/skills.md#Stealth) can be found using _detect magic_. [Thievery](compendium/skills.md#Thievery) is the most common skill used to disable traps.
 
-Environmental hazards are either living things, like dangerous spores and molds, or simply features of the terrain or environment, like avalanches or rockslides. While they are always physical, some environmental hazards can't reasonably be attacked or damaged, such as a cloud of poisonous gas or a patch of quicksand. [Survival](../../compendium/skills.md#Survival) is the most common skill used to disable environmental hazards.
+Environmental hazards are either living things, like dangerous spores and molds, or simply features of the terrain or environment, like avalanches or rockslides. While they are always physical, some environmental hazards can't reasonably be attacked or damaged, such as a cloud of poisonous gas or a patch of quicksand. [Survival](compendium/skills.md#Survival) is the most common skill used to disable environmental hazards.
 
-Haunts are spiritual hazards, usually formed when the spiritual essence of a location is imprinted with the instincts and emotions from a living being's demise. Because haunts lack matter, they rarely involve a physical component, and when they do, that component is generally incorporeal or might even be damaged only by positive energy. The skills and options used to disable haunts vary, though using [Religion](../../compendium/skills.md#Religion) for an exorcism is common. However, even with a successful check to disable a haunt, it can reoccur until its unfinished business is resolved. Typically, successfully disabling or enduring a haunt provides clues to determine what it would take to lay it to rest permanently.
+Haunts are spiritual hazards, usually formed when the spiritual essence of a location is imprinted with the instincts and emotions from a living being's demise. Because haunts lack matter, they rarely involve a physical component, and when they do, that component is generally incorporeal or might even be damaged only by positive energy. The skills and options used to disable haunts vary, though using [Religion](compendium/skills.md#Religion) for an exorcism is common. However, even with a successful check to disable a haunt, it can reoccur until its unfinished business is resolved. Typically, successfully disabling or enduring a haunt provides clues to determine what it would take to lay it to rest permanently.
 
 ### Understanding and Choosing Statistics
 <sup>GMG p. 74</sup>
 
 Much like for creatures, hazard statistics can be extreme, high, or low (hazards don't need as much granularity, so they usually don't have moderate or terrible values for their statistics). While they are defined in creature creation, when building a hazard, you'll use the values slightly differently.
 
-**Extreme:** While extreme values remain world-class statistics that are extremely difficult to meet or exceed, unlike with monsters, almost all hazards have one extreme statistic because hazards normally activate only if they have gone [unnoticed](../conditions.md#Unnoticed) or if someone critically failed to disable them. Does it have an extreme [Stealth](../../compendium/skills.md#Stealth) DC that makes it incredibly hard to find, an extreme Disable DC that makes it perilous to disable, or an extreme save DC that makes it deadly in the event it triggers? These are the most common choices, as each affects a different phase of encountering the hazard.
+**Extreme:** While extreme values remain world-class statistics that are extremely difficult to meet or exceed, unlike with monsters, almost all hazards have one extreme statistic because hazards normally activate only if they have gone [unnoticed](rules/conditions.md#Unnoticed) or if someone critically failed to disable them. Does it have an extreme [Stealth](compendium/skills.md#Stealth) DC that makes it incredibly hard to find, an extreme Disable DC that makes it perilous to disable, or an extreme save DC that makes it deadly in the event it triggers? These are the most common choices, as each affects a different phase of encountering the hazard.
 
 **High:** This is a capable level, and can generally serve as a baseline value; this value for hazards covers what would be the high and moderate ranges for creatures.
 
@@ -1332,7 +1332,7 @@ Much like for creatures, hazard statistics can be extreme, high, or low (hazards
 
 When determining a hazard's combat statistics, first decide how the hazard can be located and how hard it is to disable.
 
-A hazard where the main challenge is how difficult it is to find, like the _Core Rulebook's_ [hidden](../conditions.md#Hidden) pit, might have a very different effect for its level than a hazard out in plain sight, daring a PC to try to disable it, like the _Armageddon orb_
+A hazard where the main challenge is how difficult it is to find, like the _Core Rulebook's_ [hidden](rules/conditions.md#Hidden) pit, might have a very different effect for its level than a hazard out in plain sight, daring a PC to try to disable it, like the _Armageddon orb_
 
 | Level | Extreme | High | Low |
 |-------|---------|------|-----|
@@ -1365,14 +1365,14 @@ A hazard where the main challenge is how difficult it is to find, like the _Core
 
 When deciding how your hazard is disabled, come up with a narrative description of how it would happen, which will inform which methods and skills disable the hazard. You'll need to decide the proficiency rank necessary to find the hazard as well as disable it with each method.
 
-Remember, a hazard without a listed rank next to its [Stealth](../../compendium/skills.md#Stealth) DC is obvious enough that creatures can find it without [Searching](../actions/search.md), and magical hazards without a listed rank are not normally protected against _detect magic_. Most hazards built by intelligent creatures are [concealed](../conditions.md#Concealed) have at least a trained rank. Table 2–14 indicates the high and moderate proficiency requirements by level; you can use lower proficiency ranks than the ones listed, and if you use the high rank, consider a secondary, perhaps less-efficient method to disable the hazard using a lower rank. For instance, the bloodthirsty urge haunt in the _Core Rulebook_ can be disabled with master [Religion](../../compendium/skills.md#Religion), or by a higher DC with expert [Diplomacy](../../compendium/skills.md#Diplomacy).
+Remember, a hazard without a listed rank next to its [Stealth](compendium/skills.md#Stealth) DC is obvious enough that creatures can find it without [Searching](rules/actions/search.md), and magical hazards without a listed rank are not normally protected against _detect magic_. Most hazards built by intelligent creatures are [concealed](rules/conditions.md#Concealed) have at least a trained rank. Table 2–14 indicates the high and moderate proficiency requirements by level; you can use lower proficiency ranks than the ones listed, and if you use the high rank, consider a secondary, perhaps less-efficient method to disable the hazard using a lower rank. For instance, the bloodthirsty urge haunt in the _Core Rulebook_ can be disabled with master [Religion](compendium/skills.md#Religion), or by a higher DC with expert [Diplomacy](compendium/skills.md#Diplomacy).
 
-If you need a [Stealth](../../compendium/skills.md#Stealth) modifier for a complex hazard, just subtract 10 from the listed DC.
+If you need a [Stealth](compendium/skills.md#Stealth) modifier for a complex hazard, just subtract 10 from the listed DC.
 
 | Levels | High | Moderate |
 |--------|------|----------|
 | 0 or lower | Untrained | Untrained |
-| 1-4 | Trained (expert for [Perception](../../compendium/skills.md#Perception)) | Trained |
+| 1-4 | Trained (expert for [Perception](compendium/skills.md#Perception)) | Trained |
 | 5-8 | Expert | Trained |
 | 9-18 | Master | Expert |
 | 19 or higher | Legendary | Master |
@@ -1384,32 +1384,32 @@ If there's a physical component that a character could break, you'll need to det
 
 | Level | EAC | HAC | LAC | E Save | H Save | L Save | Hardness | HP* |
 |-------|-----|-----|-----|--------|--------|--------|----------|-----|
-| –1 | 18 | 15 | 12 | `1d20+9` | `1d20+8` | `1d20+2` | 2–4 | 11–13 |
-| 0 | 19 | 16 | 13 | `1d20+10` | `1d20+9` | `1d20+3` | 3–5 | 15–17 |
-| 1 | 19 | 16 | 13 | `1d20+11` | `1d20+10` | `1d20+4` | 5–7 | 23–25 |
-| 2 | 21 | 18 | 15 | `1d20+12` | `1d20+11` | `1d20+5` | 7–9 | 30–34 |
-| 3 | 22 | 19 | 16 | `1d20+14` | `1d20+12` | `1d20+6` | 10–12 | 42–46 |
-| 4 | 24 | 21 | 18 | `1d20+15` | `1d20+14` | `1d20+8` | 11–13 | 46–50 |
-| 5 | 25 | 22 | 19 | `1d20+17` | `1d20+15` | `1d20+9` | 12–14 | 50–54 |
-| 6 | 27 | 24 | 21 | `1d20+18` | `1d20+17` | `1d20+11` | 13–15 | 54–58 |
-| 7 | 28 | 25 | 22 | `1d20+20` | `1d20+18` | `1d20+12` | 14–16 | 58–62 |
-| 8 | 30 | 27 | 24 | `1d20+21` | `1d20+19` | `1d20+13` | 15–17 | 62–66 |
-| 9 | 31 | 28 | 25 | `1d20+23` | `1d20+21` | `1d20+15` | 16–18 | 66–70 |
-| 10 | 33 | 30 | 27 | `1d20+24` | `1d20+22` | `1d20+16` | 17–19 | 70–74 |
-| 11 | 34 | 31 | 28 | `1d20+26` | `1d20+24` | `1d20+18` | 19–21 | 78–82 |
-| 12 | 36 | 33 | 30 | `1d20+27` | `1d20+25` | `1d20+19` | 20–22 | 82–86 |
-| 13 | 37 | 34 | 31 | `1d20+29` | `1d20+26` | `1d20+20` | 21–23 | 86–90 |
-| 14 | 39 | 36 | 33 | `1d20+30` | `1d20+28` | `1d20+22` | 22–24 | 90–94 |
-| 15 | 40 | 37 | 34 | `1d20+32` | `1d20+29` | `1d20+23` | 23–25 | 94–98 |
-| 16 | 42 | 39 | 36 | `1d20+33` | `1d20+30` | `1d20+25` | 25–27 | 101–107 |
-| 17 | 43 | 40 | 37 | `1d20+35` | `1d20+32` | `1d20+26` | 27–29 | 109–115 |
-| 18 | 45 | 42 | 39 | `1d20+36` | `1d20+33` | `1d20+27` | 29–31 | 117–123 |
-| 19 | 46 | 43 | 40 | `1d20+38` | `1d20+35` | `1d20+29` | 31–33 | 125–131 |
-| 20 | 48 | 45 | 42 | `1d20+39` | `1d20+36` | `1d20+30` | 33–35 | 133–139 |
-| 21 | 49 | 46 | 43 | `1d20+41` | `1d20+38` | `1d20+32` | 36–38 | 144–152 |
-| 22 | 51 | 48 | 45 | `1d20+43` | `1d20+39` | `1d20+33` | 39–41 | 156–164 |
-| 23 | 52 | 49 | 46 | `1d20+44` | `1d20+40` | `1d20+34` | 44–46 | 168–176 |
-| 24 | 54 | 51 | 48 | `1d20+46` | `1d20+42` | `1d20+36` | 46–50 | 180–188 |
+| –1 | 18 | 15 | 12 | +9 | +8 | +2 | 2–4 | 11–13 |
+| 0 | 19 | 16 | 13 | +10 | +9 | +3 | 3–5 | 15–17 |
+| 1 | 19 | 16 | 13 | +11 | +10 | +4 | 5–7 | 23–25 |
+| 2 | 21 | 18 | 15 | +12 | +11 | +5 | 7–9 | 30–34 |
+| 3 | 22 | 19 | 16 | +14 | +12 | +6 | 10–12 | 42–46 |
+| 4 | 24 | 21 | 18 | +15 | +14 | +8 | 11–13 | 46–50 |
+| 5 | 25 | 22 | 19 | +17 | +15 | +9 | 12–14 | 50–54 |
+| 6 | 27 | 24 | 21 | +18 | +17 | +11 | 13–15 | 54–58 |
+| 7 | 28 | 25 | 22 | +20 | +18 | +12 | 14–16 | 58–62 |
+| 8 | 30 | 27 | 24 | +21 | +19 | +13 | 15–17 | 62–66 |
+| 9 | 31 | 28 | 25 | +23 | +21 | +15 | 16–18 | 66–70 |
+| 10 | 33 | 30 | 27 | +24 | +22 | +16 | 17–19 | 70–74 |
+| 11 | 34 | 31 | 28 | +26 | +24 | +18 | 19–21 | 78–82 |
+| 12 | 36 | 33 | 30 | +27 | +25 | +19 | 20–22 | 82–86 |
+| 13 | 37 | 34 | 31 | +29 | +26 | +20 | 21–23 | 86–90 |
+| 14 | 39 | 36 | 33 | +30 | +28 | +22 | 22–24 | 90–94 |
+| 15 | 40 | 37 | 34 | +32 | +29 | +23 | 23–25 | 94–98 |
+| 16 | 42 | 39 | 36 | +33 | +30 | +25 | 25–27 | 101–107 |
+| 17 | 43 | 40 | 37 | +35 | +32 | +26 | 27–29 | 109–115 |
+| 18 | 45 | 42 | 39 | +36 | +33 | +27 | 29–31 | 117–123 |
+| 19 | 46 | 43 | 40 | +38 | +35 | +29 | 31–33 | 125–131 |
+| 20 | 48 | 45 | 42 | +39 | +36 | +30 | 33–35 | 133–139 |
+| 21 | 49 | 46 | 43 | +41 | +38 | +32 | 36–38 | 144–152 |
+| 22 | 51 | 48 | 45 | +43 | +39 | +33 | 39–41 | 156–164 |
+| 23 | 52 | 49 | 46 | +44 | +40 | +34 | 44–46 | 168–176 |
+| 24 | 54 | 51 | 48 | +46 | +42 | +36 | 46–50 | 180–188 |
 
 * The Broken Threshold is usually half the hazard's HP.
 
@@ -1424,32 +1424,32 @@ The damage columns on the table give a damage expression you can use, followed b
 
 | Level | S. Atk | C. Atk | Simple Dmg | Complex Dmg | EDC | HDC |
 |-------|--------|--------|------------|-------------|-----|-----|
-| –1 | `1d20+10` | `1d20+8` | `2d4+1` (6) | `1d4+1` (3) | 19 | 16 |
-| 0 | `1d20+11` | `1d20+8` | `2d6+3` (10) | `1d6+2` (5) | 19 | 16 |
-| 1 | `1d20+13` | `1d20+9` | `2d6+5` (12) | `1d6+3` (6) | 20 | 17 |
-| 2 | `1d20+14` | `1d20+11` | `2d10+7` (18) | `1d10+4` (9) | 22 | 18 |
-| 3 | `1d20+16` | `1d20+12` | `2d10+13` (24) | `1d10+6` (12) | 23 | 20 |
-| 4 | `1d20+17` | `1d20+14` | `4d8+10` (28) | `2d8+5` (14) | 25 | 21 |
-| 5 | `1d20+19` | `1d20+15` | `4d8+14` (32) | `2d8+7` (16) | 26 | 22 |
-| 6 | `1d20+20` | `1d20+17` | `4d8+18` (36) | `2d8+9` (18) | 27 | 24 |
-| 7 | `1d20+22` | `1d20+18` | `4d10+18` (40) | `2d10+9` (20) | 29 | 25 |
-| 8 | `1d20+23` | `1d20+20` | `4d10+22` (44) | `2d10+11` (22) | 30 | 26 |
-| 9 | `1d20+25` | `1d20+21` | `4d10+26` (48) | `2d10+13` (24) | 32 | 28 |
-| 10 | `1d20+26` | `1d20+23` | `4d12+26` (52) | `2d12+13` (26) | 33 | 29 |
-| 11 | `1d20+28` | `1d20+24` | `4d12+30` (56) | `2d12+15` (28) | 34 | 30 |
-| 12 | `1d20+29` | `1d20+26` | `6d10+27` (60) | `3d10+14` (30) | 36 | 32 |
-| 13 | `1d20+31` | `1d20+27` | `6d10+31` (64) | `3d10+16` (32) | 37 | 33 |
-| 14 | `1d20+32` | `1d20+29` | `6d10+35` (68) | `3d10+18` (34) | 39 | 34 |
-| 15 | `1d20+34` | `1d20+30` | `6d12+33` (72) | `3d12+17` (36) | 40 | 36 |
-| 16 | `1d20+35` | `1d20+32` | `6d12+35` (74) | `3d12+18` (37) | 41 | 37 |
-| 17 | `1d20+37` | `1d20+33` | `6d12+37` (76) | `3d12+19` (38) | 43 | 38 |
-| 18 | `1d20+38` | `1d20+35` | `6d12+41` (80) | `3d12+20` (40) | 44 | 40 |
-| 19 | `1d20+40` | `1d20+36` | `8d10+40` (84) | `4d10+20` (42) | 46 | 41 |
-| 20 | `1d20+41` | `1d20+38` | `8d10+44` (88) | `4d10+22` (44) | 47 | 42 |
-| 21 | `1d20+43` | `1d20+39` | `8d10+48` (92) | `4d10+24` (46) | 48 | 44 |
-| 22 | `1d20+44` | `1d20+41` | `8d10+52` (96) | `4d10+26` (48) | 50 | 45 |
-| 23 | `1d20+46` | `1d20+42` | `8d12+48` (100) | `4d12+24` (50) | 51 | 46 |
-| 24 | `1d20+47` | `1d20+44` | `8d12+52` (104) | `4d12+26` (52) | 52 | 48 |
+| –1 | +10 | +8 | `2d4+1` (6) | `1d4+1` (3) | 19 | 16 |
+| 0 | +11 | +8 | `2d6+3` (10) | `1d6+2` (5) | 19 | 16 |
+| 1 | +13 | +9 | `2d6+5` (12) | `1d6+3` (6) | 20 | 17 |
+| 2 | +14 | +11 | `2d10+7` (18) | `1d10+4` (9) | 22 | 18 |
+| 3 | +16 | +12 | `2d10+13` (24) | `1d10+6` (12) | 23 | 20 |
+| 4 | +17 | +14 | `4d8+10` (28) | `2d8+5` (14) | 25 | 21 |
+| 5 | +19 | +15 | `4d8+14` (32) | `2d8+7` (16) | 26 | 22 |
+| 6 | +20 | +17 | `4d8+18` (36) | `2d8+9` (18) | 27 | 24 |
+| 7 | +22 | +18 | `4d10+18` (40) | `2d10+9` (20) | 29 | 25 |
+| 8 | +23 | +20 | `4d10+22` (44) | `2d10+11` (22) | 30 | 26 |
+| 9 | +25 | +21 | `4d10+26` (48) | `2d10+13` (24) | 32 | 28 |
+| 10 | +26 | +23 | `4d12+26` (52) | `2d12+13` (26) | 33 | 29 |
+| 11 | +28 | +24 | `4d12+30` (56) | `2d12+15` (28) | 34 | 30 |
+| 12 | +29 | +26 | `6d10+27` (60) | `3d10+14` (30) | 36 | 32 |
+| 13 | +31 | +27 | `6d10+31` (64) | `3d10+16` (32) | 37 | 33 |
+| 14 | +32 | +29 | `6d10+35` (68) | `3d10+18` (34) | 39 | 34 |
+| 15 | +34 | +30 | `6d12+33` (72) | `3d12+17` (36) | 40 | 36 |
+| 16 | +35 | +32 | `6d12+35` (74) | `3d12+18` (37) | 41 | 37 |
+| 17 | +37 | +33 | `6d12+37` (76) | `3d12+19` (38) | 43 | 38 |
+| 18 | +38 | +35 | `6d12+41` (80) | `3d12+20` (40) | 44 | 40 |
+| 19 | +40 | +36 | `8d10+40` (84) | `4d10+20` (42) | 46 | 41 |
+| 20 | +41 | +38 | `8d10+44` (88) | `4d10+22` (44) | 47 | 42 |
+| 21 | +43 | +39 | `8d10+48` (92) | `4d10+24` (46) | 48 | 44 |
+| 22 | +44 | +41 | `8d10+52` (96) | `4d10+26` (48) | 50 | 45 |
+| 23 | +46 | +42 | `8d12+48` (100) | `4d12+24` (50) | 51 | 46 |
+| 24 | +47 | +44 | `8d12+52` (104) | `4d12+26` (52) | 52 | 48 |
 
 #### Designing Simple Hazards
 <sup>GMG p. 76</sup>
@@ -1463,7 +1463,7 @@ Unlike a simple hazard, a complex hazard can play the part of a creature in a ba
 
 Complex hazards have a lot more in common with creatures than simple hazards do, and you'll see that a complex hazard's statistics are similar to those of a creature.
 
-A good complex hazard often requires disabling multiple components or otherwise interacting with the encounter in some way. For instance, while the _Core Rulebook's_ poisoned dart gallery requires only one [Thievery](../../compendium/skills.md#Thievery) check to disable, the control panel is on the far end of the gallery, so a PC would need to make their way across first.
+A good complex hazard often requires disabling multiple components or otherwise interacting with the encounter in some way. For instance, while the _Core Rulebook's_ poisoned dart gallery requires only one [Thievery](compendium/skills.md#Thievery) check to disable, the control panel is on the far end of the gallery, so a PC would need to make their way across first.
 
 ##### Building Routines
 <sup>GMG p. 76</sup>
@@ -1518,7 +1518,7 @@ For specific advice for the type of magic item you are creating, check out Desig
 
 When deciding what special abilities are appropriate for what level, it's best to look for similar spells to gauge the effect. For most consumables, the effect should be less powerful than the highest level spell a spellcaster of the item's level could cast. Scrolls are about the most efficient you can get—they're the same level the spellcaster would be—but they require a spellcaster that has the spell on their list, and take the same actions as casting the spell normally.
 
-The most straightforward choice is a once-per-day ability. For this, the item's level should be at least 2 levels higher than the minimum level a spellcaster could first cast that spell. For example, if your ability is about as powerful as a 3rd-level spell cast once per day (perhaps [haste](../../compendium/spells/haste.md)), then it should be at least a 7th-level item. A basic wand is a good example. However, a wand is flexible and can contain the most effective possible choice for its spell level (such as long-lasting spells where once a day is effectively permanent), so a specific item that doesn't grant such a spell could have additional powers or bonuses at the same price as a wand.
+The most straightforward choice is a once-per-day ability. For this, the item's level should be at least 2 levels higher than the minimum level a spellcaster could first cast that spell. For example, if your ability is about as powerful as a 3rd-level spell cast once per day (perhaps [haste](compendium/spells/haste.md)), then it should be at least a 7th-level item. A basic wand is a good example. However, a wand is flexible and can contain the most effective possible choice for its spell level (such as long-lasting spells where once a day is effectively permanent), so a specific item that doesn't grant such a spell could have additional powers or bonuses at the same price as a wand.
 
 If the item can be activated multiple times per day, it should be at least 4 levels higher instead—9th level in our example. Frequency could range from twice per day to once per hour and anything in between. Choose whatever makes sense to allow the characters to use the item more frequently without being effectively constant or unlimited. The appropriate frequency, or whether it's ever okay to have unlimited activations, varies wildly based on the spell. Unlimited castings of a cantrip is fine, but an effect akin to a non-cantrip spell is rarely a good idea. Only attempt to build such an item when you're certain of the consequences.
 
@@ -1529,7 +1529,7 @@ Items that can be activated less often than once per day don't appear too often,
 
 If you want an effect to be constant, set the level and Price accordingly. For instance, let's say your group is 16th level and you want to give them an item themed around flying.
 
-A 7th-level [fly](../../compendium/spells/fly.md) spell lasts an hour already, so one casting covers a significant portion of the adventuring day. To keep it simpler, you decide to create a 16th-level cloak that lets the wearer constantly fly. Remember, some effects were never meant to be constant and could warp your game.
+A 7th-level [fly](compendium/spells/fly.md) spell lasts an hour already, so one casting covers a significant portion of the adventuring day. To keep it simpler, you decide to create a 16th-level cloak that lets the wearer constantly fly. Remember, some effects were never meant to be constant and could warp your game.
 
 ##### Activation Actions
 <sup>GMG p. 83</sup>
@@ -1544,11 +1544,11 @@ Some spells aren't appealing if their level is too low. For instance, an item th
 #### Bonuses
 <sup>GMG p. 83</sup>
 
-If your item includes item bonuses, check the table below for the minimum item levels the game's math expects permanent bonuses to be applied to. A lower-level item might give such a bonus temporarily, but keep track to make sure the item isn't effectively permanent. If a character typically picks three or fewer locks a day, there's no difference between a +2 item bonus to pick all locks and an activation that gives a +2 item bonus to [Pick a Lock](../actions/pick-a-lock.md) three times per day.
+If your item includes item bonuses, check the table below for the minimum item levels the game's math expects permanent bonuses to be applied to. A lower-level item might give such a bonus temporarily, but keep track to make sure the item isn't effectively permanent. If a character typically picks three or fewer locks a day, there's no difference between a +2 item bonus to pick all locks and an activation that gives a +2 item bonus to [Pick a Lock](rules/actions/pick-a-lock.md) three times per day.
 
 For attack bonuses, AC, and saves, the minimums match _magic weapons_ and _magic armor_. You can have other items with these bonuses (like _handwraps of mighty blows_), but keep in mind they compete with fundamental runes.
 
-Skill bonuses come on a wider range of items. Some are more broadly useful, so an [Athletics](../../compendium/skills.md#Athletics) item might be more expensive than an equivalent [Society](../../compendium/skills.md#Society) item. Gaining a bonus to [Perception](../../compendium/skills.md#Perception) is especially valuable compared to gaining a bonus to a skill. Just because an item is the minimum level for its bonus doesn't mean the bonus should be the item's only power. The item can and should have an additional interesting power beyond the bonus. Likewise, an item can come at a higher level than the minimum, but if it's much higher, its abilities start to compete with the next bonus.
+Skill bonuses come on a wider range of items. Some are more broadly useful, so an [Athletics](compendium/skills.md#Athletics) item might be more expensive than an equivalent [Society](compendium/skills.md#Society) item. Gaining a bonus to [Perception](compendium/skills.md#Perception) is especially valuable compared to gaining a bonus to a skill. Just because an item is the minimum level for its bonus doesn't mean the bonus should be the item's only power. The item can and should have an additional interesting power beyond the bonus. Likewise, an item can come at a higher level than the minimum, but if it's much higher, its abilities start to compete with the next bonus.
 
 | Statistic | +1 | +2 | +3 |
 |-----------|----|----|----|
@@ -1567,7 +1567,7 @@ The following guidance applies to items of various types.
 #### Alchemical Items
 <sup>GMG p. 83</sup>
 
-Alchemical items are consumables. Because alchemists can make a large number for free, alchemical items tend to be on the weaker end for their level, with lower Prices. Avoid [alchemical](../traits/alchemical.md) effects that feel too much like magic. Alchemy is capable of fantastical things, but should have its own distinct feel; where you draw the line depends on your game.
+Alchemical items are consumables. Because alchemists can make a large number for free, alchemical items tend to be on the weaker end for their level, with lower Prices. Avoid [alchemical](rules/traits/alchemical.md "Alchemical Item Trait") effects that feel too much like magic. Alchemy is capable of fantastical things, but should have its own distinct feel; where you draw the line depends on your game.
 
 Alchemical bombs are like weapons for alchemists and should usually primarily deal damage, with small extra effects. Existing bombs are great models. Elixirs are varied; make sure not to duplicate potions, especially highly magical ones. Be careful with mutagen drawbacks; it's easy to make one that doesn't affect certain characters. Look at the serene mutagen. If its drawback didn't affect spells, Wisdom-based casters who didn't use weapons would have no drawback.
 
@@ -1576,7 +1576,7 @@ Poisons are one of the trickier alchemical items to make, and it's usually best 
 #### Ammunition
 <sup>GMG p. 83</sup>
 
-Magic ammunition is consumable; launching it destroys it. Pay attention to whether you give the ammunition an activation: any big flashy effect for its level should almost always have one, since otherwise the effect is essentially a free action on top of a [Strike](../actions/strike.md). This is particularly important for extremely low-level ammunition, since a high-level character could use that ammunition for every [Strike](../actions/strike.md) without noticing the gold cost. If the ammunition doesn't deal normal [Strike](../actions/strike.md) damage on a hit, remember to say that! Dealing damage is the default.
+Magic ammunition is consumable; launching it destroys it. Pay attention to whether you give the ammunition an activation: any big flashy effect for its level should almost always have one, since otherwise the effect is essentially a free action on top of a [Strike](rules/actions/strike.md). This is particularly important for extremely low-level ammunition, since a high-level character could use that ammunition for every [Strike](rules/actions/strike.md) without noticing the gold cost. If the ammunition doesn't deal normal [Strike](rules/actions/strike.md) damage on a hit, remember to say that! Dealing damage is the default.
 
 #### Armor and Weapons
 <sup>GMG p. 83</sup>
@@ -1592,14 +1592,14 @@ When picking abilities, you can also consider taking from the relic gifts found 
 #### Held Items
 <sup>GMG p. 84</sup>
 
-Usually, held items should require manipulation to use, with [Interact](../actions/interact.md) activations. They are most often tools, implements, items that can be thrown, and the like. Imagine a PC physically using the item and what that looks like.
+Usually, held items should require manipulation to use, with [Interact](rules/actions/interact.md) activations. They are most often tools, implements, items that can be thrown, and the like. Imagine a PC physically using the item and what that looks like.
 
 Remember that held items are more challenging for martial characters to use, compared to spellcasters or hands-free characters, like monks. A barbarian might have to give up a two-handed weapon to use a held item, and so is less likely to use one. This means you might want to design held items specifically for non-martial characters, or have them be items a martial character uses outside of combat.
 
 #### Oils
 <sup>GMG p. 84</sup>
 
-Oils are consumables you slather onto items or, rarely, creatures. They provide an interesting opportunity to apply effects to other items. Just remember not to accidentally make something that should be applied topically into a potion; for instance, a [petrified](../conditions.md#Petrified) character can't drink an anti-petrifying potion! The actions an oil takes to use depend on how thoroughly it needs to be applied. For one used outside of combat, it could take a minute or more.
+Oils are consumables you slather onto items or, rarely, creatures. They provide an interesting opportunity to apply effects to other items. Just remember not to accidentally make something that should be applied topically into a potion; for instance, a [petrified](rules/conditions.md#Petrified) character can't drink an anti-petrifying potion! The actions an oil takes to use depend on how thoroughly it needs to be applied. For one used outside of combat, it could take a minute or more.
 
 #### Potions
 <sup>GMG p. 84</sup>
@@ -1629,7 +1629,7 @@ You'll need to come up with a theme and curate a list of spells that stay close 
 #### Structures
 <sup>GMG p. 84</sup>
 
-Structures are evocative and make great tertiary items, quirky but not part of a combat build. This allows you to price them affordably, but make sure there isn't some [hidden](../conditions.md#Hidden) abuse where the structure drastically alters encounters. The [structure](../traits/structure.md) trait is intended to help as a starting point.
+Structures are evocative and make great tertiary items, quirky but not part of a combat build. This allows you to price them affordably, but make sure there isn't some [hidden](rules/conditions.md#Hidden) abuse where the structure drastically alters encounters. The [structure](rules/traits/structure.md "Structure General Trait") trait is intended to help as a starting point.
 
 #### Talismans
 <sup>GMG p. 84</sup>
@@ -1648,7 +1648,7 @@ Worn items vary wildly in their effects, but they all take up one of a character
 
 > [!pf2-brown] POTIONS VS. ELIXIRS
 > 
-> Alchemical items and magic items follow a similar price economy based on their level, but the effects of potions can be a bit broader and more directly magical. Alchemists can also make extremely large numbers of elixirs at an item level equal to their alchemist level, so if a 17th level elixir was competing with a 9th level spell for power, an alchemist would be packing the equivalent of over 40 9th level spells, and potentially [quickened](../conditions.md#Quickened) spells thanks to the single action activation.
+> Alchemical items and magic items follow a similar price economy based on their level, but the effects of potions can be a bit broader and more directly magical. Alchemists can also make extremely large numbers of elixirs at an item level equal to their alchemist level, so if a 17th level elixir was competing with a 9th level spell for power, an alchemist would be packing the equivalent of over 40 9th level spells, and potentially [quickened](rules/conditions.md#Quickened) spells thanks to the single action activation.
 
 Where the item is worn should usually match its effects or bonuses: shoes help you move, eyepieces affect your vision, and so on. As with held items, imagine a character wearing the item to picture how they use its magic.
 
@@ -1701,9 +1701,9 @@ Each item level has a price range. Based on the item's role and abilities, decid
 
 Primary items cost near the highest value for their level.
 
-They have a big impact on combat or player ability. This includes weapons, armor, and [Perception](../../compendium/skills.md#Perception) items. The highest price is for items like _magic weapons_, _magic armor_, and apex items. So a _+1 striking weapon_ is 100 gp at 4th level.
+They have a big impact on combat or player ability. This includes weapons, armor, and [Perception](compendium/skills.md#Perception) items. The highest price is for items like _magic weapons_, _magic armor_, and apex items. So a _+1 striking weapon_ is 100 gp at 4th level.
 
-Secondary items, with middle values, give significant secondary benefits or enhance highly consequential noncombat or support skills like [Medicine](../../compendium/skills.md#Medicine) or [Crafting](../../compendium/skills.md#Crafting).
+Secondary items, with middle values, give significant secondary benefits or enhance highly consequential noncombat or support skills like [Medicine](compendium/skills.md#Medicine) or [Crafting](compendium/skills.md#Crafting).
 
 Tertiary items, with low value, are weird or very specific items, ones not usually core to a character's build.
 
@@ -1760,15 +1760,15 @@ Consumables have a slightly narrower range, with topend items like scrolls, opti
 | 19 | 5,001–8,000 gp |
 | 20 | 8,001–14,000 gp |
 
-You can use the table found here to quickly apply a quirk to any item, such as items found as treasure or new items that a PC creates. Rather than rolling, you can instead choose one yourself or invent a new quirk. Item quirks don't normally have any [mechanical](../traits/mechanical.md) effect, since their only purpose is to be colorful and further flesh out the world, though you can add one if you so choose. Such.
+You can use the table found here to quickly apply a quirk to any item, such as items found as treasure or new items that a PC creates. Rather than rolling, you can instead choose one yourself or invent a new quirk. Item quirks don't normally have any mechanical effect, since their only purpose is to be colorful and further flesh out the world, though you can add one if you so choose. Such.
 
 ## Item Quirks
 <sup>GMG p. 86</sup>
 
-You can use the table found here to quickly apply a quirk to any item, such as items found as treasure or new items that a PC creates. Rather than rolling, you can instead choose one yourself or invent a new quirk. Item quirks don't normally have any [mechanical](../traits/mechanical.md) effect, since their only purpose is to be colorful and further flesh out the world, though you can add one if you so choose. Such effects should never grant more than a +1 item bonus or –1 item penalty, and even then the statistic or check it applies to should be narrow. For a quirk that grants an item the ability to speak, you choose the language based on the history of the item, or your best guess of what that history might be. It's typically a language spoken by the item's creator.
+You can use the table found here to quickly apply a quirk to any item, such as items found as treasure or new items that a PC creates. Rather than rolling, you can instead choose one yourself or invent a new quirk. Item quirks don't normally have any mechanical effect, since their only purpose is to be colorful and further flesh out the world, though you can add one if you so choose. Such effects should never grant more than a +1 item bonus or –1 item penalty, and even then the statistic or check it applies to should be narrow. For a quirk that grants an item the ability to speak, you choose the language based on the history of the item, or your best guess of what that history might be. It's typically a language spoken by the item's creator.
 
-| `1d100` | Quirk | Description |
-|---------|-------|-------------|
+| d% | Quirk | Description |
+|----|-------|-------------|
 | 01 | Melodic | Faint music plays when in use. |
 | 02 | Skin-altering | The user's skin color changes to a bright color such as blue or green. |
 | 03 | Choral | Repeats everything the user says in a singing voice. |
@@ -1880,7 +1880,7 @@ Introducing an intelligent item is an effective way to subtly alter the party dy
 ### Intelligent Item Rules
 <sup>GMG p. 88</sup>
 
-Every intelligent item has the [intelligent](../traits/intelligent-gmg.md) trait. Intelligent items can't be crafted by normal means—typically an accident, a divine act, or a major sacrifice on the part of the creator is required to grant the item the mental essence it needs for sentience, and in some rare cases the spiritual essence it needs to have a soul of its own.
+Every intelligent item has the [intelligent](rules/traits/intelligent-gmg.md "Intelligent Item Trait") trait. Intelligent items can't be crafted by normal means—typically an accident, a divine act, or a major sacrifice on the part of the creator is required to grant the item the mental essence it needs for sentience, and in some rare cases the spiritual essence it needs to have a soul of its own.
 
 Because of this, intelligent items are always rare or unique. The normal statistics and rules for wearing or using an item of its type still apply to an intelligent item. In addition, intelligent items have a few statistics other items lack.
 
@@ -1892,7 +1892,7 @@ An intelligent item always has an alignment trait, just like any other creature,
 #### Perception and Senses
 <sup>GMG p. 88</sup>
 
-An intelligent item that has any sense of the world around them has a [Perception](../../compendium/skills.md#Perception) modifier. Intelligent items have only the senses listed within their entry, rather than the assumed assortment of senses that most creatures have. If an intelligent item notices something its partner doesn't, it might be able to communicate with its partner and let them know.
+An intelligent item that has any sense of the world around them has a [Perception](compendium/skills.md#Perception) modifier. Intelligent items have only the senses listed within their entry, rather than the assumed assortment of senses that most creatures have. If an intelligent item notices something its partner doesn't, it might be able to communicate with its partner and let them know.
 
 #### Communication and Languages
 <sup>GMG p. 88</sup>
@@ -1914,7 +1914,7 @@ Intelligent items have Intelligence, Wisdom, and Charisma scores, though as inan
 #### Will Save
 <sup>GMG p. 88</sup>
 
-Since they have their own minds, intelligent items might be subject to [mental](../traits/mental.md) effects that require a Will save.
+Since they have their own minds, intelligent items might be subject to [mental](rules/traits/mental.md "Mental Effect Trait") effects that require a Will save.
 
 ### Item Agency
 <sup>GMG p. 88</sup>
@@ -1938,9 +1938,9 @@ The following, as well as the intelligent artifact _Serithtial_ on page 112, are
 ## Cursed Items
 <sup>GMG p. 90</sup>
 
-Cursed items are almost never made intentionally; even those who set out to curse an item find the task incredibly difficult or even impossible. These items are the results of magical mishaps, shoddy crafting, or sinister forces interfering with the creation. Many specify how their curses work, but curses are fickle, and you as the GM determine how curses play out in your game. Due to these factors, an item with the [cursed](../traits/cursed-gmg.md) trait is always rare.
+Cursed items are almost never made intentionally; even those who set out to curse an item find the task incredibly difficult or even impossible. These items are the results of magical mishaps, shoddy crafting, or sinister forces interfering with the creation. Many specify how their curses work, but curses are fickle, and you as the GM determine how curses play out in your game. Due to these factors, an item with the [cursed](rules/traits/cursed-gmg.md "Cursed Item Trait") trait is always rare.
 
-**Identifying Cursed Items:** Cursed items often appear to be ordinary magical items, as the magic that warps their function also disguises their curses from detection. Unless you roll a critical success when Identifying a cursed item, it simply appears as something [helpful](../conditions.md#Helpful) or benign. A critical success reveals both the presence of the curse and the exact nature of the curse.
+**Identifying Cursed Items:** Cursed items often appear to be ordinary magical items, as the magic that warps their function also disguises their curses from detection. Unless you roll a critical success when Identifying a cursed item, it simply appears as something [helpful](rules/conditions.md#Helpful) or benign. A critical success reveals both the presence of the curse and the exact nature of the curse.
 
 **Removing Cursed Items:** Many cursed items can't be discarded. Some use magic to fuse to the wielder, making it impossible to remove the item, while others attune to their owner and return even if discarded. (This section uses the term "fuse" to describe either situation.) In many cases, this feature reveals itself only after the cursed item has been triggered for the first time or after investing the item for the first time, allowing the user to develop a false sense of security. Fused cursed items can be removed by targeting the item's owner with a _remove curse_ spell or similar magic. If the spell is successful, the item can be discarded, but nothing prevents the item from cursing the same creature again if the conditions are met, so it's best to dispose of the item quickly. Invested cursed items that can't be removed continue to count against a character's invested items, even without reinvesting them each day.
 
@@ -1957,7 +1957,7 @@ The following are a few examples of cursed items.
 
 Most curses alter a base item. Item curses alter their base item, much like a property rune, though they can't be detected or identified unless a creature critically succeeds at a check to Identify the Item. A curse can be applied to the specific types of magic items listed in its Usage entry.
 
-Curses typically can't be removed or transferred from the item, though at your discretion, either might be possible after the curse is [broken](../conditions.md#Broken). If the PCs manage to break the curse, the newly uncursed item could be quite valuable.
+Curses typically can't be removed or transferred from the item, though at your discretion, either might be possible after the curse is [broken](rules/conditions.md#Broken). If the PCs manage to break the curse, the newly uncursed item could be quite valuable.
 
 > [!pf2-note]
 > Please visit the items page to view all item curses.
@@ -1965,7 +1965,7 @@ Curses typically can't be removed or transferred from the item, though at your d
 ## Relics
 <sup>GMG p. 94</sup>
 
-Relics begin as a simple item, called a relic seed, which is little more than a functional item with a minor [magical](../traits/magical.md) effect associated with it. As the owner of the relic grows in power, so does the relic. It develops gifts, which are new magical abilities and activations. These abilities might be themed to the relic, the character, or the nature of the campaign. If a relic is passed to another character, this process begins anew, sometimes granting the same abilities again over time, but possibly unlocking entirely new powers. If someone else takes the relic from its owner, it usually works for a while, though it might lose its power incrementally over time if not returned to its owner. How the relic changes in such a circumstance is up to you, and should fit the story.
+Relics begin as a simple item, called a relic seed, which is little more than a functional item with a minor [magical](rules/traits/magical.md "Magical Item Trait") effect associated with it. As the owner of the relic grows in power, so does the relic. It develops gifts, which are new magical abilities and activations. These abilities might be themed to the relic, the character, or the nature of the campaign. If a relic is passed to another character, this process begins anew, sometimes granting the same abilities again over time, but possibly unlocking entirely new powers. If someone else takes the relic from its owner, it usually works for a while, though it might lose its power incrementally over time if not returned to its owner. How the relic changes in such a circumstance is up to you, and should fit the story.
 
 The decision to add relics to the game is entirely up to you as the GM. If you decide to add them, you'll need to adjust treasure somewhat. It's also wise to consider how many players you expect to end up with relics. Will they each get one? Or will there be just one or two tied to the theme of the campaign?
 
@@ -1978,7 +1978,7 @@ Other relics can be acquired during play as part of the ongoing story. Regardles
 
 For example, an old, tarnished amulet found around the neck of a buried king might turn out to be an item of deep historical significance that awakens to great power.
 
-The seemingly ordinary family sword, passed down to each new generation, might unlock [hidden](../conditions.md#Hidden) potential through the deeds of its owner.
+The seemingly ordinary family sword, passed down to each new generation, might unlock [hidden](rules/conditions.md#Hidden) potential through the deeds of its owner.
 
 The PCs might immediately recognize a relic for its ability, or they might carry it for a time before its true nature becomes apparent. The story of a relic should be a tale of discovery. At first, a relic's wielder likely does not fully understand the item's power, or might be unable to use it, learning of its abilities only after a momentous event or fortuitous breakthrough. Ultimately, relics are powerful tools in service of the story, working as a valuable tie to the narrative, but their growth and development are in your hands. Because of the place relics hold in the story, they aren't available for purchase, nor can they be crafted.
 
@@ -2010,18 +2010,18 @@ As a relic's bearer performs mighty deeds and advances their story, the relic ge
 
 The more complex advancement comes from gifts.
 
-[Table 2–22: Relic Gifts](../tables/relic-gifts-gmg.md) shows the typical number of gifts a relic should have at a given level, but relics don't follow this strictly. Rather, gifts arise according to the pace of the story, the needs of the campaign, and the relationship between the character and the relic. Generally speaking, this results in a relic gaining one gift for every 4 levels its bearer has, but this might fluctuate as the campaign progresses. For example, a relic might gain its first gift at 4th level after the bearer defeats a powerful foe. It might then gain its second at 7th, after they perform a special ritual. That same relic might not gain another gift until 13th level and then again at 16th as the player reaches other major milestones.
+[Table 2–22: Relic Gifts](rules/tables/relic-gifts-gmg.md) shows the typical number of gifts a relic should have at a given level, but relics don't follow this strictly. Rather, gifts arise according to the pace of the story, the needs of the campaign, and the relationship between the character and the relic. Generally speaking, this results in a relic gaining one gift for every 4 levels its bearer has, but this might fluctuate as the campaign progresses. For example, a relic might gain its first gift at 4th level after the bearer defeats a powerful foe. It might then gain its second at 7th, after they perform a special ritual. That same relic might not gain another gift until 13th level and then again at 16th as the player reaches other major milestones.
 
 The gift types—minor, major, and grand—indicate their general power level. Again, the table indicates what's generally appropriate at certain levels, but you can alter them as you see fit. You should usually avoid giving a minor gift at 10th level or higher, because it just won't be that impressive, though some of them scale well enough to be interesting at higher levels. The Gold Piece Equivalent entry for each gift helps you determine how much you should reduce treasure when using relics (see Adjusting Treasure below)
 
-![Relic Gifts](../tables/relic-gifts-gmg.md)
+![Relic Gifts](rules/tables/relic-gifts-gmg.md)
 
 You decide what gifts a relic gains, generally by either selecting a single gift or offering two paths for the relic to grow and allowing the player to choose, but this should be informed by the story and the nature of the character bearing the relic. A relic should complement the bearer, bolstering the bearer's strengths and helping to overcome their weaknesses. Within that framework, you should try to maintain a cohesive theme for the relic.
 
 ### Adjusting Treasure
 <sup>GMG p. 95</sup>
 
-When you incorporate relics into your game, you can adjust the treasure gained by the party down to account for the relics increasing in power. Essentially, some of the treasure from [Table 10–9: Party Treasure by Level](../tables/party-treasure-by-level.md) on page 509 of the _Core Rulebook_ should be replaced with relic seeds and gifts instead. You can use the relic's minimum level, replacing a permanent item of that level, or you can use the gp equivalent. Keep in mind that relic gifts are often a little more powerful than other items with the same Price even when they start out, and they often scale without any additional costs, so PCs with relics will usually be a bit more powerful.
+When you incorporate relics into your game, you can adjust the treasure gained by the party down to account for the relics increasing in power. Essentially, some of the treasure from [Table 10–9: Party Treasure by Level](rules/tables/party-treasure-by-level.md) on page 509 of the _Core Rulebook_ should be replaced with relic seeds and gifts instead. You can use the relic's minimum level, replacing a permanent item of that level, or you can use the gp equivalent. Keep in mind that relic gifts are often a little more powerful than other items with the same Price even when they start out, and they often scale without any additional costs, so PCs with relics will usually be a bit more powerful.
 
 If you prefer, you can grant relics in addition to other rewards. This means PCs will be much more powerful, but you're rewarding their investment in the story.
 
@@ -2055,7 +2055,7 @@ Many gifts allow for a saving throw or have other abilities that change as the r
 
 > [!pf2-brown] Runes as Gifts
 > 
-> You can substitute runes for gifts. If you choose to allow property runes on the relic, you'll want them to take up rune slots. Otherwise, you can give as many or few as you prefer, just like any other gifts. Runes are sorted into minor, major, and grand categories, but you should use their normal level and Price when you adjust treasure, instead of the number and levels on the [Table 2–22](../tables/relic-gifts-gmg.md). If you're using the player-driven relics variant, it's recommended you do not include this option.
+> You can substitute runes for gifts. If you choose to allow property runes on the relic, you'll want them to take up rune slots. Otherwise, you can give as many or few as you prefer, just like any other gifts. Runes are sorted into minor, major, and grand categories, but you should use their normal level and Price when you adjust treasure, instead of the number and levels on the [Table 2–22](rules/tables/relic-gifts-gmg.md). If you're using the player-driven relics variant, it's recommended you do not include this option.
 
 ## Artifacts
 <sup>GMG p. 106</sup>
@@ -2067,7 +2067,7 @@ Prepare yourself for encounters being easily overcome by the artifact. That does
 ### Artifact Rules
 <sup>GMG p. 106</sup>
 
-Every artifact is an item with the [artifact](../traits/artifact-gmg.md) trait. This trait means two things: the item can't be crafted by normal means, and it can't be damaged by normal means.
+Every artifact is an item with the [artifact](rules/traits/artifact-gmg.md "Artifact Item Trait") trait. This trait means two things: the item can't be crafted by normal means, and it can't be damaged by normal means.
 
 Artifacts are always rare or unique. The ones found here are all 20th level or higher, which is typical for artifacts.
 
@@ -2087,7 +2087,7 @@ Mechanically, an artifact functions in the game just like any other item—only 
 
 When you're making an artifact, start by defining its role in the story. Is it meant to be a powerful weapon against the forces of darkness? A mercurial force injecting random chance? A terrible danger that needs to be destroyed? The artifact's role in the story affects the features you give it. Come up with some story beats that make sense for the item, then create abilities that enable those moments. An artifact can have more abilities than a typical item—just make sure they all fit its theme.
 
-Give your item the [artifact](../traits/artifact-gmg.md) trait and either the [rare](../traits/rare.md) trait (if there multiple items of its kind), or the [unique](../traits/unique.md) trait (if only one exists). Other traits work like they do for any other item. An artifact is usually 20th level or higher, but its specific level is up to you. Imagine who created it and what their level likely was.
+Give your item the [artifact](rules/traits/artifact-gmg.md "Artifact Item Trait") trait and either the [rare](rules/traits/rare.md "Rare Rarity Trait") trait (if there multiple items of its kind), or the [unique](rules/traits/unique.md "Unique Rarity Trait") trait (if only one exists). Other traits work like they do for any other item. An artifact is usually 20th level or higher, but its specific level is up to you. Imagine who created it and what their level likely was.
 
 Though you can disregard most of the normal limitations on items, be careful not to create an artifact that will undermine your story. If your item's abilities are so useful or strong that the best option in any battle is to always use the artifact to annihilate the opposition, the artifact has taken over your story instead of serving it. A 5th-level character with access to 10th-level spells through an artifact can lead to incredible stories, but if the DC is so high that enemies are guaranteed to critically fail against those spells except on a natural 20, the item will probably distort play more than you intended. To avoid this, you might set the item's DCs, attack bonuses, and the spell levels of its offensive abilities significantly lower than they would be for an item of its level, especially if they can be used at will. You could also create artifacts that use the wielder's spell DC instead of having their own DC, to make them more broadly usable at a wider range of levels. In addition, an artifact's abilities should be somewhat narrow in their application; aim to make your artifacts very powerful in certain situations, rather than having broadly applicable abilities. For instance, the _orbs of dragonkind_ each work against only a certain kind of dragon, which makes them hugely powerful when facing that one creature, but not against every foe the PCs run across.
 
@@ -2107,7 +2107,7 @@ Much like coins, gems and art objects are valuable currency worth their full Pri
 ### Gems
 <sup>GMG p. 114</sup>
 
-Gems are naturally occurring minerals, typically in a crystalline form, or, in a few cases, organic material such as amber, coral, and pearls. All but the largest gems weigh about half as much as a coin, so about 2,000 gems is 1 Bulk. Unworked gems are worth half the Price of a finished gem and can serve as the minimum raw materials necessary to [Craft](../actions/craft.md) the finished gem. Lesser semiprecious stones are level 0 items, moderate and greater semiprecious stones are 1st-level items, lesser and moderate precious stones are 4th-level items that require expert proficiency to [Craft](../actions/craft.md), and greater precious stones are 7th-level items that require master proficiency to [Craft](../actions/craft.md).
+Gems are naturally occurring minerals, typically in a crystalline form, or, in a few cases, organic material such as amber, coral, and pearls. All but the largest gems weigh about half as much as a coin, so about 2,000 gems is 1 Bulk. Unworked gems are worth half the Price of a finished gem and can serve as the minimum raw materials necessary to [Craft](rules/actions/craft.md) the finished gem. Lesser semiprecious stones are level 0 items, moderate and greater semiprecious stones are 1st-level items, lesser and moderate precious stones are 4th-level items that require expert proficiency to [Craft](rules/actions/craft.md), and greater precious stones are 7th-level items that require master proficiency to [Craft](rules/actions/craft.md).
 
 ### Art Objects
 <sup>GMG p. 114</sup>
@@ -2139,14 +2139,14 @@ Then, decide on a trigger for the curse—such as a creature attempting to steal
 ### Diseases
 <sup>GMG p. 118</sup>
 
-Exposure to disease can be a hazard, such as when PCs come into contact with a plague-ridden corpse; such hazards grant XP as a simple hazard of the disease's level. When a disease gives a [sickened](../conditions.md#Sickened) condition that can't be reduced until it runs its course, that typically means the disease has symptoms such as a difficulty swallowing, loss of appetite, or nausea that make eating and drinking difficult but not impossible. Despite the condition's prohibition on eating or drinking, a creature can slowly and carefully eat and drink as long as they aren't in an encounter.
+Exposure to disease can be a hazard, such as when PCs come into contact with a plague-ridden corpse; such hazards grant XP as a simple hazard of the disease's level. When a disease gives a [sickened](rules/conditions.md#Sickened) condition that can't be reduced until it runs its course, that typically means the disease has symptoms such as a difficulty swallowing, loss of appetite, or nausea that make eating and drinking difficult but not impossible. Despite the condition's prohibition on eating or drinking, a creature can slowly and carefully eat and drink as long as they aren't in an encounter.
 
 ### Drugs
 <sup>GMG p. 120</sup>
 
 Drugs offer short-term benefits with harmful side effects and long-term consequences. These short-term benefits, such as euphoria, draw many to drugs, but addiction keeps users hooked long after their first dose. A character can voluntarily fail their initial save against a drug, but for each dose they consume, they must attempt a saving throw against addiction, a disease that represents cravings and withdrawal. Addiction is unique to each drug, so a character can be affected by multiple instances of addiction at once.
 
-Certain drugs alter how addiction works for that drug, adding the [virulent](../traits/virulent.md) trait to the addiction, limiting the maximum stage a character can reach, or adding additional stages beyond those listed in the base affliction.
+Certain drugs alter how addiction works for that drug, adding the [virulent](rules/traits/virulent.md "Virulent Item Trait") trait to the addiction, limiting the maximum stage a character can reach, or adding additional stages beyond those listed in the base affliction.
 
 ````ad-embed-disease
 title: Addiction, _Disease , level varies_
@@ -2181,7 +2181,7 @@ title: Saving Throw: Fortitude (dc Equals That Of The Drug)
 > 
 > Drugs are socially complex, and including them in your game has the potential to make some of your players uncomfortable—particularly players who have struggled with substance abuse themselves or seen friends and family members go through that struggle. As with any potentially difficult subject matter, you should discuss the role drugs play in your game with your players and ensure that all the players at the table are comfortable with the material; if they aren't, avoid the topic.
 > 
-> If you do include drugs in your game, consider the role they'll play. In some campaigns, drugs might simply be an element of flavor and a tool characters use to reach their goals; in others, the side effects and risk of addiction might be a terrible price to pay. The rules assume something of a middle path, where drugs are addictive substances that may provide a short-term benefit but have consequences. To make drugs more accessible in your game, remove some of the more severe stages of addiction. To make them more dangerous, add the [virulent](../traits/virulent.md) trait to the addiction affliction, add more stages with increasingly severe effects, or increase the DC of the save against the addiction by 1 for every use of the drug, decreasing back to normal over time as they stop using the drug.
+> If you do include drugs in your game, consider the role they'll play. In some campaigns, drugs might simply be an element of flavor and a tool characters use to reach their goals; in others, the side effects and risk of addiction might be a terrible price to pay. The rules assume something of a middle path, where drugs are addictive substances that may provide a short-term benefit but have consequences. To make drugs more accessible in your game, remove some of the more severe stages of addiction. To make them more dangerous, add the [virulent](rules/traits/virulent.md "Virulent Item Trait") trait to the addiction affliction, add more stages with increasingly severe effects, or increase the DC of the save against the addiction by 1 for every use of the drug, decreasing back to normal over time as they stop using the drug.
 
 ## Building Worlds
 <sup>GMG p. 122</sup>
@@ -2396,7 +2396,7 @@ What elements of the nation's predominant culture stand out? A nation might have
 ##### History
 <sup>GMG p. 126</sup>
 
-How did the nation come to be? Has it stood since time immemorial, a bastion of stability while the rest of the world changes around it? Perhaps it was built over the ruins of another civilization, destroyed by some forgotten calamity. Or perhaps it is a young nation, born recently amid ongoing strife in your world. What remnants of the past can be found, or has the past been deliberately [hidden](../conditions.md#Hidden)? How have the residents of the nation adapted to change, and in what ways have they failed to do so?
+How did the nation come to be? Has it stood since time immemorial, a bastion of stability while the rest of the world changes around it? Perhaps it was built over the ruins of another civilization, destroyed by some forgotten calamity. Or perhaps it is a young nation, born recently amid ongoing strife in your world. What remnants of the past can be found, or has the past been deliberately [hidden](rules/conditions.md#Hidden)? How have the residents of the nation adapted to change, and in what ways have they failed to do so?
 
 ##### Economy and Political Stances
 <sup>GMG p. 126</sup>
@@ -2520,7 +2520,7 @@ Deities grant favored status and special power to the most fervent and influenti
 
 **Divine Font:** Clerics channel a deity's divine power as a font of negative or positive energy. Most often, good-aligned deities grant _heal_ while evil deities grant _harm_, with neutral deities most often offering a choice between the two. However, there's nothing inherently good about positive energy or evil about negative energy, so a specific deity's divine font may vary based on their areas of concern.
 
-**Divine Skill:** Champions and clerics automatically gain the trained proficiency rank in their deity's divine skill. Assign the deity one skill that synergizes well with their areas of concern. For example, [Intimidation](../../compendium/skills.md#Intimidation) would be appropriate for a god of tyranny, or [Deception](../../compendium/skills.md#Deception) for a goddess of trickery.
+**Divine Skill:** Champions and clerics automatically gain the trained proficiency rank in their deity's divine skill. Assign the deity one skill that synergizes well with their areas of concern. For example, [Intimidation](compendium/skills.md#Intimidation) would be appropriate for a god of tyranny, or [Deception](compendium/skills.md#Deception) for a goddess of trickery.
 
 **Favored Weapon:** Clerics gain access to their deity's favored weapon as well as the trained proficiency rank with it; warpriest clerics gain additional benefits. Every deity has a favored weapon. Because the benefits of having an advanced favored weapon are very strong, you should assign simple or martial favored weapons unless a deity is so thematically linked with an advanced weapon that you need to give them one.
 
@@ -2624,7 +2624,7 @@ Just like in other adventure locations, all three modes of play can happen in se
 #### Marketplaces
 <sup>GMG p. 132</sup>
 
-Where there are people, there is commerce. The Buying and Selling section on page 24 provides several sets of guidelines for handling commerce in your game, but it can also be [helpful](../conditions.md#Helpful) to have a sense of what items and economic power a given settlement has on its own merits.
+Where there are people, there is commerce. The Buying and Selling section on page 24 provides several sets of guidelines for handling commerce in your game, but it can also be [helpful](rules/conditions.md#Helpful) to have a sense of what items and economic power a given settlement has on its own merits.
 
 In a given settlement, a character can usually purchase any common item (including formulas, alchemical items, and magic items) that is of the same or lower level than the settlement's. Usually, fewer of the highest-level items are available—you can use Table 10–9: Party Treasure by Level on page 509 of the _Core Rulebook_ as a guideline for how many of the highest-level items might be available, using the Permanent Items and Consumables entries for a level 1 lower than the settlement's actual level. Inhabitants of a settlement can usually purchase items from PCs as long as those items are the same or lower level than the settlement, with limitations on higher-level items similar to those available for sale. If a settlement's population is significantly smaller than its level would suggest, its ability to provide and purchase items may be more limited.
 
@@ -2646,7 +2646,7 @@ Outside of city limits, adventurers spend much of their time operating on their 
 
 The government of a settlement often reflects the nature of that settlement. A lawful, militaristic city likely has a hierarchical government with a single figure at the top, a crossroads market town might be under the control of its wealthiest merchant families, and a farming community might simply look to the oldest residents for leadership as necessary.
 
-That said, the lawful and publicly recognized ruler of a settlement isn't always the one calling the shots. They may merely be a puppet to a secret entity that silently pulls the strings from the shadows. Some settlements are ruled by [hidden](../conditions.md#Hidden) cabals, from strange religious sects to thieves' guilds. A settlement might be swayed by politically powerful residents, such an occult vizier or a political savvy high priest. In some cases, the legitimate authority may seem to govern but has actually been replaced by a faceless stalker, a devil in disguise, or another powerful shapechanger.
+That said, the lawful and publicly recognized ruler of a settlement isn't always the one calling the shots. They may merely be a puppet to a secret entity that silently pulls the strings from the shadows. Some settlements are ruled by [hidden](rules/conditions.md#Hidden) cabals, from strange religious sects to thieves' guilds. A settlement might be swayed by politically powerful residents, such an occult vizier or a political savvy high priest. In some cases, the legitimate authority may seem to govern but has actually been replaced by a faceless stalker, a devil in disguise, or another powerful shapechanger.
 
 ##### Legal Codes
 <sup>GMG p. 133</sup>
@@ -2698,13 +2698,13 @@ A settlement's stat block consolidates the basic information about a settlement 
 
 Here are some common settlement abilities you can use to customize a settlement of your own creation.
 
-**Artists' Haven:** Residents of this city have a deep appreciation for fine art. It's easier to find higher-level tasks involving [Performance](../../compendium/skills.md#Performance) or art, as well as buyers willing to pay more for art objects.
+**Artists' Haven:** Residents of this city have a deep appreciation for fine art. It's easier to find higher-level tasks involving [Performance](compendium/skills.md#Performance) or art, as well as buyers willing to pay more for art objects.
 
 **City of Artisans:** Items of up to 4 levels higher are available from a particular category the settlement is famous for, such as armor and weapons.
 
 **Magical Academy:** The settlement prides itself on teaching magic, and its residents are skilled at teaching others. Choose a magical tradition or traditions suitable to your settlement. When a PC pays an NPC to teach them a new spell of that tradition in the settlement, the NPC assists the process and provides an additional +2 circumstance bonus to the check to Learn the Spell.
 
-**Religious Bias:** This settlement has a strong affiliation with a particular religion. Anyone who is visibly a worshipper of that deity gains a +1 circumstance bonus to [Diplomacy](../../compendium/skills.md#Diplomacy) checks to Make an Impression, Request, and Gather Information. Characters who visibly worship one of that deity's foes take a –1 circumstance penalty to the same actions.
+**Religious Bias:** This settlement has a strong affiliation with a particular religion. Anyone who is visibly a worshipper of that deity gains a +1 circumstance bonus to [Diplomacy](compendium/skills.md#Diplomacy) checks to Make an Impression, Request, and Gather Information. Characters who visibly worship one of that deity's foes take a –1 circumstance penalty to the same actions.
 
 **Scholarly:** An abundance of public libraries or other accessible places of learning within this settlement means that with 1d4 hours, a character can access a scholarly journal on a relevant common subject (Core Rulebook 291) before attempting to Recall Knowledge.
 
@@ -2726,12 +2726,12 @@ Exploring the planes offers several opportunities for high adventure, as well ch
 ### Planar Traits
 <sup>GMG p. 136</sup>
 
-Each plane, dimension, and demiplane has its own properties and attributes. Planar traits can be [broken](../conditions.md#Broken) down into six categories: alignment, scope, gravity, time, morphic, and planar essence. Combined, those traits describe the laws and makeup of the plane. These appear in the plane's traits entry, though any trait that matches the Material Plane (described in the Normal entry in each section below) is omitted.
+Each plane, dimension, and demiplane has its own properties and attributes. Planar traits can be [broken](rules/conditions.md#Broken) down into six categories: alignment, scope, gravity, time, morphic, and planar essence. Combined, those traits describe the laws and makeup of the plane. These appear in the plane's traits entry, though any trait that matches the Material Plane (described in the Normal entry in each section below) is omitted.
 
 #### Enhanced and Impeded Magic
 <sup>GMG p. 136</sup>
 
-Some planes enhance certain magic and impede opposing effects. A plane that enhances a particular type of magic grants anyone [Casting a Spell](../actions/cast-a-spell.md) with that trait a +1 circumstance bonus to their spell DC or spell attack roll with that spell. Impeded magic means a character who [Casts a Spell](../actions/cast-a-spell.md) or Activates an Item with the specified trait must succeed at a DC 6 flat check or lose the spell or activation.
+Some planes enhance certain magic and impede opposing effects. A plane that enhances a particular type of magic grants anyone [Casting a Spell](rules/actions/cast-a-spell.md) with that trait a +1 circumstance bonus to their spell DC or spell attack roll with that spell. Impeded magic means a character who [Casts a Spell](rules/actions/cast-a-spell.md) or Activates an Item with the specified trait must succeed at a DC 6 flat check or lose the spell or activation.
 
 #### Alignment Trait
 <sup>GMG p. 136</sup>
@@ -2743,7 +2743,7 @@ Spells that share any of the plane's alignment traits are enhanced, and those wi
 #### Scope Trait
 <sup>GMG p. 136</sup>
 
-Most planes are immeasurable, so immense they are impossible to quantify. Which immeasurable planes, if any, are infinite is a subject of debate among philosophers and scholars alike. Since so many planes are immeasurable, those planes omit a scope trait. Otherwise, the plane likely has either the [finite](../traits/finite-gmg.md) or [unbounded](../traits/unbounded-gmg.md) trait.
+Most planes are immeasurable, so immense they are impossible to quantify. Which immeasurable planes, if any, are infinite is a subject of debate among philosophers and scholars alike. Since so many planes are immeasurable, those planes omit a scope trait. Otherwise, the plane likely has either the [finite](rules/traits/finite-gmg.md "Finite Planar Trait") or [unbounded](rules/traits/unbounded-gmg.md "Unbounded Planar Trait") trait.
 
 **Finite:** Finite planes consist of a limited amount of space.
 
@@ -2766,7 +2766,7 @@ Many planes have unusual gravity.
 
 **Strange Gravity:** All bodies of mass are centers of gravity with roughly the same force. A creature can stand on any solid objects that is as large as or larger than themself.
 
-**Subjective Gravity:** All bodies of mass can be centers of gravity with the same force, but only if a non-mindless creature wills it. Unattended items, objects, and mindless creatures treat the plane as having microgravity. Creatures on a plane with subjective gravity can move normally along a solid surface by imagining "down" near their feet. Designating this downward direction is a free action that has the concentration trait. If suspended in midair, a creature can replicate flight by choosing a "down" direction and falling in that direction, moving up to their Speed or fly Speed. This pseudo-flight uses the [Fly](../actions/fly.md) action.
+**Subjective Gravity:** All bodies of mass can be centers of gravity with the same force, but only if a non-mindless creature wills it. Unattended items, objects, and mindless creatures treat the plane as having microgravity. Creatures on a plane with subjective gravity can move normally along a solid surface by imagining "down" near their feet. Designating this downward direction is a free action that has the concentration trait. If suspended in midair, a creature can replicate flight by choosing a "down" direction and falling in that direction, moving up to their Speed or fly Speed. This pseudo-flight uses the [Fly](rules/actions/fly.md) action.
 
 #### Time Traits
 <sup>GMG p. 137</sup>
@@ -2786,7 +2786,7 @@ Time flows differently on many planes.
 
 A creature may travel to one of these planes, spend a year there, and find that only an hour passed on the Material Plane; alternatively, they might spend a minute on this plane and find out an hour passed on the Material Plane.
 
-**Timeless:** Time still passes, but the effects of time are diminished. Creatures on these planes don't feel hunger, thirst, or the effects of aging or natural healing. The effects of poison, diseases, and other kinds of healing may also be diminished on certain timeless planes. Spell energy and other effects still dissipate, so the durations of spells and other effects function as normal. The danger of this trait is that when a creature leaves a timeless plane and enters a plane with another [time](../traits/time-b2.md) trait, the effects of hunger, thirst, aging, and other effects slowed or arrested by the [timeless](../traits/timeless-gmg.md) trait occur retroactively in the instant of transition, possibly causing the creature to immediately starve or die of old age.
+**Timeless:** Time still passes, but the effects of time are diminished. Creatures on these planes don't feel hunger, thirst, or the effects of aging or natural healing. The effects of poison, diseases, and other kinds of healing may also be diminished on certain timeless planes. Spell energy and other effects still dissipate, so the durations of spells and other effects function as normal. The danger of this trait is that when a creature leaves a timeless plane and enters a plane with another [time](rules/traits/time-b2.md "Time Creature Type Trait") trait, the effects of hunger, thirst, aging, and other effects slowed or arrested by the [timeless](rules/traits/timeless-gmg.md "Timeless Planar Trait") trait occur retroactively in the instant of transition, possibly causing the creature to immediately starve or die of old age.
 
 #### Morphic Traits
 <sup>GMG p. 137</sup>
@@ -2799,7 +2799,7 @@ This trait describes how easily the physical nature of the plane can be changed.
 
 **Sentient:** The plane changes based on its own whims.
 
-**Static:** Visitors can't affect living residents of the plane or objects the denizens carry in any way. Any spells that would affect those on the plane have no effect unless the [static](../traits/static-gmg.md) trait is somehow removed or suppressed.
+**Static:** Visitors can't affect living residents of the plane or objects the denizens carry in any way. Any spells that would affect those on the plane have no effect unless the [static](rules/traits/static-gmg.md "Static Planar Trait") trait is somehow removed or suppressed.
 
 #### Planar Essence Traits
 <sup>GMG p. 137</sup>
@@ -2810,17 +2810,17 @@ Planar essence traits describe a plane's fundamental nature. For example, many o
 
 **Earth:** These planes are mostly solid. Travelers arriving upon an earth plane risk suffocation if they don't reach a cavern or some other air pocket within the plane's solid matter. Creatures who can't burrow are entombed in the plane's substance and must attempt to dig their way toward an air pocket. Earth magic is enhanced, and air magic is impeded. Air creatures are ill at ease, as they rarely have the space to move freely through even the most lofty warrens.
 
-**Fire:** Planes with this trait are composed of flames that continually burn with no fuel source. Fire planes are extremely [hostile](../conditions.md#Hostile) to non-fire creatures.
+**Fire:** Planes with this trait are composed of flames that continually burn with no fuel source. Fire planes are extremely [hostile](rules/conditions.md#Hostile) to non-fire creatures.
 
-Unprotected wood, paper, cloth, and other flammable materials catch fire almost immediately, and creatures wearing unprotected flammable clothing catch fire, typically taking `1d6` [persistent fire damage](../conditions.md#Persistent%20Damage). Extraplanar creatures take moderate environmental fire damage at the end of each round (sometimes minor environmental damage in safer areas, or major or massive damage in even more fiery areas). Fire magic is enhanced, and cold and water magic are impeded. Water creatures are extremely uncomfortable on a fire plane, and any natural resistance they have against fire doesn't function against this environmental fire damage.
+Unprotected wood, paper, cloth, and other flammable materials catch fire almost immediately, and creatures wearing unprotected flammable clothing catch fire, typically taking `1d6` [persistent fire damage](rules/conditions.md#Persistent%20Damage). Extraplanar creatures take moderate environmental fire damage at the end of each round (sometimes minor environmental damage in safer areas, or major or massive damage in even more fiery areas). Fire magic is enhanced, and cold and water magic are impeded. Water creatures are extremely uncomfortable on a fire plane, and any natural resistance they have against fire doesn't function against this environmental fire damage.
 
 **Water:** These planes are mostly liquid. Visitors who can't breathe water or reach an air pocket likely drown. Water magic is enhanced, and fire magic is impeded. Creatures with a weakness to water take damage equal to double their weakness at the end of each round.
 
-**Negative:** Planes with this trait are vast, empty reaches that suck the life from the living. They tend to be lonely, haunted planes, [drained](../conditions.md#Drained) of color and filled with winds carrying the moans of those who died within them. At the end of each round, a living creature takes at least minor negative environmental damage. In the strongest areas of a negative plane, they could take moderate or even major negative damage at the end of each round. This damage has the [death](../traits/death.md) trait, and if a living creature is reduced to 0 Hit Points by this negative damage and killed, it crumbles into ash and can become a wraith (_Bestiary_ 335). Negative magic is enhanced, and positive magic is impeded.
+**Negative:** Planes with this trait are vast, empty reaches that suck the life from the living. They tend to be lonely, haunted planes, [drained](rules/conditions.md#Drained) of color and filled with winds carrying the moans of those who died within them. At the end of each round, a living creature takes at least minor negative environmental damage. In the strongest areas of a negative plane, they could take moderate or even major negative damage at the end of each round. This damage has the [death](rules/traits/death.md "Death Effect Trait") trait, and if a living creature is reduced to 0 Hit Points by this negative damage and killed, it crumbles into ash and can become a wraith (_Bestiary_ 335). Negative magic is enhanced, and positive magic is impeded.
 
 **Positive:** These planes are awash with life energy. Colors are brighter, fires are hotter, noises are louder, and sensations are more intense. At the end of each round, an undead creature takes at least minor positive environmental damage. In the strongest areas of a positive plane, they could take moderate or even major positive damage at the end of each round. While this might seem safe for living creatures, positive planes present a different danger. Living creatures regain an amount of HP each round equal to the environmental damage undead take in the same area. If this would bring the living creature above their maximum HP, any excess becomes temporary HP. Unlike normal, these temporary HP combine with each other, and they last until the creature leaves the plane. If a creature's temporary HP from a positive plane ever exceeds its maximum HP, it explodes in a burst of overloaded positive energy, spreading across the area to birth new souls. Positive magic is enhanced, and negative magic is impeded.
 
-**Shadow:** Planes with this trait are umbral with murky light. On a shadow plane, the radius of all light from light sources and the areas of [light](../../compendium/spells/light.md) spells are halved. Darkness and shadow magic are enhanced, and light magic is impeded.
+**Shadow:** Planes with this trait are umbral with murky light. On a shadow plane, the radius of all light from light sources and the areas of [light](compendium/spells/light.md) spells are halved. Darkness and shadow magic are enhanced, and light magic is impeded.
 
 ### Planar Stat Blocks
 <sup>GMG p. 138</sup>

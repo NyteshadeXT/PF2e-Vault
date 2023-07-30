@@ -1,4 +1,5 @@
 ---
+obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Megalodon"
 tags: 
@@ -55,7 +56,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +22 ([[reach|reach 10 feet]]); __Damage__ 2d12+10 (2d12+10) piercing plus [[Improved Grab]]"
+    desc: "⬻ jaws +22 ([[reach|reach 10 feet]]); __Damage__ 2d12+10 (2d12+10) piercing plus [[Improved-Grab|Improved Grab]]"
   - name: Melee
     desc: "⬻ tail +22 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 2d8+10 (2d8+10) piercing plus Push 15 feet"
 

@@ -9,15 +9,15 @@ tags:
 - trait/stance
 aliases: ["Arcane Cascade"]
 ---
-# Arcane Cascade [>](../core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[concentrate](../traits/concentrate.md)  [magus](../traits/magus-som.md)  [stance](../traits/stance.md)  
+# Arcane Cascade [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+[concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [magus](rules/traits/magus-som.md "Magus Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  
 *Source: Secrets of Magic p. 38*  
 
 **Class** magus
-- **Requirements**: You used your most recent action to [Cast a Spell](cast-a-spell.md) or make a [Spellstrike](spellstrike-som.md).
+- **Requirements**: You used your most recent action to [Cast a Spell](rules/actions/cast-a-spell.md) or make a [Spellstrike](rules/actions/spellstrike-som.md).
 - **Activity**: Single Action
 
-You divert a portion of the spell's magical power and keep it cycling through your body and weapon using specialized forms, breathing, or footwork. While you're in the stance, your melee [Strikes](strike.md) deal 1 extra damage. This damage increases to 2 if you have weapon specialization and 3 if you have greater weapon specialization. Any Strike that benefits from this damage gains the arcane trait, making it magical.
+You divert a portion of the spell's magical power and keep it cycling through your body and weapon using specialized forms, breathing, or footwork. While you're in the stance, your melee [Strikes](rules/actions/strike.md) deal 1 extra damage. This damage increases to 2 if you have weapon specialization and 3 if you have greater weapon specialization. Any Strike that benefits from this damage gains the arcane trait, making it magical.
 
 If your most recent spell before entering the stance was one that can deal damage, the damage from the stance is the same type that spell could deal (or one type of your choice if the spell could deal multiple types of damage). If the spell couldn't deal damage, this stance's bonus damage depends on the spell's school.
 

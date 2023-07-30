@@ -15,4 +15,4 @@ aliases: ["Cost of Living"]
 | Fine | 30 gp | 130 gp | 1,600 gp |
 | Extravagant | 100 gp | 430 gp | 5,200 gp |
 
-* You can attempt to [Subsist](../actions/subsist.md) using [Society](../../compendium/skills.md#Society) or [Survival](../../compendium/skills.md#Survival) for free.
+* You can attempt to [Subsist](rules/actions/subsist.md) using [Society](compendium/skills.md#Society) or [Survival](compendium/skills.md#Survival) for free.

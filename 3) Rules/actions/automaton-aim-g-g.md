@@ -6,7 +6,7 @@ tags:
 - compendium/src/pf2e/g&g
 aliases: ["Automaton Aim"]
 ---
-# Automaton Aim [>](../core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+# Automaton Aim [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 *Source: Guns & Gears p. 39*  
 
 **Ancestry** Automaton; **Heritage** Automaton|G&G|Sharpshooter Automaton|Sharpshooter Automaton|G&G|

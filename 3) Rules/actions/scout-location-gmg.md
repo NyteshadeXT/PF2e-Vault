@@ -8,12 +8,12 @@ tags:
 aliases: ["Scout Location"]
 ---
 # Scout Location
-[downtime](../traits/downtime.md)  [secret](../traits/secret.md)  
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 *Source: Gamemastery Guide p. 163*  
 
 **Variant Rule** Infiltration
 
-You spend time observing the place or group you wish to infiltrate. Attempt a normal, hard, or very hard DC [Perception](../../compendium/skills.md#Perception), [Society](../../compendium/skills.md#Society) or [Stealth](../../compendium/skills.md#Stealth) check.
+You spend time observing the place or group you wish to infiltrate. Attempt a normal, hard, or very hard DC [Perception](compendium/skills.md#Perception), [Society](compendium/skills.md#Society) or [Stealth](compendium/skills.md#Stealth) check.
 
 > [!success-degree] 
 > - **Success** You make observations that provide 1 EP.

@@ -12,12 +12,12 @@ tags:
 aliases: ["Make an Impression"]
 ---
 # Make an Impression (basic)
-[auditory](../traits/auditory.md)  [concentrate](../traits/concentrate.md)  [exploration](../traits/exploration.md)  [linguistic](../traits/linguistic.md)  [mental](../traits/mental.md)  
+[auditory](rules/traits/auditory.md "Auditory Effect Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  
 *Source: Core Rulebook p. 246*  
 
-**Skill** [diplomacy](../../compendium/skills.md#Diplomacy) (untrained)
+**Skill** [diplomacy](compendium/skills.md#Diplomacy) (untrained)
 
-With at least 1 minute of conversation, during which you engage in charismatic overtures, flattery, and other acts of goodwill, you seek to make a good impression on someone to make them temporarily agreeable. At the end of the conversation, attempt a [Diplomacy](../../compendium/skills.md#Diplomacy) check against the Will DC of one target, modified by any circumstances the GM sees fit. Good impressions (or bad impressions, on a critical failure) last for only the current social interaction unless the GM decides otherwise.
+With at least 1 minute of conversation, during which you engage in charismatic overtures, flattery, and other acts of goodwill, you seek to make a good impression on someone to make them temporarily agreeable. At the end of the conversation, attempt a [Diplomacy](compendium/skills.md#Diplomacy) check against the Will DC of one target, modified by any circumstances the GM sees fit. Good impressions (or bad impressions, on a critical failure) last for only the current social interaction unless the GM decides otherwise.
 
 > [!success-degree] 
 > - **Critical Success** The target's attitude toward you improves by two steps.
@@ -34,4 +34,4 @@ With at least 1 minute of conversation, during which you engage in charismatic o
 > - **Unfriendly:** Dislikes you and doesn't want to help you.
 > - **Hostile:** Actively works against you—and might attack you just because of their dislike.
 > 
-> No one can ever change the attitude of a player character with these skills. You can roleplay interactions with player characters, and even use [Diplomacy](../../compendium/skills.md#Diplomacy) results if the player wants a mechanical sense of how convincing or charming a character is, but players make the ultimate decisions about how their characters respond.
+> No one can ever change the attitude of a player character with these skills. You can roleplay interactions with player characters, and even use [Diplomacy](compendium/skills.md#Diplomacy) results if the player wants a mechanical sense of how convincing or charming a character is, but players make the ultimate decisions about how their characters respond.

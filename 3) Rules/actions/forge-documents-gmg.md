@@ -8,12 +8,12 @@ tags:
 aliases: ["Forge Documents"]
 ---
 # Forge Documents
-[downtime](../traits/downtime.md)  [secret](../traits/secret.md)  
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 *Source: Gamemastery Guide p. 163*  
 
 **Variant Rule** Infiltration
 
-You prepare forgeries that might serve as convincing props. Attempt a hard or very hard [Society](../../compendium/skills.md#Society) check.
+You prepare forgeries that might serve as convincing props. Attempt a hard or very hard [Society](compendium/skills.md#Society) check.
 
 > [!success-degree] 
 > - **Success** You create convincing forgeries and gain 1 EP you can use only when presenting some form of paperwork.

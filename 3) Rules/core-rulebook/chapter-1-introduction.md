@@ -3,7 +3,7 @@ obsidianUIMode: preview
 cssclass: pf2e,pf2e-book
 tags:
 - compendium/src/pf2e/crb
-aliases: ["Chapter 1: Introduction"]
+aliases: ["chapter-1-introduction"]
 ---
 # Chapter 1: Introduction
 <sup>CRB p. 7</sup>
@@ -132,7 +132,7 @@ During the game, your character will face situations where the outcome is uncert
 
 Once a check is rolled, the GM compares the result to a target number called the **difficulty class (DC)** to determine the outcome. If the result of the check is equal to or greater than the DC, the check is successful. If it is less, the check is a failure. Beating the DC by 10 or more is referred to as a **critical success**, which usually grants an especially positive outcome. Similarly, failing the check by 10 or more is a **critical failure** (sometimes called a fumble). This sometimes results in additional negative effects. You also often score a critical success by rolling a 20 on the die when attempting a check (before adding anything). Likewise, rolling a 1 on the die when attempting a check often results in a critical failure. Note that not all checks have a special effect on a critical success or critical failure and such results should be treated just like an ordinary success or failure instead.
 
-For example, in pursuit of the wounded chimera, your character might find the path blocked by a fast-moving river. You decide to swim across, but the GM declares this a dangerous task and asks you to roll an [Athletics](../../compendium/skills.md#Athletics) skill check (since swimming is covered by the [Athletics](../../compendium/skills.md#Athletics) skill). On your character sheet, you see that your character has a +8 modifier for such checks. Rolling the d20, you get an 18, for a total of 26. The GM compares this to the DC (which was 16) and finds that you got a critical success (since the result exceeded the DC by 10). Your character swims quickly across the river and continues the pursuit, drenched but unharmed. Had you gotten a result less than 26 but equal to or greater than 16, your character would have made it halfway across the river. Had your result been less than 16, your character might have been swept downriver or, worse, been pulled under the current and begun to drown!
+For example, in pursuit of the wounded chimera, your character might find the path blocked by a fast-moving river. You decide to swim across, but the GM declares this a dangerous task and asks you to roll an [Athletics](compendium/skills.md#Athletics) skill check (since swimming is covered by the [Athletics](compendium/skills.md#Athletics) skill). On your character sheet, you see that your character has a +8 modifier for such checks. Rolling the d20, you get an 18, for a total of 26. The GM compares this to the DC (which was 16) and finds that you got a critical success (since the result exceeded the DC by 10). Your character swims quickly across the river and continues the pursuit, drenched but unharmed. Had you gotten a result less than 26 but equal to or greater than 16, your character would have made it halfway across the river. Had your result been less than 16, your character might have been swept downriver or, worse, been pulled under the current and begun to drown!
 
 Checks like this are the heart of the game and are rolled all the time, in every mode of play, to determine the outcome of tasks. While the roll of the die is critical, the statistic you add to the roll (called a **modifier**) often makes the difference between success and failure. Every character is made up of many such statistics governing what the character is good at, each consisting of a relevant ability modifier plus a **proficiency** bonus, and sometimes modified further by other factors, such as bonuses or penalties from gear, spells, feats, magic items, and other special circumstances.
 
@@ -160,7 +160,7 @@ Attacking another creature is one of the most common actions in combat, and is d
 
 This requires an attack roll—a kind of check made against the **Armor Class (AC)** of the creature you're attacking.
 
-[Strikes](../actions/strike.md) can be made using weapons, spells, or even parts of a creature's body, like a fist, claw, or tail. You add a modifier to this roll based on your proficiency rank with the type of attack you're using, your ability scores, and any other bonuses or penalties based on the situation.
+[Strikes](rules/actions/strike.md) can be made using weapons, spells, or even parts of a creature's body, like a fist, claw, or tail. You add a modifier to this roll based on your proficiency rank with the type of attack you're using, your ability scores, and any other bonuses or penalties based on the situation.
 
 The target's AC is calculated using their proficiency rank in the armor they're wearing and their Dexterity modifier.
 
@@ -211,7 +211,7 @@ All creatures in the game have an Armor Class. This score represents how hard it
 #### Attack
 <sup>CRB p. 12</sup>
 
-When a creature tries to harm another creature, it makes a Strike or uses some other attack action. Most attacks are [Strikes](../actions/strike.md) made with a weapon, but a character might Strike with their fist, grapple or shove with their hands, or attack with a spell.
+When a creature tries to harm another creature, it makes a Strike or uses some other attack action. Most attacks are [Strikes](rules/actions/strike.md) made with a weapon, but a character might Strike with their fist, grapple or shove with their hands, or attack with a spell.
 
 #### Background
 <sup>CRB p. 12</sup>
@@ -368,7 +368,7 @@ The following example is presented to give you a better idea of how the game of 
 
 **James:** I have a +5.
 
-_Erik rolls a d20 behind his GM screen, [hidden](../conditions.md#Hidden) from the players' view, and gets a 17 on the die for a total of 22, more than enough to find the trip wire on the third step._
+_Erik rolls a d20 behind his GM screen, [hidden](rules/conditions.md#Hidden) from the players' view, and gets a 17 on the die for a total of 22, more than enough to find the trip wire on the third step._
 
 **Erik:** Your caution pays off! You spot a thin wire located at ankle height just above the third stair.
 
@@ -396,9 +396,9 @@ It's hairless, with pointed ears, but worst of all, its mouth is lined with tiny
 
 **Lyz:** So, not a friend?
 
-**Erik:** Most certainly not. It looks poised to leap at you and attack. Roll for initiative! Valeros and Kyra need to roll Perception, while Merisiel should roll [Stealth](../../compendium/skills.md#Stealth).
+**Erik:** Most certainly not. It looks poised to leap at you and attack. Roll for initiative! Valeros and Kyra need to roll Perception, while Merisiel should roll [Stealth](compendium/skills.md#Stealth).
 
-_Everyone rolls for their initiative. Lyz rolls a 2 for Valeros, getting a total of 8. Judy rolls better for Kyra, getting a total of 14. James uses [Stealth](../../compendium/skills.md#Stealth) for Initiative, because Merisiel was hiding at the start of the fight, and rolls a 17 for a total of 25! Erik rolls for the undead creature, getting a 12. Erik records all these totals, putting the characters in order from highest to lowest._
+_Everyone rolls for their initiative. Lyz rolls a 2 for Valeros, getting a total of 8. Judy rolls better for Kyra, getting a total of 14. James uses [Stealth](compendium/skills.md#Stealth) for Initiative, because Merisiel was hiding at the start of the fight, and rolls a 17 for a total of 25! Erik rolls for the undead creature, getting a 12. Erik records all these totals, putting the characters in order from highest to lowest._
 
 **Erik:** Looks like Merisiel gets to act first. Whatever that thing is, you're pretty sure it doesn't know you are there.
 
@@ -420,9 +420,9 @@ _Rogues have the ability to deal extra damage to foes that haven't acted yet in 
 
 **Judy:** I think this is undead. What do I know about it?
 
-**Erik:** You use an action to recall your training about the living dead. Give me a [Religion](../../compendium/skills.md#Religion) skill check.
+**Erik:** You use an action to recall your training about the living dead. Give me a [Religion](compendium/skills.md#Religion) skill check.
 
-_Judy rolls a 16, adding Kyra's +8 with [Religion](../../compendium/skills.md#Religion) to get a total of 24._
+_Judy rolls a 16, adding Kyra's +8 with [Religion](compendium/skills.md#Religion) to get a total of 24._
 
 **Erik:** At first, you thought this thing might be a ghoul, which is a type of undead that feasts on the flesh of the dead, but the terrible smell reveals the truth. This thing is a ghast, a more powerful type of ghoul. You are pretty sure that its stench can make you sick and that its claws can paralyze you with a touch.
 
@@ -434,7 +434,7 @@ _Casting this spell is an activity that requires two actions to complete, and it
 
 _James rolls an 8, for a total of 14._
 
-**Erik:** Not quite enough—you gain the [sickened](../conditions.md#Sickened) condition, which is going to give you a –1 penalty to most of your d20 rolls. Next, it lunges at you, trying to bite you!
+**Erik:** Not quite enough—you gain the [sickened](rules/conditions.md#Sickened) condition, which is going to give you a –1 penalty to most of your d20 rolls. Next, it lunges at you, trying to bite you!
 
 **James:** Oh no! I use my reaction to nimbly dodge out of the way.
 
@@ -446,7 +446,7 @@ _Erik rolls an attack roll for the ghast, getting an 9 on the die. Looking at th
 
 **Erik:** You twist away from the ghast as its tongue leaves a slimy film on your armor. With its final action, the undead menace lashes out at you with its claw.
 
-_Erik rolls a second attack with the ghast, this time with its claw. Normally this attack would take a –5 multiple attack penalty, but since the claw has the [agile](../traits/agile.md) trait, the penalty is only –4. He rolls a 19 on the die, adds 11 for the ghoul's attack modifier and subtracts 4, for a total of 26._
+_Erik rolls a second attack with the ghast, this time with its claw. Normally this attack would take a –5 multiple attack penalty, but since the claw has the [agile](rules/traits/agile.md "Agile Weapon Trait") trait, the penalty is only –4. He rolls a 19 on the die, adds 11 for the ghoul's attack modifier and subtracts 4, for a total of 26._
 
 **Erik:** You may have dodged the ghast's bite, but the thing's bony claw rakes across your face!
 
@@ -456,9 +456,9 @@ _James rolls a Fortitude saving throw. He gets a 4 on the die, and after adding 
 
 **James:** This isn't my day. I don't suppose a 9 is good enough?
 
-**Erik:** I am afraid not. You are [paralyzed](../conditions.md#Paralyzed)!
+**Erik:** I am afraid not. You are [paralyzed](rules/conditions.md#Paralyzed)!
 
-_Erik notes that Merisiel is [paralyzed](../conditions.md#Paralyzed), making her unable to act, but she will get a new saving throw at the end of each of her turns to shake off the effect._
+_Erik notes that Merisiel is [paralyzed](rules/conditions.md#Paralyzed), making her unable to act, but she will get a new saving throw at the end of each of her turns to shake off the effect._
 
 **Erik:** A dry, creaking laugh escapes the ghast's curled lips, but that's the end of its turn. Valeros, you are the last one to act this round.
 
@@ -582,26 +582,26 @@ Throughout this book, you will see special icons to denote actions.
 #### Single Actions
 <sup>CRB p. 17</sup>
 
-Single actions use this symbol: [>](chapter-9-playing-the-game.md#Actions "Single Action"). They're the simplest, most common type of action. You can use three single actions on your turn in an encounter, in any order you see fit.
+Single actions use this symbol: [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action"). They're the simplest, most common type of action. You can use three single actions on your turn in an encounter, in any order you see fit.
 
 #### Reactions
 <sup>CRB p. 17</sup>
 
-Reactions use this symbol: [R](chapter-9-playing-the-game.md#Actions "Reaction"). These actions can be used even when it's not your turn. You get only one reaction per encounter round, and you can use it only when its specific trigger is fulfilled. Often, the trigger is another creature's action.
+Reactions use this symbol: [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction"). These actions can be used even when it's not your turn. You get only one reaction per encounter round, and you can use it only when its specific trigger is fulfilled. Often, the trigger is another creature's action.
 
 #### Free Actions
 <sup>CRB p. 17</sup>
 
-Free actions use this symbol: [F](chapter-9-playing-the-game.md#Actions "Free Action"). Free actions don't require you to spend any of your three single actions or your reaction. A free action might have a trigger like a reaction does. If so, you can use it just like a reaction—even if it's not your turn. However, you can use only one free action per trigger, so if you have multiple free actions with the same trigger, you have to decide which to use. If a free action doesn't have a trigger, you use it like a single action, just without spending any of your actions for the turn.
+Free actions use this symbol: [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action"). Free actions don't require you to spend any of your three single actions or your reaction. A free action might have a trigger like a reaction does. If so, you can use it just like a reaction—even if it's not your turn. However, you can use only one free action per trigger, so if you have multiple free actions with the same trigger, you have to decide which to use. If a free action doesn't have a trigger, you use it like a single action, just without spending any of your actions for the turn.
 
 #### Activities
 <sup>CRB p. 17</sup>
 
 Activities are special tasks that you complete by spending one or more of your actions together. Usually, an activity uses two or more actions and lets you do more than a single action would allow. You have to spend all the actions an activity requires for its effects to happen. Spellcasting is one of the most common activities, as most spells take more than a single action to cast.
 
-Activities that use two actions use this symbol: [>>](chapter-9-playing-the-game.md#Actions "Two-Action"). Activities that use three actions use this symbol: [>>>](chapter-9-playing-the-game.md#Actions "Three-Action"). A few special activities, such as spells you can cast in an instant, can be performed by spending a free action or a reaction.
+Activities that use two actions use this symbol: [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action"). Activities that use three actions use this symbol: [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action"). A few special activities, such as spells you can cast in an instant, can be performed by spending a free action or a reaction.
 
-All tasks that take longer than a turn are activities. If an activity is meant to be done during exploration, it has the [exploration](../traits/exploration.md) trait. An activity that takes a day or more of commitment and that can be done only during downtime has the [downtime](../traits/downtime.md) trait.
+All tasks that take longer than a turn are activities. If an activity is meant to be done during exploration, it has the [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait") trait. An activity that takes a day or more of commitment and that can be done only during downtime has the [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait") trait.
 
 ### Reading Rules
 <sup>CRB p. 18</sup>
@@ -722,14 +722,14 @@ Ability flaws are not nearly as common in Pathfinder as ability boosts. If your 
 > ### STEP 3: RECORD SCORES AND MODIFIERS
 > <sup>CRB p. 20</sup>
 > 
-> Record the final scores and assign the ability modifiers according to [Table 1–1](../tables/ability-modifiers.md). When your character receives additional ability boosts at higher levels, you assign them as any character would.
+> Record the final scores and assign the ability modifiers according to [Table 1–1](rules/tables/ability-modifiers.md). When your character receives additional ability boosts at higher levels, you assign them as any character would.
 
 ### Ability Modifiers
 <sup>CRB p. 20</sup>
 
-Once you've finalized your ability scores, you can use them to determine your ability modifiers, which are used in most other statistics in the game. Find the score in [Table 1–1: Ability Modifiers](../tables/ability-modifiers.md) to determine its ability modifier.
+Once you've finalized your ability scores, you can use them to determine your ability modifiers, which are used in most other statistics in the game. Find the score in [Table 1–1: Ability Modifiers](rules/tables/ability-modifiers.md) to determine its ability modifier.
 
-![Ability Modifiers](../tables/ability-modifiers.md)
+![Ability Modifiers](rules/tables/ability-modifiers.md)
 
 ### Create a Concept
 <sup>CRB p. 21</sup>
@@ -802,7 +802,7 @@ You'll make four decisions when you select your character's ancestry:
 
 > [!pf2-tip] CHARACTER SHEET
 > 
-> Write your character's ancestry and heritage in the appropriate space at the top of your character sheet's first page. Adjust your ability scores, adding 2 to an ability score if you gained an ability boost from your ancestry, and subtracting 2 from an ability score if you gained an ability flaw from your ancestry. Note the number of Hit Points your character gains from their ancestry—you'll add more to this number later. Finally, in the appropriate spaces, record your character's size, Speed, and languages. If your character's ancestry provides them with special abilities, write them in the appropriate spaces, such as [darkvision](../abilities/darkvision.md) in the Senses
+> Write your character's ancestry and heritage in the appropriate space at the top of your character sheet's first page. Adjust your ability scores, adding 2 to an ability score if you gained an ability boost from your ancestry, and subtracting 2 from an ability score if you gained an ability flaw from your ancestry. Note the number of Hit Points your character gains from their ancestry—you'll add more to this number later. Finally, in the appropriate spaces, record your character's size, Speed, and languages. If your character's ancestry provides them with special abilities, write them in the appropriate spaces, such as [darkvision](rules/abilities/darkvision.md) in the Senses
 
 ### Pick a Background
 <sup>CRB p. 21</sup>
@@ -837,7 +837,7 @@ Now that you've made the main mechanical choices about your character, it's time
 
 - First, make sure you've applied all the ability boosts and ability flaws you've noted in previous steps (from your ancestry, background, and class).
 - Then, apply four more ability boosts to your character's ability scores, choosing a different ability score for each and increasing that ability score by 2.
-- Finally, record your starting ability scores and ability modifiers, as determined using [Table 1–1: Ability Modifiers](../tables/ability-modifiers.md).
+- Finally, record your starting ability scores and ability modifiers, as determined using [Table 1–1: Ability Modifiers](rules/tables/ability-modifiers.md).
 
 Remember that each ability boost adds 2 to the base score of 10, and each ability flaw subtracts 2. You should have no ability score lower than 8 or higher than 18.
 
@@ -871,7 +871,7 @@ At 1st level, your character has 15 gold pieces (150 silver pieces) to spend on 
 
 > [!pf2-tip] CHARACTER SHEET
 > 
-> Once you've spent your character's starting wealth, calculate any remaining gp, sp, and cp they might still have and write those amounts in Inventory on the second page. Record your character's weapons in the Melee [Strikes](../actions/strike.md) and Ranged [Strikes](../actions/strike.md) sections of the first page, depending on the weapon, and the rest of their equipment in the Inventory section on your character sheet's second page. You'll calculate specific numbers for melee [Strikes](../actions/strike.md) and ranged [Strikes](../actions/strike.md) with the weapons in Step 9 and for AC when wearing that armor in Step 10.
+> Once you've spent your character's starting wealth, calculate any remaining gp, sp, and cp they might still have and write those amounts in Inventory on the second page. Record your character's weapons in the Melee [Strikes](rules/actions/strike.md) and Ranged [Strikes](rules/actions/strike.md) sections of the first page, depending on the weapon, and the rest of their equipment in the Inventory section on your character sheet's second page. You'll calculate specific numbers for melee [Strikes](rules/actions/strike.md) and ranged [Strikes](rules/actions/strike.md) with the weapons in Step 9 and for AC when wearing that armor in Step 10.
 
 ### Calculate Modifiers
 <sup>CRB p. 27</sup>
@@ -891,7 +891,7 @@ For each kind of saving throw, add your character's Fortitude, Reflex, or Will p
 #### Melee Strikes and Ranged Strikes
 <sup>CRB p. 27</sup>
 
-Next to where you've written your character's melee and ranged weapons, calculate the modifier to Strike with each weapon and how much damage that Strike deals. The modifier for a Strike is equal to your character's proficiency bonus with the weapon plus an ability modifier (usually Strength for melee [Strikes](../actions/strike.md) and Dexterity for ranged [Strikes](../actions/strike.md)).
+Next to where you've written your character's melee and ranged weapons, calculate the modifier to Strike with each weapon and how much damage that Strike deals. The modifier for a Strike is equal to your character's proficiency bonus with the weapon plus an ability modifier (usually Strength for melee [Strikes](rules/actions/strike.md) and Dexterity for ranged [Strikes](rules/actions/strike.md)).
 
 You also add any item bonus from the weapon and any other permanent bonuses or penalties. You also need to calculate how much damage each weapon's Strike deals.
 
@@ -906,7 +906,7 @@ In the second box to the right of each skill name on your character sheet, there
 > 
 > For Perception and saving throws, write your proficiency bonus and the appropriate ability modifier in the boxes provided, then record the total modifier in the large space.
 > 
-> Record the proficiency bonuses, ability modifiers, and total modifiers for your melee [Strikes](../actions/strike.md) and ranged [Strikes](../actions/strike.md) in the box after the name of each weapon, and put the damage for each in the space below, along with the traits for that attack. For skills, record the relevant ability modifier and proficiency bonus in the appropriate box for each skill, and then write the total skill modifiers in the spaces to the left.
+> Record the proficiency bonuses, ability modifiers, and total modifiers for your melee [Strikes](rules/actions/strike.md) and ranged [Strikes](rules/actions/strike.md) in the box after the name of each weapon, and put the damage for each in the space below, along with the traits for that attack. For skills, record the relevant ability modifier and proficiency bonus in the appropriate box for each skill, and then write the total skill modifiers in the spaces to the left.
 > 
 > If your character has any modifiers, bonuses, or penalties from feats or abilities that always apply, add them into the total modifiers. For ones that apply only in certain situations, note them next to the total modifiers.
 
@@ -995,14 +995,14 @@ Adam is making his first Pathfinder character. After talking about it with the r
 ### Step 3
 <sup>CRB p. 30</sup>
 
-Adam looks up the dwarf entry in Chapter 2. He records the ability boosts to his Constitution and Wisdom scores (bringing both up to 12). He also applies the ability flaw to his Charisma, dropping it to 8. For his free ability boost, he chooses Dexterity to boost his defenses, raising it to 12 as well. He also records the 10 Hit Points the ancestry gives him. Next, he returns to his character sheet to record the size, Speed, language, and [darkvision](../abilities/darkvision.md) ability he gets from being a dwarf. Finally, he decides on a heritage, writing "rock dwarf" next to dwarf, and he picks an ancestry feat, deciding on Rock Runner, to show his character's strong connection to stone.
+Adam looks up the dwarf entry in Chapter 2. He records the ability boosts to his Constitution and Wisdom scores (bringing both up to 12). He also applies the ability flaw to his Charisma, dropping it to 8. For his free ability boost, he chooses Dexterity to boost his defenses, raising it to 12 as well. He also records the 10 Hit Points the ancestry gives him. Next, he returns to his character sheet to record the size, Speed, language, and [darkvision](rules/abilities/darkvision.md) ability he gets from being a dwarf. Finally, he decides on a heritage, writing "rock dwarf" next to dwarf, and he picks an ancestry feat, deciding on Rock Runner, to show his character's strong connection to stone.
 
 ### Step 4
 <sup>CRB p. 30</sup>
 
-Looking through the backgrounds, Adam likes the idea of a solitary dwarven druid, and the nomad background makes for a good choice. For the first ability boost granted by the background, Adam chooses Wisdom, and for the free ability boost, he choses Constitution, taking both up to 14. On the second page, he writes "Assurance ([Survival](../../compendium/skills.md#Survival))" in the Skill Feats area, on the Background line.
+Looking through the backgrounds, Adam likes the idea of a solitary dwarven druid, and the nomad background makes for a good choice. For the first ability boost granted by the background, Adam chooses Wisdom, and for the free ability boost, he choses Constitution, taking both up to 14. On the second page, he writes "Assurance ([Survival](compendium/skills.md#Survival))" in the Skill Feats area, on the Background line.
 
-Finally, returning to the first page, he writes "cave" next to the first Lore skill entry and checks the box under the "T" for that skill and [Survival](../../compendium/skills.md#Survival).
+Finally, returning to the first page, he writes "cave" next to the first Lore skill entry and checks the box under the "T" for that skill and [Survival](compendium/skills.md#Survival).
 
 ### Step 5
 <sup>CRB p. 30</sup>
@@ -1012,26 +1012,26 @@ Adam writes "druid" on the class line of his character sheet and fills in the nu
 ### Step 6
 <sup>CRB p. 30</sup>
 
-Adam applies four more ability boosts to his ability scores to determine his starting scores. After giving it some thought, he applies them to Wisdom (raising it to 18), since that's the most important ability score for his class, and to Strength, Dexterity, and Constitution (raising them to 12, 14, and 16, respectively) to make him better in combat. He then looks at [Table 1–1](../tables/ability-modifiers.md) to determine the ability modifiers for each score and writes all of his ability scores and modifiers down on his character sheet.
+Adam applies four more ability boosts to his ability scores to determine his starting scores. After giving it some thought, he applies them to Wisdom (raising it to 18), since that's the most important ability score for his class, and to Strength, Dexterity, and Constitution (raising them to 12, 14, and 16, respectively) to make him better in combat. He then looks at [Table 1–1](rules/tables/ability-modifiers.md) to determine the ability modifiers for each score and writes all of his ability scores and modifiers down on his character sheet.
 
 ### Step 7
 <sup>CRB p. 30</sup>
 
-As Adam applies his class, he has a number of things to figure out. First, he starts by recording all of his initial proficiencies, marking the appropriate boxes in the Armor Class, Saving Throws, Weapon Proficiencies, Spell Attack Roll, and Spell DCs areas of his sheet. Turning to skills, he marks [Nature](../../compendium/skills.md#Nature) as trained and notes that once he picks his druid order, he'll become trained in another skill determined by that order. He then gets to choose three more skills (if he had a higher Intelligence, he would have gotten more). He decides on [Athletics](../../compendium/skills.md#Athletics), [Diplomacy](../../compendium/skills.md#Diplomacy), and [Medicine](../../compendium/skills.md#Medicine), marking all of them as trained. Next, he adds the 8 Hit Points from the druid class and his Constitution modifier of +3 to the 10 Hit Points from his dwarf ancestry for an impressive 21 total Hit Points.
+As Adam applies his class, he has a number of things to figure out. First, he starts by recording all of his initial proficiencies, marking the appropriate boxes in the Armor Class, Saving Throws, Weapon Proficiencies, Spell Attack Roll, and Spell DCs areas of his sheet. Turning to skills, he marks [Nature](compendium/skills.md#Nature) as trained and notes that once he picks his druid order, he'll become trained in another skill determined by that order. He then gets to choose three more skills (if he had a higher Intelligence, he would have gotten more). He decides on [Athletics](compendium/skills.md#Athletics), [Diplomacy](compendium/skills.md#Diplomacy), and [Medicine](compendium/skills.md#Medicine), marking all of them as trained. Next, he adds the 8 Hit Points from the druid class and his Constitution modifier of +3 to the 10 Hit Points from his dwarf ancestry for an impressive 21 total Hit Points.
 
-Moving on to class features, Adam marks down wild empathy in the class feats and abilities area, as well as the [Shield Block](../../compendium/feats/shield-block.md) feat in the bonus feats area. He makes note of the anathema for being a druid and records Druidic in his language section. Next, he looks through the druid orders and decides upon the wild order, which gives him his final _trained skill ([Intimidation](../../compendium/skills.md#Intimidation)), the ability to cast wild morph,_ as well as the Wild Shape feat, which lets him cast a spell to turn into an animal. He writes these spells in the focus spell area of his character sheet and also notes that he has 1 Focus Point to use to cast these spells.
+Moving on to class features, Adam marks down wild empathy in the class feats and abilities area, as well as the [Shield Block](compendium/feats/shield-block.md) feat in the bonus feats area. He makes note of the anathema for being a druid and records Druidic in his language section. Next, he looks through the druid orders and decides upon the wild order, which gives him his final _trained skill ([Intimidation](compendium/skills.md#Intimidation)), the ability to cast wild morph,_ as well as the Wild Shape feat, which lets him cast a spell to turn into an animal. He writes these spells in the focus spell area of his character sheet and also notes that he has 1 Focus Point to use to cast these spells.
 
 Finally, a druid can cast a limited number of primal spells. Although he can change them every morning, Adam is curious, and he turns to Chapter 7: Spells to decide what spells he might cast. He jots down five cantrips and two 1st-level spells and marks them as prepared.
 
 ### Step 8
 <sup>CRB p. 30</sup>
 
-Next up, Adam turns to Chapter 6: Equipment. He's trained in medium armor, but since wearing metal armor is anathema to druids, he chooses hide armor. For weapons, he decides on a spear, but he buys two just in case he wants to throw the first one. He writes all of these on the front of his character sheet. Adam lists the spear under both melee [Strikes](../actions/strike.md) and ranged [Strikes](../actions/strike.md), and he also writes the claws he _gains from wild morph under his melee [Strikes](../actions/strike.md), because_ he's sure that he'll be casting that spell a lot. He records the rest of his gear in the Inventory section on the second page, along with coin left over after buying his starting gear.
+Next up, Adam turns to Chapter 6: Equipment. He's trained in medium armor, but since wearing metal armor is anathema to druids, he chooses hide armor. For weapons, he decides on a spear, but he buys two just in case he wants to throw the first one. He writes all of these on the front of his character sheet. Adam lists the spear under both melee [Strikes](rules/actions/strike.md) and ranged [Strikes](rules/actions/strike.md), and he also writes the claws he _gains from wild morph under his melee [Strikes](rules/actions/strike.md), because_ he's sure that he'll be casting that spell a lot. He records the rest of his gear in the Inventory section on the second page, along with coin left over after buying his starting gear.
 
 ### Step 9
 <sup>CRB p. 30</sup>
 
-Adam records all of the ability modifiers for Perception, saving throws, [Strikes](../actions/strike.md), and skills. He then puts a "+3" in the box marked Prof to indicate his proficiency bonus for each statistic he's trained in (1 for his level, plus 2 for being trained) and "+5" in any that he is an expert. Then, he adds up his modifiers for each statistic.
+Adam records all of the ability modifiers for Perception, saving throws, [Strikes](rules/actions/strike.md), and skills. He then puts a "+3" in the box marked Prof to indicate his proficiency bonus for each statistic he's trained in (1 for his level, plus 2 for being trained) and "+5" in any that he is an expert. Then, he adds up his modifiers for each statistic.
 
 ### Step 10
 <sup>CRB p. 30</sup>

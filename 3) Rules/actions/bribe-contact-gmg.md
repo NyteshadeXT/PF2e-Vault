@@ -8,14 +8,14 @@ tags:
 aliases: ["Bribe Contact"]
 ---
 # Bribe Contact
-[downtime](../traits/downtime.md)  [secret](../traits/secret.md)  
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  
 *Source: Gamemastery Guide p. 163*  
 
 **Variant Rule** Infiltration
-- **Cost**: A bribe worth at least one-tenth of the Currency per Additional PC listed on [Table 10–9: Party Treasure by Level](../tables/party-treasure-by-level.md). Doubling this amount grants a +2 circumstance bonus to the check.
-- **Requirements**: You've successfully [Gained a Contact](gain-contact-gmg.md)
+- **Cost**: A bribe worth at least one-tenth of the Currency per Additional PC listed on [Table 10–9: Party Treasure by Level](rules/tables/party-treasure-by-level.md). Doubling this amount grants a +2 circumstance bonus to the check.
+- **Requirements**: You've successfully [Gained a Contact](rules/actions/gain-contact-gmg.md)
 
-You offer a bribe to your contact to help the heist in some way. Attempt a hard or very hard [Deception](../../compendium/skills.md#Deception) or [Diplomacy](../../compendium/skills.md#Diplomacy) check.
+You offer a bribe to your contact to help the heist in some way. Attempt a hard or very hard [Deception](compendium/skills.md#Deception) or [Diplomacy](compendium/skills.md#Diplomacy) check.
 
 > [!success-degree] 
 > - **Success** The contact accepts the bribe and you gain 1 EP.

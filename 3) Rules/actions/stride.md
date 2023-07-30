@@ -7,8 +7,8 @@ tags:
 - trait/move
 aliases: ["Stride"]
 ---
-# Stride (basic) [>](../core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[move](../traits/move.md)  
+# Stride (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+[move](rules/traits/move.md "Move Combat Trait")  
 *Source: Core Rulebook p. 471*  
 
 

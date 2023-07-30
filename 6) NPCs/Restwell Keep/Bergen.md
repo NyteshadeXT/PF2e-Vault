@@ -13,6 +13,8 @@ Race: Human
 Occupation:
   - Blacksmith
 Location: Restwell Keep
+Likes: Wasting Time
+Age: Adult
 ---
 > [!infobox]
 > **Pronounced:**  "`=this.Pronounced`"

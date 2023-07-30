@@ -10,15 +10,15 @@ aliases: ["Animal Instincts"]
 
 | Animal | Attack | Damage | Traits |
 |--------|--------|--------|--------|
-| Ape | Fist | `1d10` B | [Grapple](../traits/grapple.md), [unarmed](../traits/unarmed.md) |
-| Bear | Jaws | `1d10` P | [Unarmed](../traits/unarmed.md) |
-|  | Claws | `1d6` S | [Agile](../traits/agile.md), [unarmed](../traits/unarmed.md) |
-| Bull | Horn | `1d10` P | [Shove](../traits/shove.md), [unarmed](../traits/unarmed.md) |
-| Cat | Jaws | `1d10` P | [Unarmed](../traits/unarmed.md) |
-|  | Claws | `1d6` S | [Agile](../traits/agile.md), [unarmed](../traits/unarmed.md) |
-| Deer | Antler | `1d10` P | [Grapple](../traits/grapple.md), [unarmed](../traits/unarmed.md) |
-| Frog | Jaws | `1d10` B | [Unarmed](../traits/unarmed.md) |
-|  | Tongue | `1d4` B | [Agile](../traits/agile.md), [unarmed](../traits/unarmed.md) |
-| Shark | Jaws | `1d10` P | [Grapple](../traits/grapple.md), [unarmed](../traits/unarmed.md) |
-| Snake | Fangs | `1d10` P | [Grapple](../traits/grapple.md), [unarmed](../traits/unarmed.md) |
-| Wolf | Jaws | `1d10` P | [Trip](../traits/trip.md), [Unarmed](../traits/unarmed.md) |
+| Ape | Fist | `1d10` B | [Grapple](rules/traits/grapple.md "Grapple Weapon Trait"), [unarmed](rules/traits/unarmed.md "Unarmed Weapon Trait") |
+| multiRow |  |
+| multiRow |  |
+| Bull | Horn | `1d10` P | [Shove](rules/traits/shove.md "Shove Weapon Trait"), [unarmed](rules/traits/unarmed.md "Unarmed Weapon Trait") |
+| multiRow |  |
+| multiRow |  |
+| Deer | Antler | `1d10` P | [Grapple](rules/traits/grapple.md "Grapple Weapon Trait"), [unarmed](rules/traits/unarmed.md "Unarmed Weapon Trait") |
+| multiRow |  |
+| multiRow |  |
+| Shark | Jaws | `1d10` P | [Grapple](rules/traits/grapple.md "Grapple Weapon Trait"), [unarmed](rules/traits/unarmed.md "Unarmed Weapon Trait") |
+| Snake | Fangs | `1d10` P | [Grapple](rules/traits/grapple.md "Grapple Weapon Trait"), [unarmed](rules/traits/unarmed.md "Unarmed Weapon Trait") |
+| Wolf | Jaws | `1d10` P | [Trip](rules/traits/trip.md "Trip Weapon Trait"), [Unarmed](rules/traits/unarmed.md "Unarmed Weapon Trait") |

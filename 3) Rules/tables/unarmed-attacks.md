@@ -10,4 +10,4 @@ aliases: ["Unarmed Attacks"]
 
 | Unarmed Attack | Price | Damage | Bulk | Hands | Group | Weapon Traits |
 |----------------|-------|--------|------|-------|-------|---------------|
-| Fist | — | `1d4` B | — | 1 | Brawling | [Agile](../traits/agile.md), [finesse](../traits/finesse.md), [nonlethal](../traits/nonlethal.md), [unarmed](../traits/unarmed.md) |
+| Fist | — | `1d4` B | — | 1 | Brawling | [Agile](rules/traits/agile.md "Agile Weapon Trait"), [finesse](rules/traits/finesse.md "Finesse Weapon Trait"), [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait"), [unarmed](rules/traits/unarmed.md "Unarmed Weapon Trait") |

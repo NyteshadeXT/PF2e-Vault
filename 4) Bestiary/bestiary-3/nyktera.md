@@ -1,4 +1,5 @@
 ---
+obsidianUIMode: preview
 noteType: pf2eMonster
 aliases: "Nyktera"
 tags: 
@@ -54,7 +55,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 17; __Cantrips (1st)__ [[dancing lights]], [[ghost sound]]; __1st__ [[heal]];"
+    desc: "DC 17; __Cantrips (1st)__ [[dancing-lights|dancing lights]], [[ghost-sound|ghost sound]]; __1st__ [[heal]];"
 sourcebook: "_Bestiary 3_, page 254."
 ```
 

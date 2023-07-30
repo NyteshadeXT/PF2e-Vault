@@ -8,7 +8,7 @@ tags:
 aliases: ["Retraining"]
 ---
 # Retraining (basic)
-[downtime](../traits/downtime.md)  
+[downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  
 *Source: Core Rulebook p. 481*  
 
 
@@ -29,7 +29,7 @@ You can spend a week of downtime retraining to swap out one of your feats. Remov
 ## Skills
 <sup>CRB p. 481</sup>
 
-You can spend a week of downtime retraining to swap out one of your skill increases. Reduce your proficiency rank in the skill losing its increase by one step and increase your proficiency rank in another skill by one step. The new proficiency rank has to be equal to or lower than the proficiency rank you traded away. For instance, if your bard is a master in [Performance](../../compendium/skills.md#Performance) and [Stealth](../../compendium/skills.md#Stealth), and an expert in [Occultism](../../compendium/skills.md#Occultism), you could reduce the character's proficiency in [Stealth](../../compendium/skills.md#Stealth) to expert and become a master in [Occultism](../../compendium/skills.md#Occultism), but you couldn't reassign that skill increase to become legendary in [Performance](../../compendium/skills.md#Performance). Keep track of your level when you reassign skill increases; the level at which your skill proficiencies changed can influence your ability to retrain feats with skill prerequisites.
+You can spend a week of downtime retraining to swap out one of your skill increases. Reduce your proficiency rank in the skill losing its increase by one step and increase your proficiency rank in another skill by one step. The new proficiency rank has to be equal to or lower than the proficiency rank you traded away. For instance, if your bard is a master in [Performance](compendium/skills.md#Performance) and [Stealth](compendium/skills.md#Stealth), and an expert in [Occultism](compendium/skills.md#Occultism), you could reduce the character's proficiency in [Stealth](compendium/skills.md#Stealth) to expert and become a master in [Occultism](compendium/skills.md#Occultism), but you couldn't reassign that skill increase to become legendary in [Performance](compendium/skills.md#Performance). Keep track of your level when you reassign skill increases; the level at which your skill proficiencies changed can influence your ability to retrain feats with skill prerequisites.
 
 You can also spend a week to retrain an initial trained skill you gained during character creation.
 

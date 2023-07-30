@@ -6,7 +6,7 @@ tags:
 - compendium/src/pf2e/crb
 aliases: ["Raise a Shield"]
 ---
-# Raise a Shield (basic) [>](../core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+# Raise a Shield (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 *Source: Core Rulebook p. 472*  
 
 

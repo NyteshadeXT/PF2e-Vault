@@ -7,8 +7,8 @@ tags:
 - trait/attack
 aliases: ["Strike", "Attack"]
 ---
-# Strike (basic) [>](../core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
-[attack](../traits/attack.md)  
+# Strike (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+[attack](rules/traits/attack.md "Attack Combat Trait")  
 *Source: Core Rulebook p. 471*  
 
 
