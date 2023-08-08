@@ -17,7 +17,7 @@ Another adventurer encountered a band of goblins crossing through the lands east
 
 # Getting Started 
 ## Research
-A [[skills#Society|Society]] roll (DC15) or consulting with local greybeards (such as the silver-masked mage [[Ailwin|Ailwin]] at Restwell Keep) lets the characters find out that Urgog was once a feared goblin warlord, but no one has heard of him in more than ten years. 
+A [[skills#Society|Society]] roll (DC15) or consulting with local greybeards (such as the silver-masked mage [[Ailwin|Ailwin]] at Restwell Keep) lets the characters find out that Urgog was once a feared goblin warlord, but no one has heard of him in more than ten years. 
 
 ## Down the Goblin Hole 
 After crossing the King’s Wall, the characters travel into the woodlands in the south of the Chaos Scar. The forests here are thick and dark, with few clear trails. In places, the trees are strangely twisted and mutated by the malign influence of the Scar. Initially, the adventurers do not encounter any threatening beasts, but they cannot escape the feeling that they are being watched by inhuman eyes in the dark of the woods. 
