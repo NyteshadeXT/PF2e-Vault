@@ -55,7 +55,7 @@ After defeating the goblins, the characters arrive at the edge of the Goblin Hol
 
 Once the goblins in the ravine are dealt with, the characters can descend into the Goblin Hole proper—the caves under the ravine. The cave walls are covered in fungal growths and more spider webs. In places, the characters must clamber down steep and treacherous slopes, as the caves are arranged one atop the next. Each step brings the characters deeper underground. A quick retreat is impossible. 
 
-There are signs of goblins everywhere—chewed bones, dirty blankets, discarded trash, and insulting messages or strange ritual symbols daubed onto the walls. The goblins living in the caves dare not confront powerful invaders directly. They will wait for Urgog the Mangler to slay the trespassers. 
+There are signs of goblins everywhere—chewed bones, dirty blankets, discarded trash, and insulting messages or strange ritual symbols daubed onto the walls. The goblins living in the caves dare not confront powerful invaders directly. They will wait for Urgog the Mangler to slay the trespassers. 
 
 ## The Bottom of the Hole 
 > [!note]+ Read Aloud

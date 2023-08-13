@@ -2,7 +2,7 @@
 
 **Encounter Difficulty:** Severe (155 xp)
 
-The cave tiles represent the flat bottom of the ravine. Three sides of the ravine are so steep they cannot be climbed. The fourth side is represented by the webbed tile. This tile represents a wall that is perpendicular to the other tiles—the encounter begins with the player characters climbing down this near vertical cliff. 
+The cave tiles represent the flat bottom of the ravine. Three sides of the ravine are so steep they cannot be climbed. The fourth side is represented by the webbed tile. This tile represents a wall that is perpendicular to the other tiles—the encounter begins with the player characters climbing down this near vertical cliff. 
 
 At the start of the encounter, place the following foes on the map: 
  - 2: [[goblin-warrior|Goblin Warrior]] W
@@ -76,4 +76,4 @@ While characters cling to the wall, they fight at a severe disadvantage against 
 
 **Web-Covered Cliff:** Moving along the cliff requires an [[skills#Athletics|Athletics]] check (DC10) to move at half speed. Characters who are pulled or pushed off the cliff or who are knocked prone will fall unless they make a [[grab-an-edge|grab and edge]] action. The cliff is 35 feet tall; a character who falls takes 1d10 damage per 10 feet fallen (but see Pit Trap). 
 
-**Pit Trap:** The pit at the base of the cliff is a false floor pit trap. Characters who land in the pit take reduced falling damage—1d6 per 10 feet fallen instead of 1d10—because the deep slime at the pit’s bottom cushions the landing somewhat (but also makes the walls more difficult to climb). This pit can’t be disarmed or disabled.
+**Pit Trap:** The pit at the base of the cliff is a false floor pit trap. Characters who land in the pit take reduced falling damage—1d6 per 10 feet fallen instead of 1d10—because the deep slime at the pit’s bottom cushions the landing somewhat (but also makes the walls more difficult to climb). This pit can’t be disarmed or disabled.
