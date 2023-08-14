@@ -1,42 +1,42 @@
 {
   "players": [
     {
-      "note": "Varas",
-      "path": "7) Players/Varas.md",
-      "name": "Varas",
-      "ac": 22,
-      "hp": 75,
+      "name": "Mordak",
       "level": 5,
-      "modifier": 11,
+      "hp": 75,
+      "ac": "23",
+      "modifier": 12,
+      "note": "Mordak",
+      "path": "7) Players/Mordak.md",
       "player": true
     },
     {
       "note": "Cassandra",
       "path": "7) Players/Cassandra.md",
       "name": "Cassandra",
-      "ac": 21,
-      "hp": 53,
       "level": 5,
+      "hp": 48,
+      "ac": "21",
       "modifier": 12,
       "player": true
     },
     {
-      "note": "Mordak",
-      "path": "7) Players/Mordak.md",
-      "name": "Mordak",
-      "ac": 23,
-      "hp": 48,
+      "note": "Varas",
+      "path": "7) Players/Varas.md",
+      "name": "Varas",
       "level": 5,
-      "modifier": 12,
+      "hp": 61,
+      "ac": "22",
+      "modifier": 11,
       "player": true
     },
     {
       "note": "Winter",
       "path": "7) Players/Winter.md",
       "name": "Winter",
-      "ac": 22,
-      "hp": 61,
       "level": 5,
+      "hp": 53,
+      "ac": "22",
       "modifier": 13,
       "player": true
     }
@@ -45,10 +45,10 @@
     {
       "name": "Chaos Scar",
       "players": [
-        "Varas",
         "Mordak",
         "Cassandra",
-        "Winter"
+        "Winter",
+        "Varas"
       ]
     }
   ],
@@ -146,32 +146,52 @@
   "unconsciousId": "Unconscious",
   "version": [
     11,
-    3,
-    1
+    2,
+    0
   ],
   "canUseDiceRoll": false,
   "preferStatblockLink": false,
   "initiative": "1d20 + %mod%",
   "modifier": null,
-  "sync": true,
+  "sync": false,
   "leafletIntegration": false,
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
     "creatures": [
       {
-        "name": "Varas",
-        "initiative": 22,
+        "name": "Deathjump Spider",
+        "initiative": 30,
         "static": false,
-        "modifier": 11,
-        "hp": 75,
-        "currentMaxHP": 75,
-        "ac": 22,
-        "currentAC": 22,
-        "note": "Varas",
-        "path": "7) Players/Varas.md",
-        "id": "ID_3b0b4acaf94b",
-        "currentHP": 75,
+        "modifier": 13,
+        "hp": 70,
+        "currentMaxHP": 70,
+        "ac": 23,
+        "currentAC": 23,
+        "id": "ID_cb59ba093bd8",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [
+          "Unconscious"
+        ],
+        "enabled": true,
+        "level": "Creature 5",
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Winter",
+        "initiative": 30,
+        "static": false,
+        "modifier": 13,
+        "hp": 53,
+        "currentMaxHP": 53,
+        "ac": "22",
+        "currentAC": "22",
+        "note": "Winter",
+        "path": "7) Players/Winter.md",
+        "id": "ID_999aca6b78bb",
+        "currentHP": 26,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -182,17 +202,104 @@
         "friendly": false
       },
       {
+        "name": "Spider Swarm",
+        "initiative": 30,
+        "static": false,
+        "modifier": 4,
+        "hp": 12,
+        "currentMaxHP": 12,
+        "ac": 15,
+        "currentAC": 15,
+        "id": "ID_69ba79b9b96a",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [
+          "Unconscious"
+        ],
+        "enabled": true,
+        "level": "Creature 0",
+        "hidden": false,
+        "friendly": false
+      },
+      {
         "name": "Mordak",
-        "initiative": 32,
+        "initiative": 19,
+        "static": false,
+        "modifier": 12,
+        "hp": 75,
+        "currentMaxHP": 75,
+        "ac": "23",
+        "currentAC": "23",
+        "note": "Mordak",
+        "path": "7) Players/Mordak.md",
+        "id": "ID_48a9da8839b8",
+        "currentHP": 18,
+        "tempHP": 0,
+        "status": [
+          "Poisoned"
+        ],
+        "enabled": true,
+        "level": 5,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Varas",
+        "initiative": 19,
+        "static": false,
+        "modifier": 11,
+        "hp": 61,
+        "currentMaxHP": 61,
+        "ac": "22",
+        "currentAC": "22",
+        "note": "Varas",
+        "path": "7) Players/Varas.md",
+        "id": "ID_7aab898b0998",
+        "currentHP": 40,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 5,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Goblin War Chanter",
+        "initiative": 19,
+        "static": false,
+        "modifier": 5,
+        "hp": 16,
+        "currentMaxHP": 16,
+        "ac": 17,
+        "currentAC": 17,
+        "id": "ID_f969487928b8",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [
+          "Unconscious"
+        ],
+        "enabled": true,
+        "level": "Creature 1",
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Cassandra",
+        "initiative": 18,
         "static": false,
         "modifier": 12,
         "hp": 48,
         "currentMaxHP": 48,
-        "ac": 23,
-        "currentAC": 23,
-        "note": "Mordak",
-        "path": "7) Players/Mordak.md",
-        "id": "ID_285b6a990a79",
+        "ac": "21",
+        "currentAC": "21",
+        "note": "Cassandra",
+        "path": "7) Players/Cassandra.md",
+        "id": "ID_484a4ab91a6a",
         "currentHP": 48,
         "tempHP": 0,
         "status": [],
@@ -204,152 +311,131 @@
         "friendly": false
       },
       {
-        "name": "Cassandra",
-        "initiative": 23,
+        "name": "Goblin Warrior",
+        "initiative": 17,
         "static": false,
-        "modifier": 12,
-        "hp": 53,
-        "currentMaxHP": 53,
-        "ac": 21,
-        "currentAC": 21,
-        "note": "Cassandra",
-        "path": "7) Players/Cassandra.md",
-        "id": "ID_4b0899d88a9a",
-        "currentHP": 53,
+        "modifier": 2,
+        "hp": 6,
+        "currentMaxHP": 6,
+        "ac": 16,
+        "currentAC": 16,
+        "id": "ID_6b59ab69cb7b",
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
-        "level": 5,
-        "player": true,
+        "level": "Creature -1",
         "active": false,
         "hidden": false,
         "friendly": false
       },
       {
-        "name": "Winter",
-        "initiative": 20,
+        "name": "Deathjump Spider",
+        "initiative": 16,
         "static": false,
         "modifier": 13,
-        "hp": 61,
-        "currentMaxHP": 61,
-        "ac": 22,
-        "currentAC": 22,
-        "note": "Winter",
-        "path": "7) Players/Winter.md",
-        "id": "ID_09c8797a6b0a",
-        "currentHP": 61,
+        "hp": 70,
+        "currentMaxHP": 70,
+        "ac": 23,
+        "currentAC": 23,
+        "id": "ID_fa2ab8383ad8",
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "level": 5,
-        "player": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false
-      },
-      {
-        "name": "Dolgaunt",
-        "initiative": 14,
-        "static": false,
-        "modifier": 6,
-        "hp": 20,
-        "currentMaxHP": 20,
-        "ac": 19,
-        "currentAC": 19,
-        "note": "4) Bestiary/homebrew/dolgaunt.md",
-        "id": "ID_f9581a796b9b",
-        "currentHP": 20,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "level": "Creature 4",
-        "active": false,
-        "hidden": false,
-        "friendly": false
-      },
-      {
-        "name": "Ether Spider",
-        "initiative": 23,
-        "static": false,
-        "modifier": 12,
-        "hp": 75,
-        "currentMaxHP": 75,
-        "ac": 21,
-        "currentAC": 21,
-        "note": "4) Bestiary/bestiary-1/ether-spider.md",
-        "id": "ID_6beb18db6af9",
-        "currentHP": 75,
-        "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "level": "Creature 5",
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Goblin War Chanter",
+        "initiative": 13,
+        "static": false,
+        "modifier": 5,
+        "hp": 16,
+        "currentMaxHP": 16,
+        "ac": 17,
+        "currentAC": 17,
+        "id": "ID_79a92a18697a",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [
+          "Unconscious"
+        ],
+        "enabled": true,
+        "level": "Creature 1",
         "active": false,
         "hidden": false,
         "friendly": false
       },
       {
-        "name": "Ether Spider",
-        "initiative": 14,
+        "name": "Goblin Warrior",
+        "initiative": 11,
         "static": false,
-        "modifier": 12,
-        "hp": 75,
-        "currentMaxHP": 75,
-        "ac": 21,
-        "currentAC": 21,
-        "note": "4) Bestiary/bestiary-1/ether-spider.md",
-        "id": "ID_e9ab5bd98a8a",
-        "currentHP": 75,
+        "modifier": 2,
+        "hp": 6,
+        "currentMaxHP": 6,
+        "ac": 16,
+        "currentAC": 16,
+        "id": "ID_f97b8ad9786a",
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
-        "level": "Creature 5",
+        "level": "Creature -1",
         "active": false,
         "hidden": false,
         "friendly": false
       },
       {
-        "name": "Ether Spider",
-        "initiative": 22,
+        "name": "Zeta",
+        "display": "Zeta",
+        "initiative": 10,
         "static": false,
-        "modifier": 12,
-        "hp": 75,
-        "currentMaxHP": 75,
-        "ac": 21,
-        "currentAC": 21,
-        "note": "4) Bestiary/bestiary-1/ether-spider.md",
-        "id": "ID_b97838eafb5b",
-        "currentHP": 75,
+        "modifier": 4,
+        "hp": 10,
+        "currentMaxHP": 10,
+        "cr": "2",
+        "ac": "14",
+        "currentAC": "14",
+        "id": "ID_08fb4a481889",
+        "currentHP": 5,
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "level": "Creature 5",
-        "active": false,
         "hidden": false,
-        "friendly": false
+        "friendly": true,
+        "hit_dice": "1d10"
       },
       {
-        "name": "Ether Spider",
-        "initiative": 27,
+        "name": "Spider Swarm",
+        "initiative": 0,
         "static": false,
-        "modifier": 12,
-        "hp": 75,
-        "currentMaxHP": 75,
-        "ac": 21,
-        "currentAC": 21,
-        "note": "4) Bestiary/bestiary-1/ether-spider.md",
-        "id": "ID_3aca28b8793a",
-        "currentHP": 75,
+        "modifier": 4,
+        "hp": 12,
+        "currentMaxHP": 12,
+        "ac": 15,
+        "currentAC": 15,
+        "id": "ID_bbe9a8283918",
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
-        "level": "Creature 5",
-        "active": false,
+        "level": "Creature 0",
         "hidden": false,
         "friendly": false
       }
     ],
     "state": false,
-    "name": "The Black Lake",
+    "name": "Hangman",
     "round": 1,
     "logFile": "",
     "rollHP": false
@@ -371,7 +457,7 @@
   },
   "hpOverflow": "ignore",
   "additiveTemp": false,
-  "rpgSystem": "pathfinder2e",
+  "rpgSystem": "dnd5e",
   "logging": false,
   "logFolder": "/",
   "useLegacy": false,
@@ -379,130 +465,7 @@
   "rollHP": false,
   "builder": {
     "showParty": true,
-    "showXP": false,
-    "sidebarIcon": true,
-    "headers": [
-      {
-        "text": "CR",
-        "field": "cr",
-        "type": 1
-      },
-      {
-        "text": "Type",
-        "field": "type",
-        "type": 0
-      },
-      {
-        "text": "Size",
-        "field": "size",
-        "type": 0
-      },
-      {
-        "text": "Alignment",
-        "field": "alignment",
-        "type": 0
-      }
-    ],
-    "filters": {
-      "filters": [
-        {
-          "type": 0,
-          "text": "CR",
-          "fields": [
-            "cr"
-          ],
-          "options": [],
-          "id": "ID_DEFAULT_CR_FILTER",
-          "derive": true
-        },
-        {
-          "type": 2,
-          "text": "Size",
-          "fields": [
-            "size"
-          ],
-          "options": [
-            "Large",
-            "Medium",
-            "Tiny",
-            "Small",
-            "Huge",
-            "Gargantuan"
-          ],
-          "id": "ID_DEFAULT_SIZE_FILTER",
-          "derive": true
-        },
-        {
-          "type": 2,
-          "text": "Type",
-          "fields": [
-            "type"
-          ],
-          "options": [],
-          "id": "ID_DEFAULT_TYPE_FILTER",
-          "derive": true
-        },
-        {
-          "type": 2,
-          "text": "Alignment",
-          "fields": [
-            "alignment"
-          ],
-          "options": [
-            "N",
-            "CE",
-            "LE",
-            "NE",
-            "NG",
-            "CG",
-            "LG",
-            "LN",
-            "CN"
-          ],
-          "id": "ID_DEFAULT_ALIGNMENT_FILTER",
-          "derive": true
-        },
-        {
-          "type": 1,
-          "text": "Name",
-          "fields": [
-            "name"
-          ],
-          "options": [],
-          "id": "ID_DEFAULT_NAME_FILTER",
-          "derive": false
-        }
-      ],
-      "layout": [
-        {
-          "nested": [
-            {
-              "id": "ID_DEFAULT_CR_FILTER",
-              "type": "filter"
-            }
-          ],
-          "id": "ID_DEFAULT_NESTED_CR",
-          "type": "nested"
-        },
-        {
-          "id": "ID_DEFAULT_NESTED_LAYOUT",
-          "type": "nested",
-          "nested": [
-            {
-              "id": "ID_DEFAULT_SIZE_FILTER",
-              "type": "filter"
-            },
-            {
-              "id": "ID_DEFAULT_TYPE_FILTER",
-              "type": "filter"
-            },
-            {
-              "id": "ID_DEFAULT_ALIGNMENT_FILTER",
-              "type": "filter"
-            }
-          ]
-        }
-      ]
-    }
+    "showXP": true,
+    "sidebarIcon": true
   }
 }
