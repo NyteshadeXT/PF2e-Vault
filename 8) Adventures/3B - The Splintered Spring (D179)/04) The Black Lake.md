@@ -11,7 +11,6 @@ creatures:
 - 1: [[Dolgaunt]]
 - 4: [[Ether Spider]]
 ```
-Setup 1 dolgaunt monk (D) 3 young phase spiders (S) 10 phase spider hatchlings (H) 
 
 This encounter can play out in different ways, depending on how the characters enter the area. Read through the entire encounter to familiarize yourself with the setup of the gray oozes and the tactics of the creatures in the cavern below. It is very likely that some adventurers will end up fighting alone in the cavern or the black lake while their allies are still trying to descend through the sinkhole. 
 
@@ -98,4 +97,4 @@ The symbols here have the same effect on a character that studies them as those 
 In addition to treasure, the dolgaunt has cast aside the gear of the creatures whose magic it has stolen, including a fragment of an adventurer’s map. The map shows part of a series of caverns and is annotated with cramped handwriting. This cryptic introduction to a wider foulspawn cult worshiping the power at the heart of the Chaos Scar connects to upcoming adventures.
 
 > [!tip]+ Treasure
-> Found in the dolgaunt's lair is an [[ethersight-ring-aoe2|Ethersight Ring]], a [[copper-penny-tv|Copper Penny]], [[etheric-essence-disruptor-g-g|Etheric Essence Disruptor]], [[[eagle-eye-elixir|Eagle Eye Elixer]], a [[beckoning-cat-amulet-ec2|Beckoning Cat Amulet]], 9 pp and 78 gp.
+> Found in the dolgaunt's lair is an [[ethersight-ring-aoe2|Ethersight Ring]], a [[copper-penny-tv|Copper Penny]], [[etheric-essence-disruptor-g-g|Etheric Essence Disruptor]], [[eagle-eye-elixir|Eagle Eye Elixer]], a [[beckoning-cat-amulet-ec2|Beckoning Cat Amulet]], 9 pp and 78 gp.

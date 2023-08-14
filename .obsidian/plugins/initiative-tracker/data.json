@@ -1,42 +1,42 @@
 {
   "players": [
     {
-      "name": "Mordak",
-      "level": 5,
+      "note": "Varas",
+      "path": "7) Players/Varas.md",
+      "name": "Varas",
+      "ac": 22,
       "hp": 75,
-      "ac": "23",
-      "modifier": 12,
-      "note": "Mordak",
-      "path": "7) Players/Mordak.md",
+      "level": 5,
+      "modifier": 11,
       "player": true
     },
     {
       "note": "Cassandra",
       "path": "7) Players/Cassandra.md",
       "name": "Cassandra",
+      "ac": 21,
+      "hp": 53,
       "level": 5,
-      "hp": 48,
-      "ac": "21",
       "modifier": 12,
       "player": true
     },
     {
-      "note": "Varas",
-      "path": "7) Players/Varas.md",
-      "name": "Varas",
+      "note": "Mordak",
+      "path": "7) Players/Mordak.md",
+      "name": "Mordak",
+      "ac": 23,
+      "hp": 48,
       "level": 5,
-      "hp": 61,
-      "ac": "22",
-      "modifier": 11,
+      "modifier": 12,
       "player": true
     },
     {
       "note": "Winter",
       "path": "7) Players/Winter.md",
       "name": "Winter",
+      "ac": 22,
+      "hp": 61,
       "level": 5,
-      "hp": 53,
-      "ac": "22",
       "modifier": 13,
       "player": true
     }
@@ -45,10 +45,10 @@
     {
       "name": "Chaos Scar",
       "players": [
+        "Varas",
         "Mordak",
         "Cassandra",
-        "Winter",
-        "Varas"
+        "Winter"
       ]
     }
   ],
@@ -146,54 +146,32 @@
   "unconsciousId": "Unconscious",
   "version": [
     11,
-    2,
-    0
+    3,
+    1
   ],
   "canUseDiceRoll": false,
   "preferStatblockLink": false,
   "initiative": "1d20 + %mod%",
   "modifier": null,
-  "sync": false,
+  "sync": true,
   "leafletIntegration": false,
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
     "creatures": [
       {
-        "name": "Winter",
-        "initiative": 30,
-        "static": false,
-        "modifier": 13,
-        "hp": 53,
-        "currentMaxHP": 53,
-        "ac": "22",
-        "currentAC": "22",
-        "note": "Winter",
-        "path": "7) Players/Winter.md",
-        "id": "ID_78cb497b2a59",
-        "currentHP": 53,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "level": 5,
-        "player": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false
-      },
-      {
         "name": "Varas",
-        "initiative": 13,
+        "initiative": 22,
         "static": false,
         "modifier": 11,
-        "hp": 61,
-        "currentMaxHP": 61,
-        "ac": "22",
-        "currentAC": "22",
+        "hp": 75,
+        "currentMaxHP": 75,
+        "ac": 22,
+        "currentAC": 22,
         "note": "Varas",
         "path": "7) Players/Varas.md",
-        "id": "ID_484a3bca2ab8",
-        "currentHP": 61,
+        "id": "ID_3b0b4acaf94b",
+        "currentHP": 75,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -205,17 +183,17 @@
       },
       {
         "name": "Mordak",
-        "initiative": 21,
+        "initiative": 32,
         "static": false,
         "modifier": 12,
-        "hp": 75,
-        "currentMaxHP": 75,
-        "ac": "23",
-        "currentAC": "23",
+        "hp": 48,
+        "currentMaxHP": 48,
+        "ac": 23,
+        "currentAC": 23,
         "note": "Mordak",
         "path": "7) Players/Mordak.md",
-        "id": "ID_68b889ca1bc9",
-        "currentHP": 70,
+        "id": "ID_285b6a990a79",
+        "currentHP": 48,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -227,17 +205,17 @@
       },
       {
         "name": "Cassandra",
-        "initiative": 29,
+        "initiative": 23,
         "static": false,
         "modifier": 12,
-        "hp": 48,
-        "currentMaxHP": 48,
-        "ac": "21",
-        "currentAC": "21",
+        "hp": 53,
+        "currentMaxHP": 53,
+        "ac": 21,
+        "currentAC": 21,
         "note": "Cassandra",
         "path": "7) Players/Cassandra.md",
-        "id": "ID_2b3a997ae969",
-        "currentHP": 48,
+        "id": "ID_4b0899d88a9a",
+        "currentHP": 53,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -246,10 +224,132 @@
         "active": false,
         "hidden": false,
         "friendly": false
+      },
+      {
+        "name": "Winter",
+        "initiative": 20,
+        "static": false,
+        "modifier": 13,
+        "hp": 61,
+        "currentMaxHP": 61,
+        "ac": 22,
+        "currentAC": 22,
+        "note": "Winter",
+        "path": "7) Players/Winter.md",
+        "id": "ID_09c8797a6b0a",
+        "currentHP": 61,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 5,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Dolgaunt",
+        "initiative": 14,
+        "static": false,
+        "modifier": 6,
+        "hp": 20,
+        "currentMaxHP": 20,
+        "ac": 19,
+        "currentAC": 19,
+        "note": "4) Bestiary/homebrew/dolgaunt.md",
+        "id": "ID_f9581a796b9b",
+        "currentHP": 20,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": "Creature 4",
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Ether Spider",
+        "initiative": 23,
+        "static": false,
+        "modifier": 12,
+        "hp": 75,
+        "currentMaxHP": 75,
+        "ac": 21,
+        "currentAC": 21,
+        "note": "4) Bestiary/bestiary-1/ether-spider.md",
+        "id": "ID_6beb18db6af9",
+        "currentHP": 75,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": "Creature 5",
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Ether Spider",
+        "initiative": 14,
+        "static": false,
+        "modifier": 12,
+        "hp": 75,
+        "currentMaxHP": 75,
+        "ac": 21,
+        "currentAC": 21,
+        "note": "4) Bestiary/bestiary-1/ether-spider.md",
+        "id": "ID_e9ab5bd98a8a",
+        "currentHP": 75,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": "Creature 5",
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Ether Spider",
+        "initiative": 22,
+        "static": false,
+        "modifier": 12,
+        "hp": 75,
+        "currentMaxHP": 75,
+        "ac": 21,
+        "currentAC": 21,
+        "note": "4) Bestiary/bestiary-1/ether-spider.md",
+        "id": "ID_b97838eafb5b",
+        "currentHP": 75,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": "Creature 5",
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Ether Spider",
+        "initiative": 27,
+        "static": false,
+        "modifier": 12,
+        "hp": 75,
+        "currentMaxHP": 75,
+        "ac": 21,
+        "currentAC": 21,
+        "note": "4) Bestiary/bestiary-1/ether-spider.md",
+        "id": "ID_3aca28b8793a",
+        "currentHP": 75,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": "Creature 5",
+        "active": false,
+        "hidden": false,
+        "friendly": false
       }
     ],
     "state": false,
-    "name": null,
+    "name": "The Black Lake",
     "round": 1,
     "logFile": "",
     "rollHP": false
@@ -271,7 +371,7 @@
   },
   "hpOverflow": "ignore",
   "additiveTemp": false,
-  "rpgSystem": "dnd5e",
+  "rpgSystem": "pathfinder2e",
   "logging": false,
   "logFolder": "/",
   "useLegacy": false,
@@ -279,7 +379,130 @@
   "rollHP": false,
   "builder": {
     "showParty": true,
-    "showXP": true,
-    "sidebarIcon": true
+    "showXP": false,
+    "sidebarIcon": true,
+    "headers": [
+      {
+        "text": "CR",
+        "field": "cr",
+        "type": 1
+      },
+      {
+        "text": "Type",
+        "field": "type",
+        "type": 0
+      },
+      {
+        "text": "Size",
+        "field": "size",
+        "type": 0
+      },
+      {
+        "text": "Alignment",
+        "field": "alignment",
+        "type": 0
+      }
+    ],
+    "filters": {
+      "filters": [
+        {
+          "type": 0,
+          "text": "CR",
+          "fields": [
+            "cr"
+          ],
+          "options": [],
+          "id": "ID_DEFAULT_CR_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Size",
+          "fields": [
+            "size"
+          ],
+          "options": [
+            "Large",
+            "Medium",
+            "Tiny",
+            "Small",
+            "Huge",
+            "Gargantuan"
+          ],
+          "id": "ID_DEFAULT_SIZE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Type",
+          "fields": [
+            "type"
+          ],
+          "options": [],
+          "id": "ID_DEFAULT_TYPE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Alignment",
+          "fields": [
+            "alignment"
+          ],
+          "options": [
+            "N",
+            "CE",
+            "LE",
+            "NE",
+            "NG",
+            "CG",
+            "LG",
+            "LN",
+            "CN"
+          ],
+          "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+          "derive": true
+        },
+        {
+          "type": 1,
+          "text": "Name",
+          "fields": [
+            "name"
+          ],
+          "options": [],
+          "id": "ID_DEFAULT_NAME_FILTER",
+          "derive": false
+        }
+      ],
+      "layout": [
+        {
+          "nested": [
+            {
+              "id": "ID_DEFAULT_CR_FILTER",
+              "type": "filter"
+            }
+          ],
+          "id": "ID_DEFAULT_NESTED_CR",
+          "type": "nested"
+        },
+        {
+          "id": "ID_DEFAULT_NESTED_LAYOUT",
+          "type": "nested",
+          "nested": [
+            {
+              "id": "ID_DEFAULT_SIZE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_TYPE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+              "type": "filter"
+            }
+          ]
+        }
+      ]
+    }
   }
 }

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a5716b8f640c5f4c",
+        "id": "7791b9b43a6133d9",
         "type": "tabs",
         "children": [
           {
-            "id": "5adc7f4c03f0e32c",
+            "id": "a6e6c0847ddee8e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/1J - The Kobold Hall (DMG)/04) Skull-Skull.md",
-                "mode": "preview",
+                "file": "8) Adventures/3B - The Splintered Spring (D179)/3B - The Splintered Spring (D179).md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8) Adventures/1J - The Kobold Hall (DMG)/04) Skull-Skull.md",
+                "file": "8) Adventures/3B - The Splintered Spring (D179)/3B - The Splintered Spring (D179).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8) Adventures/1J - The Kobold Hall (DMG)/04) Skull-Skull.md"
+                "file": "8) Adventures/3B - The Splintered Spring (D179)/3B - The Splintered Spring (D179).md"
               }
             }
           },
@@ -122,14 +122,6 @@
             }
           },
           {
-            "id": "bada9a029119191a",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
-          },
-          {
             "id": "437cb9fb29b41ada",
             "type": "leaf",
             "state": {
@@ -138,18 +130,10 @@
             }
           },
           {
-            "id": "0df115ce24705455",
+            "id": "f41ba98a9022325a",
             "type": "leaf",
             "state": {
-              "type": "inline-scripts-button-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "96c7391633fe55ff",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "initiative-tracker-view",
               "state": {}
             }
           }
@@ -157,11 +141,11 @@
         "currentTab": 5
       },
       {
-        "id": "1e7c9fcd78ecb350",
+        "id": "568ef21be3033916",
         "type": "tabs",
         "children": [
           {
-            "id": "5cec95c9e20bd448",
+            "id": "e3536f056d812ee3",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-creature-view",
@@ -177,7 +161,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "initiative-tracker:Intiative Tracker Encounter Builder": false,
       "dbfolder:Create a new database table": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -186,37 +169,38 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "initiative-tracker:Intiative Tracker Encounter Builder": false
     }
   },
-  "active": "5adc7f4c03f0e32c",
+  "active": "6d519d57f4d7a981",
   "lastOpenFiles": [
-    "8) Adventures/1J - The Kobold Hall (DMG)/05) Chieftain's Chamber.md",
-    "8) Adventures/1J - The Kobold Hall (DMG)/06) The True Threat.md",
-    "8) Adventures/1J - The Kobold Hall (DMG)/1J - The Kobold Hall (DMG).md",
-    "6) NPCs/Restwell Keep/Bosco Heldam.md",
-    "6) NPCs/Restwell Keep/Bergen.md",
-    "6) NPCs/Restwell Keep/Ailwin.md",
-    "8) Adventures/2e - Down the Goblin Hole (D280)/01) Running the Adventure.md",
-    "8) Adventures/2d - The Hammer Falls (D179)/2d - The Hammer Falls (D179).md",
-    "8) Adventures/2d - The Hammer Falls (D179)/01) Running the Adventure.md",
-    "8) Adventures/2e - Down the Goblin Hole (D280)/2e - Down the Goblin Hole (D280).md",
-    "8) Adventures/2f - The Lost Library (D173)/2f - The Lost Library (D173).md",
-    "8) Adventures/2g - The Crossroads (D176)/2g - The Crossroads (D176).md",
+    "8) Adventures/3B - The Splintered Spring (D179)/04) The Black Lake.md",
+    "8) Adventures/3B - The Splintered Spring (D179)/3B - The Splintered Spring (D179).md",
     "8) Adventures/3A - The Crawling Fane (D178)/3A - The Crawling Fane (D178).md",
-    "5) World/Restwell Keep.md",
-    "5) World/Chaos Scar - GM View.md",
-    "8) Adventures/2d - The Hammer Falls (D179)/03) The Metalworks.md",
-    "8) Adventures/2d - The Hammer Falls (D179)/04) Sleed’s Sanctum.md",
-    "8) Adventures/2d - The Hammer Falls (D179)/02) The Entrance.md",
-    "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/2B - The Shrine of Glass-Spire Forest (D175).md",
-    "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/03) Shard Slave of the Glass Spire Shrine.md",
-    "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/02) Glass Guardian Attack.md",
-    "4) Bestiary/homebrew/Glass-Guardian.md",
-    "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175)/01) Running the Adventure.md",
-    "4) Bestiary/homebrew/Shard-Slave.md",
-    "6) NPCs/Restwell Keep/Balidor.md",
+    "8) Adventures/3B - The Splintered Spring (D179)/01) Running the Adventure.md",
+    "7) Players/Add New Players.md",
+    "7) Players/Cassandra.md",
+    "7) Players/Mordak.md",
+    "7) Players/Varas.md",
+    "7) Players/Winter.md",
+    "8) Adventures/3B - The Splintered Spring (D179)/02) Serpent Strike.md",
+    "6) NPCs/Restwell Keep/AAA - Restwell Keep Master NPC List.md",
+    "7) Players/Add New Player.md",
     "6) NPCs/Restwell Keep/Ardia Ironleaf.md",
+    "6) NPCs/Restwell Keep/Ailwin.md",
+    "6) NPCs/Crossroads/Fulgrim.md",
+    "8) Adventures/3B - The Splintered Spring (D179)/03) The Foul Mire.md",
+    "8) Adventures/-- Adventure Notes.md",
+    "8) Adventures/-- The Chaos Scar Intro.md",
+    "support/inlineScripts/Ξ_libraryVersion.md",
+    "support/inlineScripts/une.sfile.md",
+    "support/inlineScripts/une_ui.sfile.md",
+    "support/inlineScripts/tablefiles.sfile.md",
+    "support/inlineScripts/state.sfile.md",
+    "support/inlineScripts/rpgtools.sfile.md",
+    "support/inlineScripts/plugin_diceroller.sfile.md",
+    "support/inlineScripts/notevars.sfile.md",
     "zz-Attachments/Dolgrim 1.webp",
     "zz-Attachments/Dolgrim.webp",
     "zz-Attachments/Dolgarr.webp",

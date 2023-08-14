@@ -1,0 +1,8 @@
+---
+hp: 53
+ac: 21
+modifier: 12
+level: 5
+Player_Name: Bob
+Alignment: CN
+---

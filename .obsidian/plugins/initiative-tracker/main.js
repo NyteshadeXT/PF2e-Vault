@@ -6796,6 +6796,12 @@ var Dnd5eRpgSystem = class extends RpgSystem {
     super();
     __privateAdd(this, _getXpMult);
     __publicField(this, "plugin");
+    __publicField(this, "systemDifficulties", [
+      "Easy",
+      "Medium",
+      "Hard",
+      "Deadly"
+    ]);
     this.plugin = plugin;
     this.displayName = "DnD 5e";
   }
@@ -6890,6 +6896,10 @@ var Dnd5eLazyGmRpgSystem = class extends RpgSystem {
     super();
     __publicField(this, "plugin");
     __publicField(this, "dnd5eRpgSystem");
+    __publicField(this, "systemDifficulties", [
+      "Not Deadly",
+      "Deadly"
+    ]);
     this.plugin = plugin;
     this.valueUnit = "CR";
     this.displayName = "DnD 5e Lazy GM";
@@ -6946,13 +6956,102 @@ Deadly Threshold: ${deadlyThreshold}`;
   }
 };
 
+// src/utils/rpg-system/pf2e.ts
+var XP_CREATURE_DIFFERENCES = {
+  "-4": 10,
+  "-3": 15,
+  "-2": 20,
+  "-1": 30,
+  "0": 40,
+  "1": 60,
+  "2": 80,
+  "3": 120,
+  "4": 160
+};
+var PF2E_DND5E_DIFFICULTY_MAPPING = {
+  "trivial": "trivial",
+  "low": "easy",
+  "moderate": "medium",
+  "severe": "hard",
+  "extreme": "deadly"
+};
+var Pathfinder2eRpgSystem = class extends RpgSystem {
+  constructor(plugin) {
+    super();
+    __publicField(this, "plugin");
+    __publicField(this, "systemDifficulties", [
+      "Trivial",
+      "Low",
+      "Moderate",
+      "Severe",
+      "Extreme"
+    ]);
+    this.plugin = plugin;
+    this.displayName = "Pathfinder 2e";
+  }
+  getCreatureDifficulty(creature, playerLevels) {
+    const lvl = getFromCreatureOrBestiary(
+      this.plugin,
+      creature,
+      (c) => c?.level
+    )?.toString().split(" ").slice(-1);
+    if (lvl == null || lvl == void 0)
+      return 0;
+    const partyLvl = playerLevels?.length ?? 0 > 0 ? playerLevels.reduce((a, b) => a + b) / playerLevels.length : 0;
+    const creature_differences = String(
+      lvl - partyLvl
+    );
+    return XP_CREATURE_DIFFERENCES[creature_differences] ?? 0;
+  }
+  getDifficultyThresholds(playerLevels) {
+    const budget = playerLevels.length * 20;
+    const encounterBudget = {
+      trivial: Math.floor(budget * 0.5),
+      low: Math.floor(budget * 0.75),
+      moderate: budget,
+      severe: Math.floor(budget * 1.5),
+      extreme: Math.floor(budget * 2)
+    };
+    return Object.entries(encounterBudget).map(([name3, value]) => ({
+      displayName: name3.charAt(0).toUpperCase() + name3.slice(1),
+      minValue: value
+    })).sort((a, b) => a.minValue - b.minValue);
+  }
+  getEncounterDifficulty(creatures, playerLevels) {
+    const creatureXp = [...creatures].reduce(
+      (acc, [creature, count]) => acc + this.getCreatureDifficulty(creature, playerLevels) * count,
+      0
+    );
+    const thresholds = this.getDifficultyThresholds(playerLevels);
+    const displayName = thresholds.find((threshold) => creatureXp <= threshold.minValue)?.displayName ?? "Trivial";
+    const thresholdSummary = thresholds.map((threshold) => `${threshold.displayName}: ${threshold.minValue}`).join("\n");
+    const summary = `Encounter is ${displayName}
+    Total XP: ${creatureXp}
+    Threshold
+    ${thresholdSummary}`;
+    return {
+      displayName,
+      summary,
+      cssClass: PF2E_DND5E_DIFFICULTY_MAPPING[displayName.toLowerCase()] ?? "trivial",
+      value: creatureXp,
+      title: "Total XP",
+      intermediateValues: [{ label: "Total XP", value: creatureXp }]
+    };
+  }
+};
+
 // src/utils/rpg-system/index.ts
 var RpgSystemSetting = /* @__PURE__ */ ((RpgSystemSetting2) => {
   RpgSystemSetting2["Dnd5e"] = "dnd5e";
   RpgSystemSetting2["Dnd5eLazyGm"] = "dnd5e-lazygm";
+  RpgSystemSetting2["Pathfinder2e"] = "pathfinder2e";
   return RpgSystemSetting2;
 })(RpgSystemSetting || {});
 var UndefinedRpgSystem = class extends RpgSystem {
+  constructor() {
+    super(...arguments);
+    __publicField(this, "systemDifficulties", [DEFAULT_UNDEFINED, DEFAULT_UNDEFINED]);
+  }
 };
 function getRpgSystem(plugin, settingId) {
   switch (settingId ? settingId : plugin.data.rpgSystem) {
@@ -6960,6 +7059,8 @@ function getRpgSystem(plugin, settingId) {
       return new Dnd5eRpgSystem(plugin);
     case "dnd5e-lazygm" /* Dnd5eLazyGm */:
       return new Dnd5eLazyGmRpgSystem(plugin);
+    case "pathfinder2e" /* Pathfinder2e */:
+      return new Pathfinder2eRpgSystem(plugin);
   }
   return new UndefinedRpgSystem();
 }
@@ -10850,7 +10951,7 @@ var Creature_default = Creature2;
 
 // src/encounter/ui/Encounter.svelte
 function add_css2(target) {
-  append_styles(target, "svelte-e1kfxz", ".encounter-name.svelte-e1kfxz.svelte-e1kfxz{display:flex;justify-content:flex-start;align-items:center}.encounter-name.svelte-e1kfxz .initiative-tracker-name.svelte-e1kfxz{margin:0}.encounter-instance.svelte-e1kfxz>.creatures-container>.encounter-creatures:first-of-type h4.svelte-e1kfxz,.encounter-creatures.svelte-e1kfxz>ul.svelte-e1kfxz{margin-top:0}.creature-li.svelte-e1kfxz.svelte-e1kfxz{width:fit-content}.xp-parent.svelte-e1kfxz.svelte-e1kfxz{display:inline-flex}.difficulty.svelte-e1kfxz.svelte-e1kfxz{width:fit-content}.deadly.svelte-e1kfxz .difficulty-label.svelte-e1kfxz{color:red}.hard.svelte-e1kfxz .difficulty-label.svelte-e1kfxz{color:orange}.medium.svelte-e1kfxz .difficulty-label.svelte-e1kfxz{color:yellow}.easy.svelte-e1kfxz .difficulty-label.svelte-e1kfxz{color:green}.icons.svelte-e1kfxz.svelte-e1kfxz{display:flex}.icons.svelte-e1kfxz>div.svelte-e1kfxz:first-child .clickable-icon{margin-right:0}.creature-name.svelte-e1kfxz.svelte-e1kfxz{display:inline-flex;align-items:center;gap:0.25rem}.has-icon.svelte-e1kfxz.svelte-e1kfxz{display:flex;align-items:center}");
+  append_styles(target, "svelte-w3ego1", ".encounter-name.svelte-w3ego1.svelte-w3ego1{display:flex;justify-content:flex-start;align-items:center}.encounter-name.svelte-w3ego1 .initiative-tracker-name.svelte-w3ego1{margin:0}.encounter-instance.svelte-w3ego1>.creatures-container>.encounter-creatures:first-of-type h4.svelte-w3ego1,.encounter-creatures.svelte-w3ego1>ul.svelte-w3ego1{margin-top:0}.creature-li.svelte-w3ego1.svelte-w3ego1{width:fit-content}.xp-parent.svelte-w3ego1.svelte-w3ego1{display:inline-flex}.difficulty.svelte-w3ego1.svelte-w3ego1{width:fit-content}.deadly.svelte-w3ego1 .difficulty-label.svelte-w3ego1{color:red}.hard.svelte-w3ego1 .difficulty-label.svelte-w3ego1{color:orange}.medium.svelte-w3ego1 .difficulty-label.svelte-w3ego1{color:yellow}.easy.svelte-w3ego1 .difficulty-label.svelte-w3ego1{color:green}.trivial.svelte-w3ego1 .difficulty-label.svelte-w3ego1{color:#AAAAAA}.icons.svelte-w3ego1.svelte-w3ego1{display:flex}.icons.svelte-w3ego1>div.svelte-w3ego1:first-child .clickable-icon{margin-right:0}.creature-name.svelte-w3ego1.svelte-w3ego1{display:inline-flex;align-items:center;gap:0.25rem}.has-icon.svelte-w3ego1.svelte-w3ego1{display:flex;align-items:center}");
 }
 function get_each_context(ctx, list, i) {
   const child_ctx = ctx.slice();
@@ -10911,7 +11012,7 @@ function create_if_block_8(ctx) {
   return {
     c() {
       div = element("div");
-      div.innerHTML = `<h4 class="svelte-e1kfxz">No Players</h4>`;
+      div.innerHTML = `<h4 class="svelte-w3ego1">No Players</h4>`;
       attr(div, "class", "encounter-creatures encounter-players");
     },
     m(target, anchor) {
@@ -10946,9 +11047,9 @@ function create_if_block_7(ctx) {
       for (let i = 0; i < each_blocks.length; i += 1) {
         each_blocks[i].c();
       }
-      attr(h4, "class", "svelte-e1kfxz");
-      attr(ul, "class", "svelte-e1kfxz");
-      attr(div, "class", "encounter-creatures encounter-players svelte-e1kfxz");
+      attr(h4, "class", "svelte-w3ego1");
+      attr(ul, "class", "svelte-w3ego1");
+      attr(div, "class", "encounter-creatures encounter-players svelte-w3ego1");
     },
     m(target, anchor) {
       insert(target, div, anchor);
@@ -11045,7 +11146,7 @@ function create_if_block_32(ctx) {
       t1 = space();
       if_block1.c();
       if_block1_anchor = empty();
-      attr(h4, "class", "creatures-header svelte-e1kfxz");
+      attr(h4, "class", "creatures-header svelte-w3ego1");
     },
     m(target, anchor) {
       insert(target, h4, anchor);
@@ -11121,7 +11222,7 @@ function create_if_block_5(ctx) {
   return {
     c() {
       span = element("span");
-      attr(span, "class", "has-icon svelte-e1kfxz");
+      attr(span, "class", "has-icon svelte-w3ego1");
       attr(span, "aria-label", "Rolling for HP");
     },
     m(target, anchor) {
@@ -11175,7 +11276,7 @@ function create_if_block_42(ctx) {
       for (let i = 0; i < each_blocks.length; i += 1) {
         each_blocks[i].c();
       }
-      attr(ul, "class", "svelte-e1kfxz");
+      attr(ul, "class", "svelte-w3ego1");
     },
     m(target, anchor) {
       insert(target, ul, anchor);
@@ -11281,7 +11382,7 @@ function create_each_block(ctx) {
       create_component(creaturecomponent.$$.fragment);
       t2 = space();
       attr(li, "aria-label", li_aria_label_value = ctx[16](ctx[21]));
-      attr(li, "class", "creature-li svelte-e1kfxz");
+      attr(li, "class", "creature-li svelte-w3ego1");
     },
     m(target, anchor) {
       insert(target, li, anchor);
@@ -11332,7 +11433,7 @@ function create_if_block2(ctx) {
       div = element("div");
       if (if_block)
         if_block.c();
-      attr(div, "class", "encounter-xp difficulty svelte-e1kfxz");
+      attr(div, "class", "encounter-xp difficulty svelte-w3ego1");
     },
     m(target, anchor) {
       insert(target, div, anchor);
@@ -11392,13 +11493,13 @@ function create_if_block_12(ctx) {
       t4 = space();
       span2 = element("span");
       span2.textContent = ")";
-      attr(strong, "class", "difficulty-label svelte-e1kfxz");
+      attr(strong, "class", "difficulty-label svelte-w3ego1");
       attr(span0, "class", "paren left");
       attr(span1, "class", "xp-container");
       attr(span2, "class", "paren right");
-      attr(span3, "class", "xp-parent difficulty svelte-e1kfxz");
+      attr(span3, "class", "xp-parent difficulty svelte-w3ego1");
       attr(span4, "aria-label", span4_aria_label_value = ctx[9].summary);
-      attr(span4, "class", span4_class_value = null_to_empty(ctx[9].cssClass) + " svelte-e1kfxz");
+      attr(span4, "class", span4_class_value = null_to_empty(ctx[9].cssClass) + " svelte-w3ego1");
     },
     m(target, anchor) {
       insert(target, span4, anchor);
@@ -11432,7 +11533,7 @@ function create_if_block_12(ctx) {
       if (dirty & 512 && span4_aria_label_value !== (span4_aria_label_value = ctx2[9].summary)) {
         attr(span4, "aria-label", span4_aria_label_value);
       }
-      if (dirty & 512 && span4_class_value !== (span4_class_value = null_to_empty(ctx2[9].cssClass) + " svelte-e1kfxz")) {
+      if (dirty & 512 && span4_class_value !== (span4_class_value = null_to_empty(ctx2[9].cssClass) + " svelte-w3ego1")) {
         attr(span4, "class", span4_class_value);
       }
     },
@@ -11528,16 +11629,16 @@ function create_fragment2(ctx) {
       if (if_block2)
         if_block2.c();
       attr(h3, "data-heading", ctx[1]);
-      attr(h3, "class", "initiative-tracker-name svelte-e1kfxz");
+      attr(h3, "class", "initiative-tracker-name svelte-w3ego1");
       attr(div0, "aria-label", "Start Encounter");
-      attr(div0, "class", "svelte-e1kfxz");
+      attr(div0, "class", "svelte-w3ego1");
       attr(div1, "aria-label", "Add to Encounter");
-      attr(div1, "class", "svelte-e1kfxz");
-      attr(div2, "class", "icons svelte-e1kfxz");
-      attr(div3, "class", "encounter-name svelte-e1kfxz");
-      attr(div4, "class", "encounter-creatures svelte-e1kfxz");
+      attr(div1, "class", "svelte-w3ego1");
+      attr(div2, "class", "icons svelte-w3ego1");
+      attr(div3, "class", "encounter-name svelte-w3ego1");
+      attr(div4, "class", "encounter-creatures svelte-w3ego1");
       attr(div5, "class", "creatures-container");
-      attr(div6, "class", "encounter-instance svelte-e1kfxz");
+      attr(div6, "class", "encounter-instance svelte-w3ego1");
     },
     m(target, anchor) {
       insert(target, div6, anchor);
@@ -11830,7 +11931,7 @@ var Encounter_default = Encounter;
 // src/encounter/ui/EncounterRow.svelte
 var import_obsidian6 = require("obsidian");
 function add_css3(target) {
-  append_styles(target, "svelte-bf6d6a", ".deadly.svelte-bf6d6a .difficulty-label.svelte-bf6d6a{color:red}.hard.svelte-bf6d6a .difficulty-label.svelte-bf6d6a{color:orange}.medium.svelte-bf6d6a .difficulty-label.svelte-bf6d6a{color:yellow}.easy.svelte-bf6d6a .difficulty-label.svelte-bf6d6a{color:green}.icons.svelte-bf6d6a.svelte-bf6d6a{display:flex}.icons.svelte-bf6d6a>div.svelte-bf6d6a:first-child .clickable-icon{margin-right:0}ul.svelte-bf6d6a.svelte-bf6d6a{margin:0}");
+  append_styles(target, "svelte-9nyuhm", ".deadly.svelte-9nyuhm .difficulty-label.svelte-9nyuhm{color:red}.hard.svelte-9nyuhm .difficulty-label.svelte-9nyuhm{color:orange}.medium.svelte-9nyuhm .difficulty-label.svelte-9nyuhm{color:yellow}.easy.svelte-9nyuhm .difficulty-label.svelte-9nyuhm{color:green}.trivial.svelte-9nyuhm .difficulty-label.svelte-9nyuhm{color:#AAAAAA}.icons.svelte-9nyuhm.svelte-9nyuhm{display:flex}.icons.svelte-9nyuhm>div.svelte-9nyuhm:first-child .clickable-icon{margin-right:0}ul.svelte-9nyuhm.svelte-9nyuhm{margin:0}");
 }
 function get_each_context2(ctx, list, i) {
   const child_ctx = ctx.slice();
@@ -11868,7 +11969,7 @@ function create_if_block_43(ctx) {
       td = element("td");
       ul = element("ul");
       if_block.c();
-      attr(ul, "class", "encounter-creatures encounter-list svelte-bf6d6a");
+      attr(ul, "class", "encounter-creatures encounter-list svelte-9nyuhm");
     },
     m(target, anchor) {
       insert(target, td, anchor);
@@ -12117,7 +12218,7 @@ function create_if_block_23(ctx) {
       td = element("td");
       ul = element("ul");
       if_block.c();
-      attr(ul, "class", "encounter-players encounter-list svelte-bf6d6a");
+      attr(ul, "class", "encounter-players encounter-list svelte-9nyuhm");
     },
     m(target, anchor) {
       insert(target, td, anchor);
@@ -12301,9 +12402,9 @@ function create_if_block_13(ctx) {
       span = element("span");
       strong = element("strong");
       t2 = text(t_value);
-      attr(strong, "class", "difficulty-label svelte-bf6d6a");
+      attr(strong, "class", "difficulty-label svelte-9nyuhm");
       attr(span, "aria-label", span_aria_label_value = ctx[8].summary);
-      attr(span, "class", span_class_value = null_to_empty(ctx[8].cssClass) + " svelte-bf6d6a");
+      attr(span, "class", span_class_value = null_to_empty(ctx[8].cssClass) + " svelte-9nyuhm");
     },
     m(target, anchor) {
       insert(target, span, anchor);
@@ -12316,7 +12417,7 @@ function create_if_block_13(ctx) {
       if (dirty & 256 && span_aria_label_value !== (span_aria_label_value = ctx2[8].summary)) {
         attr(span, "aria-label", span_aria_label_value);
       }
-      if (dirty & 256 && span_class_value !== (span_class_value = null_to_empty(ctx2[8].cssClass) + " svelte-bf6d6a")) {
+      if (dirty & 256 && span_class_value !== (span_class_value = null_to_empty(ctx2[8].cssClass) + " svelte-9nyuhm")) {
         attr(span, "class", span_class_value);
       }
     },
@@ -12369,10 +12470,10 @@ function create_fragment3(ctx) {
       div0 = element("div");
       t5 = space();
       div1 = element("div");
-      attr(div0, "class", "svelte-bf6d6a");
+      attr(div0, "class", "svelte-9nyuhm");
       attr(div1, "aria-label", "Add to Encounter");
-      attr(div1, "class", "svelte-bf6d6a");
-      attr(div2, "class", "icons svelte-bf6d6a");
+      attr(div1, "class", "svelte-9nyuhm");
+      attr(div2, "class", "icons svelte-9nyuhm");
       attr(tr, "class", "encounter-row");
     },
     m(target, anchor) {
@@ -19599,13 +19700,13 @@ function create_fragment12(ctx) {
     c() {
       div = element("div");
       span0 = element("span");
-      span0.textContent = "Easy";
+      span0.textContent = `${ctx[3].systemDifficulties[0]}`;
       t1 = space();
       span1 = element("span");
       meter = element("meter");
       t2 = space();
       span2 = element("span");
-      span2.textContent = "Deadly";
+      span2.textContent = `${ctx[3].systemDifficulties.slice(-1)}`;
       attr(meter, "class", "difficulty-bar svelte-137y560");
       attr(meter, "min", "0");
       attr(meter, "low", "0.33");
@@ -19647,23 +19748,24 @@ function instance12($$self, $$props, $$invalidate) {
   const { difficulty } = tracker;
   const plugin = getContext("plugin");
   const dif = difficulty(plugin);
-  component_subscribe($$self, dif, (value) => $$invalidate(4, $dif = value));
+  component_subscribe($$self, dif, (value) => $$invalidate(5, $dif = value));
+  const rpgSystem = getRpgSystem(plugin);
   const difficultyBar = tweened(0, { duration: 400, easing: cubicOut });
   component_subscribe($$self, difficultyBar, (value) => $$invalidate(1, $difficultyBar = value));
   $$self.$$.update = () => {
-    if ($$self.$$.dirty & 16) {
+    if ($$self.$$.dirty & 32) {
       $: {
         if ($dif.thresholds.last()) {
           difficultyBar.set(Math.min($dif.difficulty.value / $dif.thresholds.last().minValue, 1));
         }
       }
     }
-    if ($$self.$$.dirty & 16) {
+    if ($$self.$$.dirty & 32) {
       $:
         $$invalidate(0, summary = $dif.difficulty.summary);
     }
   };
-  return [summary, $difficultyBar, dif, difficultyBar, $dif];
+  return [summary, $difficultyBar, dif, rpgSystem, difficultyBar, $dif];
 }
 var Difficulty = class extends SvelteComponent {
   constructor(options) {

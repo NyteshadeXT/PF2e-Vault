@@ -16,6 +16,19 @@ Location: Restwell Keep
 AssociatedGroup:
   - Saruun Guild
 Age: Adult
+Dislikes: Creatures and people with strong ties to the earth element.
+MentalTrait:
+  - Analytical
+  - Decisive
+  - Perceptive
+SocialTrait:
+  - Demanding
+  - Intolerant
+  - Secretive
+PersonalityTrait:
+  - Articulate
+  - Proud
+  - Savvy
 ---
 > [!infobox]
 > **Pronounced:**  "`=this.Pronounced`"
