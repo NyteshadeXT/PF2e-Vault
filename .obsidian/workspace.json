@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7) Players/Cassandra.md",
+                "file": "8) Adventures/2e - Down the Goblin Hole (D280)/03) The Webwall.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7) Players/Cassandra.md",
+                "file": "8) Adventures/2e - Down the Goblin Hole (D280)/03) The Webwall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7) Players/Cassandra.md"
+                "file": "8) Adventures/2e - Down the Goblin Hole (D280)/03) The Webwall.md"
               }
             }
           },
@@ -172,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 472.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,11 +194,11 @@
     "type": "floating",
     "children": [
       {
-        "id": "747535b76aae2b2a",
+        "id": "c467b0f261bc7ae8",
         "type": "window",
         "children": [
           {
-            "id": "aff2959159bbdf86",
+            "id": "81265dacda1ea831",
             "type": "tabs",
             "children": [
               {
@@ -222,20 +222,25 @@
       }
     ]
   },
-  "active": "5ed6a6017917205d",
+  "active": "bada9a029119191a",
   "lastOpenFiles": [
+    "Note.md",
+    "8) Adventures/2e - Down the Goblin Hole (D280)/03) The Webwall.md",
+    "4) Bestiary/bestiary-1/goblin-warrior.md",
+    "4) Bestiary/bestiary-1/spider-swarm.md",
+    "4) Bestiary/homebrew/deathjump-spider.md",
+    "4) Bestiary/bestiary-1/goblin-war-chanter.md",
+    "8) Adventures/2e - Down the Goblin Hole (D280)/02) Goblin Ambushers.md",
+    "8) Adventures/2e - Down the Goblin Hole (D280)/2e - Down the Goblin Hole (D280).md",
+    "7) Players/Cassandra.md",
     "7) Players/Winter.md",
     "7) Players/Varas.md",
     "7) Players/Mordak.md",
-    "7) Players/Cassandra.md",
-    "8) Adventures/2e - Down the Goblin Hole (D280)/03) The Webwall.md",
     "6) NPCs/Restwell Keep/Zeta Windsnap.md",
     "6) NPCs/Restwell Keep/Lord Drysdale.md",
     "zz-Attachments/Zeta Windsnap.png",
     "zz-Attachments/Zeta Windsnap-Old.png",
-    "8) Adventures/2e - Down the Goblin Hole (D280)/02) Goblin Ambushers.md",
     "8) Adventures/2e - Down the Goblin Hole (D280)/01) Running the Adventure.md",
-    "8) Adventures/2e - Down the Goblin Hole (D280)/2e - Down the Goblin Hole (D280).md",
     "5) World/Chaos Scar - GM View.md",
     "8) Adventures/1J - The Kobold Hall (DMG)/1J - The Kobold Hall (DMG).md",
     "8) Adventures/1J - The Kobold Hall (DMG)/04) Skull-Skull.md",
@@ -247,11 +252,6 @@
     "8) Adventures/2d - The Hammer Falls (D179)/2d - The Hammer Falls (D179).md",
     "8) Adventures/2d - The Hammer Falls (D179)/01) Running the Adventure.md",
     "8) Adventures/2f - The Lost Library (D173)/2f - The Lost Library (D173).md",
-    "8) Adventures/2g - The Crossroads (D176)/2g - The Crossroads (D176).md",
-    "8) Adventures/3A - The Crawling Fane (D178)/3A - The Crawling Fane (D178).md",
-    "5) World/Restwell Keep.md",
-    "8) Adventures/2d - The Hammer Falls (D179)/03) The Metalworks.md",
-    "8) Adventures/2d - The Hammer Falls (D179)/04) Sleed’s Sanctum.md",
     "zz-Attachments/Dolgrim 1.webp",
     "zz-Attachments/Dolgrim.webp",
     "zz-Attachments/Dolgarr.webp",
