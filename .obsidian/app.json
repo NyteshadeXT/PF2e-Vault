@@ -2,5 +2,6 @@
   "livePreview": false,
   "attachmentFolderPath": "zz-Attachments",
   "alwaysUpdateLinks": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "defaultViewMode": "preview"
 }

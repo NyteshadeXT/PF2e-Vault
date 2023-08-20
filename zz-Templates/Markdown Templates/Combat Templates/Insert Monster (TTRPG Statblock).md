@@ -1,4 +1,0 @@
-
-```statblock
-	monster: Air Mephit
-```

@@ -1,4 +1,24 @@
-![[Pasted image 20230307220537.png]]
+
+
+```leaflet
+id: leaflet-map
+image: [[Chaos Scar - GM View.png]]
+bounds: [[0, 0], [1060, 1600]]
+height: 1000px
+width: 95%
+lat: 530
+long: 800
+minZoom: -1.5
+maxZoom: 18
+defaultZoom: 0
+zoomdelta: 0.8
+unit: miles
+scale: 0.035
+marker: Point of Interest, 0, 0
+marker: Point of Interest, 1060, 1600
+marker: Point of Interest, 530, 800
+darkMode: false
+```
 
 A few notes:
 -  If an adventure isn't listed, it is because it is a "could happen anywhere" adventure like 1H-Eyes in the Forest.
@@ -7,7 +27,7 @@ A few notes:
 # Wilderness Travel
 First have the party determine what route they are taking. They may take the direct route, they may choose to follow the road for a while first.
 
-![[Pasted image 20230307220725.png]]
+![[Travel Table.png]]
 
 As the party travels along their path (or assumed path) use the following costs against their miles per day:
 

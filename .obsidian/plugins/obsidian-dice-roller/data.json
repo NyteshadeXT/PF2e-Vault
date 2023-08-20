@@ -1,11 +1,11 @@
 {
-  "returnAllTags": true,
   "rollLinksForTags": false,
   "copyContentButton": true,
   "customFormulas": [],
   "displayFormulaForMod": true,
   "displayResultsInline": false,
   "displayFormulaAfter": true,
+  "signed": false,
   "displayLookupRoll": true,
   "formulas": {},
   "persistResults": false,
@@ -15,10 +15,14 @@
   "renderer": true,
   "renderAllDice": true,
   "renderTime": 2000,
+  "colorfulDice": true,
+  "scaler": 1.2,
   "diceColor": "#4b4fb9",
   "textColor": "#ffffff",
   "showLeafOnStartup": true,
   "showDice": true,
   "displayAsEmbed": true,
-  "round": "None"
+  "round": "None",
+  "initialDisplay": "Roll",
+  "returnAllTags": true
 }

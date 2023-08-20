@@ -6,7 +6,11 @@
     "Pathfinder2E-TTRPG-Statblock-v1.4",
     "PF2e-Actions-Font",
     "pf2-only-statblocks",
-    "pf2-compendium"
+    "pf2-compendium",
+    "weatherGeneratorVertical",
+    "weatherGeneratorMicro",
+    "weatherGeneratorMicroV2",
+    "weatherGenerator"
   ],
   "baseFontSize": 17,
   "theme": "obsidian"

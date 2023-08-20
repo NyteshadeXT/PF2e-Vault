@@ -5,7 +5,7 @@ The adventurers make their way to the lair of the brown dragon wyrmling Kethendt
 
 # Adventure Hooks
 **Stolen Gear** 
-Thorgrim Spinehammer is a dwarf in charge of a small mine close to the Chaos Scar. He recently suffered the theft of his mining equipment and tracked the thieves as far as the King’s Wall. Not willing to risk his own life by entering the valley, he offers to pay the characters 75 gp to follow the kobolds to the cave and recover twelve stolen picks. Thorgrim will pay as much as 125 gp to avoid purchasing replacement gear, but a DC 15 Diplomacy check must be made to convince the miserly dwarf to part with his money. 
+Thorgrim Spinehammer is a dwarf in charge of a small mine close to the Chaos Scar. He recently suffered the theft of his mining equipment and tracked the thieves as far as the King’s Wall. Not willing to risk his own life by entering the valley, he offers to pay the characters 75 gp to follow the kobolds to the cave and recover twelve stolen picks. Thorgrim will pay as much as 125 gp to avoid purchasing replacement gear, but a DC 15 Diplomacy check must be made to convince the miserly dwarf to part with his money. 
 
 **Wyrmling Raider** 
 Local farmers have been losing livestock to raids performed by a brown wyrmling dragon (Kethendtir). The farmers know that this problem will only get worse in the future, so they have banded together to solve their problem. A quiet halfling farmer named Karrie Buttonquail approaches the characters with all the money the farmers could amass: 2,618 cp. If the PCs try to bargain, she’ll reluctantly throw in her prize sheep worth 100 sp. 

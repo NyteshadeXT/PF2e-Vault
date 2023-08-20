@@ -47,22 +47,3 @@ After crossing the King’s Wall, the characters travel into the woodlands in th
 > The characters stumble into the trap at the start of Encounter 1.
 
 **Tactical Encounter 1:** The Goblin Ambush 
-
-## The Goblin Hole
-After defeating the goblins, the characters arrive at the edge of the Goblin Hole. Three sides of the ravine are too steep to climb, but the fourth offers a way down. It’s almost as steep, but that section of the cliff face is covered with a thick carpet of spider webs and vines. The characters can climb down the webs to the bottom of the ravine. 
-
-**Tactical Encounter 2:** The Webwall 
-
-Once the goblins in the ravine are dealt with, the characters can descend into the Goblin Hole proper—the caves under the ravine. The cave walls are covered in fungal growths and more spider webs. In places, the characters must clamber down steep and treacherous slopes, as the caves are arranged one atop the next. Each step brings the characters deeper underground. A quick retreat is impossible. 
-
-There are signs of goblins everywhere—chewed bones, dirty blankets, discarded trash, and insulting messages or strange ritual symbols daubed onto the walls. The goblins living in the caves dare not confront powerful invaders directly. They will wait for Urgog the Mangler to slay the trespassers. 
-
-## The Bottom of the Hole 
-> [!note]+ Read Aloud
-> After slipping and sliding through three smaller chambers, you arrive at a larger cave. In the center of the floor is a large hole which leads into a still deeper cavern. Crude rope ladders are tied to stalagmites that dangle into the hole, and you can see torchlight from below. A voice roars from beneath you. ‘I am Urgog the Mangler, Urgog the war-chief, the King of the Goblin Hole! Come down and fight! Come down and die!’ After a momentary pause, the voice says ‘are you sure they’re up there? I can’t hear anything!’ 
-
-A [[skills#Perception|perception]] check (DC15) lets the characters hear a strange, chittering noise: the speech of the feyspitter spider assuring Urgog that the adventurers are indeed close at hand. It’s impossible to use missile attacks to strike at Urgog or his guards from the upper cavern, so the characters must climb down the ladders to slay the goblin chieftain. 
-
-**Tactical Encounter 3:** Bottom of the Hole. 
-
-Once Urgog and his followers are slain, the characters can loot the treasure trove under the goblin king's throne.

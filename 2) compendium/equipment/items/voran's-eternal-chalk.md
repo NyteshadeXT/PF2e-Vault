@@ -1,3 +1,4 @@
+---
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
@@ -8,7 +9,7 @@ tags:
 - trait/uncommon
 aliases: ["Voran's Eternal Chalk"]
 ---
-# Twilight Lantern *Item 2+*  
+# Voran's Eternal Chalk *Item 2+*  
 [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Usage** held in 1 hand; **Bulk** L

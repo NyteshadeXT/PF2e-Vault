@@ -2,6 +2,10 @@
 
 **Encounter Difficulty:** Severe (155 xp)
 
+Once the goblin ambush in the ravine is dealt with, the characters can descend into the Goblin Hole proper—the caves under the ravine. The cave walls are covered in fungal growths and more spider webs. In places, the characters must clamber down steep and treacherous slopes, as the caves are arranged one atop the next. Each step brings the characters deeper underground. A quick retreat is impossible. 
+
+There are signs of goblins everywhere—chewed bones, dirty blankets, discarded trash, and insulting messages or strange ritual symbols daubed onto the walls. The goblins living in the caves dare not confront powerful invaders directly. They will wait for Urgog the Mangler to slay the trespassers. 
+
 The cave tiles represent the flat bottom of the ravine. Three sides of the ravine are so steep they cannot be climbed. The fourth side is represented by the webbed tile. This tile represents a wall that is perpendicular to the other tiles—the encounter begins with the player characters climbing down this near vertical cliff. 
 
 At the start of the encounter, place the following foes on the map: 
@@ -16,7 +20,7 @@ creatures:
 - 2: [[Goblin War Chanter]]
 ```
 
-There is also a hidden pit at the bottom of the cliff (marked by Xs). 
+There is also a [[hidden-pit|hidden pit]] at the bottom of the cliff (marked by Xs). 
 
 When any character comes within four squares of the bottom of the cliff, the following foes emerge from shadowy holes in the cliff wall. A character who ends his turn within four squares of the cliff bottom can spot the hidden enemies with a DC15 [[skills#Perception|Perception]] check. 
  - 2: [[deathjump-spider|Deathjump Spider]] D
@@ -67,7 +71,7 @@ The spiders can move freely on the webs thanks to their climb speed, so they can
 While characters cling to the wall, they fight at a severe disadvantage against the spiders. If they jump down to escape the spiders, the goblin cutters rush out, making this an out-of-the-frying-pan-and-into-the-fire encounter. As with the [[02) Goblin Ambushers|Goblin Ambushers]]  encounter, the characters could wind up badly outnumbered, but most of their foes are minions. 
 
 > [!tip]+ Treasure
-> There’s a leather pouch in the slime pit, dropped there by some luckless adventurer. It contains 10 gold coins and a *healing potion (lesser)*. A character who searches the pit finds the pouch with a DC 9 [[skills#Perception|Perception]] check. A character who falls into the pit finds the pouch through dumb luck if you roll a 6 on 1d6.
+> On bodies of some unfortunate victions the players can find a pouch containing 10 gold coins and a *[[healing-potion|healing potion]] (lesser)*. A character who searches the cavern wall can also find a space hidden behind a rock with a DC 15 [[skills#Perception|Perception]] check. Hidden in this space are a [[shifting|Shifting Rune]] and [[wounding-oil-tv|Wounding Oil]].
 
 # Features of the Area 
 **Illumination:** While the steep-sided ravine is in shadow, it’s still considered brightly illuminated. 

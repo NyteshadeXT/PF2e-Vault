@@ -21,5 +21,19 @@
   "ITS@@its-d": false,
   "pathfinder-2e-statblocks@@layout-theme-basic": "basic-pathfinder-2e-layout-theme-default",
   "ITS@@breadcrumbs-block": false,
-  "ITS@@default-statblock": true
+  "ITS@@default-statblock": true,
+  "ITS@@writing": false,
+  "ITS@@paper": false,
+  "ITS@@writing-document": false,
+  "ITS@@ITS-Sizes": "none",
+  "ITS@@scrollbar-width": 15,
+  "ITS@@titlebar-colors": true,
+  "ITS@@titlebar-bubbles": true,
+  "ITS@@ITS-Sidebar-Styling": "sidebar-tabs-underline",
+  "ITS@@navbar-bottom": false,
+  "ITS@@file-explorer-flat": false,
+  "ITS@@background-image": false,
+  "ITS@@kanban-boxed": false,
+  "ITS@@kanban-minimal": false,
+  "ITS@@kanban-title-center": false
 }

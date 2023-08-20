@@ -18,5 +18,8 @@
   "obsidian-text-expander-js",
   "obsidian-5e-statblocks",
   "dbfolder",
-  "global-search-and-replace"
+  "global-search-and-replace",
+  "templater-obsidian",
+  "obsidian-textgenerator-plugin",
+  "fantasy-content-generator"
 ]

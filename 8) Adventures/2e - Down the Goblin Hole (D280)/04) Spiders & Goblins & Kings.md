@@ -2,6 +2,12 @@
 
 **Encounter Difficulty:** Severe (140 xp)
 
+# The Bottom of the Hole 
+> [!note]+ Read Aloud
+> After slipping and sliding through three smaller chambers, you arrive at a larger cave. In the center of the floor is a large hole which leads into a still deeper cavern. Crude rope ladders are tied to stalagmites that dangle into the hole, and you can see torchlight from below. A voice roars from beneath you. ‘I am Urgog the Mangler, Urgog the war-chief, the King of the Goblin Hole! Come down and fight! Come down and die!’ After a momentary pause, the voice says ‘are you sure they’re up there? I can’t hear anything!’ 
+
+A [[skills#Perception|perception]] check (DC15) lets the characters hear a strange, chittering noise: the speech of the shard spider assuring Urgog that the adventurers are indeed close at hand. It’s impossible to use missile attacks to strike at Urgog or his guards from the upper cavern, so the characters must climb down the ladders to slay the goblin chieftain. 
+
 Place the following foes on the map at the start of the encounter: 
  - 2: [[goblin-warrior|Goblin Cutthroat]] G
  - 1: [[shard-spider|Shard Spider]] F
@@ -47,7 +53,7 @@ On round 2, 4 goblin cutters and 1 goblin warrior arrive in the upper chamber. T
 The shard of the meteor discovered by Urgog is lodged in the webs of the spider. The characters can cut it free from the webs and take it with them. Its specific properties and hazards are up to you, depending on what plans you have for further developments and what measures the characters take to protect themselves. 
 
 > [!tip]+ Treasure
-> In addition the the *+1 Striking Shortsword* used by Urgog.  His treasure hoard is in a chest under his throne. It consists of *Sarkorian God-Caller Garb*, *Heartening Missive (Rabbit)*, *Eidetic Potion* and 34 gold pieces. 
+> In addition the the [[striking|+1 Striking Shortsword]] used by Urgog.  His treasure hoard is in a chest under his throne. It consists of [[sarkorian-god-caller-garb-lotgb|Sarkorian God-caller Garb]], [[heartening-missive-rabbit-tv|Heartening Missive (Rabbit)]], [[eidetic-potion-tv|Eidetic Potion]] and 34 gold pieces. 
 
 # Features of the Area
 **Illumination:** The webs of the phase spider glow dimly on the walls, providing dim illumination. 
