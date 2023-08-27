@@ -1,0 +1,40 @@
+{
+  "targetAttributes": [
+    "notetype"
+  ],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "enableTabHeader": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "attribute",
+      "name": "type",
+      "value": "NPC",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "0ac0-4873",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "notetype",
+      "value": "pf2eMonster",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "c45a-822c",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    }
+  ]
+}

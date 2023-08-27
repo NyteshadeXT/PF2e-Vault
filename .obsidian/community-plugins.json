@@ -2,7 +2,6 @@
   "various-complements",
   "obsidian-dice-roller",
   "table-editor-obsidian",
-  "fantasy-calendar",
   "markdown-attributes",
   "dataview",
   "obsidian-kanban",
@@ -21,5 +20,9 @@
   "global-search-and-replace",
   "templater-obsidian",
   "obsidian-textgenerator-plugin",
-  "fantasy-content-generator"
+  "fantasy-content-generator",
+  "obsidian42-brat",
+  "calendarium",
+  "obsidian-import-json",
+  "supercharged-links-obsidian"
 ]

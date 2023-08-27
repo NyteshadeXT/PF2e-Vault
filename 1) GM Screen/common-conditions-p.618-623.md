@@ -1,4 +1,4 @@
-**[Blinded](../rules/conditions.md#Blinded):** All terrain is difficult. Critically fail vision-based [Perception](../compendium/skills.md#Perception) checks and -4 status penalty to other [Perception](../compendium/skills.md#Perception) Checks.
+**[Blinded](../rules/conditions.md#Blinded):** All terrain is difficult. Critically fail vision-based [Perception](skills.md#Perception) checks and -4 status penalty to other [Perception](skills.md#Perception) Checks.
 
 **[Clumsy](../rules/conditions.md#Clumsy):** Your movements become clumsy. Clumsy always includes a value. You take a status penalty equal to the condition value to Dexterity-based checks and DCs, including AC, Reflex saves, ranged attack rolls, and Acrobatics, Stealth, and Thievery.
 
@@ -28,7 +28,7 @@
 
 **[Stunned](../rules/conditions.md#Stunned):** Stunned includes a value indicating the number of actions that you lose on your next turn.  Each time you regain actions (such as at start of turn), reduce the number you regain by [Stunned](../rules/conditions.md#Stunned) value, then reduce your stunned value by the number of actions you lost.
 
-**[Unconscious](../rules/conditions.md#Unconscious):** You are sleeping or have been knocked out. You cannot act, and you gain the [Blinded](../rules/conditions.md#Blinded) and [Flat-Footed](../rules/conditions.md#Flat-Footed) (-2 circumstance penalty to AC) [Conditions](../rules/conditions.md). Furthermore, you take a –4 status penalty to AC, [Perception](../compendium/skills.md#Perception) and Reflex. You fall [Prone](../rules/conditions.md#Prone) and drop items you are wielding or holding when you gain this condition unless stated otherwise.
+**[Unconscious](../rules/conditions.md#Unconscious):** You are sleeping or have been knocked out. You cannot act, and you gain the [Blinded](../rules/conditions.md#Blinded) and [Flat-Footed](../rules/conditions.md#Flat-Footed) (-2 circumstance penalty to AC) [Conditions](../rules/conditions.md). Furthermore, you take a –4 status penalty to AC, [Perception](skills.md#Perception) and Reflex. You fall [Prone](../rules/conditions.md#Prone) and drop items you are wielding or holding when you gain this condition unless stated otherwise.
 
 **[Undetected](../rules/conditions.md#Undetected):** When you are unseen by a creature, that creature cannot see you, has no idea what space you occupy, and cannot target you with attacks or spells and effects, though you still can be affected by area effects. The creature can attempt to guess which square you are in to try targeting you. When you are unseen by a creature, that creature is [Flat-Footed](../rules/conditions.md#Flat-Footed) (-2 circumstance penalty to AC) to you.
 

@@ -57,9 +57,9 @@ health:
     desc: "70"
 
 attacks:
-  - name: Melee_1
+  - name: Melee
     desc: "⬻ bite +15; __Damage__ 2d8+8 (2d8+8)"
-  - name: Melee_2
+  - name: Melee
     desc: "⬺ shard spray +11; __Damage__ 2d4+6 (2d4+6) plus 5 persistent bleed damage until healing of some form is recieved"
     
 sourcebook: "Homebrew"

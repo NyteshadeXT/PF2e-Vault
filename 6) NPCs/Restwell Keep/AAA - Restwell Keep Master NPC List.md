@@ -437,7 +437,7 @@ columns:
     position: 3
     skipPersist: false
     accessorKey: Pronounced
-    width: 190
+    width: 216
     isHidden: false
     sortIndex: -1
     config:

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7fc125586a015f21",
+        "id": "e70665da5ec758a8",
         "type": "tabs",
         "children": [
           {
-            "id": "dc596213cd9ebdba",
+            "id": "4205a2c78333af97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1) Scratch Notes/Untitled.md",
+                "file": "support/inlineScripts/InlineScript_BlacksmithShop.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 381.5
   },
   "right": {
     "id": "e19cced9a0292528",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1) Scratch Notes/Untitled.md",
+                "file": "support/inlineScripts/InlineScript_BlacksmithShop.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -109,20 +109,32 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1) Scratch Notes/Untitled.md"
+                "file": "support/inlineScripts/InlineScript_BlacksmithShop.md"
               }
             }
           },
           {
-            "id": "63f387b626c259e3",
+            "id": "00fe6c54f2a90a7a",
             "type": "leaf",
             "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_d8786a5ba87a",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "year": 1491,
+                    "day": 8,
+                    "month": 13
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                }
+              }
             }
           },
           {
-            "id": "437cb9fb29b41ada",
+            "id": "bf8d0cd987bb8ab9",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -130,38 +142,31 @@
             }
           },
           {
-            "id": "f41ba98a9022325a",
+            "id": "cb22956251717e34",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "568ef21be3033916",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "e3536f056d812ee3",
+            "id": "84123de73f8ceeee",
             "type": "leaf",
             "state": {
-              "type": "initiative-tracker-creature-view",
+              "type": "inline-scripts-button-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 417.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "templater-obsidian:Templater": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
       "dbfolder:Create a new database table": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -171,60 +176,64 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "initiative-tracker:Intiative Tracker Encounter Builder": false,
       "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "dc596213cd9ebdba",
+  "active": "4205a2c78333af97",
   "lastOpenFiles": [
-    "textgenerator/prompts/fantasy generators/Generate Armory.md",
+    "1) Scratch Notes/Untitled 1.md",
+    "support/inlineScripts/InlineScript_BlacksmithShop.md",
+    "2) Compendium/equipment/items/items.md",
+    "2) Compendium/equipment/items/admonishing-band-g-g.md",
+    "2) Compendium/equipment/items/abadars-flawless-scale-logm.md",
     "1) Scratch Notes/Untitled.md",
-    "textgenerator/prompts/fantasy generators/Generate Inn.md",
+    "support/inlineScripts/adventurecrafter.sfile.md",
+    "textgenerator/prompts/fantasy generators/Generate Armory.md",
     "1) Scratch Notes/Notes.md",
+    "textgenerator/prompts/fantasy generators/Generate Inn.md",
+    "2) Compendium/skills.md",
+    "8) Adventures/2C - Dead by Dawn (D176).md",
+    "4) Bestiary/homebrew/glass-guardian.md",
+    "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175).md",
+    "2) Compendium/equipment/items/alchemists-haversack-tv.md",
+    "2) Compendium/equipment/items/alchemists-flamethrower-tv.md",
+    "2) Compendium/equipment/items/alchemists-fire.md",
+    "2) Compendium/equipment/items/alchemist-goggles.md",
+    "2) Compendium/equipment/items/adamantine-shield.md",
+    "2) Compendium/equipment/items/adamantine-armor.md",
+    "2) Compendium/equipment/items/aeon-stone-clear-quartz-octagon-ooa2.md",
+    "2) Compendium/equipment/items/ablative-armor-plating-g-g.md",
+    "8) Adventures/2H - Slaark's Crown (D220).md",
+    "6) NPCs/Restwell Keep/Kendon Longstrider.md",
+    "zz-Attachments/Kendon Longstrider.png",
+    "6) NPCs/Restwell Keep/Wara.md",
+    "6) NPCs/Restwell Keep/Ailwin.md",
+    "zz-Attachments/Pasted image 20230426214747.png",
+    "zz-Attachments/Pasted image 20230423114727.png",
+    "zz-Attachments/Pasted image 20230422151428.png",
+    "zz-Attachments/Pasted image 20230422151355.png",
+    "zz-Attachments/Pasted image 20230422110913.png",
+    "zz-Attachments/Pasted image 20230416105809.png",
+    "zz-Attachments/Pasted image 20230416102726.png",
+    "zz-Attachments/Pasted image 20230416102602.png",
+    "zz-Attachments/Pasted image 20230409150531.png",
+    "4) Bestiary/Temp",
+    "Rewards",
+    "zz-Templates/Handlebar Templates",
+    "8) Adventures/Untitled",
     "textgenerator/prompts/fantasy generators",
-    "textgenerator/prompts/trash/huggingface/summarizeBART.md",
-    "textgenerator/prompts/trash/huggingface/completeTextBloom.md",
-    "textgenerator/prompts/trash/huggingface/classify-bart-large-mnli.md",
     "textgenerator/prompts/trash/huggingface",
     "textgenerator/prompts/trash",
-    "textgenerator/prompts/huggingface/summarizeBART.md",
-    "textgenerator/prompts/huggingface/classify-bart-large-mnli.md",
-    "textgenerator/prompts/huggingface/completeTextBloom.md",
     "textgenerator/prompts/huggingface",
-    "textgenerator/prompts/default/getEmailPos.md",
-    "textgenerator/prompts/default/getIdeas.md",
-    "textgenerator/prompts/default/summarize.md",
-    "textgenerator/prompts/default/getOutline.md",
-    "textgenerator/prompts/default/getTitles.md",
-    "textgenerator/prompts/default/rewrite.md",
-    "textgenerator/prompts/default/getEmailNeg.md",
-    "textgenerator/prompts/default/getTags.md",
-    "textgenerator/prompts/default/getParagraph.md",
-    "textgenerator/prompts/default/simplify.md",
     "textgenerator/prompts/default",
     "textgenerator/prompts",
-    "textgenerator",
-    "1) GM Screen/GM Screen.md",
-    "1) GM Screen/GM Tools.md",
-    "zz-Attachments/Conditions Logo.png",
-    "3) Rules/conditions.md",
-    "zz-Attachments/Game Rules Header.png",
-    "1) GM Screen/rules-reference.md",
-    "1) GM Screen/Weather.md",
-    "1) GM Screen/weapon-traits-p.282-283.md",
-    "zz-Templates/Weather Templates",
-    "zz-Tools",
-    "zz-scripts/WeatherGeneratorSpecified.js",
-    "zz-Attachments/Weather/windy.png",
-    "zz-Attachments/Weather/temperatureWarm.png",
-    "zz-Attachments/Weather/tornado.png",
-    "zz-Attachments/Weather/temperatureHot.png",
-    "zz-Attachments/Weather/temperatureCold.png",
-    "zz-Attachments/Weather/stormyNight.png",
-    "zz-Attachments/Weather/stormy.png",
-    "zz-Attachments/Weather/snowNight_2.png",
     "1) GM Screen/Untitled.canvas"
   ]
 }

@@ -1,7 +1,0 @@
-Hongya, a young elf druid, swelled with pride when her order tasked her with the care of an ancient grove that was the primal heart of a larger forest. But unknown to her, the grove had recently been enchanted with a dark and powerful curse that was slowly siphoning the life from the great trees. By the time she realized that all was not well in the grove, the effect of the cursed heart had spread throughout the entire forest. Flowers withered, trees rotted, and songbirds fell out of the sky. 
-
-The grove that Hongya had sworn to protect was dying, and her rituals and herbalism were completely powerless to stop it. In despair, she forsook her ties to the natural world and called out a plea to the stars. One of them answered, and today “life” abounds in the grove again, but it is a twisted parody of the life that should inhabit the place. 
-
-The village of Woodbridge lies near the edge of a forest that the locals call the Neatwood. The corrupted grove is only a few hours’ walk from this village. Woodbridge has always maintained a good relationship with the resident druidic keepers of the Neatwood. Hunters and loggers always carefully follow instructions about which trees to fell and which game to take, and in exchange, the druids keep the dangerous denizens of the wood at bay. 
-
-But one day, a sheep that had strayed into the forest came back sprouting tentacles and tried to eat the other sheep. A few of the farmers quickly banded together to put the beast down.
