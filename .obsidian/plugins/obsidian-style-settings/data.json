@@ -35,9 +35,5 @@
   "ITS@@background-image": false,
   "ITS@@kanban-boxed": false,
   "ITS@@kanban-minimal": false,
-  "ITS@@kanban-title-center": false,
-  "supercharged-links@@0ac0-4873-color": "#5963FF",
-  "supercharged-links@@0ac0-4873-before": "🧑‍🌾",
-  "supercharged-links@@c45a-822c-color": "#9957FF",
-  "supercharged-links@@c45a-822c-before": "☠️"
+  "ITS@@kanban-title-center": false
 }

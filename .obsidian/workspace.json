@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "support/inlineScripts/InlineScript_BlacksmithShop.md",
+                "file": "8) Adventures/2H - Slaark's Crown (D220).md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "support/inlineScripts/InlineScript_BlacksmithShop.md",
+                "file": "8) Adventures/2H - Slaark's Crown (D220).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "support/inlineScripts/InlineScript_BlacksmithShop.md"
+                "file": "8) Adventures/2H - Slaark's Crown (D220).md"
               }
             }
           },
@@ -123,9 +123,9 @@
                 "ephemeral": {
                   "viewState": 1,
                   "displaying": {
-                    "year": 1491,
-                    "day": 8,
-                    "month": 13
+                    "day": 9,
+                    "month": 13,
+                    "year": 1491
                   },
                   "displayDayNumber": false,
                   "displayMoons": true
@@ -156,13 +156,47 @@
               "type": "inline-scripts-button-view",
               "state": {}
             }
+          },
+          {
+            "id": "6a965f8b005ca755",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_d8786a5ba87a",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 9,
+                    "month": 13,
+                    "year": 1491
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                }
+              }
+            }
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "fca219adaf093e61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f79da3bb357cb757",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 493.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,35 +220,69 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4205a2c78333af97",
+  "floating": {
+    "id": "361bfe2b68c5bc29",
+    "type": "floating",
+    "children": [
+      {
+        "id": "cd4b9081f81d048d",
+        "type": "window",
+        "children": [
+          {
+            "id": "b2715322903389bd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "94432918608b9188",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2176,
+        "y": 0,
+        "width": 640,
+        "height": 672,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "cb22956251717e34",
   "lastOpenFiles": [
-    "1) Scratch Notes/Untitled 1.md",
-    "support/inlineScripts/InlineScript_BlacksmithShop.md",
-    "2) Compendium/equipment/items/items.md",
-    "2) Compendium/equipment/items/admonishing-band-g-g.md",
-    "2) Compendium/equipment/items/abadars-flawless-scale-logm.md",
-    "1) Scratch Notes/Untitled.md",
-    "support/inlineScripts/adventurecrafter.sfile.md",
-    "textgenerator/prompts/fantasy generators/Generate Armory.md",
-    "1) Scratch Notes/Notes.md",
-    "textgenerator/prompts/fantasy generators/Generate Inn.md",
-    "2) Compendium/skills.md",
-    "8) Adventures/2C - Dead by Dawn (D176).md",
-    "4) Bestiary/homebrew/glass-guardian.md",
-    "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175).md",
-    "2) Compendium/equipment/items/alchemists-haversack-tv.md",
-    "2) Compendium/equipment/items/alchemists-flamethrower-tv.md",
-    "2) Compendium/equipment/items/alchemists-fire.md",
-    "2) Compendium/equipment/items/alchemist-goggles.md",
-    "2) Compendium/equipment/items/adamantine-shield.md",
-    "2) Compendium/equipment/items/adamantine-armor.md",
-    "2) Compendium/equipment/items/aeon-stone-clear-quartz-octagon-ooa2.md",
-    "2) Compendium/equipment/items/ablative-armor-plating-g-g.md",
+    "7) Players/Add New Players.md",
     "8) Adventures/2H - Slaark's Crown (D220).md",
+    "4) Bestiary/bestiary-1/dire-wolf.md",
+    "4) Bestiary/bestiary-1/wolf.md",
+    "4) Bestiary/bestiary-1/hobgoblin-general.md",
+    "4) Bestiary/homebrew/twig-blight.md",
+    "4) Bestiary/bestiary-1/goblin-commando.md",
+    "5) World/Chaos Scar - GM View.md",
+    "8) Adventures/2F - The Lost Library (D173).md",
+    "5) World/Chaos Scar - Player View.md",
+    "5) World/Restwell Keep.md",
+    "5) World/Abandoned Shrine of Moradin.md",
+    "6) NPCs/Restwell Keep/Nerrin Silverhand.md",
+    "8) Adventures/2G - The Crossroads (D176).md",
+    "5) World/Restwell Jobs.md",
     "6) NPCs/Restwell Keep/Kendon Longstrider.md",
     "zz-Attachments/Kendon Longstrider.png",
-    "6) NPCs/Restwell Keep/Wara.md",
-    "6) NPCs/Restwell Keep/Ailwin.md",
+    "8) Adventures/2E - Down the Goblin Hole (D280).md",
+    "6) NPCs/Restwell Keep/Zeta Windsnap.md",
+    "zz-Attachments/Zeta Windsnap.png",
+    "5) World/Restwell Rumors.md",
+    "5) World/Wellspring Map.md",
+    "4) Bestiary/homebrew/shard-spider.md",
+    "8) Adventures/3C - The Wayward Wyrmling (D182).md",
+    "8) Adventures/4A - Glowstone Caverns (D177).md",
+    "support/inlineScripts/InlineScript_BlacksmithShop.md",
+    "1) Scratch Notes/Untitled 1.md",
+    "2) Compendium/equipment/items/items.md",
     "zz-Attachments/Pasted image 20230426214747.png",
     "zz-Attachments/Pasted image 20230423114727.png",
     "zz-Attachments/Pasted image 20230422151428.png",
@@ -222,8 +290,6 @@
     "zz-Attachments/Pasted image 20230422110913.png",
     "zz-Attachments/Pasted image 20230416105809.png",
     "zz-Attachments/Pasted image 20230416102726.png",
-    "zz-Attachments/Pasted image 20230416102602.png",
-    "zz-Attachments/Pasted image 20230409150531.png",
     "4) Bestiary/Temp",
     "Rewards",
     "zz-Templates/Handlebar Templates",
