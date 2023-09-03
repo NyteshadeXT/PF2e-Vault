@@ -136,9 +136,9 @@ calendars:
       incrementDay: false
       displayDayNumber: false
     current:
-      year: 1491
-      day: 8
+      day: 9
       month: 13
+      year: 1491
     events:
       - name: Winter Solstice
         id: "1908969"

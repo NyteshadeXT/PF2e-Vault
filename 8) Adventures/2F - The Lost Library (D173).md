@@ -6,16 +6,16 @@ Hesskin Flamebrow, a dwarven treasure hunter drawn to the power that lies in the
 Unfortunately for the kobolds, the dragon Kethendtir and the dragonborn Hesskin formed an alliance. Nibbik was forced to continue his treasure detecting ruse, and he and his tribe were forced to excavate further into Kethendtir’s cave. Much to the wyrmpriest’s surprise, his miners uncovered one of Voran’s lost chambers. In the few hours before the PCs arrive, Hesskin has discovered the secret of a floating lantern and opened an arcane portal that leads to Voran’s inner sanctum.
 
 # Running the Adventure
-**Total Adventure Value:** 350 xp
+**Total Adventure Value:** 265 xp
 
-The adventurers make their way to the lair of the brown dragon wyrmling Kethendtir. There, they must face the dragon almost as soon as they arrive, along with a number of kobold miners serving of the dragon. Afterward, the characters can make their way deeper into the complex, eventually finding the site of the kobolds’ excavation. They must face Gravash and Hesskin, the two dwarves who initially forced these kobold outcasts into service, along with some hostile defenses Voran left to ward his library. The characters have an opportunity to negotiate with the kobolds through Nibbik, their wyrmpriest, and make an alliance with the kobolds to provide them with intelligence on future explorations of the Chaos Scar. 
+The adventurers make their way to the lair of the underworld dragon wyrmling Kethendtir. There, they must face the dragon almost as soon as they arrive, along with a number of kobold miners serving of the dragon. Afterward, the characters can make their way deeper into the complex, eventually finding the site of the kobolds’ excavation. They must face Gravash and Hesskin, the two dwarves who initially forced these kobold outcasts into service, along with some hostile defenses Voran left to ward his library. The characters have an opportunity to negotiate with the kobolds through Nibbik, their wyrmpriest, and make an alliance with the kobolds to provide them with intelligence on future explorations of the Chaos Scar. 
 
 ## Adventure Hooks
 **Stolen Gear** 
 Thorgrim Spinehammer is a dwarf in charge of a small mine close to the Chaos Scar. He recently suffered the theft of his mining equipment and tracked the thieves as far as the King’s Wall. Not willing to risk his own life by entering the valley, he offers to pay the characters 75 gp to follow the kobolds to the cave and recover twelve stolen picks. Thorgrim will pay as much as 125 gp to avoid purchasing replacement gear, but a DC 15 Diplomacy check must be made to convince the miserly dwarf to part with his money. 
 
-**Wyrmling Raider ([[Restwell Jobs#Word of Mouth|Word of Mouth]])** 
-Local farmers have been losing livestock to raids performed by a brown wyrmling dragon (Kethendtir). The farmers know that this problem will only get worse in the future, so they have banded together to solve their problem. A quiet halfling farmer named Karrie Buttonquail approaches the characters with all the money the farmers could amass: 2,618 cp. If the PCs try to bargain, she’ll reluctantly throw in her prize sheep worth 100 sp. 
+**Wyrmling Raider** 
+Local farmers have been losing livestock to raids performed by a underworld wyrmling dragon (Kethendtir). The farmers know that this problem will only get worse in the future, so they have banded together to solve their problem. A quiet halfling farmer named Karrie Buttonquail approaches the characters with all the money the farmers could amass: 2,618 cp. If the PCs try to bargain, she’ll reluctantly throw in her prize sheep worth 100 sp. 
 
 Once the characters get to the cavern, read or paraphrase the following description of the wyrmling’s cave entry: 
 
@@ -32,26 +32,30 @@ Characters examining the tracks outside of the cavern can make a [[skills#Percep
 # Encounter 1 - The Wyrmling's Cave
 ![[Pasted image 20230706224834.png]]
 
-**Encounter Difficulty:** Severe (140 xp)
+**Encounter Difficulty:** Severe (120 xp)
 Creatures:
- - 1: [[gnoll-hunter|Gnoll Hunter]]] S
- - 4: [[dark-talon-kobold|Dark Talon Kobold]] D
- - 2: [[gnoll-cultist|Gnoll Cultist]] M
+ - 1: [[kobold-scout|Kobold Scout]] S
+ - 2: [[dark-talon-kobold|Dark Talon Kobold]] D
+ - 5: [[kobold-warrior|Kobold Miners]] M
  - 1: [[young-underworld-dragon|Kethendtir]] K
 
 ```encounter
 name: The Wyrmling's Cave
 party: Chaos Scar
 creatures:
-- 2: [[Gnoll Cultist]] 
-- 4: [[Dark Talon Kobold]]
-- 1: [[Gnoll Hunter]]
+- 5: [[Kobold Warrior, Kobold Miner]] 
+- 2: [[Dark Talon Kobold]]
+- 1: [[Kobold Scout]]
 - 1: [[Young Underworld Dragon, Kethendtir]]
 ```
 
+This encounter establishes the kobold tribe, Kethendtir’s home, and the entry to the cavern. 
+
+Setup Collapsing rock pile (T) 
+
 Kethendtir doesn’t enter the battle until the start of the third round of combat. 
 
-Two gnoll cultists stand watch at the mouth of the first chamber. Any character that moves into the cavern must succeed at a DC 12 Stealth check (to beat the gnoll's passive Perception) or alert the gnolls. If the characters that enter the cave succeed, the gnolls are surprised. 
+Two kobold dragonshields stand watch at the mouth of the first chamber. Any character that moves into the cavern must succeed at a DC 12 Stealth check (to beat the kobolds’ passive Perception) or alert the kobolds. If the characters that enter the cave succeed, the kobolds are surprised. 
 
 If a hero succeeds at a DC 21 [[skills#Perception|Perception]] check within 3 squares of where the wyrmling has burrowed into the sand, read the following: 
 > [!note]+ Read Aloud
@@ -62,36 +66,36 @@ When Kethendtir enters the combat, roll initiative, place him at the cavern entr
 > Sand scatters as a dragon launches itself out of the ground. Bellowing, the dragon says, “A swift death comes to those that interfere with the creation of my home.” 
 
 ## Tactics 
-The dark talon kobolds hold their ground while the gnoll hunter fires at the PCs from a distance. Any PC with a passive [[skills#Perception|Perception]] of 14 or greater can tell that the dark talons are surprisingly brave—they know that the wyrmling will soon come to their rescue.  The gnoll cultists avoid combat.
+The dark talon kobolds hold their ground while the kobold slinger fires at the PCs from a distance. Any PC with a passive [[skills#Perception|Perception]] of 14 or greater can tell that the dark talons are surprisingly brave—they know that the wyrmling will soon come to their rescue.  The miners avoid combat.
 
-If the battle turns sour, the gnoll cultists flee by either moving deeper into the cavern or by leaping into the hole in the floor. If a character moves next to a fleeing gnoll, it turns and flees on it's turn. If any gnolls escape through the tunnel (which is likely), the PCs cannot gain surprise in any encounter for the rest of the adventure unless they take a long rest.
+If the battle turns sour, some of the kobold miners flee by either moving deeper into the cavern or by leaping into the hole in the floor. If a character moves next to a fleeing miner, the miner turns and flees on it's turn. If any kobolds escape through the tunnel (which is likely), the PCs cannot gain surprise in any encounter for the rest of the adventure unless they take a long rest.
 
-Kethendtir has the arrogance of youth, and at the beginning of the combat he believes he is assured of victory. When he leaps out of the ground, the wyrmling scorches the party with his breath weapon and follows up with a coiling frenzy attack. If none of the characters are grabbed, he tries to use his allies and flanking partners as he resorts to melee attacks. Once his hit points have been reduced to 15 or below, he burrows through the sand and flees into the cave, attempting to get help from his allies.
+Kethendtir has the arrogance of youth, and at the beginning of the combat he believes he is assured of victory. When he leaps out of the ground, the wyrmling scorches the party with his breath weapon and follows up with a coiling frenzy attack. If none of the characters are grabbed, he tries to use his kobold allies and flanking partners as he resorts to melee attacks. Once his hit points have been reduced to 15 or below, he burrows through the sand and flees into the cave, attempting to get help from his allies.
 
 ## Features of the Area
 **Illumination:** Hesskin has commanded the kobolds to illuminate the entire cavern because he has no natural ability to see in the dark. Several torches are crudely bolted to the walls throughout the chamber, providing bright light. 
 
-**Rock Piles:** The mining operations has resulted in many rock piles throughout the cavern. These piles of stone are difficult terrain. 
+**Rock Piles:** The kobold’s mining operations has resulted in many rock piles throughout the cavern. These piles of stone are difficult terrain. 
 
 **Sinkhole:** In the middle of the room is a sinkhole that leads to a network of tunnels below the ground. Small creatures can squeeze through the tunnels, and creatures that are Tiny or smaller have no movement penalties. A multitude of tunnels grant fleeing kobolds many opportunities to hide, but an energetic halfling or gnome could attempt to track the miners down. For each kobold that escaped down the hole that an adventurer chases, have that character attempt a DC 10 [[skills#Survival|Survival]] check to determine if they can catch up to a miner. Success indicates the character finds a kobold and combat ensues; if the character fails, he or she is unable to find a kobold. Each attempt takes 10 minutes.
 
 # Encounter 2 - The Lost Library
 ![[Pasted image 20230725141839.png]]
 
-**Encounter Difficulty:** Moderate (100 xp)
+**Encounter Difficulty:** Trivial (50 xp)
 Creatures:
- - 2: [[gnoll-hunter|Gnoll Hunter]] S
- - 2: [[dark-talon-kobold|Dark Talon Kobold]] D
- - 2: [[gnoll-cultist|Gnoll Cultist]] M
+ - 2: [[kobold-scout|Kobold Scout]] S
+ - 1: [[dark-talon-kobold|Dark Talon Kobold]] D
+ - 2: [[kobold-warrior|Kobold Miners]] M
  - 1: Gravash (See below) G
 
 ```encounter
 name: The Lost Library
 party: Chaos Scar
 creatures:
-- 2: [[Gnoll Cultist]]
-- 2: [[Dark Talon Kobold]]
-- 2: [[Gnoll Hunter]]
+- 2: [[Kobold Warrior, Kobold Miner]]
+- 1: [[Dark Talon Kobold]]
+- 2: [[Kobold Scout]]
 - 1: Gravash, 74, 16, 7
 ```
 
@@ -107,12 +111,12 @@ When the PCs enter the room, read:
 > 
 > An antique desk sits near the middle of the room, surrounded by glowing dwarven runes carved into the floor. Behind the desk is a wooden table covered in alchemical equipment. In the far corner of the room, a humming arcane portal hovers a few inches above a glowing circle carved into the floor. 
 > 
-> As a group of gnolls and kobolds turn to face you, a dragonborn clad in leather armor unsheathes a longsword and nimbly advances, snarling. 
+> As a small clutch of kobolds turn to face you, a dragonborn clad in leather armor unsheathes a longsword and nimbly advances, snarling. 
 
 ## Tactics 
 Gravash is overconfident and does not see the PCs as a threat. He takes tactically poor decisions to show off his training: He won’t concentrate on one foe, but instead leap over one foe with end-over-end strike, and then follow up with a longsword attack against a different target. 
 
-The dark talon kobold reluctantly joins Gravash in combat, moving into a flanking position when possible. The gnoll hunters attack the PCs from behind the warded desk, using it to gain cover against the characters. The cultists cower in the hallway, only emerging if they can strike at an opponent without provoking an opportunity attack. Gravash and the kobolds all know about the trapped desk and won’t willingly trigger it.
+The dark talon kobold reluctantly joins Gravash in combat, moving into a flanking position when possible. The kobold slingers attack the PCs from behind the warded desk, using it to gain cover against the characters. The miners cower in the hallway, only emerging if they can strike at an opponent without provoking an opportunity attack. Gravash and the kobolds all know about the trapped desk and won’t willingly trigger it.
 
 ## Features of the Area 
 **Illumination:** The glowing runes around the desk and magic circle illuminate the room with dim light. 
@@ -140,11 +144,11 @@ If hired to recover Emeranith’s stolen books, they are found here. The books i
 # Encounter 3 - The Inner Sanctum
 ![[Pasted image 20230725161859.png]]
 
-**Encounter Difficulty:** Moderate (110 xp)
+**Encounter Difficulty:** Moderate (95 xp)
 Creatures:
- - 2: [[gnoll-hunter|Gnoll Hunter]] S
+ - 2: [[kobold-scout|Kobold Scout]] S
  - 1: [[kobold-dragon-mage|Nibbik]] D
- - 2: [[carrion-golem|Carrion Golem]] A
+ - 1: [[carrion-golem|Carrion Golem]] A
  - 1: Hesskin (See below) G
 
 ```encounter
@@ -152,8 +156,8 @@ name: The Inner Sanctum
 party: Chaos Scar
 creatures:
 - 1: [[Kobold Dragon Mage, Nibbik]]
-- 2: [[Gnoll Hunter]]
-- 2: [[Carrion Golem]]
+- 2: [[Kobold Scout]]
+- 1: [[Carrion Golem]]
 - 1: Hesskin, 138, 16, 4
 ```
 
