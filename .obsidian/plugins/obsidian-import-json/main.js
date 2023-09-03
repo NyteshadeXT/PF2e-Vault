@@ -842,9 +842,9 @@ var require_each = __commonJS({
                 execIteration(i, i, i === context.length - 1);
               }
             }
-          } else if (global.Symbol && context[global.Symbol.iterator]) {
+          } else if (typeof Symbol === "function" && context[Symbol.iterator]) {
             var newContext = [];
-            var iterator = context[global.Symbol.iterator]();
+            var iterator = context[Symbol.iterator]();
             for (var it = iterator.next(); !it.done; it = iterator.next()) {
               newContext.push(it.value);
             }
@@ -1173,24 +1173,12 @@ var require_proto_access = __commonJS({
     exports.createProtoAccessControl = createProtoAccessControl;
     exports.resultIsAllowed = resultIsAllowed;
     exports.resetLoggedProperties = resetLoggedProperties;
-    function _interopRequireWildcard(obj) {
-      if (obj && obj.__esModule) {
-        return obj;
-      } else {
-        var newObj = {};
-        if (obj != null) {
-          for (var key in obj) {
-            if (Object.prototype.hasOwnProperty.call(obj, key))
-              newObj[key] = obj[key];
-          }
-        }
-        newObj["default"] = obj;
-        return newObj;
-      }
+    function _interopRequireDefault(obj) {
+      return obj && obj.__esModule ? obj : { "default": obj };
     }
     var _createNewLookupObject = require_create_new_lookup_object();
     var _logger = require_logger();
-    var logger = _interopRequireWildcard(_logger);
+    var _logger2 = _interopRequireDefault(_logger);
     var loggedProperties = Object.create(null);
     function createProtoAccessControl(runtimeOptions) {
       var defaultMethodWhiteList = Object.create(null);
@@ -1231,7 +1219,7 @@ var require_proto_access = __commonJS({
     function logUnexpecedPropertyAccessOnce(propertyName) {
       if (loggedProperties[propertyName] !== true) {
         loggedProperties[propertyName] = true;
-        logger.log("error", 'Handlebars: Access has been denied to resolve the property "' + propertyName + '" because it is not an "own property" of its parent.\nYou can add a runtime option to disable the check or this warning:\nSee https://handlebarsjs.com/api-reference/runtime-options.html#options-to-control-prototype-access for details');
+        _logger2["default"].log("error", 'Handlebars: Access has been denied to resolve the property "' + propertyName + '" because it is not an "own property" of its parent.\nYou can add a runtime option to disable the check or this warning:\nSee https://handlebarsjs.com/api-reference/runtime-options.html#options-to-control-prototype-access for details');
       }
     }
     function resetLoggedProperties() {
@@ -1259,7 +1247,7 @@ var require_base = __commonJS({
     var _logger = require_logger();
     var _logger2 = _interopRequireDefault(_logger);
     var _internalProtoAccess = require_proto_access();
-    var VERSION = "4.7.7";
+    var VERSION = "4.7.8";
     exports.VERSION = VERSION;
     var COMPILER_REVISION = 8;
     exports.COMPILER_REVISION = COMPILER_REVISION;
@@ -1689,10 +1677,19 @@ var require_no_conflict = __commonJS({
     "use strict";
     exports.__esModule = true;
     exports["default"] = function(Handlebars) {
-      var root = typeof global !== "undefined" ? global : window, $Handlebars = root.Handlebars;
+      (function() {
+        if (typeof globalThis === "object")
+          return;
+        Object.prototype.__defineGetter__("__magic__", function() {
+          return this;
+        });
+        __magic__.globalThis = __magic__;
+        delete Object.prototype.__magic__;
+      })();
+      var $Handlebars = globalThis.Handlebars;
       Handlebars.noConflict = function() {
-        if (root.Handlebars === Handlebars) {
-          root.Handlebars = $Handlebars;
+        if (globalThis.Handlebars === Handlebars) {
+          globalThis.Handlebars = $Handlebars;
         }
         return Handlebars;
       };
@@ -2488,7 +2485,7 @@ var require_parser = __commonJS({
               break;
           }
         };
-        lexer2.rules = [/^(?:[^\x00]*?(?=(\{\{)))/, /^(?:[^\x00]+)/, /^(?:[^\x00]{2,}?(?=(\{\{|\\\{\{|\\\\\{\{|$)))/, /^(?:\{\{\{\{(?=[^\/]))/, /^(?:\{\{\{\{\/[^\s!"#%-,\.\/;->@\[-\^`\{-~]+(?=[=}\s\/.])\}\}\}\})/, /^(?:[^\x00]+?(?=(\{\{\{\{)))/, /^(?:[\s\S]*?--(~)?\}\})/, /^(?:\()/, /^(?:\))/, /^(?:\{\{\{\{)/, /^(?:\}\}\}\})/, /^(?:\{\{(~)?>)/, /^(?:\{\{(~)?#>)/, /^(?:\{\{(~)?#\*?)/, /^(?:\{\{(~)?\/)/, /^(?:\{\{(~)?\^\s*(~)?\}\})/, /^(?:\{\{(~)?\s*else\s*(~)?\}\})/, /^(?:\{\{(~)?\^)/, /^(?:\{\{(~)?\s*else\b)/, /^(?:\{\{(~)?\{)/, /^(?:\{\{(~)?&)/, /^(?:\{\{(~)?!--)/, /^(?:\{\{(~)?![\s\S]*?\}\})/, /^(?:\{\{(~)?\*?)/, /^(?:=)/, /^(?:\.\.)/, /^(?:\.(?=([=~}\s\/.)|])))/, /^(?:[\/.])/, /^(?:\s+)/, /^(?:\}(~)?\}\})/, /^(?:(~)?\}\})/, /^(?:"(\\["]|[^"])*")/, /^(?:'(\\[']|[^'])*')/, /^(?:@)/, /^(?:true(?=([~}\s)])))/, /^(?:false(?=([~}\s)])))/, /^(?:undefined(?=([~}\s)])))/, /^(?:null(?=([~}\s)])))/, /^(?:-?[0-9]+(?:\.[0-9]+)?(?=([~}\s)])))/, /^(?:as\s+\|)/, /^(?:\|)/, /^(?:([^\s!"#%-,\.\/;->@\[-\^`\{-~]+(?=([=~}\s\/.)|]))))/, /^(?:\[(\\\]|[^\]])*\])/, /^(?:.)/, /^(?:$)/];
+        lexer2.rules = [/^(?:[^\x00]*?(?=(\{\{)))/, /^(?:[^\x00]+)/, /^(?:[^\x00]{2,}?(?=(\{\{|\\\{\{|\\\\\{\{|$)))/, /^(?:\{\{\{\{(?=[^/]))/, /^(?:\{\{\{\{\/[^\s!"#%-,\.\/;->@\[-\^`\{-~]+(?=[=}\s\/.])\}\}\}\})/, /^(?:[^\x00]+?(?=(\{\{\{\{)))/, /^(?:[\s\S]*?--(~)?\}\})/, /^(?:\()/, /^(?:\))/, /^(?:\{\{\{\{)/, /^(?:\}\}\}\})/, /^(?:\{\{(~)?>)/, /^(?:\{\{(~)?#>)/, /^(?:\{\{(~)?#\*?)/, /^(?:\{\{(~)?\/)/, /^(?:\{\{(~)?\^\s*(~)?\}\})/, /^(?:\{\{(~)?\s*else\s*(~)?\}\})/, /^(?:\{\{(~)?\^)/, /^(?:\{\{(~)?\s*else\b)/, /^(?:\{\{(~)?\{)/, /^(?:\{\{(~)?&)/, /^(?:\{\{(~)?!--)/, /^(?:\{\{(~)?![\s\S]*?\}\})/, /^(?:\{\{(~)?\*?)/, /^(?:=)/, /^(?:\.\.)/, /^(?:\.(?=([=~}\s\/.)|])))/, /^(?:[\/.])/, /^(?:\s+)/, /^(?:\}(~)?\}\})/, /^(?:(~)?\}\})/, /^(?:"(\\["]|[^"])*")/, /^(?:'(\\[']|[^'])*')/, /^(?:@)/, /^(?:true(?=([~}\s)])))/, /^(?:false(?=([~}\s)])))/, /^(?:undefined(?=([~}\s)])))/, /^(?:null(?=([~}\s)])))/, /^(?:-?[0-9]+(?:\.[0-9]+)?(?=([~}\s)])))/, /^(?:as\s+\|)/, /^(?:\|)/, /^(?:([^\s!"#%-,\.\/;->@\[-\^`\{-~]+(?=([=~}\s\/.)|]))))/, /^(?:\[(\\\]|[^\]])*\])/, /^(?:.)/, /^(?:$)/];
         lexer2.conditions = { "mu": { "rules": [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44], "inclusive": false }, "emu": { "rules": [2], "inclusive": false }, "com": { "rules": [6], "inclusive": false }, "raw": { "rules": [3, 4, 5], "inclusive": false }, "INITIAL": { "rules": [0, 1, 44], "inclusive": true } };
         return lexer2;
       }();
@@ -5584,7 +5581,7 @@ var require_javascript_compiler = __commonJS({
       resolvePath: function resolvePath(type, parts, i, falsy, strict) {
         var _this2 = this;
         if (this.options.strict || this.options.assumeObjects) {
-          this.push(strictLookup(this.options.strict && strict, this, parts, type));
+          this.push(strictLookup(this.options.strict && strict, this, parts, i, type));
           return;
         }
         var len = parts.length;
@@ -6006,8 +6003,8 @@ var require_javascript_compiler = __commonJS({
     JavaScriptCompiler.isValidJavaScriptVariableName = function(name) {
       return !JavaScriptCompiler.RESERVED_WORDS[name] && /^[a-zA-Z_$][0-9a-zA-Z_$]*$/.test(name);
     };
-    function strictLookup(requireTerminal, compiler, parts, type) {
-      var stack = compiler.popStack(), i = 0, len = parts.length;
+    function strictLookup(requireTerminal, compiler, parts, i, type) {
+      var stack = compiler.popStack(), len = parts.length;
       if (requireTerminal) {
         len--;
       }
@@ -6069,172 +6066,6 @@ var require_handlebars = __commonJS({
     inst["default"] = inst;
     exports["default"] = inst;
     module2.exports = exports["default"];
-  }
-});
-
-// node_modules/handlebars/dist/cjs/handlebars/compiler/printer.js
-var require_printer = __commonJS({
-  "node_modules/handlebars/dist/cjs/handlebars/compiler/printer.js"(exports) {
-    "use strict";
-    exports.__esModule = true;
-    exports.print = print;
-    exports.PrintVisitor = PrintVisitor;
-    function _interopRequireDefault(obj) {
-      return obj && obj.__esModule ? obj : { "default": obj };
-    }
-    var _visitor = require_visitor();
-    var _visitor2 = _interopRequireDefault(_visitor);
-    function print(ast) {
-      return new PrintVisitor().accept(ast);
-    }
-    function PrintVisitor() {
-      this.padding = 0;
-    }
-    PrintVisitor.prototype = new _visitor2["default"]();
-    PrintVisitor.prototype.pad = function(string) {
-      var out = "";
-      for (var i = 0, l = this.padding; i < l; i++) {
-        out += "  ";
-      }
-      out += string + "\n";
-      return out;
-    };
-    PrintVisitor.prototype.Program = function(program) {
-      var out = "", body = program.body, i = void 0, l = void 0;
-      if (program.blockParams) {
-        var blockParams = "BLOCK PARAMS: [";
-        for (i = 0, l = program.blockParams.length; i < l; i++) {
-          blockParams += " " + program.blockParams[i];
-        }
-        blockParams += " ]";
-        out += this.pad(blockParams);
-      }
-      for (i = 0, l = body.length; i < l; i++) {
-        out += this.accept(body[i]);
-      }
-      this.padding--;
-      return out;
-    };
-    PrintVisitor.prototype.MustacheStatement = function(mustache) {
-      return this.pad("{{ " + this.SubExpression(mustache) + " }}");
-    };
-    PrintVisitor.prototype.Decorator = function(mustache) {
-      return this.pad("{{ DIRECTIVE " + this.SubExpression(mustache) + " }}");
-    };
-    PrintVisitor.prototype.BlockStatement = PrintVisitor.prototype.DecoratorBlock = function(block) {
-      var out = "";
-      out += this.pad((block.type === "DecoratorBlock" ? "DIRECTIVE " : "") + "BLOCK:");
-      this.padding++;
-      out += this.pad(this.SubExpression(block));
-      if (block.program) {
-        out += this.pad("PROGRAM:");
-        this.padding++;
-        out += this.accept(block.program);
-        this.padding--;
-      }
-      if (block.inverse) {
-        if (block.program) {
-          this.padding++;
-        }
-        out += this.pad("{{^}}");
-        this.padding++;
-        out += this.accept(block.inverse);
-        this.padding--;
-        if (block.program) {
-          this.padding--;
-        }
-      }
-      this.padding--;
-      return out;
-    };
-    PrintVisitor.prototype.PartialStatement = function(partial) {
-      var content = "PARTIAL:" + partial.name.original;
-      if (partial.params[0]) {
-        content += " " + this.accept(partial.params[0]);
-      }
-      if (partial.hash) {
-        content += " " + this.accept(partial.hash);
-      }
-      return this.pad("{{> " + content + " }}");
-    };
-    PrintVisitor.prototype.PartialBlockStatement = function(partial) {
-      var content = "PARTIAL BLOCK:" + partial.name.original;
-      if (partial.params[0]) {
-        content += " " + this.accept(partial.params[0]);
-      }
-      if (partial.hash) {
-        content += " " + this.accept(partial.hash);
-      }
-      content += " " + this.pad("PROGRAM:");
-      this.padding++;
-      content += this.accept(partial.program);
-      this.padding--;
-      return this.pad("{{> " + content + " }}");
-    };
-    PrintVisitor.prototype.ContentStatement = function(content) {
-      return this.pad("CONTENT[ '" + content.value + "' ]");
-    };
-    PrintVisitor.prototype.CommentStatement = function(comment) {
-      return this.pad("{{! '" + comment.value + "' }}");
-    };
-    PrintVisitor.prototype.SubExpression = function(sexpr) {
-      var params = sexpr.params, paramStrings = [], hash = void 0;
-      for (var i = 0, l = params.length; i < l; i++) {
-        paramStrings.push(this.accept(params[i]));
-      }
-      params = "[" + paramStrings.join(", ") + "]";
-      hash = sexpr.hash ? " " + this.accept(sexpr.hash) : "";
-      return this.accept(sexpr.path) + " " + params + hash;
-    };
-    PrintVisitor.prototype.PathExpression = function(id) {
-      var path = id.parts.join("/");
-      return (id.data ? "@" : "") + "PATH:" + path;
-    };
-    PrintVisitor.prototype.StringLiteral = function(string) {
-      return '"' + string.value + '"';
-    };
-    PrintVisitor.prototype.NumberLiteral = function(number) {
-      return "NUMBER{" + number.value + "}";
-    };
-    PrintVisitor.prototype.BooleanLiteral = function(bool) {
-      return "BOOLEAN{" + bool.value + "}";
-    };
-    PrintVisitor.prototype.UndefinedLiteral = function() {
-      return "UNDEFINED";
-    };
-    PrintVisitor.prototype.NullLiteral = function() {
-      return "NULL";
-    };
-    PrintVisitor.prototype.Hash = function(hash) {
-      var pairs = hash.pairs, joinedPairs = [];
-      for (var i = 0, l = pairs.length; i < l; i++) {
-        joinedPairs.push(this.accept(pairs[i]));
-      }
-      return "HASH{" + joinedPairs.join(", ") + "}";
-    };
-    PrintVisitor.prototype.HashPair = function(pair) {
-      return pair.key + "=" + this.accept(pair.value);
-    };
-  }
-});
-
-// node_modules/handlebars/lib/index.js
-var require_lib = __commonJS({
-  "node_modules/handlebars/lib/index.js"(exports, module2) {
-    var handlebars2 = require_handlebars()["default"];
-    var printer = require_printer();
-    handlebars2.PrintVisitor = printer.PrintVisitor;
-    handlebars2.print = printer.print;
-    module2.exports = handlebars2;
-    function extension(module3, filename) {
-      var fs = require("fs");
-      var templateString = fs.readFileSync(filename, "utf8");
-      module3.exports = handlebars2.compile(templateString);
-    }
-    if (typeof require !== "undefined" && require.extensions) {
-      require.extensions[".handlebars"] = extension;
-      require.extensions[".hbs"] = extension;
-    }
   }
 });
 
@@ -9389,7 +9220,7 @@ var require_positions = __commonJS({
 });
 
 // node_modules/ret/lib/index.js
-var require_lib2 = __commonJS({
+var require_lib = __commonJS({
   "node_modules/ret/lib/index.js"(exports, module2) {
     var util = require_util2();
     var types = require_types();
@@ -9579,7 +9410,7 @@ var require_lib2 = __commonJS({
 // node_modules/safe-regex/index.js
 var require_safe_regex = __commonJS({
   "node_modules/safe-regex/index.js"(exports, module2) {
-    var parse = require_lib2();
+    var parse = require_lib();
     var types = parse.types;
     module2.exports = function(re, opts) {
       if (!opts)
@@ -20855,7 +20686,7 @@ var require_url = __commonJS({
 });
 
 // node_modules/@budibase/handlebars-helpers/lib/index.js
-var require_lib3 = __commonJS({
+var require_lib2 = __commonJS({
   "node_modules/@budibase/handlebars-helpers/lib/index.js"(exports, module2) {
     "use strict";
     module2.exports = {
@@ -20885,7 +20716,7 @@ var require_handlebars_helpers = __commonJS({
     "use strict";
     var forIn = require_for_in();
     var define2 = require_define_property();
-    var lib = require_lib3();
+    var lib = require_lib2();
     module2.exports = function helpers(groups, options) {
       if (typeof groups === "string") {
         groups = [groups];
@@ -20894,7 +20725,7 @@ var require_handlebars_helpers = __commonJS({
         groups = null;
       }
       options = options || {};
-      var hbs = options.handlebars || options.hbs || require_lib();
+      var hbs = options.handlebars || options.hbs || require_handlebars();
       define2(module2.exports, "handlebars", hbs);
       if (groups) {
         groups.forEach(function(key) {
@@ -20910,7 +20741,7 @@ var require_handlebars_helpers = __commonJS({
     forIn(lib, function(group, key) {
       define2(module2.exports, key, function(options) {
         options = options || {};
-        var hbs = options.handlebars || options.hbs || require_lib();
+        var hbs = options.handlebars || options.hbs || require_handlebars();
         define2(module2.exports, "handlebars", hbs);
         hbs.registerHelper(group);
         return hbs.helpers;
@@ -20926,7 +20757,7 @@ __export(exports, {
 });
 var import_obsidian = __toModule(require("obsidian"));
 var Papa = require_papaparse_min();
-var handlebars = require_lib();
+var handlebars = require_handlebars();
 var hb_helpers = require_handlebars_helpers()({ handlebars });
 var hb_utils = require_handlebars_utils();
 var ExistingNotes;
@@ -20944,7 +20775,8 @@ var DEFAULT_SETTINGS = {
   notePrefix: "",
   noteSuffix: "",
   handleExistingNote: 0,
-  forceArray: true
+  forceArray: true,
+  multipleJSON: false
 };
 function convertCsv(source) {
   var _a;
@@ -21217,6 +21049,13 @@ var FileSelectionModal = class extends import_obsidian.Modal {
         columns: "20"
       }
     });
+    const setting1d = new import_obsidian.Setting(this.contentEl).setName("Data contains multiple JSON objects").setDesc("Select this option if the JSON data might contain more than one object (the selected data is split into separate objects by looking for '}s+{' as the separator");
+    const inputMultipleJSON = setting1d.controlEl.createEl("input", {
+      attr: {
+        type: "checkbox"
+      }
+    });
+    inputMultipleJSON.checked = this.default_settings.multipleJSON;
     const setting2 = new import_obsidian.Setting(this.contentEl).setName("Choose TEMPLATE File").setDesc("Choose the Template (Handlebars) file");
     const inputTemplateFile = setting2.controlEl.createEl("input", {
       attr: {
@@ -21311,10 +21150,11 @@ var FileSelectionModal = class extends import_obsidian.Modal {
         notePrefix: inputNotePrefix.value,
         noteSuffix: inputNoteSuffix.value,
         handleExistingNote: parseInt(inputHandleExisting.value),
-        forceArray: !inputForceArray.checked
+        forceArray: !inputForceArray.checked,
+        multipleJSON: inputMultipleJSON.checked
       };
       function parsejson(text) {
-        return text.split(/(?<=})\s*(?={)/).map((obj) => JSON.parse(obj));
+        return settings.multipleJSON ? text.split(/(?<=})\s*(?={)/).map((obj) => JSON.parse(obj)) : [JSON.parse(text)];
       }
       let srctext = inputJsonText.value;
       if (srctext.length > 0) {

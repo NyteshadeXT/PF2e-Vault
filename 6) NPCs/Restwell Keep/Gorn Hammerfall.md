@@ -14,6 +14,8 @@ Occupation:
   - Guard
 Location: Restwell Keep
 Age: Adult
+AssociatedReligion:
+  - Moradin
 ---
 > [!infobox]
 > **Pronounced:**  "`=this.Pronounced`"

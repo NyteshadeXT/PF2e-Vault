@@ -72,7 +72,7 @@ TBD
 ## Acquaintances
 > [!column|dataview] Acquaintances
 >> [!metadata|text-Center bg-c-green]- Friends & Family
->> TBD
+>> Zeta's family passed and her only sibling was killed by kobolds in a raid in the farms surrounding Restwell Keep.
 >
 >> [!metadata|text-Center bg-c-red]- Rivals
 >> TBD
@@ -91,6 +91,6 @@ TBD
 TBD
 
 ### General Notes
-TBD
+![[Pasted image 20230829230627.png]]
 
 

@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/g&g
-- item/category/armor/light
-- trait/clockwork
-- trait/uncommon
-aliases: ["Clockwork Disguise"]
+  - compendium/src/pf2e/g&g
+  - item/category/armor/light
+  - trait/clockwork
+  - trait/uncommon
+aliases:
+  - Clockwork Disguise
+Source: Guns and Gears
 ---
 # Clockwork Disguise *Item 6*  
 [clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  

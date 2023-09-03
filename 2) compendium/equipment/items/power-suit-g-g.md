@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/g&g
-- item/category/armor/medium
-aliases: ["Power Suit"]
+  - compendium/src/pf2e/g&g
+  - item/category/armor/medium
+aliases:
+  - Power Suit
+Source: Guns and Gears
 ---
 # Power Suit *Item 0*  
 

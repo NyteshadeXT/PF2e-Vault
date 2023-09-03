@@ -1,6 +1,7 @@
 {
   "targetAttributes": [
-    "notetype"
+    "notetype",
+    "type"
   ],
   "targetTags": true,
   "getFromInlineField": true,
@@ -15,7 +16,7 @@
     {
       "type": "attribute",
       "name": "type",
-      "value": "NPC",
+      "value": "npc",
       "matchCaseSensitive": false,
       "match": "exact",
       "uid": "0ac0-4873",

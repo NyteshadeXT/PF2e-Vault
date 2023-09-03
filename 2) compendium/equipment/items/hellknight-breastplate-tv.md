@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/tv
-- item/category/armor/medium
-- trait/uncommon
-aliases: ["Hellknight Breastplate"]
+  - compendium/src/pf2e/tv
+  - item/category/armor/medium
+  - trait/uncommon
+aliases:
+  - Hellknight Breastplate
+Source: Treasure Vault
 ---
 # Hellknight Breastplate *Item 1*  
 [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  

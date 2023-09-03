@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/g&g
-- item/category/armor/medium
-- trait/uncommon
-aliases: ["Subterfuge Suit"]
+  - compendium/src/pf2e/g&g
+  - item/category/armor/medium
+  - trait/uncommon
+aliases:
+  - Subterfuge Suit
+Source: Guns and Gears
 ---
 # Subterfuge Suit *Item 0*  
 [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  

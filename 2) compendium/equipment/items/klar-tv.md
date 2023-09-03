@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/tv
-- item/category/shield/
-- trait/integrated-1d6-s-versatile-p
-aliases: ["Klar"]
+  - compendium/src/pf2e/tv
+  - item/category/shield/
+  - trait/integrated-1d6-s-versatile-p
+aliases:
+  - Klar
+Source: Treasure Vault
 ---
 # Klar *Item 0*  
 [integrated <1d6 S (versatile P)>](rules/traits/integrated-1d6-s-versatile-p-tv.md "Integrated Item Trait")  

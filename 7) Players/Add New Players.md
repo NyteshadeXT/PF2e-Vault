@@ -156,6 +156,7 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
+      - { label: "Human", value: "Human", color: "hsl(312, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -228,6 +229,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 133
     config:
       enable_media_view: true
       link_alias_enabled: true

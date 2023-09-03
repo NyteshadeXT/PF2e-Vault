@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/tv
-- item/category/armor/unarmored
-- trait/inscribed
-aliases: ["Scroll Robes"]
+  - compendium/src/pf2e/tv
+  - item/category/armor/unarmored
+  - trait/inscribed
+aliases:
+  - Scroll Robes
+Source: Treasure Vault
 ---
 # Scroll Robes *Item 0*  
 [inscribed](rules/traits/inscribed-tv.md "Inscribed Armor Trait")  

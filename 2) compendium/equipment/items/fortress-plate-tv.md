@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/tv
-- item/category/armor/heavy
-- trait/bulwark
-- trait/entrench-ranged
-- trait/ponderous
-aliases: ["Fortress Plate"]
+  - compendium/src/pf2e/tv
+  - item/category/armor/heavy
+  - trait/bulwark
+  - trait/entrench-ranged
+  - trait/ponderous
+aliases:
+  - Fortress Plate
+Source: Treasure Vault
 ---
 # Fortress Plate *Item 2*  
 [bulwark](rules/traits/bulwark.md "Bulwark Armor Trait")  [entrench <ranged>](rules/traits/entrench-ranged-tv.md "Entrench Armor Trait")  [ponderous](rules/traits/ponderous-tv.md "Ponderous Armor Trait")  

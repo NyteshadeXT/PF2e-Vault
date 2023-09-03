@@ -18,6 +18,8 @@ SocialTrait: ""
 MentalTrait: ""
 Dislikes: ""
 Age: Mature Adult
+AssociatedReligion:
+  - Waukeen
 ---
 > [!infobox]
 > **Pronounced:**  "`=this.Pronounced`"

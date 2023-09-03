@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/lotgb
-- item/category/shield/
-- trait/rare
-aliases: ["Noqual Shield"]
+  - compendium/src/pf2e/lotgb
+  - item/category/shield/
+  - trait/rare
+aliases:
+  - Noqual Shield
+Source: "Lost Omens: The Grand Bazaar p. 101"
 ---
 # Noqual Shield *Item 17*  
 [rare](rules/traits/rare.md "Rare Rarity Trait")  

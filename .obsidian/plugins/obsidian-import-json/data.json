@@ -7,5 +7,6 @@
   "notePrefix": "",
   "noteSuffix": "",
   "handleExistingNote": 1,
-  "forceArray": true
+  "forceArray": true,
+  "multipleJSON": false
 }

@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/tv
-- item/category/shield/
-- trait/hefty-14
-aliases: ["Fortress Shield"]
+  - compendium/src/pf2e/tv
+  - item/category/shield/
+  - trait/hefty-14
+aliases:
+  - Fortress Shield
+Source: Treasure Vault
 ---
 # Fortress Shield *Item 1*  
 [hefty <14>](rules/traits/hefty-14-tv.md "Hefty Item Trait")  

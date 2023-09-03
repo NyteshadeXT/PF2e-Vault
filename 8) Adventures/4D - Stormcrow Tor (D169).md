@@ -15,3 +15,5 @@ A final paroxysm of rage and murder swept through the torchlit tunnels beneath S
 In the years since, the old base has been partly colonized by kenku and myconids; even these opportunistic monsters, however, know to stay clear of the deepest chambers. Though great treasures surely reside there, so do the most insidious traps left behind by maddened mercenaries whose sanity was well and truly shredded long before their bodies followed. Things still move in the deeps, and not all of those things are living
 
 # Running the Adventure
+-   [[Lord Drysdale]] requests aid retaking Stormtower. A reward of 300 gold is offered to any group that is successful. See [[Elessan]] for further details. (Stormtower)
+5.  [[Ailwin]] wants someone to retrieve a powerful artifact called Wrathheart which he believes is still under Stormcrow Tor. The Guild has authorized him to pay up to 1,000 gold. (Stormcrow Tor)

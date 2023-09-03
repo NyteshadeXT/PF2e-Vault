@@ -369,6 +369,9 @@ columns:
       - { label: "Steward", value: "Steward", color: "hsl(339, 95%, 90%)"}
       - { label: "Teacher", value: "Teacher", color: "hsl(36, 95%, 90%)"}
       - { label: "Hunter", value: "Hunter", color: "hsl(354, 95%, 90%)"}
+      - { label: "Druid", value: "Druid", color: "hsl(156, 95%, 90%)"}
+      - { label: "Baliff", value: "Baliff", color: "hsl(21, 95%, 90%)"}
+      - { label: "Mason", value: "Mason", color: "hsl(130, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -393,6 +396,7 @@ columns:
     sortIndex: -1
     options:
       - { label: "Saruun Guild", value: "Saruun Guild", color: "hsl(232, 95%, 90%)"}
+      - { label: "Ironleaf Trading Company", value: "Ironleaf Trading Company", color: "hsl(164, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -418,6 +422,7 @@ columns:
     options:
       - { label: "Tymora", value: "Tymora", color: "hsl(232, 95%, 90%)"}
       - { label: "Waukeen", value: "Waukeen", color: "hsl(204, 95%, 90%)"}
+      - { label: "Moradin", value: "Moradin", color: "hsl(266, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

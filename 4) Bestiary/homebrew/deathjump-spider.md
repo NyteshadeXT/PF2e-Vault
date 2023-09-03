@@ -59,7 +59,7 @@ attacks:
   - name: Melee
     desc: "⬻ bite +15; __Damage__ 2d8+8 (2d8+8) piercing plus deathjump spider venom"
 
-sourcebook: "Homebrew"
+sourcebook: "4e Homebrew"
 ```
 
 ```encounter-table

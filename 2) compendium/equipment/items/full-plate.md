@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/crb
-- item/category/armor/heavy
-- trait/bulwark
-aliases: ["Full Plate"]
+  - compendium/src/pf2e/crb
+  - item/category/armor/heavy
+  - trait/bulwark
+aliases:
+  - Full Plate
+Source: Core Rule Book
 ---
 # Full Plate *Item 2*  
 [bulwark](rules/traits/bulwark.md "Bulwark Armor Trait")  

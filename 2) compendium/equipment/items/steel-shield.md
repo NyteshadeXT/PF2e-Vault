@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/crb
-- item/category/shield/
-aliases: ["Steel Shield"]
+  - compendium/src/pf2e/crb
+  - item/category/shield/
+aliases:
+  - Steel Shield
+Source: Core Rule Book
 ---
 # Steel Shield *Item 0*  
 

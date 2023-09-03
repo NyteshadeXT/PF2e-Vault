@@ -4,16 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "e70665da5ec758a8",
+        "id": "88292962a1a27d7c",
         "type": "tabs",
         "children": [
           {
-            "id": "4205a2c78333af97",
+            "id": "beac4ba2a48c573e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "support/inlineScripts/InlineScript_BlacksmithShop.md",
+                "file": "1) Scratch Notes/Untitled 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1959d5e58c2d9b79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1) Scratch Notes/Untitled 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ec059883ccb3b187",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2) Compendium/spells/aberrant-form-som.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9f1f170b8c016576",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2) Compendium/equipment/items/accursed-staff-tv.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -70,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 329.5
   },
   "right": {
     "id": "e19cced9a0292528",
@@ -86,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "support/inlineScripts/InlineScript_BlacksmithShop.md",
+                "file": "1) Scratch Notes/Untitled 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -109,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "support/inlineScripts/InlineScript_BlacksmithShop.md"
+                "file": "1) Scratch Notes/Untitled 1.md"
               }
             }
           },
@@ -150,7 +189,7 @@
             }
           },
           {
-            "id": "84123de73f8ceeee",
+            "id": "9132fc060f3dc26e",
             "type": "leaf",
             "state": {
               "type": "inline-scripts-button-view",
@@ -158,11 +197,39 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
+      },
+      {
+        "id": "ed9d9ea312d1ee70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20d154d8d741cb72",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "f96f340df3d838f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17abe4dfe0f6abe0",
+            "type": "leaf",
+            "state": {
+              "type": "combatant-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 430.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,60 +247,60 @@
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "obsidian42-brat:BRAT": false,
-      "obsidian-import-json:JSON/CSV Importer": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4205a2c78333af97",
+  "active": "beac4ba2a48c573e",
   "lastOpenFiles": [
+    "support/inlineScripts/notepick.sfile.md",
+    "2) Compendium/spells/spells.md",
+    "2) Compendium/spells/rituals/rituals.md",
+    "support/inlineScripts/InlineScript_FolderPickers.md",
     "1) Scratch Notes/Untitled 1.md",
-    "support/inlineScripts/InlineScript_BlacksmithShop.md",
-    "2) Compendium/equipment/items/items.md",
-    "2) Compendium/equipment/items/admonishing-band-g-g.md",
-    "2) Compendium/equipment/items/abadars-flawless-scale-logm.md",
-    "1) Scratch Notes/Untitled.md",
+    "2) Compendium/spells/aberrant-form-som.md",
+    "2) Compendium/equipment/items/accursed-staff-tv.md",
+    "support/inlineScripts/system.sfile.md",
+    "support/inlineScripts/clips_ui.sfile.md",
+    "support/inlineScripts/cards_ui.sfile.md",
+    "support/inlineScripts/cards_pileviewer.sfile.md",
+    "support/inlineScripts/une_ui.sfile.md",
+    "support/inlineScripts/mythicgme_ui.sfile.md",
+    "support/inlineScripts/mythicv2_ui.sfile.md",
+    "support/inlineScripts/lists_ui.sfile.md",
+    "support/inlineScripts/lipsum.sfile.md",
+    "support/inlineScripts/clips.sfile.md",
+    "support/inlineScripts/files.sfile.md",
+    "support/inlineScripts/cards.sfile.md",
     "support/inlineScripts/adventurecrafter.sfile.md",
-    "textgenerator/prompts/fantasy generators/Generate Armory.md",
-    "1) Scratch Notes/Notes.md",
-    "textgenerator/prompts/fantasy generators/Generate Inn.md",
-    "2) Compendium/skills.md",
-    "8) Adventures/2C - Dead by Dawn (D176).md",
-    "4) Bestiary/homebrew/glass-guardian.md",
-    "8) Adventures/2B - The Shrine of Glass-Spire Forest (D175).md",
-    "2) Compendium/equipment/items/alchemists-haversack-tv.md",
-    "2) Compendium/equipment/items/alchemists-flamethrower-tv.md",
-    "2) Compendium/equipment/items/alchemists-fire.md",
-    "2) Compendium/equipment/items/alchemist-goggles.md",
-    "2) Compendium/equipment/items/adamantine-shield.md",
-    "2) Compendium/equipment/items/adamantine-armor.md",
-    "2) Compendium/equipment/items/aeon-stone-clear-quartz-octagon-ooa2.md",
-    "2) Compendium/equipment/items/ablative-armor-plating-g-g.md",
-    "8) Adventures/2H - Slaark's Crown (D220).md",
-    "6) NPCs/Restwell Keep/Kendon Longstrider.md",
-    "zz-Attachments/Kendon Longstrider.png",
-    "6) NPCs/Restwell Keep/Wara.md",
-    "6) NPCs/Restwell Keep/Ailwin.md",
-    "zz-Attachments/Pasted image 20230426214747.png",
-    "zz-Attachments/Pasted image 20230423114727.png",
-    "zz-Attachments/Pasted image 20230422151428.png",
-    "zz-Attachments/Pasted image 20230422151355.png",
-    "zz-Attachments/Pasted image 20230422110913.png",
-    "zz-Attachments/Pasted image 20230416105809.png",
-    "zz-Attachments/Pasted image 20230416102726.png",
-    "zz-Attachments/Pasted image 20230416102602.png",
-    "zz-Attachments/Pasted image 20230409150531.png",
+    "support/inlineScripts/une.sfile.md",
+    "support/inlineScripts/mythicgme.sfile.md",
+    "support/inlineScripts/mythicv2.sfile.md",
+    "support/inlineScripts/notevars.sfile.md",
+    "support/inlineScripts/lists.sfile.md",
+    "support/inlineScripts/state.sfile.md",
+    "zz-Attachments/Database1.laccdb",
+    "zz-Attachments/Database1.accdb",
+    "zz-Attachments/~$elyn Kroening Resume.docx",
+    "zz-Attachments/Adelyn Kroening Resume.docx",
+    "zz-Attachments/Pasted image 20230830164532.png",
+    "zz-Attachments/Pasted image 20230830164356.png",
+    "zz-Attachments/Pasted image 20230830162729.png",
+    "zz-Attachments/Pasted image 20230830084545.png",
+    "zz-Attachments/Glowstone Cavern.png",
+    "zz-Attachments/Pasted image 20230830083557.png",
+    "zz-Attachments/Pasted image 20230829232834.png",
+    "zz-Attachments/Pasted image 20230829230627.png",
+    "zz-Attachments/Pasted image 20230829225729.png",
+    "zz-Attachments/Sorik Orvash.png",
     "4) Bestiary/Temp",
     "Rewards",
     "zz-Templates/Handlebar Templates",
     "8) Adventures/Untitled",
     "textgenerator/prompts/fantasy generators",
     "textgenerator/prompts/trash/huggingface",
-    "textgenerator/prompts/trash",
-    "textgenerator/prompts/huggingface",
-    "textgenerator/prompts/default",
-    "textgenerator/prompts",
     "1) GM Screen/Untitled.canvas"
   ]
 }

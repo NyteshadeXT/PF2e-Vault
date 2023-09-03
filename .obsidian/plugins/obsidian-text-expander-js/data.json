@@ -24,6 +24,10 @@
     },
     {
       "enabled": true,
+      "address": "support/inlineScripts/notepick.sfile.md"
+    },
+    {
+      "enabled": true,
       "address": "support/inlineScripts/InlineScript_BlacksmithShop.md"
     },
     {
@@ -33,10 +37,6 @@
     {
       "enabled": true,
       "address": "support/inlineScripts/InlineScript_MagicShop.md"
-    },
-    {
-      "enabled": true,
-      "address": "support/inlineScripts/notepick.sfile.md"
     },
     {
       "enabled": false,

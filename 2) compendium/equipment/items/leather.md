@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/crb
-- item/category/armor/light
-aliases: ["Leather"]
+  - compendium/src/pf2e/crb
+  - item/category/armor/light
+aliases:
+  - Leather
+Source: Core Rule Book
 ---
 # Leather *Item 0*  
 

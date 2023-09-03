@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/crb
-- item/category/shield/
-- trait/uncommon
-aliases: ["Dragonhide Shield"]
+  - compendium/src/pf2e/crb
+  - item/category/shield/
+  - trait/uncommon
+aliases:
+  - Dragonhide Shield
+Source: Core Rule Book
 ---
 # Dragonhide Shield *Item 8+*  
 [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  

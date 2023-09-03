@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/tv
-- item/category/armor/unarmored
-- trait/comfort
-aliases: ["Gi"]
+  - compendium/src/pf2e/tv
+  - item/category/armor/unarmored
+  - trait/comfort
+aliases:
+  - Gi
+Source: Treasure Vault
 ---
 # Gi *Item 0*  
 [comfort](rules/traits/comfort.md "Comfort Armor Trait")  

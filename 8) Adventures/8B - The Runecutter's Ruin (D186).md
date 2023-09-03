@@ -12,3 +12,4 @@ Unknown to Olek, the runes are part of a warding mechanism that keeps a number o
 Olek’s careful plans and monomaniacal focus have borne fruit. His magical might approaches an apex, just as the first primordial begins to tear through the walls of the divine prison.
 
 # Running the Adventure
+-  [[Lord Drysdale]] has an old friend, Olek Dael, who’s fallen from grace. He wants his friend stopped and preferably brought back alive. He will request the aid of the party once they've proven themselves to him. (Runecutter)

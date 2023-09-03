@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/tv
-- item/category/armor/light
-- trait/laminar
-aliases: ["Sankeit"]
+  - compendium/src/pf2e/tv
+  - item/category/armor/light
+  - trait/laminar
+aliases:
+  - Sankeit
+Source: Treasure Vault
 ---
 # Sankeit *Item 0*  
 [laminar](rules/traits/laminar-tv.md "Laminar Armor Trait")  

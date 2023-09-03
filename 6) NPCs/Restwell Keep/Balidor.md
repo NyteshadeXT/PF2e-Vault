@@ -12,6 +12,8 @@ NoteIcon: Character
 Race: DwarfRock
 Location: Restwell Keep
 Age: Adult
+Occupation:
+  - Miner
 ---
 > [!infobox]
 > **Pronounced:**  "`=this.Pronounced`"

@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/tv
-- item/category/armor/medium
-- trait/adjusted-armor-latches
-- trait/noisy
-aliases: ["Ceramic Plate"]
+  - compendium/src/pf2e/tv
+  - item/category/armor/medium
+  - trait/adjusted-armor-latches
+  - trait/noisy
+aliases:
+  - Ceramic Plate
+Source: Treasure Vault
 ---
 # Ceramic Plate *Item 0*  
 [adjusted <armor latches>](rules/traits/adjusted-armor-latches-tv.md "Adjusted Armor Trait")  [noisy](rules/traits/noisy.md "Noisy Armor Trait")  

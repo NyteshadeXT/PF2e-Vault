@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/crb
-- item/category/armor/light
-- trait/comfort
-aliases: ["Padded Armor"]
+  - compendium/src/pf2e/crb
+  - item/category/armor/light
+  - trait/comfort
+aliases:
+  - Padded Armor
+Source: Core Rule Book
 ---
 # Padded Armor *Item 0*  
 [comfort](rules/traits/comfort.md "Comfort Armor Trait")  

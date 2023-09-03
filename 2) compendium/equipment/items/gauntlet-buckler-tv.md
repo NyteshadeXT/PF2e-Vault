@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/tv
-- item/category/shield/
-- trait/foldaway
-aliases: ["Gauntlet Buckler"]
+  - compendium/src/pf2e/tv
+  - item/category/shield/
+  - trait/foldaway
+aliases:
+  - Gauntlet Buckler
+Source: Treasure Vault
 ---
 # Gauntlet Buckler *Item 0*  
 [foldaway](rules/traits/foldaway-tv.md "Foldaway Item Trait")  

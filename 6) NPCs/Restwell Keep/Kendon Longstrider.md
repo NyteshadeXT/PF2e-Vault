@@ -12,6 +12,8 @@ Sexuality: Straight
 Age: Mature Adult
 Condition: Healthy
 Location: Restwell Keep
+Occupation:
+  - Baliff
 ---
 
 > [!infobox]

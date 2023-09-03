@@ -15,6 +15,7 @@ Occupation:
 Location: Restwell Keep
 Age: Adult
 ---
+
 > [!infobox]
 > **Pronounced:**  "`=this.Pronounced`"
 ![[Benwick.png]]

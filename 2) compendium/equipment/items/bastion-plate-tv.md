@@ -2,12 +2,14 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/tv
-- item/category/armor/heavy
-- trait/bulwark
-- trait/entrench-melee
-- trait/hindering
-aliases: ["Bastion Plate"]
+  - compendium/src/pf2e/tv
+  - item/category/armor/heavy
+  - trait/bulwark
+  - trait/entrench-melee
+  - trait/hindering
+aliases:
+  - Bastion Plate
+Source: Treasure Vault
 ---
 # Bastion Plate *Item 2*  
 [bulwark](rules/traits/bulwark.md "Bulwark Armor Trait")  [entrench <melee>](rules/traits/entrench-melee-tv.md "Entrench Armor Trait")  [hindering](rules/traits/hindering-tv.md "Hindering Armor Trait")  

@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/tv
-- item/category/shield/
-- trait/inscribed
-aliases: ["Caster's Targe"]
+  - compendium/src/pf2e/tv
+  - item/category/shield/
+  - trait/inscribed
+aliases:
+  - Caster's Targe
+Source: Treasure Vault
 ---
 # Caster's Targe *Item 0*  
 [inscribed](rules/traits/inscribed-tv.md "Inscribed Armor Trait")  

@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/crb
-- item/category/armor/medium
-- trait/flexible
-- trait/noisy
-aliases: ["Chain Mail"]
+  - compendium/src/pf2e/crb
+  - item/category/armor/medium
+  - trait/flexible
+  - trait/noisy
+aliases:
+  - Chain Mail
+Source: Core Rule Book
 ---
 # Chain Mail *Item 0*  
 [flexible](rules/traits/flexible.md "Flexible Armor Trait")  [noisy](rules/traits/noisy.md "Noisy Armor Trait")  

@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/tv
-- item/category/armor/heavy
-- trait/uncommon
-aliases: ["Hellknight Half Plate"]
+  - compendium/src/pf2e/tv
+  - item/category/armor/heavy
+  - trait/uncommon
+aliases:
+  - Hellknight Half Plate
+Source: Treasure Vault
 ---
 # Hellknight Half Plate *Item 1*  
 [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  

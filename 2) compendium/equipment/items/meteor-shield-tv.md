@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/tv
-- item/category/shield/
-- trait/shield-throw-30-ft
-aliases: ["Meteor Shield"]
+  - compendium/src/pf2e/tv
+  - item/category/shield/
+  - trait/shield-throw-30-ft
+aliases:
+  - Meteor Shield
+Source: Treasure Vault
 ---
 # Meteor Shield *Item 0*  
 shield throw <30 ft.>  

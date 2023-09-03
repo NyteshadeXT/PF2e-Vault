@@ -8,3 +8,4 @@ The keep and adventuring parties were constant threats that couldn’t be dealt 
 Using the talents of various monsters seeking revenge, Kodan took over a set of caves and has turned it into a massive trap. He doesn’t intend to kill the adventurers in the caves but rather weaken them so that he and his now-reinforced Talons can eliminate them, in full view of emissaries from important Chaos Scar factions. With the adventurers out of the way, and having demonstrated his might, Kodan intends to rule the Chaos Scar.
 
 # Running the Adventure
+-  Jangi Blackstream is looking for the party. Something about his caravans being attacked by elemental creatures from the Scar. Sound like he’s willing to pay lots of coin. (Rumble in the Valley)

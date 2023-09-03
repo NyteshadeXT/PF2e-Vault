@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/tv
-- item/category/armor/light
-- trait/comfort
-aliases: ["Quilted Armor"]
+  - compendium/src/pf2e/tv
+  - item/category/armor/light
+  - trait/comfort
+aliases:
+  - Quilted Armor
+Source: Treasure Vault
 ---
 # Quilted Armor *Item 0*  
 [comfort](rules/traits/comfort.md "Comfort Armor Trait")  

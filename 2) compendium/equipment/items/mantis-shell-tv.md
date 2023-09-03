@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/tv
-- item/category/armor/light
-- trait/adjusted-weapon-harness
-- trait/uncommon
-aliases: ["Mantis Shell"]
+  - compendium/src/pf2e/tv
+  - item/category/armor/light
+  - trait/adjusted-weapon-harness
+  - trait/uncommon
+aliases:
+  - Mantis Shell
+Source: Treasure Vault
 ---
 # Mantis Shell *Item 1*  
 [adjusted <weapon harness>](rules/traits/adjusted-weapon-harness-tv.md "Adjusted Armor Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  

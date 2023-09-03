@@ -15,6 +15,8 @@ Occupation:
 Location: Restwell Keep
 Dislikes: Lord Drysdale
 Age: Adult
+AssociatedReligion:
+  - Tymora
 ---
 > [!infobox]
 > **Pronounced:**  "`=this.Pronounced`"

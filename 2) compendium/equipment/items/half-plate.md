@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/crb
-- item/category/armor/heavy
-aliases: ["Half Plate"]
+  - compendium/src/pf2e/crb
+  - item/category/armor/heavy
+aliases:
+  - Half Plate
+Source: Core Rule Book
 ---
 # Half Plate *Item 1*  
 

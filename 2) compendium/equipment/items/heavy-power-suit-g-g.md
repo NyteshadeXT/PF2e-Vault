@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/g&g
-- item/category/armor/heavy
-- trait/bulwark
-- trait/uncommon
-aliases: ["Heavy Power Suit"]
+  - compendium/src/pf2e/g&g
+  - item/category/armor/heavy
+  - trait/bulwark
+  - trait/uncommon
+aliases:
+  - Heavy Power Suit
+Source: Guns and Gears
 ---
 # Heavy Power Suit *Item 0*  
 [bulwark](rules/traits/bulwark.md "Bulwark Armor Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  

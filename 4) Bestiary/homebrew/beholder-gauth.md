@@ -14,7 +14,7 @@ columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 
-source: "SOURCE"
+source: "HB"
 name: "Beholder Gauth"
 token: "[Beholder Gauth.png]"
 level: "Creature 5"
@@ -53,7 +53,7 @@ attacks:
   - name: Melee
     desc: "⬻ bite +11 __Damage__ 2d4+6 (2d4+6) piercing"
 
-sourcebook: "_Source_."
+sourcebook: "_4e Homebrew_."
 ```
 
 ```encounter-table

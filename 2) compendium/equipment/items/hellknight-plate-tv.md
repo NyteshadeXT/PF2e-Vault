@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/tv
-- item/category/armor/heavy
-- trait/bulwark
-- trait/uncommon
-aliases: ["Hellknight Plate"]
+  - compendium/src/pf2e/tv
+  - item/category/armor/heavy
+  - trait/bulwark
+  - trait/uncommon
+aliases:
+  - Hellknight Plate
+Source: Treasure Vault
 ---
 # Hellknight Plate *Item 2*  
 [bulwark](rules/traits/bulwark.md "Bulwark Armor Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  

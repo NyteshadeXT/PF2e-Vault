@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/crb
-- item/category/shield/
-aliases: ["Tower Shield"]
+  - compendium/src/pf2e/crb
+  - item/category/shield/
+aliases:
+  - Tower Shield
+Source: Core Rule Book
 ---
 # Tower Shield *Item 0*  
 

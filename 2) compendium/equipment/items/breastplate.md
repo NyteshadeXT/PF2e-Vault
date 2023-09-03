@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/crb
-- item/category/armor/medium
-aliases: ["Breastplate"]
+  - compendium/src/pf2e/crb
+  - item/category/armor/medium
+aliases:
+  - Breastplate
+Source: Core Rule Book
 ---
 # Breastplate *Item 0*  
 

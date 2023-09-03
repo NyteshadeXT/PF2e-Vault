@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/tv
-- item/category/shield/
-- trait/harnessed
-aliases: ["Harnessed Shield"]
+  - compendium/src/pf2e/tv
+  - item/category/shield/
+  - trait/harnessed
+aliases:
+  - Harnessed Shield
+Source: Treasure Vault
 ---
 # Harnessed Shield *Item 0*  
 [harnessed](rules/traits/harnessed-tv.md "Harnessed Item Trait")  

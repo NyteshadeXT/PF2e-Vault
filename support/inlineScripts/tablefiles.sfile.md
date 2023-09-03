@@ -522,7 +522,7 @@ async function updateTableConfigUi(data)
 {
 	// Set the current table path and table lines
 	data.current = {};
-	data.current.paths = [ rulesdata.selectUi.selectedOptions ].map(v => v.value);
+	data.current.paths = [ ...data.selectUi.selectedOptions ].map(v => v.value);
 
 	// Get the lines for all current paths
 	let tableLines =
@@ -531,7 +531,7 @@ async function updateTableConfigUi(data)
 	//  Get the lines of the first current path (for startLine visualiation ui)
 	data.current.lines = tableLines[0];
 	// Work out the smallest line count of the current paths
-	data.current.minLineCount = Math.min(rules.tableLines.map(v => v.length));
+	data.current.minLineCount = Math.min(...tableLines.map(v => v.length));
 
 	// Get the table's configuration and lines
 	const configs = getCurrentConfigurations(data);

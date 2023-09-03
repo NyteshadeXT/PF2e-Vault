@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/lokl
-- item/category/armor/light
-- trait/comfort
-- trait/flexible
-aliases: ["Armored Coat"]
+  - compendium/src/pf2e/lokl
+  - item/category/armor/light
+  - trait/comfort
+  - trait/flexible
+aliases:
+  - Armored Coat
+Source: "Lost Omens: Knights of Lastwall"
 ---
 # Armored Coat *Item 0*  
 [comfort](rules/traits/comfort.md "Comfort Armor Trait")  [flexible](rules/traits/flexible.md "Flexible Armor Trait")  

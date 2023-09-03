@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/crb
-- item/category/shield/
-aliases: ["Wooden Shield"]
+  - compendium/src/pf2e/crb
+  - item/category/shield/
+aliases:
+  - Wooden Shield
+Source: Core Rule Book
 ---
 # Wooden Shield *Item 0*  
 

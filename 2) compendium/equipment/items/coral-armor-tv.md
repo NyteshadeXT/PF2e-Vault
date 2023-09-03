@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/tv
-- item/category/armor/medium
-- trait/aquadynamic
-aliases: ["Coral Armor"]
+  - compendium/src/pf2e/tv
+  - item/category/armor/medium
+  - trait/aquadynamic
+aliases:
+  - Coral Armor
+Source: Treasure Vault
 ---
 # Coral Armor *Item 0*  
 [aquadynamic](rules/traits/aquadynamic-tv.md "Aquadynamic Armor Trait")  

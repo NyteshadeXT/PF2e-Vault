@@ -98,7 +98,7 @@ __
 ```js
 let data = expand(
     "notepick pickFromFolderAndGetFrontmatter" +
-    " \"Mechanics/Spells\" " + $1);
+    " \"2)Compendium/Spells\" " + $1);
 if (!data)
 {
     return "Unable to get " + $1 + " item(s).";
@@ -190,4 +190,18 @@ for (let i = 0; i < data.length; i++)
 return result + "\n";
 ```
 __
-getItems {count: >0} - Display {count} random items and their price.
+getItems {count: >0} - Display {count} random items and their price.#### Potions For Sale
+
+| Potion | Rarity | Type  | Price |  
+| ---- | ---- | --- | ------ | 
+| [[Philter of Love]] | none | adventuring gear, poison (contact) | 400 gp | 
+| [[Potion of Radiant Resistance]] | uncommon | potion | 250 gp | 
+| [[Oil of Etherealness]] | none | adventuring gear, poison (contact) | 200 gp | 
+| [[Potion of Fire Breath]] | rare | potion | 2500 gp | 
+| [[Potion of Mind Reading]] | uncommon | potion | 250 gp | 
+| [[Potion of Cloud Giant Strength]] | rare | potion | 2500 gp | 
+| [[Potion of Fire Breath]] | rare | potion | 0 | 
+| [[Potion of Frost Giant Strength]] | rare | potion | 0 | 
+| [[Potion of Fire Resistance]] | rare | potion | 0 | 
+| [[Potion of Vitality]] | very rare | potion | 3000 gp | 
+

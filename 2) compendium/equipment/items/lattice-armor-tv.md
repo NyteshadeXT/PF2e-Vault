@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/tv
-- item/category/armor/medium
-aliases: ["Lattice Armor"]
+  - compendium/src/pf2e/tv
+  - item/category/armor/medium
+aliases:
+  - Lattice Armor
+Source: Treasure Vault
 ---
 # Lattice Armor *Item 0*  
 

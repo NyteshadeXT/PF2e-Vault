@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/crb
-- item/category/shield/
-- trait/uncommon
-aliases: ["Mithral Shield"]
+  - compendium/src/pf2e/crb
+  - item/category/shield/
+  - trait/uncommon
+aliases:
+  - Mithral Shield
+Source: Core Rule Book
 ---
 # Mithral Shield *Item 8+*  
 [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  

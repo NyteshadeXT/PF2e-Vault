@@ -8,12 +8,9 @@ Recently, Hargash has been receiving waking visions from the meteorite in the gu
 # Running the Adventure
 **Total Adventure Value:** 315 xp
 
-# The Hammer of Ivak Stoneblood
-Torak Banehammer, a dwarven cleric of Moradin, is searching for a lost relic sacred to his faith. The relic, the Hammer of Ivak, was lost when the temple of Moradin in the Chaos Scar was destroyed. Torak believes he knows the location of the lost temple of Moradin and asks the heroes to seek it out and recover the Hammer of Ivak. To aid the characters in their endeavor, Torak offers up his own magical hammer, a +1 thundering warhammer to any hero who can wield it. 
+**The Hammer of Ivak Stoneblood ([[Restwell Jobs#Word of Mouth|Word of Mouth]]):** [[Gorn Hammerfall]], a devout follower of Moradin, is searching for a lost relic sacred to his faith. The relic, the Hammer of Ivak, was lost when the temple of Moradin in the Chaos Scar was destroyed. Torak believes he knows the location of the lost temple of Moradin and asks the heroes to seek it out and recover the Hammer of Ivak. To aid the characters in their endeavor, Torak offers up his own magical hammer, a +1 thundering warhammer to any hero who can wield it. 
 
-# Big Bugs
-Giant, venomous insects and other monstrous vermin have attacked and poisoned people near the King’s Wall. A druid asks the characters to obtain the venom sacks from five venomous giant bugs (centipedes, scorpions, or spiders) so she can produce an antivenom. She offers 5 gp for each venom sack obtained and promises the adventurers two doses of [[antivenom-potion-tio|Antivenom Potion]]
-if they bring back at least five venom sacks. A venom sack can be recovered from a slain bug with a DC 12 [[skills#nature|Nature]] check. 
+Big Bugs ([[Restwell Jobs#Word of Mouth|Word of Mouth]]): Giant, venomous insects and other monstrous vermin have attacked and poisoned people near the King’s Wall. The PCs are approached by the druid Lofinor who asks the them to obtain the venom sacks from five venomous giant bugs (centipedes, scorpions, or spiders) so she can produce an antivenom. She offers 5 gp for each venom sack obtained and promises the adventurers two doses of [[antivenom-potion-tio|Antivenom Potion]] if they bring back at least five venom sacks. A venom sack can be recovered from a slain bug with a DC 12 [[skills#nature|Nature]] check. 
 
 # We Aren’t Going to Take It!
 The characters witness bug attacks against innocent people and decide to do something about it instead of waiting for someone to ask. Or, they themselves could come under attack by giant bugs on their way into or out of the Scar and rightly conclude that the bugs represent a larger problem... or that their lair probably contains treasure. 
@@ -111,7 +108,7 @@ The short hallway leading to the ironbound doors is flanked by a pair of altars.
 The ironbound doors are thick and heavy but unlocked.
 
 ## Features of the Area 
-**Illumination:** Bright within 5 squares of the western brazier (which burns as a torch); dim everywhere else, from light filtering down through the chasm. Dim illumination provides concealment against characters and creatures that don’t have low-light vision, darkvision, or some other sense. 
+**Illumination:** Bright within 5 squares of the western brazier (which burns as a torch); dim everywhere else, from light filtering down through the chasm. Dim illumination provides concealment against characters and creatures that don’t have low-light vision, darkvision, or some other sense. 
 
 **Ceiling:** The ceiling is 10 feet high. 
 
@@ -124,7 +121,7 @@ The ironbound doors are thick and heavy but unlocked.
 **Footlockers:** The ancient footlockers are still in good shape and their locks are sturdy. They can be opened with a DC 17 [[skills#thievery|Thievery]] check. One of the footlockers contains the treasure for this area. 
 
 > [!tip]+ Treasure
-> Found in the footlocker is 34 gp, *Sarkorian God-Caller Garb*, *Heartening Missive (Rabbit)* and *Eidetic Potion*.
+> Found in the footlocker is 34 gp, [[architects-pattern-book-tv|Architect's Pattern Book]] and [[undead-scourge-lokl|Undead Scourge]].
 
 **Rubble:** The rubble is difficult terrain.
 
@@ -256,4 +253,4 @@ The giant scorpions attack the closest heroes in melee, relentlessly biting and 
 **Statues:** The statues are blocking terrain and provide cover to adjacent creatures.
 
 > [!tip]+ Treasure
-> Hidden in the rubble at the back of the round PCs can find 67 gp, Formula - 7 Ammunition (Corrosive Ammunition) and [[leapers-elixir|Leaper's Elixir (Greater)]].
+> Hidden in the rubble at the back of the round PCs can find 67 gp, [[imp-shot-tv|Imp Shot]], [[wind-ocarina-tv|Wind Ocarina]], [[bloodhound-olfactory-stimulators-tv|Bloodhound Olfactory Stimulators]] and [[fulu-of-the-stoic-ox-som|Fulu Of The Stoic Ox]].

@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/tv
-- item/category/shield/
-aliases: ["Heavy Rondache"]
+  - compendium/src/pf2e/tv
+  - item/category/shield/
+aliases:
+  - Heavy Rondache
+Source: Treasure Vault
 ---
 # Heavy Rondache *Item 0*  
 

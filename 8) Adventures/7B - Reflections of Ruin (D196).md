@@ -12,3 +12,4 @@ In her attempts to break the devil’s curse of corruption, Maluriath thought th
 After failure upon failure, Maluriath changed the direction of her research. Instead of attempting to return to what she once was, she decided to visit the same twisted changes she had experienced upon the world around her to create a warped domain for herself.
 
 # Running the Adventure
+6.  [[Ailwin]] has acquired a piece of obsidian with strange properties. He wants a group to find a cave deep in the Scar and bring him back more of it for examination. He will pay 1,000 gold for this. (Reflections of Ruin)

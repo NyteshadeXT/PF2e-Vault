@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/crb
-- item/category/shield/
-- trait/rare
-aliases: ["Orichalcum Shield"]
+  - compendium/src/pf2e/crb
+  - item/category/shield/
+  - trait/rare
+aliases:
+  - Orichalcum Shield
+Source: Core Rule Book
 ---
 # Orichalcum Shield *Item 17+*  
 [rare](rules/traits/rare.md "Rare Rarity Trait")  

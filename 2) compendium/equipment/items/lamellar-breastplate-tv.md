@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/tv
-- item/category/armor/medium
-- trait/hindering
-- trait/laminar
-aliases: ["Lamellar Breastplate"]
+  - compendium/src/pf2e/tv
+  - item/category/armor/medium
+  - trait/hindering
+  - trait/laminar
+aliases:
+  - Lamellar Breastplate
+Source: Treasure Vault
 ---
 # Lamellar Breastplate *Item 0*  
 [hindering](rules/traits/hindering-tv.md "Hindering Armor Trait")  [laminar](rules/traits/laminar-tv.md "Laminar Armor Trait")  

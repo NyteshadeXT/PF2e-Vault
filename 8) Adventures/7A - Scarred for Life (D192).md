@@ -10,3 +10,5 @@ Now a well-known outlaw, Keljack recently discovered that his body is infused wi
 Keljack has resolved to undertake an expedition deeper into the Scar, and to attract hirelings he has spread word of a grand treasure hunt. He and Fool are going to meet with a pair of notable bandit leaders and decide which of those groups best suits their needs.
 
 # Running the Adventure
+
+-   Wanted for Murder, Robbery, Assault and other crimes: Keljack and his ogre companion. Lord Criswell offers 2,500 gold for his head and 500 for the ogre. (Scarred for Life)

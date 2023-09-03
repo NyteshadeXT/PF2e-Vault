@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/tv
-- item/category/armor/medium
-- trait/laminar
-aliases: ["Niyaháat"]
+  - compendium/src/pf2e/tv
+  - item/category/armor/medium
+  - trait/laminar
+aliases:
+  - Niyaháat
+Source: Treasure Vault
 ---
 # Niyaháat *Item 0*  
 [laminar](rules/traits/laminar-tv.md "Laminar Armor Trait")  

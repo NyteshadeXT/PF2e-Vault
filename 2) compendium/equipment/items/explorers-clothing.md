@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/crb
-- item/category/armor/unarmored
-- trait/comfort
-aliases: ["Explorer's Clothing"]
+  - compendium/src/pf2e/crb
+  - item/category/armor/unarmored
+  - trait/comfort
+aliases:
+  - Explorer's Clothing
+Source: Core Rule Book
 ---
 # Explorer's Clothing *Item 0*  
 [comfort](rules/traits/comfort.md "Comfort Armor Trait")  

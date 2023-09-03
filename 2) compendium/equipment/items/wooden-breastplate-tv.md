@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/tv
-- item/category/armor/medium
-aliases: ["Wooden Breastplate"]
+  - compendium/src/pf2e/tv
+  - item/category/armor/medium
+aliases:
+  - Wooden Breastplate
+Source: Treasure Vault
 ---
 # Wooden Breastplate *Item 0*  
 

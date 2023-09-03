@@ -135,7 +135,6 @@ let potion_veryrare = [
 return [ "#### Potions For Sale\n\n", 
 "| Potion | Rarity | Type  | Price |  \n",
 "| ---- | ---- | --- | ------ | \n",
-"| [[Potion of Growth]] | rare | potion | `= [[Potion of Growth]].basecost * [[World Configuration]].NormalCost` | \n",
 aPick(potion_common), "\n", 
 aPick(potion_common), "\n",
 aPick(potion_common), "\n",

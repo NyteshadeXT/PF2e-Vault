@@ -39,6 +39,16 @@
       "level": 5,
       "modifier": 11,
       "player": true
+    },
+    {
+      "note": "Zeta",
+      "path": "7) Players/Zeta.md",
+      "name": "Zeta",
+      "ac": 17,
+      "hp": 20,
+      "level": 1,
+      "modifier": 6,
+      "player": true
     }
   ],
   "parties": [
@@ -48,7 +58,8 @@
         "Mordak",
         "Cassandra",
         "Winter",
-        "Varas"
+        "Varas",
+        "Zeta"
       ]
     }
   ],
@@ -141,6 +152,11 @@
       "hasAmount": true,
       "startingAmount": 1,
       "amount": 1
+    },
+    {
+      "name": "Bane",
+      "description": "Represents effect of the Bane spell.",
+      "id": "ID_788bdb886b4b"
     }
   ],
   "unconsciousId": "Unconscious",
@@ -153,7 +169,7 @@
   "preferStatblockLink": false,
   "initiative": "1d20 + %mod%",
   "modifier": null,
-  "sync": false,
+  "sync": true,
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
@@ -184,12 +200,12 @@
         "static": false,
         "modifier": 13,
         "hp": 61,
-        "currentMaxHP": 53,
+        "currentMaxHP": 297,
         "ac": 22,
-        "currentAC": "22",
+        "currentAC": 22,
         "note": "Winter",
         "path": "7) Players/Winter.md",
-        "id": "ID_78490a79db5a",
+        "id": "ID_cafb8958ab69",
         "currentHP": 26,
         "tempHP": 0,
         "status": [],
@@ -226,12 +242,12 @@
         "static": false,
         "modifier": 12,
         "hp": 48,
-        "currentMaxHP": 75,
+        "currentMaxHP": 267,
         "ac": 23,
-        "currentAC": "23",
+        "currentAC": 23,
         "note": "Mordak",
         "path": "7) Players/Mordak.md",
-        "id": "ID_19eaea68ea1a",
+        "id": "ID_4a19193a8a49",
         "currentHP": 18,
         "tempHP": 0,
         "status": [
@@ -250,12 +266,12 @@
         "static": false,
         "modifier": 11,
         "hp": 75,
-        "currentMaxHP": 61,
+        "currentMaxHP": 361,
         "ac": 22,
-        "currentAC": "22",
+        "currentAC": 22,
         "note": "Varas",
         "path": "7) Players/Varas.md",
-        "id": "ID_6a998b4b0bea",
+        "id": "ID_6bb95919794b",
         "currentHP": 40,
         "tempHP": 0,
         "status": [],
@@ -293,12 +309,12 @@
         "static": false,
         "modifier": 12,
         "hp": 53,
-        "currentMaxHP": 48,
+        "currentMaxHP": 366,
         "ac": 21,
-        "currentAC": "21",
+        "currentAC": 21,
         "note": "Cassandra",
         "path": "7) Players/Cassandra.md",
-        "id": "ID_ab2afb69ab4b",
+        "id": "ID_8829aa2a5a7a",
         "currentHP": 48,
         "tempHP": 0,
         "status": [],
@@ -456,7 +472,7 @@
   },
   "hpOverflow": "ignore",
   "additiveTemp": false,
-  "rpgSystem": "dnd5e",
+  "rpgSystem": "pathfinder2e",
   "logging": false,
   "logFolder": "/",
   "useLegacy": false,
@@ -464,9 +480,147 @@
   "rollHP": false,
   "descending": true,
   "builder": {
-    "showParty": true,
-    "showXP": true,
-    "sidebarIcon": true
+    "showParty": false,
+    "showXP": false,
+    "sidebarIcon": true,
+    "headers": [
+      {
+        "text": "Level",
+        "field": "level",
+        "type": 0
+      },
+      {
+        "text": "Size",
+        "field": "size",
+        "type": 0
+      },
+      {
+        "text": "Alignment",
+        "field": "alignment",
+        "type": 0
+      },
+      {
+        "text": "Source",
+        "field": "source",
+        "type": 0
+      }
+    ],
+    "filters": {
+      "filters": [
+        {
+          "type": 2,
+          "text": "Size",
+          "fields": [
+            "size"
+          ],
+          "options": [],
+          "id": "ID_DEFAULT_SIZE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Alignment",
+          "fields": [
+            "alignment"
+          ],
+          "options": [],
+          "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Source",
+          "fields": [
+            "source"
+          ],
+          "options": [
+            "B2",
+            "B1",
+            "B3",
+            "GMG",
+            "HB",
+            "SOURCE",
+            "TiO",
+            "CotKK",
+            "AP",
+            "Pathfinder #180: The Smoking Gun pg. 2",
+            "FoP",
+            "BotD"
+          ],
+          "id": "ID_DEFAULT_TYPE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Level",
+          "fields": [
+            "level"
+          ],
+          "options": [
+            "Creature 3",
+            "Creature 5",
+            "Creature 6",
+            "Creature 4",
+            "Creature 1",
+            "Creature 2",
+            "Creature 13",
+            "Creature 18",
+            "Creature -1",
+            "Creature 7",
+            "Creature 10",
+            "Creature 11",
+            "Creature 12",
+            "Creature 14",
+            "Creature 15",
+            "Creature 0",
+            "Creature 9",
+            "Creature 8",
+            "Creature 16",
+            "Creature 17",
+            "Creature 19",
+            "Creature 20",
+            "Creature 23",
+            "Creature 21",
+            "Creature 24",
+            "Creature ",
+            "Creature 22",
+            "Creature 25"
+          ],
+          "id": "ID_DEFAULT_CR_FILTER",
+          "derive": true
+        }
+      ],
+      "layout": [
+        {
+          "nested": [
+            {
+              "id": "ID_DEFAULT_TYPE_FILTER",
+              "type": "filter"
+            }
+          ],
+          "id": "ID_DEFAULT_NESTED_CR",
+          "type": "nested"
+        },
+        {
+          "id": "ID_DEFAULT_NESTED_LAYOUT",
+          "type": "nested",
+          "nested": [
+            {
+              "id": "ID_DEFAULT_CR_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_SIZE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+              "type": "filter"
+            }
+          ]
+        }
+      ]
+    }
   },
   "leafletIntegration": false
 }

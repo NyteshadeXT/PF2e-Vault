@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/tv
-- item/category/shield/
-- trait/deflecting-bludgeoning
-aliases: ["Hide Shield"]
+  - compendium/src/pf2e/tv
+  - item/category/shield/
+  - trait/deflecting-bludgeoning
+aliases:
+  - Hide Shield
+Source: Treasure Vault
 ---
 # Hide Shield *Item 0*  
 [deflecting <bludgeoning>](rules/traits/deflecting-bludgeoning-tv.md "Deflecting Item Trait")  

@@ -24,3 +24,4 @@ The temple’s two eldest leaders know the truth, because they accompanied the w
 The answer to this question is up to you. The heretical cult certainly existed and can still have adherents in your campaign if you want them. Whether Phayrd was the half-elf daughter of Gruumsh and a true demigod or just a myth is your call. Residents of the Colony believed in her, and that fact is enough for this adventure.
 
 # Running the Adventure
+10.  A visiting elf named Thathar is looking for some lost elven colony. He's apparently willing to pay for someone to find it for him. (Blood of Gruumsh)

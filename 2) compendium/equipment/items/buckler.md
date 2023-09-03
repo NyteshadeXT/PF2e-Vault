@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/crb
-- item/category/shield/
-aliases: ["Buckler"]
+  - compendium/src/pf2e/crb
+  - item/category/shield/
+aliases:
+  - Buckler
+Source: Core Rule Book
 ---
 # Buckler *Item 0*  
 

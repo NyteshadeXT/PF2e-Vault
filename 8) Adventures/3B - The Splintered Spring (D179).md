@@ -8,14 +8,11 @@ The dolgaunt monk leader of this exile band dreams of returning to the cult in t
 # Running the Adventure
 **Total Adventure Value:** 335 xp plus gray oozes from the final encounter
 
-## Religious Relic
-A religious relic has been stolen from a group of pilgrims on their way to the temple of Tymora. Those who witnessed the theft speak of a swarm of ghostly spiders that entered the priest’s camp past armed guards. These spiders targeted and stole the relic with almost humanoid cunning. 
+**Religious Relic ([[Restwell Jobs#Wall Postings|Job Board]]):** A religious relic, Cup of Chance, has been stolen from a group of pilgrims on their way to the temple of Tymora. Those who witnessed the theft speak of a swarm of ghostly spiders that entered the priest’s camp past armed guards. These spiders targeted and stole the relic with almost humanoid cunning. See [[Chendera]] for more details. 
 
-## Ritual Book
-The mage, Ailwin, recently purchased an expensive ritual book for research purposes. While being brought to his estate by well-armed couriers, the book was stolen. One wounded courier crawled to Restwell Keep, where he spoke only of being swarmed by “ghost spiders, spawned of the underworld,” before dying. Ailwin offers a reward of 50 gp to anyone who can find and return the book. 
+**Ritual Book:** The mage, Ailwin, recently purchased an expensive ritual book for research purposes. While being brought to his estate by well-armed couriers, the book was stolen. One wounded courier crawled to Restwell Keep, where he spoke only of being swarmed by “ghost spiders, spawned of the underworld,” before dying. Ailwin offers a reward of 50 gp to anyone who can find and return the book. 
 
-## Ulrika is Missing
-The farmers working on the outskirts of Restwell Keep are living in fear after a pack of monstrous “ghost spiders” swarmed through the area. A retired adventurer, turned farmer, named Ulrika stood against them and the farmers believe she was killed, and that the spiders hauled off her body in the dead of night. The characters are given a description of a unique amulet worn by Ulrika.
+**Ulrika is Missing:** The farmers working on the outskirts of Restwell Keep are living in fear after a pack of monstrous “ghost spiders” swarmed through the area. A retired adventurer, turned farmer, named Ulrika stood against them and the farmers believe she was killed, and that the spiders hauled off her body in the dead of night. The characters are given a description of a unique amulet worn by Ulrika.
 
 ## The Splintered Spring
 Whichever adventure hook you use to get the characters into the adventure, the party is taken to the last place the spiders were seen by witnesses. From there, the creatures’ trail can be followed easily, either over the King’s Wall or within the area of the Chaos Scar. 
@@ -45,17 +42,15 @@ As the characters approach the center of the lake, go to [[02) Serpent Strike]]
 
 **Encounter Difficulty:** Moderate (90 xp)
 Creatures:
- - 2: [[icicle-snake|Icicle Snake]]] S
  - 2: [[dolgaunt|Dolgaunt]] D
- - 1: [[living-waterfall|Living Waterfall]]
+ - 3: [[living-waterfall|Living Waterfall]]
 
 ```encounter
 name: Serpent Strike
 party: Chaos Scar
 creatures:
-- 2: [[Icicle Snake]]
 - 2: [[Dolgaunt]]
-- 1: [[Living Waterfall]]
+- 3: [[Living Waterfall, Elemental Water Serpent]]
 ```
 
 The first half of the characters’ passage across the lake is uneventful. When they cross, read: 
@@ -95,7 +90,7 @@ The crater wall is rough and easily climbable ([[skills#athletics|Athletics]] DC
 # Encounter 2 - The Foul Mire
 ![[Pasted image 20230727141737.png]]
 
-**Encounter Difficulty:** Moderate (105 xp)
+**Encounter Difficulty:** Moderate (80 xp)
 Creatures:
  - 1: [[dolgarr|Dolgarr]] B
  - 3: [[dolgrim|Dolgrim]] W
@@ -164,18 +159,19 @@ The only way down from this cavern is the sinkhole into which the stream plunges
 **Sinkhole:** The center of the cavern is a rough sinkhole 30 feet in diameter, through which the stream falls. A creature that moves into the sinkhole gets a saving throw to catch the edge. On a failed save, the creature falls 40 feet to the black lake in the cavern below. Because the churning water of the stream cushions the fall, the character takes half damage from the fall. See the next encounter for details of the black lake.
 
 # Encounter 3 - The Black Lake
-**Encounter Difficulty:** Severe (140 xp + each gray ooze)
+**Encounter Difficulty:** Severe (145 xp)
 Creatures:
- - 1: [[dolgaunt|Dolgaunt]] D
+ - 4: [[dolgaunt|Dolgaunt]] D
  - 2: [[ether-spider|Ether Spider]] S
- - 1: [[gray-ooze|Gray Ooze]]
+ - 3: [[gray-ooze|Gray Ooze]]
 
 ```encounter
 name: The Black Lake
 party: Chaos Scar
 creatures:
-- 1: [[Dolgaunt]]
-- 4: [[Ether Spider]]
+- 4: [[Dolgaunt]]
+- 2: [[Ether Spider]]
+- 3: [[Gray Ooze]]
 ```
 
 This encounter can play out in different ways, depending on how the characters enter the area. Read through the entire encounter to familiarize yourself with the setup of the gray oozes and the tactics of the creatures in the cavern below. It is very likely that some adventurers will end up fighting alone in the cavern or the black lake while their allies are still trying to descend through the sinkhole. 

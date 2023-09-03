@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/tv
-- item/category/shield/
-- trait/integrated-1d6-s
-- trait/shield-throw-20-ft
-aliases: ["Razor Disc"]
+  - compendium/src/pf2e/tv
+  - item/category/shield/
+  - trait/integrated-1d6-s
+  - trait/shield-throw-20-ft
+aliases:
+  - Razor Disc
+Source: Treasure Vault
 ---
 # Razor Disc *Item 0*  
 [integrated <1d6 S>](rules/traits/integrated-1d6-s-tv.md "Integrated Item Trait")  shield throw <20 ft.>  

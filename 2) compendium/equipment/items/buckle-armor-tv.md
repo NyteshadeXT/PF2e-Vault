@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/tv
-- item/category/armor/light
-- trait/adjusted-storage
-- trait/noisy
-aliases: ["Buckle Armor"]
+  - compendium/src/pf2e/tv
+  - item/category/armor/light
+  - trait/adjusted-storage
+  - trait/noisy
+aliases:
+  - Buckle Armor
+Source: Treasure Vault
 ---
 # Buckle Armor *Item 0*  
 [adjusted <storage>](rules/traits/adjusted-storage-tv.md "Adjusted Armor Trait")  [noisy](rules/traits/noisy.md "Noisy Armor Trait")  

@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/tv
-- item/category/shield/
-- trait/deflecting-physical-ranged
-aliases: ["Salvo Shield"]
+  - compendium/src/pf2e/tv
+  - item/category/shield/
+  - trait/deflecting-physical-ranged
+aliases:
+  - Salvo Shield
+Source: Treasure Vault
 ---
 # Salvo Shield *Item 0*  
 [deflecting <physical ranged>](rules/traits/deflecting-physical-ranged-tv.md "Deflecting Item Trait")  

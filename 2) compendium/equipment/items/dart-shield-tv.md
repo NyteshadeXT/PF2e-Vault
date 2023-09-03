@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/tv
-- item/category/shield/
-- trait/launching-dart
-aliases: ["Dart Shield"]
+  - compendium/src/pf2e/tv
+  - item/category/shield/
+  - trait/launching-dart
+aliases:
+  - Dart Shield
+Source: Treasure Vault
 ---
 # Dart Shield *Item 0*  
 [launching <dart>](rules/traits/launching-dart-tv.md "Launching Item Trait")  

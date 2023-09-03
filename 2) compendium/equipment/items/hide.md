@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/crb
-- item/category/armor/medium
-aliases: ["Hide"]
+  - compendium/src/pf2e/crb
+  - item/category/armor/medium
+aliases:
+  - Hide
+Source: Core Rule Book
 ---
 # Hide *Item 0*  
 

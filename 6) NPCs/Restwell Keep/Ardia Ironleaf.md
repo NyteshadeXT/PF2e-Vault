@@ -26,6 +26,8 @@ MentalTrait:
 Race: ElfWood
 Location: Restwell Keep
 Age: Young Adult
+AssociatedGroup:
+  - Ironleaf Trading Company
 ---
 
 > [!infobox]

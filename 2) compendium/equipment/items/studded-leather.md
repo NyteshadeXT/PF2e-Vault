@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/crb
-- item/category/armor/light
-aliases: ["Studded Leather"]
+  - compendium/src/pf2e/crb
+  - item/category/armor/light
+aliases:
+  - Studded Leather
+Source: Core Rule Book
 ---
 # Studded Leather *Item 0*  
 

@@ -2,11 +2,13 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/tv
-- item/category/armor/heavy
-- trait/bulwark
-- trait/laminar
-aliases: ["O-yoroi"]
+  - compendium/src/pf2e/tv
+  - item/category/armor/heavy
+  - trait/bulwark
+  - trait/laminar
+aliases:
+  - O-yoroi
+Source: Treasure Vault
 ---
 # O-yoroi *Item 2*  
 [bulwark](rules/traits/bulwark.md "Bulwark Armor Trait")  [laminar](rules/traits/laminar-tv.md "Laminar Armor Trait")  

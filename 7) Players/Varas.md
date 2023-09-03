@@ -5,5 +5,7 @@ modifier: 11
 level: 5
 Player_Name: Kev
 Alignment: N
+Class: Swashbuckler
+NoteIcon: PC
 ---
 ![[Veras.webp]]

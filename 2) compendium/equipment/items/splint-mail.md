@@ -2,9 +2,11 @@
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
 tags:
-- compendium/src/pf2e/crb
-- item/category/armor/heavy
-aliases: ["Splint Mail"]
+  - compendium/src/pf2e/crb
+  - item/category/armor/heavy
+aliases:
+  - Splint Mail
+Source: Core Rule Book
 ---
 # Splint Mail *Item 1*  
 
