@@ -321,8 +321,6 @@ creatures:
 
 The guards’ barracks are simple but functional.
 
-Monsters: 1 hobgoblin commander (Vrilke), 4 hobgoblin battle guards.
-
 When the characters enter the barracks, read:
 > [!note]+ Read Aloud
 > This large, stone-walled chamber is dotted with ratty mattresses, piles of straw, and other detritus. The walls are smeared with stains and etched with strange lettering. 

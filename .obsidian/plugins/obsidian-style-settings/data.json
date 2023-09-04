@@ -9,8 +9,8 @@
   "ITS-AT@@mini": false,
   "ITS-AT@@its-d": false,
   "ITS-AT@@paper": false,
-  "ITS@@select": "pathfinder",
-  "ITS@@slrvb-b": false,
+  "ITS@@select": "none",
+  "ITS@@slrvb-b": true,
   "ITS@@slrvb-g": false,
   "ITS@@s-d": false,
   "ITS@@t-d": false,
@@ -40,5 +40,6 @@
   "supercharged-links@@0ac0-4873-before": "🧑‍🌾",
   "supercharged-links@@c45a-822c-color": "#9957FF",
   "supercharged-links@@c45a-822c-before": "☠️",
-  "ITS@@radius-s": 0
+  "ITS@@radius-s": 0,
+  "ITS@@font-text-size": 16
 }

@@ -1,8 +1,8 @@
 ---
-hp: 75
-ac: 23
+hp: 88
+ac: 24
 modifier: 12
-level: 5
+level: 6
 Player_Name: Steve
 Alignment: LN
 ---
