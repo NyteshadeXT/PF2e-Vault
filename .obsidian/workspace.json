@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/2H - Slaark's Crown (D220).md",
+                "file": "8) Adventures/3A - The Crawling Fane (D178).md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 328.5
   },
   "right": {
     "id": "e19cced9a0292528",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8) Adventures/2H - Slaark's Crown (D220).md",
+                "file": "8) Adventures/3A - The Crawling Fane (D178).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8) Adventures/2H - Slaark's Crown (D220).md"
+                "file": "8) Adventures/3A - The Crawling Fane (D178).md"
               }
             }
           },
@@ -156,6 +156,16 @@
               "type": "inline-scripts-button-view",
               "state": {}
             }
+          },
+          {
+            "id": "b07539ed0609da64",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 5
@@ -200,67 +210,34 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "20cc0e6d90e42a5e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5ac95c1573a175b6",
-        "type": "window",
-        "children": [
-          {
-            "id": "e83643ccf1b96cf4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7e6c3d51ea36397f",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-player-view",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1536,
-        "y": 0,
-        "width": 768,
-        "height": 672,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "43f15fa75939e900",
   "lastOpenFiles": [
-    "4) Bestiary/trouble-in-otari/hobgoblin-warrior.md",
+    "6) NPCs/Restwell Keep/Gorn Hammerfall.md",
+    "8) Adventures/3A - The Crawling Fane (D178).md",
+    "5) World/Chaos Scar - GM View.md",
+    "8) Adventures/2F - The Lost Library (D173).md",
+    "5) World/Chaos Scar - Player View.md",
+    "8) Adventures/3B - The Splintered Spring (D179).md",
     "8) Adventures/2H - Slaark's Crown (D220).md",
+    "8) Adventures/2G - The Crossroads (D176).md",
+    "8) Adventures/2E - Down the Goblin Hole (D280).md",
+    "5) World/Restwell Rumors.md",
+    "6) NPCs/Restwell Keep/Ailwin.md",
+    "5) World/Restwell Jobs.md",
+    "5) World/Abandoned Shrine of Moradin.md",
+    "4) Bestiary/bestiary-1/doppelganger.md",
+    "4) Bestiary/bestiary-1/barbazu.md",
+    "4) Bestiary/bestiary-1/hobgoblin-general.md",
+    "8) Adventures/2D - The Hammer Falls (D179).md",
+    "2) compendium/equipment/items/1A_Add_New_Items.md",
+    "magma-hammer.md",
+    "2) compendium/gm/hazards/scythe-blades.md",
+    "4) Bestiary/trouble-in-otari/hobgoblin-warrior.md",
     "7) Players/Winter.md",
     "7) Players/Varas.md",
     "7) Players/Mordak.md",
     "7) Players/Cassandra.md",
     "5) World/Wellspring Map.md",
-    "4) Bestiary/bestiary-1/hobgoblin-general.md",
-    "8) Adventures/1J - The Kobold Hall (DMG).md",
-    "7) Players/Zeta.md",
-    "8) Adventures/3B - The Splintered Spring (D179).md",
-    "8) Adventures/3C - The Wayward Wyrmling (D182).md",
-    "8) Adventures/4A - Glowstone Caverns (D177).md",
-    "4) Bestiary/bestiary-1/goblin-warrior.md",
-    "8) Adventures/2D - The Hammer Falls (D179).md",
-    "1) Scratch Notes/Untitled.md",
-    "1) Scratch Notes/Notes.md",
-    "1) Scratch Notes/Untitled 1.md",
-    "6) NPCs/Crossroads/Fulgrim.md",
-    "support/inlineScripts/notepick.sfile.md",
-    "2) Compendium/spells/spells.md",
-    "2) Compendium/spells/rituals/rituals.md",
-    "support/inlineScripts/InlineScript_FolderPickers.md",
-    "2) Compendium/spells/aberrant-form-som.md",
-    "2) Compendium/equipment/items/accursed-staff-tv.md",
-    "support/inlineScripts/system.sfile.md",
     "zz-Attachments/Database1.laccdb",
     "zz-Attachments/Database1.accdb",
     "zz-Attachments/~$elyn Kroening Resume.docx",

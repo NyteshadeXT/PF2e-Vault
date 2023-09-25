@@ -1,6 +1,6 @@
 Here are a bunch of rumors for the Chaos Scar. Some are just general rumors, some are linked to specific adventures. They ascend in order of adventure difficulty. Roll a 1d50. I'd say let each member of the party hear a rumor when they start and then let the party hear up to three more per adventure they complete.
 
-1.  [[[[Lord Drysdale]] is planning to convert everyone in Restwell Keep to the worship of Waukeen. If they don’t agree they’ll be exiled into the Scar!
+1.  [[Lord Drysdale]] is planning to convert everyone in Restwell Keep to the worship of Waukeen. If they don’t agree they’ll be exiled into the Scar!
 2.  ~~We regular folk don’t mean anything to Drysdale. He intends to just use Restwell Keep as a military base to retake the Scar.~~
 3.  Some of the Blades are still around and they’re more than eager to get revenge on [[Lord Drysdale]].
 4.  [[Gorn Hammerfall]], the Captain of the Guard, has found a forgotten secret chamber with his stone cunning. It contains Greysen Ramthane’s hidden treasure!

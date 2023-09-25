@@ -3,5 +3,6 @@
   "attachmentFolderPath": "zz-Attachments",
   "alwaysUpdateLinks": true,
   "readableLineLength": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "promptDelete": false
 }
