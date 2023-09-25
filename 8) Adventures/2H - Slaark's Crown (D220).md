@@ -531,7 +531,7 @@ creatures:
 - 1: [[King Slaark, 70, 18, 12]]
 - 2: [[Hobgoblin Warrior]]
 - 1: [[Hobgoblin Archer]]
-- 1: [[doppelganger|Doppelganger]]
+- 1: [[Doppelganger]]
 - 2: [[Barbazu]]
 ```
 
