@@ -296,7 +296,7 @@ filters:
   enabled: true
   conditions:
       - condition: OR
-        disabled: false
+        disabled: true
         label: "Basic_Armors"
         color: "hsl(238,95%,70%)"
         filters:

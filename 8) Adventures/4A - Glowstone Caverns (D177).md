@@ -93,14 +93,8 @@ If the fight is going poorly (more than half the defenders are down, or the glow
 
 **Flowstone Ledges:** These are 5 feet high, with the exception of the larger ledge to the east, which has a 10-foot-high ridge on one side. Moving into a higher square costs 2 squares of movement. Creatures on a ledge gain a +1 bonus to melee and ranged attack rolls against lower enemies. A creature on top of the 10-foot-high ridge is not considered adjacent to a creature at ground level.
 
-**Treasure:** The hexer carries a staff sheathed in glowmetal. This functions as a +1 magic staff but is tainted by the influence of the meteorite. The first time in an encounter that the staff’s wielder uses an arcane attack power through it, he or she must make a DC 12 Endurance check. If the check fails, the wielder gains an unsightly disfigurement. If the check fails by 5 or more, the wielder’s mind is strained by the weird emanations of the glowmetal. He or she takes a permanent –1 penalty to Will defense; this penalty is cumulative with each such failure. A single Remove Affliction ritual removes all disfigurements and penalties. The hexer also possesses a madstone, a treated nodule of glowmetal.
-
-
-
-
-
-
-
+> [!tip]+ Treasure
+> The hexer carries a staff sheathed in [[glowmetal-weapon-hb|Glowmetal Staff]]. This functions as a +1 magic staff but is tainted by the influence of the meteorite. The hexer also possesses a [[madstone-hb|Madstone]], a treated nodule of glowmetal.
 
 # Encounter 2 - Bat Cave
 **Encounter Difficulty:** Moderate (90 xp)
