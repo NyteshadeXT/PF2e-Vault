@@ -162,8 +162,8 @@
   "unconsciousId": "Unconscious",
   "version": [
     12,
-    1,
-    2
+    2,
+    4
   ],
   "canUseDiceRoll": false,
   "preferStatblockLink": false,
@@ -185,7 +185,7 @@
         "currentAC": 24,
         "note": "Mordak",
         "path": "7) Players/Mordak.md",
-        "id": "ID_c909f9bb8a1a",
+        "id": "ID_a90a9b9abb4a",
         "currentHP": 71,
         "tempHP": 0,
         "status": [],
@@ -207,7 +207,7 @@
         "currentAC": 23,
         "note": "Winter",
         "path": "7) Players/Winter.md",
-        "id": "ID_e97bc97b0afb",
+        "id": "ID_ea48ca08fa4b",
         "currentHP": 62,
         "tempHP": 0,
         "status": [],
@@ -229,7 +229,7 @@
         "currentAC": 24,
         "note": "Varas",
         "path": "7) Players/Varas.md",
-        "id": "ID_68a9a8dab838",
+        "id": "ID_29b92a283839",
         "currentHP": 72,
         "tempHP": 0,
         "status": [],
@@ -251,7 +251,7 @@
         "currentAC": 22,
         "note": "Cassandra",
         "path": "7) Players/Cassandra.md",
-        "id": "ID_28d9d88aab98",
+        "id": "ID_79b8a9880a79",
         "currentHP": 56,
         "tempHP": 0,
         "status": [],
@@ -273,7 +273,7 @@
         "currentAC": 17,
         "note": "Zeta",
         "path": "7) Players/Zeta.md",
-        "id": "ID_6b8879d81858",
+        "id": "ID_c9d91a98caf9",
         "currentHP": 20,
         "tempHP": 0,
         "status": [],
@@ -458,5 +458,6 @@
       ]
     }
   },
+  "rollPlayerInitiatives": 0,
   "leafletIntegration": false
 }

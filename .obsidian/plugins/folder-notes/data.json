@@ -45,5 +45,6 @@
     "enabled": false,
     "explorer": true,
     "path": true
-  }
+  },
+  "settingsTab": "general"
 }
