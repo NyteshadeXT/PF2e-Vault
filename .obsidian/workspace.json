@@ -134,22 +134,6 @@
             }
           },
           {
-            "id": "bf8d0cd987bb8ab9",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
-            "id": "cb22956251717e34",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
-          },
-          {
             "id": "9132fc060f3dc26e",
             "type": "leaf",
             "state": {
@@ -166,16 +150,32 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "c2a1d06d5117a7de",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "a1f6eb5480fd0a19",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       },
       {
-        "id": "ed9d9ea312d1ee70",
+        "id": "5825b4c8d716caf4",
         "type": "tabs",
         "children": [
           {
-            "id": "20d154d8d741cb72",
+            "id": "0c25ce5f8b9d08f8",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-creature-view",
@@ -186,11 +186,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 477.5
+    "width": 476.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "dbfolder:Create a new database table": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -203,22 +202,60 @@
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "obsidian42-brat:BRAT": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-import-json:JSON/CSV Importer": false,
+      "templater-obsidian:Templater": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "calendarium:Open Calendarium": false
     }
   },
+  "floating": {
+    "id": "88023d2fcf9fd152",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2e237f33cc291102",
+        "type": "window",
+        "children": [
+          {
+            "id": "fef62ab68df9bdac",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9ebfb0fdbde34e72",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2176,
+        "y": 0,
+        "width": 640,
+        "height": 672,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "43f15fa75939e900",
   "lastOpenFiles": [
-    "6) NPCs/Restwell Keep/Gorn Hammerfall.md",
+    "2) compendium/equipment/items/1A_Add_New_Items.md",
     "8) Adventures/3A - The Crawling Fane (D178).md",
-    "5) World/Chaos Scar - GM View.md",
-    "8) Adventures/2F - The Lost Library (D173).md",
-    "5) World/Chaos Scar - Player View.md",
-    "8) Adventures/3B - The Splintered Spring (D179).md",
     "8) Adventures/2H - Slaark's Crown (D220).md",
+    "3) Rules/core-rulebook/core-rulebook.md",
+    "2) compendium/feats/feats.md",
+    "2) compendium/gm/hazards/hazards.md",
+    "5) World/Chaos Scar - GM View.md",
+    "5) World/Chaos Scar - Player View.md",
+    "6) NPCs/Restwell Keep/Gorn Hammerfall.md",
+    "8) Adventures/2F - The Lost Library (D173).md",
+    "8) Adventures/3B - The Splintered Spring (D179).md",
     "8) Adventures/2G - The Crossroads (D176).md",
     "8) Adventures/2E - Down the Goblin Hole (D280).md",
     "5) World/Restwell Rumors.md",
@@ -229,15 +266,11 @@
     "4) Bestiary/bestiary-1/barbazu.md",
     "4) Bestiary/bestiary-1/hobgoblin-general.md",
     "8) Adventures/2D - The Hammer Falls (D179).md",
-    "2) compendium/equipment/items/1A_Add_New_Items.md",
     "magma-hammer.md",
     "2) compendium/gm/hazards/scythe-blades.md",
     "4) Bestiary/trouble-in-otari/hobgoblin-warrior.md",
     "7) Players/Winter.md",
     "7) Players/Varas.md",
-    "7) Players/Mordak.md",
-    "7) Players/Cassandra.md",
-    "5) World/Wellspring Map.md",
     "zz-Attachments/Database1.laccdb",
     "zz-Attachments/Database1.accdb",
     "zz-Attachments/~$elyn Kroening Resume.docx",

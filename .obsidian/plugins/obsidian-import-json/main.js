@@ -20946,7 +20946,7 @@ var JsonImport = class extends import_obsidian.Plugin {
       this.namepath = settings.jsonNamePath;
       const compileoptions = { noEscape: true };
       let templatetext = yield templatefile.text();
-      let template = handlebars.compile(templatetext);
+      let template = handlebars.compile(templatetext, compileoptions);
       handlebars.registerHelper("table", this.hb_table);
       handlebars.registerHelper("substring", this.hb_substring);
       handlebars.registerHelper("strarray", this.hb_strarray);

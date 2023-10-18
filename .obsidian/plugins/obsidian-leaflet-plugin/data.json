@@ -1639,11 +1639,11 @@
   "long": -82.98333,
   "notePreview": true,
   "layerMarkers": true,
-  "previousVersion": "5.7.3",
+  "previousVersion": "5.8.0",
   "version": {
     "major": 5,
-    "minor": 7,
-    "patch": 3
+    "minor": 8,
+    "patch": 0
   },
   "warnedAboutMapMarker": false,
   "copyOnClick": false,
