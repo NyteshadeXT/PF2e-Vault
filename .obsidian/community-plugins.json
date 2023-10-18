@@ -11,18 +11,15 @@
   "image-window",
   "consistent-attachments-and-links",
   "obsidian-text-format",
-  "folder-note-plugin",
   "obsidian-style-settings",
-  "text-mapper",
   "obsidian-5e-statblocks",
-  "dbfolder",
   "global-search-and-replace",
   "templater-obsidian",
-  "obsidian-textgenerator-plugin",
-  "fantasy-content-generator",
-  "obsidian42-brat",
   "calendarium",
   "obsidian-import-json",
   "supercharged-links-obsidian",
-  "obsidian-text-expander-js"
+  "obsidian-text-expander-js",
+  "dbfolder",
+  "folder-notes",
+  "image-converter"
 ]
