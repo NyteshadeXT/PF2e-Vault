@@ -36,8 +36,6 @@ abilities_top:
 abilities_bot:
   - name: "Magma Scorpion Venom"
     desc: " ([[fire]], [[injury]], [[poison]]);  __Saving Throw__ DC 26 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) fire damage and [[rules/conditions.md#Enfeebled|enfeebled 1]] (1 round) __Stage 2__ 3d6 (3d6) fire damage and [[rules/conditions.md#Enfeebled|enfeebled 2]] (1 round)"
-  - name: "Elemental, Mephit"
-    desc: "  Mephits are small, weak creatures that serve at the whims of other elemental entities. The mephits presented here are less common than air mephits, earth mephits, and the like, as they are a blend of two different elements rather than focusing on one alone."
 
 speed: 40 feet, climb 30 feet
 

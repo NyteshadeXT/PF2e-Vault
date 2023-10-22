@@ -99,7 +99,7 @@ With half the room in shadow, the duergar scouts both use underdark sneak whenev
 The duergar prefer to snipe at heroes with their crossbows while invisible and save their infernal quills to hamper the attacks of enemies with powerful melee attacks. The scouts use underdark sneak as often as they are able, sticking to the shadows and staying close to a table or a bed. If forced into melee, the duergar switch to their warhammers and double-team injured characters. 
 
 ## Development 
-A web lurker is stationed in the hallway beyond the ironbound doors (see tactical encounter [[04) The Hall of Honored Dead]] for details). It is reasonably alert (Perception +9) but not especially inquisitive. Make a [[skills#perception|Perception]] check (DC 22) for this web lurker at the start of each combat round, beginning with round 2. If the check succeeds three times, the web lurker finally grows curious and comes to investigate the noises from this room, which draws the creatures from area 04 into this fight. 
+A web lurker is stationed in the hallway beyond the ironbound doors (see tactical encounter below for details). It is reasonably alert (Perception +9) but not especially inquisitive. Make a [[skills#perception|Perception]] check (DC 22) for this web lurker at the start of each combat round, beginning with round 2. If the check succeeds three times, the web lurker finally grows curious and comes to investigate the noises from this room, which draws the creatures from area 04 into this fight. 
 
 Once the fight ends, characters can examine the room. 
 
@@ -128,7 +128,7 @@ The ironbound doors are thick and heavy but unlocked.
 # Encounter 3 - The Hall of Honored Dead
 ![[Pasted image 20230726090249.png]]
 
-**Encounter Difficulty:** Low (60 xp)
+**Encounter Difficulty:** Low (120 xp)
 Creatures:
  - 2: [[ogre-spider|Ogre Spider]] S
  - 1: [[web-lurker|Web Lurker]] E
@@ -181,7 +181,7 @@ If the heroes complete either or both of the skill challenges, they can then ope
 > [!note]+ Read Aloud
 > The heavy lid of the sarcophagus slides away with a gentle push, revealing the body of a dwarven warrior dressed in crumbling, rust-pitted chainmail. Despite the decrepit state of the corpse’s armor and clothing, the stout warhammer lying across its skeletal chest looks as new as the day it was forged. 
 
-The hammer’s head is shaped like an anvil and the steel gleams with a bluish tint. The Hammer of Ivak Stoneblood is a +1 [[striking|Striking]] [[devilblind|Devilblind]] warhammer.
+The hammer’s head is shaped like an anvil and the steel gleams with a bluish tint. The Hammer of Ivak Stoneblood is [[orders-covenant|Order's Covenant]]
 
 ## Features of the Area 
 **Illumination:** The pool provides dim illumination to the entire room. 

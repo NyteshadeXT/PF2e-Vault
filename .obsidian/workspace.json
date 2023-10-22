@@ -8,11 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b55b04b15d34bee",
+            "id": "644415228988d474",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "8) Adventures/Halloween 2023 One-Shot.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "83dbd3d35759bacc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2) Compendium/equipment/items/happy-healper.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -65,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 349.5
   },
   "right": {
     "id": "528e4a3e6d8992cc",
@@ -81,6 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "8) Adventures/Halloween 2023 One-Shot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "8) Adventures/Halloween 2023 One-Shot.md"
+              }
             }
           },
           {
@@ -150,15 +171,26 @@
               "type": "inline-scripts-button-view",
               "state": {}
             }
+          },
+          {
+            "id": "8c043baedb785e55",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 449.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "templater-obsidian:Templater": false,
@@ -173,6 +205,43 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0b55b04b15d34bee",
-  "lastOpenFiles": []
+  "active": "644415228988d474",
+  "lastOpenFiles": [
+    "2) Compendium/equipment/relic-gifts/megaflora.md",
+    "2) Compendium/equipment/items/happy-healper.md",
+    "2) Compendium/equipment/items/wayfinder.md",
+    "2) Compendium/equipment/items/wand-of-overflowing-life-apg.md",
+    "2) Compendium/equipment/items/wand-of-pernicious-poison-tv.md",
+    "2) Compendium/equipment/items/robe-of-the-archmagi.md",
+    "2) Compendium/equipment/items/ringmasters-staff-ec2.md",
+    "2) Compendium/equipment/items/ring-of-the-weary-traveler-fop.md",
+    "2) Compendium/equipment/items/ring-of-stoneshifting-ec3.md",
+    "2) Compendium/equipment/items/ring-of-spell-turning.md",
+    "2) Compendium/equipment/items/power-suit-g-g.md",
+    "2) Compendium/equipment/items/powder-lotgb.md",
+    "2) Compendium/equipment/items/potion-of-shared-memories-apg.md",
+    "2) Compendium/equipment/items/portable-hole-tv.md",
+    "2) Compendium/equipment/items/potion-of-retaliation-apg.md",
+    "2) Compendium/equipment/items/potion-of-shared-life-som.md",
+    "2) Compendium/equipment/items/ablative-armor-plating-g-g.md",
+    "2) Compendium/equipment/items/abadars-flawless-scale-logm.md",
+    "2) Compendium/equipment/items/items.md",
+    "2) Compendium/2) Compendium.md",
+    "8) Adventures/Halloween 2023 One-Shot.md",
+    "4) Bestiary/bestiary-2/magma-scorpion.md",
+    "8) Adventures/The Trial of Balance.md",
+    "2) Compendium/equipment/items/tempered-harmony.md",
+    "2) Compendium/equipment/relic-gifts/relic-gifts.md",
+    "2) Compendium/equipment/relic-gifts/rolling-geode.md",
+    "zz-Attachments/Tempered Harmony.jpg",
+    "zz-Attachments/Tempered Harmony.jpg.crdownload",
+    "zz-Attachments/Order's Covenant.jpg",
+    "2) Compendium/equipment/relic-gifts",
+    "rules/traits",
+    "rules",
+    "zz-Attachments/Ember Wolf.jpg",
+    "zz-Attachments/Pumpkin Queen Scorpion.jpg",
+    "zz-Attachments/The Pumpkin Queen.png",
+    "zz-Attachments/Pumpkin Queen's Realm.png"
+  ]
 }
