@@ -222,7 +222,7 @@ Hargash’s loud, monotonous chanting makes it difficult for his minions to hear
 
 When the characters enter this room, read: 
 > [!note]+ Read Aloud
-> This cavernous chapel is dominated by a towering statue originally crafted as a representation of the dwarven deity Moradin. It has been crudely transformed into an image of the bizarre insect deity you’ve seen throughout the temple. Smaller statues of dwarven gods and heroes, similarly disfigured, stand against the walls. Four basins on raised platforms stand in the four corners of the chapel. A rubblechoked passage leads away to the north. 
+> This cavernous chapel is dominated by a towering statue originally crafted as a representation of the dwarven deity Moradin. It has been crudely transformed into an image of the bizarre insect deity you’ve seen throughout the temple. Smaller statues of dwarven gods and heroes, similarly disfigured, stand against the walls. Four basins on raised platforms stand in the four corners of the chapel. A rubble choked passage leads away to the north. 
 > 
 > Kneeling before the great statue of the insect god is a stout duergar in green robes. He is flanked by pair of scorpions the size of wolves, and a monstrous spider clings to the towering statue above him. Another duergar arrayed in chainmail and armed with a maul stands protectively at his back. The kneeling duergar is praying loudly in grotesque utterances of some unholy language. 
 

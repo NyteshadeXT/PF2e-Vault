@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/Halloween 2023 One-Shot.md",
-                "mode": "source",
+                "file": "8) Adventures/3A - The Crawling Fane (D178).md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -24,13 +24,8 @@
             "id": "83dbd3d35759bacc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2) Compendium/equipment/items/happy-healper.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8) Adventures/Halloween 2023 One-Shot.md",
+                "file": "8) Adventures/3A - The Crawling Fane (D178).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8) Adventures/Halloween 2023 One-Shot.md"
+                "file": "8) Adventures/3A - The Crawling Fane (D178).md"
               }
             }
           },
@@ -182,6 +177,20 @@
           }
         ],
         "currentTab": 7
+      },
+      {
+        "id": "03a00bc5ee545041",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "139ba3562e540a45",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,6 +216,7 @@
   },
   "active": "644415228988d474",
   "lastOpenFiles": [
+    "8) Adventures/Halloween 2023 One-Shot.md",
     "2) Compendium/equipment/relic-gifts/megaflora.md",
     "2) Compendium/equipment/items/happy-healper.md",
     "2) Compendium/equipment/items/wayfinder.md",
@@ -227,7 +237,6 @@
     "2) Compendium/equipment/items/abadars-flawless-scale-logm.md",
     "2) Compendium/equipment/items/items.md",
     "2) Compendium/2) Compendium.md",
-    "8) Adventures/Halloween 2023 One-Shot.md",
     "4) Bestiary/bestiary-2/magma-scorpion.md",
     "8) Adventures/The Trial of Balance.md",
     "2) Compendium/equipment/items/tempered-harmony.md",

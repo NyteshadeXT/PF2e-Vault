@@ -4,10 +4,10 @@
     "DEFAULT": {
       "hosts": {
         "Kyle_Laptop": {
-          "x": 1675,
-          "y": -16,
-          "width": 7442,
-          "height": 3941,
+          "x": 1536,
+          "y": 0,
+          "width": 3072,
+          "height": 1612,
           "fullscreen": false,
           "maximized": false
         },
