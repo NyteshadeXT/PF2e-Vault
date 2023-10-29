@@ -253,4 +253,4 @@ The giant scorpions attack the closest heroes in melee, relentlessly biting and 
 **Statues:** The statues are blocking terrain and provide cover to adjacent creatures.
 
 > [!tip]+ Treasure
-> Hidden in the rubble at the back of the round PCs can find 67 gp, [[imp-shot-tv|Imp Shot]], [[wind-ocarina-tv|Wind Ocarina]], [[bloodhound-olfactory-stimulators-tv|Bloodhound Olfactory Stimulators]] and [[fulu-of-the-stoic-ox-som|Fulu Of The Stoic Ox]].
+> Hidden in the rubble at the back of the round PCs can find 67 gp, [[wind-ocarina-tv|Wind Ocarina]], [[bloodhound-olfactory-stimulators-tv|Bloodhound Olfactory Stimulators]] and [[fulu-of-the-stoic-ox-som|Fulu Of The Stoic Ox]].

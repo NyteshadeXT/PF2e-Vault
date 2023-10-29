@@ -21,5 +21,6 @@
   "obsidian-text-expander-js",
   "dbfolder",
   "folder-notes",
-  "image-converter"
+  "image-converter",
+  "obsidian-meta-bind-plugin"
 ]

@@ -62,7 +62,9 @@ When the characters arrive back at the portal, read:
 
 The players will be allowed to open only two of the jack-o-lanterns.  When the second is opened the third will explode and shower the party in pumpkin.  Within each are the PC's treat for playing with the Queen.  The faces will give the players a clue about if they are really getting a treat or if they have been tricked yet again.  
 
-[[happy-healper|Happy Healper]]
+[[happy-healper-hb|Happy Healper]]
 
 > [!tip]+ Treasure
-> Found in the dolgaunt's lair is an [[ethersight-ring-aoe2|Ethersight Ring]], a [[copper-penny-tv|Copper Penny]], [[etheric-essence-disruptor-g-g|Etheric Essence Disruptor]], [[eagle-eye-elixir|Eagle Eye Elixer]], a [[beckoning-cat-amulet-ec2|Beckoning Cat Amulet]], 9 pp and 78 gp.
+> First have the players roll a d6 with the following results 1-2: [[andvaris-gift-hb|Andvari's Gift]], 3-4: [[levithans-prism-hb|Levithan's Prism]], 5-6: [[happy-healper-hb|Happy Healper]].
+> 
+> Then have them roll a d4 with remaining two items.

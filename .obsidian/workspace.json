@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/3A - The Crawling Fane (D178).md",
+                "file": "8) Adventures/-- Campaign Notes.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -24,11 +24,17 @@
             "id": "83dbd3d35759bacc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DC_Calculators.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 351.5
   },
   "right": {
     "id": "528e4a3e6d8992cc",
@@ -94,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8) Adventures/3A - The Crawling Fane (D178).md",
+                "file": "DC_Calculators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,16 +133,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8) Adventures/3A - The Crawling Fane (D178).md"
+                "file": "DC_Calculators.md"
               }
-            }
-          },
-          {
-            "id": "4bc791c097c65c0b",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
             }
           },
           {
@@ -174,9 +172,17 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
+          },
+          {
+            "id": "7474f8ca244a02e6",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       },
       {
         "id": "03a00bc5ee545041",
@@ -199,10 +205,8 @@
   "left-ribbon": {
     "hiddenItems": {
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "templater-obsidian:Templater": false,
       "obsidian-import-json:JSON/CSV Importer": false,
       "dbfolder:Create a new database table": false,
       "switcher:Open quick switcher": false,
@@ -211,37 +215,43 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "644415228988d474",
+  "active": "83dbd3d35759bacc",
   "lastOpenFiles": [
+    "DC_Calculator.md",
+    "DC_Calculators.md",
+    "2) Compendium/equipment/items/items.md",
+    "4) Bestiary/adventure-paths/adventure-paths.md",
+    "4) Bestiary/adventures/adventures.md",
+    "4) Bestiary/adventures/trouble-in-otari/trouble-in-otari.md",
+    "4) Bestiary/trouble-in-otari/trouble-in-otari.md",
+    "4) Bestiary/adventures/fall-of-plaguestone/fall-of-plaguestone.md",
+    "4) Bestiary/adventures/crown-of-the-kobold-king/crown-of-the-kobold-king.md",
+    "4) Bestiary/bestiary-1/bestiary-1.md",
+    "4) Bestiary/bestiary-2/bestiary-2.md",
+    "4) Bestiary/bestiary-3/bestiary-3.md",
+    "4) Bestiary/gm-guide/gm-guide.md",
+    "4) Bestiary/book-of-the-dead/book-of-the-dead.md",
     "8) Adventures/Halloween 2023 One-Shot.md",
-    "2) Compendium/equipment/relic-gifts/megaflora.md",
-    "2) Compendium/equipment/items/happy-healper.md",
-    "2) Compendium/equipment/items/wayfinder.md",
-    "2) Compendium/equipment/items/wand-of-overflowing-life-apg.md",
-    "2) Compendium/equipment/items/wand-of-pernicious-poison-tv.md",
-    "2) Compendium/equipment/items/robe-of-the-archmagi.md",
-    "2) Compendium/equipment/items/ringmasters-staff-ec2.md",
-    "2) Compendium/equipment/items/ring-of-the-weary-traveler-fop.md",
+    "2) Compendium/equipment/items/andvaris-gift-hb.md",
+    "zz-Attachments/Andvari's Gift.png",
+    "zz-Attachments/Andvaranaut.png",
+    "2) Compendium/equipment/items/anchor-spear-ec5.md",
+    "2) Compendium/equipment/items/anchoring-lotgb.md",
+    "2) Compendium/equipment/items/hat-of-disagreeable-disguise-tv.md",
+    "2) Compendium/equipment/items/ring-of-the-ram.md",
+    "2) Compendium/equipment/items/ring-of-swimming.md",
+    "2) Compendium/equipment/items/ring-of-sustenance.md",
     "2) Compendium/equipment/items/ring-of-stoneshifting-ec3.md",
     "2) Compendium/equipment/items/ring-of-spell-turning.md",
-    "2) Compendium/equipment/items/power-suit-g-g.md",
-    "2) Compendium/equipment/items/powder-lotgb.md",
-    "2) Compendium/equipment/items/potion-of-shared-memories-apg.md",
-    "2) Compendium/equipment/items/portable-hole-tv.md",
-    "2) Compendium/equipment/items/potion-of-retaliation-apg.md",
-    "2) Compendium/equipment/items/potion-of-shared-life-som.md",
-    "2) Compendium/equipment/items/ablative-armor-plating-g-g.md",
-    "2) Compendium/equipment/items/abadars-flawless-scale-logm.md",
-    "2) Compendium/equipment/items/items.md",
-    "2) Compendium/2) Compendium.md",
-    "4) Bestiary/bestiary-2/magma-scorpion.md",
-    "8) Adventures/The Trial of Balance.md",
-    "2) Compendium/equipment/items/tempered-harmony.md",
-    "2) Compendium/equipment/relic-gifts/relic-gifts.md",
-    "2) Compendium/equipment/relic-gifts/rolling-geode.md",
+    "2) Compendium/equipment/items/ring-of-sneering-charity-da.md",
+    "2) Compendium/equipment/items/ring-of-recalcitrant-wishes-aoe6.md",
+    "zz-Attachments/Levithan's Prism.png",
+    "zz-Attachments/Happy Healper.png",
     "zz-Attachments/Tempered Harmony.jpg",
     "zz-Attachments/Tempered Harmony.jpg.crdownload",
     "zz-Attachments/Order's Covenant.jpg",
