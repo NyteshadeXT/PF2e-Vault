@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/-- Campaign Notes.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "83dbd3d35759bacc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DC_Calculators.md",
+                "file": "8) Adventures/3A - The Crawling Fane (D178).md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,6 +79,7 @@
       {
         "id": "40377c945e930c27",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "1658732a03675fa1",
@@ -100,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DC_Calculators.md",
+                "file": "8) Adventures/3A - The Crawling Fane (D178).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DC_Calculators.md"
+                "file": "8) Adventures/3A - The Crawling Fane (D178).md"
               }
             }
           },
@@ -174,7 +161,7 @@
             }
           },
           {
-            "id": "7474f8ca244a02e6",
+            "id": "4b1c7e557454573b",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -187,6 +174,7 @@
       {
         "id": "03a00bc5ee545041",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "139ba3562e540a45",
@@ -220,10 +208,52 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "83dbd3d35759bacc",
+  "floating": {
+    "id": "8d9378b9ea992f05",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c7d590eafb1aef38",
+        "type": "window",
+        "children": [
+          {
+            "id": "c07746d373c5fcc0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "016cf49cb573c01f",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2176,
+        "y": 0,
+        "width": 642,
+        "height": 672,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "644415228988d474",
   "lastOpenFiles": [
-    "DC_Calculator.md",
+    "2) compendium/equipment/items/andvaris-gift-hb.md",
+    "Untitled.md",
+    "8) Adventures/Halloween 2023 One-Shot.md",
+    "8) Adventures/3A - The Crawling Fane (D178).md",
+    "2) compendium/equipment/items/happy-healper-hb.md",
+    "2) compendium/equipment/items/levithans-prism-hb.md",
+    "4) Bestiary/bestiary-2/magma-scorpion.md",
+    "4) Bestiary/bestiary-1/winter-wolf.md",
+    "8) Adventures/-- Campaign Notes.md",
     "DC_Calculators.md",
+    "DC_Calculator.md",
     "2) Compendium/equipment/items/items.md",
     "4) Bestiary/adventure-paths/adventure-paths.md",
     "4) Bestiary/adventures/adventures.md",
@@ -236,20 +266,11 @@
     "4) Bestiary/bestiary-3/bestiary-3.md",
     "4) Bestiary/gm-guide/gm-guide.md",
     "4) Bestiary/book-of-the-dead/book-of-the-dead.md",
-    "8) Adventures/Halloween 2023 One-Shot.md",
     "2) Compendium/equipment/items/andvaris-gift-hb.md",
     "zz-Attachments/Andvari's Gift.png",
     "zz-Attachments/Andvaranaut.png",
     "2) Compendium/equipment/items/anchor-spear-ec5.md",
     "2) Compendium/equipment/items/anchoring-lotgb.md",
-    "2) Compendium/equipment/items/hat-of-disagreeable-disguise-tv.md",
-    "2) Compendium/equipment/items/ring-of-the-ram.md",
-    "2) Compendium/equipment/items/ring-of-swimming.md",
-    "2) Compendium/equipment/items/ring-of-sustenance.md",
-    "2) Compendium/equipment/items/ring-of-stoneshifting-ec3.md",
-    "2) Compendium/equipment/items/ring-of-spell-turning.md",
-    "2) Compendium/equipment/items/ring-of-sneering-charity-da.md",
-    "2) Compendium/equipment/items/ring-of-recalcitrant-wishes-aoe6.md",
     "zz-Attachments/Levithan's Prism.png",
     "zz-Attachments/Happy Healper.png",
     "zz-Attachments/Tempered Harmony.jpg",

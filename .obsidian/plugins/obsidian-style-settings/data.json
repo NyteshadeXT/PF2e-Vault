@@ -9,8 +9,8 @@
   "ITS-AT@@mini": false,
   "ITS-AT@@its-d": false,
   "ITS-AT@@paper": false,
-  "ITS@@select": "none",
-  "ITS@@slrvb-b": true,
+  "ITS@@select": "wotc-beyond",
+  "ITS@@slrvb-b": false,
   "ITS@@slrvb-g": false,
   "ITS@@s-d": false,
   "ITS@@t-d": false,
@@ -41,5 +41,6 @@
   "supercharged-links@@c45a-822c-color": "#9957FF",
   "supercharged-links@@c45a-822c-before": "☠️",
   "ITS@@radius-s": 0,
-  "ITS@@font-text-size": 16
+  "ITS@@font-text-size": 16,
+  "path2eblock@@statblock-theme-creature": "path2eblock-theme-default"
 }

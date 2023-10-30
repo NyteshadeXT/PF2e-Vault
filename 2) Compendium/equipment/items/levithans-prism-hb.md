@@ -11,6 +11,7 @@ aliases: ["Levithan's Prism"]
 ---
 # Levithan's Prism *Item 8*  
 ![[Levithan's Prism.png|right|400]]
+[[Levithan's Prism.png|Show to Players]]
 [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand

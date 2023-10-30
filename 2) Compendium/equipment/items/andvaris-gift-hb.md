@@ -4,14 +4,15 @@ cssclass: pf2e,pf2e-item
 tags:
 - compendium/src/pf2e/hb
 - item/category/worn/
-- trait/cursed
 - trait/divination
+- trait/cursed
 - trait/invested
 - trait/magical
 aliases: ["Andvari's Gift"]
 ---
 # Andvari's Gift *Item 8+*  
 ![[Andvari's Gift.png|right|500]]
+[[Andvari's Gift.png|Show to Players]]
 [cursed](rules/traits/cursed-gmg.md "Cursed Item Trait") [divination](rules/traits/evocation.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
 
 - **Bulk** —; **Usage** worn
