@@ -1,8 +1,8 @@
 ---
-hp: 56
-ac: 22
-modifier: 13
-level: 6
+hp: 64
+ac: 23
+modifier: 14
+level: 7
 Player_Name: Bob
 Alignment: CN
 Class: Sorcerer

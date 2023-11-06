@@ -10,6 +10,7 @@ aliases: ["Tempered Harmony"]
 ---
 # Tempered Harmony *Item 7+*  
 ![[Tempered Harmony.jpg|right|500]]
+[[Tempered Harmony.jpg|Show to Players]]
 [unique](rules/traits/unique.md "Unique Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [evocation](rules/traits/evocation.md "Evocation Item Trait")  [relic](rules/traits/relic.md "Relic Item Trait") 
 
 - **Aspects** earth and plant

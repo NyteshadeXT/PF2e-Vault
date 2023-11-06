@@ -10,6 +10,7 @@ aliases: ["Order's Covenant"]
 ---
 # Order's Covenant *Item 7+*  
 ![[Order's Covenant.jpg|left|350]]
+[[Order's Covenant.jpg|Show to Players]]
 [unique](rules/traits/unique.md "Unique Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [lawful](rules/traits/lawful.md "Lawful Item Trait")  [evocation](rules/traits/evocation.md "Evocation Item Trait")  [relic](rules/traits/relic.md "Relic Item Trait") 
 
 - **Aspects** law and battle
