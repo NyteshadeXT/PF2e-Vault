@@ -35,14 +35,14 @@ darkMode: false
 
 
 # Encounter 1 - Vestibule
-**Encounter Difficulty:** Moderate (90 xp)
+**Encounter Difficulty:** Moderate (95 xp)
 
 ![[Pasted image 20230830164356.png|right]]
 
 Creatures:
- - 4: [[goblin-enforcer|Goblin Enforcer]] W
- - 2: [[goblin-quickblade|Goblin Quickblade]] C
- - 1: [[vampire-bat-swarm|Vampire Bat Swarm]] M
+ - 4: [[hobgoblin-archer|Hobgoblin Archer]] W
+ - 2: [[hobgoblin-general|Hobgoblin General]] C
+ - 1: [[giant-bat|Giant Bat]] M
  - 1: Glowmetal Hexer H
 
 ```encounter
@@ -57,34 +57,34 @@ creatures:
 
 ![[Pasted image 20230830162729.png]]
 
-Sentinels and their trained bats guard the entrance to the goblin warren.
+Generals and their trained bats guard the entrance to the hobgoblin warren.
 
 Place the characters in any squares of the entrance tunnel.
 
 When the characters first enter the cavern, read:
 > [!note]+ Read Aloud
-> Spear-wielding goblins guard the entrance, while others armed with javelins are positioned on raised portions of the cavern floor. Toward the back of the cave is a swirling cloud of bats that partially obscure the figures behind it.
+> Glaive wielding hobgoblins guard the entrance, while others armed with bows are positioned on raised portions of the cavern floor. Toward the back of the cave are a pair of giant bats that partially obscure the figures behind it.
 
 When the characters first see the glowmetal hexer, read:
 > [!note]+ Read Aloud
-> A deformed-looking goblin raises a glowing metallic staff and utters arcane words.
+> A deformed-looking hobgoblin raises a glowing metallic staff and utters arcane words.
 > 
 > Arcana Check
 > **DC 10:** You feel uneasy, sensing that something is not quite right in this cavern.png 
 > **DC 15:** This area is permeated by emanations from the Far Realm.
 
-The goblins are alert and watching for intruders. They make active Perception checks against characters trying to use Stealth.
+The hobgoblins are alert and watching for intruders. They make active Perception checks against characters trying to use Stealth.
 
 If one or more characters have not been detected before they attack or enter the cave, the inhabitants are surprised.
 
 ## Tactics
-The vampire bat swarm is somewhat domesticated by the goblins and works with them in the fight. It swoops into enemies’ faces attacking at random. It looses an unearthly shriek against closely grouped enemies. If the swarm is reduced to 10 hit points or below and no goblins remain in the fight, it disperses as the bats scatter into the caverns. 
+The albino giant bats are somewhat domesticated by the hobgoblins and work with them in the fight. They swoops into enemies attacking at random. If reduced to 10 hit points or below and no hobgoblins remain in the fight, the bats scatter into the caverns. 
 
 The glowmetal hexer begins by using maddening cloud around allies and enemies near the entrance, moving it as needed to protect itself and allies during the fight. It then targets an enemy defender with stinging hex and directs its eye-eater hex against foes making ranged attacks. It uses its madstone when it first becomes bloodied, then retreats from a dangerous situation, using lead from the rear to place allies in the way of ranged attacks while it makes a getaway.
 
-The goblin quickblades try to stay out of melee, letting the bats confound their enemies while the goblins take pot shots. The enforcers attempt to gain combat advantage whenever possible.
+The hobgoblin archers try to stay out of melee, letting the bats confound their enemies while the hobgoblins take pot shots. The generals attempt to gain combat advantage whenever possible.
 
-If the fight is going poorly (more than half the defenders are down, or the glowmetal hexer is bloodied or worse), one or more goblins attempt to escape and bring reinforcements from area 2.
+If the fight is going poorly (more than half the defenders are down, or the glowmetal hexer is bloodied or worse), one or more hobgoblins attempt to escape and bring reinforcements from area 2.
 
 ## Features of the Area
 **Illumination:** Guttering torches dimly light the area.

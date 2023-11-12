@@ -12,7 +12,7 @@ Taloklaxus is not an evil creature, but it now has a child’s loyalty to Varza 
 **Woeful Woodwives ([[Restwell Jobs#Word of Mouth|Word of Mouth]]):** It is fairly common knowledge that local woodcutters are crossing into the Chaos Scar to harvest the bountiful forests beyond the King’s Wall. The boldest of these woodcutters, Erim Haverlan and his two grown sons, disappeared over two weeks ago, and their wives fear the worst. The PC's are approached by [[Wara]] on behalf of the wives and ask them to enter the Chaos Scar and search the small forests near the King’s Wall for their husbands. The woodcutters’ wives are poor working folk, but they have managed to scrape together 50 gp to pay the characters if they can locate their husbands, dead or alive. The [[Wara]] can provide detailed descriptions of the three missing woodcutters and roughly where they were harvesting if the characters agree to search for them. 
 
 # Running the Adventure
-**Total Adventure Value:** 410 xp
+**Total Adventure Value:** 420 xp
 
 # Encounter 1 - Kobold Clearing
 **Encounter Difficulty:** Low (60 xp)

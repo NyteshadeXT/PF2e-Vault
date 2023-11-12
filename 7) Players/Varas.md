@@ -7,5 +7,6 @@ Player_Name: Kev
 Alignment: N
 Class: Swashbuckler
 NoteIcon: PC
+Race: Wild Elf
 ---
 ![[Veras.webp]]

@@ -8,9 +8,9 @@ The dolgaunt monk leader of this exile band dreams of returning to the cult in t
 # Running the Adventure
 **Total Adventure Value:** 335 xp plus gray oozes from the final encounter
 
-**Religious Relic ([[Restwell Jobs#Wall Postings|Job Board]]):** A religious relic, Cup of Chance, has been stolen from a group of pilgrims on their way to the temple of Tymora. Those who witnessed the theft speak of a swarm of ghostly spiders that entered the priest’s camp past armed guards. These spiders targeted and stole the relic with almost humanoid cunning. See [[Chendera]] for more details. 
+**Religious Relic ([[Restwell Jobs#Wall Postings|Job Board]]):** A religious relic, Cup of Chance, has been stolen from a group of pilgrims on their way to the temple of Tymora. Those who witnessed the theft speak of a swarm of ghostly spiders that entered the priest’s camp past armed guards. These spiders targeted and stole the relic with almost humanoid cunning. See [[Chendra]] for more details. 
 
-**Ritual Book:** The mage, Ailwin, recently purchased an expensive ritual book for research purposes. While being brought to his estate by well-armed couriers, the book was stolen. One wounded courier crawled to Restwell Keep, where he spoke only of being swarmed by “ghost spiders, spawned of the underworld,” before dying. Ailwin offers a reward of 50 gp to anyone who can find and return the book. 
+**Ritual Book:** The mage, [[Ailwin]], recently purchased an expensive ritual book for research purposes. While being brought to his estate by well-armed couriers, the book was stolen. One wounded courier crawled to Restwell Keep, where he spoke only of being swarmed by “ghost spiders, spawned of the underworld,” before dying. [[Ailwin]] offers a reward of 50 gp to anyone who can find and return the book. 
 
 **Ulrika is Missing:** The farmers working on the outskirts of Restwell Keep are living in fear after a pack of monstrous “ghost spiders” swarmed through the area. A retired adventurer, turned farmer, named Ulrika stood against them and the farmers believe she was killed, and that the spiders hauled off her body in the dead of night. The characters are given a description of a unique amulet worn by Ulrika.
 
@@ -247,7 +247,7 @@ The fragment of the great meteor that created the sinkhole lies at the bottom of
 
 **Sinkhole Perimeter:** This marks the boundary of the mouth of the sinkhole in the cavern ceiling.
 
-**Stone Pillars:** Pillars of rough stone rise 5 feet up above the surface of the water. A slick pillar can be climbed with a DC 17 [[skills#athletics|Athletics]] check. Returning to the Splintered Spring If the heroes were adequately challenged by this final encounter, let them climb cautiously back up the sinkhole to avoid the gray oozes.
+**Chaos Crystals:** Chaos crystals rise 5 feet up above the surface of the water. A slick crystal can be climbed with a DC 22 [[skills#athletics|Athletics]] check. 
 
 ## Concluding the Adventure
 Once the threat of the foulspawn is ended, the characters can investigate the black lake cavern to discover its secrets. 

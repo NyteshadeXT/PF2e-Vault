@@ -14,13 +14,13 @@
     },
     "embed-ability": {
       "type": "embed-ability",
-      "color": "188, 32, 32",
+      "color": "0, 0, 0",
       "icon": {
         "type": "obsidian",
         "name": "lucide-swords"
       },
       "command": false,
-      "injectColor": false,
+      "injectColor": true,
       "noTitle": true,
       "copy": false
     },

@@ -20,8 +20,8 @@ aliases:
 
 • **Corpseflower** A single putrid-smelling flower grows at the target location. While the flower persists, each round at the end of your turn, all creatures in a 20-foot burst centered on the plant except you must succeed at a Fortitude save or be sickened 2 (also stunned 2 on a critical failure). This is a poison effect.
 
-• **Thorns** A 10-foot-tall thorned plant or bamboo stalk grows at the target location. While the stalk persists, each round at the end of your turn, sharp stakes erupt from the ground, dealing 6d8 piercing damage to all creatures in a 20-foot burst centered on the plant except you (basic Reflex).
+• **Thorns** A 10-foot-tall thorned plant or bamboo stalk grows at the target location. While the stalk persists, each round at the end of your turn, sharp stakes erupt from the ground, dealing `6d8` piercing damage to all creatures in a 20-foot burst centered on the plant except you (basic Reflex).
 
-• **Tree of Life** A large tree bearing life-giving fruit grows at the target location. While the tree persists, living creatures within reach of the tree can use an Interact action to pick and eat one of the tree’s fruits, regaining 2d8+5 Hit Points; picking a fruit without eating it causes the fruit to instantly vanish. This is a healing effect, and a given creature can heal from the tree only once per round.
+• **Tree of Life** A large tree bearing life-giving fruit grows at the target location. While the tree persists, living creatures within reach of the tree can use an Interact action to pick and eat one of the tree’s fruits, regaining `2d8+5` Hit Points; picking a fruit without eating it causes the fruit to instantly vanish. This is a healing effect, and a given creature can heal from the tree only once per round.
 
 *Source: Gamemastery Guide p. 104*  
