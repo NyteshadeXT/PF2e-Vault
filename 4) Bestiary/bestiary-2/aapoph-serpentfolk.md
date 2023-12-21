@@ -11,7 +11,7 @@ level: 3
 ---
 
 ```statblock
-columns: 2
+columns: 1
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: "B2"

@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/3C - The Wayward Wyrmling (D182).md",
+                "file": "8) Adventures/2F - The Lost Library (D173).md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0227d8e4c68666cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5) World/Chaos Scar - GM View.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -87,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8) Adventures/3C - The Wayward Wyrmling (D182).md",
+                "file": "8) Adventures/2F - The Lost Library (D173).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8) Adventures/3C - The Wayward Wyrmling (D182).md"
+                "file": "8) Adventures/2F - The Lost Library (D173).md"
               }
             }
           },
@@ -159,14 +172,6 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
-          },
-          {
-            "id": "4b1c7e557454573b",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
           }
         ],
         "currentTab": 6
@@ -188,13 +193,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 449.5
+    "width": 469.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-import-json:JSON/CSV Importer": false,
       "dbfolder:Create a new database table": false,
       "switcher:Open quick switcher": false,
@@ -205,38 +209,74 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "644415228988d474",
+  "floating": {
+    "id": "f4dc1bfba6b8a73f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b13856d0f7f5a3c5",
+        "type": "window",
+        "children": [
+          {
+            "id": "e0ae011ce4d59a22",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "82f4d9c514de495c",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -640,
+        "y": 144,
+        "width": 640,
+        "height": 672,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "8c043baedb785e55",
   "lastOpenFiles": [
-    "2) compendium/skills.md",
     "5) World/Chaos Scar - GM View.md",
-    "2) compendium/Untitled database.md",
-    "2) compendium/2) Compendium.md",
-    "8) Adventures/3C - The Wayward Wyrmling (D182).md",
-    "6) NPCs/Restwell Keep/Karrie Buttonquail.md",
-    "5) World/Restwell Jobs.md",
+    "5) World/5) World.md",
+    "6) NPCs/6) NPCs.md",
+    "5) World/Chaos Scar - Player View.md",
+    "zz-Attachments/Chaos Scar - Player View.png",
+    "5) World/Restwell Keep.md",
     "8) Adventures/2F - The Lost Library (D173).md",
     "8) Adventures/3B - The Splintered Spring (D179).md",
-    "8) Adventures/4D - Stormcrow Tor (D169).md",
-    "5) World/Restwell Keep.md",
-    "5) World/5) World.md",
-    "6) NPCs/Crossroads/Crossroads.md",
-    "6) NPCs/Restwell Keep/Quint Spiregleam.md",
     "8) Adventures/3A - The Crawling Fane (D178).md",
-    "DC_Calculator.md",
-    "zz-Tools/Mimic Fight Club (Item Generator).md",
-    "zz-Tools/Mimic Fight Club (Encounter Generator).md",
-    "zz-Tools/DunGen (Random Dungeon Generator).md",
-    "zz-Tools/zz-Tools.md",
-    "zz-Templates/zz-Templates.md",
+    "8) Adventures/3C - The Wayward Wyrmling (D182).md",
+    "5) World/Restwell Rumors.md",
+    "5) World/Restwell Jobs.md",
+    "6) NPCs/Restwell Keep/Restwell Keep.md",
+    "6) NPCs/Restwell Keep/AAA - Restwell Keep Master NPC List.md",
+    "6) NPCs/Restwell Keep/Grace.md",
+    "zz-Attachments/Grace-20231217173120982.webp",
+    "5) World/Wellspring Map.md",
+    "8) Adventures/4C - Vanguard Tower (D182).md",
+    "8) Adventures/4B - The Pillar of Eyes (D180).md",
+    "6) NPCs/Restwell Keep/Zeta Windsnap.md",
     "8) Adventures/4A - Glowstone Caverns (D177).md",
-    "2) Compendium/equipment/items/fatal-havoc.md",
+    "4) Bestiary/bestiary-2/young-crystal-dragon.md",
+    "7) Players/Add New Players.md",
+    "7) Players/Ediza.md",
+    "2) compendium/equipment/items/items.md",
+    "2) compendium/equipment/relic-gifts/relic-gifts.md",
+    "2) compendium/equipment/items/fatal-havoc.md",
+    "4) Bestiary/bestiary-2/zyss-serpentfolk.md",
     "zz-Attachments/Fatal Havoc.jpg",
-    "2) Compendium/equipment/items/orders-covenant.md",
-    "2) Compendium/equipment/items/items.md",
-    "2) Compendium/2) Compendium.md",
     "zz-Attachments/Andvari's Gift.png",
     "zz-Attachments/Andvaranaut.png",
     "zz-Attachments/Levithan's Prism.png",
@@ -247,8 +287,6 @@
     "2) Compendium/equipment/relic-gifts",
     "rules/traits",
     "rules",
-    "zz-Attachments/Ember Wolf.jpg",
-    "zz-Attachments/Pumpkin Queen Scorpion.jpg",
-    "zz-Attachments/The Pumpkin Queen.png"
+    "zz-Attachments/Ember Wolf.jpg"
   ]
 }

@@ -18,7 +18,7 @@
 5.  The druid [[Lofinor]] is offering to pay 10gp for each venom sack from one of the large insects that have been spotted near the King’s Wall. ([[3A - The Crawling Fane (D178)]])
 6.  ~~[[Gorn Hammerfall]],  a devout follower of of Moradin, is searching for the Hammer of Ivak that was located in an old temple of Moradin that existed before the star fell. He’ll give a reward to anyone who can bring him the relic. ([[3A - The Crawling Fane (D178)]])~~
 7.  Erim Haverlan and his two sons are woodcutters who have been crossing into the scar to get better material. They haven’t returned and Erim’s wife is offering a reward for anyone who can find him or his remains. ([[3C - The Wayward Wyrmling (D182)]])
-8.  [[Bergen]] crafted fine armor from the scales of Karonzaxus. He believes some more scales may be in her lair and he will pay anyone who can bring back enough to make a shield or suit of armor. ([[3C - The Wayward Wyrmling (D182)]])
+8.  ~~[[Bergen]] crafted fine armor from the scales of Karonzaxus. He believes some more scales may be in her lair and he will pay anyone who can bring back enough to make a shield or suit of armor. ([[3C - The Wayward Wyrmling (D182)]])~~
 9.  A visiting elf named Thathar is looking for some lost elven colony. He's apparently willing to pay for someone to find it for him. ([[4E - Blood of Gruumsh (D210)]])
 
 ## Saruun Guildhall

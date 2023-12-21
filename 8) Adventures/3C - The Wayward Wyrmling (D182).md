@@ -12,7 +12,7 @@ Taloklaxus is not an evil creature, but it now has a child’s loyalty to Varza 
 **Woeful Woodwives ([[Restwell Jobs#Word of Mouth|Word of Mouth]]):** It is fairly common knowledge that local woodcutters are crossing into the Chaos Scar to harvest the bountiful forests beyond the King’s Wall. The boldest of these woodcutters, Erim Haverlan and his two grown sons, disappeared over two weeks ago, and their wives fear the worst. The PC's are approached by [[Wara]] on behalf of the wives and ask them to enter the Chaos Scar and search the small forests near the King’s Wall for their husbands. The woodcutters’ wives are poor working folk, but they have managed to scrape together 50 gp to pay the characters if they can locate their husbands, dead or alive. The [[Wara]] can provide detailed descriptions of the three missing woodcutters and roughly where they were harvesting if the characters agree to search for them. 
 
 # Running the Adventure
-**Total Adventure Value:** 420 xp
+**Total Adventure Value:** 310 xp
 
 # Encounter 1 - Kobold Clearing
 **Encounter Difficulty:** Low (60 xp)
@@ -85,11 +85,11 @@ If one of the serpentfolk from area 1 managed to warn the serpentfolk in this ar
 
 After the serpentfolk from area 1 warned the serpentfolk in this area, it intended to move on and warn Varza and the serpentfolk in Karonzaxuss’ lair. At the beginning of this encounter, however, the it is still present, behind the Granitescales at the southern end of the cavern. It leaves the map at its first opportunity, so characters with high initiative scores may have a chance to kill it with a ranged attack before it can escape and warn Varza in area 3.
 
-When the characters enter the cavern, read:> [!note]+ Read Aloud
+When the characters enter the cavern, read:
+> [!note]+ Read Aloud
 > A swift, dark stream flows through the center of this lightless cavern. The water flows to the south before falling into a gaping pit in the floor and crashing down into unseen depths below. The rushing water fills the cavern with thunderous noise, leaving you all but deaf to the danger that may lurk in the darkness.
 
-When the characters see the kobolds,
-read:
+When the characters see the kobolds, read:
 > [!note]+ Read Aloud
 > Seven serpentfolk stand on the eastern side of the cavern, using the rushing stream as a natural barrier between them and you. They grip an assortment of melee and ranged weapons and look quite ready to use them.
 
@@ -112,7 +112,7 @@ In melee, the granitescales move into flanking positions. They won’t shy away 
 # Encounter 3 - Lair of Karonzaxus
 **Encounter Difficulty:** Severe (130 xp)
 
-![[Pasted image 20230829134121.png|right]]
+![[Pasted image 20230829134121.png|right|500]]
 
 Creatures:
  - 4: [[zyss-serpentfolk|Zyss Serpentfolk]] S
@@ -212,7 +212,7 @@ While the characters are fighting Taloklaxus, Varza continues to attack them fro
 **Stream:** This stream is slow-moving, but it is 3 feet deep, which makes it difficult terrain.
 
 # Wrapping Up: Our Very Own Drag on!
-![[Pasted image 20230829165718.png|left|600]]
+![[Pasted image 20230829165718.png|left|400]]
 [[Pasted image 20230829165718.png|Taloklaxus, Show the Players]]
 
 After the characters defeat Varza, and assuming they succeeded at the Turning Taloklaxus skill challenge, they have the opportunity to gain Taloklaxus as a companion character. At that point, although Taloklaxus no longer considers the characters enemies, he doesn’t yet recognize them as possible allies or friends, either. In fact, the poor wyrmling is in a profound state of emotional turmoil. The recent death of his mother and now the death of the only other creature that has ever been kind to him—even if it was self-serving—has left him confused, depressed, and unsure what to do next. The characters can reassure Taloklaxus and persuade him to join them with a simple complexity 1 skill challenge ([[skills#Diplomacy|Diplomacy]], DC 10, 4 successes before 3 failures).
