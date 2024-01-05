@@ -372,6 +372,7 @@ columns:
       - { label: "Druid", value: "Druid", color: "hsl(156, 95%, 90%)"}
       - { label: "Baliff", value: "Baliff", color: "hsl(21, 95%, 90%)"}
       - { label: "Mason", value: "Mason", color: "hsl(130, 95%, 90%)"}
+      - { label: "Maid", value: "Maid", color: "hsl(245, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

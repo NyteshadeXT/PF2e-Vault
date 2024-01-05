@@ -16,7 +16,7 @@ layout: Basic Pathfinder 2e Layout
 
 source: "HB"
 name: "Beholder Gauth"
-token: "[Beholder Gauth.png]"
+token: [[Beholder Gauth.png]]
 level: "Creature 5"
 alignment: "NE"
 size: "Medium"

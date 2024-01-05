@@ -56,7 +56,7 @@ Suspicious or wary characters might ask for [[skills#Perception|Perception]] che
 If the characters refuse to enter the temple’s inner chamber, confront Kalin for being a liar, or become hostile and aggressive, then the priest excuses himself to whisper briefly with his associate. At that time, the pair turns upon the characters and encounter 3 begins immediately. Otherwise, if the characters advance through the doorway, move ahead to encounter 2.
 
 # Encounter 1 - A Warm Reception
-![[Pasted image 20230530103159.png]]
+![[Pasted image 20230530103159.png|right]]
 
 **Encounter Difficulty:** Extreme (140 xp)
 Creatures:
@@ -108,7 +108,7 @@ The otyughs hide within the pit, waiting to attack any hero unfortunate enough t
 After this fight, the characters can either head back to the temple entrance ([[6B - The Radiant Morn (D183)#Encounter 2 - Fleecing the Flock]]) or they can push deeper into the temple ([[6B - The Radiant Morn (D183)#Encounter 3 - The Living Filth]]; leave encounter 3 for when the characters exit the temple).
 
 # Encounter 2 - Fleecing the Flock
-![[Pasted image 20230530103908.png]]
+![[Pasted image 20230530103908.png|right]]
 
 **Encounter Difficulty:** Extreme (165 xp)
 Creatures:
@@ -156,9 +156,9 @@ The rot grubs appear at the start of the second turn and immediately swarm forwa
 The worshipers are not evil; most of them are no more than beggars and wanderers who came to the temple seeking food and some kindness. They fight back because they believe that the characters are here to loot their temple. If characters gleefully slaughter these innocents, look for ways to make them regret their cruelty later. You’ll have a prime opportunity if survivors flee back to Restwell Keep with news of an “unprovoked massacre” at the temple.
 
 # Encounter 3 - The Living Filth
-![[Pasted image 20230530135959.png]]
+![[Pasted image 20230530135959.png|right]]
 
-**Encounter Difficulty:** Extreme (210 xp)
+**Encounter Difficulty:** Low (30 xp)
 Creatures:
  - 1: [[black-pudding|Black Pudding]] B
  - 3: [[giant-whiptail-centipede|Giant Whiptail Centipede]] H
@@ -179,7 +179,7 @@ When the characters enter the room, read:
 > [!note]+ Read Aloud
 > The air of this cavern is foul from the stagnant river of stinking filth that flows across the chamber. 
 
-Passive Perception 16: The character becomes aware that something lurks in the cavern, without knowing what or where. Characters who are alerted this way can then make active Perception checks against DC 23; place one carrion crawler or the black pudding on the map for each successful check, even if they are out of sight. Make appropriate adjustments for characters who enter the room especially cautiously or recklessly.
+**Passive Perception 16:** The character becomes aware that something lurks in the cavern, without knowing what or where. Characters who are alerted this way can then make active Perception checks against DC 23; place one carrion crawler or the black pudding on the map for each successful check, even if they are out of sight. Make appropriate adjustments for characters who enter the room especially cautiously or recklessly.
 
 ## Tactics
 The black pudding floats unmoving beneath the surface of the sludge, readying an action until a character wades into or jumps over the pool. At that point, it bursts from the muck to engulf the unfortunate adventurer. From then on, it engulfs and sustains the grab against as many adventurers as possible. Black pudding spawn attack characters at random. 
@@ -197,22 +197,22 @@ The giant whiptail centipedes are aware of the black pudding’s hunting methods
 > Scattered around the cave are the remains of from the creatures previous meals.  Players can find amongst the remains: 83gp, 82sp, a [[tome-of-restorative-cleansing-tv|Tome of Restorative Cleansing (Lesser)]], [[cold-iron-armor|Cold Iron Full Plate Armor (Low-Grade)]] and [[clown-monarch-tv|Clown Monarch]].
 
 # Encounter 4 - The Lord of Flies
-![[Pasted image 20230530155114.png]]
+![[Pasted image 20230530155114.png|right]]
 
-**Encounter Difficulty:** Extreme (200 xp)
+**Encounter Difficulty:** Severe (135 xp)
 Creatures:
- - 2: [[orc-warrior|Orc Reaver]] R
- - 2: [[orc-shaman|Orc Shaman]] S
- - 2: [[otyugh|Otyugh]] O
+ - 2: [[nabasu|Nabasu]] R
+ - 4: [[cultist|Cultist]] S
+ - 4: [[otyugh|Otyugh]] O
  - 1: [[otyugh-elite|Theran of the False Truth]] T
 
 ```encounter
 name: Entrance
 party: Chaos Scar
 creatures:
-- 2: [[Orc Warrior]]
-- 2: [[Orc Shaman]]
-- 2: [[Otyugh]]
+- 2: [[Nabasu]]
+- 4: [[Cultist]]
+- 4: [[Otyugh]]
 - 1: [[Otyugh Elite, Theran of the False Truth]]
 ```
 
@@ -237,9 +237,11 @@ When the adventurers enter the room, read:
 ## Tactics 
 Theran uses only charnel frenzy to attack until he is forced to reveal his hidden nature by taking damage (his aura is always in effect). Once his subterfuge is stripped away, he uses all of his attacks to full effect; charnel lash is especially useful for pulling characters into the sludge. 
 
-Theran expects his cultists to die for him, and they probably will, but he has no such intention for himself. When it becomes apparent that the battle is lost, Theran will do his best to escape, either by rushing down the hideous stream or even squeezing himself up the filth-spewing pipe in the statue. Abandoning his followers to certain doom in order to save his oozing hide is a price he’s willing to pay. 
+Theran expects the other Otyugh to die for him, and they probably will, but he has no such intention for himself. When it becomes apparent that the battle is lost, Theran will do his best to escape, either by rushing down the hideous stream or even squeezing himself up the filth-spewing pipe in the statue. Abandoning his followers to certain doom in order to save his oozing hide is a price he’s willing to pay. 
 
-The orcs may be nearly as surprised by Theran’s transformation as the player characters are, but they don’t pause in their attacks. They push characters into the sludge or within range of the otyughs whenever possible. Each bolt of lightning fills the cavern with the odor of singed muck, and each whirlwind swirls tiny droplets of stinking liquid into the already foul air. These things have no particular effect, but be sure to emphasize how nauseating this encounter is. 
+The cultists may be nearly as surprised by Theran’s transformation as the player characters are, but they don’t pause in their attacks. They push characters into the sludge or within range of the otyughs whenever possible. Each bolt of lightning fills the cavern with the odor of singed muck, and each whirlwind swirls tiny droplets of stinking liquid into the already foul air. These things have no particular effect, but be sure to emphasize how nauseating this encounter is. 
+
+The Nabasu are here to feed on souls.  They'll support Theran because he has provided them with a steady diet, but are ultimately here to eat.
 
 The otyughs lurk in the stream of slime with their squishy bodies flattened beneath the surface. When a target comes within range, they burst from hiding and spend the rest of the encounter trying to drag tasty morsels into the sludge.
 
@@ -253,7 +255,7 @@ The otyughs lurk in the stream of slime with their squishy bodies flattened bene
 **Shackles:** Sacrificial victims are kept chained in this chamber until needed. If the characters are looking for the missing trader, Bosco Heldam, they find him here, beaten and unconscious but alive. Otherwise, all the shackles are empty. 
 
 > [!tip]+ Treasure
-> Piled in a corner the players find [[cold-iron-armor|Cold Iron Scale Mail Armor (Low-Grade)]], [[sneaky-key|Sneaky Key]] and [[cytillesh-gmg|Cytillesh]].
+> Piled in a corner the players find [[cold-iron-armor|Cold Iron Scale Mail Armor (Low-Grade)]], [[sneaky-key|Sneaky Key]] and [[cytillesh-gmg|Cytillesh]].  There is also a book describing a ritual capable of sealing planar tears.  According to notes found about the inside of the book, Theran was concerned with spontaneous chaos rifts intereferring with the development of his cult and had been searching for a way to close them.  This information can be used to enact a ritual to close the chaos rift found in the [[4A - Glowstone Caverns (D177)]] adventure.  The book suggests that a Twisted Shard, a powerful artifact that contains a fragment of raw Chaos energy is required as part of the ritual.
 
 # Development 
 By the end of this fight, the characters are thoroughly drenched in reeking filth. If they return to town without cleaning up—a task that can take several hours, and they might never get the stench out of some clothing—they will be met with nothing but disgust no matter how successful their expedition was. 

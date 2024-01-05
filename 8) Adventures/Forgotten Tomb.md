@@ -1,4 +1,6 @@
 # Running the Adventure
+**Total Adventure Value:** 200 xp
+
 ```leaflet
 ### id must be unique
 id: Forgotten Shrine of Moradin
@@ -124,3 +126,6 @@ Once the players remove the cover of the sarcophagus, read:
 **Ceiling:** The ceiling in this area is 15 feet high.
 
 **Braziers:** The braziers contain oil and can be lit providing the room with regular illumination.
+
+> [!warning]
+> If the players take the time to renew and/or reconsecrate the tomb award them 80 xp and a bonus hero card.

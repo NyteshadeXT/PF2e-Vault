@@ -9,3 +9,5 @@ Class: Magus
 NoteIcon: PC
 Race: Oraed
 ---
+![[Ediza.png]]
+[[Ediza.png|Show Players]]

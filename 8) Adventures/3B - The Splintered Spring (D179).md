@@ -1,3 +1,5 @@
+![[3B - The Splintered Spring (D179)-20240103130445894.webp|right]]
+
 # Background 
 When the great meteor fell, a fragmenting cloud of deadly debris tore countless rifts and sinkholes into the earth at the mouth of the Chaos Scar. As one such fragment cut its way through the surrounding landscape, it tore open an underground spring and carved a deep chasm beneath it. That spring now forms an unusual lake on the surface which conceals a pair of connected caverns below. Aberrant energy fills these caverns as a result of the meteor’s destructive passage. 
 

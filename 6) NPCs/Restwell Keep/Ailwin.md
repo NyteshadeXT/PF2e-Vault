@@ -95,7 +95,7 @@ TBD
 If he hears news of treasures brought out of the Chaos Scar by adventurers, he dispatches one of his assistants with a note inviting them to dinner at the guild house.  He lavishes his guests with excellent food and at the end of the meal, makes an offer to buy whatever item or object the explorers found.  These offers are usually 10% above the item's market price, but sometimes he offers far, far more than the baseline price.
 
 ### Plot Hooks
-TBD
+Ailwin has been arrested by Lord Drysdale for attacking Mordak.  Could he later seek revenge?
 
 ### Hidden Details
 TBD

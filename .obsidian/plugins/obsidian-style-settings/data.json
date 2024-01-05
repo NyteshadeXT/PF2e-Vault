@@ -9,7 +9,7 @@
   "ITS-AT@@mini": false,
   "ITS-AT@@its-d": false,
   "ITS-AT@@paper": false,
-  "ITS@@select": "dnd",
+  "ITS@@select": "none",
   "ITS@@slrvb-b": false,
   "ITS@@slrvb-g": false,
   "ITS@@s-d": false,
@@ -41,6 +41,8 @@
   "supercharged-links@@c45a-822c-color": "#9957FF",
   "supercharged-links@@c45a-822c-before": "☠️",
   "ITS@@radius-s": 0,
-  "ITS@@font-text-size": 16,
-  "path2eblock@@statblock-theme-creature": "path2eblock-theme-default"
+  "path2eblock@@statblock-theme-creature": "path2eblock-theme-default",
+  "ITS@@accent-color": true,
+  "pathfinder-2e-statblocks@@layout-theme-misc": "pathfinder-2e-misc-layout-theme-default",
+  "ITS@@tag-color@@light": "#9624B1"
 }

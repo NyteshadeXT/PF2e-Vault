@@ -1,3 +1,5 @@
+![[2F - The Lost Library (D173)-20240103130230585.webp|right|900]]
+
 # Background
 Before the violent birth of the Chaos Scar, the goliath sorcerer Voran Earthmane mastered elemental magic in his isolated keep. For his most dangerous experiments, he built isolated underground chambers that could be accessed only through magical methods. He was able to experiment for several years in peace, but when the meteor struck, he lost all access to his work. After recovering what he could, Voran left, and knowledge of his work faded. 
 

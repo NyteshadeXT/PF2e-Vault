@@ -4,5 +4,6 @@
   "alwaysUpdateLinks": true,
   "readableLineLength": false,
   "defaultViewMode": "preview",
-  "promptDelete": false
+  "promptDelete": false,
+  "showLineNumber": false
 }
