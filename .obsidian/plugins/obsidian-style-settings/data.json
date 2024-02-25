@@ -9,7 +9,7 @@
   "ITS-AT@@mini": false,
   "ITS-AT@@its-d": false,
   "ITS-AT@@paper": false,
-  "ITS@@select": "none",
+  "ITS@@select": "pathfinder",
   "ITS@@slrvb-b": false,
   "ITS@@slrvb-g": false,
   "ITS@@s-d": false,
@@ -42,7 +42,9 @@
   "supercharged-links@@c45a-822c-before": "☠️",
   "ITS@@radius-s": 0,
   "path2eblock@@statblock-theme-creature": "path2eblock-theme-default",
-  "ITS@@accent-color": true,
+  "ITS@@accent-color": false,
   "pathfinder-2e-statblocks@@layout-theme-misc": "pathfinder-2e-misc-layout-theme-default",
-  "ITS@@tag-color@@light": "#9624B1"
+  "ITS@@tag-color@@light": "#9624B1",
+  "ITS@@text@@light": "#AAB3CA",
+  "ITS@@text@@dark": "#6E6E6E"
 }

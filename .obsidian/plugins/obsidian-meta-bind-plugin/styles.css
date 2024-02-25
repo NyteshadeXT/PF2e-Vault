@@ -381,6 +381,16 @@ code.mb-error {
 	color: var(--text-error) !important;
 }
 
+.mb-warning {
+	color: var(--text-warning) !important;
+	font-weight: bold;
+	font-family: var(--font-monospace);
+}
+
+code.mb-warning {
+	color: var(--text-warning) !important;
+}
+
 /* Code */
 .mb-code {
 	color: var(--text-normal);
@@ -475,11 +485,30 @@ a.mb-no-link {
 }
 
 table.mb-html-table {
+}
+
+td.mb-html-table-button-cell {
+	--table-column-min-width: 10px;
+}
+
+th.mb-html-table-button-cell {
 	--table-column-min-width: 10px;
 }
 
 .mb-table-wrapper {
 	overflow-x: auto;
+}
+
+.mb-flex-row {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	gap: var(--size-4-2);
+}
+
+.mb-flex-row > :first-child {
+	flex: 1;
 }
 
 /* --- HIGHLIGHTING CLASSES --- */
