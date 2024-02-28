@@ -13,26 +13,49 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/4C - Vanguard Tower (D182).md",
-                "mode": "source",
+                "file": "8) Adventures/4B - The Pillar of Eyes (D180).md",
+                "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "742199cb15003eff",
+            "id": "9b5b7ef82c68b8df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2) Compendium/gm/hazards/hazards.md",
-                "mode": "source",
+                "file": "8) Adventures/3B - The Splintered Spring (D179).md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "94ba078af6b83eab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5) World/Chaos Scar - GM View.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a01d06316ab24c5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6) NPCs/Restwell Keep/Chendra.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2) Compendium/gm/hazards/hazards.md",
+                "file": "8) Adventures/4B - The Pillar of Eyes (D180).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2) Compendium/gm/hazards/hazards.md"
+                "file": "8) Adventures/4B - The Pillar of Eyes (D180).md"
               }
             }
           },
@@ -171,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2) Compendium/gm/hazards/hazards.md",
+                "file": "8) Adventures/4B - The Pillar of Eyes (D180).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +214,7 @@
             }
           },
           {
-            "id": "d5e331d9625b7722",
+            "id": "afd6410633be59eb",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -199,11 +222,25 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
+      },
+      {
+        "id": "d3af45d7d7bc174e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a1327fc30c1af18",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 469.5
+    "width": 334.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,17 +250,99 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-import-json:JSON/CSV Importer": false,
       "dbfolder:Create a new database table": false,
+      "templater-obsidian:Templater": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "742199cb15003eff",
+  "floating": {
+    "id": "d127498b135e7a27",
+    "type": "floating",
+    "children": [
+      {
+        "id": "255a2611fabd2d71",
+        "type": "window",
+        "children": [
+          {
+            "id": "3a9f63e547d2787f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bd061e973214006b",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -640,
+        "y": 18,
+        "width": 640,
+        "height": 673,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "6d36d652b29c8b05",
+        "type": "window",
+        "children": [
+          {
+            "id": "9fe41f383cbf62f3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6b924ad2c72288b8",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "zz-Attachments/Chendra.png"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1280,
+        "y": 18,
+        "width": 640,
+        "height": 673,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "a5d2bc565e6e76d2",
   "lastOpenFiles": [
+    "5) World/Chaos Scar - GM View.md",
+    "6) NPCs/Restwell Keep/Chendra.md",
+    "6) NPCs/Restwell Keep/Restwell Keep.md",
+    "6) NPCs/Winterspring/Winterspring.md",
+    "zz-Attachments/Chendra.png",
+    "8) Adventures/3B - The Splintered Spring (D179).md",
+    "8) Adventures/4B - The Pillar of Eyes (D180).md",
+    "8) Adventures/4A - Glowstone Caverns (D177).md",
+    "5) World/Restwell Jobs.md",
+    "5) World/Restwell Keep.md",
+    "6) NPCs/Restwell Keep/Gorn Hammerfall.md",
+    "zz-Attachments/Gorn Hammerfall.png",
+    "6) NPCs/Crossroads/Crossroads.md",
+    "6) NPCs/6) NPCs.md",
+    "5) World/Chaos Scar - Player View.md",
+    "8) Adventures/Untitled.md",
+    "8) Adventures/8) Adventures.md",
+    "8) Adventures/8A - Pit of Delirium (D190).md",
+    "8) Adventures/4C - Vanguard Tower (D182).md",
+    "8) Adventures/6A - Rumble in the Valley (D193).md",
     "2) Compendium/gm/hazards/acid-strongbox-trap-qff1.md",
     "2) Compendium/gm/hazards/hazards.md",
     "Tavern_template.md",
@@ -232,24 +351,6 @@
     "Generate_Apothecary.md",
     "Generate_Inn_1.md",
     "Generate_General_Store.md",
-    "Generate_Armory.md",
-    "8) Adventures/4C - Vanguard Tower (D182).md",
-    "zz-Templates/Handlebar Templates/Template-2E-Spell-Handlebar.md",
-    "2) Compendium/spells/spells.md",
-    "2) Compendium/spells/admonishing-ray-aoe2.md",
-    "2) Compendium/spells/adaptive-ablation-logm.md",
-    "2) Compendium/spells/adapt-self-logm.md",
-    "2) Compendium/spells/acidic-burst-logm.md",
-    "2) Compendium/spells/acid-storm-logm.md",
-    "2) Compendium/spells/acid-splash.md",
-    "2) Compendium/spells/acid-arrow.md",
-    "2) Compendium/spells/achaekeks-clutch-lol.md",
-    "2) Compendium/spells/access-lore-apg.md",
-    "2) Compendium/spells/abyssal-wrath.md",
-    "2) Compendium/spells/abyssal-plague.md",
-    "2) Compendium/spells/abundant-step.md",
-    "2) Compendium/spells/aberrant-whispers.md",
-    "2) Compendium/spells/aberrant-form-som.md",
     "4) Bestiary/lost-omens-monsters-of-myth",
     "zz-Templates/Handlebar Templates/monster_handlebar.hbs",
     "3) Rules/assets/img/two_actions.svg",
@@ -260,8 +361,6 @@
     "3) Rules/assets/img/hour-glass.svg",
     "3) Rules/assets/img/delay.svg",
     "zz-Attachments/Balewin.webp",
-    "zz-Attachments/Restwell Keep-20240105144659375.webp",
-    "zz-Attachments/4C - Vanguard Tower (D182)-20240104143040603.webp",
     "9) Completed Adventures",
     "zz-Attachments/Tempered Harmony.jpg.crdownload",
     "2) Compendium/equipment/relic-gifts",

@@ -1,13 +1,15 @@
 {
   "saveWindowLocations": true,
+  "useCustomWindowName": false,
+  "customWindowName": "Second Window",
   "windows": {
-    "DEFAULT": {
+    "Second Window": {
       "hosts": {
         "Kyle_Laptop": {
-          "x": -648,
-          "y": 144,
-          "width": 654,
-          "height": 678,
+          "x": -1280,
+          "y": 18,
+          "width": 640,
+          "height": 673,
           "fullscreen": false,
           "maximized": false
         },

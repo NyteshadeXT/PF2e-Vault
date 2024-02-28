@@ -3,7 +3,7 @@
 -   ~~200 gold offered for anyone who can bring justice to Kevmar Windsnap and another 200 gold for finding his sister, [[Zeta Windsnap]]. See the bailiff, [[Kendon Longstrider]] for more details. ([[1F - Some Assembly Required (D208) C]])~~**~~
 -   ~~Debt collectors wanted! Doran owes me 100 gold and I intend to see that collected. See [[Nerrin Silverhand]] if you want a cut. ([[2C - Dead by Dawn (D176) C]])~~
 -   ~~A reward for any brave soul willing to clear out the Goblin Hole. See [[Kendon Longstrider]] for more details. ([[2E - Down the Goblin Hole (D280) C]])~~
--   ~~Good-hearted heroes wanted to recover the Cup of Chance which was stolen from the temple of Tymora. See [[Chendra]] for more details. ([[3B - The Splintered Spring (D179)]])~~
+-   Good-hearted heroes wanted to recover the Cup of Chance which was stolen from the temple of Tymora. See [[Chendra]] for more details. ([[3B - The Splintered Spring (D179)]])~~
 -   [[Lord Drysdale]] offers 1,000 gold for anyone who can eliminate the beholder Shur-Tuuz. The successful party can collect from [[Lord Drysdale]] personally. ([[4C - Vanguard Tower (D182)]])
 -   Wanted for Murder, Robbery, Assault and other crimes: Keljack and his ogre companion. Lord Criswell offers 2,500 gold for his head and 500 for the ogre. ([[7A - Scarred for Life (D192)]])
 -   Lord Criswell offers 200 gold for the capture of Bolios the Elementalist and Master Vyen offers 1,000gp for the return of a book he stole called Azael’s Elemental Travels. ([[7C - Head in the Clouds (D184)]])
