@@ -9,4 +9,7 @@ Class: Swashbuckler
 NoteIcon: PC
 Race: Wild Elf
 ---
+[[]]
+
 ![[Veras.webp]]
+
