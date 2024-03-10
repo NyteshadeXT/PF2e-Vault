@@ -36,6 +36,18 @@
       "selectAppend": true,
       "selectPrepend": true,
       "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "notetype",
+      "value": "pf2e-spell",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "5e92-b5af",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
     }
   ]
 }

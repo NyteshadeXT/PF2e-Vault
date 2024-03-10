@@ -8,6 +8,7 @@ Alignment: LN
 Class: Magus
 NoteIcon: PC
 Race: Oraed
+Party: Chaos Scar
 ---
 ![[Ediza.png]]
 [[Ediza.png|Show Players]]

@@ -19,6 +19,8 @@ title: **Spear Barrage** [R](rules/core-rulebook/chapter-9-playing-the-game.md#A
 
 
 When a creature moves into any of the squares in the outlined area, the trap shoots three spears from the western wall. It makes one ranged [Strike](rules/actions/strike.md) against the westernmost creature in each row.
+
+**Ranged Strike** spear +10, **Damage** `dice: 1d8+4` piercing
 ```
 
 **Reset** The central spears reset after 1 minute.  

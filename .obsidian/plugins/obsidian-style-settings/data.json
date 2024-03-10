@@ -46,5 +46,7 @@
   "pathfinder-2e-statblocks@@layout-theme-misc": "pathfinder-2e-misc-layout-theme-default",
   "ITS@@tag-color@@light": "#9624B1",
   "ITS@@text@@light": "#AAB3CA",
-  "ITS@@text@@dark": "#6E6E6E"
+  "ITS@@text@@dark": "#6E6E6E",
+  "supercharged-links@@5e92-b5af-before": "✨",
+  "supercharged-links@@5e92-b5af-after": "\"\""
 }

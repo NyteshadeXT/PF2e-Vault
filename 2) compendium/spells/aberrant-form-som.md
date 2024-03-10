@@ -1,5 +1,6 @@
 ---
 obsidianUIMode: preview
+notetype: pf2e-spell
 cssclass: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/som

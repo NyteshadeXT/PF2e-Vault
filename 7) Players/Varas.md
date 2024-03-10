@@ -8,6 +8,7 @@ Alignment: N
 Class: Swashbuckler
 NoteIcon: PC
 Race: Wild Elf
+Party: Chaos Scar
 ---
 [[]]
 

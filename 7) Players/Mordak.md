@@ -8,6 +8,7 @@ Alignment: LN
 NoteIcon: PC
 Class: Fighter
 Race: Dwarf
+Party: Chaos Scar
 ---
 
 [[orders-covenant|Order's Covenant]]

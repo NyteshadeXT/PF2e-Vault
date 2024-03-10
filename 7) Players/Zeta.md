@@ -7,4 +7,5 @@ Alignment: CG
 Race: Human
 Class: Ranger
 ac: 17
+Party: Chaos Scar
 ---

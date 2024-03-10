@@ -1,9 +1,680 @@
 {
   "mapMarkers": [
     {
+      "id": "the-kobold-hall",
+      "lastAccessed": 1703185029862,
+      "markers": [
+        {
+          "id": "ID_abd9782bfb08",
+          "type": "Encounter",
+          "loc": [
+            -0.011728287828823505,
+            0.003204560920843891
+          ],
+          "link": "1J - The Kobold Hall (DMG) New#Encounter 1 - The Guard Room",
+          "layer": "%5B%5BPasted%20image%2020230407203953.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3068138853300588,
+            0.8645951306521679
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2b598999d9b8",
+          "type": "Encounter",
+          "loc": [
+            -0.008318776371686222,
+            0.00448847269512223
+          ],
+          "link": "1J - The Kobold Hall (DMG) New#Encounter 2 - The Tomb",
+          "layer": "%5B%5BPasted%20image%2020230407203953.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4297392937144346,
+            0.6132500880706729
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ebdaf849aa88",
+          "type": "Encounter",
+          "loc": [
+            -0.00554656982421875,
+            0.006797793237126926
+          ],
+          "link": "1J - The Kobold Hall (DMG) New#Encounter 3 - Skull-Skull",
+          "layer": "%5B%5BPasted%20image%2020230407203953.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6508402886608476,
+            0.40888638920134984
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b858b86beb5b",
+          "type": "Encounter",
+          "loc": [
+            -0.002349853515625,
+            0.008056637915216824
+          ],
+          "link": "1J - The Kobold Hall (DMG) New#Encounter 4 - Chieftain's Chamber",
+          "layer": "%5B%5BPasted%20image%2020230407203953.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7713657011127097,
+            0.1732283464566929
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_083bb9aa8a48",
+          "type": "Encounter",
+          "loc": [
+            -0.00495147705078125,
+            0.003211976452547838
+          ],
+          "link": "1J - The Kobold Hall (DMG) New#Encounter 5 - The True Threat",
+          "layer": "%5B%5BPasted%20image%2020230407203953.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3075238696773924,
+            0.36501687289088863
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "8) Adventures/1J - The Kobold Hall (DMG) C.md"
+      ]
+    },
+    {
+      "id": "Slaark's Crown Outdoor Level",
+      "locked": true,
+      "lastAccessed": 1704308786535,
+      "markers": [
+        {
+          "id": "ID_ab2a3979cabb",
+          "type": "Encounter",
+          "loc": [
+            -0.006459594590173663,
+            0.00606441055144553
+          ],
+          "link": "2H - Slaark's Crown (D220)#Area 3 - Stables",
+          "layer": "%5B%5BSlaark's%20Crown.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6babf80baa58",
+          "type": "Encounter",
+          "loc": [
+            -0.009214312608845698,
+            0.006128501269066215
+          ],
+          "link": "2H - Slaark's Crown (D220)#Area 3 - Stables",
+          "layer": "%5B%5BSlaark's%20Crown.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3213099673356188,
+            0.44731051195060123
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d8998a3b192a",
+          "type": "Encounter",
+          "loc": [
+            -0.011221176947540427,
+            0.005222163117893815
+          ],
+          "link": "2H - Slaark's Crown (D220)#Area 3 - Stables",
+          "layer": "%5B%5BSlaark's%20Crown.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.27379174567543124,
+            0.544734112914081
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f988e9b89bda",
+          "type": "Encounter",
+          "loc": [
+            -0.013422253964173358,
+            0.009171141915176408
+          ],
+          "link": "2H - Slaark's Crown (D220)#Area 2 - Yard",
+          "layer": "%5B%5BSlaark's%20Crown.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.48083196524240085,
+            0.6515858042933816
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_086be949e94a",
+          "type": "Encounter",
+          "loc": [
+            -0.015731226912994178,
+            0.010358013596968696
+          ],
+          "link": "2H - Slaark's Crown (D220)#Area 1 - Palisade",
+          "layer": "%5B%5BSlaark's%20Crown.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5430582232727523,
+            0.7636753236814714
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a8a78ba8a7b",
+          "type": "Encounter",
+          "loc": [
+            -0.013486991523486092,
+            0.01305539958087178
+          ],
+          "link": "2H - Slaark's Crown (D220)#Area 4 - Storage Hut",
+          "layer": "%5B%5BSlaark's%20Crown.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6844789335456104,
+            0.6547285010986552
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e82978cbd94b",
+          "type": "Encounter",
+          "loc": [
+            -0.009602737964722097,
+            0.01350856660299229
+          ],
+          "link": "2H - Slaark's Crown (D220)#Area 2 - Yard",
+          "layer": "%5B%5BSlaark's%20Crown.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7082379367149622,
+            0.4661666927822425
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_894948da4b69",
+          "type": "Encounter",
+          "loc": [
+            -0.010120638439223962,
+            0.010012721972379185
+          ],
+          "link": "2H - Slaark's Crown (D220)#Area 5 - Upper Stair",
+          "layer": "%5B%5BSlaark's%20Crown.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5249549977454738,
+            0.49130826722443083
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb0b6b0b58f9",
+          "type": "Encounter",
+          "loc": [
+            -0.00986168820197303,
+            0.016594382049703153
+          ],
+          "link": "2H - Slaark's Crown (D220)#Level 1: Area 12 - Escape Tunnel",
+          "layer": "%5B%5BSlaark's%20Crown.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8700235376074766,
+            0.4787374800033367
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_292bda3a0b78",
+          "type": "Encounter",
+          "loc": [
+            -0.0045100499654537485,
+            0.010487468180937272
+          ],
+          "link": "2H - Slaark's Crown (D220)#Area 3 - Stables",
+          "layer": "%5B%5BSlaark's%20Crown.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.549845371764724,
+            0.21894121076739026
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a191bbab938",
+          "type": "Encounter",
+          "loc": [
+            -0.008394303524217743,
+            0.01046594238460761
+          ],
+          "link": "2H - Slaark's Crown (D220)#Area 6 - Boiling Oil Room",
+          "layer": "%5B%5BSlaark's%20Crown.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5487168000941155,
+            0.40750301908380293
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "9) Completed Adventures/2H - Slaark's Crown (D220) C.md"
+      ]
+    },
+    {
+      "id": "Slaark's Crown Dungeon",
+      "lastAccessed": 1704308786535,
+      "markers": [
+        {
+          "id": "ID_a8b9caabcbd8",
+          "type": "Encounter",
+          "loc": [
+            -0.007574294439589789,
+            0.01044432623578763
+          ],
+          "link": "2H - Slaark's Crown (D220)#Level 1: Area  7 - Mess Hall",
+          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3602522969413569,
+            0.36742336076458654
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cba8b8e82b29",
+          "type": "Encounter",
+          "loc": [
+            -0.010616959727288251,
+            0.006409018371960591
+          ],
+          "link": "2H - Slaark's Crown (D220)#Level 1: Area 8 - Prison",
+          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.22106390948674173,
+            0.5150207791913862
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4bda294a894b",
+          "type": "Encounter",
+          "loc": [
+            -0.007056393965087923,
+            0.005891117897458725
+          ],
+          "link": "2H - Slaark's Crown (D220)#Level 1: Area 9 - Fissure",
+          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.20320015922518683,
+            0.3423003959259823
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b68296a5b49",
+          "type": "Encounter",
+          "loc": [
+            -0.0032368779656366618,
+            0.01111328101535254
+          ],
+          "link": "2H - Slaark's Crown (D220)#Level 1: Area 10 - Barracks",
+          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3833263076958653,
+            0.1570185302412763
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38dad8e99978",
+          "type": "Encounter",
+          "loc": [
+            -0.008976941558032343,
+            0.013443833150610936
+          ],
+          "link": "2H - Slaark's Crown (D220)#Level 1: Area 11 - Privy",
+          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.46371318387286226,
+            0.43546472386913965
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7ba819389a6a",
+          "type": "Encounter",
+          "loc": [
+            -0.007574294439589789,
+            0.014587530031802557
+          ],
+          "link": "2H - Slaark's Crown (D220)#Level 1: Area 12 - Escape Tunnel",
+          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.503162299033796,
+            0.36742336076458654
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_786a5ab8abca",
+          "type": "Encounter",
+          "loc": [
+            -0.01119959776110285,
+            0.013530149896361247
+          ],
+          "link": "2H - Slaark's Crown (D220)#Level 1: Area 13 - Lower Stair",
+          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.46669047558312143,
+            0.543284114634816
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b58e8380b0a",
+          "type": "Encounter",
+          "loc": [
+            -0.00871799132078141,
+            0.017284928336499774
+          ],
+          "link": "2H - Slaark's Crown (D220)#Level 2: Area 17 - Rubble",
+          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5962026649793943,
+            0.4229032414498375
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d8c988296ba8",
+          "type": "Encounter",
+          "loc": [
+            -0.006516914304148479,
+            0.02013338094626004
+          ],
+          "link": "2H - Slaark's Crown (D220)#Level 2: Area 16 - Tribute Room",
+          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6944532914179462,
+            0.3161306408857696
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_49293b1b6b7b",
+          "type": "Encounter",
+          "loc": [
+            -0.00459636671120406,
+            0.02498869789471503
+          ],
+          "link": "2H - Slaark's Crown (D220)#Level 2: Area 15 - Captains’ Barracks",
+          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8619259501200233,
+            0.22296631294261235
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_383a7b686a8a",
+          "type": "Encounter",
+          "loc": [
+            -0.010897489150976762,
+            0.0222049828442675
+          ],
+          "link": "2H - Slaark's Crown (D220)#Level 2: Area 18 - Guard Hall",
+          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7659082924641658,
+            0.5286290518122969
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fa6808e99a6a",
+          "type": "Encounter",
+          "loc": [
+            -0.017392824268687664,
+            0.023434996471209432
+          ],
+          "link": "2H - Slaark's Crown (D220)#Level 2: Area 19 - Throne Room",
+          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8083346993353586,
+            0.8437129024964579
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea49eaa80ba8",
+          "type": "Encounter",
+          "loc": [
+            -0.015580172607931132,
+            0.025614494301404785
+          ],
+          "link": "2H - Slaark's Crown (D220)#Level 2: Area 20 - King’s Chamber",
+          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.883511315019402,
+            0.7557825255613432
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58088b2bb9aa",
+          "type": "Encounter",
+          "loc": [
+            -0.010271692744287008,
+            0.026973983046972183
+          ],
+          "link": "2H - Slaark's Crown (D220)#Level 1: Area 13 - Lower Stair",
+          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9304036594559837,
+            0.4982721359656501
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_992aab088908",
+          "type": "Encounter",
+          "loc": [
+            -0.008880615234375,
+            0.01934814453125
+          ],
+          "link": "2H - Slaark's Crown (D220)#Level 1: Area 9 - Fissure",
+          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6673684210526316,
+            0.4307920059215396
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1adada59187a",
+          "type": "Encounter",
+          "loc": [
+            -0.008696412134343832,
+            0.024103951250774344
+          ],
+          "link": "2H - Slaark's Crown (D220)#Level 2: Area 14 - Corridor",
+          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.831408710089867,
+            0.42185645124822896
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "9) Completed Adventures/2H - Slaark's Crown (D220) C.md"
+      ]
+    },
+    {
       "id": "leaflet-map",
       "locked": false,
-      "lastAccessed": 1703184658359,
+      "lastAccessed": 1709701595700,
       "markers": [
         {
           "id": "ID_cb097978d859",
@@ -759,123 +1430,13 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "5) World/Chaos Scar - GM View.md"
-      ]
-    },
-    {
-      "id": "the-kobold-hall",
-      "lastAccessed": 1703185029862,
-      "markers": [
-        {
-          "id": "ID_abd9782bfb08",
-          "type": "Encounter",
-          "loc": [
-            -0.011728287828823505,
-            0.003204560920843891
-          ],
-          "link": "1J - The Kobold Hall (DMG) New#Encounter 1 - The Guard Room",
-          "layer": "%5B%5BPasted%20image%2020230407203953.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.3068138853300588,
-            0.8645951306521679
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_2b598999d9b8",
-          "type": "Encounter",
-          "loc": [
-            -0.008318776371686222,
-            0.00448847269512223
-          ],
-          "link": "1J - The Kobold Hall (DMG) New#Encounter 2 - The Tomb",
-          "layer": "%5B%5BPasted%20image%2020230407203953.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.4297392937144346,
-            0.6132500880706729
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_ebdaf849aa88",
-          "type": "Encounter",
-          "loc": [
-            -0.00554656982421875,
-            0.006797793237126926
-          ],
-          "link": "1J - The Kobold Hall (DMG) New#Encounter 3 - Skull-Skull",
-          "layer": "%5B%5BPasted%20image%2020230407203953.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.6508402886608476,
-            0.40888638920134984
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_b858b86beb5b",
-          "type": "Encounter",
-          "loc": [
-            -0.002349853515625,
-            0.008056637915216824
-          ],
-          "link": "1J - The Kobold Hall (DMG) New#Encounter 4 - Chieftain's Chamber",
-          "layer": "%5B%5BPasted%20image%2020230407203953.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.7713657011127097,
-            0.1732283464566929
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_083bb9aa8a48",
-          "type": "Encounter",
-          "loc": [
-            -0.00495147705078125,
-            0.003211976452547838
-          ],
-          "link": "1J - The Kobold Hall (DMG) New#Encounter 5 - The True Threat",
-          "layer": "%5B%5BPasted%20image%2020230407203953.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.3075238696773924,
-            0.36501687289088863
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "8) Adventures/1J - The Kobold Hall (DMG) C.md"
+        "5) World/Chaos Scar - GM View.md",
+        "8) Adventures/Menace at Otari.md"
       ]
     },
     {
       "id": "Glowstone Cavern",
-      "lastAccessed": 1703185339594,
+      "lastAccessed": 1709701897975,
       "markers": [
         {
           "id": "ID_2bb8b8298aba",
@@ -961,567 +1522,8 @@
       "overlays": [],
       "shapes": [],
       "files": [
+        "8) Adventures/Menace at Otari.md",
         "8) Adventures/4A - Glowstone Caverns (D177).md"
-      ]
-    },
-    {
-      "id": "Slaark's Crown Outdoor Level",
-      "locked": true,
-      "lastAccessed": 1704308786535,
-      "markers": [
-        {
-          "id": "ID_ab2a3979cabb",
-          "type": "Encounter",
-          "loc": [
-            -0.006459594590173663,
-            0.00606441055144553
-          ],
-          "link": "2H - Slaark's Crown (D220)#Area 3 - Stables",
-          "layer": "%5B%5BSlaark's%20Crown.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_6babf80baa58",
-          "type": "Encounter",
-          "loc": [
-            -0.009214312608845698,
-            0.006128501269066215
-          ],
-          "link": "2H - Slaark's Crown (D220)#Area 3 - Stables",
-          "layer": "%5B%5BSlaark's%20Crown.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.3213099673356188,
-            0.44731051195060123
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_d8998a3b192a",
-          "type": "Encounter",
-          "loc": [
-            -0.011221176947540427,
-            0.005222163117893815
-          ],
-          "link": "2H - Slaark's Crown (D220)#Area 3 - Stables",
-          "layer": "%5B%5BSlaark's%20Crown.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.27379174567543124,
-            0.544734112914081
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_f988e9b89bda",
-          "type": "Encounter",
-          "loc": [
-            -0.013422253964173358,
-            0.009171141915176408
-          ],
-          "link": "2H - Slaark's Crown (D220)#Area 2 - Yard",
-          "layer": "%5B%5BSlaark's%20Crown.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.48083196524240085,
-            0.6515858042933816
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_086be949e94a",
-          "type": "Encounter",
-          "loc": [
-            -0.015731226912994178,
-            0.010358013596968696
-          ],
-          "link": "2H - Slaark's Crown (D220)#Area 1 - Palisade",
-          "layer": "%5B%5BSlaark's%20Crown.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.5430582232727523,
-            0.7636753236814714
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_4a8a78ba8a7b",
-          "type": "Encounter",
-          "loc": [
-            -0.013486991523486092,
-            0.01305539958087178
-          ],
-          "link": "2H - Slaark's Crown (D220)#Area 4 - Storage Hut",
-          "layer": "%5B%5BSlaark's%20Crown.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.6844789335456104,
-            0.6547285010986552
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_e82978cbd94b",
-          "type": "Encounter",
-          "loc": [
-            -0.009602737964722097,
-            0.01350856660299229
-          ],
-          "link": "2H - Slaark's Crown (D220)#Area 2 - Yard",
-          "layer": "%5B%5BSlaark's%20Crown.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.7082379367149622,
-            0.4661666927822425
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_894948da4b69",
-          "type": "Encounter",
-          "loc": [
-            -0.010120638439223962,
-            0.010012721972379185
-          ],
-          "link": "2H - Slaark's Crown (D220)#Area 5 - Upper Stair",
-          "layer": "%5B%5BSlaark's%20Crown.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.5249549977454738,
-            0.49130826722443083
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_cb0b6b0b58f9",
-          "type": "Encounter",
-          "loc": [
-            -0.00986168820197303,
-            0.016594382049703153
-          ],
-          "link": "2H - Slaark's Crown (D220)#Level 1: Area 12 - Escape Tunnel",
-          "layer": "%5B%5BSlaark's%20Crown.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.8700235376074766,
-            0.4787374800033367
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_292bda3a0b78",
-          "type": "Encounter",
-          "loc": [
-            -0.0045100499654537485,
-            0.010487468180937272
-          ],
-          "link": "2H - Slaark's Crown (D220)#Area 3 - Stables",
-          "layer": "%5B%5BSlaark's%20Crown.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.549845371764724,
-            0.21894121076739026
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_2a191bbab938",
-          "type": "Encounter",
-          "loc": [
-            -0.008394303524217743,
-            0.01046594238460761
-          ],
-          "link": "2H - Slaark's Crown (D220)#Area 6 - Boiling Oil Room",
-          "layer": "%5B%5BSlaark's%20Crown.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.5487168000941155,
-            0.40750301908380293
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "9) Completed Adventures/2H - Slaark's Crown (D220) C.md"
-      ]
-    },
-    {
-      "id": "Slaark's Crown Dungeon",
-      "lastAccessed": 1704308786535,
-      "markers": [
-        {
-          "id": "ID_a8b9caabcbd8",
-          "type": "Encounter",
-          "loc": [
-            -0.007574294439589789,
-            0.01044432623578763
-          ],
-          "link": "2H - Slaark's Crown (D220)#Level 1: Area  7 - Mess Hall",
-          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.3602522969413569,
-            0.36742336076458654
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_cba8b8e82b29",
-          "type": "Encounter",
-          "loc": [
-            -0.010616959727288251,
-            0.006409018371960591
-          ],
-          "link": "2H - Slaark's Crown (D220)#Level 1: Area 8 - Prison",
-          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.22106390948674173,
-            0.5150207791913862
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_4bda294a894b",
-          "type": "Encounter",
-          "loc": [
-            -0.007056393965087923,
-            0.005891117897458725
-          ],
-          "link": "2H - Slaark's Crown (D220)#Level 1: Area 9 - Fissure",
-          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.20320015922518683,
-            0.3423003959259823
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_9b68296a5b49",
-          "type": "Encounter",
-          "loc": [
-            -0.0032368779656366618,
-            0.01111328101535254
-          ],
-          "link": "2H - Slaark's Crown (D220)#Level 1: Area 10 - Barracks",
-          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.3833263076958653,
-            0.1570185302412763
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_38dad8e99978",
-          "type": "Encounter",
-          "loc": [
-            -0.008976941558032343,
-            0.013443833150610936
-          ],
-          "link": "2H - Slaark's Crown (D220)#Level 1: Area 11 - Privy",
-          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.46371318387286226,
-            0.43546472386913965
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_7ba819389a6a",
-          "type": "Encounter",
-          "loc": [
-            -0.007574294439589789,
-            0.014587530031802557
-          ],
-          "link": "2H - Slaark's Crown (D220)#Level 1: Area 12 - Escape Tunnel",
-          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.503162299033796,
-            0.36742336076458654
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_786a5ab8abca",
-          "type": "Encounter",
-          "loc": [
-            -0.01119959776110285,
-            0.013530149896361247
-          ],
-          "link": "2H - Slaark's Crown (D220)#Level 1: Area 13 - Lower Stair",
-          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.46669047558312143,
-            0.543284114634816
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_1b58e8380b0a",
-          "type": "Encounter",
-          "loc": [
-            -0.00871799132078141,
-            0.017284928336499774
-          ],
-          "link": "2H - Slaark's Crown (D220)#Level 2: Area 17 - Rubble",
-          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.5962026649793943,
-            0.4229032414498375
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_d8c988296ba8",
-          "type": "Encounter",
-          "loc": [
-            -0.006516914304148479,
-            0.02013338094626004
-          ],
-          "link": "2H - Slaark's Crown (D220)#Level 2: Area 16 - Tribute Room",
-          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.6944532914179462,
-            0.3161306408857696
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_49293b1b6b7b",
-          "type": "Encounter",
-          "loc": [
-            -0.00459636671120406,
-            0.02498869789471503
-          ],
-          "link": "2H - Slaark's Crown (D220)#Level 2: Area 15 - Captains’ Barracks",
-          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.8619259501200233,
-            0.22296631294261235
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_383a7b686a8a",
-          "type": "Encounter",
-          "loc": [
-            -0.010897489150976762,
-            0.0222049828442675
-          ],
-          "link": "2H - Slaark's Crown (D220)#Level 2: Area 18 - Guard Hall",
-          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.7659082924641658,
-            0.5286290518122969
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_fa6808e99a6a",
-          "type": "Encounter",
-          "loc": [
-            -0.017392824268687664,
-            0.023434996471209432
-          ],
-          "link": "2H - Slaark's Crown (D220)#Level 2: Area 19 - Throne Room",
-          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.8083346993353586,
-            0.8437129024964579
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_ea49eaa80ba8",
-          "type": "Encounter",
-          "loc": [
-            -0.015580172607931132,
-            0.025614494301404785
-          ],
-          "link": "2H - Slaark's Crown (D220)#Level 2: Area 20 - King’s Chamber",
-          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.883511315019402,
-            0.7557825255613432
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_58088b2bb9aa",
-          "type": "Encounter",
-          "loc": [
-            -0.010271692744287008,
-            0.026973983046972183
-          ],
-          "link": "2H - Slaark's Crown (D220)#Level 1: Area 13 - Lower Stair",
-          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.9304036594559837,
-            0.4982721359656501
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_992aab088908",
-          "type": "Encounter",
-          "loc": [
-            -0.008880615234375,
-            0.01934814453125
-          ],
-          "link": "2H - Slaark's Crown (D220)#Level 1: Area 9 - Fissure",
-          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.6673684210526316,
-            0.4307920059215396
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_1adada59187a",
-          "type": "Encounter",
-          "loc": [
-            -0.008696412134343832,
-            0.024103951250774344
-          ],
-          "link": "2H - Slaark's Crown (D220)#Level 2: Area 14 - Corridor",
-          "layer": "%5B%5BPasted%20image%2020230825000103.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.831408710089867,
-            0.42185645124822896
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "9) Completed Adventures/2H - Slaark's Crown (D220) C.md"
       ]
     }
   ],

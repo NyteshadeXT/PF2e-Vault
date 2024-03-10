@@ -13,37 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4) Bestiary/bestiary-1/living-waterfall.md",
+                "file": "4) Bestiary/unique-creatures/Kobold Boss - Zolgran.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "94ba078af6b83eab",
+            "id": "80b638c2f7b44bf4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5) World/Chaos Scar - GM View.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a01d06316ab24c5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6) NPCs/Restwell Keep/Chendra.md",
+                "file": "8) Adventures/Menace at Otari.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4) Bestiary/bestiary-1/living-waterfall.md",
+                "file": "8) Adventures/Menace at Otari.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4) Bestiary/bestiary-1/living-waterfall.md"
+                "file": "8) Adventures/Menace at Otari.md"
               }
             }
           },
@@ -178,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4) Bestiary/bestiary-1/living-waterfall.md",
+                "file": "8) Adventures/Menace at Otari.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       },
       {
         "id": "d3af45d7d7bc174e",
@@ -228,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 457.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,108 +236,48 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "d127498b135e7a27",
-    "type": "floating",
-    "children": [
-      {
-        "id": "255a2611fabd2d71",
-        "type": "window",
-        "children": [
-          {
-            "id": "3a9f63e547d2787f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bd061e973214006b",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-player-view",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -640,
-        "y": 18,
-        "width": 768,
-        "height": 810,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "3d7c76c01d46ee74",
-        "type": "window",
-        "children": [
-          {
-            "id": "d61be1b000627aed",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "851aed1030d6761b",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "zz-Attachments/Chendra.png"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1280,
-        "y": 18,
-        "width": 768,
-        "height": 810,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "a7bade22b7eb21bb",
+  "active": "80b638c2f7b44bf4",
   "lastOpenFiles": [
-    "8) Adventures/3B - The Splintered Spring (D179).md",
-    "4) Bestiary/bestiary-1/living-waterfall.md",
-    "4) Bestiary/homebrew/dolgaunt.md",
-    "6) NPCs/Restwell Keep/Restwell Keep.md",
-    "6) NPCs/Crossroads/Crossroads.md",
-    "5) World/Chaos Scar - GM View.md",
-    "8) Adventures/2G - The Crossroads (D176).md",
-    "6) NPCs/Restwell Keep/Chendra.md",
-    "zz-Attachments/Chendra.png",
-    "6) NPCs/Restwell Keep/Ediza.md",
-    "8) Adventures/4B - The Pillar of Eyes (D180).md",
-    "6) NPCs/Winterspring/Winterspring.md",
-    "8) Adventures/4A - Glowstone Caverns (D177).md",
-    "5) World/Restwell Jobs.md",
-    "5) World/Restwell Keep.md",
-    "6) NPCs/Restwell Keep/Gorn Hammerfall.md",
-    "zz-Attachments/Gorn Hammerfall.png",
-    "6) NPCs/6) NPCs.md",
-    "5) World/Chaos Scar - Player View.md",
-    "8) Adventures/Untitled.md",
-    "8) Adventures/8) Adventures.md",
-    "8) Adventures/8A - Pit of Delirium (D190).md",
-    "8) Adventures/4C - Vanguard Tower (D182).md",
-    "8) Adventures/6A - Rumble in the Valley (D193).md",
-    "2) Compendium/gm/hazards/acid-strongbox-trap-qff1.md",
-    "2) Compendium/gm/hazards/hazards.md",
-    "Tavern_template.md",
-    "Untitled.md",
+    "4) Bestiary/unique-creatures/Kobold Boss - Zolgran.md",
+    "8) Adventures/Menace at Otari.md",
+    "4) Bestiary/bestiary-1/bestiary-1.md",
+    "4) Bestiary/bestiary-1/adamantine-golem.md",
+    "4) Bestiary/adventures/crown-of-the-kobold-king/crown-of-the-kobold-king.md",
+    "4) Bestiary/adventures/fall-of-plaguestone/fall-of-plaguestone.md",
+    "4) Bestiary/adventures/trouble-in-otari/trouble-in-otari.md",
+    "4) Bestiary/adventures/fall-of-plaguestone/vine-lasher.md",
+    "4) Bestiary/adventures/adventures.md",
+    "8) Adventures/Forgotten Tomb.md",
+    "4) Bestiary/bestiary-3/bestiary-3.md",
+    "4) Bestiary/bestiary-3/adachros.md",
+    "4) Bestiary/book-of-the-dead/book-of-the-dead.md",
+    "4) Bestiary/gm-guide/gm-guide.md",
+    "4) Bestiary/gm-guide/acolyte-of-nethys.md",
+    "4) Bestiary/monster-hunter-variants/giant-spectral-centipede.md",
+    "4) Bestiary/bestiary-1/kobold-scout.md",
+    "zz-Attachments/zz-Attachments.md",
+    "4) Bestiary/unique-creatures",
+    "4) Bestiary/adventures/trouble-in-otari/dragon-wyrmling-green.md",
+    "zz-Attachments/Menace at Otari-20240306165033051.webp",
+    "zz-Attachments/Menace at Otari-20240306164028697.webp",
+    "zz-Attachments/Menace at Otari-20240306161810022.webp",
+    "zz-Attachments/Menace at Otari-20240306161557915.webp",
+    "zz-Attachments/Menace at Otari-20240306161538224.webp",
+    "3) Rules/conditions.md",
+    "2) Compendium/skills.md",
+    "2) Compendium/setting/deities/deities.md",
+    "2) Compendium/setting/deities/aakriti-loil.md",
+    "2) Compendium/setting/deities/abadar.md",
+    "2) Compendium/setting/deities/otolmens-logm.md",
+    "2) Compendium/setting/deities/pazuzu-logm.md",
+    "zz-Attachments/Menace at Otari-20240306122812013.webp",
+    "zz-Attachments/Menace at Otari-20240306122247805.webp",
+    "zz-Attachments/Menace at Otari-20240306121528622.webp",
+    "zz-Attachments/Menace at Otari-20240306121408960.webp",
+    "zz-Attachments/Menace at Otari-20240305232838284.webp",
+    "6) NPCs/Otari",
     "4) Bestiary/lost-omens-monsters-of-myth",
     "zz-Templates/Handlebar Templates/monster_handlebar.hbs",
-    "3) Rules/assets/img/two_actions.svg",
-    "3) Rules/assets/img/three_actions.svg",
-    "3) Rules/assets/img/single_action.svg",
-    "3) Rules/assets/img/reaction.svg",
-    "3) Rules/assets/img/load.svg",
-    "3) Rules/assets/img/hour-glass.svg",
-    "3) Rules/assets/img/delay.svg",
-    "zz-Attachments/Balewin.webp",
     "9) Completed Adventures",
     "zz-Attachments/Tempered Harmony.jpg.crdownload",
     "2) Compendium/equipment/relic-gifts",

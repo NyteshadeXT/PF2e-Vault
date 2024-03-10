@@ -7,6 +7,7 @@ Player_Name: Jody
 Alignment: NG
 Class: Druid
 NoteIcon: PC
+Party: Chaos Scar
 ---
 
 [[tempered-harmony|Tempered Harmony]]
