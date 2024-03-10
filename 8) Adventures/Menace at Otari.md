@@ -415,7 +415,7 @@ At the start of the encounter, place the following foes on the map:
 name: Elements of Chaos
 party: Virtual
 creatures:
-- 1: [[Cinder Rat] 
+- 1: [[Cinder Rat]] 
 ```
 
 This chamber holds a cinder rat, a creature of pure elemental fire. When the heroes enter the room, read the following aloud.
@@ -450,7 +450,7 @@ At the start of the encounter, place the following foes on the map:
 name: Xulgath Cave
 party: Virtual
 creatures:
-- 3: [[Xulgath Warrior] 
+- 3: [[Xulgath Warrior]] 
 ```
 
 This chamber is the den of a trio of xulgaths, which are smelly reptilian humanoids. Read the following aloud.
@@ -609,13 +609,13 @@ In this case—or if the heroes don’t end up fleeing from the next encounter�
 **Encounter Difficulty:** difficulty (100 xp)
 
 At the start of the encounter, place the following foes on the map: 
- - 1: [[dragon-wyrmling-green|Green Dragon Wyrmling]]
- - 
+ - 1: [[green-dragon-wyrmling|Green Dragon Wyrmling]]
+
 ```encounter
-name: Dragonkeeper
+name: Mushroom Grotto
 party: Virtual
 creatures:
-- 1: [[Dragon, Wyrmling Green]] 
+- 1: [[Green Dragon Wyrmling]] 
 ```
 
 This cavern is the home of the wyrmling green dragon hatched by the kobold band. When the heroes enter the room, read the following aloud.

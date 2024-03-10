@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d8ad1793fc3006a0",
+        "id": "82694a4de52907ab",
         "type": "tabs",
         "children": [
           {
-            "id": "a7bade22b7eb21bb",
+            "id": "5b852db7dfc1111f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4) Bestiary/unique-creatures/Kobold Boss - Zolgran.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "80b638c2f7b44bf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8) Adventures/Menace at Otari.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 304.5
   },
   "right": {
     "id": "528e4a3e6d8992cc",
@@ -98,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8) Adventures/Menace at Otari.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "8) Adventures/Menace at Otari.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,7 +147,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8) Adventures/Menace at Otari.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,10 +215,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "80b638c2f7b44bf4",
+  "active": "5b852db7dfc1111f",
   "lastOpenFiles": [
-    "4) Bestiary/unique-creatures/Kobold Boss - Zolgran.md",
+    "4) Bestiary/adventures/trouble-in-otari/green-dragon-wyrmling.md",
     "8) Adventures/Menace at Otari.md",
+    "4) Bestiary/unique-creatures/Kobold Boss - Zolgran.md",
     "4) Bestiary/bestiary-1/bestiary-1.md",
     "4) Bestiary/bestiary-1/adamantine-golem.md",
     "4) Bestiary/adventures/crown-of-the-kobold-king/crown-of-the-kobold-king.md",
@@ -257,7 +237,6 @@
     "4) Bestiary/bestiary-1/kobold-scout.md",
     "zz-Attachments/zz-Attachments.md",
     "4) Bestiary/unique-creatures",
-    "4) Bestiary/adventures/trouble-in-otari/dragon-wyrmling-green.md",
     "zz-Attachments/Menace at Otari-20240306165033051.webp",
     "zz-Attachments/Menace at Otari-20240306164028697.webp",
     "zz-Attachments/Menace at Otari-20240306161810022.webp",

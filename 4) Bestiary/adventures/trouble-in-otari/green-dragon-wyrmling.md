@@ -1,11 +1,11 @@
 ---
 noteType: pf2eMonster
-aliases: "Dragon, Wyrmling Green"
+aliases: "Green Dragon Wyrmling"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/4
 statblock: inline
-name: "Dragon, Wyrmling Green"
+name: "Green Dragon Wyrmling"
 level: 4
 ---
 
@@ -14,7 +14,7 @@ columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: "TiO"
-name: "Dragon, Wyrmling Green"
+name: "Green Dragon Wyrmling"
 level: "Creature 4"
 alignment: "LE"
 size: "Medium"
@@ -60,7 +60,7 @@ sourcebook: "_Troubles In Otari_."
 ```
 
 ```encounter-table
-name: Dragon, Wyrmling Green
+name: Green Dragon Wyrmling
 creatures:
-  - 1: Dragon, Wyrmling Green
+  - 1: Green Dragon Wyrmling
 ```
