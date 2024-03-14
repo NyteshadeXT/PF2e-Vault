@@ -11,8 +11,12 @@
             "id": "5b852db7dfc1111f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "8) Adventures/3B - The Splintered Spring (D179).md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "8) Adventures/3B - The Splintered Spring (D179).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "8) Adventures/3B - The Splintered Spring (D179).md"
+              }
             }
           },
           {
@@ -147,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "8) Adventures/3B - The Splintered Spring (D179).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,8 +223,48 @@
       "calendarium:Open Calendarium": false
     }
   },
+  "floating": {
+    "id": "623ee754c8c33ea8",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d102944b4e3d2337",
+        "type": "window",
+        "children": [
+          {
+            "id": "dd165db79d18d0f9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "698af7c844fcc551",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 0,
+        "width": 768,
+        "height": 816,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "5b852db7dfc1111f",
   "lastOpenFiles": [
+    "4) Bestiary/bestiary-1/living-waterfall.md",
+    "8) Adventures/3B - The Splintered Spring (D179).md",
+    "8) Adventures/5A - The Slaver's Stone (D181).md",
+    "4) Bestiary/homebrew/homebrew.md",
+    "4) Bestiary/homebrew/dolgarr.md",
+    "4) Bestiary/homebrew/dolgaunt.md",
+    "4) Bestiary/homebrew/dolgrim.md",
     "4) Bestiary/adventures/trouble-in-otari/green-dragon-wyrmling.md",
     "8) Adventures/Menace at Otari.md",
     "4) Bestiary/unique-creatures/Kobold Boss - Zolgran.md",
@@ -242,13 +290,6 @@
     "zz-Attachments/Menace at Otari-20240306161810022.webp",
     "zz-Attachments/Menace at Otari-20240306161557915.webp",
     "zz-Attachments/Menace at Otari-20240306161538224.webp",
-    "3) Rules/conditions.md",
-    "2) Compendium/skills.md",
-    "2) Compendium/setting/deities/deities.md",
-    "2) Compendium/setting/deities/aakriti-loil.md",
-    "2) Compendium/setting/deities/abadar.md",
-    "2) Compendium/setting/deities/otolmens-logm.md",
-    "2) Compendium/setting/deities/pazuzu-logm.md",
     "zz-Attachments/Menace at Otari-20240306122812013.webp",
     "zz-Attachments/Menace at Otari-20240306122247805.webp",
     "zz-Attachments/Menace at Otari-20240306121528622.webp",
