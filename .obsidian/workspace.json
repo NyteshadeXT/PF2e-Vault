@@ -18,6 +18,30 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "1cbc48afc6d3803f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4) Bestiary/bestiary-2/bestiary-2.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3b66cb398598bf6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DC_Calculator.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ]
       }
@@ -204,7 +228,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 457.5
+    "width": 468.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,15 +252,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "d102944b4e3d2337",
+        "id": "980733fceb3cfdeb",
         "type": "window",
         "children": [
           {
-            "id": "dd165db79d18d0f9",
+            "id": "fab645262b005723",
             "type": "tabs",
             "children": [
               {
-                "id": "698af7c844fcc551",
+                "id": "97d52c53482021f8",
                 "type": "leaf",
                 "state": {
                   "type": "initiative-tracker-player-view",
@@ -247,10 +271,41 @@
           }
         ],
         "direction": "vertical",
-        "x": 768,
+        "x": 640,
+        "y": 0,
+        "width": 640,
+        "height": 672,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "7b2201788acf8b9b",
+        "type": "window",
+        "children": [
+          {
+            "id": "0db733c1a9c429ce",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "80255a0f387c9caa",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2) compendium/equipment/items/etheric-essence-disruptor-g-g.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
         "y": 0,
         "width": 768,
-        "height": 816,
+        "height": 672,
         "maximize": false,
         "zoom": 0
       }
@@ -258,32 +313,32 @@
   },
   "active": "5b852db7dfc1111f",
   "lastOpenFiles": [
-    "4) Bestiary/bestiary-1/living-waterfall.md",
+    "2) compendium/equipment/items/etheric-essence-disruptor-g-g.md",
     "8) Adventures/3B - The Splintered Spring (D179).md",
-    "8) Adventures/5A - The Slaver's Stone (D181).md",
+    "DC_Calculator.md",
+    "2) compendium/equipment/items/copper-penny-tv.md",
+    "2) compendium/equipment/items/eagle-eye-elixir.md",
+    "2) compendium/equipment/items/beckoning-cat-amulet-ec2.md",
+    "2) compendium/equipment/items/ethersight-ring-aoe2.md",
+    "4) Bestiary/bestiary-2/bestiary-2.md",
+    "DC_Calculators.md",
+    "4) Bestiary/bestiary-2/gray-ooze.md",
+    "7) Players/Mordak.md",
+    "2) compendium/equipment/items/orders-covenant.md",
+    "2) compendium/equipment/relic-gifts/lawful-assault.md",
+    "7) Players/Add New Players.md",
+    "Jump Calculator.md",
+    "Shop_template.md",
+    "Tavern_template.md",
     "4) Bestiary/homebrew/homebrew.md",
+    "7) Players/Ediza.md",
+    "7) Players/Varas.md",
+    "7) Players/Winter.md",
+    "4) Bestiary/bestiary-1/living-waterfall.md",
+    "8) Adventures/5A - The Slaver's Stone (D181).md",
     "4) Bestiary/homebrew/dolgarr.md",
     "4) Bestiary/homebrew/dolgaunt.md",
     "4) Bestiary/homebrew/dolgrim.md",
-    "4) Bestiary/adventures/trouble-in-otari/green-dragon-wyrmling.md",
-    "8) Adventures/Menace at Otari.md",
-    "4) Bestiary/unique-creatures/Kobold Boss - Zolgran.md",
-    "4) Bestiary/bestiary-1/bestiary-1.md",
-    "4) Bestiary/bestiary-1/adamantine-golem.md",
-    "4) Bestiary/adventures/crown-of-the-kobold-king/crown-of-the-kobold-king.md",
-    "4) Bestiary/adventures/fall-of-plaguestone/fall-of-plaguestone.md",
-    "4) Bestiary/adventures/trouble-in-otari/trouble-in-otari.md",
-    "4) Bestiary/adventures/fall-of-plaguestone/vine-lasher.md",
-    "4) Bestiary/adventures/adventures.md",
-    "8) Adventures/Forgotten Tomb.md",
-    "4) Bestiary/bestiary-3/bestiary-3.md",
-    "4) Bestiary/bestiary-3/adachros.md",
-    "4) Bestiary/book-of-the-dead/book-of-the-dead.md",
-    "4) Bestiary/gm-guide/gm-guide.md",
-    "4) Bestiary/gm-guide/acolyte-of-nethys.md",
-    "4) Bestiary/monster-hunter-variants/giant-spectral-centipede.md",
-    "4) Bestiary/bestiary-1/kobold-scout.md",
-    "zz-Attachments/zz-Attachments.md",
     "4) Bestiary/unique-creatures",
     "zz-Attachments/Menace at Otari-20240306165033051.webp",
     "zz-Attachments/Menace at Otari-20240306164028697.webp",

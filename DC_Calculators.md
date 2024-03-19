@@ -1,7 +1,7 @@
 ---
-rarity: 15
-creatureCR: 10
-creatureTrait: Nature
+rarity: 5
+creatureCR: 5
+creatureTrait: Arcana, Nature
 playerLevel: 8
 taskDifficulty: "-2"
 itemLevel: 10
