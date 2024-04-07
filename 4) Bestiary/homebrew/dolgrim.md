@@ -50,7 +50,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ club +9; __Damage__ 1d8+4 (1d8+4) bludgeoning"
+    desc: "⬻ club +9; __Damage__ Dice: 1d8+4 (1d8+4) bludgeoning"
   - name: Ranged
     desc: "⬻ crossbow +7 __Damage__ 1d6+3 (1d6+3) piercing"
 

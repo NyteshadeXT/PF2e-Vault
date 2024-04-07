@@ -31,7 +31,7 @@ title: **Spore Explosion** [R](rules/core-rulebook/chapter-9-playing-the-game.md
 ```ad-embed-ability
 title: **Yellow Mold Spores**  ([inhaled](rules/traits/inhaled.md), [poison](rules/traits/poison.md))
 > [!pf2-note] 
-> Any [drained](rules/conditions.md#Drained) condition from the spores persists after the poison's duration ends
+> Any [drained](rules/conditions.md#Drained) condition from the spores persists after the poison's duration ends;  **Saving Throw** DC 26 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d8 poison damage and drained 1 (1 round); **Stage 2** 2d8 poison damage and drained 2 (1 round); **Stage 3** 3d8 poison damage and drained 3 (1 round)
 
 
   

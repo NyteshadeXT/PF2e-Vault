@@ -256,7 +256,7 @@ Once the threat of the foulspawn is ended, the characters can investigate the bl
 > [!note]+ Read Aloud
 > At the farthest corner of the ledge, a foul nest of muck and bones is the dolgaunt lair. The same unearthly sigils seen in the cavern above cover the walls here, scribed in filth and dried blood. From beneath a pile of cracked and well-gnawed bones comes the gleam of gold. 
 
-The symbols here have the same effect on a character that studies them as those in the [[3B - The Splintered Spring (D179)#Encounter 2 - The Foul Mire]] encounter. They have meaning only to the aberrant minds of the foulspawn, but anyone who looks at them for more than a few seconds feels noticeably uneasy. A character who insists on studying them or trying to read the symbols takes a –2 penalty to Will which lasts until the party takes an long rest. 
+The symbols here have the same effect on a character that studies them as those in the [[3B - The Splintered Spring (D179) - Done#Encounter 2 - The Foul Mire]] encounter. They have meaning only to the aberrant minds of the foulspawn, but anyone who looks at them for more than a few seconds feels noticeably uneasy. A character who insists on studying them or trying to read the symbols takes a –2 penalty to Will which lasts until the party takes an long rest. 
 
 In addition to treasure, the dolgaunt has cast aside the gear of the creatures whose magic it has stolen, including a fragment of an adventurer’s map. The map shows part of a series of caverns and is annotated with cramped handwriting. This cryptic introduction to a wider foulspawn cult worshiping the power at the heart of the Chaos Scar connects to upcoming adventures.
 

@@ -1,10 +1,12 @@
 ---
 rarity: 5
-creatureCR: 5
-creatureTrait: Arcana, Nature
+skillLevel: 15
+creatureCR: 8
+creatureTrait: Religion
 playerLevel: 8
-taskDifficulty: "-2"
-itemLevel: 10
+taskDifficulty: -2
+skillDifficulty: -5
+itemLevel: 8
 itemValue: 1000
 itemType: 2
 Rush: false
@@ -20,6 +22,7 @@ craftRoll: 1
 > [!warning] A few notes on the Crafting Calculator
 > 1. The Complex Crafting tool does not strictly follow rules as written for the cost of Completion, simply because I couldn't find a way to capture the written table mathematically (Income Earned table). However, it gets close enough for me.
 > 2. I wanted to implement an option to select Quick Setup (feat) but it was too complicated and none of my players have this feat, so I gave up. Sorry!
+> 3. Calculator is not updated to the new CORE release.
 
 
 
@@ -37,6 +40,14 @@ craftRoll: 1
 | **Player Level:** `INPUT[number:playerLevel]` |                                                                                                                  
 | **Task Difficulty:** `INPUT[inlineSelect(option(-10, Incredibly easy), option(-5, Very easy), option(-2, Easy), option(0, No Adjustment), option(2, 'Hard (Uncommon)'), option(5, 'Very hard (Rare)'), option(10, 'Incredibly hard (Unique)')):taskDifficulty]` |
 | **Task DC:** `VIEW[round({playerLevel} < 20 ? ({playerLevel} + 14 + ({playerLevel}/3)) : ({playerLevel}*2)) + {taskDifficulty}]`  |
+
+---
+
+| Skill DC Calculator                                                                                 |                                                                                                                
+| --------------------------------------------------------------------------------------------------- |
+| **Skill Level:** `INPUT[inlineSelect(option(10, Untrained), option(15, Trained), option(20, Expert), option(30, Master), option(40, Legendary)):skillLevel]` |                                                                                                                  
+| **Skill Difficulty:** `INPUT[inlineSelect(option(-10, Incredibly easy), option(-5, Very easy), option(-2, Easy), option(0, No Adjustment), option(2, 'Hard (Uncommon)'), option(5, 'Very hard (Rare)'), option(10, 'Incredibly hard (Unique)')):skillDifficulty]` |
+| **Task DC:** `VIEW[round({skillLevel} + {skillDifficulty})]`|
 
 ---
 ```ad-info

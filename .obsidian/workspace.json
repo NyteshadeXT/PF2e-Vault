@@ -13,37 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/3B - The Splintered Spring (D179).md",
+                "file": "8) Adventures/4A - Glowstone Caverns (D177).md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "aee4088af3adab8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8) Adventures/2G - The Crossroads (D176).md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "1cbc48afc6d3803f",
+            "id": "dd2921b7ae94c347",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4) Bestiary/bestiary-2/bestiary-2.md",
-                "mode": "preview",
+                "file": "zz-Tools/DunGen (Random Dungeon Generator).md",
+                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "3b66cb398598bf6a",
+            "id": "5d4257c41755da8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DC_Calculator.md",
+                "file": "DC_Calculators.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,26 +122,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8) Adventures/3B - The Splintered Spring (D179).md",
+                "file": "DC_Calculators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "afd6410633be59eb",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
-            "id": "cb591ad5a314a1c7",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
             }
           },
           {
@@ -160,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8) Adventures/3B - The Splintered Spring (D179).md"
+                "file": "DC_Calculators.md"
               }
             }
           },
@@ -178,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8) Adventures/3B - The Splintered Spring (D179).md",
+                "file": "DC_Calculators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,16 +205,32 @@
                 }
               }
             }
+          },
+          {
+            "id": "4b6b0e8f37c31079",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "bbb3701b6a682707",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       },
       {
-        "id": "d3af45d7d7bc174e",
+        "id": "e1151ec96479f35d",
         "type": "tabs",
         "children": [
           {
-            "id": "6a1327fc30c1af18",
+            "id": "30ed0fdf50c90bf6",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-creature-view",
@@ -228,7 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 468.5
+    "width": 512.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,118 +251,55 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-import-json:JSON/CSV Importer": false,
       "dbfolder:Create a new database table": false,
       "templater-obsidian:Templater": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "623ee754c8c33ea8",
-    "type": "floating",
-    "children": [
-      {
-        "id": "980733fceb3cfdeb",
-        "type": "window",
-        "children": [
-          {
-            "id": "fab645262b005723",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "97d52c53482021f8",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-player-view",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 640,
-        "y": 0,
-        "width": 640,
-        "height": 672,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "7b2201788acf8b9b",
-        "type": "window",
-        "children": [
-          {
-            "id": "0db733c1a9c429ce",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "80255a0f387c9caa",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2) compendium/equipment/items/etheric-essence-disruptor-g-g.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 768,
-        "height": 672,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "5b852db7dfc1111f",
+  "active": "5d4257c41755da8b",
   "lastOpenFiles": [
-    "2) compendium/equipment/items/etheric-essence-disruptor-g-g.md",
-    "8) Adventures/3B - The Splintered Spring (D179).md",
-    "DC_Calculator.md",
-    "2) compendium/equipment/items/copper-penny-tv.md",
-    "2) compendium/equipment/items/eagle-eye-elixir.md",
-    "2) compendium/equipment/items/beckoning-cat-amulet-ec2.md",
-    "2) compendium/equipment/items/ethersight-ring-aoe2.md",
-    "4) Bestiary/bestiary-2/bestiary-2.md",
+    "4) Bestiary/bestiary-1/bestiary-1.md",
+    "4) Bestiary/bestiary-1/adamantine-golem.md",
     "DC_Calculators.md",
-    "4) Bestiary/bestiary-2/gray-ooze.md",
-    "7) Players/Mordak.md",
-    "2) compendium/equipment/items/orders-covenant.md",
-    "2) compendium/equipment/relic-gifts/lawful-assault.md",
-    "7) Players/Add New Players.md",
-    "Jump Calculator.md",
+    "DC_Calculator.md",
     "Shop_template.md",
-    "Tavern_template.md",
+    "4) Bestiary/homebrew/gnome-arcane-sneak.md",
+    "zz-Tools/DunGen (Random Dungeon Generator).md",
+    "zz-Templates/zz-Templates.md",
+    "8) Adventures/-- Campaign Notes.md",
+    "8) Adventures/-- The Chaos Scar Intro.md",
+    "8) Adventures/The Alchemist’s Eyrie.md",
     "4) Bestiary/homebrew/homebrew.md",
+    "4) Bestiary/homebrew/dwarven-warpriest.md",
+    "4) Bestiary/4) Bestiary.md",
+    "4) Bestiary/homebrew/dwarven-caravan-guard.md",
+    "4) Bestiary/homebrew/duergar-shocktrooper.md",
+    "4) Bestiary/homebrew/dwarven-caravan-master.md",
+    "4) Bestiary/unique-creatures/Kobold Boss - Zolgran.md",
+    "4) Bestiary/homebrew/duergar-scout.md",
+    "4) Bestiary/monster-hunter-variants/monster-hunter-variants.md",
     "7) Players/Ediza.md",
-    "7) Players/Varas.md",
-    "7) Players/Winter.md",
-    "4) Bestiary/bestiary-1/living-waterfall.md",
-    "8) Adventures/5A - The Slaver's Stone (D181).md",
-    "4) Bestiary/homebrew/dolgarr.md",
-    "4) Bestiary/homebrew/dolgaunt.md",
-    "4) Bestiary/homebrew/dolgrim.md",
+    "7) Players/Add New Players.md",
+    "4) Bestiary/homebrew/beholder-gauth.md",
+    "4) Bestiary/monster-hunter-variants/giant-spectral-centipede.md",
+    "4) Bestiary/adventures/adventures.md",
+    "4) Bestiary/adventure-paths/adventure-paths.md",
+    "zz-Attachments/The Alchemist’s Eyrie-20240321224206418.webp",
+    "zz-Attachments/The Alchemist’s Eyrie-20240321224200882.webp",
+    "zz-Attachments/The Alchemist’s Eyrie-20240321224136216.webp",
+    "zz-Attachments/The Alchemist’s Eyrie-20240321224110675.webp",
+    "zz-Attachments/The Alchemist’s Eyrie-20240321224058032.webp",
+    "zz-Attachments/The Alchemist’s Eyrie-20240321224037619.webp",
+    "zz-Attachments/The Alchemist’s Eyrie-20240321224021990.webp",
+    "zz-Attachments/The Alchemist’s Eyrie-20240321223923350.webp",
+    "zz-Attachments/The Alchemist’s Eyrie-20240321221611504.webp",
+    "zz-Attachments/The Alchemist’s Eyrie-20240321221521838.webp",
+    "4) Bestiary/elite-variants",
     "4) Bestiary/unique-creatures",
-    "zz-Attachments/Menace at Otari-20240306165033051.webp",
-    "zz-Attachments/Menace at Otari-20240306164028697.webp",
-    "zz-Attachments/Menace at Otari-20240306161810022.webp",
-    "zz-Attachments/Menace at Otari-20240306161557915.webp",
-    "zz-Attachments/Menace at Otari-20240306161538224.webp",
-    "zz-Attachments/Menace at Otari-20240306122812013.webp",
-    "zz-Attachments/Menace at Otari-20240306122247805.webp",
-    "zz-Attachments/Menace at Otari-20240306121528622.webp",
-    "zz-Attachments/Menace at Otari-20240306121408960.webp",
-    "zz-Attachments/Menace at Otari-20240305232838284.webp",
     "6) NPCs/Otari",
     "4) Bestiary/lost-omens-monsters-of-myth",
     "zz-Templates/Handlebar Templates/monster_handlebar.hbs",

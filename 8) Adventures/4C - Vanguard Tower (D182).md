@@ -147,77 +147,33 @@ Shur-Tuuz, beholder gauth (B)
 Gnoll huntmaster (G)
 2 rust monsters (R)
 
-The beholder gauth is seated at the small table in
-the lower left hand corner. The magic item from the
-treasure parcel is located on the table. The beholder
-plans to pay Shur-Tuuz with it in exchange for one of
-the rust monsters Shur-Tuuz has in its possession. The
-beholder and gnoll are speaking in a mix of Abyssal
-and Deep Speech. A character would need to understand
-both languages to follow their conversation.
+The beholder gauth is seated at the small table in the lower left hand corner. The magic item from the treasure parcel is located on the table. The beholder plans to pay Shur-Tuuz with it in exchange for one of the rust monsters Shur-Tuuz has in its possession. The beholder and gnoll are speaking in a mix of Abyssal and Deep Speech. A character would need to understand both languages to follow their conversation. 
 
-Read the following when the heroes enter the
-room, either up the stairs or through one of the
-windows around the tower:
-Bookshelves line one wall of the area, and an alchemy set
-occupies a table near the stairs. Two rust monsters are
-curled up around the table. A glowing blue cage of bone
-surrounds the rust monsters.
-You hear the sounds of speech coming from the end of
-the long bookshelves, but the voices are too hushed to make
-out the language. Seated at a small table near the shelves
-are two creatures. One is recognizable as a beholder, its eye
-stalks taking in the surroundings. The other is a gnoll with
-its hand on an item on the table.
+Read the following when the heroes enter the room, either up the stairs or through one of the windows around the tower:
 
-If the heroes make their presence
-known, read the following, adjusting as
-needed to fit the circumstances:
-As you approach, the beholder drifts away from
-the table and turns its attentions to you. “Perhaps
-a bit of a break before we continue? I’m sure you’d
-like a demonstration.” The beholder barks a word
-and the bone cage clatters to the floor.
+> [!note]+ Read Aloud
+> Bookshelves line one wall of the area, and an alchemy set occupies a table near the stairs. Two rust monsters are curled up around the table. A glowing blue cage of bone surrounds the rust monsters.
+> 
+> You hear the sounds of speech coming from the end of the long bookshelves, but the voices are too hushed to make out the language. Seated at a small table near the shelves are two creatures. One is recognizable as a beholder, its eye stalks taking in the surroundings. The other is a gnoll with its hand on an item on the table.
+
+If the heroes make their presence known, read the following, adjusting as needed to fit the circumstances:
+
+> [!note]+ Read Aloud
+> As you approach, the beholder drifts away from the table and turns its attentions to you. “Perhaps a bit of a break before we continue? I’m sure you’d like a demonstration.” The beholder barks a word and the bone cage clatters to the floor.
 
 Tactics
-Shur-Tuuz fights the first part of the battle
-to show off to its potential client. It cycles
-through its eye ray powers, but once it is
-bloodied, it starts playing for keeps.
+Shur-Tuuz fights the first part of the battle to show off to its potential client. It cycles through its eye ray powers, but once it is bloodied, it starts playing for keeps.
 
-The huntmaster stays out of the fight
-initially unless attacked. If Shur-Tuuz takes
-double digit damage from any attack, it convinces
-the huntmaster to aid it by giving the
-gnolls the rust monsters for free.
+The huntmaster stays out of the fight initially unless attacked. If Shur-Tuuz takes double digit damage from any attack, it convinces the huntmaster to aid it by giving the gnolls the rust monsters for free.
 
 Features of the Area
-Illumination: The fireplace offers the
-primary source of illumination, though sunrods
-in sconces along the wall also provide
-light around the edges of the room.
+Illumination: The fireplace offers the primary source of illumination, though sunrods in sconces along the wall also provide light around the edges of the room.
 
-Bookshelves: The bookshelves contain
-journals from various adventurers as well as items
-that look delicious to the rust monsters. These journals
-are an excellent source of additional hooks
-and later adventurers. The bookshelves can be
-knocked over, dumping more food to distract the
-rust monsters. If a rust monster begins its turn in an
-overturned shelf, it spends its move action digging up
-small pieces of metal.
+Bookshelves: The bookshelves contain journals from various adventurers as well as items that look delicious to the rust monsters. These journals are an excellent source of additional hooks and later adventurers. The bookshelves can be knocked over, dumping more food to distract the rust monsters. If a rust monster begins its turn in an overturned shelf, it spends its move action digging up small pieces of metal.
 
-Alchemist’s Table: Adventurers can find enough
-components in the alchemy rig to make one potion of
-level 5 or lower.
+Alchemist’s Table: Adventurers can find enough components in the alchemy rig to make one potion of level 5 or lower.
 
-Blue Sigils: In addition, the blue sigils represent
-wards containing the rust monsters. Shur-Tuuz drops
-the wards at the beginning of the encounter but they
-can be brought back. Restoring the wards requires a
-DC 14 Arcana or Nature check as a standard action.
-The beholder automatically succeeds in restoring the
-wards with a minor action
+Blue Sigils: In addition, the blue sigils represent wards containing the rust monsters. Shur-Tuuz drops the wards at the beginning of the encounter but they can be brought back. Restoring the wards requires a DC 14 Arcana or Nature check as a standard action. The beholder automatically succeeds in restoring the wards with a minor action
 
 Treasure
 Parcel 3: Level 7 magic item An Interrupted Negotiation
