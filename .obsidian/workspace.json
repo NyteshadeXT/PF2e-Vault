@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DC_Calculators.md",
+                "file": "6) NPCs/Restwell Keep/Mother Aran.md",
                 "mode": "preview",
                 "source": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DC_Calculators.md",
+                "file": "6) NPCs/Restwell Keep/Mother Aran.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DC_Calculators.md"
+                "file": "6) NPCs/Restwell Keep/Mother Aran.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DC_Calculators.md",
+                "file": "6) NPCs/Restwell Keep/Mother Aran.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,9 +262,12 @@
   },
   "active": "5d4257c41755da8b",
   "lastOpenFiles": [
+    "6) NPCs/Restwell Keep/Zeta Windsnap.md",
+    "6) NPCs/Restwell Keep/Restwell Keep.md",
+    "8) Adventures/The Alchemist’s Eyrie.md",
+    "DC_Calculators.md",
     "4) Bestiary/bestiary-1/bestiary-1.md",
     "4) Bestiary/bestiary-1/adamantine-golem.md",
-    "DC_Calculators.md",
     "DC_Calculator.md",
     "Shop_template.md",
     "4) Bestiary/homebrew/gnome-arcane-sneak.md",
@@ -272,7 +275,6 @@
     "zz-Templates/zz-Templates.md",
     "8) Adventures/-- Campaign Notes.md",
     "8) Adventures/-- The Chaos Scar Intro.md",
-    "8) Adventures/The Alchemist’s Eyrie.md",
     "4) Bestiary/homebrew/homebrew.md",
     "4) Bestiary/homebrew/dwarven-warpriest.md",
     "4) Bestiary/4) Bestiary.md",
@@ -286,8 +288,6 @@
     "7) Players/Add New Players.md",
     "4) Bestiary/homebrew/beholder-gauth.md",
     "4) Bestiary/monster-hunter-variants/giant-spectral-centipede.md",
-    "4) Bestiary/adventures/adventures.md",
-    "4) Bestiary/adventure-paths/adventure-paths.md",
     "zz-Attachments/The Alchemist’s Eyrie-20240321224206418.webp",
     "zz-Attachments/The Alchemist’s Eyrie-20240321224200882.webp",
     "zz-Attachments/The Alchemist’s Eyrie-20240321224136216.webp",
