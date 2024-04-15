@@ -18,7 +18,7 @@
   "ITS@@nord": false,
   "ITS@@mini": false,
   "ITS@@notion": false,
-  "ITS@@its-d": true,
+  "ITS@@its-d": false,
   "pathfinder-2e-statblocks@@layout-theme-basic": "basic-pathfinder-2e-layout-theme-default",
   "ITS@@breadcrumbs-block": false,
   "ITS@@default-statblock": true,

@@ -8,55 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b852db7dfc1111f",
+            "id": "5d4257c41755da8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/4A - Glowstone Caverns (D177).md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "aee4088af3adab8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8) Adventures/2G - The Crossroads (D176).md",
+                "file": "6) NPCs/Restwell Keep/Chendra.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "dd2921b7ae94c347",
+            "id": "cadc1aca93103552",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zz-Tools/DunGen (Random Dungeon Generator).md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5d4257c41755da8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6) NPCs/Restwell Keep/Mother Aran.md",
+                "file": "9) Completed Adventures/2B - The Shrine of Glass-Spire Forest (D175) C.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6) NPCs/Restwell Keep/Mother Aran.md",
+                "file": "9) Completed Adventures/2B - The Shrine of Glass-Spire Forest (D175) C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6) NPCs/Restwell Keep/Mother Aran.md"
+                "file": "9) Completed Adventures/2B - The Shrine of Glass-Spire Forest (D175) C.md"
               }
             }
           },
@@ -175,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6) NPCs/Restwell Keep/Mother Aran.md",
+                "file": "9) Completed Adventures/2B - The Shrine of Glass-Spire Forest (D175) C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 512.5
+    "width": 372.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,50 +230,112 @@
       "dbfolder:Create a new database table": false,
       "templater-obsidian:Templater": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-import-json:JSON/CSV Importer": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5d4257c41755da8b",
+  "floating": {
+    "id": "baf98aeb02f747fc",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5331656ec13c4eb5",
+        "type": "window",
+        "children": [
+          {
+            "id": "d1ade92dc51c7dc6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7779e70122945abc",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -640,
+        "y": 18,
+        "width": 640,
+        "height": 673,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "035f7e96ef7c2861",
+        "type": "window",
+        "children": [
+          {
+            "id": "3b67edd41ab9c7b1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "da4e5cf093a6a42a",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "zz-Attachments/Gorn Hammerfall.png"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1280,
+        "y": 18,
+        "width": 640,
+        "height": 673,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "cadc1aca93103552",
   "lastOpenFiles": [
-    "6) NPCs/Restwell Keep/Zeta Windsnap.md",
+    "9) Completed Adventures/2A - Sliver's Call (D174) C.md",
+    "8) Adventures/4B - The Pillar of Eyes (D180).md",
+    "8) Adventures/4A - Glowstone Caverns (D177).md",
+    "8) Adventures/2G - The Crossroads (D176).md",
+    "9) Completed Adventures/The Trial of Balance C.md",
+    "9) Completed Adventures/Forgotten Tomb.md",
+    "9) Completed Adventures/Halloween 2023 One-Shot C.md",
+    "9) Completed Adventures/Pasted image 20230305122457.png",
+    "9) Completed Adventures/3C - The Wayward Wyrmling (D182) C.md",
+    "9) Completed Adventures/3B - The Splintered Spring (D179)-20240103130445894.webp",
+    "9) Completed Adventures/3B - The Splintered Spring (D179) - Done.md",
+    "9) Completed Adventures/3A - The Crawling Fane (D178) C.md",
+    "9) Completed Adventures/2H - Slaark's Crown (D220) C.md",
+    "9) Completed Adventures/2E - Down the Goblin Hole (D280) C.md",
+    "9) Completed Adventures/2F - The Lost Library (D173).md",
+    "9) Completed Adventures/2F - The Lost Library (D173)-20240103130230585.webp",
+    "1) Scratch Notes/Untitled.md",
+    "1) Scratch Notes/Notes.md",
     "6) NPCs/Restwell Keep/Restwell Keep.md",
+    "6) NPCs/Restwell Keep/Balewin.md",
     "8) Adventures/The Alchemist’s Eyrie.md",
-    "DC_Calculators.md",
-    "4) Bestiary/bestiary-1/bestiary-1.md",
-    "4) Bestiary/bestiary-1/adamantine-golem.md",
-    "DC_Calculator.md",
-    "Shop_template.md",
-    "4) Bestiary/homebrew/gnome-arcane-sneak.md",
-    "zz-Tools/DunGen (Random Dungeon Generator).md",
-    "zz-Templates/zz-Templates.md",
-    "8) Adventures/-- Campaign Notes.md",
-    "8) Adventures/-- The Chaos Scar Intro.md",
-    "4) Bestiary/homebrew/homebrew.md",
-    "4) Bestiary/homebrew/dwarven-warpriest.md",
-    "4) Bestiary/4) Bestiary.md",
-    "4) Bestiary/homebrew/dwarven-caravan-guard.md",
-    "4) Bestiary/homebrew/duergar-shocktrooper.md",
-    "4) Bestiary/homebrew/dwarven-caravan-master.md",
-    "4) Bestiary/unique-creatures/Kobold Boss - Zolgran.md",
-    "4) Bestiary/homebrew/duergar-scout.md",
-    "4) Bestiary/monster-hunter-variants/monster-hunter-variants.md",
+    "6) NPCs/Restwell Keep/Gorn Hammerfall.md",
+    "zz-Attachments/Gorn Hammerfall.png",
+    "6) NPCs/Restwell Keep/Chendra.md",
+    "zz-Attachments/Chendra.png",
+    "1) Scratch Notes/Untitled 1.md",
+    "7) Players/Zeta.md",
+    "7) Players/Winter.md",
+    "7) Players/Varas.md",
+    "7) Players/Mordak.md",
     "7) Players/Ediza.md",
-    "7) Players/Add New Players.md",
-    "4) Bestiary/homebrew/beholder-gauth.md",
-    "4) Bestiary/monster-hunter-variants/giant-spectral-centipede.md",
     "zz-Attachments/The Alchemist’s Eyrie-20240321224206418.webp",
     "zz-Attachments/The Alchemist’s Eyrie-20240321224200882.webp",
     "zz-Attachments/The Alchemist’s Eyrie-20240321224136216.webp",
     "zz-Attachments/The Alchemist’s Eyrie-20240321224110675.webp",
     "zz-Attachments/The Alchemist’s Eyrie-20240321224058032.webp",
-    "zz-Attachments/The Alchemist’s Eyrie-20240321224037619.webp",
-    "zz-Attachments/The Alchemist’s Eyrie-20240321224021990.webp",
-    "zz-Attachments/The Alchemist’s Eyrie-20240321223923350.webp",
-    "zz-Attachments/The Alchemist’s Eyrie-20240321221611504.webp",
-    "zz-Attachments/The Alchemist’s Eyrie-20240321221521838.webp",
     "4) Bestiary/elite-variants",
     "4) Bestiary/unique-creatures",
     "6) NPCs/Otari",

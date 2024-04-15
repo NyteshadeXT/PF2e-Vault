@@ -11,13 +11,13 @@
       "player": true
     },
     {
-      "note": "Winter",
-      "path": "7) Players/Winter.md",
-      "name": "Winter",
-      "ac": 25,
+      "note": "Ediza",
+      "path": "7) Players/Ediza.md",
+      "name": "Ediza",
+      "ac": 26,
       "hp": 80,
       "level": 8,
-      "modifier": 16,
+      "modifier": 13,
       "player": true
     },
     {
@@ -31,23 +31,13 @@
       "player": true
     },
     {
-      "note": "Zeta",
-      "path": "7) Players/Zeta.md",
-      "name": "Zeta",
-      "ac": 17,
-      "hp": 20,
-      "level": 1,
-      "modifier": 6,
-      "player": true
-    },
-    {
-      "note": "Ediza",
-      "path": "7) Players/Ediza.md",
-      "name": "Ediza",
-      "ac": 26,
+      "note": "Winter",
+      "path": "7) Players/Winter.md",
+      "name": "Winter",
+      "ac": 25,
       "hp": 80,
       "level": 8,
-      "modifier": 13,
+      "modifier": 16,
       "player": true
     }
   ],
@@ -56,16 +46,9 @@
       "name": "Chaos Scar",
       "players": [
         "Mordak",
+        "Ediza",
         "Winter",
-        "Varas",
-        "Zeta",
-        "Ediza"
-      ]
-    },
-    {
-      "name": "Virtual",
-      "players": [
-        "Zeta"
+        "Varas"
       ]
     }
   ],
@@ -73,198 +56,83 @@
   "statuses": [
     {
       "name": "Blinded",
-      "description": "You can’t see. All normal terrain is difficult terrain to you.\nYou can’t detect anything using vision. You automatically\ncritically fail Perception checks that require you to be\nable to see, and if vision is your only precise sense, you\ntake a –4 status penalty to Perception checks. You are\nimmune to visual effects. Blinded overrides dazzled.",
-      "id": "Blinded"
+      "id": "Blinded",
+      "description": "A blinded creature can’t see and automatically fails any ability check that requires sight.\nAttack rolls against the creature have advantage, and the creature’s Attack rolls have disadvantage."
     },
     {
-      "name": "Clumsy",
-      "description": "Your movements become clumsy and inexact. Clumsy\nalways includes a value. You take a status penalty equal\nto the condition value to Dexterity-based checks and\nDCs, including AC, Reflex saves, ranged attack rolls, and\nskill checks using Acrobatics, Stealth, and Thievery.",
+      "name": "Charmed",
       "id": "Charmed",
-      "hasAmount": true,
-      "startingAmount": 1,
-      "amount": 1
+      "description": "A charmed creature can’t Attack the charmer or target the charmer with harmful Abilities or magical Effects.\nThe charmer has advantage on any ability check to interact socially with the creature."
     },
     {
-      "name": "Concealed",
-      "description": "While you are concealed from a creature, such as in a thick\nfog, you are difficult for that creature to see. You can still\nbe observed, but you’re tougher to target. A creature that\nyou’re concealed from must succeed at a DC 5 flat check\nwhen targeting you with an attack, spell, or other effect.\nArea effects aren’t subject to this flat check. If the check\nfails, the attack, spell, or effect doesn’t affect you.",
-      "id": "Concentrating"
+      "name": "Concentrating",
+      "id": "Concentrating",
+      "description": "Some spells require you to maintain concentration in order to keep their magic active. If you lose concentration, such a spell ends.\nA creature loses concentration when: it casts another spell that requires concentration, is incapacitated, or dies.\nWhen a creature takes damage, it must make a constitution saving throw with a DC of 10 or half the damage it took, whichever is higher. On a failure, concentration is lost."
     },
     {
       "name": "Deafened",
-      "description": "You can’t hear. You automatically critically fail Perception\nchecks that require you to be able to hear. You take a\n–2 status penalty to Perception checks for initiative and\nchecks that involve sound but also rely on other senses. If\nyou perform an action with the auditory trait, you must\nsucceed at a DC 5 flat check or the action is lost; attempt\nthe check after spending the action but before any effects\nare applied. You are immune to auditory effects.",
-      "id": "Deafened"
+      "id": "Deafened",
+      "description": "A deafened creature can’t hear and automatically fails any ability check that requires hearing."
     },
     {
       "name": "Frightened",
-      "description": "You’re gripped by fear and struggle to control your nerves.\nThe frightened condition always includes a value. You take\na status penalty equal to this value to all your checks and\nDCs. Unless specified otherwise, at the end of each of your\nturns, the value of your frightened condition decreases\nby 1.",
       "id": "Frightened",
-      "resetOnRound": true,
-      "hasAmount": true,
-      "startingAmount": 1,
-      "amount": 1
+      "description": "A frightened creature has disadvantage on Ability Checks and Attack rolls while the source of its fear is within Line of Sight.\nThe creature can’t willingly move closer to the source of its fear."
     },
     {
-      "name": "Grabbed",
-      "description": "You’re held in place by another creature, giving you the\nflat-footed and immobilized conditions. If you attempt a\nmanipulate action while grabbed, you must succeed at a\nDC 5 flat check or it is lost; roll the check after spending\nthe action, but before any effects are applied.",
-      "id": "Grappled"
+      "name": "Grappled",
+      "id": "Grappled",
+      "description": "A grappled creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.\nThe condition ends if the Grappler is incapacitated.\nThe condition also ends if an Effect removes the grappled creature from the reach of the Grappler or Grappling Effect, such as when a creature is hurled away by the Thunderwave spell."
     },
     {
-      "name": "Immobilized",
-      "description": "You can’t use any action with the move trait. If you’re\nimmobilized by something holding you in place and an\nexternal force would move you out of your space, the\nforce must succeed at a check against either the DC of the\neffect holding you in place or the relevant defense (usually\nFortitude DC) of the monster holding you in place.",
-      "id": "Incapacitated"
+      "name": "Incapacitated",
+      "id": "Incapacitated",
+      "description": "An incapacitated creature can’t take Actions or Reactions."
     },
     {
       "name": "Invisible",
-      "description": "While invisible, you can’t be seen. You’re undetected to\neveryone. Creatures can Seek to attempt to detect you; if\na creature succeeds at its Perception check against your\nStealth DC, you become hidden to that creature until\nyou Sneak to become undetected again. If you become\ninvisible while someone can already see you, you start\nout hidden to the observer (instead of undetected) until you successfully Sneak. You can’t become observed while\ninvisible except via special abilities or magic.",
-      "id": "Invisible"
+      "id": "Invisible",
+      "description": "An invisible creature is impossible to see without the aid of magic or a Special sense. For the Purpose of Hiding, the creature is heavily obscured. The creature’s Location can be detected by any noise it makes or any tracks it leaves.\nAttack rolls against the creature have disadvantage, and the creature’s Attack rolls have advantage."
     },
     {
       "name": "Paralyzed",
-      "description": "Your body is frozen in place. You have the flat-footed\ncondition and can’t act except to Recall Knowledge and\nuse actions that require only the use of your mind (as\ndetermined by the GM). Your senses still function, but\nonly in the areas you can perceive without moving your\nbody, so you can’t Seek while paralyzed.",
-      "id": "Paralyzed"
+      "id": "Paralyzed",
+      "description": "A paralyzed creature is incapacitated and can’t move or speak.\nThe creature automatically fails Strength and Dexterity Saving Throws.\nAttack rolls against the creature have advantage.\nAny Attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature."
     },
     {
       "name": "Petrified",
-      "description": "You have been turned to stone. You can’t act, nor can\nyou sense anything. You become an object with a Bulk\ndouble your normal Bulk (typically 12 for a petrified\nMedium creature or 6 for a petrified Small creature), AC 9,\nHardness 8, and the same current Hit Points you had when\nalive. You don’t have a Broken Threshold. When you’re\nturned back into flesh, you have the same number of Hit\nPoints you had as a statue. If the statue is destroyed, you\nimmediately die. While petrified, your mind and body are\nin stasis, so you don’t age or notice the passing of time.",
-      "id": "Petrified"
+      "id": "Petrified",
+      "description": "A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.\nThe creature is incapacitated, can’t move or speak, and is unaware of its surroundings.\nAttack rolls against the creature have advantage.\nThe creature automatically fails Strength and Dexterity Saving Throws.\nThe creature has Resistance to all damage.\nThe creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized."
     },
     {
       "name": "Poisoned",
-      "description": "",
-      "id": "Poisoned"
+      "id": "Poisoned",
+      "description": "A poisoned creature has disadvantage on Attack rolls and Ability Checks."
     },
     {
       "name": "Prone",
-      "description": "You’re lying on the ground. You are flat-footed and take\na –2 circumstance penalty to attack rolls. The only move\nactions you can use while you’re prone are Crawl and\nStand. Standing up ends the prone condition. You can\nTake Cover while prone to hunker down and gain cover\nagainst ranged attacks, even if you don’t have an object to\nget behind, gaining a +4 circumstance bonus to AC against\nranged attacks (but you remain flat-footed).",
-      "id": "Prone"
+      "id": "Prone",
+      "description": "A prone creature’s only Movement option is to crawl, unless it stands up and thereby ends the condition.\nThe creature has disadvantage on Attack rolls.\nAn Attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the Attack roll has disadvantage."
     },
     {
-      "name": "Sickened",
-      "description": "You feel ill. Sickened always includes a value. You take\na status penalty equal to this value on all your checks\nand DCs. You can’t willingly ingest anything—including\nelixirs and potions—while sickened.\nYou can spend a single action retching in an attempt to\nrecover, which lets you immediately attempt a Fortitude\nsave against the DC of the effect that made you sickened.\nOn a success, you reduce your sickened value by 1 (or by\n2 on a critical success).",
+      "name": "Reacted",
       "id": "Reacted",
-      "hasAmount": true,
-      "startingAmount": 1,
-      "amount": 1
+      "description": "A creature, unless otherwise specified, gets one reaction per round of combat.\nA reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s.\nA reaction can be spent to make an opportunity attack, do a readied action, or use an ability that requires a reaction.\nA creature that has already reacted cannot use a reaction until the start of its turn."
     },
     {
       "name": "Restrained",
-      "description": "You’re tied up and can barely move, or a creature has\nyou pinned. You have the flat-footed and immobilized\nconditions, and you can’t use any actions with the attack\nor manipulate traits except to attempt to Escape or Force\nOpen your bonds. Restrained overrides grabbed.",
-      "id": "Restrained"
+      "id": "Restrained",
+      "description": "A restrained creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.\nAttack rolls against the creature have advantage, and the creature’s Attack rolls have disadvantage.\nThe creature has disadvantage on Dexterity Saving Throws."
     },
     {
       "name": "Stunned",
-      "description": "You’ve become senseless. You can’t act while stunned.\nStunned usually includes a value, which indicates how\nmany total actions you lose, possibly over multiple turns,\nfrom being stunned. Each time you regain actions (such\nas at the start of your turn), reduce the number you regain\nby your stunned value, then reduce your stunned value\nby the number of actions you lost. For example, if you\nwere stunned 4, you would lose all 3 of your actions on\nyour turn, reducing you to stunned 1; on your next turn,\nyou would lose 1 more action, and then be able to use\nyour remaining 2 actions normally. Stunned might also\nhave a duration instead of a value, such as “stunned for\n1 minute.” In this case, you lose all your actions for the\nlisted duration.\nStunned overrides slowed. If the duration of your\nstunned condition ends while you are slowed, you count\nthe actions lost to the stunned condition toward those lost\nto being slowed. So, if you were stunned 1 and slowed 2\nat the beginning of your turn, you would lose 1 action\nfrom stunned, and then lose only 1 additional action by\nbeing slowed, so you would still have 1 action remaining\nto use that turn.",
       "id": "Stunned",
-      "hasAmount": true,
-      "startingAmount": 1,
-      "amount": 1
+      "description": "A stunned creature is incapacitated, can’t move, and can speak only falteringly.\nThe creature automatically fails Strength and Dexterity Saving Throws.\nAttack rolls against the creature have advantage."
     },
     {
       "name": "Unconscious",
-      "description": "You’re sleeping, or you’ve been knocked out. You can’t\nact. You take a –4 status penalty to AC, Perception, and\nReflex saves, and you have the blinded and flat-footed\nconditions. When you gain this condition, you fall prone\nand drop items you are wielding or holding unless the\neffect states otherwise or the GM determines you’re in a\nposition in which you wouldn’t.",
-      "id": "Unconscious"
-    },
-    {
-      "name": "Bane",
-      "description": "Represents effect of the Bane spell.",
-      "id": "ID_788bdb886b4b"
-    },
-    {
-      "name": "Confused",
-      "description": "You don’t have your wits about you, and you attack\nwildly. You are flat-footed, you don’t treat anyone as your\nally (though they might still treat you as theirs), and you\ncan’t Delay, Ready, or use reactions.\nYou use all your actions to Strike or cast offensive\ncantrips, though the GM can have you use other actions\nto facilitate attack, such as draw a weapon, move so that a\ntarget is in reach, and so forth. Your targets are determined\nrandomly by the GM. If you have no other viable targets,\nyou target yourself, automatically hitting but not scoring a\ncritical hit. If it’s impossible for you to attack or cast spells,\nyou babble incoherently, wasting your actions.\nEach time you take damage from an attack or spell,\nyou can attempt a DC 11 flat check to recover from your\nconfusion and end the condition.",
-      "id": "ID_4bc9395a893b"
-    },
-    {
-      "name": "Controlled",
-      "description": "Someone else is making your decisions for you, usually\nbecause you’re being commanded or magically dominated.\nThe controller dictates how you act and can make you\nuse any of your actions, including attacks, reactions, or\neven Delay. The controller usually does not have to spend\ntheir own actions when controlling you.",
-      "id": "ID_cbdb9b3b6998"
-    },
-    {
-      "name": "Dazzled",
-      "description": "Your eyes are overstimulated. If vision is your only precise\nsense, all creatures and objects are concealed from you.",
-      "id": "ID_caba385a9bda"
-    },
-    {
-      "name": "Doomed",
-      "description": "A powerful force has gripped your soul, calling you\ncloser to death. Doomed always includes a value. The\ndying value at which you die is reduced by your doomed\nvalue. If your maximum dying value is reduced to 0, you\ninstantly die. When you die, you’re no longer doomed.\nYour doomed value decreases by 1 each time you get a\nfull night’s rest.",
-      "id": "ID_9acb7a483afb"
-    },
-    {
-      "name": "Drained",
-      "description": "When a creature successfully drains you of blood or life\nforce, you become less healthy. Drained always includes\na value. You take a status penalty equal to your drained\nvalue on Constitution-based checks, such as Fortitude\nsaves. You also lose a number of Hit Points equal to your\nlevel (minimum 1) times the drained value, and your\nmaximum Hit Points are reduced by the same amount.\nFor example, if you’re hit by an effect that inflicts drained\n3 and you’re a 3rd-level character, you lose 9 Hit Points\nand reduce your maximum Hit Points by 9. Losing these\nHit Points doesn’t count as taking damage.\nEach time you get a full night’s rest, your drained value\ndecreases by 1. This increases your maximum Hit Points,\nbut you don’t immediately recover the lost Hit Points.",
-      "id": "ID_4aeba95b2a0a"
-    },
-    {
-      "name": "Dying",
-      "description": "You are bleeding out or otherwise at death’s door. While\nyou have this condition, you are unconscious. Dying always\nincludes a value, and if it ever reaches dying 4, you die. If\nyou’re dying, you must attempt a recovery check (page 459)\nat the start of your turn each round to determine whether\nyou get better or worse. Your dying condition increases by 1\nif you take damage while dying, or by 2 if you take damage\nfrom an enemy’s critical hit or a critical failure on your save.",
-      "id": "ID_0a0b8b784828"
-    },
-    {
-      "name": "Encumbered",
-      "description": "You are carrying more weight than you can manage.\nWhile you’re encumbered, you’re clumsy 1 and take a\n10-foot penalty to all your Speeds. As with all penalties\nto your Speed, this can’t reduce your Speed below 5 feet.",
-      "id": "ID_2a4b595839f8"
-    },
-    {
-      "name": "Enfeebled",
-      "description": "You’re physically weakened. Enfeebled always includes a\nvalue. When you are enfeebled, you take a status penalty\nequal to the condition value to Strength-based rolls\nand DCs, including Strength-based melee attack rolls,\nStrength-based damage rolls, and Athletics checks.",
-      "id": "ID_cbca99c87b2b",
-      "hasAmount": true,
-      "startingAmount": 1,
-      "amount": 1
-    },
-    {
-      "name": "Fascinated",
-      "description": "You are compelled to focus your attention on something,\ndistracting you from whatever else is going on around\nyou. You take a –2 status penalty to Perception and skill\nchecks, and you can’t use actions with the concentrate\ntrait unless they or their intended consequences are\nrelated to the subject of your fascination (as determined\nby the GM). For instance, you might be able to Seek\nand Recall Knowledge about the subject, but you likely\ncouldn’t cast a spell targeting a different creature. This condition ends if a creature uses hostile actions against\nyou or any of your allies.",
-      "id": "ID_6998a8bbfaf9"
-    },
-    {
-      "name": "Fatigued",
-      "description": "You’re tired and can’t summon much energy. You take\na –1 status penalty to AC and saving throws. While\nexploring, you can’t choose an exploration activity.\nYou recover from fatigue after a full night’s rest.",
-      "id": "ID_bbd87afa9808"
-    },
-    {
-      "name": "Flat-footed",
-      "description": "You’re distracted or otherwise unable to focus your full\nattention on defense. You take a –2 circumstance penalty\nto AC. Some effects give you the flat-footed condition only\nto certain creatures or against certain attacks. Others—\nespecially conditions—can make you universally flatfooted\nagainst everything. If a rule doesn’t specify that the\ncondition applies only to certain circumstances, it applies\nto all of them; for example, many effects simply say “The\ntarget is flat-footed.”",
-      "id": "ID_28e81bf9b8d9"
-    },
-    {
-      "name": "Hidden",
-      "description": "While you’re hidden from a creature, that creature knows\nthe space you’re in but can’t tell precisely where you are.\nYou typically become hidden by using Stealth to Hide.\nWhen Seeking a creature using only imprecise senses, it\nremains hidden, rather than observed. A creature you’re\nhidden from is flat-footed to you, and it must succeed at\na DC 11 flat check when targeting you with an attack,\nspell, or other effect or it fails affect you. Area effects aren’t\nsubject to this flat check.",
-      "id": "ID_0a3b1b795899"
-    },
-    {
-      "name": "Persistent Damage",
-      "description": "Persistent damage comes from effects like acid, being on\nfire, or many other situations. It appears as “X persistent\n[type] damage,” where “X” is the amount of damage dealt\nand “[type]” is the damage type. Instead of taking persistent\ndamage immediately, you take it at the end of each of your\nturns as long as you have the condition, rolling any damage\ndice anew each time. After you take persistent damage, roll\na DC 15 flat check to see if you recover from the persistent\ndamage. If you succeed, the condition ends.",
-      "id": "ID_49e90bbb0a69",
-      "hasAmount": true,
-      "startingAmount": 5,
-      "amount": 5
-    },
-    {
-      "name": "Quickened",
-      "description": "You gain 1 additional action at the start of your turn each\nround. Many effects that make you quickened specify the\ntypes of actions you can use with this additional action.\nIf you become quickened from multiple sources, you can\nuse the extra action you’ve been granted for any single\naction allowed by any of the effects that made you\nquickened. Because quickened has its effect at the start\nof your turn, you don’t immediately gain actions if you\nbecome quickened during your turn.",
-      "id": "ID_880b290a6b59"
-    },
-    {
-      "name": "Slowed",
-      "description": "You have fewer actions. Slowed always includes a value.\nWhen you regain your actions at the start of your turn, reduce the number of actions you regain by your slowed\nvalue. Because slowed has its effect at the start of your\nturn, you don’t immediately lose actions if you become\nslowed during your turn.",
-      "id": "ID_7b59787b494b",
-      "hasAmount": true,
-      "startingAmount": 1,
-      "amount": 1
-    },
-    {
-      "name": "Stupefied",
-      "description": "Your thoughts and instincts are clouded. Stupefied always\nincludes a value. You take a status penalty equal to this\nvalue on Intelligence-, Wisdom-, and Charisma-based\nchecks and DCs, including Will saving throws, spell\nattack rolls, spell DCs, and skill checks that use these\nability scores. Any time you attempt to Cast a Spell while\nstupefied, the spell is disrupted unless you succeed at a\nflat check with a DC equal to 5 + your stupefied value.",
-      "id": "ID_b95b0bebd9b8"
-    },
-    {
-      "name": "Wounded",
-      "description": "You have been seriously injured. If you lose the dying\ncondition and do not already have the wounded\ncondition, you become wounded 1. If you already\nhave the wounded condition when you lose the dying\ncondition, your wounded condition value increases by 1.\nIf you gain the dying condition while wounded, increase\nyour dying condition value by your wounded value.\nThe wounded condition ends if someone successfully\nrestores Hit Points to you with Treat Wounds, or if you\nare restored to full Hit Points and rest for 10 minutes.",
-      "id": "ID_683bbb4a4bd9",
-      "hasAmount": true,
-      "startingAmount": 1,
-      "amount": 1
+      "id": "Unconscious",
+      "description": "An unconscious creature is incapacitated, can’t move or speak, and is unaware of its surroundings.\nThe creature drops whatever it’s holding and falls prone.\nThe creature automatically fails Strength and Dexterity Saving Throws.\nAttack rolls against the creature have advantage.\nAny Attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature."
     }
   ],
   "unconsciousId": "Unconscious",
@@ -277,14 +145,14 @@
   "preferStatblockLink": false,
   "initiative": "1d20 + %mod%",
   "modifier": null,
-  "sync": true,
+  "sync": false,
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
     "creatures": [
       {
         "name": "Mordak",
-        "initiative": 32,
+        "initiative": 23,
         "static": false,
         "modifier": 17,
         "hp": 114,
@@ -293,7 +161,7 @@
         "currentAC": 27,
         "note": "Mordak",
         "path": "7) Players/Mordak.md",
-        "id": "ID_2a584af9387a",
+        "id": "ID_49eb095b2909",
         "currentHP": 114,
         "tempHP": 0,
         "status": [],
@@ -305,8 +173,30 @@
         "friendly": false
       },
       {
+        "name": "Ediza",
+        "initiative": 32,
+        "static": false,
+        "modifier": 13,
+        "hp": 80,
+        "currentMaxHP": 80,
+        "ac": 26,
+        "currentAC": 26,
+        "note": "Ediza",
+        "path": "7) Players/Ediza.md",
+        "id": "ID_a9bb9a29682a",
+        "currentHP": 80,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 8,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
         "name": "Winter",
-        "initiative": 22,
+        "initiative": 33,
         "static": false,
         "modifier": 16,
         "hp": 80,
@@ -315,7 +205,7 @@
         "currentAC": 25,
         "note": "Winter",
         "path": "7) Players/Winter.md",
-        "id": "ID_5b3829d96a1a",
+        "id": "ID_79da89ba8b9a",
         "currentHP": 80,
         "tempHP": 0,
         "status": [],
@@ -328,7 +218,7 @@
       },
       {
         "name": "Varas",
-        "initiative": 32,
+        "initiative": 18,
         "static": false,
         "modifier": 14,
         "hp": 94,
@@ -337,52 +227,8 @@
         "currentAC": 26,
         "note": "Varas",
         "path": "7) Players/Varas.md",
-        "id": "ID_09cac87a6818",
+        "id": "ID_385929289b5b",
         "currentHP": 94,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "level": 8,
-        "player": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false
-      },
-      {
-        "name": "Zeta",
-        "initiative": 15,
-        "static": false,
-        "modifier": 6,
-        "hp": 20,
-        "currentMaxHP": 20,
-        "ac": 17,
-        "currentAC": 17,
-        "note": "Zeta",
-        "path": "7) Players/Zeta.md",
-        "id": "ID_3a997a08fa2a",
-        "currentHP": 20,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "level": 1,
-        "player": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false
-      },
-      {
-        "name": "Ediza",
-        "initiative": 29,
-        "static": false,
-        "modifier": 13,
-        "hp": 80,
-        "currentMaxHP": 80,
-        "ac": 26,
-        "currentAC": 26,
-        "note": "Ediza",
-        "path": "7) Players/Ediza.md",
-        "id": "ID_4bb8d838b848",
-        "currentHP": 58,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -424,148 +270,9 @@
   "rollHP": false,
   "descending": true,
   "builder": {
-    "showParty": false,
-    "showXP": false,
-    "sidebarIcon": true,
-    "headers": [
-      {
-        "text": "Level",
-        "field": "level",
-        "type": 0
-      },
-      {
-        "text": "Size",
-        "field": "size",
-        "type": 0
-      },
-      {
-        "text": "Alignment",
-        "field": "alignment",
-        "type": 0
-      },
-      {
-        "text": "Source",
-        "field": "source",
-        "type": 0
-      }
-    ],
-    "filters": {
-      "filters": [
-        {
-          "type": 2,
-          "text": "Size",
-          "fields": [
-            "size"
-          ],
-          "options": [],
-          "id": "ID_DEFAULT_SIZE_FILTER",
-          "derive": true
-        },
-        {
-          "type": 2,
-          "text": "Alignment",
-          "fields": [
-            "alignment"
-          ],
-          "options": [],
-          "id": "ID_DEFAULT_ALIGNMENT_FILTER",
-          "derive": true
-        },
-        {
-          "type": 2,
-          "text": "Source",
-          "fields": [
-            "source"
-          ],
-          "options": [
-            "B2",
-            "B1",
-            "B3",
-            "GMG",
-            "HB",
-            "SOURCE",
-            "TiO",
-            "CotKK",
-            "AP",
-            "Pathfinder #180: The Smoking Gun pg. 2",
-            "FoP",
-            "BotD"
-          ],
-          "id": "ID_DEFAULT_TYPE_FILTER",
-          "derive": true
-        },
-        {
-          "type": 2,
-          "text": "Level",
-          "fields": [
-            "level"
-          ],
-          "options": [
-            "Creature 3",
-            "Creature 5",
-            "Creature 6",
-            "Creature 4",
-            "Creature 1",
-            "Creature 2",
-            "Creature 13",
-            "Creature 18",
-            "Creature -1",
-            "Creature 7",
-            "Creature 10",
-            "Creature 11",
-            "Creature 12",
-            "Creature 14",
-            "Creature 15",
-            "Creature 0",
-            "Creature 9",
-            "Creature 8",
-            "Creature 16",
-            "Creature 17",
-            "Creature 19",
-            "Creature 20",
-            "Creature 23",
-            "Creature 21",
-            "Creature 24",
-            "Creature ",
-            "Creature 22",
-            "Creature 25"
-          ],
-          "id": "ID_DEFAULT_CR_FILTER",
-          "derive": true
-        }
-      ],
-      "layout": [
-        {
-          "nested": [
-            {
-              "id": "ID_DEFAULT_TYPE_FILTER",
-              "type": "filter"
-            }
-          ],
-          "id": "ID_DEFAULT_NESTED_CR",
-          "type": "nested"
-        },
-        {
-          "id": "ID_DEFAULT_NESTED_LAYOUT",
-          "type": "nested",
-          "nested": [
-            {
-              "id": "ID_DEFAULT_CR_FILTER",
-              "type": "filter"
-            },
-            {
-              "id": "ID_DEFAULT_SIZE_FILTER",
-              "type": "filter"
-            },
-            {
-              "id": "ID_DEFAULT_ALIGNMENT_FILTER",
-              "type": "filter"
-            }
-          ]
-        }
-      ]
-    }
+    "showParty": true,
+    "showXP": true,
+    "sidebarIcon": true
   },
-  "rollPlayerInitiatives": 0,
-  "leafletIntegration": false
+  "rollPlayerInitiatives": 0
 }
