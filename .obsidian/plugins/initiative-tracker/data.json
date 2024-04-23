@@ -7,7 +7,7 @@
       "ac": 27,
       "hp": 114,
       "level": 8,
-      "modifier": 17,
+      "modifier": 18,
       "player": true
     },
     {
@@ -39,6 +39,16 @@
       "level": 8,
       "modifier": 16,
       "player": true
+    },
+    {
+      "note": "Zeta",
+      "path": "7) Players/Zeta.md",
+      "name": "Zeta",
+      "ac": 17,
+      "hp": 20,
+      "level": 1,
+      "modifier": 6,
+      "player": true
     }
   ],
   "parties": [
@@ -48,7 +58,8 @@
         "Mordak",
         "Ediza",
         "Winter",
-        "Varas"
+        "Varas",
+        "Zeta"
       ]
     }
   ],
@@ -152,16 +163,16 @@
     "creatures": [
       {
         "name": "Mordak",
-        "initiative": 23,
+        "initiative": 22,
         "static": false,
-        "modifier": 17,
+        "modifier": 18,
         "hp": 114,
         "currentMaxHP": 114,
         "ac": 27,
         "currentAC": 27,
         "note": "Mordak",
         "path": "7) Players/Mordak.md",
-        "id": "ID_49eb095b2909",
+        "id": "ID_f97bab4b389b",
         "currentHP": 114,
         "tempHP": 0,
         "status": [],
@@ -174,7 +185,7 @@
       },
       {
         "name": "Ediza",
-        "initiative": 32,
+        "initiative": 26,
         "static": false,
         "modifier": 13,
         "hp": 80,
@@ -183,8 +194,8 @@
         "currentAC": 26,
         "note": "Ediza",
         "path": "7) Players/Ediza.md",
-        "id": "ID_a9bb9a29682a",
-        "currentHP": 80,
+        "id": "ID_ca5ada5bea29",
+        "currentHP": 72,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -196,7 +207,7 @@
       },
       {
         "name": "Winter",
-        "initiative": 33,
+        "initiative": 18,
         "static": false,
         "modifier": 16,
         "hp": 80,
@@ -205,8 +216,8 @@
         "currentAC": 25,
         "note": "Winter",
         "path": "7) Players/Winter.md",
-        "id": "ID_79da89ba8b9a",
-        "currentHP": 80,
+        "id": "ID_89fb5b0b590a",
+        "currentHP": 72,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -218,7 +229,7 @@
       },
       {
         "name": "Varas",
-        "initiative": 18,
+        "initiative": 17,
         "static": false,
         "modifier": 14,
         "hp": 94,
@@ -227,12 +238,34 @@
         "currentAC": 26,
         "note": "Varas",
         "path": "7) Players/Varas.md",
-        "id": "ID_385929289b5b",
-        "currentHP": 94,
+        "id": "ID_19d8296a4a7b",
+        "currentHP": 85,
         "tempHP": 0,
         "status": [],
         "enabled": true,
         "level": 8,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Zeta",
+        "initiative": 22,
+        "static": false,
+        "modifier": 6,
+        "hp": 20,
+        "currentMaxHP": 20,
+        "ac": 17,
+        "currentAC": 17,
+        "note": "Zeta",
+        "path": "7) Players/Zeta.md",
+        "id": "ID_29a838387a19",
+        "currentHP": 20,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 1,
         "player": true,
         "active": false,
         "hidden": false,

@@ -7,13 +7,13 @@ playerLevel: 8
 taskDifficulty: -2
 skillDifficulty: -5
 itemLevel: 8
-itemValue: 1000
+itemValue: 25
 itemType: 2
 Rush: false
-craftProficiency: 1.1
-itemRarity: 2
-rushLevel: "-1"
-completionDays: 10
+craftProficiency: 1
+itemRarity: 0
+rushLevel: 0
+completionDays: 1
 rushCompletion: true
 craftRoll: 1
 ---

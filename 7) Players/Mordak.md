@@ -1,7 +1,7 @@
 ---
 hp: 114
 ac: 27
-modifier: 17
+modifier: 18
 level: 8
 Player_Name: Steve
 Alignment: LN

@@ -60,7 +60,7 @@ At the start of the encounter, place the following foes on the map:
 name: Outside & Approacthing
 party: Chaos Scar
 creatures:
-- 2: [[Stone Giant]] 
+- 2: [[Stone Giant, Dwarven Warrior]] 
 ```
 
 If the characters seem suspicious, they can try to penetrate the wererats’ disguises. A [[sense-motive|Sense Motive]] check reveals the fllowing information, depending on the check result:
