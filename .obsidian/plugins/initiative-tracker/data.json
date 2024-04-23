@@ -161,7 +161,11 @@
         "currentAC": 27,
         "note": "Mordak",
         "path": "7) Players/Mordak.md",
+<<<<<<< Updated upstream
         "id": "ID_49eb095b2909",
+=======
+        "id": "ID_1ad90b4aeb3a",
+>>>>>>> Stashed changes
         "currentHP": 114,
         "tempHP": 0,
         "status": [],
@@ -205,7 +209,11 @@
         "currentAC": 25,
         "note": "Winter",
         "path": "7) Players/Winter.md",
+<<<<<<< Updated upstream
         "id": "ID_79da89ba8b9a",
+=======
+        "id": "ID_b959983b1948",
+>>>>>>> Stashed changes
         "currentHP": 80,
         "tempHP": 0,
         "status": [],
@@ -227,7 +235,11 @@
         "currentAC": 26,
         "note": "Varas",
         "path": "7) Players/Varas.md",
+<<<<<<< Updated upstream
         "id": "ID_385929289b5b",
+=======
+        "id": "ID_4829cafb1909",
+>>>>>>> Stashed changes
         "currentHP": 94,
         "tempHP": 0,
         "status": [],
@@ -237,6 +249,53 @@
         "active": false,
         "hidden": false,
         "friendly": false
+<<<<<<< Updated upstream
+=======
+      },
+      {
+        "name": "Zeta",
+        "initiative": 15,
+        "static": false,
+        "modifier": 6,
+        "hp": 20,
+        "currentMaxHP": 20,
+        "ac": 17,
+        "currentAC": 17,
+        "note": "Zeta",
+        "path": "7) Players/Zeta.md",
+        "id": "ID_38392b389ab8",
+        "currentHP": 20,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 1,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Ediza",
+        "initiative": 29,
+        "static": false,
+        "modifier": 13,
+        "hp": 80,
+        "currentMaxHP": 80,
+        "ac": 26,
+        "currentAC": 26,
+        "note": "Ediza",
+        "path": "7) Players/Ediza.md",
+        "id": "ID_9b7beb2919db",
+        "currentHP": 58,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 8,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+>>>>>>> Stashed changes
       }
     ],
     "state": false,

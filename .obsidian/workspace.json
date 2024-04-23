@@ -25,14 +25,23 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "9) Completed Adventures/2B - The Shrine of Glass-Spire Forest (D175) C.md",
                 "mode": "preview",
+=======
+                "file": "7) Players/Ediza.md",
+                "mode": "source",
+>>>>>>> Stashed changes
                 "source": true
               }
             }
           }
         ],
+<<<<<<< Updated upstream
         "currentTab": 1
+=======
+        "currentTab": 2
+>>>>>>> Stashed changes
       }
     ],
     "direction": "vertical"
@@ -98,7 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "9) Completed Adventures/2B - The Shrine of Glass-Spire Forest (D175) C.md",
+=======
+                "file": "7) Players/Ediza.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "9) Completed Adventures/2B - The Shrine of Glass-Spire Forest (D175) C.md"
+=======
+                "file": "7) Players/Ediza.md"
+>>>>>>> Stashed changes
               }
             }
           },
@@ -151,7 +168,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "9) Completed Adventures/2B - The Shrine of Glass-Spire Forest (D175) C.md",
+=======
+                "file": "7) Players/Ediza.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,6 +257,7 @@
       "calendarium:Open Calendarium": false
     }
   },
+<<<<<<< Updated upstream
   "floating": {
     "id": "baf98aeb02f747fc",
     "type": "floating",
@@ -318,9 +340,27 @@
     "9) Completed Adventures/2F - The Lost Library (D173)-20240103130230585.webp",
     "1) Scratch Notes/Untitled.md",
     "1) Scratch Notes/Notes.md",
+=======
+  "active": "dd2921b7ae94c347",
+  "lastOpenFiles": [
+    "Buying_Magical_Items.md",
+    "7) Players/Ediza.md",
+    "DC_Calculators.md",
+    "Shop_template.md",
+    "6) NPCs/6) NPCs.md",
+    "5) World/5) World.md",
+    "3) Rules/3) Rules.md",
+    "8) Adventures/4A - Glowstone Caverns (D177).md",
+    "3. The Party/Mournn Evenstar/Mournn Evenstar.md",
+    "3. The Party/Mournn Evenstar",
+    "3. The Party",
+    "6) NPCs/Restwell Keep/Mother Aran.md",
+    "6) NPCs/Restwell Keep/Zeta Windsnap.md",
+>>>>>>> Stashed changes
     "6) NPCs/Restwell Keep/Restwell Keep.md",
     "6) NPCs/Restwell Keep/Balewin.md",
     "8) Adventures/The Alchemist’s Eyrie.md",
+<<<<<<< Updated upstream
     "6) NPCs/Restwell Keep/Gorn Hammerfall.md",
     "zz-Attachments/Gorn Hammerfall.png",
     "6) NPCs/Restwell Keep/Chendra.md",
@@ -331,6 +371,21 @@
     "7) Players/Varas.md",
     "7) Players/Mordak.md",
     "7) Players/Ediza.md",
+=======
+    "4) Bestiary/bestiary-1/bestiary-1.md",
+    "4) Bestiary/bestiary-1/adamantine-golem.md",
+    "DC_Calculator.md",
+    "4) Bestiary/homebrew/gnome-arcane-sneak.md",
+    "zz-Tools/DunGen (Random Dungeon Generator).md",
+    "zz-Templates/zz-Templates.md",
+    "8) Adventures/-- Campaign Notes.md",
+    "8) Adventures/-- The Chaos Scar Intro.md",
+    "4) Bestiary/homebrew/homebrew.md",
+    "4) Bestiary/homebrew/dwarven-warpriest.md",
+    "4) Bestiary/4) Bestiary.md",
+    "4) Bestiary/homebrew/dwarven-caravan-guard.md",
+    "4) Bestiary/homebrew/duergar-shocktrooper.md",
+>>>>>>> Stashed changes
     "zz-Attachments/The Alchemist’s Eyrie-20240321224206418.webp",
     "zz-Attachments/The Alchemist’s Eyrie-20240321224200882.webp",
     "zz-Attachments/The Alchemist’s Eyrie-20240321224136216.webp",
@@ -343,8 +398,6 @@
     "zz-Templates/Handlebar Templates/monster_handlebar.hbs",
     "9) Completed Adventures",
     "zz-Attachments/Tempered Harmony.jpg.crdownload",
-    "2) Compendium/equipment/relic-gifts",
-    "rules/traits",
-    "rules"
+    "2) Compendium/equipment/relic-gifts"
   ]
 }
