@@ -1,4 +1,5 @@
 {
+  "showFudgeIcon": false,
   "rollLinksForTags": false,
   "copyContentButton": true,
   "customFormulas": [],
@@ -9,21 +10,70 @@
   "signed": false,
   "displayLookupRoll": true,
   "formulas": {},
-  "persistResults": false,
-  "results": {},
   "defaultRoll": 1,
   "defaultFace": 100,
   "renderer": true,
   "renderAllDice": true,
+  "addToView": false,
   "renderTime": 2000,
   "colorfulDice": false,
   "scaler": 1.2,
   "diceColor": "#4b4fb9",
   "textColor": "#ffffff",
+  "textFont": "Arial",
   "showLeafOnStartup": true,
   "showDice": true,
   "displayAsEmbed": true,
   "round": "None",
   "initialDisplay": "Roll",
-  "returnAllTags": true
+  "icons": [
+    {
+      "id": "dice-roller-d4",
+      "shape": "Triangle",
+      "formula": "d4",
+      "text": "4"
+    },
+    {
+      "id": "dice-roller-d6",
+      "shape": "Square",
+      "formula": "d6",
+      "text": "6"
+    },
+    {
+      "id": "dice-roller-d8",
+      "shape": "Diamond",
+      "formula": "d8",
+      "text": "8"
+    },
+    {
+      "id": "dice-roller-d10",
+      "shape": "Diamond",
+      "formula": "d10",
+      "text": "10"
+    },
+    {
+      "id": "dice-roller-d12",
+      "shape": "Dodecahedron",
+      "formula": "d12",
+      "text": "12"
+    },
+    {
+      "id": "dice-roller-d20",
+      "shape": "Icosahedron",
+      "formula": "d20",
+      "text": "20"
+    },
+    {
+      "id": "dice-roller-d100",
+      "shape": "Circle",
+      "formula": "d%",
+      "text": "%"
+    }
+  ],
+  "showRenderNotice": true,
+  "diceModTemplateFolders": {},
+  "replaceDiceModInLivePreview": true,
+  "viewResults": [],
+  "returnAllTags": true,
+  "version": "11.0.1"
 }

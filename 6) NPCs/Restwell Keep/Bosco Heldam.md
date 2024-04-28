@@ -83,7 +83,7 @@ He deals almost exclusively with adventurers, and can offer almost any mundane g
 TBD
 
 ### Hidden Details
-TBD
+Bosco doesn't like [[Grelda]] even though he rents space from her in the general store.  He finds her to be too nosey for her own good and very opinionated.  
 
 ### General Notes
-TBD
+Bosco has taken a particular liking toward [[Mordak]].  Not enough to lower his prices, but he is willing to offer him the "backroom stock" knowing that Mordak and his friends are more likely to purchase these items.  

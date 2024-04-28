@@ -158,7 +158,7 @@ The worshipers are not evil; most of them are no more than beggars and wanderers
 # Encounter 3 - The Living Filth
 ![[Pasted image 20230530135959.png|right]]
 
-**Encounter Difficulty:** Low (30 xp)
+**Encounter Difficulty:** Low (20 xp)
 Creatures:
  - 1: [[black-pudding|Black Pudding]] B
  - 3: [[giant-whiptail-centipede|Giant Whiptail Centipede]] H
@@ -199,7 +199,7 @@ The giant whiptail centipedes are aware of the black pudding’s hunting methods
 # Encounter 4 - The Lord of Flies
 ![[Pasted image 20230530155114.png|right]]
 
-**Encounter Difficulty:** Severe (135 xp)
+**Encounter Difficulty:** Severe (70 xp)
 Creatures:
  - 2: [[nabasu|Nabasu]] R
  - 4: [[cultist|Cultist]] S

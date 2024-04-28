@@ -13,7 +13,7 @@ Over the past few weeks, the mud has filled much of the laboratory beneath the r
 
 “Stick in the Mud” takes place in the Chaos Scar. You can use one of the hooks below to get the PCs into the valley and into the ruins of Voran Earthmane’s keep. These hooks also come with a minor quest that, if completed, can net the PCs some extra experience.
 
-## boggard Bounty
+## Boggard Bounty
 The ruins of Voran Earthmane's keep are close enough to the King's Wall that the boggards have been attacking merchants and travelers.  A local baliff, Kendon Longstrider, hires the PCs to find and kill the marauding tribe of boggards, offering a 5 gp bounty on each boggard killed.  A survivor of the boggard attacks can point the PCs in the general direction from which the boggards came.
 
 Read or paraphrase the following when they reach the ruins of Voran Earthmane’s keep:

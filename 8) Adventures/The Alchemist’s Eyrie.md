@@ -63,7 +63,7 @@ creatures:
 - 2: [[Stone Giant, Dwarven Warrior]] 
 ```
 
-If the characters seem suspicious, they can try to penetrate the wererats’ disguises. A [[sense-motive|Sense Motive]] check reveals the fllowing information, depending on the check result:
+If the characters seem suspicious, they can try to penetrate the stone giant's disguises. A [[sense-motive|Sense Motive]] check reveals the following information, depending on the check result:
 
 **DC 12:** The "dwarves" are not merchants at all (they have none of the accoutrements one might expect).
 
@@ -296,7 +296,7 @@ creatures:
 ![[The Alchemist’s Eyrie-20240321223923350.webp]]
 
 # Area 19: The Lab
-**Encounter Difficulty:** difficulty (xxx xp)
+**Encounter Difficulty:** Severe (120 xp)
 
 > [!note]+ Read Aloud
 > This is where Durzh did his work. The entire area is filled with tubes, glassware, and assorted bizarre machinery. The mechanical contraptions in the center of the room allow for the automatic stirring, shaking, and agitation of various experiments. Much of the equipment has been damaged.

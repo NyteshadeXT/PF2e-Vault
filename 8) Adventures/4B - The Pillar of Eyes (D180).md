@@ -23,8 +23,11 @@ One obstacle blocks the barghest from his dearest desire: his innate lethargy. F
 
 ![[4B - The Pillar of Eyes (D180)-20240103143806525.webp|right|800]]
 
+# Adventure Hooks
+**In Dreams:** Strange and disturbing dreams are bothering the residents near the Scar. Now [[Chendra]] has received a warning from Tymora that the Pillar of Eyes is close to being freed and this must not happen. It must be destroyed, so she seeks out the PCs.
+
 # Running the Adventure
-**Total Adventure Value:** 455 xp
+**Total Adventure Value:** 445 xp
 
 -  Strange and disturbing dreams are bothering the residents near the Scar. Now Chendera has received a warning from Avandra that the Pillar of Eyes is close to being freed and this must not happen. It must be destroyed. (The Pillar of Eyes)
 
@@ -37,7 +40,7 @@ When the adventurers can see the Pillar of Eyes, read:
 ## Skill Challenge - Investigating the Pillar
 The most notable feature here is the pillar, though the bones might merit some investigation too. The monolith guards its secrets well, and only dedicated study can coax them forth. However, while the adventurers examine the site, goblin wolf riders slowly converge on their position. Should the characters become confused or distracted by their investigation (represented by failing the skill challenge), the goblins can get the drop on them.
 
-**Level:** 4 (30 xp)
+**Level:** 6 (15 xp)
 **Complexity:** 2 (requires 6 successes before 3 failures)
 **Primary Skills:**  [[skills#Arcana|Arcana]], [[skills#medicine|Medicine]], [[skills#Nature|Nature]], [[skills#Perception|Perception]] or [[skills#Survival|Survival]], [[skills#Religion|Religion]]
 **Secondary Skills:** None
@@ -51,7 +54,7 @@ The most notable feature here is the pillar, though the bones might merit some i
 
 **Perception or Survival (DC 17, one minute; 2 successes max):** The character searches the area. A successful check reveals bestial prints in the soft earth all around the pillar. With a second success, the character learns the direction from which the creatures approached. Perception can be used to gain 2 successes in this challenge.
 
-**Religion (DC 21,  1 minute; 1 success max):** The character locates and deciphers hidden runes on the pillar’s base. These runes signify some connection to Vecna. Religion can be used to gain 1 success in this challenge.
+**Religion (DC 20,  1 minute; 1 success max):** The character locates and deciphers hidden runes on the pillar’s base. These runes signify some connection to Vecna. Religion can be used to gain 1 success in this challenge.
 
 ### Secondary Skills
 No secondary skills are used in this challenge.
@@ -66,19 +69,19 @@ The wolf riders surprise the party. After the combat, the characters can retry t
 Whether or not they succeed at the skill challenge, the adventurers must deal with the wolf riders, goblins charged by Foosteth to plunder explorers that wander into the area.
 
 # Encounter 1 - Howling Host
-**Encounter Difficulty:** Moderate (100 xp)
+**Encounter Difficulty:** Low (60 xp)
 
 ![[4B - The Pillar of Eyes (D180)-20240102170157390.webp|right]]
 
 Creatures:
- - 4: [[goblin-quickblade|Goblin Wolf Rider]] G
+ - 4: [[hobgoblin-general|Goblin Wolf Rider]] G
  - 4: [[trained-dire-wolf|Trained Dire Wolf]]G
 
 ```encounter
 name: Howling Host
 party: Chaos Scar
 creatures:
-- 4: [[Goblin Quickblade, Goblin Wolf Rider]] 
+- 4: [[Hobgoblin General, Goblin Wolf Rider]] 
 - 4: [[Trained Dire Wolf]]
 ```
 
@@ -96,7 +99,7 @@ The goblins concentrate attacks on tough defenders, using wolf ’s bite against
 ## Features of the Area
 **Bones:** Shattered bones litter the area around the pillar. Any creature that is knocked prone in a square containing bones takes 3 extra damage from the jagged splinters.
 
-**Pillar of Eyes:** Any creature that makes an attack while on top of the pillar or in a square adjacent to it ignores cover and concealment (but not superior cover or total concealment). The pillar stands 8 feet tall; climbing it requires a DC 18 [[skills#Athletics|Athletics]] check.
+**Pillar of Eyes:** Any creature that makes an attack while on top of the pillar or in a square adjacent to it ignores cover and concealment (but not superior cover or total concealment). The pillar stands 8 feet tall; climbing it requires a DC 20 [[skills#Athletics|Athletics]] check.
 
 > [!tip]+ Treasure
 > Other than their equipment, the goblins have nothing of value. However, one carries a bag of bones.
@@ -104,9 +107,9 @@ The goblins concentrate attacks on tough defenders, using wolf ’s bite against
 ## Development
 If the adventurers capture one or more of the wolf riders, they can try to extract useful information.
 
-A character can make a DC 10 [[skills#Perception|Perception]] check to assess the prisoner’s state of mind, fears, or something else useful about its personality. A successful check reveals the goblin is not only unhappy because it is a prisoner but blames its master for its misfortune and would be happy to see him fall. This information grants a +2 bonus to [[skills#Diplomacy|Diplomacy]] and [[skills#Intimidation|Intimidation]] checks against the prisoner.
+A character can make a DC 15 [[skills#Perception|Perception]] check to assess the prisoner’s state of mind, fears, or something else useful about its personality. A successful check reveals the goblin is not only unhappy because it is a prisoner but blames its master for its misfortune and would be happy to see him fall. This information grants a +2 bonus to [[skills#Diplomacy|Diplomacy]] and [[skills#Intimidation|Intimidation]] checks against the prisoner.
 
-With a successful DC 14 [[skills#Diplomacy|Diplomacy]] or [[skills#Intimidation|Intimidation]] check, the prisoner reveals that it serves a bugbear, Foosteth the Fat, and that the goblins bring bones to honor the pillar. On a successful DC 21 check, the captive also tells the party that Foosteth wants to awaken the pillar. It admits that the wolf riders attack adventurers to steal their magic, which Foosteth needs for the “ritual of awakening.” The disgruntled goblin also provides directions to the Wolf Den, granting a +2 bonus to all [[skills#Perception|Perception]] checks during the “Tracking the Riders” skill challenge on page 7. (On a failed check, the goblin instead lies about the location and downplays the perils, imposing a –2 penalty on all skill checks during the skill challenge.)
+With a successful DC 16 [[skills#Diplomacy|Diplomacy]] or [[skills#Intimidation|Intimidation]] check, the prisoner reveals that it serves a bugbear, Foosteth the Fat, and that the goblins bring bones to honor the pillar. On a successful DC 23 check, the captive also tells the party that Foosteth wants to awaken the pillar. It admits that the wolf riders attack adventurers to steal their magic, which Foosteth needs for the “ritual of awakening.” The disgruntled goblin also provides directions to the Wolf Den, granting a +2 bonus to all [[skills#Perception|Perception]] checks during the “Tracking the Riders” skill challenge on page 7. (On a failed check, the goblin instead lies about the location and downplays the perils, imposing a –2 penalty on all skill checks during the skill challenge.)
 
 A captured goblin does not participate in combat and flees at the first opportunity.
 
@@ -118,7 +121,7 @@ the party can confirm by searching bodies or interrogating prisoners.
 The adventurers can follow the wolf riders’ tracks to discover their lair, represented by the following staged skill challenge. If they capture a goblin during the combat, they might be able to persuade it to help
 them (see “Development” section above).
 
-**Level:** 5 (30 xp)
+**Level:** 7 (20 xp)
 **Complexity:** 1 (requires 4 successes before 3 failures)
 
 ### Stage 1: Finding the Way
@@ -127,9 +130,9 @@ The first stage of the challenge involves detecting and following the wolf rider
 **Primary Skills:**  [[skills#Perception|Perception]], [[skills#Nature|Nature]], [[skills#Survival|Survival]]
 
 #### Primary Skills
-**Nature or Survival (DC 20, standard action; 1 success, 2 successes max):** The character attempts to follow the goblins’ tracks. Up to two characters can aid this check. A successful check allows the party to continue along the trail, while a failed check means it fades out where the goblins crossed rocky terrain. The characters lose the trail for a time and get lost; they must find the tracks again to continue the chase. In addition to incurring a failure, the characters take a –2 penalty to [[skills#Acrobatics|Acrobatics]] or [[skills#Athletics|Athletics]] checks made during stage 2 of this challenge. On a second failure, they also take a –2 penalty to [[skills#stealth|Stealth]] checks made during stage 3 of this challenge. This skill can be used to gain 2 successes in this challenge.
+**Nature or Survival (DC 21, standard action; 1 success, 2 successes max):** The character attempts to follow the goblins’ tracks. Up to two characters can aid this check. A successful check allows the party to continue along the trail, while a failed check means it fades out where the goblins crossed rocky terrain. The characters lose the trail for a time and get lost; they must find the tracks again to continue the chase. In addition to incurring a failure, the characters take a –2 penalty to [[skills#Acrobatics|Acrobatics]] or [[skills#Athletics|Athletics]] checks made during stage 2 of this challenge. On a second failure, they also take a –2 penalty to [[skills#stealth|Stealth]] checks made during stage 3 of this challenge. This skill can be used to gain 2 successes in this challenge.
 
-**Perception (DC 21, standard action; 1 success, 1 success max):** The character examines the manner of the goblins’ approach to deduce the direction they likely came from. This skill can be used to gain 1 success in this challenge.
+**Perception (DC 23, standard action; 1 success, 1 success max):** The character examines the manner of the goblins’ approach to deduce the direction they likely came from. This skill can be used to gain 1 success in this challenge.
 
 ### Stage 2: Unexpected Obstacles
 After achieving 2 successes, the party must deal with hazards and obstacles that might injure or slow them. Getting around these problems takes about an hour.
@@ -138,14 +141,14 @@ After achieving 2 successes, the party must deal with hazards and obstacles that
 **Secondary Skills:** [[skills#Nature|Nature]], [[skills#Survival|Survival]]
 
 #### Primary Skills
-**Acrobatics or Athletics (DC 16,  group check; standard action; 1 success, 1 success max):** The party follows the tracks into a forest, where progress is blocked by a dry river bed filled with branches. A successful check means that the characters climb or jump across safely, earning 1 success toward the skill challenge. On a failed group check, the party blunders through the obstacle but still earns 1 success in addition to incurring a failure. In addition, each character who failed the check suffers one hit die of damage from injuries sustained in crossing the terrain and must make a secondary [[skills#Survival|Survival]] check as per the secondary skills entry or suffer a level of fatigue. This skill can be used to gain 1 success in this challenge.
+**Acrobatics or Athletics (DC 18,  group check; standard action; 1 success, 1 success max):** The party follows the tracks into a forest, where progress is blocked by a dry river bed filled with branches. A successful check means that the characters climb or jump across safely, earning 1 success toward the skill challenge. On a failed group check, the party blunders through the obstacle but still earns 1 success in addition to incurring a failure. In addition, each character who failed the check suffers one hit die of damage from injuries sustained in crossing the terrain and must make a secondary [[skills#Survival|Survival]] check as per the secondary skills entry or suffer a level of fatigue. This skill can be used to gain 1 success in this challenge.
 
-**Perception (DC 21, minor action; no successes):** The character examines the manner of the goblins’ approach to deduce the direction they likely came from. This skill can be used to gain 1 success in this challenge.
+**Perception (DC 23, minor action; no successes):** The character examines the manner of the goblins’ approach to deduce the direction they likely came from. This skill can be used to gain 1 success in this challenge.
 
 #### Secondary Skills
-**Survival (DC 16,  standard action; no successes):** Tracking the goblins is an arduous task over difficult ground. A successful check keeps the group moving without undue exhaustion.
+**Survival (DC 18,  standard action; no successes):** Tracking the goblins is an arduous task over difficult ground. A successful check keeps the group moving without undue exhaustion.
 
-**Nature (DC 14, standard action; no successes):** Nature (DC 14): The character uses his or her knowledge of vegetation and terrain to help the party move past the hazard. A successful check grants a +2 bonus to [[skills#Acrobatics|Acrobatics]] or [[skills#Athletics|Athletics]] checks made during the group check described above.
+**Nature (DC 16, standard action; no successes):** Nature (DC 14): The character uses his or her knowledge of vegetation and terrain to help the party move past the hazard. A successful check grants a +2 bonus to [[skills#Acrobatics|Acrobatics]] or [[skills#Athletics|Athletics]] checks made during the group check described above.
 
 ### Stage 3: Arrival
 After 3 successes, the characters can approach the goblins’ hideout.
@@ -153,9 +156,9 @@ After 3 successes, the characters can approach the goblins’ hideout.
 **Primary Skills:**  [[skills#Nature|Nature]], [[skills#Stealth|Stealth]]
 **Secondary Skills:** [[skills#Perception|Perception]], [[skills#Thievery|Thievery]]
 
-**Perception (DC 16,  standard action; no successes):** The character scouts ahead to avoid goblin lookouts. A successful check grants a +2 bonus to [[skills#Stealth|Stealth]] checks made during the group check described above.
+**Perception (DC 18,  standard action; no successes):** The character scouts ahead to avoid goblin lookouts. A successful check grants a +2 bonus to [[skills#Stealth|Stealth]] checks made during the group check described above.
 
-**Thievery (DC 21,  standard action; no successes):** The character uses sneaky tricks to assist the party in finding short cuts through the woods. A success grants a +2 bonus to [[skills#Stealth|Stealth]] checks made during the group check described above. On a failure, the characters instead take a –2 penalty to the [[skills#Stealth|Stealth]] check.
+**Thievery (DC 23,  standard action; no successes):** The character uses sneaky tricks to assist the party in finding short cuts through the woods. A success grants a +2 bonus to [[skills#Stealth|Stealth]] checks made during the group check described above. On a failure, the characters instead take a –2 penalty to the [[skills#Stealth|Stealth]] check.
 
 ### Success
 The adventurers arrive at the goblins’ lair and surprise the sentry outside the entrance.
@@ -169,7 +172,7 @@ Foosteth and his goblin followers lair inside the Wolf Den, a stinking mound of 
 The interior of the hill is filthy. The walls are made from packed dirt, rocks, and branches held together with spit and excrement. The floors and ceilings are made of the same materials. Rooms are semicircular, with ceilings about half as tall as the rooms are wide.
 
 # Encounter 2 - Foosteth's Sentries (Area 1: Entrance)
-**Encounter Difficulty:** Moderate (100 xp)
+**Encounter Difficulty:** Severe (120 xp)
 
 ![[4B - The Pillar of Eyes (D180)-20240102221129561.webp|right]]
 
@@ -210,7 +213,7 @@ The goblins try to fall back into the common room to retain their ranged advanta
 When not raiding and plundering, Foosteth’s troops billet in this dark chamber, with goblins along one side and the bugbears the rest. The remains of a cooking fire are in the center, with sleeping pallets strewn all around. Combat from Encounter 2 might spill into this chamber.
 
 # Encounter 3 - Things in the Dark (Area 3: The Chamber of Smells)
-**Encounter Difficulty:** Severe (120 xp)
+**Encounter Difficulty:** Moderate (80 xp)
 
 ![[4B - The Pillar of Eyes (D180)-20240103150612027.webp|right]]
 
@@ -255,14 +258,14 @@ The madness afflicting Foosteth the Fat has infected him with intense paranoia. 
 A successful [[skills#Perception|Perception]] check reveals a 2-inch tall groove running parallel to the floor for about 10 feet. Dirt and rocks fill the gap. A Critical Success is needed to recognize the pressure plate on the floor.  A secret panel on the opposite side of the pressure plate (requiring a DC 21 [[skills#Perception|Perception]] check to find) can shut off or reset the trap. Characters can also use [[skills#Athletics|Athletics]] to jump over the trapped area if they know where it is.
 
 # Encounter 4 - Unhinged Mind (Area 5: Hall of Whispers)
-**Encounter Difficulty:** Severe (140 xp)
+**Encounter Difficulty:** Severe (150 xp)
 
 ![[4B - The Pillar of Eyes (D180)-20240103150642656.webp|right|900]]
 
 Creatures:
  - 2: [[trained-dire-wolf|Trained Dire Wolf]] W
  - 4: [[bugbear-warrior|Bugbear Warrior]] B
- - 5: [[goblin-commando|Goblin Commando]] N
+ - 4: [[gnoll-warfang|Gnoll Warfang]] N
  - 1: Foosteth F
 
 ```encounter

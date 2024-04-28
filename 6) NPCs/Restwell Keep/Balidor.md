@@ -77,7 +77,7 @@ TBD
 TBD
 
 ## DM Notes
-TBD
+The players meet Balidor as part of the hook for [[2D - The Hammer Falls (D179) C]].
 
 ### Plot Hooks
 TBD
@@ -86,4 +86,4 @@ TBD
 TBD
 
 ### General Notes
-TBD
+Balidor has lost his brothers in The Hammers Falls adventure.  He is slowly seeking out a new purpose in life.

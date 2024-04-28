@@ -82,7 +82,7 @@ TBD
 TBD
 
 ## DM Notes
-The players meet Jerek as part of the hook for the Death in Pincers adventure.
+The players meet Jerek as part of the hook for the [[1D - Death in the Pincers (D172) C]] adventure.
 
 ### Plot Hooks
 TBD

@@ -459,10 +459,12 @@
   "showIntercalary": false,
   "version": {
     "major": 1,
-    "minor": 2,
-    "patch": 0,
+    "minor": 3,
+    "patch": 1,
     "beta": null
   },
   "debug": false,
-  "askedToMoveFC": false
+  "askedToMoveFC": false,
+  "askedAboutSync": true,
+  "syncBehavior": "Ask"
 }

@@ -124,65 +124,59 @@ The gnoll warfang accompanies the deathpledged gnolls, but as soon as one of the
 > The gnoll warfang is carrying a pouch containing a [[truth-potion|Truth Potion]] 10 gp and 8 cp.
 
 # Encounter 3 - Upper Floor: An Interrupted Negotiation
-**Encounter Difficulty:** Moderate (xx xp)
+**Encounter Difficulty:** Severe (140 xp)
 
 ![[4C - Vanguard Tower (D182)-20240104143040603.webp|right]]
 
 Creatures:
- - 1: [[gnoll-warfang|Gnoll Warfang]] W
- - 2: [[gnoll-deathpledged|Gnoll Deathpledged]] G
- - 5: [[emperor-cobra|Emperor Cobra]] C
+ - 1: [[imentesh|Sur-Tuuz]] B
+ - 1: [[gnoll-warfang|Gnoll Warfang]] G
+ - 2: [[behir|Behir]] R
 
 ```encounter
 name: An Interrupted Negotiation
 party: Chaos Scar
 creatures:
 - 1: [[Gnoll Warfang]] 
-- 2: [[Gnoll Deathpledged]]
-- 5: [[Emperor Cobra]]
+- 1: [[Imentesh, Sur-Tuuz]]
+- 2: [[Behir]]
 ```
 
 
-Shur-Tuuz, beholder gauth (B)
-Gnoll huntmaster (G)
-2 rust monsters (R)
-
-The beholder gauth is seated at the small table in the lower left hand corner. The magic item from the treasure parcel is located on the table. The beholder plans to pay Shur-Tuuz with it in exchange for one of the rust monsters Shur-Tuuz has in its possession. The beholder and gnoll are speaking in a mix of Abyssal and Deep Speech. A character would need to understand both languages to follow their conversation. 
+The Imentesh is seated next to small table in the lower left hand corner. The magic item from the treasure parcel is located on the table. The gnoll plans to pay Shur-Tuuz with it in exchange for one of the behir Shur-Tuuz has in its possession. The Imentesh and gnoll are speaking in a mix of Abyssal and Deep Speech. A character would need to understand both languages to follow their conversation. 
 
 Read the following when the heroes enter the room, either up the stairs or through one of the windows around the tower:
 
 > [!note]+ Read Aloud
-> Bookshelves line one wall of the area, and an alchemy set occupies a table near the stairs. Two rust monsters are curled up around the table. A glowing blue cage of bone surrounds the rust monsters.
+> Bookshelves line one wall of the area, and an alchemy set occupies a table near the stairs. Two behir are curled up around the table. A glowing blue cage of bone surrounds them.
 > 
-> You hear the sounds of speech coming from the end of the long bookshelves, but the voices are too hushed to make out the language. Seated at a small table near the shelves are two creatures. One is recognizable as a beholder, its eye stalks taking in the surroundings. The other is a gnoll with its hand on an item on the table.
+> You hear the sounds of speech coming from the end of the long bookshelves, but the voices are too hushed to make out the language. Seated at a small table near the shelves are two creatures. One is recognizable as a human it's eyes consistently scanning the surroundings. The other is a gnoll with its hand on an item on the table.
 
 If the heroes make their presence known, read the following, adjusting as needed to fit the circumstances:
 
 > [!note]+ Read Aloud
-> As you approach, the beholder drifts away from the table and turns its attentions to you. “Perhaps a bit of a break before we continue? I’m sure you’d like a demonstration.” The beholder barks a word and the bone cage clatters to the floor.
+> As you approach, the human walks away from the table and turns its attentions to you. “Perhaps a bit of a break before we continue? I’m sure you’d like a demonstration.” The human barks a word and the bone cage clatters to the floor.
 
-Tactics
-Shur-Tuuz fights the first part of the battle to show off to its potential client. It cycles through its eye ray powers, but once it is bloodied, it starts playing for keeps.
+## Tactics
+Shur-Tuuz fights the first part of the battle to show off to its potential client. It changes into it's true form and then attempts to use Warpweave on the target it believes to be the greatest threat. Once it is bloodied, it starts playing for keeps.
 
-The huntmaster stays out of the fight initially unless attacked. If Shur-Tuuz takes double digit damage from any attack, it convinces the huntmaster to aid it by giving the gnolls the rust monsters for free.
+The warfang stays out of the fight initially unless attacked. If Shur-Tuuz takes double digit damage from any attack, it convinces the warfang to aid it by giving the gnolls the behir for free.
 
-Features of the Area
-Illumination: The fireplace offers the primary source of illumination, though sunrods in sconces along the wall also provide light around the edges of the room.
+## Features of the Area
+**Illumination:** The fireplace offers the primary source of illumination, though [[sunrod|Sunrod]] in sconces along the wall also provide light around the edges of the room.
 
-Bookshelves: The bookshelves contain journals from various adventurers as well as items that look delicious to the rust monsters. These journals are an excellent source of additional hooks and later adventurers. The bookshelves can be knocked over, dumping more food to distract the rust monsters. If a rust monster begins its turn in an overturned shelf, it spends its move action digging up small pieces of metal.
+**Bookshelves:** The bookshelves contain journals from various adventurers.  Found here are Spell scroll (3rd level) ([[rouse-skeletons-som|Rouse Skeletons]]), Spell scroll (3rd level) ([[shroud-of-flame-frp3|Shroud Of Flame]]),  Spell scroll (4th level) ([[Zephyr Slip]]), Spell scroll (5th level) ([[consuming-darkness-apg|Consuming Darkness]]), Spell scroll (5th level) ([[dancing-blade-da|Dancing Blade]]),  Spell scroll (5th level) ([[plant-form|Plant Form]]) and a book titled Earthsong.  Earthsong is a treatise on environmental management and contains insights for the following spells: [[tame-som|Tame]], [[fleet-step|Fleet Step]], [[distortion-lens-da|Distortion Lens]], [[summon-lesser-servitor-som|Summon Lesser Servitor]], [[invisible-item-apg|Invisible Item]] , [[animal-form|Animal Form]], [[water-walk|Water Walk]], [[positive-attunement-som|Positive Attunement]], [[elemental-annihilation-wave-som|Elemental Annihilation Wave]] and [[insect-form|Insect Form]].
 
-Alchemist’s Table: Adventurers can find enough components in the alchemy rig to make one potion of level 5 or lower.
+**Alchemist’s Table:** Adventurers can find a [[leapers-elixir|Leaper's Elixir (Greater)]] amongst all the alchemy tools and debris.
 
-Blue Sigils: In addition, the blue sigils represent wards containing the rust monsters. Shur-Tuuz drops the wards at the beginning of the encounter but they can be brought back. Restoring the wards requires a DC 14 Arcana or Nature check as a standard action. The beholder automatically succeeds in restoring the wards with a minor action
+**Blue Sigils:** In addition, the blue sigils represent wards containing the behir. Shur-Tuuz drops the wards at the beginning of the encounter but they can be brought back. Restoring the wards requires a DC 18 [[skills#Arcana|Arcana]] or [[skills#Nature|Nature]] check as a standard action. The beholder automatically succeeds in restoring the wards with a single action
 
-Treasure
-Parcel 3: Level 7 magic item An Interrupted Negotiation
+> [!example]+ Magic Item
+> In addition to all of the above, found on the table are the following: [[staff-of-healing|Staff of Healing (Greater)]], [[beastmasters-sigil-tv|Beastmaster's Sigil (Major)]], [[assassin-vine-wine-tv|Assassin Vine Wine]], 200 gp.
 
-Conclusion
+# Conclusion
 The heroes might wish to use the tower as a base of operations for their further adventures in the Chaos Scar. The characters can shore up the physical defenses easily and use it as a place to store their treasure. The adventurers might also wish to seek out the history of those who lived in the tower before them and complete any unfinished business. The fate of the Cats of Thleen is left open. Perhaps they were killed, or perhaps they retreated to another hideout with grander treasures hidden away.
 
 On the other hand, the heroes might believe the tower has been corrupted too thoroughly. Destroying the tower can be as simple as a ritual discovered in the library or as involved as putting the ghost of Jorg Quillburn or another Cat of Thleen to rest.
 
 If the journals survived the encounter on the top floor, they are an excellent source of maps, cryptic entries, and encoded pages leading to other adventures in the Scar or wherever the heroes turn their attention next.
-
-The beholder gauth is also an excellent link to another adventure. The gauth could have been an agent of an enemy the heroes have already made. The beholder could also be a pawn sacrificed to see how much of a threat the heroes are becoming. Additionally, the gnolls that meet with the beholder brought a magic item as payment for the rust monster. Whoever owned that item originally will probably want it back.

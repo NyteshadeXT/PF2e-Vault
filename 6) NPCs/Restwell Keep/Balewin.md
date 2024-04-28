@@ -87,16 +87,16 @@ Daughter of the now deceased, former Tarthis Ironleaf leader of the small, but p
 >
 
 ## History
-TBD
+The scars on his face were caused during a battle with undead sent by a rival necromancer to kill him.  His family was killed during the attack and his home destroyed.  He remains a shell of his former self but  is slowly finding purpose in his life as the leader of the guild tower in Restwell Keep.
 
 ## DM Notes
-TBD
+Balewin has meet with Veras who offered to help him if anything comes up.
 
 ### Plot Hooks
-Involved in several plot hooks with Ailwin arrested.  See [[Restwell Jobs]]  under the Saruun Guildhall entry.
+Involved in several plot hooks with Ailwin arrested.  See [[Restwell Jobs]] under the Saruun Guildhall entry.
 
 ### Hidden Details
-The scars on his face were caused during a battle with undead sent by a rival necromancer to kill him.  His family was killed during the attack and his home destroyed.  He remains a shell of his former self and is currently without purpose in his life.
+TBD
 
 ### General Notes
 Balewin steps in to run the Saruun Guildhall after Ailwin is arrested.  

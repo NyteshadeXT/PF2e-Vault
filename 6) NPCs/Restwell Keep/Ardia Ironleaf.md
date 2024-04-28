@@ -92,13 +92,13 @@ Daughter of the now deceased, former Tarthis Ironleaf leader of the small, but p
 TBD
 
 ## DM Notes
-If he hears news of treasures brought out of the Chaos Scar by adventurers, he dispatches one of his assistants with a note inviting them to dinner at the guild house.  He lavishes his guests with excellent food and at the end of the meal, makes an offer to buy whatever item or object the explorers found.  These offers are usually 10% above the item's market price, but sometimes he offers far, far more than the baseline price.
+TBD
 
 ### Plot Hooks
-The PCs meet Ardia when she starts looking for adventures to find her missing father as part of the hook for The Tainted Spiral adventure.  She was also found captive at the Crossroads after her trading caravan was ambushed by Hobgoblins and rescued by the players.
+The PCs meet Ardia when she starts looking for adventures to find her missing father, Tarthias Ironleaf, as part of the hook for [[1E - The Tainted Spiral (D173) C]] adventure.  She was also found captive at the Crossroads after her trading caravan was ambushed by Hobgoblins and rescued by the players.
 
 ### Hidden Details
 TBD
 
 ### General Notes
-TBD
+The PCs have a good standing discount of 15% discount on any goods sold by the Ironleaf Trading Company for discovering the fate of Ardia's father.

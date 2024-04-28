@@ -87,4 +87,4 @@ TBD
 TBD
 
 ### General Notes
-TBD
+Bergen has taken [[Mordak]] under his wing to help him learn the art of blacksmithing.  He knows this is more of a hobby for Mordak, but enjoys the time mentoring him.

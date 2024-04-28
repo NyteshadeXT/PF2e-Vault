@@ -9,6 +9,9 @@ The Gnawstubbles did not realize that the Chaos Scar meteorite had tainted this 
 
 The characters might have been hired by a local authority to deal with the threat, or they might simply be looking for adventure in the notorious Chaos Scar. They soon discover that this is no ordinary goblin stomping session
 
+# Adventure Hooks
+**A Strange Metal:** [[Balidor]], has been seeking new purpose in his life.  While drinking at the Stumbling Giant he heard a rumor of a strange metal found outside a cave in the Chars Scar.  Intrigued, he got as many details as he could about the supposed location of the rumor and set out to see what he could learn.  Unfortunately, he was unable to do much exploring as he quickly learned the cave was over run with hobgoblins and goblins.  He returned to Restwell hoping to find the PCs, particularly Veras, and ask them to clear the cave complex and discover what they can about this mysterious ore.
+
 # Running the Adventure
 **Total Adventure Value:** 455 xp
 
