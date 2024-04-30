@@ -191,7 +191,7 @@ Eilif is borderline delirious. If someone triggers the yellow mold trap, he awak
 If the oil is fired, characters can beat a hasty retreat and avoid any serious damage, although the blaze will ruin the ballistae, weapons, and ammo, as well as kill the dwarf. If the characters manage to save the dwarf (by whatever means), award an extra 30 experience points to the party.
 
 ![[The Alchemist’s Eyrie-20240321224037619.webp]]
-
+[[The Alchemist’s Eyrie-20240321224037619.webp|Show Players]]
 # Area 11: Cloakroom
 > [!note]+ Read Aloud
 > As you come around the stairs you find four more dwarven bodies.  The area around the stairwell is surrounded by curtains, which appear to separate individual rooms from common areas. Toward the west is a water drain and a pair of coat racks; where the dwarves could hang their gear.

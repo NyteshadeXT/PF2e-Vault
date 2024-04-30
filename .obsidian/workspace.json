@@ -20,31 +20,31 @@
             }
           },
           {
-            "id": "13a75d663390b76d",
+            "id": "7a29c2a8b34858cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4) Bestiary/homebrew/necrotic-gelatinous-cube.md",
+                "file": "8) Adventures/The Alchemist’s Eyrie.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "7a29c2a8b34858cf",
+            "id": "814c061bf4b40e89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/Menace at Otari.md",
-                "mode": "source",
+                "file": "1) GM Screen/Skill-Actions-Cheat-Sheet.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,6 +103,7 @@
       {
         "id": "9209b2e6a40a9208",
         "type": "tabs",
+        "dimension": 56.087824351297414,
         "children": [
           {
             "id": "513039944b5fe1a6",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8) Adventures/Menace at Otari.md",
+                "file": "8) Adventures/The Alchemist’s Eyrie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8) Adventures/Menace at Otari.md",
+                "file": "8) Adventures/The Alchemist’s Eyrie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8) Adventures/Menace at Otari.md"
+                "file": "8) Adventures/The Alchemist’s Eyrie.md"
               }
             }
           },
@@ -209,6 +210,7 @@
       {
         "id": "980eddaaddaee7a1",
         "type": "tabs",
+        "dimension": 43.91217564870259,
         "children": [
           {
             "id": "2991f3e26d00f795",
@@ -240,8 +242,82 @@
       "calendarium:Open Calendarium": false
     }
   },
+  "floating": {
+    "id": "750a1c46765bf511",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ae3fa0efb640e42c",
+        "type": "window",
+        "children": [
+          {
+            "id": "22db4bd3798601ab",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "742b7c09481bdaaa",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -640,
+        "y": 18,
+        "width": 640,
+        "height": 673,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "3109a9aa3af38708",
+        "type": "window",
+        "children": [
+          {
+            "id": "2d8f533c397a2af5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "805131ec80dd649a",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "zz-Attachments/The Alchemist’s Eyrie-20240321224037619.webp"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1280,
+        "y": 18,
+        "width": 640,
+        "height": 673,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "7a29c2a8b34858cf",
   "lastOpenFiles": [
+    "zz-Attachments/The Alchemist’s Eyrie-20240321224037619.webp",
+    "8) Adventures/The Alchemist’s Eyrie.md",
+    "2) compendium/gm/hazards/yellow-mold.md",
+    "1) GM Screen/Skill-Actions-Cheat-Sheet.md",
+    "1) GM Screen/rules-reference.md",
+    "1) GM Screen/Actions-Cheat-Sheet.md",
+    "1) Scratch Notes/Notes.md",
+    "1) GM Screen/DC_Calculators.md",
+    "4) Bestiary/homebrew/necrotic-gelatinous-cube.md",
+    "8) Adventures/4B - The Pillar of Eyes (D180).md",
+    "8) Adventures/4A - Glowstone Caverns (D177).md",
+    "8) Adventures/Menace at Otari.md",
     "8) Adventures/4D - Stormcrow Tor (D169).md",
     "zz-Templates/Markdown Templates/Combat Templates/Insert Encounter Note.md",
     "zz-Templates/zz-Templates.md",
@@ -252,22 +328,10 @@
     "zz-Templates/Markdown Templates/Monster Template.md",
     "zz-Templates/Markdown Templates/Call Out Boxes/Call Out Boxes.md",
     "zz-Attachments/zz-Attachments.md",
-    "1) GM Screen/DC_Calculators.md",
     "2) Compendium/spells/Slashing Gust.md",
-    "4) Bestiary/homebrew/necrotic-gelatinous-cube.md",
     "4) Bestiary/homebrew/orc-shaman.md",
     "2) Compendium/gm/afflictions/afflictions.md",
     "4) Bestiary/homebrew/tengu-wing-mage.md",
-    "2) Compendium/spells/Cleanse Air.md",
-    "4) Bestiary/unique-creatures/Kobold Boss - Zolgran.md",
-    "2) Compendium/spells/aberrant-whispers.md",
-    "2) Compendium/spells/wall-of-wind.md",
-    "2) Compendium/spells/gust-of-wind.md",
-    "3) Rules/core-rulebook/chapter-9-playing-the-game.md",
-    "2) Compendium/spells/spells.md",
-    "2) Compendium/spells/rituals/rituals.md",
-    "2) Compendium/spells/aberrant-form-som.md",
-    "2) Compendium/spells/abundant-step.md",
     "zz-Attachments/SCT E7 Map.webp",
     "zz-Attachments/SCT Image.webp",
     "zz-Attachments/SCT E6 Map.webp",

@@ -43,7 +43,7 @@ darkMode: false
 # Encounter 1 - Vestibule
 **Encounter Difficulty:** Moderate (95 xp)
 
-![[Pasted image 20230830164356.png|right]]
+![[Pasted image 20230830164356.png]]
 
 Creatures:
  - 4: [[hobgoblin-archer|Hobgoblin Archer]] W

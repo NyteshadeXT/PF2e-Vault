@@ -1436,7 +1436,7 @@
     },
     {
       "id": "Glowstone Cavern",
-      "lastAccessed": 1709701897975,
+      "lastAccessed": 1714332174218,
       "markers": [
         {
           "id": "ID_2bb8b8298aba",
@@ -1522,7 +1522,6 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "8) Adventures/Menace at Otari.md",
         "8) Adventures/4A - Glowstone Caverns (D177).md"
       ]
     }
