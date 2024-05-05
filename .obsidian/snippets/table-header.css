@@ -1,0 +1,8 @@
+/* Target only h6 that directly precedes a table */
+.markdown-preview-view h6 + table {
+    margin-top: 0; /* Removes space above the table */
+}
+
+.markdown-preview-view h6 {
+    margin-bottom: -1.0em; /* Adjust the space below the h6 */
+}

@@ -25,19 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/The Alchemist’s Eyrie.md",
-                "mode": "preview",
+                "file": "8) Adventures/4E - Blood of Gruumsh (D210).md",
+                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "814c061bf4b40e89",
+            "id": "37f1635fd8dce601",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1) GM Screen/Skill-Actions-Cheat-Sheet.md",
+                "file": "4) Bestiary/unique-creatures/Agera of the Shadow Face.md",
                 "mode": "preview",
                 "source": true
               }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "8edb0c6562131f25",
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8) Adventures/The Alchemist’s Eyrie.md",
+                "file": "8) Adventures/4E - Blood of Gruumsh (D210).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8) Adventures/The Alchemist’s Eyrie.md",
+                "file": "8) Adventures/4E - Blood of Gruumsh (D210).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8) Adventures/The Alchemist’s Eyrie.md"
+                "file": "8) Adventures/4E - Blood of Gruumsh (D210).md"
               }
             }
           },
@@ -242,105 +242,43 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "750a1c46765bf511",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ae3fa0efb640e42c",
-        "type": "window",
-        "children": [
-          {
-            "id": "22db4bd3798601ab",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "742b7c09481bdaaa",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-player-view",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -640,
-        "y": 18,
-        "width": 640,
-        "height": 673,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "3109a9aa3af38708",
-        "type": "window",
-        "children": [
-          {
-            "id": "2d8f533c397a2af5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "805131ec80dd649a",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "zz-Attachments/The Alchemist’s Eyrie-20240321224037619.webp"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1280,
-        "y": 18,
-        "width": 640,
-        "height": 673,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "7a29c2a8b34858cf",
   "lastOpenFiles": [
-    "zz-Attachments/The Alchemist’s Eyrie-20240321224037619.webp",
-    "8) Adventures/The Alchemist’s Eyrie.md",
-    "2) compendium/gm/hazards/yellow-mold.md",
-    "1) GM Screen/Skill-Actions-Cheat-Sheet.md",
-    "1) GM Screen/rules-reference.md",
-    "1) GM Screen/Actions-Cheat-Sheet.md",
-    "1) Scratch Notes/Notes.md",
-    "1) GM Screen/DC_Calculators.md",
-    "4) Bestiary/homebrew/necrotic-gelatinous-cube.md",
-    "8) Adventures/4B - The Pillar of Eyes (D180).md",
-    "8) Adventures/4A - Glowstone Caverns (D177).md",
-    "8) Adventures/Menace at Otari.md",
+    "zz-Attachments/4E - Blood of Gruumsh (D210)-20240503111300695.webp",
     "8) Adventures/4D - Stormcrow Tor (D169).md",
-    "zz-Templates/Markdown Templates/Combat Templates/Insert Encounter Note.md",
-    "zz-Templates/zz-Templates.md",
     "8) Adventures/4E - Blood of Gruumsh (D210).md",
-    "zz-Templates/Markdown Templates/Regional Leaflet Map Template.md",
-    "zz-Templates/Markdown Templates/NPC Template.md",
-    "zz-Templates/Markdown Templates/Combat Templates/Creature New Creature.md",
-    "zz-Templates/Markdown Templates/Monster Template.md",
-    "zz-Templates/Markdown Templates/Call Out Boxes/Call Out Boxes.md",
-    "zz-Attachments/zz-Attachments.md",
-    "2) Compendium/spells/Slashing Gust.md",
-    "4) Bestiary/homebrew/orc-shaman.md",
-    "2) Compendium/gm/afflictions/afflictions.md",
-    "4) Bestiary/homebrew/tengu-wing-mage.md",
+    "2) Compendium/equipment/items/Wraithweave Patch (Type II).md",
+    "2) Compendium/equipment/items/Wraithweave Patch (Type I).md",
+    "2) Compendium/equipment/items/Wraithweave Patch (Type III).md",
+    "4) Bestiary/Temp/myconid-sovereign.md",
+    "4) Bestiary/unique-creatures/Agera of the Shadow Face.md",
+    "4) Bestiary/homebrew/homebrew.md",
+    "4) Bestiary/homebrew/acolyte-of-the-radiant-morn.md",
+    "1) GM Screen/DC_Calculators.md",
+    "zz-Attachments/Kataklysmos-Symbol.webp",
+    "zz-Attachments/4D - Stormcrow Tor (D169)-20240502101334280.webp",
+    "zz-Attachments/4D - Stormcrow Tor (D169)-20240502100600756.webp",
+    "zz-Attachments/4D - Stormcrow Tor (D169)-20240502100540234.webp",
+    "7) Players/7) Players.md",
+    "7) Players/Ediza.md",
+    "7) Players/Mordak.md",
+    "7) Players/Varas.md",
+    "7) Players/Winter.md",
+    "8) Adventures/4C - Vanguard Tower (D182).md",
+    "2) Compendium/gm/hazards/hazards.md",
+    "2) Compendium/gm/hazards/A_Add New Hazard.md",
+    "2) Compendium/gm/hazards/lightning-hallway-hb.md",
+    "2) Compendium/gm/hazards/poisoned-dart-gallery.md",
+    "2) Compendium/gm/hazards/poisoned-dart-statues-aoe4.md",
+    "2) Compendium/gm/hazards/force-burst-wall-hb.md",
+    "2) Compendium/gm/hazards/forest-fire-qff2.md",
+    "2) Compendium/gm/hazards/exhaling-portal-da.md",
+    "1) GM Screen/Skill-Actions-Cheat-Sheet.md",
+    "zz-Attachments/myconid-guard-20240430153751394.webp",
+    "zz-Attachments/The Alchemist’s Eyrie-20240321224037619.webp",
+    "zz-Attachments/Zeta-20240430110544821.webp",
     "zz-Attachments/SCT E7 Map.webp",
     "zz-Attachments/SCT Image.webp",
-    "zz-Attachments/SCT E6 Map.webp",
-    "zz-Attachments/SCT E5 Map.webp",
-    "zz-Attachments/SCT E4 Map.webp",
-    "zz-Attachments/SCT E3 Map.webp",
-    "zz-Attachments/SCT E2 Map.webp",
-    "zz-Attachments/SCT.webp",
-    "zz-Attachments/SCT E1 Map.webp",
-    "zz-Attachments/2F - The Lost Library (D173)-20240103130230585.webp"
+    "zz-Attachments/SCT E6 Map.webp"
   ]
 }

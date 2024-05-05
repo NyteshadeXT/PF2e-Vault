@@ -308,12 +308,13 @@ Bloodbeard, the leader of the dwarven giants, is here, as is Speenar the Unlucky
  - 1: [[stone-giant|Dwarven Brute]]
 
 ```encounter
-name: EncounterName
+name: The Lab
 party: Chaos Scar
 creatures:
 - 1: [[Dwarven Warpriest, Bloodbeard]] 
 - 1: [[Gnome Arcane Sneak, Speenar]]
 - 1: [[Stone Giant, Dwarven Brute]]
+- 1: [[Zeta Windsnap]]
 ```
 
 ### Tactics

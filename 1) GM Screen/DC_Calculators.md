@@ -4,7 +4,7 @@ skillLevel: 15
 creatureCR: 3
 creatureTrait: Religion
 playerLevel: 10
-taskDifficulty: -10
+taskDifficulty: 0
 skillDifficulty: -5
 itemLevel: 8
 itemValue: 25

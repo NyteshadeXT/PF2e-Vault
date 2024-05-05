@@ -1,11 +1,13 @@
 ---
-level: 1
-hp: 20
-modifier: 6
+level: 3
+hp: 44
+modifier: 8
 Player_Name: NPC
 Alignment: CG
-Race: Human
+Race: Half-Elf
 Class: Ranger
-ac: 17
+ac: 20
 Party: Chaos Scar
 ---
+
+![[Zeta-20240430110544821.webp]]

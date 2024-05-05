@@ -1,6 +1,6 @@
 # Wall Postings
 -   ~~Stop the Marauders! The bailiff, [[Kendon Longstrider]] has been authorized to pay 200 gold for the party that tracks down and eliminates the marauders who recently attacked the farms outside of Dardun. (Elves of the Valley)~~
--   ~~200 gold offered for anyone who can bring justice to Kevmar Windsnap and another 200 gold for finding his sister, [[Zeta Windsnap]]. See the bailiff, [[Kendon Longstrider]] for more details. ([[1F - Some Assembly Required (D208) C]])~~**~~
+-   ~~200 gold offered for anyone who can bring justice to Kevmar Windsnap and another 200 gold for finding his sister, [[6) NPCs/Restwell Keep/Zeta Windsnap]]. See the bailiff, [[Kendon Longstrider]] for more details. ([[1F - Some Assembly Required (D208) C]])~~**~~
 -   ~~Debt collectors wanted! Doran owes me 100 gold and I intend to see that collected. See [[Nerrin Silverhand]] if you want a cut. ([[2C - Dead by Dawn (D176) C]])~~
 -   ~~A reward for any brave soul willing to clear out the Goblin Hole. See [[Kendon Longstrider]] for more details. ([[2E - Down the Goblin Hole (D280) C]])~~
 -   ~~Good-hearted heroes wanted to recover the Cup of Chance which was stolen from the temple of Tymora. See [[Chendra]] for more details. ([[3B - The Splintered Spring (D179) - Done]])~~

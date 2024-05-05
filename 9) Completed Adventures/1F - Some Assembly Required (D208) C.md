@@ -141,7 +141,7 @@ The kobolds have added tunnels to the mine that better suit them. The tunnels ar
 ### Captured! 
 Kerang, the kobolds’ dragon master, is eager to lord his power over defeated foes. His minions deliver unconscious characters to Kerang’s lair, where they are stripped of all weapons and implements and locked in a large cage. The dragon-brain-in-a-jar harangues the adventurers about his plan to destroy the descendants of his enemies. 
 
-Although Kerang never sleeps and his workers constantly move through the lair, captured characters might be able to slip away. [[Zeta Windsnap]] could sneak out of her cell and create a diversion to help the party escape. If a character has thieves’ tools or a thin piece of metal, the lock on the cage can be picked with a DC 18 [[skills#Thievery|Thievery]] check. The door could also be smashed open with a DC 20 [[skills#Athletics|Athletics] check. The adventurers’ weapons are in plain sight atop Kerang’s hoard beside his altar. 
+Although Kerang never sleeps and his workers constantly move through the lair, captured characters might be able to slip away. [[6) NPCs/Restwell Keep/Zeta Windsnap]] could sneak out of her cell and create a diversion to help the party escape. If a character has thieves’ tools or a thin piece of metal, the lock on the cage can be picked with a DC 18 [[skills#Thievery|Thievery]] check. The door could also be smashed open with a DC 20 [[skills#Athletics|Athletics] check. The adventurers’ weapons are in plain sight atop Kerang’s hoard beside his altar. 
 
 Once the construction of his body is complete, Kerang blasts through the rock wall to escape. The dragon launches into the air while clutching the cage in his iron talons. He immediately heads for Restwell Keep. Kerang drops the cage on a hilltop facing the keep and razes it to the ground. This situation is the characters’ last chance to escape. Refer to the “Concluding the Adventure” section for further information.
 
@@ -518,8 +518,8 @@ creatures:
 ![[Pasted image 20230307202221.png]]
 
 # Concluding the Adventure
-Once the adventurers have defeated Kerang, any kobolds remaining in the mine slink away into the countryside. Jiro has a key that can be used to unlock  [[Zeta Windsnap]]'s cell. If the characters released her earlier, she is hiding in the bushes outside the mine, waiting to go with the party back to Restwell Keep. 
+Once the adventurers have defeated Kerang, any kobolds remaining in the mine slink away into the countryside. Jiro has a key that can be used to unlock  [[6) NPCs/Restwell Keep/Zeta Windsnap]]'s cell. If the characters released her earlier, she is hiding in the bushes outside the mine, waiting to go with the party back to Restwell Keep. 
 
-If the characters were captured by Kerang and later escaped, the kobolds continue to fortify the mine and hold [[Zeta Windsnap]] captive.  
+If the characters were captured by Kerang and later escaped, the kobolds continue to fortify the mine and hold [[6) NPCs/Restwell Keep/Zeta Windsnap]] captive.  
 
 Should the adventurers decide not to pursue Kerang at all, the dragon arrives at Restwell Keep four days later and razes it to the ground. He continues to fortify his stronghold while launching attacks against the surrounding lands. 
