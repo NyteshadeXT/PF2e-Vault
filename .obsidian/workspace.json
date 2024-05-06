@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/4E - Blood of Gruumsh (D210).md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "37f1635fd8dce601",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4) Bestiary/unique-creatures/Agera of the Shadow Face.md",
+                "file": "8) Adventures/The Alchemist’s Eyrie.md",
                 "mode": "preview",
                 "source": true
               }
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8) Adventures/4E - Blood of Gruumsh (D210).md",
+                "file": "2) compendium/equipment/items/frost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8) Adventures/4E - Blood of Gruumsh (D210).md",
+                "file": "2) compendium/equipment/items/frost.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8) Adventures/4E - Blood of Gruumsh (D210).md"
+                "file": "2) compendium/equipment/items/frost.md"
               }
             }
           },
@@ -242,16 +230,87 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7a29c2a8b34858cf",
+  "floating": {
+    "id": "e7ba455a8e79c074",
+    "type": "floating",
+    "children": [
+      {
+        "id": "15e7e4809d6db09f",
+        "type": "window",
+        "children": [
+          {
+            "id": "696efb72be0271f1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c21606fe12f77a90",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -640,
+        "y": 144,
+        "width": 640,
+        "height": 672,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "6b6b92186e002fad",
+        "type": "window",
+        "children": [
+          {
+            "id": "bec8b807b7d56dcd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "18443934157eccbe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2) compendium/equipment/items/frost.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1280,
+        "y": 144,
+        "width": 640,
+        "height": 688,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "18443934157eccbe",
   "lastOpenFiles": [
+    "8) Adventures/The Alchemist’s Eyrie.md",
+    "2) compendium/equipment/items/resilient.md",
+    "3) Rules/actions/identify-magic.md",
+    "1) GM Screen/Skill-Actions-Cheat-Sheet.md",
+    "6) NPCs/Restwell Keep/Restwell Keep.md",
+    "4) Bestiary/homebrew/gnome-arcane-sneak.md",
+    "4) Bestiary/unique-creatures/Agera of the Shadow Face.md",
+    "8) Adventures/Menace at Otari.md",
+    "8) Adventures/4E - Blood of Gruumsh (D210).md",
     "zz-Attachments/4E - Blood of Gruumsh (D210)-20240503111300695.webp",
     "8) Adventures/4D - Stormcrow Tor (D169).md",
-    "8) Adventures/4E - Blood of Gruumsh (D210).md",
     "2) Compendium/equipment/items/Wraithweave Patch (Type II).md",
     "2) Compendium/equipment/items/Wraithweave Patch (Type I).md",
     "2) Compendium/equipment/items/Wraithweave Patch (Type III).md",
     "4) Bestiary/Temp/myconid-sovereign.md",
-    "4) Bestiary/unique-creatures/Agera of the Shadow Face.md",
     "4) Bestiary/homebrew/homebrew.md",
     "4) Bestiary/homebrew/acolyte-of-the-radiant-morn.md",
     "1) GM Screen/DC_Calculators.md",
@@ -268,17 +327,10 @@
     "2) Compendium/gm/hazards/hazards.md",
     "2) Compendium/gm/hazards/A_Add New Hazard.md",
     "2) Compendium/gm/hazards/lightning-hallway-hb.md",
-    "2) Compendium/gm/hazards/poisoned-dart-gallery.md",
-    "2) Compendium/gm/hazards/poisoned-dart-statues-aoe4.md",
-    "2) Compendium/gm/hazards/force-burst-wall-hb.md",
-    "2) Compendium/gm/hazards/forest-fire-qff2.md",
-    "2) Compendium/gm/hazards/exhaling-portal-da.md",
-    "1) GM Screen/Skill-Actions-Cheat-Sheet.md",
     "zz-Attachments/myconid-guard-20240430153751394.webp",
     "zz-Attachments/The Alchemist’s Eyrie-20240321224037619.webp",
     "zz-Attachments/Zeta-20240430110544821.webp",
     "zz-Attachments/SCT E7 Map.webp",
-    "zz-Attachments/SCT Image.webp",
-    "zz-Attachments/SCT E6 Map.webp"
+    "zz-Attachments/SCT Image.webp"
   ]
 }

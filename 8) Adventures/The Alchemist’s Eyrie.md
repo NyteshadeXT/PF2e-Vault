@@ -331,7 +331,7 @@ This area has a set of shelves and a desk, complete with a pauper’s set of dir
 Among the books in the library is **Durzh’s book of medicinal recipes**. If the characters return this book, along with some ingredients from the alchemy stores ([[#Area 18 Alchemy Stores]]), the dwarven alchemists back at the stronghold can recreate Durzh’s work.
 
 # Area 21: Durzh’s Room
-Durzh has a set of three doors to provide a sound baffle between the lab and his bedroom. The third door is trapped with a crossbow trap ([[skills#Perception|Perceptoin]] DC 27, [[skills#Thievery|Thievery]] DC 30).
+Durzh has a set of three doors to provide a sound baffle between the lab and his bedroom. The third door is trapped with a crossbow trap ([[skills#Perception|Perception]] DC 27, [[skills#Thievery|Thievery]] DC 30).
 
 The interior of the room is a typical ascetic mad scientist’s lair: messy, stinky, disorganized. A full search of the room turns up only one item of interest: a carved ivory plaque valued valued at 20 gp. 
 

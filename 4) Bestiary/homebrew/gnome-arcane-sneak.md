@@ -56,7 +56,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ short sword +20 ([[agile]], [[finesse]], [[versatile (s]]); __Damage__ 2d6 (2d6) piercing{@damage +2d6} piercing precision{@damage +1d6} cold"
+    desc: "⬻ short sword +20 ([[agile]], [[finesse]], [[versatile (s]]); __Damage__ 2d6 (2d6) piercing{+2d6} piercing precision{+1d6} cold"
 
 spellcasting:
   - name: " Spells"
