@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-spell
+notetype: pf2e-spell
 tags:
 - compendium/src/pf2e/crb
 - spell/level/2

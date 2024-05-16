@@ -4,35 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "c7bc392c95268d0d",
+        "id": "0c504c440c41fb5b",
         "type": "tabs",
         "children": [
           {
-            "id": "5803c320ad541cc2",
+            "id": "0a0d08206a989e34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1) GM Screen/DC_Calculators.md",
+                "file": "2) Compendium/equipment/items/tempered-harmony.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "7a29c2a8b34858cf",
+            "id": "a92638b881a480d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/The Alchemist’s Eyrie.md",
+                "file": "2) Compendium/spells/stabilize.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "abb01c51e0b91481",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2) Compendium/equipment/items/andvaris-gift-hb.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 336.5
   },
   "right": {
     "id": "8edb0c6562131f25",
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2) compendium/equipment/items/frost.md",
+                "file": "2) Compendium/equipment/items/tempered-harmony.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2) compendium/equipment/items/frost.md",
+                "file": "2) Compendium/equipment/items/tempered-harmony.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2) compendium/equipment/items/frost.md"
+                "file": "2) Compendium/equipment/items/tempered-harmony.md"
               }
             }
           },
@@ -212,7 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 479.5
+    "width": 493.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,110 +238,47 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-import-json:JSON/CSV Importer": false,
+      "templater-obsidian:Templater": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "e7ba455a8e79c074",
-    "type": "floating",
-    "children": [
-      {
-        "id": "15e7e4809d6db09f",
-        "type": "window",
-        "children": [
-          {
-            "id": "696efb72be0271f1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c21606fe12f77a90",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-player-view",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -640,
-        "y": 144,
-        "width": 640,
-        "height": 672,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "6b6b92186e002fad",
-        "type": "window",
-        "children": [
-          {
-            "id": "bec8b807b7d56dcd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "18443934157eccbe",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2) compendium/equipment/items/frost.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1280,
-        "y": 144,
-        "width": 640,
-        "height": 688,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "18443934157eccbe",
+  "active": "0a0d08206a989e34",
   "lastOpenFiles": [
-    "8) Adventures/The Alchemist’s Eyrie.md",
-    "2) compendium/equipment/items/resilient.md",
-    "3) Rules/actions/identify-magic.md",
-    "1) GM Screen/Skill-Actions-Cheat-Sheet.md",
-    "6) NPCs/Restwell Keep/Restwell Keep.md",
-    "4) Bestiary/homebrew/gnome-arcane-sneak.md",
-    "4) Bestiary/unique-creatures/Agera of the Shadow Face.md",
-    "8) Adventures/Menace at Otari.md",
-    "8) Adventures/4E - Blood of Gruumsh (D210).md",
+    "7) Players/Winter.md",
+    "2) Compendium/equipment/items/fatal-havoc.md",
+    "7) Players/Varas.md",
+    "2) Compendium/equipment/items/orders-covenant.md",
+    "2) Compendium/equipment/items/andvaris-gift-hb.md",
+    "2) Compendium/equipment/relic-gifts/tools-of-war.md",
+    "2) Compendium/equipment/relic-gifts/lawful-assault.md",
+    "7) Players/Mordak.md",
+    "2) Compendium/spells/rituals/rituals.md",
+    "2) Compendium/equipment/items/items.md",
+    "2) Compendium/equipment/items/happy-healper-hb.md",
+    "zz-Tools/Action Icons.md",
+    "restoration.md",
+    "2) Compendium/spells/stabilize.md",
+    "cure.md",
+    "2) Compendium/spells/remove-disease.md",
+    "2) Compendium/spells/restore-senses.md",
+    "2) Compendium/spells/detect-poison.md",
+    "2) Compendium/spells/calm-emotions.md",
+    "2) Compendium/spells/cackle-apg.md",
+    "2) Compendium/spells/brand-the-impenitent-logm.md",
+    "2) Compendium/spells/boil-blood-som.md",
+    "2) Compendium/spells/chameleon-coat-apg.md",
+    "2) Compendium/spells/charitable-urge-apg.md",
+    "2) Compendium/equipment/items/hand-of-the-mage-bb.md",
+    "2) Compendium/equipment/items/hat-of-many-minds-som.md",
+    "zz-Attachments/The Chaos Scar - Player View.jpg",
     "zz-Attachments/4E - Blood of Gruumsh (D210)-20240503111300695.webp",
-    "8) Adventures/4D - Stormcrow Tor (D169).md",
-    "2) Compendium/equipment/items/Wraithweave Patch (Type II).md",
-    "2) Compendium/equipment/items/Wraithweave Patch (Type I).md",
-    "2) Compendium/equipment/items/Wraithweave Patch (Type III).md",
-    "4) Bestiary/Temp/myconid-sovereign.md",
-    "4) Bestiary/homebrew/homebrew.md",
-    "4) Bestiary/homebrew/acolyte-of-the-radiant-morn.md",
-    "1) GM Screen/DC_Calculators.md",
     "zz-Attachments/Kataklysmos-Symbol.webp",
     "zz-Attachments/4D - Stormcrow Tor (D169)-20240502101334280.webp",
     "zz-Attachments/4D - Stormcrow Tor (D169)-20240502100600756.webp",
     "zz-Attachments/4D - Stormcrow Tor (D169)-20240502100540234.webp",
-    "7) Players/7) Players.md",
-    "7) Players/Ediza.md",
-    "7) Players/Mordak.md",
-    "7) Players/Varas.md",
-    "7) Players/Winter.md",
-    "8) Adventures/4C - Vanguard Tower (D182).md",
-    "2) Compendium/gm/hazards/hazards.md",
-    "2) Compendium/gm/hazards/A_Add New Hazard.md",
-    "2) Compendium/gm/hazards/lightning-hallway-hb.md",
     "zz-Attachments/myconid-guard-20240430153751394.webp",
     "zz-Attachments/The Alchemist’s Eyrie-20240321224037619.webp",
     "zz-Attachments/Zeta-20240430110544821.webp",
-    "zz-Attachments/SCT E7 Map.webp",
-    "zz-Attachments/SCT Image.webp"
+    "zz-Attachments/SCT E7 Map.webp"
   ]
 }

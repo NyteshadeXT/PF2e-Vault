@@ -25,7 +25,7 @@ As an action while you hold the healper, you can speak the command phrase “Hea
 
 The healper has one action per round and takes its turn immediately after the creature who summoned it. The summoner, as an action, can give it one of the following instructions:
 
-- 0 charges: [[stabilize|Stabilize]]
+- 0 charges: [[stabilize|Stabilize]] [[heal|Heal]]
 - 1 charge: [[heal|Heal]] 2nd-level, [[restoration|Restoration]] , [[restore-senses|Restore Senses]] 
 - 2 charges: [[heal|Heal]] 3rd-level, [[remove-disease|Remove Disease]]
 

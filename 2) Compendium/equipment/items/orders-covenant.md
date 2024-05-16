@@ -29,7 +29,7 @@ title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actio
 
 - **Frequency**: once per day
 
-**Effect** The hammer glows with a bright blue light.  For 1 minute, you can negate the power of Chaos Shards.  If you use Order's Covenant to destroy Chaos Shards they are unable to spread their corrumpting inflence to other creatures or people around them as the shatter.
+**Effect** The hammer glows with a bright blue light.  For 1 minute, you can negate the power of Chaos Shards.  If you use Order's Covenant to destroy Chaos Shards they are unable to spread their corrupting influence to other creatures or people around them as the shatter.
 ```
 
 **Gifts:** The relic grants the following gifts.

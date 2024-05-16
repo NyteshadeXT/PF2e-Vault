@@ -13,4 +13,5 @@ Party: Chaos Scar
 [[]]
 
 ![[Veras.webp]]
+[[fatal-havoc|Fatal Havoc]]
 
