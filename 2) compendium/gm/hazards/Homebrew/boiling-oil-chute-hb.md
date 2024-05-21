@@ -17,11 +17,11 @@ aliases: ["Boiling Oil Chute"]
 
 When triggered boiling oil is released from the chute above scalding anyone caught in the area.
 
-- **Disable** DC 25 [Thievery](compendium/skills.md#Thievery) to jam the pressure plates which trigger the chute
+- **Disable** DC 25 [Thievery](../../../skills.md#Thievery) to jam the pressure plates which trigger the chute
 - **Reset** A creature near the upper apparatus can take a standard action to reset the trap. If the trap has attacked and been reset already, then attacks again, it must be refilled which takes 1 minute.
 
 ```ad-embed-ability
-title: **Scald** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+title: **Scald** [R](../../../../3)%20Rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 
 - **Trigger**: A creature steps on the pressure plate space.
 

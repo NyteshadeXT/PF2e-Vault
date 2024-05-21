@@ -22,7 +22,7 @@ This golden ring is inscribed with runes symbolizing wealth and prosperity, and 
 **Golden Curse:** If Andvari’s Gift is used more than two times in the span of one day, you become invested in it. While invested, you suffer a -5 penalty on charisma and wisdom saving throws and skill checks. If you attempt to discard the ring while you are affected by the item's curse it will return to you in a mysterious way, such as appearing in a pouch, coin purse, or pocket. Attunement to the ring cannot be ended voluntarily unless you relinquish the ring to an recipient that is unsuspecting of the curse, but is capable of speaking the command word. Upon relinquishing the ring to another person, you can never regain it through any means and events will conspire to keep it from you.
 
 ```ad-embed-ability
-title: **Activate** [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Single Action [Interact](rules/actions/interact.md)
+title: **Activate** [>](../../../../3)%20Rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") Single Action [Interact](../../../../3)%20Rules/actions/interact.md)
 
 - **Frequency**: once per minute
 

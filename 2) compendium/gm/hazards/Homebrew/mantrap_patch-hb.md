@@ -14,16 +14,16 @@ aliases: ["Mantrap Patch"]
 - **Complexity** Simple
 - **Stealth** DC 23 trained  
 
-These spiked mechanical jaws can close with bone-snapping force, holding a victim in place until he or she can pry the jaws open again, each [hidden](rules/conditions.md#Hidden) in a 10-foot-square floor space.
+These spiked mechanical jaws can close with bone-snapping force, holding a victim in place until he or she can pry the jaws open again, each [hidden](../../../../3)%20Rules/conditions.md#Hidden) in a 10-foot-square floor space.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 21 (trained) to disable the mechanism.  
+- **Disable** [Thievery](../../../skills.md#Thievery) DC 21 (trained) to disable the mechanism.  
 
 - **AC** 21, **Fort** +12, **Ref** +8
 - **Hardness** 11, **HP** 44 (BT 22)
 - **Immunities** critical hits; object immunities; precision damage
 
 ```ad-embed-ability
-title: **Snapping Jaws** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([attack](rules/traits/attack.md))
+title: **Snapping Jaws** [R](../../../../3)%20Rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") ([attack](../../../../3)%20Rules/traits/attack.md))
 
 - **Trigger**: The mechanical jaw is stepped on.
 
