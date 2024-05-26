@@ -19,7 +19,7 @@ aliases: ["Levithan's Prism"]
 A sharp geometry designed in the image of Lovitar, goddess of pain.  It teems with energy both demonic and angelic.
 
 ```ad-embed-ability
-title: **Activate** [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, [Interact](rules/actions/interact.md)
+title: **Activate** [>>](../../../../3)%20Rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action") command, [Interact](../../../../3)%20Rules/actions/interact.md)
 
 
 Once per day, you may activate this item, spreading a magical darkness that surrounds you in a 20-foot radius and lasting for up to 10 rounds.  Creatures that end their turn in range of this darkness are attacked by hooks that emerge from seemingly nowhere, forcing them to pass a DC 15 Reflex saving throw, taking `2d6` piercing damage and losing 5 feet of movement speed on failure.
