@@ -56,5 +56,14 @@
       ],
       "key": "U"
     }
+  ],
+  "dbfolder:active-database-folder-open-settings": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "D"
+    }
   ]
 }

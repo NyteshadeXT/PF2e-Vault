@@ -160,6 +160,7 @@ columns:
       - { label: "Dwarf", value: "Dwarf", color: "hsl(325, 95%, 90%)"}
       - { label: "Wild Elf", value: "Wild Elf", color: "hsl(116, 95%, 90%)"}
       - { label: "Oraed", value: "Oraed", color: "hsl(114, 95%, 90%)"}
+      - { label: "Half-Elf", value: "Half-Elf", color: "hsl(338, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

@@ -20,41 +20,40 @@
 > **Current Location** | `=link(this.location)` |
 
 # **`=this.file.name`**
-> [!info|bg-c-purple]- Overview
+> [!info|bg-c-purple]+ Overview
 TBD
 
 > [!column] Traits
 >> [!metadata|text-Center bg-c-gray] Personality
->> `=this.PersonalityTrait`
->
->> [!metadata|text-Center bg-c-gray] Social
->> `=this.SocialTrait`
->
->> [!metadata|text-Center bg-c-gray] Mental
->> `=this.MentalTrait`
->
->> [!metadata|text-Center bg-c-gray] Likes/Dislikes
->> **Likes:** `=this.Likes`
->>
->> **Dislikes:** `=this.Dislikes`
-
-> [!column|dataview] Goals
->> [!metadata|text-Center bg-c-yellow]- Personal
 >> TBD
 >
->> [!metadata|text-Center bg-c-yellow]- Professional
+>> [!metadata|text-Center bg-c-gray] Skills
+>> TBD
+>
+>> [!metadata|text-Center bg-c-gray] Quirks
+>> TBD
+>
+>> [!metadata|text-Center bg-c-gray] Likes/Dislikes
+>> **Likes:** TBD
+>>
+>> **Dislikes:** TBD
+
+> [!column|dataview] Goals
+>> [!metadata|text-Center bg-c-yellow]+ Personal
+>> TBD
+>
+>> [!metadata|text-Center bg-c-yellow]+ Professional
 >> TBD
 >
 
 ## Acquaintances
 > [!column|dataview] Acquaintances
->> [!metadata|text-Center bg-c-green]- Friends & Family
+>> [!metadata|text-Center bg-c-green]+ Friends & Family
 >> TBD
 >
->> [!metadata|text-Center bg-c-red]- Rivals
+>> [!metadata|text-Center bg-c-red]+ Rivals
 >> TBD
 >
-
 ## History
 TBD
 

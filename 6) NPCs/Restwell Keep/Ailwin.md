@@ -30,6 +30,7 @@ PersonalityTrait:
   - Proud
   - Savvy
 ---
+
 > [!infobox]
 > **Pronounced:**  "`=this.Pronounced`"
 > ![[Ailwin.png|Ailwin]]
