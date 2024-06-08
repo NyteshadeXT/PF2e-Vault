@@ -34,31 +34,31 @@
             }
           },
           {
-            "id": "fa60fcf4277884e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8) Adventures/The Alchemist’s Eyrie.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "e26ef1ce3cf8b269",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2) compendium/equipment/items/tempered-harmony.md",
-                "mode": "preview",
+                "file": "7) Players/Varas.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "23919df7cf3eabca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2) compendium/equipment/relic-gifts/rolling-geode.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2) compendium/equipment/items/tempered-harmony.md",
+                "file": "7) Players/Varas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2) compendium/equipment/items/tempered-harmony.md",
+                "file": "7) Players/Varas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2) compendium/equipment/items/tempered-harmony.md"
+                "file": "7) Players/Varas.md"
               }
             }
           },
@@ -238,7 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 477.5
+    "width": 466.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,99 +258,35 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "79e01cc45a3bd2a0",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f25017d88f7760a4",
-        "type": "window",
-        "children": [
-          {
-            "id": "39b5e1466af9c42f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "20167ffe5a1fb869",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-player-view",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -640,
-        "y": 18,
-        "width": 640,
-        "height": 673,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "b898873b42b56753",
-        "type": "window",
-        "children": [
-          {
-            "id": "f21c3e0851b4d423",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b530d9dfcf38dc41",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2) compendium/equipment/relic-gifts/tools-of-war.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1157,
-        "y": -6,
-        "width": 1025,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "e26ef1ce3cf8b269",
+  "active": "b7712fbe4629b36e",
   "lastOpenFiles": [
+    "2) compendium/equipment/items/avengers-needle.md",
+    "2) compendium/equipment/items/avengers-needle-20240608170153281.webp",
+    "1) Scratch Notes/Death Dancer.md",
+    "2) compendium/equipment/relic-gifts/rolling-geode.md",
+    "1) Scratch Notes/Notes.md",
+    "1) Scratch Notes/Untitled.md",
+    "2) compendium/equipment/relic-gifts/orders-edge.md",
+    "2) compendium/equipment/items/tempered-harmony.md",
+    "2) compendium/equipment/relic-gifts/vengeance.md",
+    "1) Scratch Notes/1) Scratch Notes.md",
+    "1) Scratch Notes/DC Calc Test.md",
+    "8) Adventures/The Alchemist’s Eyrie.md",
+    "2) compendium/equipment/relic-gifts/tools-of-war.md",
     "7) Players/Winter.md",
     "7) Players/Varas.md",
     "2) compendium/equipment/items/fatal-havoc.md",
     "2) compendium/equipment/items/orders-covenant.md",
-    "2) compendium/equipment/relic-gifts/tools-of-war.md",
     "7) Players/Mordak.md",
     "1) GM Screen/Skill-Actions-Cheat-Sheet.md",
     "3) Rules/actions/treat-poison.md",
     "1) GM Screen/Actions-Cheat-Sheet.md",
-    "8) Adventures/The Alchemist’s Eyrie.md",
     "5) World/Bahl Doral/Shrine of Kelemvor.md",
     "1) GM Screen/Party Treasure.md",
     "6) NPCs/Restwell Keep/Restwell Keep.md",
-    "1) Scratch Notes/DC Calc Test.md",
     "5) World/Bahl Doral/Ironhold Smithy.md",
     "1) GM Screen/GM-Screen.md",
-    "1) GM Screen/DC_Calculators.md",
-    "3) Rules/actions/identify-magic.md",
-    "1) GM Screen/rules-reference.md",
-    "1) GM Screen/common-conditions-p.618-623.md",
-    "6) NPCs/Bahl Doral/Borik Ironfist.md",
     "zz-Attachments/Borik Ironfist-20240524125829985.webp",
-    "5) World/Bahl Doral/Iron Anvil Forge.md",
-    "6) NPCs/Bahl Doral/Mara Emberforge.md",
-    "6) NPCs/Bahl Doral/NPC Template 1 1 1 1 1 1.md",
-    "6) NPCs/Bahl Doral/Inga Ironhide.md",
-    "6) NPCs/Bahl Doral/Hilda Frostmantle.md",
     "zz-Attachments/Burli Ironfist-20240523225845928.webp",
     "zz-Attachments/Garn Goldhammer-20240523092051276.webp",
     "zz-Attachments/Bjorn Thundertread-20240523091641218.webp",
@@ -362,7 +298,6 @@
     "zz-Attachments/The Chaos Scar - Player View.jpg",
     "zz-Attachments/4E - Blood of Gruumsh (D210)-20240503111300695.webp",
     "zz-Attachments/Kataklysmos-Symbol.webp",
-    "zz-Attachments/4D - Stormcrow Tor (D169)-20240502101334280.webp",
-    "zz-Attachments/4D - Stormcrow Tor (D169)-20240502100600756.webp"
+    "zz-Attachments/4D - Stormcrow Tor (D169)-20240502101334280.webp"
   ]
 }
