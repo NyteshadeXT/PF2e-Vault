@@ -1,11 +1,11 @@
 ---
-rarity: 5
+rarity: 14
 skillLevel: 15
-creatureCR: 3
+creatureCR: 8
 creatureTrait: Religion
 playerLevel: 10
 taskDifficulty: 0
-skillDifficulty: -5
+skillDifficulty: 0
 itemLevel: 8
 itemValue: 25
 itemType: 2
@@ -16,6 +16,7 @@ rushLevel: 0
 completionDays: 1
 rushCompletion: true
 craftRoll: 1
+rarityModifier: 0
 ---
 
 
@@ -26,9 +27,10 @@ craftRoll: 1
 
 
 
+
 | Recall Knowledge DC                                                                                 |                                                                                                                
 | --------------------------------------------------------------------------------------------------- |
-| **Rarity:** `INPUT[inlineSelect(option(5, Common), option(10, Uncommon), option(15, Rare)):rarity]` |                                                                                   
+| **Rarity:** `INPUT[inlineSelect(option(14, Common), option(16, Uncommon), option(19, Rare)):rarity]` |                                                                                   
 | **Creature CR:** `INPUT[number:creatureCR]`     |                                                     
 | **Creature Trait:** `INPUT[inlineSelect(option(Occultism, Aberration), option(Nature, Animal), option(Occultism, Astral), option('Arcana, Nature', Beast), option(Religion, Celestial), option('Arcana, Crafting', Construct), option(Occultism, Ethereal), option(Nature, Fey), option(Religion, Fiend), option(Nature, Fungus), option(Society, Humanoid), option(Religion, Monitor), option(Occultism, Ooze), option(Nature, Plant), option(Occultism, Spirit), option(Religion, Undead)):creatureTrait]` |
 | **Recall Knowledge DC:** `VIEW[round({creatureCR} + {rarity})]`    `VIEW[string({creatureTrait})]`                                   |
