@@ -1,8 +1,8 @@
 ---
-hp: 80
-ac: 25
-modifier: 16
-level: 8
+hp: 89
+ac: 27
+modifier: 17
+level: 9
 Player_Name: Jody
 Alignment: NG
 Class: Druid

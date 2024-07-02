@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7) Players/Varas.md",
-                "mode": "source",
+                "file": "8) Adventures/4A - Glowstone Caverns (D177).md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -51,8 +51,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2) compendium/equipment/relic-gifts/rolling-geode.md",
-                "mode": "source",
+                "file": "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7) Players/Varas.md",
+                "file": "8) Adventures/4A - Glowstone Caverns (D177).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7) Players/Varas.md",
+                "file": "8) Adventures/4A - Glowstone Caverns (D177).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7) Players/Varas.md"
+                "file": "8) Adventures/4A - Glowstone Caverns (D177).md"
               }
             }
           },
@@ -258,34 +258,127 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b7712fbe4629b36e",
+  "floating": {
+    "id": "22419ef13c2ff589",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f847a08bed503c4a",
+        "type": "window",
+        "children": [
+          {
+            "id": "a976ce547f1dc797",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "73052d1f80ef8dab",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 4096,
+        "y": -216,
+        "width": 641,
+        "height": 672,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "a60defb67d4bd5f2",
+        "type": "window",
+        "children": [
+          {
+            "id": "66476e3b900a61ea",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8e8e7111b70f69a5",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "zz-Attachments/Balewin.webp"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 3456,
+        "y": -216,
+        "width": 640,
+        "height": 672,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "15536bcc198a4347",
+        "type": "window",
+        "children": [
+          {
+            "id": "08fda10956283196",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "59ac08579411f6fc",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "5) World/The Chaos Scar/Chaos Scar - Player View.jpg"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 4433,
+        "y": -176,
+        "width": 769,
+        "height": 817,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e26ef1ce3cf8b269",
   "lastOpenFiles": [
+    "5) World/The Chaos Scar/Chaos Scar - Player View.jpg",
+    "8) Adventures/4A - Glowstone Caverns (D177).md",
+    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+    "5) World/The Chaos Scar/Chaos Scar - Player View.md",
+    "2) compendium/equipment/relic-gifts/rolling-geode.md",
+    "6) NPCs/Restwell Keep/Balewin.md",
+    "zz-Attachments/Balewin.webp",
+    "6) NPCs/Restwell Keep/Restwell Keep.md",
+    "6) NPCs/Crossroads/Crossroads.md",
+    "5) World/Bahl Doral/Stone Hearth Bakery.md",
+    "7) Players/Zeta.md",
+    "7) Players/Winter.md",
+    "7) Players/Varas.md",
+    "7) Players/Mordak.md",
+    "7) Players/Ediza.md",
+    "5) World/Party Configuration.md",
+    "5) World/Bahl Doral/Stout Stitch Tailors.md",
+    "5) World/Bahl Doral/Glittergem Jewels.md",
+    "5) World/Bahl Doral/Frostmantle Furrier.md",
+    "5) World/Bahl Doral/Iron Anvil Forge.md",
+    "5) World/Bahl Doral/Ironhold Smithy.md",
+    "5) World/Bahl Doral/The Hammered Anvil.md",
+    "5) World/Bahl Doral/The Stalwart Tankard Tavern.md",
+    "5) World/Bahl Doral/Bahl Doral Map.md",
+    "1) GM Screen/GM-Screen.md",
     "2) compendium/equipment/items/avengers-needle.md",
     "2) compendium/equipment/items/avengers-needle-20240608170153281.webp",
     "1) Scratch Notes/Death Dancer.md",
-    "2) compendium/equipment/relic-gifts/rolling-geode.md",
-    "1) Scratch Notes/Notes.md",
-    "1) Scratch Notes/Untitled.md",
-    "2) compendium/equipment/relic-gifts/orders-edge.md",
-    "2) compendium/equipment/items/tempered-harmony.md",
-    "2) compendium/equipment/relic-gifts/vengeance.md",
-    "1) Scratch Notes/1) Scratch Notes.md",
-    "1) Scratch Notes/DC Calc Test.md",
-    "8) Adventures/The Alchemist’s Eyrie.md",
-    "2) compendium/equipment/relic-gifts/tools-of-war.md",
-    "7) Players/Winter.md",
-    "7) Players/Varas.md",
-    "2) compendium/equipment/items/fatal-havoc.md",
-    "2) compendium/equipment/items/orders-covenant.md",
-    "7) Players/Mordak.md",
-    "1) GM Screen/Skill-Actions-Cheat-Sheet.md",
-    "3) Rules/actions/treat-poison.md",
-    "1) GM Screen/Actions-Cheat-Sheet.md",
-    "5) World/Bahl Doral/Shrine of Kelemvor.md",
-    "1) GM Screen/Party Treasure.md",
-    "6) NPCs/Restwell Keep/Restwell Keep.md",
-    "5) World/Bahl Doral/Ironhold Smithy.md",
-    "1) GM Screen/GM-Screen.md",
     "zz-Attachments/Borik Ironfist-20240524125829985.webp",
     "zz-Attachments/Burli Ironfist-20240523225845928.webp",
     "zz-Attachments/Garn Goldhammer-20240523092051276.webp",
@@ -296,8 +389,6 @@
     "5) World/The Chaos Scar",
     "6) NPCs/Bahl Doral",
     "zz-Attachments/The Chaos Scar - Player View.jpg",
-    "zz-Attachments/4E - Blood of Gruumsh (D210)-20240503111300695.webp",
-    "zz-Attachments/Kataklysmos-Symbol.webp",
-    "zz-Attachments/4D - Stormcrow Tor (D169)-20240502101334280.webp"
+    "zz-Attachments/4E - Blood of Gruumsh (D210)-20240503111300695.webp"
   ]
 }

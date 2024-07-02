@@ -25,12 +25,12 @@ A single [[spells-dataview-backup/spells/level-4/remove-curse|Remove Curse]] spe
 #### standard-grade *Item 12*
 
 - **Price**: 2000 gp
-- **Craft Requirements**: At least 250 gp of peachwood + 25 gp per Bulk
+- **Craft Requirements**: At least 250 gp of glowmetal + 25 gp per Bulk
 
 #### high-grade *Item 18*
 
 - **Price**: 19000 gp
-- **Craft Requirements**: At least 9,500 gp of peachwood + 950 gp per Bulk
+- **Craft Requirements**: At least 9,500 gp of glowmetal + 950 gp per Bulk
 
 ---
 *4e Homebrew*

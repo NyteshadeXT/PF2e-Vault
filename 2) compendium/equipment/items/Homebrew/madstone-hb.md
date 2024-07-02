@@ -22,7 +22,7 @@ You can use the Madstone to restore 3d8+10 hit points and like an [[elixir-of-li
 Whenever you activate the Madstone you suffer ([[conditions#clumsy|Clumsy]]) 2 until you take an 8 hour rest.
 
 ```ad-embed-ability
-title: **Activate** [F](../../../../3)%20Rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") command
+title: **Activate** (../../../../3)%20Rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") command
 
 - **Frequency**: once per day
 

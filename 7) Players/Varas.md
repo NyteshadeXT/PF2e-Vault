@@ -1,8 +1,8 @@
 ---
-hp: 94
-ac: 26
-modifier: 14
-level: 8
+hp: 105
+ac: 27
+modifier: 17
+level: 9
 Player_Name: Kev
 Alignment: N
 Class: Swashbuckler

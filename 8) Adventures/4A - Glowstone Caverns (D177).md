@@ -57,7 +57,7 @@ party: Chaos Scar
 creatures:
 - 4: [[Goblin Enforcer]] 
 - 2: [[Goblin Quickblade]]
-- 1: [Vampire Bat Swarm]
+- 1: [[Giant Bat]]
 - 1: Glowmetal Hexer, 72, 18, 12
 ```
 
