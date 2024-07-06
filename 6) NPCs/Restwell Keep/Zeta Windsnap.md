@@ -88,9 +88,65 @@ Zeta is rescued by the players during the adventure Some Assembly Required.  She
 TBD
 
 ### Hidden Details
-TBD
+
+**Zeta as a Chaos Remnant**
+Zeta's body contains residual Chaos energy that acts as a beacon, attracting creatures or followers of Kataklysmos. This could create a sense of urgency for the party to find a permanent solution to her condition. They may need to seek out powerful artifacts or allies to cleanse her completely.
+
+She also discovers she has developed strange new abilities. These powers might be unpredictable and dangerous, requiring the party to help her learn control while keeping her from harm. 
+
+Kataklysmos has not given up on his prize yet, however. Angered by the party's interference he sends agents to recapture Zeta. 
+
+
+#### Chaotic Powers
+
+1. **Chaos Surge**
+   - **Effect:** Once per day, Zeta can unleash a surge of chaotic energy. This could manifest as a burst of magical damage (such as Force or a random energy type) to all creatures within a 10-foot radius.
+   - **Mechanics:** Zeta can use a 3-action activity to release a Chaos Surge. Each creature in the area must make a Reflex save (DC = Zeta's class DC or spell DC). On a failure, they take 2d6 damage of a random energy type (roll 1d6: 1 = Acid, 2 = Cold, 3 = Electricity, 4 = Fire, 5 = Sonic, 6 = Force). On a success, they take half damage.
+
+2. **Unstable Form**
+   - **Effect:** Zeta's body momentarily shifts in and out of reality, granting her increased defenses and a chance to avoid attacks.
+   - **Mechanics:** Zeta gains the ability to use a reaction once per day to gain concealment (20% miss chance) against an attack that would otherwise hit her. This lasts until the end of her next turn.
+
+3. **Chaotic Healing**
+   - **Effect:** Zeta can tap into the chaos within to rapidly heal her wounds or those of her allies, though the effects are unpredictable.
+   - **Mechanics:** As a 2-action activity, Zeta can heal herself or an ally within 30 feet for 3d8 Hit Points. Roll a d20 after the healing is applied: on a 1, the target takes 1d8 damage instead as chaotic energy backfires.
+
+#### Psychic or Mystic Powers
+
+4. **Mind Touch**
+   - **Effect:** Zeta can reach into the minds of others, communicating telepathically or sensing their surface thoughts.
+   - **Mechanics:** Zeta gains the ability to cast **Detect Thoughts** as an innate spell once per day. Additionally, she can telepathically communicate with any creature within 30 feet that she can see.
+
+5. **Dreamwalker**
+   - **Effect:** Zeta's experiences while comatose have granted her insight into the dream realm. She can influence dreams and gather information from them.
+   - **Mechanics:** Zeta can cast **Dream Message** as an innate spell once per day. Additionally, she gains a +2 circumstance bonus to checks to interpret dreams or receive visions.
+
+#### Protective Powers
+
+6. **Chaos Shield**
+   - **Effect:** A swirling shield of chaotic energy protects Zeta, reducing damage from attacks.
+   - **Mechanics:** Zeta gains the ability to cast **Shield** as an innate cantrip at will. Additionally, once per day, she can use a 1-action activity to gain resistance 5 to all damage types for 1 minute.
+
+7. **Fate's Intervention**
+   - **Effect:** Tymora's influence manifests, allowing Zeta to alter fate in small ways.
+   - **Mechanics:** Once per day, Zeta can use a reaction to force an enemy to reroll an attack roll, skill check, or saving throw. The enemy must take the second result, even if it's worse.
+
+#### Utility Powers
+
+8. **Chaotic Adaptation**
+   - **Effect:** Zeta's body can adapt to different environments and conditions.
+   - **Mechanics:** Zeta gains the ability to cast **Endure Elements** and **Water Breathing** as innate spells once per day each. Additionally, she can change her appearance slightly (such as skin color, hair color, etc.) at will as a 2-action activity.
+
+9. **Planar Connection**
+   - **Effect:** Zeta's connection to Chaos allows her to interact with planar energies and entities.
+   - **Mechanics:** Zeta gains the ability to cast **Summon Construct** as an innate spell once per day, summoning a minor chaotic creature to assist her. She can also attempt to communicate with extraplanar entities with a +2 circumstance bonus on Diplomacy checks.
+
+10. **Warp Reality**
+    - **Effect:** Zeta can briefly warp reality around her, creating illusions or altering the environment.
+    - **Mechanics:** Zeta gains the ability to cast **Illusory Disguise** and **Illusory Object** as innate spells once per day each.
+
 
 ### General Notes
-![[Pasted image 20230829230627.png]]
+See Zeta's entry in the Players section for class information.
 
 

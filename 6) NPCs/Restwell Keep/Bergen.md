@@ -80,6 +80,8 @@ TBD
 ## DM Notes
 A devotee of Moradin, he relies on his knowledge of metals rather than brute strength.  He particularly loves a challenge, and he has a great knowledge of dwarven rituals and lore.  If given the correct materials he can make many magical weapons and armor.
 
+Bergen has been recently meeting with Benwick and has had some interesting conversations about the effects of the chaos scar taint on various metals.  If asked he believes he knows the secrets to creating [[purified-glowmetal-weapon|Purified Glowmetal Weapons]].
+
 ### Plot Hooks
 TBD
 

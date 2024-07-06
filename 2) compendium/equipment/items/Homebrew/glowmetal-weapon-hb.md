@@ -14,7 +14,7 @@ aliases: ["Glowmetal Weapon"]
 
 Glowmetal weapons have a slightly purple sheen to them when under direct sunlight.
 
-Glowmetal is makes the weapon it coats magical with a +1 potency.  However, this magic comes with a price, it is tainted by the influence of the meteorite. The first time in any encounter where the wielder uses the glowmetal weapon as part of an attack, he or she must make a DC 15 Fortitude save. If the save fails, the wielder gains an unsightly disfigurement. If the check fails by 5 or more, the wielder’s mind is strained by the weird emanations of the glowmetal. He or she takes a permanent –1 penalty to Will saves; this penalty is cumulative with each such failure. 
+Glowmetal makes the weapon it coats magical with a +1 potency.  However, this magic comes with a price, it is tainted by the influence of the meteorite. The first time in any encounter where the wielder uses the glowmetal weapon as part of an attack, he or she must make a DC 15 Fortitude save. If the save fails, the wielder gains an unsightly disfigurement. If the check fails by 5 or more, the wielder’s mind is strained by the weird emanations of the glowmetal. He or she takes a permanent –1 penalty to Will saves; this penalty is cumulative with each such failure. 
 
 A single [[spells-dataview-backup/spells/level-4/remove-curse|Remove Curse]] spell removes all disfigurements and penalties.
 

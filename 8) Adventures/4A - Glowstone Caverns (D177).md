@@ -198,7 +198,7 @@ The trash hulk attacks aggressively. It does not treat goblins as allies or enem
 A creature can jump onto the table (DC 7 [[skills#Athletics|Athletics]]). Creatures on the table gain a +1 bonus to melee attack rolls against creatures on the floor.
 
 > [!tip]+ Treasure
-> Rooting through the heaps of garbage and (including the remains of the trash hulk) uncovers a flask that turns out not to be empty. It contains a potion of healing. In addition, the goblin mess cooks are carrying a total of 15 gp and 9 sp. Nothing in the kitchen is fit to eat, but the cleavers can serve as handaxes and the carving knives as daggers.
+> Rooting through the heaps of garbage and (including the remains of the trash hulk) uncovers a flask that turns out not to be empty. It contains a [[healing-potion|Healing Potion (Moderate)]]. In addition, the goblin mess cooks are carrying a total of 15 gp and 9 sp. Nothing in the kitchen is fit to eat, but the cleavers can serve as handaxes and the carving knives as daggers.
 
 # Encounter 4 - Tainted Cave
 **Encounter Difficulty:** Severe (140 xp) + Skill Challenge (30 xp)
@@ -230,7 +230,7 @@ The goblin mass starts the encounter submerged in the pool. Do not place it on t
 
 When the characters reach the cave entrance, read:
 > [!note]+ Read Aloud
-> This large cave is dimly lit by the lurid glow from a large pool at its center and glistening metallic blobs on the walls. The oily-looking water shines an eerie purple. Several goblins stand about the pool, although they have an odd appearance and do not carry weapons.
+> This large cave is dimly lit by the lurid glow from a large pool at its center and glistening metallic blobs on the walls. The oily-looking water shines an eerie purple.  An occasional flicker of light and energy flashes above the pool before again winking out of existence. Several goblins stand about the pool, although they have an odd appearance and do not carry weapons.
 > 
 > At the back of the chamber, a putrid-looking creature that might once have been a goblin shouts a curse and orders the others forward. A dripping blade protrudes from the end of one arm, and on the other is a fleshy disk.
 
@@ -302,9 +302,9 @@ If the characters accumulate 3 failures, they are no longer able to stabilize th
 > [!tip]+ Treasure
 > Glork’s longsword was absorbed into her mutated form but can be cut free. It is a +1 [[corrosive|Corrosive]] longsword. Her “shield” is actually a mass of bone and flesh that was once her hand and forearm. It cannot be wielded and is worth nothing other than its gruesome scholarly interest. Her personal treasury contains [[antiplague|Antiplague (Moderate)]], [[warding-tablets-som|Warding Tablets]] and 75 gp.
 > 
-> The [[glowmetal|Glowmetal]] might be the key to forming a permanent seal of the pool, which continues to radiate energy that could corrupt any future inhabitants of these caves. Arcane scholars are likewise interested in acquiring samples. Players can collect up to 10 nodules which can fetch 20 gp from someone who recognizes its potential. However, glowmetal is dangerous to stay in contact with over a long time. 
+> The [[glowmetal|Glowmetal]] might be the key to forming a permanent seal of the pool, which continues to radiate energy that could corrupt any future inhabitants of these caves. [[Balidor]] will be interested in acquiring samples. Glowmetal is dangerous to stay in contact with over a long time, however in the right hands can be transformed into a very beneficial material, [[purified-glowmetal-weapon|Purified Glowmetal Weapon]].
 
 # Conclusion
-If the characters manage to suppress the chaos leak, they temporarily prevent further corruption from affecting these caves. The weak point is not completely repaired, though; only a special ritual can permanently seal it. The characters might be sent on additional missions to acquire materials necessary for this ritual.
+If the characters manage to suppress the chaos leak, they temporarily prevent further corruption from affecting these caves. The weak point is not completely repaired, though; only a special ritual can permanently seal it. Through discussions with [[Balewin]] they can learn that a ritual which takes several hours combined with a seal made of cold iron can become a keystone for the portal sealing it's energies and preventing it from fully creating.  It will take 10 [[cold-iron|Cold Iron Ingots (High-Grade)]] to create a keystone capable of handling the power of the ritual and the residual chaos energy.
 
 If they defeated the monsters but were unable to patch the wound, the problem will arise again as other natural creatures wander into the caves. The wound might develop into a full-blown planar rift, bringing aberrant horrors from the Far Realm into the world. Until a sealing ritual can be performed, it will be necessary to seal off the caverns and stand guard to prevent other beings from entering—or leaving.

@@ -22,24 +22,12 @@
             }
           },
           {
-            "id": "abb01c51e0b91481",
+            "id": "1eb7356af16841a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1) Scratch Notes/DC Calc Test.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e26ef1ce3cf8b269",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8) Adventures/4A - Glowstone Caverns (D177).md",
+                "file": "6) NPCs/Restwell Keep/Zeta Windsnap.md",
                 "mode": "preview",
                 "source": true
               }
@@ -58,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8) Adventures/4A - Glowstone Caverns (D177).md",
+                "file": "6) NPCs/Restwell Keep/Zeta Windsnap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8) Adventures/4A - Glowstone Caverns (D177).md",
+                "file": "6) NPCs/Restwell Keep/Zeta Windsnap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8) Adventures/4A - Glowstone Caverns (D177).md"
+                "file": "6) NPCs/Restwell Keep/Zeta Windsnap.md"
               }
             }
           },
@@ -282,8 +270,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 4096,
-        "y": -216,
+        "x": 3839,
+        "y": 0,
         "width": 641,
         "height": 672,
         "maximize": false,
@@ -312,83 +300,55 @@
         ],
         "direction": "vertical",
         "x": 3456,
-        "y": -216,
+        "y": 0,
         "width": 640,
         "height": 672,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "15536bcc198a4347",
-        "type": "window",
-        "children": [
-          {
-            "id": "08fda10956283196",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "59ac08579411f6fc",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "5) World/The Chaos Scar/Chaos Scar - Player View.jpg"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 4433,
-        "y": -176,
-        "width": 769,
-        "height": 817,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "e26ef1ce3cf8b269",
+  "active": "1eb7356af16841a0",
   "lastOpenFiles": [
-    "5) World/The Chaos Scar/Chaos Scar - Player View.jpg",
-    "8) Adventures/4A - Glowstone Caverns (D177).md",
-    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
-    "5) World/The Chaos Scar/Chaos Scar - Player View.md",
-    "2) compendium/equipment/relic-gifts/rolling-geode.md",
-    "6) NPCs/Restwell Keep/Balewin.md",
-    "zz-Attachments/Balewin.webp",
-    "6) NPCs/Restwell Keep/Restwell Keep.md",
-    "6) NPCs/Crossroads/Crossroads.md",
-    "5) World/Bahl Doral/Stone Hearth Bakery.md",
     "7) Players/Zeta.md",
-    "7) Players/Winter.md",
-    "7) Players/Varas.md",
-    "7) Players/Mordak.md",
-    "7) Players/Ediza.md",
-    "5) World/Party Configuration.md",
-    "5) World/Bahl Doral/Stout Stitch Tailors.md",
-    "5) World/Bahl Doral/Glittergem Jewels.md",
-    "5) World/Bahl Doral/Frostmantle Furrier.md",
-    "5) World/Bahl Doral/Iron Anvil Forge.md",
-    "5) World/Bahl Doral/Ironhold Smithy.md",
-    "5) World/Bahl Doral/The Hammered Anvil.md",
-    "5) World/Bahl Doral/The Stalwart Tankard Tavern.md",
-    "5) World/Bahl Doral/Bahl Doral Map.md",
+    "zz-Attachments/Zeta-20240702161757118.webp",
+    "8) Adventures/Menace at Otari.md",
+    "8) Adventures/7E - Vainglorious (D221).md",
+    "8) Adventures/The Alchemist’s Eyrie.md",
+    "zz-Tools/Handlebar Templates/Template-2E-Spell-Handlebar.md",
+    "zz-Tools/Handlebar Templates/Template-2ETools-Monster-Handlebar.md",
+    "zz-Tools/Action Icons.md",
+    "zz-Tools/DunGen (Random Dungeon Generator).md",
+    "zz-Tools/Mimic Fight Club (Item Generator).md",
+    "5) World/The Chaos Scar/Restwell Keep-20240105144659375.webp",
+    "zz-Tools/Mimic Fight Club (Encounter Generator).md",
     "1) GM Screen/GM-Screen.md",
-    "2) compendium/equipment/items/avengers-needle.md",
+    "5) World/The Chaos Scar/Pasted image 20230307211113.png",
+    "zz-Attachments/Balewin.webp",
+    "5) World/The Chaos Scar/Restwell Keep.md",
+    "5) World/The Chaos Scar/Restwell Jobs.md",
+    "5) World/The Chaos Scar/Chaos Scar - Player View.md",
+    "5) World/The Chaos Scar/Chaos Scar - Player View.jpg",
+    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+    "8) Adventures/4D - Stormcrow Tor (D169).md",
+    "8) Adventures/4C - Vanguard Tower (D182).md",
+    "8) Adventures/4B - The Pillar of Eyes (D180).md",
+    "8) Adventures/4A - Glowstone Caverns (D177).md",
+    "8) Adventures/2G - The Crossroads (D176).md",
+    "8) Adventures/6B - The Radiant Morn (D183).md",
+    "6) NPCs/Restwell Keep/Bergen.md",
+    "2) Compendium/equipment/items/items.md",
+    "2) Compendium/equipment/items/purified-glowmetal-weapon.md",
+    "2) Compendium/equipment/items/purified-glowmetal-weapon-20240702105224997.webp",
+    "2) Compendium/equipment/items/Homebrew/glowmetal-weapon-hb.md",
+    "2) Compendium/equipment/items/orichalcum.md",
     "2) compendium/equipment/items/avengers-needle-20240608170153281.webp",
-    "1) Scratch Notes/Death Dancer.md",
     "zz-Attachments/Borik Ironfist-20240524125829985.webp",
     "zz-Attachments/Burli Ironfist-20240523225845928.webp",
     "zz-Attachments/Garn Goldhammer-20240523092051276.webp",
-    "zz-Attachments/Bjorn Thundertread-20240523091641218.webp",
-    "zz-Attachments/Bahl Doral.png",
     "5) World/Bahl Doral",
     "5) World/Wellspring",
     "5) World/The Chaos Scar",
-    "6) NPCs/Bahl Doral",
-    "zz-Attachments/The Chaos Scar - Player View.jpg",
-    "zz-Attachments/4E - Blood of Gruumsh (D210)-20240503111300695.webp"
+    "6) NPCs/Bahl Doral"
   ]
 }
