@@ -65,6 +65,6 @@ The players will be allowed to open only two of the jack-o-lanterns.  When the s
 [[happy-healper-hb|Happy Healper]]
 
 > [!tip]+ Treasure
-> First have the players roll a d6 with the following results 1-2: [[andvaris-gift-hb|Andvari's Gift]], 3-4: [[levithans-prism-hb|Levithan's Prism]], 5-6: [[happy-healper-hb|Happy Healper]].
+> First have the players roll a d6 with the following results 1-2: [[andvaranaut-hb|Andvari's Gift]], 3-4: [[levithans-prism-hb|Levithan's Prism]], 5-6: [[happy-healper-hb|Happy Healper]].
 > 
 > Then have them roll a d4 with remaining two items.

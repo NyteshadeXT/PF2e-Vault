@@ -23,6 +23,9 @@
 > [!tip]+ Treasure
 > Treasure
 
+> [!info]- GM Only
+> GM Only
+
 > [!infobox|left]+
 > # Name
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]

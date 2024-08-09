@@ -76,7 +76,7 @@ When the characters first see the glowmetal hexer, read:
 > A deformed-looking hobgoblin raises a glowing metallic staff and utters arcane words.
 > 
 > Arcana Check
-> **DC 10:** You feel uneasy, sensing that something is not quite right in this cavern.png 
+> **DC 10:** You feel uneasy, sensing that something is not quite right in this cavern.
 > **DC 15:** This area is permeated by emanations from the Far Realm.
 
 The hobgoblins are alert and watching for intruders. They make active Perception checks against characters trying to use Stealth.
@@ -302,7 +302,7 @@ If the characters accumulate 3 failures, they are no longer able to stabilize th
 > [!tip]+ Treasure
 > Glork’s longsword was absorbed into her mutated form but can be cut free. It is a +1 [[corrosive|Corrosive]] longsword. Her “shield” is actually a mass of bone and flesh that was once her hand and forearm. It cannot be wielded and is worth nothing other than its gruesome scholarly interest. Her personal treasury contains [[antiplague|Antiplague (Moderate)]], [[warding-tablets-som|Warding Tablets]] and 75 gp.
 > 
-> The [[glowmetal|Glowmetal]] might be the key to forming a permanent seal of the pool, which continues to radiate energy that could corrupt any future inhabitants of these caves. [[Balidor]] will be interested in acquiring samples. Glowmetal is dangerous to stay in contact with over a long time, however in the right hands can be transformed into a very beneficial material, [[purified-glowmetal-weapon|Purified Glowmetal Weapon]].
+> The [[glowmetal|Glowmetal]] might be the key to forming a permanent seal of the pool, which continues to radiate energy that could corrupt any future inhabitants of these caves. [[Balidor]] will be interested in acquiring samples. Glowmetal is dangerous to stay in contact with over a long time, however in the right hands can be transformed into a very beneficial material, [[purified-glowmetal-weapon-hb|Purified Glowmetal Weapon]].
 
 # Conclusion
 If the characters manage to suppress the chaos leak, they temporarily prevent further corruption from affecting these caves. The weak point is not completely repaired, though; only a special ritual can permanently seal it. Through discussions with [[Balewin]] they can learn that a ritual which takes several hours combined with a seal made of cold iron can become a keystone for the portal sealing it's energies and preventing it from fully creating.  It will take 10 [[cold-iron|Cold Iron Ingots (High-Grade)]] to create a keystone capable of handling the power of the ritual and the residual chaos energy.

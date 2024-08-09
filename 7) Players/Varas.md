@@ -12,5 +12,5 @@ Party: Chaos Scar
 ---
 ![[Veras.webp]]
 [[fatal-havoc|Fatal Havoc]]
-[[avengers-needle|Avenger's Needle]]
+[[avengers-needle-hb|Avenger's Needle]]
 

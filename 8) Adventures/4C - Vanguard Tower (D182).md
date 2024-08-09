@@ -1,4 +1,5 @@
 ![[4C - Vanguard Tower (D182)-20240103153832581.webp|locr]]
+[[4C - Vanguard Tower (D182)-20240103153832581.webp|show to players]]
 
 # Background
 Many adventurers come to the Chaos Scar looking for lost treasure, powerful magic, and vicious monsters to defeat. The Scar has all three in copious amounts, and some seek to make a profit by turning a negative (captured creatures such as rust monsters or the last known location of a missing band of would-be heroes) into a positive—for them if nobody else. The beholder gauth named Shur-Tuuz is one such profiteer, and its recent efforts have seen it lead a group of duergar to the tower, where it also hopes to profit by selling a couple of rust monsters to a band of local gnolls. The beholder already has the duergars’ payment for the information; now it seeks to gain payment for the rust monsters. 
@@ -52,7 +53,7 @@ name: Ambush in the Dark
 party: Chaos Scar
 creatures:
 - 2: [[Duergar Shocktrooper]] 
-- 4: [[Duergar Miner]]
+- 3: [[Duergar Miner]]
 - 2: [[Duergar Scout]]
 ```
 

@@ -11,4 +11,4 @@ Race: Dwarf
 Party: Chaos Scar
 ---
 
-[[orders-covenant|Order's Covenant]]
+[[orders-covenant-hb|Order's Covenant]]

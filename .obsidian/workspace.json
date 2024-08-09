@@ -1,40 +1,26 @@
 {
   "main": {
-    "id": "3308b52125e76fc8",
+    "id": "5311567d073149ad",
     "type": "split",
     "children": [
       {
-        "id": "0c504c440c41fb5b",
+        "id": "72f349cf2d32f816",
         "type": "tabs",
         "children": [
           {
-            "id": "a92638b881a480d8",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "1) GM Screen/GM-Screen.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
-              }
-            }
-          },
-          {
-            "id": "1eb7356af16841a0",
+            "id": "26d31433e2c64bd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6) NPCs/Restwell Keep/Zeta Windsnap.md",
+                "file": "8) Adventures/4C - Vanguard Tower (D182).md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "23919df7cf3eabca",
+            "id": "3c6eca1770e2ab40",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -45,22 +31,21 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "580f690d4acf925a",
+    "id": "f66e355d620b89b7",
     "type": "split",
     "children": [
       {
-        "id": "afc87659753ce029",
+        "id": "2c5585fc768fe580",
         "type": "tabs",
         "children": [
           {
-            "id": "b7712fbe4629b36e",
+            "id": "574bb4a989ac5c0e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -70,7 +55,7 @@
             }
           },
           {
-            "id": "2b16c00b4a3da212",
+            "id": "d43945e54e9b5c99",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -85,7 +70,7 @@
             }
           },
           {
-            "id": "93aee50cf746a948",
+            "id": "f98aae2c066c5a8a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,24 +81,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 294.5
   },
   "right": {
-    "id": "8edb0c6562131f25",
+    "id": "af92dd2d359f1412",
     "type": "split",
     "children": [
       {
-        "id": "9209b2e6a40a9208",
+        "id": "e90845f36ef06f67",
         "type": "tabs",
-        "dimension": 56.087824351297414,
         "children": [
           {
-            "id": "513039944b5fe1a6",
+            "id": "26d0ed5c74d12686",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6) NPCs/Restwell Keep/Zeta Windsnap.md",
+                "file": "2) compendium/equipment/items/truth-potion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,19 +109,19 @@
             }
           },
           {
-            "id": "797961c2afa7e8ab",
+            "id": "1e8f3d9deafbc849",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6) NPCs/Restwell Keep/Zeta Windsnap.md",
+                "file": "2) compendium/equipment/items/truth-potion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6aa6efc5cc584ca8",
+            "id": "a2772600284e3af1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,7 +132,7 @@
             }
           },
           {
-            "id": "6d07a31d7b300ea6",
+            "id": "d3a63618cf85a580",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -160,17 +144,17 @@
             }
           },
           {
-            "id": "e0234e0eaa9a65e8",
+            "id": "f9d627becbf365e6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "6) NPCs/Restwell Keep/Zeta Windsnap.md"
+                "file": "2) compendium/equipment/items/truth-potion.md"
               }
             }
           },
           {
-            "id": "dbbdb144e9b0dde1",
+            "id": "79c7e5164c93aac4",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -178,28 +162,7 @@
             }
           },
           {
-            "id": "8d28de27b8598af9",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_d8786a5ba87a",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 9,
-                    "month": 13,
-                    "year": 1491
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                },
-                "id": "ID_888bba99ba2b"
-              }
-            }
-          },
-          {
-            "id": "c71148e7729cb4d5",
+            "id": "bd0d2924fdf21d52",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -210,12 +173,11 @@
         "currentTab": 5
       },
       {
-        "id": "980eddaaddaee7a1",
+        "id": "fb36a3c8c304332a",
         "type": "tabs",
-        "dimension": 43.91217564870259,
         "children": [
           {
-            "id": "2991f3e26d00f795",
+            "id": "8b0f083ef20e4a4f",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-creature-view",
@@ -226,40 +188,40 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5
+    "width": 470.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
       "dbfolder:Create a new database table": false,
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-import-json:JSON/CSV Importer": false,
+      "command-palette:Open command palette": false,
       "calendarium:Open Calendarium": false
     }
   },
   "floating": {
-    "id": "22419ef13c2ff589",
+    "id": "e3b44662b28093e6",
     "type": "floating",
     "children": [
       {
-        "id": "f847a08bed503c4a",
+        "id": "e64631827df6e11a",
         "type": "window",
         "children": [
           {
-            "id": "a976ce547f1dc797",
+            "id": "fc343d231c57ebc1",
             "type": "tabs",
             "children": [
               {
-                "id": "73052d1f80ef8dab",
+                "id": "da5e3b6990df8bba",
                 "type": "leaf",
                 "state": {
                   "type": "initiative-tracker-player-view",
@@ -270,28 +232,59 @@
           }
         ],
         "direction": "vertical",
-        "x": 3839,
-        "y": 0,
-        "width": 641,
+        "x": 4096,
+        "y": -216,
+        "width": 640,
         "height": 672,
         "maximize": false,
         "zoom": 0
       },
       {
-        "id": "a60defb67d4bd5f2",
+        "id": "d94d941615944e1b",
         "type": "window",
         "children": [
           {
-            "id": "66476e3b900a61ea",
+            "id": "0999c1b8b899ecd1",
             "type": "tabs",
             "children": [
               {
-                "id": "8e8e7111b70f69a5",
+                "id": "c778381d16a12cc8",
                 "type": "leaf",
                 "state": {
                   "type": "image",
                   "state": {
-                    "file": "zz-Attachments/Balewin.webp"
+                    "file": "zz-Attachments/Restwell Keep-20240105144659375.webp"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 3453,
+        "y": -219,
+        "width": 1286,
+        "height": 726,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "791ee1f918b65abb",
+        "type": "window",
+        "children": [
+          {
+            "id": "27f73583ad3c50d9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a8ae606443482fd4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2) compendium/equipment/items/tracking-fulu-som.md",
+                    "mode": "preview",
+                    "source": true
                   }
                 }
               }
@@ -300,55 +293,82 @@
         ],
         "direction": "vertical",
         "x": 3456,
-        "y": 0,
+        "y": -216,
         "width": 640,
         "height": 672,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "a2172379a707c1ba",
+        "type": "window",
+        "children": [
+          {
+            "id": "89148bfb36ec9466",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d94e2387d5cbcc17",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2) compendium/equipment/items/truth-potion.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 816,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "1eb7356af16841a0",
+  "active": "d94e2387d5cbcc17",
   "lastOpenFiles": [
-    "7) Players/Zeta.md",
-    "zz-Attachments/Zeta-20240702161757118.webp",
-    "8) Adventures/Menace at Otari.md",
-    "8) Adventures/7E - Vainglorious (D221).md",
-    "8) Adventures/The Alchemist’s Eyrie.md",
-    "zz-Tools/Handlebar Templates/Template-2E-Spell-Handlebar.md",
-    "zz-Tools/Handlebar Templates/Template-2ETools-Monster-Handlebar.md",
-    "zz-Tools/Action Icons.md",
-    "zz-Tools/DunGen (Random Dungeon Generator).md",
-    "zz-Tools/Mimic Fight Club (Item Generator).md",
-    "5) World/The Chaos Scar/Restwell Keep-20240105144659375.webp",
-    "zz-Tools/Mimic Fight Club (Encounter Generator).md",
-    "1) GM Screen/GM-Screen.md",
-    "5) World/The Chaos Scar/Pasted image 20230307211113.png",
-    "zz-Attachments/Balewin.webp",
-    "5) World/The Chaos Scar/Restwell Keep.md",
-    "5) World/The Chaos Scar/Restwell Jobs.md",
-    "5) World/The Chaos Scar/Chaos Scar - Player View.md",
-    "5) World/The Chaos Scar/Chaos Scar - Player View.jpg",
-    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
-    "8) Adventures/4D - Stormcrow Tor (D169).md",
     "8) Adventures/4C - Vanguard Tower (D182).md",
+    "2) compendium/equipment/items/tracking-fulu-som.md",
+    "zz-Attachments/4C - Vanguard Tower (D182)-20240103153832581.webp",
+    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+    "4) Bestiary/bestiary-1/young-blue-dragon.md",
+    "6) NPCs/Restwell Keep/Restwell Keep.md",
+    "6) NPCs/Restwell Keep/Ailwin.md",
+    "6) NPCs/Restwell Keep/Vatoris Spiritsense.md",
+    "zz-Attachments/Vatoris Spiritsense.png",
+    "6) NPCs/Restwell Keep/Jarek.md",
+    "zz-Attachments/Jarek.png",
+    "5) World/The Chaos Scar/Chaos Scar - Player View.md",
+    "zz-Attachments/Chaos Scar - Player View.jpg",
     "8) Adventures/4B - The Pillar of Eyes (D180).md",
     "8) Adventures/4A - Glowstone Caverns (D177).md",
     "8) Adventures/2G - The Crossroads (D176).md",
-    "8) Adventures/6B - The Radiant Morn (D183).md",
-    "6) NPCs/Restwell Keep/Bergen.md",
-    "2) Compendium/equipment/items/items.md",
-    "2) Compendium/equipment/items/purified-glowmetal-weapon.md",
-    "2) Compendium/equipment/items/purified-glowmetal-weapon-20240702105224997.webp",
-    "2) Compendium/equipment/items/Homebrew/glowmetal-weapon-hb.md",
-    "2) Compendium/equipment/items/orichalcum.md",
-    "2) compendium/equipment/items/avengers-needle-20240608170153281.webp",
-    "zz-Attachments/Borik Ironfist-20240524125829985.webp",
-    "zz-Attachments/Burli Ironfist-20240523225845928.webp",
-    "zz-Attachments/Garn Goldhammer-20240523092051276.webp",
-    "5) World/Bahl Doral",
-    "5) World/Wellspring",
-    "5) World/The Chaos Scar",
-    "6) NPCs/Bahl Doral"
+    "6) NPCs/Restwell Keep/Grace.md",
+    "zz-Attachments/Grace-20231217173120982.webp",
+    "6) NPCs/6) NPCs.md",
+    "8) Adventures/8) Adventures.md",
+    "5) World/The Chaos Scar/Restwell Jobs.md",
+    "5) World/The Chaos Scar/Restwell Keep.md",
+    "zz-Attachments/Pasted image 20230307211113.png",
+    "zz-Attachments/Restwell Keep-20240105144659375.webp",
+    "zz-Attachments/Travel Table.png",
+    "7) Players/7) Players.md",
+    "4) Bestiary/4) Bestiary.md",
+    "4) Bestiary/bestiary-1/bestiary-1.md",
+    "4) Bestiary/bestiary-1/yoh-souran.md",
+    "5) World/5) World.md",
+    "4) Bestiary/bestiary-1/flesh-golem.md",
+    "2) compendium/equipment/items/warding-tablets-som.md",
+    "2) compendium/equipment/items/antiplague.md",
+    "2) compendium/equipment/items/corrosive.md",
+    "2) compendium/equipment/items/Homebrew/Tempered Harmony.jpg",
+    "2) compendium/equipment/items/Homebrew/Order's Covenant.jpg"
   ]
 }

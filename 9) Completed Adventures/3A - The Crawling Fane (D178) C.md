@@ -181,7 +181,7 @@ If the heroes complete either or both of the skill challenges, they can then ope
 > [!note]+ Read Aloud
 > The heavy lid of the sarcophagus slides away with a gentle push, revealing the body of a dwarven warrior dressed in crumbling, rust-pitted chainmail. Despite the decrepit state of the corpse’s armor and clothing, the stout warhammer lying across its skeletal chest looks as new as the day it was forged. 
 
-The hammer’s head is shaped like an anvil and the steel gleams with a bluish tint. The Hammer of Ivak Stoneblood is [[orders-covenant|Order's Covenant]]
+The hammer’s head is shaped like an anvil and the steel gleams with a bluish tint. The Hammer of Ivak Stoneblood is [[orders-covenant-hb|Order's Covenant]]
 
 ## Features of the Area 
 **Illumination:** The pool provides dim illumination to the entire room. 

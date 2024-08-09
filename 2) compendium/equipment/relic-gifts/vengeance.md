@@ -13,7 +13,7 @@ aliases:
 [evocation](rules/traits/evocation.md "Evocation Item Trait") 
 
 **Aspect** TBD
-**Effect** When you critically hit a creature of chaotic alignment, the Avenger's Needle channels your righteous fury, dealing an additional 2d6 lawful damage.
+**Effect** When you critically hit a creature of chaotic alignment, the Avenger's Needle channels your righteous fury, dealing an additional 1d6 lawful damage.
 
 
 *Homebrew*  
