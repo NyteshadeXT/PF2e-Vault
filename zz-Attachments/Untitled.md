@@ -1,1 +1,0 @@
-![[Shard Spider 1.jpg]]

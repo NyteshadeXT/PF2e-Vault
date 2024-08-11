@@ -466,5 +466,5 @@
   "debug": false,
   "askedToMoveFC": false,
   "askedAboutSync": true,
-  "syncBehavior": "Ask"
+  "syncBehavior": "Always"
 }

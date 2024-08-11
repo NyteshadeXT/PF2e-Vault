@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/4C - Vanguard Tower (D182).md",
-                "mode": "preview",
+                "file": "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -26,6 +26,30 @@
               "type": "markdown",
               "state": {
                 "file": "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b1bc61754a1868c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1) GM Screen/DC_Calculators.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2ee922b978d17b59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4) Bestiary/homebrew/orc-shaman.md",
                 "mode": "preview",
                 "source": true
               }
@@ -97,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2) compendium/equipment/items/truth-potion.md",
+                "file": "5) World/The Chaos Scar/Chaos Scar - GM View.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2) compendium/equipment/items/truth-potion.md",
+                "file": "5) World/The Chaos Scar/Chaos Scar - GM View.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2) compendium/equipment/items/truth-potion.md"
+                "file": "5) World/The Chaos Scar/Chaos Scar - GM View.md"
               }
             }
           },
@@ -188,7 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470.5
+    "width": 725.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,167 +232,43 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "e3b44662b28093e6",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e64631827df6e11a",
-        "type": "window",
-        "children": [
-          {
-            "id": "fc343d231c57ebc1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "da5e3b6990df8bba",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-player-view",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 4096,
-        "y": -216,
-        "width": 640,
-        "height": 672,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "d94d941615944e1b",
-        "type": "window",
-        "children": [
-          {
-            "id": "0999c1b8b899ecd1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c778381d16a12cc8",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "zz-Attachments/Restwell Keep-20240105144659375.webp"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 3453,
-        "y": -219,
-        "width": 1286,
-        "height": 726,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "791ee1f918b65abb",
-        "type": "window",
-        "children": [
-          {
-            "id": "27f73583ad3c50d9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a8ae606443482fd4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2) compendium/equipment/items/tracking-fulu-som.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 3456,
-        "y": -216,
-        "width": 640,
-        "height": 672,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "a2172379a707c1ba",
-        "type": "window",
-        "children": [
-          {
-            "id": "89148bfb36ec9466",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d94e2387d5cbcc17",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2) compendium/equipment/items/truth-potion.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 768,
-        "height": 816,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "d94e2387d5cbcc17",
+  "active": "26d31433e2c64bd8",
   "lastOpenFiles": [
-    "8) Adventures/4C - Vanguard Tower (D182).md",
-    "2) compendium/equipment/items/tracking-fulu-som.md",
-    "zz-Attachments/4C - Vanguard Tower (D182)-20240103153832581.webp",
-    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
-    "4) Bestiary/bestiary-1/young-blue-dragon.md",
-    "6) NPCs/Restwell Keep/Restwell Keep.md",
-    "6) NPCs/Restwell Keep/Ailwin.md",
-    "6) NPCs/Restwell Keep/Vatoris Spiritsense.md",
-    "zz-Attachments/Vatoris Spiritsense.png",
-    "6) NPCs/Restwell Keep/Jarek.md",
-    "zz-Attachments/Jarek.png",
-    "5) World/The Chaos Scar/Chaos Scar - Player View.md",
-    "zz-Attachments/Chaos Scar - Player View.jpg",
-    "8) Adventures/4B - The Pillar of Eyes (D180).md",
-    "8) Adventures/4A - Glowstone Caverns (D177).md",
-    "8) Adventures/2G - The Crossroads (D176).md",
-    "6) NPCs/Restwell Keep/Grace.md",
-    "zz-Attachments/Grace-20231217173120982.webp",
-    "6) NPCs/6) NPCs.md",
-    "8) Adventures/8) Adventures.md",
-    "5) World/The Chaos Scar/Restwell Jobs.md",
-    "5) World/The Chaos Scar/Restwell Keep.md",
-    "zz-Attachments/Pasted image 20230307211113.png",
-    "zz-Attachments/Restwell Keep-20240105144659375.webp",
+    "zz-Attachments/Chaos Scar - GM View.webp",
+    "zz-Attachments/Zestren-20240809225250925.webp",
+    "zz-Attachments/Zestran.webp",
     "zz-Attachments/Travel Table.png",
+    "zz-Attachments/Pasted image 20230830164356.png",
+    "zz-Attachments/Pasted image 20230830164532.png",
+    "zz-Attachments/Pasted image 20230830162729.png",
+    "zz-Attachments/Pasted image 20230829165718.png",
+    "zz-Attachments/Pasted image 20230829134121.png",
+    "zz-Attachments/Pasted image 20230829115350.png",
+    "zz-Attachments/Pasted image 20230829111004.png",
+    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+    "5) World/The Chaos Scar/Chaos Scar - Player View.md",
+    "8) Adventures/5A - The Slaver's Stone (D181).md",
+    "8) Adventures/4D - Stormcrow Tor (D169).md",
+    "8) Adventures/4C - Vanguard Tower (D182).md",
+    "8) Adventures/4B - The Pillar of Eyes (D180).md",
+    "8) Adventures/2G - The Crossroads (D176).md",
     "7) Players/7) Players.md",
-    "4) Bestiary/4) Bestiary.md",
-    "4) Bestiary/bestiary-1/bestiary-1.md",
-    "4) Bestiary/bestiary-1/yoh-souran.md",
-    "5) World/5) World.md",
-    "4) Bestiary/bestiary-1/flesh-golem.md",
-    "2) compendium/equipment/items/warding-tablets-som.md",
-    "2) compendium/equipment/items/antiplague.md",
-    "2) compendium/equipment/items/corrosive.md",
-    "2) compendium/equipment/items/Homebrew/Tempered Harmony.jpg",
-    "2) compendium/equipment/items/Homebrew/Order's Covenant.jpg"
+    "7) Players/Add New Players.md",
+    "7) Players/Zestren.md",
+    "6) NPCs/Restwell Keep/Zeta Windsnap.md",
+    "7) Players/Cluff Maclire.md",
+    "7) Players/Varas.md",
+    "7) Players/Zeta.md",
+    "4) Bestiary/homebrew/orc-shaman.md",
+    "1) GM Screen/DC_Calculators.md",
+    "4) Bestiary/book-of-the-dead/book-of-the-dead.md",
+    "4) Bestiary/homebrew/homebrew.md",
+    "4) Bestiary/book-of-the-dead/hunter-wight.md",
+    "4) Bestiary/book-of-the-dead/zombie-owlbear.md",
+    "4) Bestiary/book-of-the-dead/zombie-lord.md",
+    "4) Bestiary/bestiary-2/bestiary-2.md",
+    "4) Bestiary/homebrew/gnoll-warfang.md",
+    "4) Bestiary/homebrew/orc-raider.md",
+    "4) Bestiary/homebrew/otyugh-elite.md"
   ]
 }

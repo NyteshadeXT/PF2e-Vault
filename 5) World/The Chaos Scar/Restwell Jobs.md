@@ -4,11 +4,12 @@
 -   ~~Debt collectors wanted! Doran owes me 100 gold and I intend to see that collected. See [[Nerrin Silverhand]] if you want a cut. ([[2C - Dead by Dawn (D176) C]])~~
 -   ~~A reward for any brave soul willing to clear out the Goblin Hole. See [[Kendon Longstrider]] for more details. ([[2E - Down the Goblin Hole (D280) C]])~~
 -   ~~Good-hearted heroes wanted to recover the Cup of Chance which was stolen from the temple of Tymora. See [[Chendra]] for more details. ([[3B - The Splintered Spring (D179) - Done]])~~
--   [[Lord Drysdale]] offers 1,000 gold for anyone who can eliminate the beholder Shur-Tuuz. The successful party can collect from [[Lord Drysdale]] personally. ([[4C - Vanguard Tower (D182)]])
+-   ~~[[Lord Drysdale]] offers 1,000 gold for anyone who can eliminate the beholder Shur-Tuuz. The successful party can collect from [[Lord Drysdale]] personally. ([[4C - Vanguard Tower (D182)]])
 -   Wanted for Murder, Robbery, Assault and other crimes: Keljack and his ogre companion. Lord Criswell offers 2,500 gold for his head and 500 for the ogre. ([[7A - Scarred for Life (D192)]])
 -   Lord Criswell offers 200 gold for the capture of Bolios the Elementalist and Master Vyen offers 1,000gp for the return of a book he stole called Azael’s Elemental Travels. ([[7C - Head in the Clouds (D184)]])
 -   The relic, Loyalty's Sacrifice, must be recovered! Any brave heroes willing to undertake this quest should see [[Lord Drysdale]]. ([[7E - Vainglorious (D221)]])
 -   The Circle of Druids has condemned Hongya the Fallen to death. See Lolfinor for details and your reward. ([[8C - The Star-Touched Grove (D219)]])
+-   Magrak Ironjaw is a warrior, slaver, and bandit. Because of his depredations, Lord Drysdale has offered a 110 gp bounty for Ironjaw’s head. [[5A - The Slaver's Stone (D181)]]
 
 # Word of Mouth
 1.  ~~[[Bergen]] lost a green dragon hide on that caravan the Skull Kickers hit. He's offering a reward to whomever can get it back. [[1J - The Kobold Hall (DMG) C]])~~
@@ -19,7 +20,6 @@
 6.  ~~[[Gorn Hammerfall]],  a devout follower of of Moradin, is searching for the Hammer of Ivak that was located in an old temple of Moradin that existed before the star fell. He’ll give a reward to anyone who can bring him the relic. ([[3A - The Crawling Fane (D178) C]])~~
 7.  ~~Erim Haverlan and his two sons are woodcutters who have been crossing into the scar to get better material. They haven’t returned and Erim’s wife is offering a reward for anyone who can find him or his remains. ([[3C - The Wayward Wyrmling (D182) C]])~~
 8.  ~~[[Bergen]] crafted fine armor from the scales of Karonzaxus. He believes some more scales may be in her lair and he will pay anyone who can bring back enough to make a shield or suit of armor. ([[3C - The Wayward Wyrmling (D182) C]])~~
-9.  A visiting elf named Thathar is looking for some lost elven colony. He's apparently willing to pay for someone to find it for him. ([[4E - Blood of Gruumsh (D210)]])
 
 ## Saruun Guildhall
 1.  ~~The Guildhall can always use more residuum. [[Ailwin]] will pay 40 gold per ounce of residuum the party can acquire. (Death in the Pincers)~~

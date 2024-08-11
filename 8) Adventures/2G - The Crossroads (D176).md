@@ -33,7 +33,7 @@ Away from the main road is a sunken depression in the earth known as the boneyar
 ### The Treasure Trap
 One of [[Millen Silvereye]]’s favorite schemes involves using the boneyard as a trap for the greedy. The ruse begins when new traders or naïve adventurers arrive at the Crossroads looking for contraband or black market magic items. If Millen believes he can fool them, he pretends to barter for a number of magic items until he has come to an agreement with the traders. With the deal done, Millen provides the traders with a map of the boneyard, claiming that, to keep from being killed and robbed, he keeps his valuables buried in empty graves in the boneyard. With the supposed location of these hiding places marked on the map, he sends them off to the boneyard, where the zombies waiting there invariably kill the traders. Millen waits until the zombies’ hunger is sated before going into the boneyard to recover any valuables the victims might have carried. 
 
-Millen will try to trick the characters into falling into his trap, even if he has to sell them a few items first to win their confidence. He doesn’t care about giving away a few items, since he plans to reclaim them once the zombies have finished with the characters. See the [[04) Into the Boneyard]] encounter, and then the [[03) Inside the Trading Post]] encounter if the characters return to confront Millen.
+Millen will try to trick the characters into falling into his trap, even if he has to sell them a few items first to win their confidence. He doesn’t care about giving away a few items, since he plans to reclaim them once the zombies have finished with the characters. See the [[#Encounter 3 - Into the Boneyard]] encounter, and then the [[#Encounter 2 - Inside the Trading Post]] encounter if the characters return to confront Millen.
 
 > [!tip]+ Skill Challenge
 > # Getting Black Market Access
@@ -150,7 +150,7 @@ This encounter takes place if the characters are enticed into trying to investig
 **Encounter Difficulty:** Severe (150 xp)
 Creatures:
  - 4: [[zombie-brute|Zombie Brute]] G
- - 1:  [[Zombie-Lord|Zombie Lord]] B
+ - 1:  [[zombie-lord|Zombie Lord]] B
  - [[shallow-grave-hb|Shallow Grave]]
 
 ```encounter

@@ -7,7 +7,7 @@ Player_Name: Kev
 Alignment: N
 Class: Swashbuckler
 NoteIcon: PC
-Race: Wild Elf
+Race: Woodland Elf
 Party: Chaos Scar
 ---
 ![[Veras.webp]]

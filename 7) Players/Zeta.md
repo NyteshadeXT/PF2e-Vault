@@ -8,6 +8,7 @@ Race: Half-Elf
 Class: Ranger
 ac: 21
 Party: Chaos Scar
+NoteIcon: NPC
 ---
 
 ![[Zeta-20240702161757118.webp]]

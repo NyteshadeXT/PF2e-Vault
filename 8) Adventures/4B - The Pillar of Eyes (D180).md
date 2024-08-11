@@ -37,36 +37,37 @@ When the adventurers can see the Pillar of Eyes, read:
 > [!note]+ Read Aloud
 > A monstrous pillar, crooked and spotted with lichen, rises from a crude pedestal in the middle of a green field. Bones litter the ground all around it, suggesting it might be an altar of some kind. The pillar has a lumpy appearance. Closer inspection reveals the reason: It is a giant column of stone eyes.
 
-## Skill Challenge - Investigating the Pillar
-The most notable feature here is the pillar, though the bones might merit some investigation too. The monolith guards its secrets well, and only dedicated study can coax them forth. However, while the adventurers examine the site, goblin wolf riders slowly converge on their position. Should the characters become confused or distracted by their investigation (represented by failing the skill challenge), the goblins can get the drop on them.
-
-**Level:** 6 (15 xp)
-**Complexity:** 2 (requires 6 successes before 3 failures)
-**Primary Skills:**  [[skills#Arcana|Arcana]], [[skills#medicine|Medicine]], [[skills#Nature|Nature]], [[skills#Perception|Perception]] or [[skills#Survival|Survival]], [[skills#Religion|Religion]]
-**Secondary Skills:** None
-
-### Primary Skills
-**Arcana (DC 17, one minute; 1 success, 2 successes max):** The character attempts to sense the presence of magic. A successful check contributes 1 success toward the skill challenge and reveals an arcane aura about the pillar. With a second success, the character confirms that the pillar is a petrified creature. Arcana can be used to gain 2 successes in this challenge.
-
-**Medicine (DC 17, one minute; 2 successes max):** A character near the bones can determine that they all belonged to humanoids. With a second success, the character realizes that the creatures were killed somewhere else; as well, the bones look like something had been chewing on them. Heal can be used to gain 2 successes in this challenge.
-
-**Nature (DC 17, one minute; 1 success max):** The character tries to identify the creature depicted by the column. A successful check reveals it to be a gibbering mouther, a kind of aberrant magical beast created when a sentient creature dies in an area touched by the Far Realm. Beating the DC by 5 or more allows the character to learn about the creature’s powers. Nature can be used to gain 1 success in this challenge.
-
-**Perception or Survival (DC 17, one minute; 2 successes max):** The character searches the area. A successful check reveals bestial prints in the soft earth all around the pillar. With a second success, the character learns the direction from which the creatures approached. Perception can be used to gain 2 successes in this challenge.
-
-**Religion (DC 20,  1 minute; 1 success max):** The character locates and deciphers hidden runes on the pillar’s base. These runes signify some connection to Vecna. Religion can be used to gain 1 success in this challenge.
-
-### Secondary Skills
-No secondary skills are used in this challenge.
-
-### Success
-If the characters get 6 successes, they learn that the pillar is in fact a petrified creature and that someone or something is delivering bones to the area, which has seen a great deal of traffic. They also detect the goblin wolf riders before they close and thus are not surprised.
-
-### Failure 
-The wolf riders surprise the party. After the combat, the characters can retry the skill challenge to pick up any clues they might have missed. Let them keep any successes earned from the first try (a failed effort doesn’t mean they forgot what they had previously learned). However, each time the party fails the challenge after the first costs each character suffers one hit die of damage as the pillar’s malevolent influence gnaws at the soul.
-
-## Wolf Riders
-Whether or not they succeed at the skill challenge, the adventurers must deal with the wolf riders, goblins charged by Foosteth to plunder explorers that wander into the area.
+> [!tip]+ Skill Challenge
+> # Investigating the Pillar
+> The most notable feature here is the pillar, though the bones might merit some investigation too. The monolith guards its secrets well, and only dedicated study can coax them forth. However, while the adventurers examine the site, goblin wolf riders slowly converge on their position. Should the characters become confused or distracted by their investigation (represented by failing the skill challenge), the goblins can get the drop on them.
+> 
+> **Level:** 6 (15 xp)
+> **Complexity:** 2 (requires 6 successes before 3 failures)
+> **Primary Skills:**  [[skills#Arcana|Arcana]], [[skills#medicine|Medicine]], [[skills#Nature|Nature]], [[skills#Perception|Perception]] or [[skills#Survival|Survival]], [[skills#Religion|Religion]]
+> **Secondary Skills:** None
+> 
+> ## Primary Skills
+> **Arcana (DC 17, one minute; 1 success, 2 successes max):** The character attempts to sense the presence of magic. A successful check contributes 1 success toward the skill challenge and reveals an arcane aura about the pillar. With a second success, the character confirms that the pillar is a petrified creature. Arcana can be used to gain 2 successes in this challenge.
+> 
+> **Medicine (DC 17, one minute; 2 successes max):** A character near the bones can determine that they all belonged to humanoids. With a second success, the character realizes that the creatures were killed somewhere else; as well, the bones look like something had been chewing on them. Heal can be used to gain 2 successes in this challenge.
+> 
+> **Nature (DC 17, one minute; 1 success max):** The character tries to identify the creature depicted by the column. A successful check reveals it to be a gibbering mouther, a kind of aberrant magical beast created when a sentient creature dies in an area touched by the Far Realm. Beating the DC by 5 or more allows the character to learn about the creature’s powers. Nature can be used to gain 1 success in this challenge.
+> 
+> **Perception or Survival (DC 17, one minute; 2 successes max):** The character searches the area. A successful check reveals bestial prints in the soft earth all around the pillar. With a second success, the character learns the direction from which the creatures approached. Perception can be used to gain 2 successes in this challenge.
+> 
+> **Religion (DC 20,  1 minute; 1 success max):** The character locates and deciphers hidden runes on the pillar’s base. These runes signify some connection to Vecna. Religion can be used to gain 1 success in this challenge.
+> 
+> ## Secondary Skills
+> No secondary skills are used in this challenge.
+> 
+> ## Success
+> If the characters get 6 successes, they learn that the pillar is in fact a petrified creature and that someone or something is delivering bones to the area, which has seen a great deal of traffic. They also detect the goblin wolf riders before they close and thus are not surprised.
+> 
+> ## Failure 
+> The wolf riders surprise the party. After the combat, the characters can retry the skill challenge to pick up any clues they might have missed. Let them keep any successes earned from the first try (a failed effort doesn’t mean they forgot what they had previously learned). However, each time the party fails the challenge after the first costs each character suffers one hit die of damage as the pillar’s malevolent influence gnaws at the soul.
+> 
+> # Wolf Riders
+> Whether or not they succeed at the skill challenge, the adventurers must deal with the wolf riders, goblins charged by Foosteth to plunder explorers that wander into the area.
 
 # Encounter 1 - Howling Host
 **Encounter Difficulty:** Low (60 xp)
@@ -113,58 +114,57 @@ With a successful DC 16 [[skills#Diplomacy|Diplomacy]] or [[skills#Intimidation|
 
 A captured goblin does not participate in combat and flees at the first opportunity.
 
-## Skill Challenge - Tracking the Wolf Riders
-
-After the characters defeat the wolf riders, they should be able to figure out that the goblins are somehow involved with the pillar. The goblins are carrying bones similar to those surrounding the edifice, which
-the party can confirm by searching bodies or interrogating prisoners.
-
-The adventurers can follow the wolf riders’ tracks to discover their lair, represented by the following staged skill challenge. If they capture a goblin during the combat, they might be able to persuade it to help
-them (see “Development” section above).
-
-**Level:** 7 (20 xp)
-**Complexity:** 1 (requires 4 successes before 3 failures)
-
-### Stage 1: Finding the Way
-The first stage of the challenge involves detecting and following the wolf riders’ tracks. This process should take around half an hour.
-
-**Primary Skills:**  [[skills#Perception|Perception]], [[skills#Nature|Nature]], [[skills#Survival|Survival]]
-
-#### Primary Skills
-**Nature or Survival (DC 21, standard action; 1 success, 2 successes max):** The character attempts to follow the goblins’ tracks. Up to two characters can aid this check. A successful check allows the party to continue along the trail, while a failed check means it fades out where the goblins crossed rocky terrain. The characters lose the trail for a time and get lost; they must find the tracks again to continue the chase. In addition to incurring a failure, the characters take a –2 penalty to [[skills#Acrobatics|Acrobatics]] or [[skills#Athletics|Athletics]] checks made during stage 2 of this challenge. On a second failure, they also take a –2 penalty to [[skills#stealth|Stealth]] checks made during stage 3 of this challenge. This skill can be used to gain 2 successes in this challenge.
-
-**Perception (DC 23, standard action; 1 success, 1 success max):** The character examines the manner of the goblins’ approach to deduce the direction they likely came from. This skill can be used to gain 1 success in this challenge.
-
-### Stage 2: Unexpected Obstacles
-After achieving 2 successes, the party must deal with hazards and obstacles that might injure or slow them. Getting around these problems takes about an hour.
-
-**Primary Skills:**  [[skills#Acrobatics|Acrobatics]], [[skills#Athletics|Athletics]]
-**Secondary Skills:** [[skills#Nature|Nature]], [[skills#Survival|Survival]]
-
-#### Primary Skills
-**Acrobatics or Athletics (DC 18,  group check; standard action; 1 success, 1 success max):** The party follows the tracks into a forest, where progress is blocked by a dry river bed filled with branches. A successful check means that the characters climb or jump across safely, earning 1 success toward the skill challenge. On a failed group check, the party blunders through the obstacle but still earns 1 success in addition to incurring a failure. In addition, each character who failed the check suffers one hit die of damage from injuries sustained in crossing the terrain and must make a secondary [[skills#Survival|Survival]] check as per the secondary skills entry or suffer a level of fatigue. This skill can be used to gain 1 success in this challenge.
-
-**Perception (DC 23, minor action; no successes):** The character examines the manner of the goblins’ approach to deduce the direction they likely came from. This skill can be used to gain 1 success in this challenge.
-
-#### Secondary Skills
-**Survival (DC 18,  standard action; no successes):** Tracking the goblins is an arduous task over difficult ground. A successful check keeps the group moving without undue exhaustion.
-
-**Nature (DC 16, standard action; no successes):** Nature (DC 14): The character uses his or her knowledge of vegetation and terrain to help the party move past the hazard. A successful check grants a +2 bonus to [[skills#Acrobatics|Acrobatics]] or [[skills#Athletics|Athletics]] checks made during the group check described above.
-
-### Stage 3: Arrival
-After 3 successes, the characters can approach the goblins’ hideout.
-
-**Primary Skills:**  [[skills#Nature|Nature]], [[skills#Stealth|Stealth]]
-**Secondary Skills:** [[skills#Perception|Perception]], [[skills#Thievery|Thievery]]
-
-**Perception (DC 18,  standard action; no successes):** The character scouts ahead to avoid goblin lookouts. A successful check grants a +2 bonus to [[skills#Stealth|Stealth]] checks made during the group check described above.
-
-**Thievery (DC 23,  standard action; no successes):** The character uses sneaky tricks to assist the party in finding short cuts through the woods. A success grants a +2 bonus to [[skills#Stealth|Stealth]] checks made during the group check described above. On a failure, the characters instead take a –2 penalty to the [[skills#Stealth|Stealth]] check.
-
-### Success
-The adventurers arrive at the goblins’ lair and surprise the sentry outside the entrance.
-
-### Failure 
-The adventurers stumble across the Wolf Den, whose sentries are expecting them. Add another goblin wolf rider to Encounter 2.
+> [!tip]+ Skill Challenge
+> # Tracking the Wolf Riders
+> 
+> After the characters defeat the wolf riders, they should be able to figure out that the goblins are somehow involved with the pillar. The goblins are carrying bones similar to those surrounding the edifice, which the party can confirm by searching bodies or interrogating prisoners.
+> 
+> The adventurers can follow the wolf riders’ tracks to discover their lair, represented by the following staged skill challenge. If they capture a goblin during the combat, they might be able to persuade it to help them (see “Development” section above).
+> 
+> **Level:** 7 (20 xp)
+> **Complexity:** 1 (requires 4 successes before 3 failures)
+> 
+> ## Stage 1: Finding the Way
+> The first stage of the challenge involves detecting and following the wolf riders’ tracks. This process should take around half an hour.
+> 
+> **Primary Skills:**  [[skills#Perception|Perception]], [[skills#Nature|Nature]], [[skills#Survival|Survival]]
+> 
+> ### Primary Skills
+> **Nature or Survival (DC 21, standard action; 1 success, 2 successes max):** The character attempts to follow the goblins’ tracks. Up to two characters can aid this check. A successful check allows the party to continue along the trail, while a failed check means it fades out where the goblins crossed rocky terrain. The characters lose the trail for a time and get lost; they must find the tracks again to continue the chase. In addition to incurring a failure, the characters take a –2 penalty to [[skills#Acrobatics|Acrobatics]] or [[skills#Athletics|Athletics]] checks made during stage 2 of this challenge. On a second failure, they also take a –2 penalty to [[skills#stealth|Stealth]] checks made during stage 3 of this challenge. This skill can be used to gain 2 successes in this challenge.
+> 
+> **Perception (DC 23, standard action; 1 success, 1 success max):** The character examines the manner of the goblins’ approach to deduce the direction they likely came from. This skill can be used to gain 1 success in this challenge.
+> 
+> ## Stage 2: Unexpected Obstacles
+> After achieving 2 successes, the party must deal with hazards and obstacles that might injure or slow them. Getting around these problems takes about an hour.
+> 
+> **Primary Skills:**  [[skills#Acrobatics|Acrobatics]], [[skills#Athletics|Athletics]]
+> **Secondary Skills:** [[skills#Nature|Nature]], [[skills#Survival|Survival]]
+> 
+> ### Primary Skills
+> **Acrobatics or Athletics (DC 18,  group check; standard action; 1 success, 1 success max):** The party follows the tracks into a forest, where progress is blocked by a dry river bed filled with branches. A successful check means that the characters climb or jump across safely, earning 1 success toward the skill challenge. On a failed group check, the party blunders through the obstacle but still earns 1 success in addition to incurring a failure. In addition, each character who failed the check suffers one hit die of damage from injuries sustained in crossing the terrain and must make a secondary [[skills#Survival|Survival]] check as per the secondary skills entry or suffer a level of fatigue. This skill can be used to gain 1 success in this challenge.
+> 
+> **Perception (DC 23, minor action; no successes):** The character examines the manner of the goblins’ approach to deduce the direction they likely came from. This skill can be used to gain 1 success in this challenge.
+> 
+> ### Secondary Skills
+> **Survival (DC 18,  standard action; no successes):** Tracking the goblins is an arduous task over difficult ground. A successful check keeps the group moving without undue exhaustion.
+> 
+> **Nature (DC 16, standard action; no successes):** Nature (DC 14): The character uses his or her knowledge of vegetation and terrain to help the party move past the hazard. A successful check grants a +2 bonus to [[skills#Acrobatics|Acrobatics]] or [[skills#Athletics|Athletics]] checks made during the group check described above.
+> 
+> ## Stage 3: Arrival
+> After 3 successes, the characters can approach the goblins’ hideout.
+> 
+> **Primary Skills:**  [[skills#Nature|Nature]], [[skills#Stealth|Stealth]]
+> **Secondary Skills:** [[skills#Perception|Perception]], [[skills#Thievery|Thievery]]
+> 
+> **Perception (DC 18,  standard action; no successes):** The character scouts ahead to avoid goblin lookouts. A successful check grants a +2 bonus to [[skills#Stealth|Stealth]] checks made during the group check described above.
+> 
+> **Thievery (DC 23,  standard action; no successes):** The character uses sneaky tricks to assist the party in finding short cuts through the woods. A success grants a +2 bonus to [[skills#Stealth|Stealth]] checks made during the group check described above. On a failure, the characters instead take a –2 penalty to the [[skills#Stealth|Stealth]] check.
+> 
+> ## Success
+> The adventurers arrive at the goblins’ lair and surprise the sentry outside the entrance.
+> 
+> ## Failure 
+> The adventurers stumble across the Wolf Den, whose sentries are expecting them. Add another goblin wolf rider to Encounter 2.
 
 # The Wolf Den
 Foosteth and his goblin followers lair inside the Wolf Den, a stinking mound of dirt, debris, and fallen trees. Its single yawning entrance, littered with leavings and junk, is guarded at all times. Smoke lifts from crooked chimneys rising from the roof, but these gaps are too small to enter.
