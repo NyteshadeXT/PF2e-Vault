@@ -15,8 +15,8 @@ Here are a bunch of rumors for the Chaos Scar. Some are just general rumors, som
 13.  ~~Not far from the Kings Wall is a cave that emits a strange blue glow. (The Tainted Spiral)~~
 14.  ~~Some brigands have been randomly attacking travelers and homesteads near the King’s wall. However these aren't bandit raids as very little is stolen – it is killing for killing sake. (Elves of the Valley)~~
 15.  ~~Some crazy-ass goblin named Slaark is demanding tribute from everyone near the Scar. Like [[Lord Drysdale]]'s gonna put up with that! ([[2H - Slaark's Crown (D220) C]])~~
-16.  If you follow the road into the Scar, half way in there is a trading post where you can meet with some of the more unsavory residents of the area. ([[2G - The Crossroads (D176)]])
-17.  The tiefling who runs the trading post at the Crossroads, Silvereye, often tries to trick and do in visitors who are obviously adventurers. ([[2G - The Crossroads (D176)]])
+16.  ~~If you follow the road into the Scar, half way in there is a trading post where you can meet with some of the more unsavory residents of the area. ([[2G - The Crossroads (D176)]])~~
+17.  ~~The tiefling who runs the trading post at the Crossroads, Silvereye, often tries to trick and do in visitors who are obviously adventurers. ([[2G - The Crossroads (D176)]])~~
 18.  The Stone Forest is actually a series of monoliths from ancient times. Some say they’re the teeth knocked out of a primordial by Moradin’s hammer.
 19.  ~~Somewhere near the King’s Wall is the Cave of Whispers where dark secrets can be heard. (Sliver’s Call)~~
 20.  ~~Somewhere within the Scar is a forest made entirely of glass! ([[2B - The Shrine of Glass-Spire Forest (D175) C]])~~

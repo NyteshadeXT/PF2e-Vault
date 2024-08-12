@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5) World/The Chaos Scar/Chaos Scar - GM View.md",
-                "mode": "source",
+                "file": "8) Adventures/4C - Vanguard Tower (D182).md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+                "file": "8) Adventures/4C - Vanguard Tower (D182).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+                "file": "8) Adventures/4C - Vanguard Tower (D182).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5) World/The Chaos Scar/Chaos Scar - GM View.md"
+                "file": "8) Adventures/4C - Vanguard Tower (D182).md"
               }
             }
           },
@@ -212,7 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 725.5
+    "width": 497.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,8 +232,72 @@
       "calendarium:Open Calendarium": false
     }
   },
+  "floating": {
+    "id": "3159e4479987e365",
+    "type": "floating",
+    "children": [
+      {
+        "id": "523a954099f494d9",
+        "type": "window",
+        "children": [
+          {
+            "id": "2fe0c840737d6b22",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ce4ae783255633a0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2) compendium/spells/wyvern-sting-aoe4.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 8,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "26d31433e2c64bd8",
   "lastOpenFiles": [
+    "2) compendium/spells/wyvern-sting-aoe4.md",
+    "8) Adventures/4C - Vanguard Tower (D182).md",
+    "2) compendium/spells/rituals/reincarnate-apg.md",
+    "2) compendium/spells/insect-form.md",
+    "2) compendium/spells/elemental-annihilation-wave-som.md",
+    "2) compendium/spells/positive-attunement-som.md",
+    "2) compendium/spells/water-walk.md",
+    "2) compendium/spells/animal-form.md",
+    "2) compendium/spells/invisible-item-apg.md",
+    "2) compendium/spells/summon-lesser-servitor-som.md",
+    "2) compendium/spells/distortion-lens-da.md",
+    "2) compendium/spells/fleet-step.md",
+    "2) compendium/spells/tame-som.md",
+    "2) compendium/spells/plant-form.md",
+    "2) compendium/spells/dancing-blade-da.md",
+    "2) compendium/spells/consuming-darkness-apg.md",
+    "2) compendium/spells/Zephyr Slip.md",
+    "2) compendium/spells/shroud-of-flame-frp3.md",
+    "2) compendium/spells/rouse-skeletons-som.md",
+    "2) compendium/equipment/items/staff-of-healing.md",
+    "2) compendium/spells/heal.md",
+    "2) compendium/equipment/items/beastmasters-sigil-tv.md",
+    "1) GM Screen/DC_Calculators.md",
+    "2) compendium/equipment/items/assassin-vine-wine-tv.md",
+    "2) compendium/equipment/items/leapers-elixir.md",
+    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+    "zz-Attachments/Restwell Keep-20240105144659375.webp",
     "zz-Attachments/Chaos Scar - GM View.webp",
     "zz-Attachments/Zestren-20240809225250925.webp",
     "zz-Attachments/Zestran.webp",
@@ -242,33 +306,6 @@
     "zz-Attachments/Pasted image 20230830164532.png",
     "zz-Attachments/Pasted image 20230830162729.png",
     "zz-Attachments/Pasted image 20230829165718.png",
-    "zz-Attachments/Pasted image 20230829134121.png",
-    "zz-Attachments/Pasted image 20230829115350.png",
-    "zz-Attachments/Pasted image 20230829111004.png",
-    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
-    "5) World/The Chaos Scar/Chaos Scar - Player View.md",
-    "8) Adventures/5A - The Slaver's Stone (D181).md",
-    "8) Adventures/4D - Stormcrow Tor (D169).md",
-    "8) Adventures/4C - Vanguard Tower (D182).md",
-    "8) Adventures/4B - The Pillar of Eyes (D180).md",
-    "8) Adventures/2G - The Crossroads (D176).md",
-    "7) Players/7) Players.md",
-    "7) Players/Add New Players.md",
-    "7) Players/Zestren.md",
-    "6) NPCs/Restwell Keep/Zeta Windsnap.md",
-    "7) Players/Cluff Maclire.md",
-    "7) Players/Varas.md",
-    "7) Players/Zeta.md",
-    "4) Bestiary/homebrew/orc-shaman.md",
-    "1) GM Screen/DC_Calculators.md",
-    "4) Bestiary/book-of-the-dead/book-of-the-dead.md",
-    "4) Bestiary/homebrew/homebrew.md",
-    "4) Bestiary/book-of-the-dead/hunter-wight.md",
-    "4) Bestiary/book-of-the-dead/zombie-owlbear.md",
-    "4) Bestiary/book-of-the-dead/zombie-lord.md",
-    "4) Bestiary/bestiary-2/bestiary-2.md",
-    "4) Bestiary/homebrew/gnoll-warfang.md",
-    "4) Bestiary/homebrew/orc-raider.md",
-    "4) Bestiary/homebrew/otyugh-elite.md"
+    "zz-Attachments/Pasted image 20230829134121.png"
   ]
 }
