@@ -137,7 +137,7 @@ The hobgoblin generals reluctantly joins Gravash in combat, moving into a flanki
 
 **Caved-In Passage:** The short passage collapsed when the meteor struck, isolating the library from outside. Clearing out the tunnel would be as much work as digging a new tunnel. The end of the passage counts as difficult terrain. 
 
-**Alchemical Bench:** Most of the ingredients on the bench are dried up and useless. PCs searching the desk are able to salvage two *Acid Flasks (Moderate)* and various alchemical reagents. 
+**Alchemical Bench:** Most of the ingredients on the bench are dried up and useless. PCs searching the desk are able to salvage two [[acid-flask|Acid Flask (Moderate)]] and various alchemical reagents. 
 
 **Portal:** The portal in the corner leads to the final room in this portion of Voran’s library, and [[04) The Inner Sanctum]] 
 

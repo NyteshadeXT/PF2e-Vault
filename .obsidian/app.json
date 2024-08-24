@@ -6,5 +6,6 @@
   "defaultViewMode": "preview",
   "promptDelete": false,
   "showLineNumber": false,
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest"
 }

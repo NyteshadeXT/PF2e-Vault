@@ -7,9 +7,9 @@ tags:
 - trait/alchemical
 - trait/consumable
 - trait/elixir
-aliases: ["Eagle-eye Elixir"]
+aliases: ["Eagle Eye Elixir"]
 ---
-# Eagle-eye Elixir *Item 1+*  
+# Eagle Eye Elixir *Item 1+*  
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [elixir](rules/traits/elixir.md "Elixir Item Trait")  
 
 - **Bulk** L; **Usage** held in 1 hand

@@ -49,13 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4) Bestiary/homebrew/orc-shaman.md",
-                "mode": "preview",
+                "file": "8) Adventures/6A - Rumble in the Valley (D193).md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8) Adventures/4C - Vanguard Tower (D182).md",
+                "file": "8) Adventures/6A - Rumble in the Valley (D193).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8) Adventures/4C - Vanguard Tower (D182).md",
+                "file": "8) Adventures/6A - Rumble in the Valley (D193).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8) Adventures/4C - Vanguard Tower (D182).md"
+                "file": "8) Adventures/6A - Rumble in the Valley (D193).md"
               }
             }
           },
@@ -209,13 +210,28 @@
             }
           }
         ]
+      },
+      {
+        "id": "501b7f74376d2eee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0293a235152244b4",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 497.5
+    "width": 622.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
@@ -223,89 +239,53 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-import-json:JSON/CSV Importer": false,
       "dbfolder:Create a new database table": false,
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "templater-obsidian:Templater": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "3159e4479987e365",
-    "type": "floating",
-    "children": [
-      {
-        "id": "523a954099f494d9",
-        "type": "window",
-        "children": [
-          {
-            "id": "2fe0c840737d6b22",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ce4ae783255633a0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2) compendium/spells/wyvern-sting-aoe4.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 8,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "26d31433e2c64bd8",
+  "active": "2ee922b978d17b59",
   "lastOpenFiles": [
-    "2) compendium/spells/wyvern-sting-aoe4.md",
+    "1) GM Screen/Loot.md",
+    "Loot.md",
     "8) Adventures/4C - Vanguard Tower (D182).md",
-    "2) compendium/spells/rituals/reincarnate-apg.md",
-    "2) compendium/spells/insect-form.md",
-    "2) compendium/spells/elemental-annihilation-wave-som.md",
-    "2) compendium/spells/positive-attunement-som.md",
-    "2) compendium/spells/water-walk.md",
-    "2) compendium/spells/animal-form.md",
-    "2) compendium/spells/invisible-item-apg.md",
-    "2) compendium/spells/summon-lesser-servitor-som.md",
-    "2) compendium/spells/distortion-lens-da.md",
-    "2) compendium/spells/fleet-step.md",
-    "2) compendium/spells/tame-som.md",
-    "2) compendium/spells/plant-form.md",
-    "2) compendium/spells/dancing-blade-da.md",
-    "2) compendium/spells/consuming-darkness-apg.md",
-    "2) compendium/spells/Zephyr Slip.md",
-    "2) compendium/spells/shroud-of-flame-frp3.md",
-    "2) compendium/spells/rouse-skeletons-som.md",
-    "2) compendium/equipment/items/staff-of-healing.md",
-    "2) compendium/spells/heal.md",
-    "2) compendium/equipment/items/beastmasters-sigil-tv.md",
-    "1) GM Screen/DC_Calculators.md",
-    "2) compendium/equipment/items/assassin-vine-wine-tv.md",
-    "2) compendium/equipment/items/leapers-elixir.md",
-    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+    "2) Compendium/equipment/items/leapers-elixir.md",
+    "9) Completed Adventures/4A - Glowstone Caverns (D177) C.md",
+    "9) Completed Adventures/The Alchemist’s Eyrie C.md",
+    "2) Compendium/equipment/items/tanglefoot-bag.md",
+    "9) Completed Adventures/3B - The Splintered Spring (D179) - Done.md",
+    "2) Compendium/equipment/items/eagle-eye-elixir.md",
+    "9) Completed Adventures/Forgotten Tomb.md",
+    "9) Completed Adventures/2F - The Lost Library (D173).md",
+    "9) Completed Adventures/3C - The Wayward Wyrmling (D182) C.md",
+    "9) Completed Adventures/Halloween 2023 One-Shot C.md",
+    "9) Completed Adventures/3A - The Crawling Fane (D178) C.md",
+    "Untitled 1.md",
+    "9) Completed Adventures/2H - Slaark's Crown (D220) C.md",
+    "9) Completed Adventures/2E - Down the Goblin Hole (D280) C.md",
+    "9) Completed Adventures/2D - The Hammer Falls (D179) C.md",
+    "9) Completed Adventures/2C - Dead by Dawn (D176) C.md",
+    "Untitled.md",
+    "9) Completed Adventures/2B - The Shrine of Glass-Spire Forest (D175) C.md",
+    "4) Bestiary/4) Bestiary.md",
+    "4) Bestiary/bestiary-1/aasimar-redeemer.md",
+    "4) Bestiary/bestiary-1/bestiary-1.md",
+    "4) Bestiary/homebrew/acolyte-of-the-radiant-morn.md",
+    "4) Bestiary/homebrew/magma-hurler.md",
+    "zz-Attachments/6A - Rumble in the Valley (D193)-20240820111648698.webp",
+    "zz-Attachments/6A - Rumble in the Valley (D193)-20240820111135981.webp",
+    "zz-Attachments/Chaos Spawned Merloc.png",
+    "4) Bestiary/temp",
+    "zz-Attachments/Pasted image 20240817120426.png",
+    "zz-Attachments/5A - The Slaver's Stone (D181)-20240817000107777.webp",
+    "zz-Attachments/5A - The Slaver's Stone (D181)-20240816232439786.webp",
+    "zz-Attachments/5A - The Slaver's Stone (D181)-20240816223027483.webp",
     "zz-Attachments/Restwell Keep-20240105144659375.webp",
     "zz-Attachments/Chaos Scar - GM View.webp",
-    "zz-Attachments/Zestren-20240809225250925.webp",
-    "zz-Attachments/Zestran.webp",
-    "zz-Attachments/Travel Table.png",
-    "zz-Attachments/Pasted image 20230830164356.png",
-    "zz-Attachments/Pasted image 20230830164532.png",
-    "zz-Attachments/Pasted image 20230830162729.png",
-    "zz-Attachments/Pasted image 20230829165718.png",
-    "zz-Attachments/Pasted image 20230829134121.png"
+    "zz-Attachments/Zestren-20240809225250925.webp"
   ]
 }

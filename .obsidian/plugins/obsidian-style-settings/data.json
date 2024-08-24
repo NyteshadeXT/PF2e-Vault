@@ -50,5 +50,7 @@
   "supercharged-links@@5e92-b5af-after": "\"\"",
   "ITS@@soft-text@@light": "#3D9348",
   "ITS@@i-at@@light": "#3D9348",
-  "ITS@@tag@@light": "#00A81D"
+  "ITS@@tag@@light": "#00A81D",
+  "ITS@@illusion": false,
+  "ITS@@illusion-h1": false
 }

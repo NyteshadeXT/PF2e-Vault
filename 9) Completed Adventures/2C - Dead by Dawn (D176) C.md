@@ -1,3 +1,21 @@
+---
+title: Dead by Dawn
+treasures:
+  - name: Gold Coin
+    amount: 120
+    type: Gold
+    completed: true
+  - name: Jentha Alinamuch
+    amount: 100
+    type: Gold
+    completed: false
+  - name: Poisoned Poseidon
+    amount: 100
+    type: Gold
+    completed: true
+---
+
+
 # Background
 Long ago, a misguided cleric of Waukeen named Tyrik Gerithson built a small temple to his deity in the wilds of the Chaos Scar. Foolishly, Tyrik believed he could bring civilization and order to the savage land beyond the King’s Wall. Unfortunately, Waukeen does not suffer fools lightly, and the goddess did not intervene when a band of cultists devoted to the demon lord Orcus swooped down and slaughtered Tyrik Gerithson and his followers. 
 

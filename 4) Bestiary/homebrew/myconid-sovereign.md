@@ -13,7 +13,6 @@ level: 8
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
-
 source: "HB"
 name: "Myconid Sovereign"
 level: "Creature 8"

@@ -1,15 +1,17 @@
 {
   "pluginList": [
-    "javalent/the-calendarium"
+    "MostTornBrain/monster-mash"
   ],
   "pluginSubListFrozenVersion": [],
   "themesList": [],
   "updateAtStartup": false,
   "updateThemesAtStartup": false,
-  "ribbonIconEnabled": true,
+  "enableAfterInstall": true,
   "loggingEnabled": false,
   "loggingPath": "BRAT-log",
   "loggingVerboseEnabled": false,
   "debuggingMode": true,
-  "notificationsEnabled": true
+  "notificationsEnabled": true,
+  "personalAccessToken": "",
+  "ribbonIconEnabled": true
 }

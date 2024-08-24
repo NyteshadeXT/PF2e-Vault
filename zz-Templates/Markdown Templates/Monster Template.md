@@ -15,7 +15,7 @@ columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: "B1"
-name: `=this.aliases`
+name: "Ancient Red Dragon"
 level: "Creature 19"
 rare_02: "Uncommon"
 alignment: "CE"

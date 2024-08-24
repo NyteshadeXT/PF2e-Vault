@@ -451,10 +451,14 @@ var require_implementations = __commonJS({
     __export2(implementations_exports, {
       CustomArrayDictImpl: () => CustomArrayDictImpl,
       InternalPluginName: () => InternalPluginName,
-      createTFileInstance: () => createTFileInstance2,
-      createTFolderInstance: () => createTFolderInstance
+      createTFileInstance: () => createTFileInstance3,
+      createTFolderInstance: () => createTFolderInstance,
+      parentFolderPath: () => parentFolderPath
     });
     module2.exports = __toCommonJS2(implementations_exports);
+    function parentFolderPath(path) {
+      return path.replace(/\/?[^\/]*$/, "") || "/";
+    }
     var import_obsidian9 = require("obsidian");
     function createTFolderInstance(vault, path) {
       let folder = vault.getFolderByPath(path);
@@ -462,40 +466,21 @@ var require_implementations = __commonJS({
         return folder;
       }
       folder = new import_obsidian9.TFolder(vault, path);
-      folder.parent = createTFolderInstance(vault, vault.adapter.path.dirname(path));
+      folder.parent = createTFolderInstance(vault, parentFolderPath(path));
+      folder.deleted = true;
       return folder;
     }
-    var InternalPluginName = {
-      AudioRecorder: "audio-recorder",
-      Backlink: "backlink",
-      Bookmarks: "bookmarks",
-      Canvas: "canvas",
-      CommandPalette: "command-palette",
-      DailyNotes: "daily-notes",
-      EditorStatus: "editor-status",
-      FileExplorer: "file-explorer",
-      FileRecovery: "file-recovery",
-      GlobalSearch: "global-search",
-      Graph: "graph",
-      MarkdownImporter: "markdown-importer",
-      NoteComposer: "note-composer",
-      OutgoingLink: "outgoing-link",
-      Outline: "outline",
-      PagePreview: "page-preview",
-      Properties: "properties",
-      Publish: "publish",
-      RandomNote: "random-note",
-      SlashCommand: "slash-command",
-      Slides: "slides",
-      Starred: "starred",
-      Switcher: "switcher",
-      Sync: "sync",
-      TagPane: "tag-pane",
-      Templates: "templates",
-      WordCount: "word-count",
-      Workspaces: "workspaces",
-      ZkPrefixer: "zk-prefixer"
-    };
+    var import_obsidian22 = require("obsidian");
+    function createTFileInstance3(vault, path) {
+      let file = vault.getFileByPath(path);
+      if (file) {
+        return file;
+      }
+      file = new import_obsidian22.TFile(vault, path);
+      file.parent = createTFolderInstance(vault, parentFolderPath(path));
+      file.deleted = true;
+      return file;
+    }
     var CustomArrayDictImpl = class {
       data = {};
       add(key, value) {
@@ -546,16 +531,37 @@ var require_implementations = __commonJS({
         return ans;
       }
     };
-    var import_obsidian22 = require("obsidian");
-    function createTFileInstance2(vault, path) {
-      let file = vault.getFileByPath(path);
-      if (file) {
-        return file;
-      }
-      file = new import_obsidian22.TFile(vault, path);
-      file.parent = createTFolderInstance(vault, vault.adapter.path.dirname(path));
-      return file;
-    }
+    var InternalPluginName = {
+      AudioRecorder: "audio-recorder",
+      Backlink: "backlink",
+      Bookmarks: "bookmarks",
+      Canvas: "canvas",
+      CommandPalette: "command-palette",
+      DailyNotes: "daily-notes",
+      EditorStatus: "editor-status",
+      FileExplorer: "file-explorer",
+      FileRecovery: "file-recovery",
+      GlobalSearch: "global-search",
+      Graph: "graph",
+      MarkdownImporter: "markdown-importer",
+      NoteComposer: "note-composer",
+      OutgoingLink: "outgoing-link",
+      Outline: "outline",
+      PagePreview: "page-preview",
+      Properties: "properties",
+      Publish: "publish",
+      RandomNote: "random-note",
+      SlashCommand: "slash-command",
+      Slides: "slides",
+      Starred: "starred",
+      Switcher: "switcher",
+      Sync: "sync",
+      TagPane: "tag-pane",
+      Templates: "templates",
+      WordCount: "word-count",
+      Workspaces: "workspaces",
+      ZkPrefixer: "zk-prefixer"
+    };
   }
 });
 
@@ -581,11 +587,13 @@ function showError(error) {
 }
 
 // src/Async.ts
-async function retryWithTimeout(asyncFn, {
-  timeoutInMilliseconds = 5e3,
-  retryDelayInMilliseconds = 100
-} = {}) {
-  await runWithTimeout(timeoutInMilliseconds, async () => {
+async function retryWithTimeout(asyncFn, retryOptions = {}) {
+  const DEFAULT_RETRY_OPTIONS = {
+    timeoutInMilliseconds: 5e3,
+    retryDelayInMilliseconds: 100
+  };
+  const overriddenOptions = { ...DEFAULT_RETRY_OPTIONS, ...retryOptions };
+  await runWithTimeout(overriddenOptions.timeoutInMilliseconds, async () => {
     let attempt = 0;
     while (true) {
       attempt++;
@@ -595,8 +603,9 @@ async function retryWithTimeout(asyncFn, {
         }
         return;
       }
-      console.debug(`Retry attempt ${attempt} completed unsuccessfully. Trying again in ${retryDelayInMilliseconds} milliseconds`);
-      await sleep(retryDelayInMilliseconds);
+      console.debug(`Retry attempt ${attempt} completed unsuccessfully. Trying again in ${overriddenOptions.retryDelayInMilliseconds} milliseconds`);
+      console.debug(asyncFn);
+      await sleep(overriddenOptions.retryDelayInMilliseconds);
     }
   });
 }
@@ -615,7 +624,9 @@ function convertAsyncToSync(asyncFunc) {
 }
 
 // src/MetadataCache.ts
-async function getCacheSafe(app, fileOrPath) {
+async function getCacheSafe(app, fileOrPath, retryOptions = {}) {
+  const DEFAULT_RETRY_OPTIONS = { timeoutInMilliseconds: 6e4 };
+  const overriddenOptions = { ...DEFAULT_RETRY_OPTIONS, ...retryOptions };
   let cache = null;
   await retryWithTimeout(async () => {
     const file = typeof fileOrPath === "string" ? app.vault.getFileByPath(fileOrPath) : fileOrPath;
@@ -644,9 +655,7 @@ async function getCacheSafe(app, fileOrPath) {
         return true;
       }
     }
-  }, {
-    timeoutInMilliseconds: 6e4
-  });
+  }, overriddenOptions);
   return cache;
 }
 function getAllLinks(cache) {
@@ -666,7 +675,9 @@ function getAllLinks(cache) {
   });
   return links;
 }
-async function getBacklinksForFileSafe(app, file) {
+async function getBacklinksForFileSafe(app, file, retryOptions = {}) {
+  const DEFAULT_RETRY_OPTIONS = { timeoutInMilliseconds: 6e4 };
+  const overriddenOptions = { ...DEFAULT_RETRY_OPTIONS, ...retryOptions };
   let backlinks = null;
   await retryWithTimeout(async () => {
     backlinks = app.metadataCache.getBacklinksForFile(file);
@@ -686,7 +697,7 @@ async function getBacklinksForFileSafe(app, file) {
       }
     }
     return true;
-  }, { timeoutInMilliseconds: 6e4 });
+  }, overriddenOptions);
   return backlinks;
 }
 async function saveNote(app, note) {
@@ -734,10 +745,15 @@ function toJson(value) {
 function getMarkdownFilesSorted(app) {
   return app.vault.getMarkdownFiles().sort((a, b) => a.path.localeCompare(b.path));
 }
-async function processWithRetry(app, file, processFn) {
+async function processWithRetry(app, file, processFn, retryOptions = {}) {
+  const DEFAULT_RETRY_OPTIONS = { timeoutInMilliseconds: 6e4 };
+  const overriddenOptions = { ...DEFAULT_RETRY_OPTIONS, ...retryOptions };
   await retryWithTimeout(async () => {
     const oldContent = await app.vault.adapter.read(file.path);
     const newContent = await processFn(oldContent);
+    if (newContent === null) {
+      return false;
+    }
     let success = true;
     await app.vault.process(file, (content) => {
       if (content !== oldContent) {
@@ -748,51 +764,49 @@ async function processWithRetry(app, file, processFn) {
       return newContent;
     });
     return success;
-  }, { timeoutInMilliseconds: 6e4 });
+  }, overriddenOptions);
 }
-async function applyFileChanges(app, file, changesFn) {
-  await retryWithTimeout(async () => {
-    let doChangesMatchContent = true;
-    await processWithRetry(app, file, async (content) => {
-      let changes = await changesFn();
-      for (const change of changes) {
-        const actualContent = content.slice(change.startIndex, change.endIndex);
-        if (actualContent !== change.oldContent) {
-          console.warn(`Content mismatch at ${change.startIndex}-${change.endIndex} in ${file.path}:
+async function applyFileChanges(app, file, changesFn, retryOptions = {}) {
+  const DEFAULT_RETRY_OPTIONS = { timeoutInMilliseconds: 6e4 };
+  const overriddenOptions = { ...DEFAULT_RETRY_OPTIONS, ...retryOptions };
+  await processWithRetry(app, file, async (content) => {
+    let changes = await changesFn();
+    for (const change of changes) {
+      const actualContent = content.slice(change.startIndex, change.endIndex);
+      if (actualContent !== change.oldContent) {
+        console.warn(`Content mismatch at ${change.startIndex}-${change.endIndex} in ${file.path}:
 Expected: ${change.oldContent}
 Actual: ${actualContent}`);
-          doChangesMatchContent = false;
-          return content;
-        }
+        return null;
       }
-      changes.sort((a, b) => a.startIndex - b.startIndex);
-      changes = changes.filter((change, index) => {
-        if (index === 0) {
-          return true;
-        }
-        return !deepEqual(change, changes[index - 1]);
-      });
-      for (let i = 1; i < changes.length; i++) {
-        const change = changes[i];
-        const previousChange = changes[i - 1];
-        if (previousChange.endIndex >= change.startIndex) {
-          throw new Error(`Overlapping changes:
+    }
+    changes.sort((a, b) => a.startIndex - b.startIndex);
+    changes = changes.filter((change, index) => {
+      if (index === 0) {
+        return true;
+      }
+      return !deepEqual(change, changes[index - 1]);
+    });
+    for (let i = 1; i < changes.length; i++) {
+      const change = changes[i];
+      const previousChange = changes[i - 1];
+      if (previousChange.endIndex > change.startIndex) {
+        console.warn(`Overlapping changes:
 ${toJson(previousChange)}
 ${toJson(change)}`);
-        }
+        return null;
       }
-      let newContent = "";
-      let lastIndex = 0;
-      for (const change of changes) {
-        newContent += content.slice(lastIndex, change.startIndex);
-        newContent += change.newContent;
-        lastIndex = change.endIndex;
-      }
-      newContent += content.slice(lastIndex);
-      return newContent;
-    });
-    return doChangesMatchContent;
-  }, { timeoutInMilliseconds: 6e4 });
+    }
+    let newContent = "";
+    let lastIndex = 0;
+    for (const change of changes) {
+      newContent += content.slice(lastIndex, change.startIndex);
+      newContent += change.newContent;
+      lastIndex = change.endIndex;
+    }
+    newContent += content.slice(lastIndex);
+    return newContent;
+  }, overriddenOptions);
 }
 function isNote(file) {
   if (!(file instanceof import_obsidian2.TFile)) {
@@ -883,13 +897,27 @@ var import_obsidian3 = require("obsidian");
 var import_path = __toESM(require_path(), 1);
 
 // src/GenerateMarkdownLink.ts
-function generateMarkdownLink(app, file, sourcePath, subpath, alias, isEmbed, isWikilink) {
+function generateMarkdownLink({
+  app,
+  file,
+  sourcePath,
+  subpath,
+  alias,
+  isEmbed,
+  isWikilink,
+  isRelative
+}) {
   const useMarkdownLinks = app.vault.getConfig("useMarkdownLinks");
+  const newLinkFormat = app.vault.getConfig("newLinkFormat");
   if (isWikilink !== void 0) {
     app.vault.setConfig("useMarkdownLinks", !isWikilink);
   }
+  if (isRelative === true) {
+    app.vault.setConfig("newLinkFormat", "relative");
+  }
   let link = app.fileManager.generateMarkdownLink(file, sourcePath, subpath, alias);
   app.vault.setConfig("useMarkdownLinks", useMarkdownLinks);
+  app.vault.setConfig("newLinkFormat", newLinkFormat);
   const isLinkEmbed = link.startsWith("!");
   if (isEmbed !== void 0 && isEmbed !== isLinkEmbed) {
     if (isEmbed) {
@@ -903,10 +931,10 @@ function generateMarkdownLink(app, file, sourcePath, subpath, alias, isEmbed, is
 }
 
 // src/Link.ts
+var import_implementations = __toESM(require_implementations(), 1);
 var {
   basename,
-  extname,
-  dirname
+  extname
 } = import_path.posix;
 function splitSubpath(link) {
   const SUBPATH_SEPARATOR = "#";
@@ -916,55 +944,104 @@ function splitSubpath(link) {
     subpath: subpath ? SUBPATH_SEPARATOR + subpath : void 0
   };
 }
-async function updateLinksInFile(app, file, oldPath, renameMap2, forceMarkdownLinks) {
+async function updateLinksInFile({
+  app,
+  file,
+  oldPath,
+  renameMap,
+  forceMarkdownLinks,
+  embedOnlyLinks
+}) {
   await applyFileChanges(app, file, async () => {
     const cache = await getCacheSafe(app, file);
     if (!cache) {
       return [];
     }
-    return await Promise.all(getAllLinks(cache).map(async (link) => ({
+    let links = [];
+    switch (embedOnlyLinks) {
+      case true:
+        links = cache.embeds ?? [];
+        break;
+      case false:
+        links = cache.links ?? [];
+        break;
+      case void 0:
+        links = getAllLinks(cache);
+        break;
+    }
+    return links.map((link) => ({
       startIndex: link.position.start.offset,
       endIndex: link.position.end.offset,
       oldContent: link.original,
-      newContent: await convertLink(app, link, file, oldPath, renameMap2, forceMarkdownLinks)
-    })));
+      newContent: convertLink(app, link, file, oldPath, renameMap, forceMarkdownLinks)
+    }));
   });
 }
-function convertLink(app, link, source, oldPath, renameMap2, forceMarkdownLinks) {
+function convertLink(app, link, source, oldPath, renameMap, forceMarkdownLinks) {
   oldPath ??= source.path;
-  return updateLink(app, link, extractLinkFile(app, link, oldPath), source, renameMap2, forceMarkdownLinks);
+  return updateLink({
+    app,
+    link,
+    file: extractLinkFile(app, link, oldPath),
+    oldPath,
+    source,
+    renameMap,
+    forceMarkdownLinks
+  });
 }
 function extractLinkFile(app, link, oldPath) {
   const { linkPath } = splitSubpath(link.link);
   return app.metadataCache.getFirstLinkpathDest(linkPath, oldPath);
 }
-async function updateLink(app, link, file, source, renameMap2, forceMarkdownLinks) {
+function updateLink({
+  app,
+  link,
+  file,
+  oldPath,
+  source,
+  renameMap,
+  forceMarkdownLinks
+}) {
   if (!file) {
     return link.original;
   }
   const isEmbed = link.original.startsWith("!");
   const isWikilink = link.original.includes("[[") && forceMarkdownLinks !== true;
   const { subpath } = splitSubpath(link.link);
-  const oldPath = file.path;
-  const newPath = renameMap2.get(file.path);
-  const isOldFileRenamed = newPath && newPath !== oldPath;
-  const alias = getAlias(app, link.displayText, file, newPath, source.path);
-  if (isOldFileRenamed) {
-    await createFolderSafe(app, dirname(newPath));
-    await app.vault.rename(file, newPath);
+  const newPath = renameMap.get(file.path);
+  const alias = getAlias({
+    app,
+    displayText: link.displayText,
+    file,
+    otherPaths: [oldPath, newPath],
+    sourcePath: source.path
+  });
+  if (newPath) {
+    file = (0, import_implementations.createTFileInstance)(app.vault, newPath);
   }
-  const newLink = generateMarkdownLink(app, file, source.path, subpath, alias, isEmbed, isWikilink);
-  if (isOldFileRenamed) {
-    await app.vault.rename(file, oldPath);
-  }
+  const newLink = generateMarkdownLink({
+    app,
+    file,
+    sourcePath: source.path,
+    subpath,
+    alias,
+    isEmbed,
+    isWikilink
+  });
   return newLink;
 }
-function getAlias(app, displayText, oldFile, newPath, sourcePath) {
+function getAlias({
+  app,
+  displayText,
+  file,
+  otherPaths,
+  sourcePath
+}) {
   if (!displayText) {
     return void 0;
   }
   const cleanDisplayText = (0, import_obsidian3.normalizePath)(displayText.split(" > ")[0]).replace(/\.\//g, "");
-  for (const path of [oldFile.path, newPath]) {
+  for (const path of [file.path, ...otherPaths]) {
     if (!path) {
       continue;
     }
@@ -976,7 +1053,7 @@ function getAlias(app, displayText, oldFile, newPath, sourcePath) {
     }
   }
   for (const omitMdExtension of [true, false]) {
-    const linkText = app.metadataCache.fileToLinktext(oldFile, sourcePath, omitMdExtension);
+    const linkText = app.metadataCache.fileToLinktext(file, sourcePath, omitMdExtension);
     if (cleanDisplayText === linkText) {
       return void 0;
     }
@@ -986,9 +1063,8 @@ function getAlias(app, displayText, oldFile, newPath, sourcePath) {
 
 // src/links-handler.ts
 var {
-  dirname: dirname2,
-  join,
-  relative
+  dirname,
+  join
 } = import_path2.posix;
 var ConsistencyCheckResult = class extends Map {
   constructor(title) {
@@ -1047,18 +1123,6 @@ var LinksHandler = class {
     }
     return false;
   }
-  checkIsCorrectMarkdownEmbed(text) {
-    return text.startsWith("![");
-  }
-  checkIsCorrectMarkdownLink(text) {
-    return text.startsWith("[");
-  }
-  checkIsCorrectWikiEmbed(text) {
-    return text.startsWith("![[");
-  }
-  checkIsCorrectWikiLink(text) {
-    return text.startsWith("[[");
-  }
   getFileByLink(link, owningNotePath, allowInvalidLink = true) {
     ({ linkPath: link } = splitSubpath(link));
     if (allowInvalidLink) {
@@ -1069,7 +1133,7 @@ var LinksHandler = class {
   }
   getFullPathForLink(link, owningNotePath) {
     ({ linkPath: link } = splitSubpath(link));
-    const parentFolder = dirname2(owningNotePath);
+    const parentFolder = dirname(owningNotePath);
     const fullPath = join(parentFolder, link);
     return fullPath;
   }
@@ -1081,7 +1145,7 @@ var LinksHandler = class {
     } else if (linkPath.startsWith("/")) {
       fullLinkPath = (0, import_obsidian4.normalizePath)(linkPath);
     } else {
-      fullLinkPath = join(dirname2(notePath), linkPath);
+      fullLinkPath = join(dirname(notePath), linkPath);
     }
     const file = this.app.vault.getFileByPath(fullLinkPath);
     if (!file) {
@@ -1113,7 +1177,7 @@ var LinksHandler = class {
     }
     const note = this.app.vault.getFileByPath(notePath);
     if (!note) {
-      console.error(this.consoleLogPrefix + "cant update links in note, file not found: " + notePath);
+      console.warn(this.consoleLogPrefix + "can't update links in note, file not found: " + notePath);
       return;
     }
     const pathChangeMap = /* @__PURE__ */ new Map();
@@ -1122,10 +1186,20 @@ var LinksHandler = class {
     }
     await this.updateLinks(note, note.path, pathChangeMap, changeLinksAlt);
   }
-  convertLink(note, link, oldNotePath, pathChangeMap, changeLinksAlt) {
+  convertLink({
+    note,
+    link,
+    oldNotePath,
+    pathChangeMap,
+    changeLinksAlt,
+    isEmbed,
+    isWikilink,
+    isRelative
+  }) {
     const { linkPath, subpath } = splitSubpath(link.link);
-    const oldLinkPath = join(dirname2(oldNotePath), linkPath);
-    const newLinkPath = pathChangeMap ? pathChangeMap.get(oldLinkPath) : join(dirname2(note.path), linkPath);
+    this.app.metadataCache.getFirstLinkpathDest(linkPath, oldNotePath);
+    const oldLinkPath = this.app.metadataCache.getFirstLinkpathDest(linkPath, oldNotePath)?.path ?? join(dirname(oldNotePath), linkPath);
+    const newLinkPath = pathChangeMap ? pathChangeMap.get(oldLinkPath) : this.app.metadataCache.getFirstLinkpathDest(linkPath, note.path)?.path ?? join(dirname(note.path), linkPath);
     if (!newLinkPath) {
       return link.original;
     }
@@ -1133,7 +1207,16 @@ var LinksHandler = class {
     if (!newLinkedNote) {
       return link.original;
     }
-    return this.app.fileManager.generateMarkdownLink(newLinkedNote, note.path, subpath, changeLinksAlt === false ? link.displayText : void 0);
+    return generateMarkdownLink({
+      app: this.app,
+      file: newLinkedNote,
+      sourcePath: note.path,
+      subpath,
+      alias: changeLinksAlt === false ? link.displayText : void 0,
+      isEmbed,
+      isWikilink,
+      isRelative
+    });
   }
   async getCachedNotesThatHaveLinkToFile(filePath) {
     const file = this.app.vault.getFileByPath(filePath);
@@ -1144,146 +1227,70 @@ var LinksHandler = class {
     return backlinks.keys();
   }
   async convertAllNoteEmbedsPathsToRelative(notePath) {
+    return this.convertAllNoteRefPathsToRelative(notePath, true);
+  }
+  async convertAllNoteRefPathsToRelative(notePath, isEmbed) {
     if (this.isPathIgnored(notePath)) {
       return [];
     }
-    const changedEmbeds = [];
-    const cache = await getCacheSafe(this.app, notePath) ?? {};
-    const embeds = cache.embeds ?? [];
-    for (const embed of embeds) {
-      const isMarkdownEmbed = this.checkIsCorrectMarkdownEmbed(embed.original);
-      const isWikiEmbed = this.checkIsCorrectWikiEmbed(embed.original);
-      if (isMarkdownEmbed || isWikiEmbed) {
-        let file = this.getFileByLinkRelative(embed.link, notePath);
-        if (file) {
-          continue;
-        }
-        file = this.app.metadataCache.getFirstLinkpathDest(embed.link, notePath);
-        if (file) {
-          const newRelLink = relative(dirname2(notePath), file.path);
-          changedEmbeds.push({ old: embed, newLink: newRelLink });
-        } else {
-          console.error(this.consoleLogPrefix + notePath + " has bad embed (file does not exist): " + embed.link);
-        }
-      } else {
-        console.error(this.consoleLogPrefix + notePath + " has bad embed (format of link is not markdown or wiki link): " + embed.original);
-      }
+    const note = this.app.vault.getFileByPath(notePath);
+    if (!note) {
+      return [];
     }
-    await this.updateChangedEmbedInNote(notePath, changedEmbeds);
-    return changedEmbeds;
+    const changedRefs = [];
+    await applyFileChanges(this.app, note, async () => {
+      const cache = await getCacheSafe(this.app, note);
+      if (!cache) {
+        return [];
+      }
+      const refs = (isEmbed ? cache.embeds : cache.links) ?? [];
+      const changes = [];
+      for (const ref of refs) {
+        const change = {
+          startIndex: ref.position.start.offset,
+          endIndex: ref.position.end.offset,
+          oldContent: ref.original,
+          newContent: this.convertLink({
+            note,
+            link: ref,
+            oldNotePath: notePath,
+            isWikilink: ref.original.includes("[["),
+            isRelative: true
+          })
+        };
+        changes.push(change);
+        changedRefs.push({ old: ref, newLink: change.newContent });
+      }
+      return changes;
+    });
+    return changedRefs;
   }
   async convertAllNoteLinksPathsToRelative(notePath) {
-    if (this.isPathIgnored(notePath)) {
-      return [];
-    }
-    const changedLinks = [];
-    const cache = await getCacheSafe(this.app, notePath) ?? {};
-    const links = cache.links ?? [];
-    for (const link of links) {
-      const isMarkdownLink = this.checkIsCorrectMarkdownLink(link.original);
-      const isWikiLink = this.checkIsCorrectWikiLink(link.original);
-      if (isMarkdownLink || isWikiLink) {
-        if (link.link.startsWith("#")) {
-          continue;
-        }
-        let file = this.getFileByLinkRelative(link.link, notePath);
-        if (file) {
-          continue;
-        }
-        file = this.app.metadataCache.getFirstLinkpathDest(link.link, notePath);
-        if (file) {
-          const newRelLink = relative(dirname2(notePath), file.path);
-          changedLinks.push({ old: link, newLink: newRelLink });
-        } else {
-          console.error(this.consoleLogPrefix + notePath + " has bad link (file does not exist): " + link.link);
-        }
-      } else {
-        console.error(this.consoleLogPrefix + notePath + " has bad link (format of link is not markdown or wiki link): " + link.original);
-      }
-    }
-    await this.updateChangedLinkInNote(notePath, changedLinks);
-    return changedLinks;
+    return this.convertAllNoteRefPathsToRelative(notePath, false);
   }
-  async updateChangedEmbedInNote(notePath, changedEmbeds) {
-    if (this.isPathIgnored(notePath)) {
-      return;
-    }
-    const noteFile = this.app.vault.getFileByPath(notePath);
-    if (!noteFile) {
-      console.error(this.consoleLogPrefix + "can't update embeds in note, file not found: " + notePath);
-      return;
-    }
-    let text = await this.app.vault.read(noteFile);
-    let dirty = false;
-    if (changedEmbeds && changedEmbeds.length > 0) {
-      for (const embed of changedEmbeds) {
-        if (embed.old.link == embed.newLink) {
-          continue;
-        }
-        if (this.checkIsCorrectMarkdownEmbed(embed.old.original)) {
-          text = text.replace(embed.old.original, "![" + embed.old.displayText + "](" + embed.newLink + ")");
-        } else if (this.checkIsCorrectWikiEmbed(embed.old.original)) {
-          text = text.replace(embed.old.original, "![[" + embed.newLink + "]]");
-        } else {
-          console.error(this.consoleLogPrefix + notePath + " has bad embed (format of link is not markdown or wikilink): " + embed.old.original);
-          continue;
-        }
-        console.log(this.consoleLogPrefix + "embed updated in note [note, old link, new link]: \n   " + noteFile.path + "\n   " + embed.old.link + "\n   " + embed.newLink);
-        dirty = true;
-      }
-    }
-    if (dirty) {
-      await this.app.vault.modify(noteFile, text);
-    }
-  }
-  async updateChangedLinkInNote(notePath, changedLinks) {
-    if (this.isPathIgnored(notePath)) {
-      return;
-    }
-    const noteFile = this.app.vault.getFileByPath(notePath);
-    if (!noteFile) {
-      console.error(this.consoleLogPrefix + "can't update links in note, file not found: " + notePath);
-      return;
-    }
-    let text = await this.app.vault.read(noteFile);
-    let dirty = false;
-    if (changedLinks && changedLinks.length > 0) {
-      for (const link of changedLinks) {
-        if (link.old.link == link.newLink) {
-          continue;
-        }
-        if (this.checkIsCorrectMarkdownLink(link.old.original)) {
-          text = text.replace(link.old.original, "[" + link.old.displayText + "](" + link.newLink + ")");
-        } else if (this.checkIsCorrectWikiLink(link.old.original)) {
-          text = text.replace(link.old.original, "[[" + link.newLink + "]]");
-        } else {
-          console.error(this.consoleLogPrefix + notePath + " has bad link (format of link is not markdown or wikilink): " + link.old.original);
-          continue;
-        }
-        console.log(this.consoleLogPrefix + "cached link updated in note [note, old link, new link]: \n   " + noteFile.path + "\n   " + link.old.link + "\n   " + link.newLink);
-        dirty = true;
-      }
-    }
-    if (dirty) {
-      await this.app.vault.modify(noteFile, text);
-    }
-  }
-  async replaceAllNoteWikilinksWithMarkdownLinks(notePath) {
+  async replaceAllNoteWikilinksWithMarkdownLinks(notePath, embedOnlyLinks) {
     if (this.isPathIgnored(notePath)) {
       return 0;
     }
     const noteFile = this.app.vault.getFileByPath(notePath);
     if (!noteFile) {
-      console.error(this.consoleLogPrefix + "can't update wikilinks in note, file not found: " + notePath);
+      console.warn(this.consoleLogPrefix + "can't update wikilinks in note, file not found: " + notePath);
       return 0;
     }
     const cache = await getCacheSafe(this.app, noteFile);
     if (!cache) {
       return 0;
     }
-    const links = getAllLinks(cache);
+    const links = (embedOnlyLinks ? cache.embeds : cache.links) ?? [];
     const result = links.filter((link) => link.original.includes("[[")).length;
-    await updateLinksInFile(this.app, noteFile, noteFile.path, /* @__PURE__ */ new Map(), true);
+    await updateLinksInFile({
+      app: this.app,
+      file: noteFile,
+      oldPath: noteFile.path,
+      renameMap: /* @__PURE__ */ new Map(),
+      forceMarkdownLinks: true,
+      embedOnlyLinks
+    });
     return result;
   }
   async checkConsistency(note, badLinks, badEmbeds, wikiLinks, wikiEmbeds) {
@@ -1324,14 +1331,15 @@ var LinksHandler = class {
         startIndex: link.position.start.offset,
         endIndex: link.position.end.offset,
         oldContent: link.original,
-        newContent: this.convertLink(note, link, oldNotePath, pathChangeMap, changeLinksAlt)
+        newContent: this.convertLink({
+          note,
+          link,
+          oldNotePath,
+          pathChangeMap,
+          changeLinksAlt
+        })
       }));
     });
-  }
-  getFileByLinkRelative(link, notePath) {
-    const { linkPath } = splitSubpath(link);
-    const fullPath = join(dirname2(notePath), linkPath);
-    return this.app.vault.getFileByPath(fullPath);
   }
 };
 
@@ -1341,38 +1349,38 @@ var import_path4 = __toESM(require_path(), 1);
 
 // src/AttachmentPath.ts
 var import_path3 = __toESM(require_path(), 1);
-var import_implementations = __toESM(require_implementations(), 1);
+var import_implementations2 = __toESM(require_implementations(), 1);
 var {
   basename: basename2,
-  dirname: dirname3,
+  dirname: dirname2,
   extname: extname2
 } = import_path3.posix;
 async function getAttachmentFolderPath(app, notePath) {
-  return dirname3(await getAttachmentFilePath(app, "DUMMY_FILE.pdf", notePath));
+  return dirname2(await getAttachmentFilePath(app, "DUMMY_FILE.pdf", notePath));
 }
 async function getAttachmentFilePath(app, attachmentPath, notePath) {
-  const note = (0, import_implementations.createTFileInstance)(app.vault, notePath);
+  const note = (0, import_implementations2.createTFileInstance)(app.vault, notePath);
   const ext = extname2(attachmentPath);
   const fileName = basename2(attachmentPath, ext);
-  const originalCreateFolder = app.vault.createFolder;
-  app.vault.createFolder = async (path) => {
+  const originalMkdir = app.vault.adapter.mkdir;
+  app.vault.adapter.mkdir = async (path) => {
     if (new Error().stack?.includes("getAvailablePathForAttachments")) {
-      return note.parent;
+      return;
     }
-    return originalCreateFolder.call(app.vault, path);
+    return originalMkdir.call(app.vault.adapter, path);
   };
   try {
     const newAttachmentPath = await app.vault.getAvailablePathForAttachments(fileName, ext.slice(1), note);
     return newAttachmentPath;
   } finally {
-    app.vault.createFolder = originalCreateFolder;
+    app.vault.adapter.mkdir = originalMkdir;
   }
 }
 
 // src/files-handler.ts
 var {
   basename: basename3,
-  dirname: dirname4,
+  dirname: dirname3,
   extname: extname3,
   join: join2
 } = import_path4.posix;
@@ -1403,11 +1411,11 @@ var FilesHandler = class {
     return false;
   }
   async createFolderForAttachmentFromPath(filePath) {
-    await createFolderSafe(this.app, dirname4(filePath));
+    await createFolderSafe(this.app, dirname3(filePath));
   }
   generateFileCopyName(path) {
     const ext = extname3(path);
-    const dir = dirname4(path);
+    const dir = dirname3(path);
     const fileName = basename3(path, ext);
     return this.app.vault.getAvailablePath(join2(dir, fileName), ext.slice(1));
   }
@@ -1435,14 +1443,14 @@ var FilesHandler = class {
       const file = this.lh.getFileByLink(linkPath, notePath);
       if (!file) {
         const type = link.original.startsWith("!") ? "embed" : "link";
-        console.error(`${this.consoleLogPrefix}${notePath} has bad ${type} (file does not exist): ${linkPath}`);
+        console.warn(`${this.consoleLogPrefix}${notePath} has bad ${type} (file does not exist): ${linkPath}`);
         continue;
       }
       if (!this.isAttachment(file)) {
         continue;
       }
       const newPath = await getAttachmentFilePath(this.app, file.path, notePath);
-      if (dirname4(newPath) === dirname4(file.path)) {
+      if (dirname3(newPath) === dirname3(file.path)) {
         continue;
       }
       const res = await this.moveAttachment(file, newPath, [notePath], deleteExistFiles, deleteEmptyFolders);
@@ -1672,13 +1680,13 @@ var ConsistentAttachmentsAndLinksPluginSettings = class _ConsistentAttachmentsAn
 var import_obsidian7 = require("obsidian");
 var import_path5 = __toESM(require_path(), 1);
 var {
-  relative: relative2,
+  relative,
   join: join3,
-  dirname: dirname5
+  dirname: dirname4
 } = import_path5.posix;
-var renameMap = /* @__PURE__ */ new Map();
+var renamingPaths = /* @__PURE__ */ new Set();
 async function handleRename(plugin, file, oldPath) {
-  if (renameMap.size > 0) {
+  if (renamingPaths.has(oldPath)) {
     return;
   }
   console.debug("Handle Rename");
@@ -1690,12 +1698,13 @@ async function handleRename(plugin, file, oldPath) {
   try {
     plugin.app.fileManager.updateAllLinks = async () => {
     };
-    await fillRenameMap(app, file, oldPath);
+    const renameMap = /* @__PURE__ */ new Map();
+    await fillRenameMap(app, file, oldPath, renameMap);
     for (const [oldPath2, newPath2] of renameMap.entries()) {
-      await processRename(plugin, oldPath2, newPath2);
+      await processRename(plugin, oldPath2, newPath2, renameMap);
     }
   } finally {
-    renameMap.delete(oldPath);
+    renamingPaths.delete(oldPath);
     plugin.app.fileManager.updateAllLinks = updateAllLinks;
   }
 }
@@ -1704,17 +1713,20 @@ async function handleDelete(plugin, file) {
   if (!isNote(file)) {
     return;
   }
+  if (renamingPaths.has(file.path)) {
+    return;
+  }
   const attachmentFolder = await getAttachmentFolderPath(plugin.app, file.path);
   await removeFolderSafe(plugin.app, attachmentFolder, file.path);
 }
-async function fillRenameMap(app, file, oldPath) {
+async function fillRenameMap(app, file, oldPath, renameMap) {
   renameMap.set(oldPath, file.path);
   if (!isNote(file)) {
     return;
   }
   const oldAttachmentFolderPath = await getAttachmentFolderPath(app, oldPath);
   const newAttachmentFolderPath = await getAttachmentFolderPath(app, file.path);
-  const dummyOldAttachmentFolderPath = await getAttachmentFolderPath(app, join3(dirname5(oldPath), "DUMMY_FILE.md"));
+  const dummyOldAttachmentFolderPath = await getAttachmentFolderPath(app, join3(dirname4(oldPath), "DUMMY_FILE.md"));
   const oldAttachmentFolder = app.vault.getFolderByPath(oldAttachmentFolderPath);
   if (!oldAttachmentFolder) {
     return;
@@ -1752,8 +1764,8 @@ async function fillRenameMap(app, file, oldPath) {
       continue;
     }
     child = child;
-    const relativePath = relative2(oldAttachmentFolderPath, child.path);
-    const newDir = join3(newAttachmentFolderPath, dirname5(relativePath));
+    const relativePath = relative(oldAttachmentFolderPath, child.path);
+    const newDir = join3(newAttachmentFolderPath, dirname4(relativePath));
     let newChildPath = join3(newDir, child.name);
     if (child.path !== newChildPath) {
       newChildPath = app.vault.getAvailablePath(join3(newDir, child.basename), child.extension);
@@ -1761,78 +1773,123 @@ async function fillRenameMap(app, file, oldPath) {
     }
   }
 }
-async function processRename(plugin, oldPath, newPath) {
+async function processRename(plugin, oldPath, newPath, renameMap) {
   const app = plugin.app;
-  const oldFile = app.vault.getFileByPath(oldPath);
-  const newFile = app.vault.getFileByPath(newPath);
-  const file = oldFile ?? newFile;
-  if (!file) {
-    return;
-  }
-  const backlinks = await getBacklinksForFileSafe(plugin.app, file);
-  for (const parentNotePath of backlinks.keys()) {
-    let parentNote = app.vault.getFileByPath(parentNotePath);
-    if (!parentNote) {
-      const newParentNotePath = renameMap.get(parentNotePath);
-      if (newParentNotePath) {
-        parentNote = app.vault.getFileByPath(newParentNotePath);
+  let oldFile = null;
+  let fakeOldFileCreated = false;
+  try {
+    oldFile = app.vault.getFileByPath(oldPath);
+    const newFile = app.vault.getFileByPath(newPath);
+    const file = oldFile ?? newFile;
+    if (!file) {
+      return;
+    }
+    if (!oldFile) {
+      fakeOldFileCreated = true;
+      oldFile = await app.vault.create(oldPath, "");
+    }
+    const backlinks = await getBacklinks(plugin.app, oldFile, newFile);
+    for (const parentNotePath of backlinks.keys()) {
+      let parentNote = app.vault.getFileByPath(parentNotePath);
+      if (!parentNote) {
+        const newParentNotePath = renameMap.get(parentNotePath);
+        if (newParentNotePath) {
+          parentNote = app.vault.getFileByPath(newParentNotePath);
+        }
+      }
+      if (!parentNote) {
+        console.warn(`Parent note not found: ${parentNotePath}`);
+        continue;
+      }
+      await applyFileChanges(app, parentNote, async () => {
+        const links = (await getBacklinks(plugin.app, oldFile, newFile)).get(parentNotePath) ?? [];
+        const changes = [];
+        for (const link of links) {
+          changes.push({
+            startIndex: link.position.start.offset,
+            endIndex: link.position.end.offset,
+            oldContent: link.original,
+            newContent: updateLink({
+              app,
+              link,
+              file,
+              oldPath,
+              source: parentNote,
+              renameMap
+            })
+          });
+        }
+        return changes;
+      });
+    }
+    if (file.extension.toLowerCase() === "canvas") {
+      await processWithRetry(app, file, (content) => {
+        const canvasData = JSON.parse(content);
+        for (const node of canvasData.nodes) {
+          if (node.type !== "file") {
+            continue;
+          }
+          const newPath2 = renameMap.get(node.file);
+          if (!newPath2) {
+            continue;
+          }
+          node.file = newPath2;
+        }
+        return toJson(canvasData);
+      });
+    } else if (file.extension.toLowerCase() === "md") {
+      await updateLinksInFile({
+        app,
+        file,
+        oldPath,
+        renameMap
+      });
+    }
+    if (!fakeOldFileCreated) {
+      await createFolderSafe(app, dirname4(newPath));
+      const oldFolder = oldFile.parent;
+      if (newFile) {
+        await app.vault.delete(newFile);
+      }
+      await app.vault.rename(oldFile, newPath);
+      if (plugin.settings.deleteEmptyFolders) {
+        await removeEmptyFolderHierarchy(app, oldFolder);
       }
     }
-    if (!parentNote) {
-      console.error(`Parent note not found: ${parentNotePath}`);
-      continue;
+  } finally {
+    if (fakeOldFileCreated && oldFile) {
+      await app.vault.delete(oldFile);
     }
-    await applyFileChanges(app, parentNote, async () => {
-      const links = (await getBacklinksForFileSafe(app, file)).get(parentNotePath) ?? [];
-      const changes = [];
-      for (const link of links) {
-        changes.push({
-          startIndex: link.position.start.offset,
-          endIndex: link.position.end.offset,
-          oldContent: link.original,
-          newContent: await updateLink(app, link, file, parentNote, renameMap)
-        });
-      }
-      return changes;
-    });
-  }
-  if (file.extension.toLowerCase() === "canvas") {
-    await processWithRetry(app, file, (content) => {
-      const canvasData = JSON.parse(content);
-      for (const node of canvasData.nodes) {
-        if (node.type !== "file") {
-          continue;
-        }
-        const newPath2 = renameMap.get(node.file);
-        if (!newPath2) {
-          continue;
-        }
-        node.file = newPath2;
-      }
-      return toJson(canvasData);
-    });
-  } else if (file.extension.toLowerCase() === "md") {
-    await updateLinksInFile(app, file, oldPath, renameMap);
-  }
-  if (oldFile) {
-    await createFolderSafe(app, dirname5(newPath));
-    const oldFolder = oldFile.parent;
-    await app.vault.rename(oldFile, newPath);
     renameMap.delete(oldPath);
-    if (plugin.settings.deleteEmptyFolders) {
-      await removeEmptyFolderHierarchy(app, oldFolder);
-    }
   }
+}
+async function getBacklinks(app, oldFile, newFile) {
+  const backlinks = /* @__PURE__ */ new Map();
+  const oldLinks = await getBacklinksForFileSafe(app, oldFile);
+  for (const path of oldLinks.keys()) {
+    backlinks.set(path, oldLinks.get(path));
+  }
+  if (!newFile) {
+    return backlinks;
+  }
+  const newLinks = await getBacklinksForFileSafe(app, newFile);
+  for (const path of newLinks.keys()) {
+    const links = backlinks.get(path) ?? [];
+    links.push(...newLinks.get(path));
+    backlinks.set(path, links);
+  }
+  return backlinks;
 }
 
 // src/ConsistentAttachmentsAndLinksPlugin.ts
 var import_path6 = __toESM(require_path(), 1);
-var { dirname: dirname6 } = import_path6.posix;
+var { dirname: dirname5 } = import_path6.posix;
 var ConsistentAttachmentsAndLinksPlugin = class extends import_obsidian8.Plugin {
   _settings;
   lh;
   fh;
   isHandlingMetadataCacheChanged = false;
+  abortSignal;
   deletedNoteCache = /* @__PURE__ */ new Map();
   get settings() {
     return ConsistentAttachmentsAndLinksPluginSettings.clone(this._settings);
@@ -1917,6 +1974,16 @@ var ConsistentAttachmentsAndLinksPlugin = class extends import_obsidian8.Plugin 
       checkCallback: this.replaceAllWikilinksWithMarkdownLinksCurrentNote.bind(this)
     });
     this.addCommand({
+      id: "replace-all-wiki-embeds-with-markdown-embeds",
+      name: "Replace All Wiki Embeds with Markdown Embeds",
+      callback: () => this.replaceAllWikiEmbedsWithMarkdownEmbeds()
+    });
+    this.addCommand({
+      id: "replace-all-wiki-embeds-with-markdown-embeds-current-note",
+      name: "Replace All Wiki Embeds with Markdown Embeds in Current Note",
+      checkCallback: this.replaceAllWikiEmbedsWithMarkdownEmbedsCurrentNote.bind(this)
+    });
+    this.addCommand({
       id: "reorganize-vault",
       name: "Reorganize Vault",
       callback: () => this.reorganizeVault()
@@ -1941,6 +2008,9 @@ var ConsistentAttachmentsAndLinksPlugin = class extends import_obsidian8.Plugin 
       this._settings.getIgnoreFilesRegex(),
       this._settings.deleteEmptyFolders
     );
+    const abortController = new AbortController();
+    this.register(() => abortController.abort());
+    this.abortSignal = abortController.signal;
   }
   isPathIgnored(path) {
     if (path.startsWith("./")) {
@@ -2004,6 +2074,10 @@ var ConsistentAttachmentsAndLinksPlugin = class extends import_obsidian8.Plugin 
     let i = 0;
     const notice = new import_obsidian8.Notice("", 0);
     for (const note of notes) {
+      if (this.abortSignal.aborted) {
+        notice.hide();
+        return;
+      }
       i++;
       const message = `Collecting attachments # ${i} / ${notes.length} - ${note.path}`;
       notice.setMessage(message);
@@ -2037,6 +2111,10 @@ var ConsistentAttachmentsAndLinksPlugin = class extends import_obsidian8.Plugin 
     let i = 0;
     const notice = new import_obsidian8.Notice("", 0);
     for (const note of notes) {
+      if (this.abortSignal.aborted) {
+        notice.hide();
+        return;
+      }
       i++;
       const message = `Converting embed paths to relative # ${i} / ${notes.length} - ${note.path}`;
       notice.setMessage(message);
@@ -2065,6 +2143,10 @@ var ConsistentAttachmentsAndLinksPlugin = class extends import_obsidian8.Plugin 
     let i = 0;
     const notice = new import_obsidian8.Notice("", 0);
     for (const note of notes) {
+      if (this.abortSignal.aborted) {
+        notice.hide();
+        return;
+      }
       i++;
       const message = `Converting link paths to relative # ${i} / ${notes.length} - ${note.path}`;
       notice.setMessage(message);
@@ -2093,6 +2175,10 @@ var ConsistentAttachmentsAndLinksPlugin = class extends import_obsidian8.Plugin 
     let i = 0;
     const notice = new import_obsidian8.Notice("", 0);
     for (const note of notes) {
+      if (this.abortSignal.aborted) {
+        notice.hide();
+        return;
+      }
       i++;
       const message = `Replacing wikilinks with markdown links # ${i} / ${notes.length} - ${note.path}`;
       notice.setMessage(message);
@@ -2100,7 +2186,7 @@ var ConsistentAttachmentsAndLinksPlugin = class extends import_obsidian8.Plugin 
       if (this.isPathIgnored(note.path)) {
         continue;
       }
-      const result = await this.lh.replaceAllNoteWikilinksWithMarkdownLinks(note.path);
+      const result = await this.lh.replaceAllNoteWikilinksWithMarkdownLinks(note.path, false);
       changedLinksCount += result;
       processedNotesCount++;
     }
@@ -2109,6 +2195,36 @@ var ConsistentAttachmentsAndLinksPlugin = class extends import_obsidian8.Plugin 
       new import_obsidian8.Notice("No wiki links found that need to be replaced");
     } else {
       new import_obsidian8.Notice("Replaced " + changedLinksCount + " wikilink" + (changedLinksCount > 1 ? "s" : "") + " from " + processedNotesCount + " note" + (processedNotesCount > 1 ? "s" : ""));
+    }
+  }
+  async replaceAllWikiEmbedsWithMarkdownEmbeds() {
+    await this.saveAllOpenNotes();
+    let changedLinksCount = 0;
+    let processedNotesCount = 0;
+    const notes = getMarkdownFilesSorted(this.app);
+    let i = 0;
+    const notice = new import_obsidian8.Notice("", 0);
+    for (const note of notes) {
+      if (this.abortSignal.aborted) {
+        notice.hide();
+        return;
+      }
+      i++;
+      const message = `Replacing wiki embeds with markdown embeds # ${i} / ${notes.length} - ${note.path}`;
+      notice.setMessage(message);
+      console.debug(message);
+      if (this.isPathIgnored(note.path)) {
+        continue;
+      }
+      const result = await this.lh.replaceAllNoteWikilinksWithMarkdownLinks(note.path, true);
+      changedLinksCount += result;
+      processedNotesCount++;
+    }
+    notice.hide();
+    if (changedLinksCount == 0) {
+      new import_obsidian8.Notice("No wiki embeds found that need to be replaced");
+    } else {
+      new import_obsidian8.Notice("Replaced " + changedLinksCount + " wiki embed" + (changedLinksCount > 1 ? "s" : "") + " from " + processedNotesCount + " note" + (processedNotesCount > 1 ? "s" : ""));
     }
   }
   async deleteEmptyFolders() {
@@ -2124,6 +2240,10 @@ var ConsistentAttachmentsAndLinksPlugin = class extends import_obsidian8.Plugin 
     let i = 0;
     const notice = new import_obsidian8.Notice("", 0);
     for (const note2 of notes) {
+      if (this.abortSignal.aborted) {
+        notice.hide();
+        return;
+      }
       i++;
       const message = `Checking note # ${i} / ${notes.length} - ${note2.path}`;
       notice.setMessage(message);
@@ -2133,7 +2253,7 @@ var ConsistentAttachmentsAndLinksPlugin = class extends import_obsidian8.Plugin 
     notice.hide();
     const notePath = this._settings.consistencyReportFile;
     const text = badLinks.toString(this.app, notePath) + badEmbeds.toString(this.app, notePath) + wikiLinks.toString(this.app, notePath) + wikiEmbeds.toString(this.app, notePath);
-    await createFolderSafe(this.app, dirname6(notePath));
+    await createFolderSafe(this.app, dirname5(notePath));
     const note = this.app.vault.getFileByPath(notePath) ?? await this.app.vault.create(notePath, "");
     await this.app.vault.modify(note, text);
     let fileOpened = false;
@@ -2149,6 +2269,7 @@ var ConsistentAttachmentsAndLinksPlugin = class extends import_obsidian8.Plugin 
   async reorganizeVault() {
     await this.saveAllOpenNotes();
     await this.replaceAllWikilinksWithMarkdownLinks();
+    await this.replaceAllWikiEmbedsWithMarkdownEmbeds();
     await this.convertAllEmbedsPathsToRelative();
     await this.convertAllLinkPathsToRelative();
     await this.collectAllAttachments();
@@ -2207,7 +2328,17 @@ var ConsistentAttachmentsAndLinksPlugin = class extends import_obsidian8.Plugin 
       return false;
     }
     if (!checking) {
-      convertToSync(this.lh.replaceAllNoteWikilinksWithMarkdownLinks(note.path));
+      convertToSync(this.lh.replaceAllNoteWikilinksWithMarkdownLinks(note.path, false));
+    }
+    return true;
+  }
+  replaceAllWikiEmbedsWithMarkdownEmbedsCurrentNote(checking) {
+    const note = this.app.workspace.getActiveFile();
+    if (!note || note.extension.toLowerCase() !== "md") {
+      return false;
+    }
+    if (!checking) {
+      convertToSync(this.lh.replaceAllNoteWikilinksWithMarkdownLinks(note.path, true));
     }
     return true;
   }

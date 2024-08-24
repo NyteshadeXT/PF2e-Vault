@@ -32,6 +32,6 @@
 
 ## Events
 -  Strange and disturbing dreams are bothering the residents near the Scar. Now [[Chendra]] has received a warning from Avandra that the Pillar of Eyes is close to being freed and this must not happen. It must be destroyed. ([[4B - The Pillar of Eyes (D180)]])
--  Jangi Blackstream is looking for the party. Something about his caravans being attacked by elemental creatures from the Scar. Sound like he’s willing to pay lots of coin. ([[6A - Rumble in the Valley (D193)]])
+-  [[Ardia Ironleaf]] is looking for the party. Something about his caravans being attacked by elemental creatures from the Scar. Sound like she’s willing to pay lots of coin. ([[6A - Rumble in the Valley (D193)]])
 -  [[Lord Drysdale]] has an old friend, Olek Dael, who’s fallen from grace. He wants his friend stopped and preferably brought back alive. He will request the aid of the party once they've proven themselves to him. ([[8B - The Runecutter's Ruin (D186)]])
 -  Residents of Restwell Keep begin seeing things and generally suffering from delusions. ([[8A - Pit of Delirium (D190)]])

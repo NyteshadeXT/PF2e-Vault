@@ -36,22 +36,6 @@ Unless stopped, Zestren steals a captive and makes off for the Cloven Skull to l
 ## Companions
 Two companion characters, Cluff and Zestren, plus ten minions join the characters’ adventuring group. Divide the minions between the players but consider controlling the two companion characters yourself. If you have too much to handle already, you can assign these characters to the players, but be sure to keep Zestren’s motives secret. A handout at the end of this adventure contains all the statistics for these characters. If Zestren becomes an enemy, use his statistics as given on page 11.
 
-### Cluff Maclire
-![[Cluff Maclire.webp|400]]
-[[Cluff Maclire.webp|Show to Players]]
-
-Cluff Maclire is a middle-aged, lanky, pale human warrior with stringy brown hair going to gray. He wears a tartan kilt and a leather jack studded with metal spikes. He carries a bastard sword in a sheath hanging down the middle of his back. He is a plain-spoken man with little patience for nonsense and no tolerance for cowardice. He has vowed to kill Magrak Ironjaw and save his people even if it costs his own life.
-
-Cluff is a loudmouth and braggart, he talks big but no one around here has ever heard of him before. The Maclire clansmen are fringe-dwellers, having little to do with civilized folks. 
-
-### Zestren
-![[Zestran.webp|400]]
-[[Zestran.webp|Show to Players]]
-
-Zestren is a graceful elven warrior dressed in traveler’s clothing and chainmail covered by a long, blue-gray cloak. He carries a longsword in a scabbard hanging from his leather belt. He says little and appears to disdain humans.
-
-Zestren is new to the keep, having been around only for a few days. He keeps to himself and says little to anyone. He perks up when anyone mentions Magrak Ironjaw, however.. Some say he’s the only survivor of an adventuring group that met their match in a dungeon near Winterspring.
-
 > [!tip]+ Skill Challenge
 > # Something about Zestren
 > The characters have several opportunities to talk with Zestren before his betrayal. Learning more about him and winning his friendship can reveal what he intends. This skill challenge takes place over several hours and can be run during short rests or through roleplaying while the party travels.
@@ -185,32 +169,140 @@ Alternatively, cautious adventurers might try talking (or, they might beat the n
 > ### Failure 
 > If the failure comes before combat, the bandits attack. If it comes after, the adventurers learn the same information as above, but the bandits follow them and attack while the heroes are engaged against the harpies in Tactical Encounter 2: Dung and Feathers.
 
+## The Stone Forest
+The Stone Forest is not an actual forest but rather a collection of monoliths set here by people unknown for purposes unknown. Some claim they are teeth liberated from a primordial’s mouth by a deft swing of Moradin’s hammer. Curious origins aside, the Stone Forest is a popular roosting place for a band of harpies, who make it their business to torment folk coming and going from the Scar. Most locals tolerate their presence and bullying demands. Magrak is just such a local, and he offered one of his captives to silence the shrieking flock.
+
+The Stone Forest stands between the Slaver’s Stone and the Crossroads. The group can circumvent it easily, but trekking off the trail invites contact with other things haunting these parts (see “[[#On the Way]],” above, for possibilities). In any event, the heroes are bound to hear the shrieking cries and the shouted curses from their captive.
+
+Adventurers passing through learn the harpies’ demand. Groups can pass freely if they offer up one of their members (a minion will do), a pile of gold (at least 5 gp per traveler), or some other valuable trinket. The harpies readily betray Magrak, telling the adventurers, if they ask, that he came this way. The harpies attack anyone who refuses to pay for their passage. Under no circumstances will they release their prisoner voluntarily.
+
+Go to Tactical [[#Encounter 2: Dung and Feathers]].
+
+### Betrayal
+If the adventurers haven’t yet uncovered [[Zestren|Zestren's]] sinister motives by the time the combat starts, [[Zestren]] uses the chaos in the battle to snatch [[#Lysa, the Prisoner|Lysa]] and make off with her. [[Zestren]] attacks the woman, knocking her unconscious. He then races off to the north to hand her over to the ghouls.
+
+If the characters stop [[Zestren]] and take him alive, they can get his story. Use the “Something about Zestren” skill challenge, substituting Intimidate for Diplomacy and fear for friendship. On the other hand, if [[Zestren]] escapes with [[#Lysa, the Prisoner|Lysa]], the characters must decide whether to give chase or to confront Magrak. [[Cluff Maclire]], assuming he’s still alive, argues they should press on (one life is not worth the dozen he hopes to save). He does not, however, stop the characters from going to rescue [[#Lysa, the Prisoner|Lysa]], saying he hopes to “see them once they settle that business.”
+
+> [!tip]+ Skill Challenge
+> # Pursuing Zestren
+> 
+> The adventurers might chase Zestren straightaway, in which case they have a chance to stop him before he reaches the Cloven Skull, or they might wait until the Magrak matter is concluded, thus consigning poor Lysa to certain death. The following skill challenge applies in either situation.
+> 
+> **Level:** 5 (20 xp)
+> **Complexity:** 1 (requires 4 successes before 3 failures)
+> **Primary Skills:**  [[skills#Athletics|Athletics]], [[skills#Perception|Perception]], [[skills#Survival|Survival]]
+> 
+> ### Primary Skills
+> **Athletics (DC 24, group check; variable time; 1 success, maximum 1 success):** An Athletics group check must be attempted, and it can be attempted only once. The characters run to catch up with the elf if chasing him or must overcome some natural obstacle while tracking him. This is a group skill check with a success earned if half or more of the party succeeds on their individual checks. Failure for the group earns both 1 failure and 1 success.
+> 
+> **Perception (DC 27, or 24 if tracking; variable time; 1 success, 2 successes maximum):** A character tries to keep Zestren in sight or follow his tracks. Up to four characters can aid on this check.
+> 
+> **Survival (DC 27, group check; variable time;  1 success, maximum 1 success):** A Survival group check must be attempted, and it can be attempted only once. The terrain is challenging, and the characters must struggle against its manifold hardships. This is a group skill check with a success earned if half or more of the party succeeds on their individual checks. Failure for the group earns both 1 failure and 1 success.
+> 
+> ### Success
+> If chasing, the characters catch up with Zestren, who surrenders and reveals the whole story. He begs the characters to help him pass by the guardians so he can speak with the oracle.
+> 
+> ### Failure 
+> The characters find the Cloven Skull but get there too late to save Lysa. Proceed with “Seer in the Water,” below.
+
+### Lysa, the Prisoner
+Assuming Lysa survives, she proves helpful. She is a strong-willed woman with brown hair and blue eyes, and she wears a torn shirt and skirt. She has a fiery disposition and a no-nonsense way about her. She knows the following:
+- Magrak is headed to the Slaver’s Stone, where he’s to meet an orc chieftain named Po to whom he hopes to offload his captives.
+- The numbers and composition of Magrak’s forces.
+- That the Proud Boys were involved in the attack on Cled.
+
+Lysa is not about to go home. She joins [[Cluff Maclire|Cluff's]] forces, picking up spare armor and weapons from her cohorts.
+
+## Slaver’s Stone
+The Slaver’s Stone takes its name for the business conducted on the high, flat stone. Magrak named it himself. Magrak arrives at the Stone early and must wait several hours for the orc chieftain, Po, to arrive. If the characters arrive in time, which they do if they’ve been smart with their rests (see “[[#The Consequences of Time]]”), they can catch the wereboar without the orcs to give him trouble. In this situation, allow the characters to see the camp and where the creatures are positioned. The characters can use [[skills#Stealth|Stealth]] against the sentries’ passive [[skills#Perception|Perception]] to move into position and, most likely, take the entire camp by surprise.
+
+Go to Tactical [[#Encounter 3: Chain Gang.]]
+
+## The Lake Oracle
+Although tangential to the main plot, the characters might have cause to visit the seer of the Cloven Skull depending on how the story with Zestren plays out. The Lake Oracle is an insane steel dragon, driven mad through exposure to exposure to chaos crystals long ago. The dragon hides in the Chaos Scar to escape the voices and visions she experienced and now lairs in a dark cavern. She subsists on the blindfish swimming in the underground lake where she makes her home and has little to no contact with the other creatures found in her lair.
+
+Zestren knows the location of the Cloven Skull and can lead the characters there. Otherwise, the adventurers might come across the site through happenstance, to seek out answers to their own queries, or to deal with the evil believed to linger here. Although the oracle might be dealt with without combat, the self-styled guardians are dangerous.
+
+### The Cloven Skull
+The Cloven Skull is a queer rock formation in the side of the mountains forming the Chaos Scar and, as one might expect, it appears to be an enormous human skull chiseled from the stone and with a dark gap in the center.
+
+Go to Tactical [[#Encounter 4: Guardians of the Skull]].
+
+### Seer in the Water
+Beyond the ghouls at the Cloven Skull, the characters find a cramped, winding passage burrowing deep into the mountain. The tunnel leads more or less straight to the oracle. When the adventurers reach the end, they are on the pebbled shore overlooking a broad, wide lake teeming with pale crustaceans and darting blindfish. Some distance away is the small, rocky island where the oracle makes her home.
+
+If combat breaks out, go to Tactical [[#Encounter: 5 Eyes in the Dark]].
+
+Heroes approaching the Lake Oracle with more discretion, however, can instead try to persuade the dragon to reveal a secret, foretell an event, or provide some other bit of information the characters need to learn. If the characters take this approach, run the “Consulting the Oracle” skill challenge.
+
+> [!tip]+ Skill Challenge
+> # Consulting the Oracle
+> 
+> Brief Discription
+> 
+> **Level:** 8 (35 xp)
+> **Complexity:** 1 (requires 4 successes before 3 failures)
+> **Primary Skills:**  [[skills#Arcana|Arcana]], [[skills#Deception|Deception]], [[skills#Diplomacy|Diplomacy]], [[skills#Perception|Perception]], [[skills#Society|Society]]
+> **Secondary Skills:** [[skills#Intimidation|Intimidation]]
+> 
+> ### Primary Skills
+> **Arcana (DC 22; 5 minutes; 1 success, maximum 1 success):** The character identifies the chaos shard influences in the dragon. A successful check, in addition to counting as a success, grants a +2 bonus to Deceptoin checks related to the challenge.
+> 
+> **Deception (DC 25; 1 minute; 1 success, maximum 4 successes):** The character lies about the reason for wanting the knowledge. For every 10 points by which the check succeeds, the character earns an extra success. Each failed check, in addition to counting as a failure, increases the DC for all skill checks related to the challenge by 2.
+> 
+> **Diplomacy (DC 17; 5 minutes; 1 success, maximum 4 successes):** The character makes an impassioned plea to the dragon, explaining the information’s importance. For every 10 points by which the check succeeds, the character earns an extra success. This skill can be used to gain 4 successes in this challenge.
+> 
+> **Perception (DC 15; 5 minutes; 1 success, maximum 1 success):** The character tries to ascertain the dragon’s desires. A success reveals the dragon is quite mad. A successful check, in addition to counting as a success, grants a +2 bonus to Diplomacy checks related to the challenge. Success by 10 or more also reveals the dragon might accept a gift.
+> 
+> **Society (DC 22; 5 minutes; 1 success, maximum 1 success):** The character recalls some interesting historical tidbit of interest to the dragon. In addition to counting as a success, a successful check also removes 1 failure.
+> 
+> ### Secondary Skills
+> **Intimidation (DC 29):** The dragon does not respond well to threats or bullying. On a Critical Success the dragon is impressed with the characters show of force, granting a +2 bonus to Diplomayc checkes related to the challenge.  Any other result makes the dragon angrier and is considered an automatic failure. 
+> 
+> ### Success
+> Success: The dragon reveals useful information pertaining to the questions the characters put forward. This is an excellent place to see future quests, foreshadow upcoming adventures, or reveal a secret about the campaign. If Zestren is with the party and he is allowed to ask after Riddle, the dragon reveals Riddle is dead and that her soul is being held by a necromancer named Kyrznan in the dark city of Gloomwrought. Riddle cannot be restored to life until the soul is first recovered. If the characters succeed on the skill challenge without accumulating any failures, the dragon rewards the character with the highest Charisma score a boon. See Whispers from Beyond below.
+> 
+> ### Failure 
+>  The dragon grows angry and attacks the heroes.
+> 
+> ### Special
+> Offering the dragon a gift worth at least 100 gp grants 2 successes, with 1 additional success for each additional 50 gp of its worth.
+
+> [!note]+ Whispers from Beyond
+> You hear strange chaotic whispers and experience unsettling visions, yet from the confusing jumble can pick out useful insights.
+> **Property:** You gain a +1 item bonus to initiative and Perception checks.
+> **Power (Daily):** `pf2:r`  When an enemy enters a square adjacent to you it hears strange chaotic whispers. The target must succeed at a Will based on your class DC or become flat-footed to you and take a –2 penalty to attack rolls that include you as a target until the end of your next turn.
+
+## Conclusion
+The adventure ends when the characters rescue the prisoners from Magrak or, if the adventurers follow up on the oracle, after getting the information they or Zestren need (or slaying the dragon). If Cluff survives, he thanks the heroes for their help and assures them they will be treated like kings the next time they come through Cled. If the characters helped Zestren learn Riddle’s fate (see Tactical [[#Encounter 5: Eyes in the Dark]] for more information on her fate), the elf is grieved by the knowledge but is more resolved than ever to hunt down the necromancer and free Riddle’s soul. 
+
+You also have the matter of the orc chieftain. Po is angry about not getting his slaves and a little snooping around should garner him the names of the characters. He might seek revenge by attacking the adventurers later or mount an attack on Restwell Keep. If, though, the adventurers failed to rescue the prisoners, they might try to locate them and wrest them from the orc. What did he want the slaves for? Where are they? Do they still live?
+
 ## Encounter 1: Local Color
 
 ![[5A - The Slaver's Stone (D181)-20240809215828479.webp]]
 
 At the start of the encounter, place the following foes on the map: 
- - 2: [[BadGuy1]] W
- - 2: [[BadGuy2]] H
+ - 1: [[Kan Sken]] (Captain) C
+ - 1: [[Dronvi Thald]] (Hunter) H
+ - 1: [[Pramlan]] (Mage) M
+ - 8: [[proud-boy-bandit|Proud Boy Bandit]] P
 
 ```encounter
-name: EncounterName
+name: Local Color
 party: Chaos Scar
 creatures:
-- 2: [[Badguy1]] 
-- 2: [[Badguy2]]
+- 1: [[Kan Sken]] 
+- 1: [[Dronvi Thald]]
+- 1: [[Pramlan]]
+- 8: [[Proud Boy Bandit]]
 ```
-
-1 half-elf bandit captain (C)
-1 half-orc hunter (H)
-1 human renegade mage (M)
-8 Proud Boy bandits (P)
 
 The bandits aided Magrak Ironjaw and now camp here, finding creative ways to spend their coin. They owe Magrak no particular loyalty and are open to discussion since they are not particularly interested in dying.
 
 The captain, hunter, mage, and four bandits are at the site. The other four bandits are off doing something bad in the trees. They come to investigate sounds of fighting at the start of the third round entering from the right side of the map.
 
-As noted above, if the characters arrive before the orcs, allow the characters to see the camp and where the creatures are positioned. The characters can use Stealth against the sentries’ passive Perception to move into position and possibly take the entire camp by surprise.
+As noted above, if the characters arrive before the orcs, allow the characters to see the camp and where the creatures are positioned. The characters can use [[skills#Stealth|Stealth]] against the sentries’ passive [[skills#Perception|Perception]] to move into position and possibly take the entire camp by surprise.
 
 When the heroes can see the encampment, read:
 > [!note]+ Read Aloud
@@ -220,21 +312,174 @@ If the heroes approach in the open, read:
 > [!note]+ Read Aloud
 > A slim half-elf looks up from the mob and pins you with a suspicious glare. “Looks like you chose a bad day to stop by, right fellas?” Much laughter ensues.
 
-Tactics
-The bandits fight simply, working in teams to flank
-while the mage hurls magic missiles and other spells
-into the party’s midst.
+### Tactics
+The bandits fight simply, working in teams to flank while the mage hurls magic missiles and other spells into the party’s midst.
 
-Botching the Encounter
-If the characters wipe out the bandits and learn nothing
-from them, all is not lost. Millen Silvereye, the
-psychic tiefling who runs the Trading Post, is relieved
-to be rid of the bandits and tells the characters
-everything they need to know in exchange for 50 gp.
-Substitute someone else if Millen is dead or gone.
+### Botching the Encounter
+If the characters wipe out the bandits and learn nothing from them, all is not lost. [[Millen Silvereye]], the psychic tiefling who runs the Trading Post, is relieved to be rid of the bandits and tells the characters everything they need to know in exchange for 10 gp. Substitute someone else if Millen is dead or gone.
 
-Features of the Area
-Treasure: The captain has a level 6 magic item.
-The bandits have 2 potions of healing and a sack of 350
-gp (payment from Magrak).
+### Features of the Area
+> [!tip]+ Treasure
+> In addition to the gear carried by the captain, hunter and mage, the bandits have 2 [[healing-potion|Healing Potion (Moderate)]] and a sack of 80 gp (payment from Magrak).
 
+## Encounter 2: Dung and Feathers
+
+![[5A - The Slaver's Stone (D181)-20240816223027483.webp]]
+
+At the start of the encounter, place the following foes on the map: 
+ - 6: [[Harpy, Elite]] H
+ - 2: [[harpy-warbird|Harpy Warbird]] H
+
+```encounter
+name: Dung and Feathers
+party: Chaos Scar
+creatures:
+- 6: [[Harpy, Elite]] 
+- 2: [[Harpy Warbird]]
+```
+
+
+The harpies perch atop the monoliths.
+
+When the heroes come upon the Stone Teeth, read:
+> [!note]+ Read Aloud
+> Eight monoliths, each twenty feet tall, rise around the trail leading to the Scar. No stone stands straight; they lean as if they might fall at any moment. Lichen and dung stain the rocks, likely from the screeching bird women perched atop them. One calls out, “A gift and we shall let your band pass unharmed!” Just then, you hear a pitiful cry sounding from atop the eighth stone, where you see a terrified young woman searching for a way down.
+
+### Tactics
+The harpies start the fight by using Captivating Song against enemies and then swoop down from their perches to make attacks and then land on another monolith. They fight until only two remain, at which point they kill their prisoner and fly off toward the valley.
+
+> [!danger]+ Trap
+> ### Unstable Monolith (Single-Use Terrain)
+> 
+> The spotted stone does not sit easily in the earth and might fall with a bit of pressure.
+> 
+> **Requirement:** You must be adjacent to the monolith.
+> **Check:** DC 24 [[skills#Athletics|Athletics]] check to topple the monolith
+> **Success:** The monolith falls and each creature in a close blast 3 away from the character makes a DC 25 reflex save.  Those who fail suffer `dice: 4d8+8` damage, the monolith knocks the target prone, and the target has cover and cannot stand. The target can use the [[escape|Escape]] (DC 24) to end the “cannot stand” condition. 
+> **Failure:** Half damage, and the target moves to the nearest unoccupied square adjacent to the blast.
+
+### Features of the Area
+**Monolith:** Each monolith stands 20 feet tall and counts as blocking terrain. A monolith has 80 hit points. These stones have plenty of handholds and can be climbed with a DC 21 [[skills#Athletics|Athletics]] check.  Furthermore, a good shove might knock a stone to the ground.
+**Chained Prisoner (L):** Use Cled warrior statistics for the prisoner, whose name is Lysa. She attacks any harpy she can reach on initiative count 10.
+
+> [!tip]+ Treasure
+> The harpies keep their wealth stashed atop one of the stones. It consists of 63 gp and 34 sp, [[enervation-apg|Spell Scroll - 4th Level (Enervation)]] and [[blood-booster-tv|Blood Booster (Moderate)]].
+
+## Encounter 3: Chain Gang
+
+![[5A - The Slaver's Stone (D181)-20240816232439786.webp]]
+
+At the start of the encounter, place the following foes on the map: 
+ - 1: [[magrak-ironjaw|Magrak Ironjaw]] M
+ - 2: [[orc-raider]] R
+ - 2: [[hobgoblin-general|Hobgoblin General]] H
+ - 6: [[goblin-archer|Goblin Archer]] A
+
+```encounter
+name: Chain Gang
+party: Chaos Scar
+creatures:
+- 1: [[Badguy1]] 
+- 2: [[Orc Raider]]
+- 2: [[Hobgoblin General, Hobgoblin Sentry]]
+- 6: [[Goblin Archer]]
+```
+
+Magrak has set up camp around the Slaver’s Stone. He sits around the campfire. The orc raider guard the dozen prisoners. The hobgoblins hold positions to watch for enemies, while a few archers hide in the rocks so they can pick off intruders from cover and the rest take positions atop the drum. Magrak expects the orc chieftain, but anyone else gets one warning to “sod off ” before he orders his force to attack.
+
+When the heroes see the encampment, read:
+> [!note]+ Read Aloud
+> A twenty-foot tall stone drum with a crude stair winding all around rises in the center of an encampment, where you see several humanoids and their prisoners milling about. 
+> 
+> [[skills#Perception|Perception]] DC 20: You spot a filthy human armed with a longbow hiding in the rocks.
+
+### Tactics
+Magrak doesn’t place much stock in group tactics and it shows in the forces under his command. Magrak prefers to fight with murderous intent. 
+
+The orcs abandon their prisoners on the first round by using ferocious charge to close the distance and then focus attacks on their targets until they can use sudden charge. The archers and sentries fight simply. The sentries move to clump up into teams of two to benefit from their phalanx soldier auras while the archers pick off any ranged enemies they can see.
+
+### Features of the Area
+**Rocks:** The large rocks jutting from the ground count as difficult terrain and grant cover to creatures fully in their spaces. Prone creatures fully in these spaces gain superior cover.
+**Slaver’s Stone:** A wide and 20-foottall stone platform occupies the camp’s center. The stairs winding around the platform are difficult terrain. A fall from the top deals `dice: 2d10` damage.
+**Prisoners:** The twelve prisoners are in chains and immobilized. Freeing a prisoner requires a DC 25 [[skills#Thievery|Thievery]] or DC 29 Strength check. The chain can also be attacked: Hardness 8, 60 hp. The prisoners use Cled warrior statistics except their melee basic attacks deal half damage until they are armed.
+
+> [!tip]+ Treasure
+> Magrak has a sack filled with coins that includes 58 gp, 97 sp and 24 cp.
+
+## Encounter 4: Guardians of the Skull
+
+![[5A - The Slaver's Stone (D181)-20240817000107777.webp]]
+
+At the start of the encounter, place the following foes on the map: 
+ - 3: [[leng-ghoul|Leng Ghoul]] G
+ - 1: [[titan-centipede|Titan Centipede]] S
+
+```encounter
+name: EncounterName
+party: Chaos Scar
+creatures:
+- 3: [[Leng Ghoul]] 
+- 1: [[Titan Centipede], hidden]
+```
+
+Two ghouls along with their pet centipede established themselves here to exact payment from any who would treat with the oracle, a fee of which the oracle is unaware and never receives. The undead prefer living gifts for passage, and anyone who offers a sacrifice can move through the gap unmolested. Otherwise, they block anyone from entering, happily attacking those who try.
+
+When the heroes reach the Cloven Skull, read:
+> [!note]+ Read Aloud
+> A massive stone skull with a split down the middle juts from the side of a rocky wall. Humanoid skulls with bits of flesh still clinging to the bone stand in piles and hang in bundles from ropes on either side of the fissure.
+
+If the heroes approach, read:
+> [!note]+ Read Aloud
+> Two filthy humanoids dressed in befouled rags emerge from the gap, mouths spread wide in horrid smiles of jagged teeth and long black tongue. They spread their thin arms in welcome, showing stained hands ending in sharp talons. One says, “See the oracle? Pay price. One life and you may pass.”
+
+### Tactics
+The ghouls hold positions in front of the gap, using claw or bite attacks against immobilized and stunned opponents. The centipede rumbles from out of some rubble at the side of the room lost in the darkness at the start of the second round.
+
+### Features of the Area
+**Cloven Skull:** The gap in the skull leads into a dark and winding passage that eventually ends at a subterranean lake.
+**Skull Stacks:** Humanoid skulls stand in neat stacks to either side of the gap. The stacks count as blocking terrain. All squares within 3 squares of each stack count as necrotic ground. Creatures that attempt to heal on necrotic ground regain only half the normal number of hit points.
+
+> [!tip]+ Treasure
+> Scattered across the ground are 42 gp and a pouch of [[scour-gmg|Scour]].
+
+## Encounter 5: Eyes in the Dark
+
+![[Pasted image 20240817120426.png]]
+
+At the start of the encounter, place the following foes on the map: 
+ - 1: [[adult-silver-dragon|Adult Silver Dragon]] O
+ - 6: [[chaos-spwaned-merloc|Chaos Spawn Murloc]] W
+
+```encounter
+name: EncounterName
+party: Chaos Scar
+creatures:
+- 1: [[Adult Silver Dragon, Lake Oracle]] 
+- 6: [[Chaos Spawn Merloc]]
+```
+
+The Lake Oracle lurks on the island in the lake’s center. The Chaos Spawn Merlocs haunt the water and emerge to join the fight should the dragon come under attack.
+
+When the heroes enter this cavern, read:
+> [!note]+ Read Aloud
+> The tunnel ends at a stony shore against which oily black water laps. A rocky island rises from the waters some distance away, where you can just make out a humanoid figure crouching by the lake.
+
+The heroes can catch the Lake Oracle’s attention by calling to her. She climbs on a small boat and rows to the opposite shore.
+
+When the Oracle reaches the heroes, read:
+> [!note]+ Read Aloud
+> A pale human woman with white, unseeing eyes regards you through dirty gray strands of hair. She wears nothing, but is unashamed by her nakedness. She says, “You have come seeking knowledge. Tell me why I should cast aside mystery’s veil.”
+
+### Tactics
+The dragon drops her disguise, uses frightful presence, and then uses her breath weapon. The dragon then moves away, flying near the ceiling or near the island until breath weapon recharges. She uses melee attacks against any creature that closes on her.
+
+Her servants emerge from the waters to attack.
+
+### Features of the Area
+**Illumination:** This room is dark.
+**Ceiling:** The ceiling is 30 feet overhead.
+**Water:** Water squares adjacent to the shore count as difficult terrain. Beyond these squares, a character must swim (DC 20 [[skills#Athletics|Athletics]] check).
+**Skiff:** The boat can hold two Medium or Small creatures. Characters standing on the boat that make an attack must immediately succeed on a DC 22 [[skills#Acrobatics|Acrobatics]] check or fall prone in the boat. Failure by 10 or more topples the character into the water.
+
+> [!tip]+ Treasure
+> If the dragon does not grant the heroes a boon, they can find a [[sapling-shield-tv|Sapling Shield]] on the rocks where the dragon lairs.

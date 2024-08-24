@@ -8,7 +8,8 @@
     "pf2-only-statblocks",
     "pf2-compendium",
     "supercharged-links-gen",
-    "table-header"
+    "table-header",
+    "LootCheck"
   ],
   "baseFontSize": 15,
   "theme": "obsidian",
