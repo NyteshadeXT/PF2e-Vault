@@ -1,1 +1,1 @@
-![[Pasted image 20230307223359.png]]
+![[zz-Attachments/Pasted image 20230307223359.png]]

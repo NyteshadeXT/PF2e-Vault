@@ -3,7 +3,7 @@
 ```leaflet
 id: Chaos-Scar-GM-View
 image: 
- - [[Chaos Scar - GM View.webp]]
+ - [[Chaos Scar - GM View.png]]
 bounds: [[0, 0], [1060, 1600]]
 height: 1000px
 width: 95%
@@ -11,7 +11,7 @@ lat: 530
 long: 800
 minZoom: -1.5
 maxZoom: 18
-defaultZoom: 0
+defaultZoom: -0.5
 zoomdelta: 0.8
 unit: miles
 scale: 0.035
