@@ -71,11 +71,11 @@ First, when there is going to be an encounter, determine if the party is within 
 
 If you'd like to roll for encounters, use this chart. It mostly references material in the various adventures for statistics. Other items use encounters from other adventures which I'll reference.
 
-1. A band of Fireclaw (4 [[Kobold-Warrior|Kobold Warrior]]) are looking for someplace else to go. Their chieftain is weak and they don't think the clan will survive. They'll offer their services for food, shelter and four gold a week. ([[1F - Some Assembly Required (D208) C]])
+1. A band of Fireclaw (4 [[Kobold-Warrior|Kobold Warrior]]) are looking for someplace else to go. Their chieftain is weak and they don't think the clan will survive. They'll offer their services for food, shelter and four gold a week. ([[1F - Some Assembly Required (D208)]])
 2. Six [[Lizardfolk-Scout|Lizardfolk Scout]] are attacking a group of four [[Lizardfolk-Defender|Lizardfolk Defender]]. The Defenders are cultists of Tiamat who the Scouts are trying to chase off. (Battle of the Witchlight Hermitage. Dungeon 191.)
-5.  Two [[Duergar-Taskmaster|Duergar Taskmaster]]and two [[Duergar-Sharpshooter|Duergar Sharpshooter]] in search of victims. ([[2D - The Hammer Falls (D179) C]])
-6.  A [[Goblin-War-Chanter|Goblin War Chanter]], four [[Goblin-Warrior|Goblin Warrior]] and four [[Goblin-Commando|Goblin Commando]] on their way to a raid outside the Wall. They don't necessarily notice or care about the party. ([[2E - Down the Goblin Hole (D280) C]])
-7.  Four [[Zombie-Shambler|Zombie Shambler]] and a [[Zombie-Brute|Zombie Brute]]. Not necessarily from the adventure site - you never need a reason for zombies. ([[2C - Dead by Dawn (D176) C]])
+5.  Two [[Duergar-Taskmaster|Duergar Taskmaster]]and two [[Duergar-Sharpshooter|Duergar Sharpshooter]] in search of victims. ([[2D - The Hammer Falls (D179)]])
+6.  A [[Goblin-War-Chanter|Goblin War Chanter]], four [[Goblin-Warrior|Goblin Warrior]] and four [[Goblin-Commando|Goblin Commando]] on their way to a raid outside the Wall. They don't necessarily notice or care about the party. ([[2E - Down the Goblin Hole (D280)]])
+7.  Four [[Zombie-Shambler|Zombie Shambler]] and a [[Zombie-Brute|Zombie Brute]]. Not necessarily from the adventure site - you never need a reason for zombies. ([[2C - Dead by Dawn (D176)]])
 8.  A [[Hobgoblin-General|Hobgoblin General]] and four [[hobgoblin-warrior|Hobgoblin Warrior]] are on their way back to Slaark's Crown. They aren't looking for a fight and if the party seems shifty enough might try to recruit them. ([[2H - Slaark's Crown (D220) C]])
 9.  A bound half-orc scavenger known as [[Fulgrim]] is being escorted by three [[hobgoblin-warrior|Hobgoblin Warrior]] from their lair to the Crossroads. He'll cry for help if he sees the party and promise a reward. He has nothing left. ([[2G - The Crossroads (D176)]])
 10.  Bugs! Four [[Centipede-Swarm|Centipede Swarm]] are crawling forth from the old temple of Moradin to do gods know what. ([[2G - The Crossroads (D176)]])
@@ -86,4 +86,4 @@ If you'd like to roll for encounters, use this chart. It mostly references mater
 15.  The encounter group from #8 in this list is fighting with the encounter group from #10. Slaark and Urgog do NOT get along.
 16.  "The Penis is evil! The Penis shoots Seeds, and makes new Life to poison the Earth with a plague of men, as once it was. But the Gun shoots Death and purifies the Earth of the filth of Brutals. Go forth, and kill! Zardoz has spoken." ([[7C - Head in the Clouds (D184)]])
 17.  2 Slug Rabbits and 3 Tongue Wolves wander from their grove. ([[8C - The Star-Touched Grove (D219)]])
-18.  The Banites are collecting sacrifices. 1 Tainted Warpriest, 2 Tainted Scouts and 2 Warhounds are attacking a band of 4 [[goblin-quickblade|Goblin Quickblade]]. ([[9A - Heart of the Scar (D197)]] & [[2E - Down the Goblin Hole (D280) C]])
+18.  The Banites are collecting sacrifices. 1 Tainted Warpriest, 2 Tainted Scouts and 2 Warhounds are attacking a band of 4 [[goblin-quickblade|Goblin Quickblade]]. ([[9A - Heart of the Scar (D197)]] & [[2E - Down the Goblin Hole (D280)]])

@@ -1,3 +1,25 @@
+---
+title: The Hammer Falls
+adventure_status: "Done"
+treasures:
+  - name: Sprite Apple (Pink)
+    amount: 16
+    level: 4
+    completed: true
+  - name: Poisonous Dagger
+    amount: 150
+    level: 5
+    completed: false
+  - name: Tentacle Potion (Lesser)
+    amount: 33
+    level: 6
+    completed: false
+  - name: Gold
+    amount: 88.78
+    level: 0
+    completed: true
+---
+
 # Background
 The malign influence and corruption found within the Chaos Scar cannot always be traced to a tangible piece of the meteorite. Though many shards remain scattered throughout the valley or claimed by its covetous denizens, some have dissipated, dissolved, melted away, or been consumed by other forces. These shards are never fully destroyed; the meteor’s destructive essence endures within the power that absorbed it, slowly spreading its corruption and perverting its new incarnation with the meteorite’s evil. 
 
@@ -37,7 +59,7 @@ Another adventurer encountered a band of goblins crossing through the lands east
 
 ## Getting Started 
 ### Research
-A [[skills#Society|Society]] roll (DC15) or consulting with local greybeards (such as the silver-masked mage [[Ailwin|Ailwin]] at Restwell Keep) lets the characters find out that Urgog was once a feared goblin warlord, but no one has heard of him in more than ten years. 
+A [[skills#Society|Society]] roll (DC15) or consulting with local greybeards (such as the silver-masked mage [[Ailwin]] at Restwell Keep) lets the characters find out that Urgog was once a feared goblin warlord, but no one has heard of him in more than ten years. 
 
 ### Down the Goblin Hole 
 After crossing the King’s Wall, the characters travel into the woodlands in the south of the Chaos Scar. The forests here are thick and dark, with few clear trails. In places, the trees are strangely twisted and mutated by the malign influence of the Scar. Initially, the adventurers do not encounter any threatening beasts, but they cannot escape the feeling that they are being watched by inhuman eyes in the dark of the woods. 
@@ -132,7 +154,7 @@ The corrupted lava flows into this room, where the weapons are created and the b
 **Encounter Difficulty:** Low (65 xp)
 Creatures:
  - 1: [[duergar-guard|Duergar Guard]] G
- - 1: [[imp|Imp]] I
+ - 1: [[Imp]] I
  - 3: [[duergar-miner|Duergar Miner]] M
  - 1: [[magma-hurler|Magma Hurler]] H
 

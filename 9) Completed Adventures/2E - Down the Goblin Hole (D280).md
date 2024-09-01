@@ -1,3 +1,41 @@
+---
+title: Down the Goblin Hole
+adventure_status: "Done"
+treasures:
+  - name: Healing Potion (Lesser)
+    amount: 12
+    level: 3
+    completed: true
+  - name: Shifting Rune
+    amount: 225
+    level: 6
+    completed: false
+  - name: Wounding Oil
+    amount: 45
+    level: 5
+    completed: false
+  - name: Gold
+    amount: 79
+    level: 0
+    completed: true
+  - name: +1 Striking Shortsword
+    amount: 100
+    level: 4
+    completed: false
+  - name: Sarkorian God-caller Garb
+    amount: 250
+    level: 6
+    completed: false
+  - name: Heartening Missive (Rabbit)
+    amount: 50
+    level: 6
+    completed: false   
+  - name: Eidetic Potion
+    amount: 40
+    level: 6
+    completed: false
+---
+
 # Background
 No matter how inhospitable, barren, or simply vile a place is, some creature calls it home. There are monsters who dwell in the depths of the world, so far underground that the sun is a wild legend and even light is a rarity beyond compare. There are things who dwell in bubbling lava, in the icy wastes of the uttermost north, or in the harshest of deserts. The Goblin Hole is not quite so dangerous as those places, but it is a place only goblins could love—a steep-sided pit filled with ordure, strange fungal growths, thousands of nasty spiders, and squirming things with odd numbers of legs. In the past, adventurers have descended into the Hole and cleared out the denizens, but the goblins always return. 
 
@@ -31,7 +69,7 @@ Another adventurer encountered a band of goblins crossing through the lands east
 
 ## Getting Started 
 ### Research
-A [[skills#Society|Society]] roll (DC15) or consulting with local greybeards (such as the silver-masked mage [[Ailwin|Ailwin]] at Restwell Keep) lets the characters find out that Urgog was once a feared goblin warlord, but no one has heard of him in more than ten years. 
+A [[skills#Society|Society]] roll (DC15) or consulting with local greybeards (such as the silver-masked mage [[Ailwin]] at Restwell Keep) lets the characters find out that Urgog was once a feared goblin warlord, but no one has heard of him in more than ten years. 
 
 ### Down the Goblin Hole 
 After crossing the King’s Wall, the characters travel into the woodlands in the south of the Chaos Scar. The forests here are thick and dark, with few clear trails. In places, the trees are strangely twisted and mutated by the malign influence of the Scar. Initially, the adventurers do not encounter any threatening beasts, but they cannot escape the feeling that they are being watched by inhuman eyes in the dark of the woods. 

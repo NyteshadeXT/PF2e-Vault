@@ -77,7 +77,7 @@ TBD
 TBD
 
 ## DM Notes
-The players meet Balidor as part of the hook for [[2D - The Hammer Falls (D179) C]].
+The players meet Balidor as part of the hook for [[2D - The Hammer Falls (D179)]].
 
 ### Plot Hooks
 TBD

@@ -1,3 +1,8 @@
+---
+title: The Radiant Morn
+adventure_status: "In Progress"
+---
+
 # Background
 A few months ago, drawn by the whispers of dark power and the opportunity presented by the suffering of those living near the Scar, a devotee of Baalzebul known to his ilk as Theran of the False Truth moved into the Chaos Scar with a small band of cultists. Once situated in an abandoned cave, they set up the fake “Temple of the Radiant Morn” and began spreading a message of salvation from the anguish and terrible burdens of the world. Their message was tailored to appeal to the grief-stricken, the suffering, the outcast, and those with nothing to lose. While a few have found the relief and sympathy promised, they are but another means for the cult to propagate its lies, for in reality the temple is a web of deceit designed to spread the Lord of Lies’ influence and lure a steady stream of victims who will not be missed to their dooms. 
 

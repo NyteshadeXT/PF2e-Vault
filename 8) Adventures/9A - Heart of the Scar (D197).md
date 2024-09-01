@@ -1,3 +1,8 @@
+---
+title: Heart of the Scar
+adventure_status: "Not Started"
+---
+
 # Background
 The Far Realm is home to countless alien abominations, some of which rival the mightiest gods in power. Occasionally, these great entities clash over motives and machinations far beyond the ken of mortal minds. Rarer still, one of these terrible beings is defeated, stripped of its power, and hurled into the dark cosmos to wander the void for eternity. 
 

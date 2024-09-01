@@ -1,3 +1,8 @@
+---
+title: Reflections of Ruin
+adventure_status: "Not Started"
+---
+
 # Background
 The red dragon Maluriath was once a vain creature who spent as much time lounging atop her treasure hoard as most dragons devote to gathering followers and scheming. When she chose to expand her hoard by raiding settlements, she worked in concert with her brother, Mekkalath, who was more concerned with finding a proper lair and amassing a cadre of suitably subservient underlings. 
 

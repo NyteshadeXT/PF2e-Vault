@@ -1,3 +1,8 @@
+---
+title: The Pillar of Eyes
+adventure_status: "Not Started"
+---
+
 # Background
 
 ![[4B - The Pillar of Eyes (D180)-20240103130655661.webp|locl]]

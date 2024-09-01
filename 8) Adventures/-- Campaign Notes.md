@@ -1,1 +1,0 @@
-[[3A - The Crawling Fane (D178) C]] - From the last encounter [[fulu-of-the-stoic-ox-som|Fulu Of The Stoic Ox]] not identified.

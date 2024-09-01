@@ -1,3 +1,8 @@
+---
+title: Vanguard Tower
+adventure_status: "Done"
+---
+
 ![[4C - Vanguard Tower (D182)-20240103153832581.webp|locr]]
 [[4C - Vanguard Tower (D182)-20240103153832581.webp|show to players]]
 

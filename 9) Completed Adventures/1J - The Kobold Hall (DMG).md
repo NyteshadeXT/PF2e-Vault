@@ -1,3 +1,8 @@
+---
+title: The Kobold Hall
+adventure_status: "Done"
+---
+
 # Background 
 The ruined manor now known as Kobold Hall was once a minor lord’s proud holding, a walled keep over looking the old King’s Road. That was years ago, and the lord’s name and the glories he earned are long forgotten. Today, the place is called Kobold Hall after the malicious humanoids that infest the place. The Cloak Wood has overrun the grounds, with trees growing in the midst of abandoned gardens and courtyards. 
 
@@ -58,8 +63,8 @@ This area serves as a guardroom for the kobolds. A pit filled with sludge provid
 
 **Encounter Difficulty:** Trivial (30 xp)
 Creatures:
- - 2: [[Kobold-Scout|Kobold Scout]] (S)
- - 3: [[Kobold-Warrior|Kobold Warrior]] (K)
+ - 2: [[kobold-scout|Kobold Scout]] (S)
+ - 3: [[kobold-warrior|Kobold Warrior]] (K)
 
 ```encounter
 name: Guard Room
@@ -94,7 +99,7 @@ This chamber was once a tomb. The kobolds use the traps here to defend their lai
 
 **Encounter Difficulty:** Trivial (10 xp)
 Creatures:
- - 3: [[Kobold-Warrior|Kobold Warrior]] (K)
+ - 3: [[kobold-warrior|Kobold Warrior]] (K)
 2 dart traps (1 and 2) see below
 
 ```encounter
@@ -147,9 +152,9 @@ This chamber has been turned into an arena for games of skull-skull, the sport o
 
 **Encounter Difficulty:** Moderate (70 xp)
 Creatures:
- - 2: [[Kobold-Scout|Kobold Scout]] (S) 
- - 4: [[Kobold-Warrior|Kobold Warrior]] (M) 
- - 2: [[Shadow-Drake|Shadow Drake]] (D)
+ - 2: [[kobold-scout|Kobold Scout]] (S) 
+ - 4: [[kobold-warrior|Kobold Warrior]] (M) 
+ - 2: [[shadow-drake|Shadow Drake]] (D)
 
 ```encounter
 name: Skull-Skull
@@ -208,9 +213,9 @@ The kobold chieftain rules from this chamber. Paranoid at the thought of intrude
 
 **Encounter Difficulty:** Low (50 xp)
 Creatures:
- - 2: [[Kobold-Scout|Kobold Scout]] (S) 
- - 1: [[Kobold-Dragon-Mage|Kobold Dragon Mage]] (W) 
- - 2: [[Kobold-Warrior|Kobold Warrior]] (K)
+ - 2: [[kobold-scout|Kobold Scout]] (S) 
+ - 1: [[kobold-dragon-mage|Kobold Dragon Mage]] (W) 
+ - 2: [[kobold-warrior|Kobold Warrior]] (K)
 1 rolling boulder (T)
 
 ```encounter
@@ -266,7 +271,7 @@ Szartharrax is a tough opponent; the adventurers will have to fight well to surv
 
 **Encounter Difficulty:** Moderate (80 xp)
 Creatures:
- - 1: [[Young-White-Dragon|Young White Dragon]]
+ - 1: [[young-white-dragon|Young White Dragon]]
 
 ```encounter
 name: The True Threat

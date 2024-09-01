@@ -1,3 +1,8 @@
+---
+title: The Crossroads
+adventure_status: "Done"
+---
+
 # Background
 Just beyond the remnants of the King’s Wall, at the edge of the Chaos Scar, a dirt path leads from civilization into the heart of this dangerous valley. Right off the edge of this path sits a place known to travelers as the Crossroads (though, in truth, only the one path passes through this area). Here, at the edge of the Chaos Scar, is where the fringes of civilization and the edge of danger meet. Not coincidentally, this is also the place where those brave enough to venture even just inside the edge of the Chaos Scar come to meet with some of the more entrepreneurial inhabitants of the valley. It is just distant enough from the closest settlements and bastions of order that those of less honorable origin can come to sell their wares and services. And it is likewise just far enough from the Chaos Scar that those seeking such wares and services can come without too much fear of trouble—although this is still a lawless area. It is a rough place, like the Scar beyond it, but this waypoint is used by many adventurers (and the bravest of merchants and traders) as a final stopping place before entering the Chaos Scar proper
 

@@ -1,4 +1,7 @@
-**NOTE: This is designed in 5e and has not been updated for Pathfinder 2e!!!**
+---
+title: The Brothers Gray
+adventure_status: "Done"
+---
 
 
 

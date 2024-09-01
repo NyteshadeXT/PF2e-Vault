@@ -1,3 +1,8 @@
+---
+title: Scarblade
+adventure_status: "Not Started"
+---
+
 # Background
 The Proving Pit is used by the denizens of the Chaos Scar to settle disputes and to test themselves against the finest fighters in the area. A small shard of the meteorite that created the Chaos Scar lies hundreds of feet below the pit, imparting a mysterious power and personality to the location. Combatants are drawn to the area by a powerful urge to achieve victory through combat. Most combatants do not realize they are being impelled by an outside force. 
 

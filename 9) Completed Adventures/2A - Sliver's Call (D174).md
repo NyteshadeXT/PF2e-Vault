@@ -1,4 +1,9 @@
-**NOTE: This is designed in 5e and has not been updated for Pathfinder 2e!!!**
+---
+title: Sliver's Call
+adventure_status: "Done"
+---
+
+
 
 
 

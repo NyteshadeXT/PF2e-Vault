@@ -1,3 +1,8 @@
+---
+title: Stick in the Mud
+adventure_status: "Done"
+---
+
 # Background
 Centuries ago, a powerful goliath sorcerer named Voran Earthmane constructed a keep in the middle of a rank swamp where he could conduct his arcane research in peace. Voran conducted many experiments in the laboratory beneath his keep, mostly centered on the creation of magic items that harnessed the power of the Elemental Chaos. One of his achievements was a staff that drew strength from earth, and he called it the staff of earthen might.
 

@@ -1,3 +1,8 @@
+---
+title: Rumble in the Valley
+adventure_status: "Not Started"
+---
+
 # Background
 Kodan is an experienced hobgoblin commander, who leads a band of raiders called the Talons, so named for their hit-and-run tactics patterned after those of certain dragons. Hearing of opportunities for wealth and power, he took his band to the Chaos Scar. 
 

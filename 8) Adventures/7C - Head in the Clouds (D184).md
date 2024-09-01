@@ -1,3 +1,8 @@
+---
+title: Head in the Clouds
+adventure_status: "Not Started"
+---
+
 # Background
 The human wizard named Bolios Whittish commands a strange flying fortress carved from the head of an enormous statue and fortified with a crownlike tower. The Head in the Clouds serves as Bolios’s home and means of travel. Bolios has dedicated his life to the study of elemental spirits and the Elemental Chaos. He discovered the head in his quest for knowledge and christened it The Head in the Clouds. 
 

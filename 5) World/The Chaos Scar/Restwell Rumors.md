@@ -6,9 +6,9 @@ Here are a bunch of rumors for the Chaos Scar. Some are just general rumors, som
 4.  [[Gorn Hammerfall]], the Captain of the Guard, has found a forgotten secret chamber with his stone cunning. It contains Greysen Ramthane’s hidden treasure!
 5.  The Mages of Saruun come from Thunderspire Mountain and do business with all sorts of unsavory creatures like drow and duregar. Why does [[Lord Drysdale]] allow them to stay here? They can’t be up to any good.
 6.  There’s a human cult call the Brotherhood of the Scar that has a fortress deep in the crater.
-7.  ~~One hundred years ago a red dragon named Kerang was the terror of the Scar but a wily druid named Merlius poisoned him and then brought the mine down on his head. Word has it among the Fireclaw kobolds that Kerang may be coming back somehow! ([[1F - Some Assembly Required (D208) C]])~~
-8.  ~~The Skull Kicker kobolds usually aren't much of a problem but they've become more organized lately and have actually managed to nail a merchant caravan. ([[1J - The Kobold Hall (DMG) C]])~~
-9.  ~~There’s an old keep that predates the Scar not too far from the King’s wall. Belonged to a Goliath sorcerer from what I understand. Place is infested with Bullywugs now. ([[1A - Stick in the Mud (D171) C]])~~
+7.  ~~One hundred years ago a red dragon named Kerang was the terror of the Scar but a wily druid named Merlius poisoned him and then brought the mine down on his head. Word has it among the Fireclaw kobolds that Kerang may be coming back somehow! ([[1F - Some Assembly Required (D208)]])~~
+8.  ~~The Skull Kicker kobolds usually aren't much of a problem but they've become more organized lately and have actually managed to nail a merchant caravan. ([[1J - The Kobold Hall (DMG)]])~~
+9.  ~~There’s an old keep that predates the Scar not too far from the King’s wall. Belonged to a Goliath sorcerer from what I understand. Place is infested with Bullywugs now. ([[1A - Stick in the Mud (D171)]])~~
 10.  ~~There is a cult dedicated to something called Chitteruk not too far into the scar. Their leader, a one armed gnoll called the Hand of Chitteruk, has been capturing people and taking them away to their lair. (Den of the Slavetakers)~~
 11.  ~~A pair of Halfling bandits have been terrorizing homesteads and travelers near the Scar. Not only do they steal, they are ruthless murderers. (The Brothers Gray)~~
 12.  ~~A Cave near the King’s wall is the lair of some strange glowing drakes. They are covered with odd blisters that emit residuum when popped! (Death in the Pincers)~~
@@ -19,14 +19,14 @@ Here are a bunch of rumors for the Chaos Scar. Some are just general rumors, som
 17.  ~~The tiefling who runs the trading post at the Crossroads, Silvereye, often tries to trick and do in visitors who are obviously adventurers. ([[2G - The Crossroads (D176)]])~~
 18.  The Stone Forest is actually a series of monoliths from ancient times. Some say they’re the teeth knocked out of a primordial by Moradin’s hammer.
 19.  ~~Somewhere near the King’s Wall is the Cave of Whispers where dark secrets can be heard. (Sliver’s Call)~~
-20.  ~~Somewhere within the Scar is a forest made entirely of glass! ([[2B - The Shrine of Glass-Spire Forest (D175) C]])~~
-21.  ~~There is an old temple in the Scar. It was originally dedicated to Waukeen but was overrun by followers of Orcus. It’s abandoned now. ([[2C - Dead by Dawn (D176) C]])~~
-22.  ~~There is an old abandoned dwarven refinery within the Scar. ([[2D - The Hammer Falls (D179) C]])~~
+20.  ~~Somewhere within the Scar is a forest made entirely of glass! ([[2B - The Shrine of Glass-Spire Forest (D175)]])~~
+21.  ~~There is an old temple in the Scar. It was originally dedicated to Waukeen but was overrun by followers of Orcus. It’s abandoned now. ([[2C - Dead by Dawn (D176)]])~~
+22.  ~~There is an old abandoned dwarven refinery within the Scar. ([[2D - The Hammer Falls (D179)]])~~
 23.  The Sword Pillar is a favored place for Hobgoblins to gather and choose a new leader. The winner of the combat must thrust his vanquished opponent’s sword through the pillar.
 24.  A long time ago there used to be an elven colony in the deep woods of the Scar. A bunch of heretics or something who lived along side orcs. They were slaughtered by their own kin, though. ([[4E - Blood of Gruumsh (D210)]])
-25.  ~~There is a big old hole in the ground inside the scar known as the “goblin hole”. Can’t think of a reason anyone would want to go there unless you just hated goblins. ([[2E - Down the Goblin Hole (D280) C]])~~
-26.  ~~About fifty years ago there was a goblin war chief named Urgog who actually managed to burn down the elven wood during his reign. He got old and was eventually chased off. But there’s been increased goblin activity lately and they've been using Urgog’s name as a battle cry! ([[2E - Down the Goblin Hole (D280) C]])~~
-27.  It’s said that the Goliath sorcerer, Voran Earthman, had labs and libraries all around the Scar that were connected by teleportation. Some of the underground ones may still be intact. ([[2F - The Lost Library (D173)]])
+25.  ~~There is a big old hole in the ground inside the scar known as the “goblin hole”. Can’t think of a reason anyone would want to go there unless you just hated goblins. ([[2E - Down the Goblin Hole (D280)]])~~
+26.  ~~About fifty years ago there was a goblin war chief named Urgog who actually managed to burn down the elven wood during his reign. He got old and was eventually chased off. But there’s been increased goblin activity lately and they've been using Urgog’s name as a battle cry! ([[2E - Down the Goblin Hole (D280)]])~~
+27.  It’s said that the Goliath sorcerer, Voran Earthman, had labs and libraries all around the Scar that were connected by teleportation. Some of the underground ones may still be intact. ([[2F - The Lost Library (D173) c]])
 28.  There’s an old temple of Moradin in the Scar but nobody remembers where it was. ([[3A - The Crawling Fane (D178) C]])
 29.  An elven wizard named Vanamere and human fighter named Lethion used to live in a tower and helped protect the King’s Wall. After Lethion pass away the tower was repeatedly assaulted by orcs and ogres trying to get some treasure he buried with him. Eventually they brought a giant and the tower was destroyed, but not after Vanamere summoned a mighty storm to destroy all of them. She disappeared during that storm and became one with the tower to stay with her beloved. ([[3D - Storm Tower (D166)]])
 31.  ~~Strange, ghostly spiders have been appearing in nearby towns and making off with magic items. ([[3B - The Splintered Spring (D179) - Done]])~~

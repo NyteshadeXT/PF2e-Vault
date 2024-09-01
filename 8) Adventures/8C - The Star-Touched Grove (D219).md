@@ -1,3 +1,8 @@
+---
+title: The Star-Touched Grove
+adventure_status: "Not Started"
+---
+
 # Background
 
 

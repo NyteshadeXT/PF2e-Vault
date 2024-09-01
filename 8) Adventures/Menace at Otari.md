@@ -1,3 +1,8 @@
+---
+title: Menace at Otari
+adventure_status: "Not Started"
+---
+
 ![[Menace at Otari-20240304152521157.webp|locr]]
 
 # Getting Started

@@ -154,7 +154,7 @@ Expectation::1350
 - [x] [[undead-scourge-lokl|Undead Scourge]] [gp::350] [ilv::7]
 ##### Consumable
 - [x] [[healing-potion|Healing Potion (Lesser)]] [gp::12] [ilv::3]
-- [x] [[wounding-oil-tv|Wounding Oil]] [gp::35] [ilv::2]
+- [x] [[wounding-oil-tv|Wounding Oil]] [gp::35] [ilv::5]
 - [x] [[eidetic-potion-tv|Eidetic Potion]] [gp::40] [ilv::6]
 ##### Gold
 - [x] 45gp [gp::45]
@@ -245,20 +245,20 @@ Expectation::4000
 - [x] 15.9gp [gp::15.9]
 - [x] 75gp [gp::75]
 
-#### Level 8
+#### Level 9
 Expectation::5700
 ##### Permanent
-- [x] x4 [[weapon-potency|Weapon Potency (+1)]] [gp::48] [ilv::2] 
-- [x] [[staff-of-healing|Staff of Healing (Greater)]] [gp::470] [ilv::8]
+- [ ] x4 [[weapon-potency|Weapon Potency (+1)]] [gp::48] [ilv::2] 
+- [ ] [[staff-of-healing|Staff of Healing (Greater)]] [gp::470] [ilv::8]
 
 ##### Consumable
-- [x] [[tracking-fulu-som|Tracking Fulu]] [gp::25] [ilv::5]
-- [x] [[truth-potion|Truth Potion]] [gp::46] [ilv::6]
-- [x] [[assassin-vine-wine-tv|Assassin Vine Wine]] [gp::130] [ilv::9]
-- [x] [[leapers-elixir|Leaper's Elixir (Greater)]] [gp::55] [ilv::7]
-- [x] x2 Spell Scroll (3rd) [gp::60] [ilv::5]
-- [x] Spell Scroll (4th) [gp::70] [ilv::7]
-- [x] x3 Spell Scroll (5th) [gp::450] [ilv::9]
+- [ ] [[tracking-fulu-som|Tracking Fulu]] [gp::25] [ilv::5]
+- [ ] [[truth-potion|Truth Potion]] [gp::46] [ilv::6]
+- [ ] [[assassin-vine-wine-tv|Assassin Vine Wine]] [gp::130] [ilv::9]
+- [ ] [[leapers-elixir|Leaper's Elixir (Greater)]] [gp::55] [ilv::7]
+- [ ] x2 Spell Scroll (3rd) [gp::60] [ilv::5]
+- [ ] Spell Scroll (4th) [gp::70] [ilv::7]
+- [ ] x3 Spell Scroll (5th) [gp::450] [ilv::9]
 
 ##### Gold
 - [ ] 9.081gp [gp::9.08]

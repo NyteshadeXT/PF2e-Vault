@@ -1,3 +1,8 @@
+---
+title: Pit of Delirium
+adventure_status: "Not Started"
+---
+
 # Background
 Yalax the neogi had a run-in with some illithids in the Underdark and was driven to the surface on pain of death. Staggering from defeat and lusting for revenge, the crafty neogi sought a means to gain the advantage against his subterranean enemies and return to his demesne. Yalax found his way to the shattered caves beneath the Chaos Scar and, after months of brooding and exploring, unearthed a fragment of the meteor that crashed into the Nentir Vale and birthed the Chaos Scar. Yalax learned that he could manipulate the fragment’s psychic power and use it to bend weaker minds to his will—or break them entirely. 
 

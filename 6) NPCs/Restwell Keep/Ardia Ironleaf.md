@@ -95,7 +95,7 @@ TBD
 TBD
 
 ### Plot Hooks
-The PCs meet Ardia when she starts looking for adventures to find her missing father, Tarthias Ironleaf, as part of the hook for [[1E - The Tainted Spiral (D173) C]] adventure.  She was also found captive at the Crossroads after her trading caravan was ambushed by Hobgoblins and rescued by the players.
+The PCs meet Ardia when she starts looking for adventures to find her missing father, Tarthias Ironleaf, as part of the hook for [[1E - The Tainted Spiral (D173)]] adventure.  She was also found captive at the Crossroads after her trading caravan was ambushed by Hobgoblins and rescued by the players.
 
 ### Hidden Details
 TBD

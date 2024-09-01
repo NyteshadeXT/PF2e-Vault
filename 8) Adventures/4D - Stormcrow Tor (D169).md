@@ -1,3 +1,8 @@
+---
+title: Stormcrow Tor
+adventure_status: "Not Started"
+---
+
 ![[SCT.webp|right|550]]
 # Adventure Synopsis
 The “abandoned” tunnels beneath Stormcrow Tor comprise the quintessential small dungeon. Stories of the treasures hoarded up by the missing trio and their entourage have only grown in the telling. Heroes who hearken to these tales or are otherwise lured to the site find a collection of interesting encounters, and they learn what really happened to the original three adventurers. If they manage to press through all the way to the end, they even discover that one of the missing adventurers, Agera of the Shadow Face, yet remains beneath the Tor, though in a terrible state much changed from her original form. With perseverance, the PCs can liberate all the treasures that remain in the dungeon, though perhaps they should think twice about claiming the artifact that precipitated Stormcrow Company’s destruction.

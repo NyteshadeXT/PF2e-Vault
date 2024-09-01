@@ -1,4 +1,8 @@
-**NOTE: This is designed in 5e and has not been updated for Pathfinder 2e!!!**
+---
+title: Elves of the Valley
+adventure_status: "Done"
+---
+
 
 
 

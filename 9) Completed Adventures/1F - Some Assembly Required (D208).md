@@ -1,3 +1,8 @@
+---
+title: Some Assembly Required
+adventure_status: "Done"
+---
+
 # Background
 Over a hundred years ago, a red dragon came to the Nentir Vale to claim the territory as his own. The dragon was known as Kerang, and he was fearsome to behold. Kerang demanded tribute from the surrounding lands, razed farms, and gorged himself on livestock until the frightened populace gave in to his demands. Tales of Kerang spread from tavern to tavern. Champions came to challenge the red dragon, but Kerang dispatched them with ease. Then the druid Merlius Karnblack arrived. Merlius knew Kerang would never be taken by force alone. The clever druid watched the dragon for months until he was ready to launch his plan. 
 
@@ -16,8 +21,8 @@ As the player characters venture deeper into the mine, taking rests becomes more
 ## Kobolds 
 The kobolds have trained giant rats, which they use in battle and sometimes as mounts. Try playing up the humorous side of the kobolds. They would be downright comical if it weren’t for their malevolence. Kobold patrols travel in and out of the mine, delivering fresh supplies. If you need one, a patrol consists of
 
-[[Kobold-Scout|Kobold Scout]]
-[[Giant-Rat|Giant Rat]]
+[[kobold-scout|Kobold Scout]]
+[[giant-rat|Giant Rat]]
 
 ```encounter-table
 name: Kobold Patrol 1
@@ -150,9 +155,9 @@ The mine entrance is guarded by a stout wooden door and is barred from the insid
 
 **Light:** Bright (sunlight or lanterns). 
 
-[[Kobold-Warrior|Kobold Warrior Minion]]
-[[Kobold-Scout|Kobold Scout]]
-[[Giant-Rat|Giant Rat]]
+[[kobold-warrior|Kobold Warrior Minion]]
+[[kobold-scout|Kobold Scout]]
+[[giant-rat|Giant Rat]]
 
 ```encounter
 name: Mine Entrance Encounter
@@ -179,9 +184,9 @@ If a character looks for another entrance, read:
 
 If the party waits stealthily, the characters see kobold groups enter and exit the mine every few hours from dusk until dawn. The groups use the passphrase “Ha eltak Kerang” (“Hail Kerang” in Draconic) to enter. 
 
-**1A. Entrance:** Iron rails lead through this room and deeper into the tunnels. Refuse litters the floor here. The kobolds have fortified this antechamber with a barred door (Hardness 10, HP 40, BT 20);. Breaking the door open requires a successful DC 25 [[../../rules/actions/force-open|Force Open]]-Athletics checks. The door can be unbarred from inside the room. Murder holes have been cut into the rock around the door. 
+**1A. Entrance:** Iron rails lead through this room and deeper into the tunnels. Refuse litters the floor here. The kobolds have fortified this antechamber with a barred door (Hardness 10, HP 40, BT 20);. Breaking the door open requires a successful DC 25 [[force-open|Force Open]]-Athletics checks. The door can be unbarred from inside the room. Murder holes have been cut into the rock around the door. 
 
-**1B. Ventilation Shaft:** Fifty feet above the entrance on a steep rock wall ([[../../rules/actions/climb|Climb]]-Athletics DC 15 to climb), two large ventilation pipes are visible. Metal grates cover the shafts, but the locks are brittle and oxidized ([[skills#Athletics|Athletics]] DC 12 to break or [[skills#Thievery|Thievery]] DC 12 to pick). Inside, the shafts have maintenance ladders. Sound is amplified, so a DC 10 [[skills#Stealth|Stealth]] check is required to avoid attracting attention. The shafts open just behind the mine entrance.
+**1B. Ventilation Shaft:** Fifty feet above the entrance on a steep rock wall ([[Climb]]-Athletics DC 15 to climb), two large ventilation pipes are visible. Metal grates cover the shafts, but the locks are brittle and oxidized ([[skills#Athletics|Athletics]] DC 12 to break or [[skills#Thievery|Thievery]] DC 12 to pick). Inside, the shafts have maintenance ladders. Sound is amplified, so a DC 10 [[skills#Stealth|Stealth]] check is required to avoid attracting attention. The shafts open just behind the mine entrance.
 
 ## Tactics
 The kobolds guarding the mine entrance are vigilant. They keep the door barred unless a kobold patrol is passing through. Unless directly targeted by attacks, the guards hide at the murder holes and wait to attack until their enemies approach the door. The last kobold standing flees. 
@@ -212,8 +217,8 @@ When the kobolds attack, read:
 ## Mine Chase 
 This moving cart battle happens in a part of the mine where the tracks diverge into three sections. The characters start in the center of track 2 with kobolds on each side. The kobolds ride in four carts, each cart holding one kobold slinger and two kobold tunnelers. 
 
-[[Kobold-Warrior|Kobold Warrior Minion]]
-[[Kobold-Scout|Kobold Scout]]
+[[kobold-warrior|Kobold Warrior Minion]]
+[[kobold-scout|Kobold Scout]]
 
 ```encounter
 name: Mine Enterance Encounter
@@ -278,8 +283,8 @@ When the party approaches 3A, read:
 
 **3B. Chutes and Rock Piles:** Behind two 3-foothigh rock piles lurk the kobolds ([[skills#Perception|Perception]] DC 18 to spot the creatures). If they are not spotted, the kobolds gain a surprise round. 
 
-[[Kobold-Warrior|Kobold Warrior]]
-[[Kobold-Dragon-Mage|Kobold Dragon Mage]]
+[[kobold-warrior|Kobold Warrior]]
+[[kobold-dragon-mage|Kobold Dragon Mage]]
 
 ```encounter
 name: Deep Mine Checkpoint
@@ -308,8 +313,8 @@ When the characters enter the room, read:
 
 The rats cannot leave the pen unless someone opens the gate. Each quickblade starts 6 squares from the gate. If the pen is closed, a quickblade rushes over on its turn and opens the gate as a minor action. The rats then fight alongside the kobolds
 
-[[Kobold-Scout|Kobold Scout]]
-[[Giant-Rat|Giant Rat]]
+[[kobold-scout|Kobold Scout]]
+[[giant-rat|Giant Rat]]
 
 ```encounter
 name: Example
@@ -347,7 +352,7 @@ Treasure: At his waist, the zombie foreman carries a wand of digging and a purse
 
 5C. Ore Deposit: Undead are often drawn to mindlessly carry out the tasks they performed while living. The zombie miners mill around a rich vein of silver ore. There are several high-purity silver deposits on the rock surface. A character with a mining pick could break off five chunks worth 10 gp each. The zombies shamble toward any loud noise in the collapsed mine area. 
 
-[[Zombie-Shambler|Zombie Shambler]]
+[[zombie-shambler|Zombie Shambler]]
 
 ```encounter
 name: Example
@@ -365,9 +370,9 @@ Supply rooms in this area are used as a barracks.
 
 **6A. Main Barracks:** [[skills#Perception|Perception]] DC 8: You hear loud yipping voices in an argument behind the door. Two wyrmpriests argue over who gets to bunk closest to Jiro, the kobold wild mage favored by Kerang. They are surrounded by a few onlookers (one dragonshield and two tunnelers). Jiro’s quarters are separated behind a filthy curtain. The kobold wild mage is spending all his time in Kerang’s chamber now. If combat breaks out, the six tunnelers in area 6B awake and join the fray. 
 
-[[Kobold-Warrior|Kobold Warrior Minion]]
-[[Kobold-Warrior|Kobold Warrior]]
-[[Kobold-Dragon-Mage|Kobold Dragon Mage]]
+[[kobold-warrior|Kobold Warrior Minion]]
+[[kobold-warrior|Kobold Warrior]]
+[[kobold-dragon-mage|Kobold Dragon Mage]]
 
 ```encounter
 name: Main Barracks
@@ -402,7 +407,7 @@ When the characters come near the door, read:
 > [!note]+ Read Aloud
 > A door with a horizontal slot cut into the center is set into a small alcove ahead. The door is wrapped with a thick chain and locked with a heavy padlock. Suddenly, a frail human hand shoots out through the slot, reaching for you. In a desperate whisper, a young girl’s voice says, “Help me! Quick! Please!” 
 
-**The Cell Door:** The lock on the door is a good one ([[skills#Thievery|Thievery]] DC 20 to open), and the door is made of thick wood (Hardness 10, HP 40, BT 20). Breaking the door open requires a successful DC 24 [[../../rules/actions/force-open|Force Open]]-Athletics checks. The sound of smashing the door attracts two kobold patrols. 
+**The Cell Door:** The lock on the door is a good one ([[skills#Thievery|Thievery]] DC 20 to open), and the door is made of thick wood (Hardness 10, HP 40, BT 20). Breaking the door open requires a successful DC 24 [[force-open|Force Open]]-Athletics checks. The sound of smashing the door attracts two kobold patrols. 
 
 Zeta knows the guards have a key, and they most recently went somewhere to the south. The kobold wild mage, Jiro, currently holds the key in area 10. 
 
@@ -425,7 +430,7 @@ When the characters approach the area, read:
 
 **8A. Submerged Passage:** The green slime lies in wait under the water’s surface ten feet down the submerged passage. If the party lingers at the water’s edge for too long, the slime rushes at the combatant closest to the edge. Otherwise, it waits for victims to come to it. 
 
-[[Gray-Ooze|Gray Ooze]]
+[[gray-ooze|Gray Ooze]]
 
 ```encounter
 name: Slime Pool
@@ -453,7 +458,7 @@ The cave fishers have nested their spawn in a broken crate. The vigilant parents
 
 **9A. Storage Room:** Two cave fisher anglers perch on the 20-foot-high ledge overlooking the room. The chests and crates are remnants of the original mining operation. The kobolds have already stripped out the valuable items. The characters can still find many common items such as blankets, picks, shovels, coils of rope, and candles. The containers against the walls are stacked in such a way that a character could run 15 feet (3 squares) up the wall before having to climb the 5 feet (1 square) to the lower ledge. 
 
-[[Cave-Fisher|Cave Fisher]]
+[[cave-fisher|Cave Fisher]]
 
 ```encounter
 name: Cave Fisher Lair
@@ -502,9 +507,9 @@ Kerang’s new body stands at the center of the chamber, surrounding by rickety 
 > [!warning]
 > If the adventurers were successful in the “Hot on the Trail” encounter, Kerang’s breath weapon does not recharge, and only the effect of fiery explosion works. Other than Jiro, the dragon cares little for his minions. Jiro and the other kobolds fight to protect their master to their last breath.
 
-[[Kobold-Warrior|Kobold Warrior Minion]]
-[[Kobold-Dragon-Mage|Kobold Dragon Mage]]
-[[Kobold-Warrior|Kobold Warrior]]
+[[kobold-warrior|Kobold Warrior Minion]]
+[[kobold-dragon-mage|Kobold Dragon Mage]]
+[[kobold-warrior|Kobold Warrior]]
 
 ```encounter
 name: Example

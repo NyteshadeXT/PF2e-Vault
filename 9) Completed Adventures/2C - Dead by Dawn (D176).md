@@ -1,20 +1,20 @@
 ---
 title: Dead by Dawn
+adventure_status: "Done"
 treasures:
-  - name: Gold Coin
-    amount: 120
-    type: Gold
+  - name: Vial of Holy Water x4
+    amount: 12
+    level: 1
     completed: true
-  - name: Jentha Alinamuch
-    amount: 100
-    type: Gold
+  - name: Healing Potion (Lesser) x3
+    amount: 36
+    level: 3
     completed: false
-  - name: Poisoned Poseidon
+  - name: Gold
     amount: 100
-    type: Gold
+    level: 0
     completed: true
 ---
-
 
 # Background
 Long ago, a misguided cleric of Waukeen named Tyrik Gerithson built a small temple to his deity in the wilds of the Chaos Scar. Foolishly, Tyrik believed he could bring civilization and order to the savage land beyond the King’s Wall. Unfortunately, Waukeen does not suffer fools lightly, and the goddess did not intervene when a band of cultists devoted to the demon lord Orcus swooped down and slaughtered Tyrik Gerithson and his followers. 
@@ -88,7 +88,7 @@ Behind the great statue of Orcus, hidden in a hollow beneath a loose stone in th
 
 **Encounter Difficulty:** Trivial (30 xp)
  - 3: [[Zombie-Shambler]]
- - [[Wight|Wight]] (Garvus Harbane)
+ - [[Wight]] (Garvus Harbane)
 
 ```encounter
 name: The Rectory
@@ -232,7 +232,7 @@ Tactics The zombie soldier remains close to a zombie rotter during combat, using
 See skill challenge for more details. 
 Creatures:
  - 1: [[zombie-owlbear|Zombie Owlbear]]
- - 2: [[Zombie-Brute|Zombie Brute]]
+ - 2: [[zombie-brute|Zombie Brute]]
 
 ```encounter
 name: Zombie Siege Wave One
@@ -295,9 +295,9 @@ If the characters fight off the zombies and complete the skill challenge, they b
 
 **Encounter Difficulty:** Moderate (70 xp)
 Creatures:
- - 2: [[Plague-Zombie|Plague Zombie]]
- - 4: [[Zombie-Shambler|Zombie Shambler]]
- - 2: [[Zombie-Brute|Zombie Brute]]
+ - 2: [[plague-zombie|Plague Zombie]]
+ - 4: [[zombie-shambler|Zombie Shambler]]
+ - 2: [[zombie-brute|Zombie Brute]]
 
 ```encounter
 name: Zombie Siege Wave Two

@@ -1,3 +1,33 @@
+---
+title: The Shrine of the Glass-Spire Forest
+adventure_status: "Done"
+treasures:
+  - name: Cloak of Repute
+    amount: 15
+    level: 4
+    completed: true
+  - name: Chimera Thread
+    amount: 90
+    level: 4
+    completed: true
+  - name: Sense-Dulling Hood (Lesser)
+    amount: 40
+    level: 6
+    completed: true
+  - name: Ghoul Hide
+    amount: 220
+    level: 6
+    completed: true
+  - name: Potion of Resistance (Lesser)
+    amount: 45
+    level: 6
+    completed: true
+  - name: Gold
+    amount: 10
+    level: 0
+    completed: true
+---
+
 # Background
 Long ago, a meteor fell from the heavens and crashed into the world, carving a long valley into the earth in its fury. The energies released warped the valley, leaving bizarre terrain along with shards of meteorite scattered in its wake before finally coming to rest at the head of the valley. The meteorite’s energies attracted many powerful creatures. The region became a place of terror and warfare, for the those who controlled the meteorite or its shards gained great power. For this reason, an ancient king had the valley walled off to contain the horrors. 
 
@@ -115,7 +145,7 @@ The nestlings will climb nearby spires to reach positions where they can use spi
 **Encounter Difficulty:** Moderate (110 xp)
 Creatures:
  - 1: [[shard-slave|Shard Slave]]
- - 4: [[Glass-Guardian|Glass Guardian]]
+ - 4: [[glass-guardian|Glass Guardian]]
 
 ```encounter
 name: Shard Slave

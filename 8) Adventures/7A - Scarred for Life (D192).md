@@ -1,3 +1,8 @@
+---
+title: Scarred for Life
+adventure_status: "Not Started"
+---
+
 # Background
 Four hundred years ago, a meteor collided with the world and left a nasty gash across the face of the Nentir Vale. Unbeknownst to anyone, the meteor also carried a passenger. An ancient beholder thought that it could hitch a ride on the meteor and touch down on a new world ripe for conquest. To survive the long journey, the beholder wrapped itself in a protective coating of crystal (using a unique version of the Stasis Shell ritual, presented in Dragon 366) and rode the meteor through the depths of space. 
 
