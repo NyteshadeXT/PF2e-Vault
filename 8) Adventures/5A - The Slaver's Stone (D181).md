@@ -376,7 +376,7 @@ The harpies start the fight by using Captivating Song against enemies and then s
 
 At the start of the encounter, place the following foes on the map: 
  - 1: [[magrak-ironjaw|Magrak Ironjaw]] M
- - 2: [[orc-raider]] R
+ - 2: [[orc-raider|Orc Raider]] R
  - 2: [[hobgoblin-general|Hobgoblin General]] H
  - 6: [[goblin-archer|Goblin Archer]] A
 
@@ -384,7 +384,7 @@ At the start of the encounter, place the following foes on the map:
 name: Chain Gang
 party: Chaos Scar
 creatures:
-- 1: [[Badguy1]] 
+- 1: [[Magrak IronJaw]] 
 - 2: [[Orc Raider]]
 - 2: [[Hobgoblin General, Hobgoblin Sentry]]
 - 6: [[Goblin Archer]]

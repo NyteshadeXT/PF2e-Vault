@@ -1,6 +1,6 @@
 ---
 title: The Radiant Morn
-adventure_status: "In Progress"
+adventure_status: "Done"
 ---
 
 # Background
@@ -67,7 +67,7 @@ If the characters refuse to enter the temple’s inner chamber, confront Kalin f
 Creatures:
  - 2: [[orc-warrior|Orc Reaver]] R
  - 2: [[orc-shaman|Orc Shaman]] S
- - 2: [[otyugh|Otyugh]] O
+ - 2: [[Otyugh]] O
 
 ```encounter
 name: Entrance
@@ -110,7 +110,7 @@ The otyughs hide within the pit, waiting to attack any hero unfortunate enough t
 > In the offal pit PCs can see several items.  PCs who brave the pit can find a [[wand-of-the-pampered-pet-tv|Wand of the Pampered Pet]], a [[wand-of-mental-purification-tv|Wand of Mental Purification (Lesser)]] and an [[ice-slick-snare-pfum|Ice Slick Snare]].
 
 ## Development
-After this fight, the characters can either head back to the temple entrance ([[6B - The Radiant Morn (D183)#Encounter 2 - Fleecing the Flock]]) or they can push deeper into the temple ([[6B - The Radiant Morn (D183)#Encounter 3 - The Living Filth]]; leave encounter 3 for when the characters exit the temple).
+After this fight, the characters can either head back to the temple entrance ([[#Encounter 2 - Fleecing the Flock]]) or they can push deeper into the temple ([[#Encounter 3 - The Living Filth]]; leave encounter 3 for when the characters exit the temple).
 
 # Encounter 2 - Fleecing the Flock
 ![[Pasted image 20230530103908.png|right]]
@@ -118,7 +118,7 @@ After this fight, the characters can either head back to the temple entrance ([[
 **Encounter Difficulty:** Extreme (165 xp)
 Creatures:
  - 2: [[acolyte-of-the-radiant-morn|Acolyte of the Radiant Morn]] S
- - 9: [[cultist|Cultist]] H
+ - 9: [[Cultist]] H
 
 ```encounter
 name: Entrance
@@ -206,9 +206,9 @@ The giant whiptail centipedes are aware of the black pudding’s hunting methods
 
 **Encounter Difficulty:** Severe (70 xp)
 Creatures:
- - 2: [[nabasu|Nabasu]] R
- - 4: [[cultist|Cultist]] S
- - 4: [[otyugh|Otyugh]] O
+ - 2: [[Nabasu]] R
+ - 4: [[Cultist]] S
+ - 4: [[Otyugh]] O
  - 1: [[otyugh-elite|Theran of the False Truth]] T
 
 ```encounter

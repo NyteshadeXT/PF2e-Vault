@@ -137,7 +137,7 @@ The gnoll warfang accompanies the deathpledged gnolls, but as soon as one of the
 Creatures:
  - 1: [[imentesh|Sur-Tuuz]] B
  - 1: [[gnoll-warfang|Gnoll Warfang]] G
- - 2: [[behir|Behir]] R
+ - 2: [[Behir]] R
 
 ```encounter
 name: An Interrupted Negotiation
@@ -169,7 +169,7 @@ Shur-Tuuz fights the first part of the battle to show off to its potential clien
 The warfang stays out of the fight initially unless attacked. If Shur-Tuuz takes double digit damage from any attack, it convinces the warfang to aid it by giving the gnolls the behir for free.
 
 ## Features of the Area
-**Illumination:** The fireplace offers the primary source of illumination, though [[sunrod|Sunrod]] in sconces along the wall also provide light around the edges of the room.
+**Illumination:** The fireplace offers the primary source of illumination, though [[Sunrod]] in sconces along the wall also provide light around the edges of the room.
 
 **Bookshelves:** The bookshelves contain journals from various adventurers.  Found here are Spell scroll (3rd level) ([[rouse-skeletons-som|Rouse Skeletons]]), Spell scroll (3rd level) ([[reincarnate-apg|Reincarnate]]),  Spell scroll (4th level) ([[Zephyr Slip]]), Spell scroll (5th level) ([[wyvern-sting-aoe4|Wyvern Sting]]), Spell scroll (5th level) ([[dancing-blade-da|Dancing Blade]]),  Spell scroll (5th level) ([[plant-form|Plant Form]]) and a book titled Earthsong.  Earthsong is a treatise on environmental management and contains insights for the following spells: [[tame-som|Tame]], [[fleet-step|Fleet Step]], [[distortion-lens-da|Distortion Lens]], [[summon-lesser-servitor-som|Summon Lesser Servitor]], [[invisible-item-apg|Invisible Item]] , [[animal-form|Animal Form]], [[water-walk|Water Walk]], [[positive-attunement-som|Positive Attunement]], [[elemental-annihilation-wave-som|Elemental Annihilation Wave]] and [[insect-form|Insect Form]].
 

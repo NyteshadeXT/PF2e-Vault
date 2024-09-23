@@ -16,7 +16,7 @@ aliases: ["Purified Glowmetal Weapon"]
 
 Purified glowmetal weapons have a brilliant purple sheen to them when reflecting sunlight.
 
-Purified glowmetal has undergone a complex ritual to remove the taint of the meteroite.  Glowmetal is makes the weapon it coats magical with a +1 potency.  Additionally, when utilized in the vicinity of the Chaos Scar purified glowmetal draws on the beneficial aspects of choas.  Once per encounter when attacking a creature you may chose to reroll your attack roll.  This can be done regardless of the result of the original roll.  The results of the reroll are final.
+Purified glowmetal has undergone a complex ritual to remove the taint of the meteroite.  Glowmetal is makes the weapon it coats magical with a +1 potency.  Additionally, when utilized in the vicinity of the Chaos Scar purified glowmetal draws on the beneficial aspects of chaos.  Once per encounter when attacking a creature you may chose to reroll your attack roll.  This can be done regardless of the result of the original roll.  The results of the reroll are final.
 
 ---
 

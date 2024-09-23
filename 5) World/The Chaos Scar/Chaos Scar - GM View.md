@@ -66,7 +66,7 @@ Roll a `dice: 1d6`; on a 1-3 it is an event, on a 4-6 it is an encounter. Howeve
 9.  Steep ridge. One of the ridges of the Scar jut up suddenly and stands in the party's way. Treat like a river for purposes of getting by it.
 10.  Rain. It rains on the party for the next `dice: 1d20` miles. At the end of the day either one person can make a hard [[skills#Nature|Nature]] or [[skills#Medicine|Medicine]] check to cover for everyone, or everyone makes a moderate [[skills#Survival|Survival]] check. Failure results in one level of [[conditions#Fatigued|fatigue]] the next morning.
 
-## Encounters
+## Encounters `dice: 1d16`
 First, when there is going to be an encounter, determine if the party is within two miles of any active adventure locations. If they are then you can usually use the first encounter from that adventure as a wandering monster group. If the adventure doesn't really lend itself to its residents wandering around then just choose another type of encounter.
 
 If you'd like to roll for encounters, use this chart. It mostly references material in the various adventures for statistics. Other items use encounters from other adventures which I'll reference.

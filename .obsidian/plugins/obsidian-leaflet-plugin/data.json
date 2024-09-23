@@ -672,97 +672,6 @@
       ]
     },
     {
-      "id": "Glowstone Cavern",
-      "lastAccessed": 1723172914520,
-      "markers": [
-        {
-          "id": "ID_2bb8b8298aba",
-          "type": "Encounter",
-          "loc": [
-            -0.0027581707989565063,
-            0.01673047018549658
-          ],
-          "link": "4A - Glowstone Caverns (D177)#Encounter 1 - Vestibule",
-          "layer": "%5B%5BGlowstone%20Cavern.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.8275079955295879,
-            0.27263873526457555
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_58181b683b6a",
-          "type": "Encounter",
-          "loc": [
-            -0.008027457354778922,
-            0.018342308471941085
-          ],
-          "link": "4A - Glowstone Caverns (D177)#Encounter 2 - Bat Cave",
-          "layer": "%5B%5BGlowstone%20Cavern.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.9072313418997214,
-            0.7934953924627322
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_884ab84b09aa",
-          "type": "Encounter",
-          "loc": [
-            -0.00466348615349883,
-            0.008347105749025044
-          ],
-          "link": "4A - Glowstone Caverns (D177)#Encounter 3 - Trash Heap",
-          "layer": "%5B%5BGlowstone%20Cavern.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.41285729990045683,
-            0.4609747037039205
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_f92bfbfb4888",
-          "type": "Encounter",
-          "loc": [
-            -0.007730136581285998,
-            0.0035747312189725465
-          ],
-          "link": "4A - Glowstone Caverns (D177)#Encounter 4 - Tainted Cave",
-          "layer": "%5B%5BGlowstone%20Cavern.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.17681025295591307,
-            0.764105929096771
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "9) Completed Adventures/4A - Glowstone Caverns (D177) C.md"
-      ]
-    },
-    {
       "id": "leaflet-map",
       "locked": false,
       "lastAccessed": 1724627215154,
@@ -1522,6 +1431,97 @@
       "shapes": [],
       "files": [
         "5) World/The Chaos Scar/Chaos Scar - GM View.md"
+      ]
+    },
+    {
+      "id": "Glowstone Cavern",
+      "lastAccessed": 1727050831159,
+      "markers": [
+        {
+          "id": "ID_2bb8b8298aba",
+          "type": "Encounter",
+          "loc": [
+            -0.0027581707989565063,
+            0.01673047018549658
+          ],
+          "link": "4A - Glowstone Caverns (D177)#Encounter 1 - Vestibule",
+          "layer": "%5B%5BGlowstone%20Cavern.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8275079955295879,
+            0.27263873526457555
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58181b683b6a",
+          "type": "Encounter",
+          "loc": [
+            -0.008027457354778922,
+            0.018342308471941085
+          ],
+          "link": "4A - Glowstone Caverns (D177)#Encounter 2 - Bat Cave",
+          "layer": "%5B%5BGlowstone%20Cavern.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9072313418997214,
+            0.7934953924627322
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_884ab84b09aa",
+          "type": "Encounter",
+          "loc": [
+            -0.00466348615349883,
+            0.008347105749025044
+          ],
+          "link": "4A - Glowstone Caverns (D177)#Encounter 3 - Trash Heap",
+          "layer": "%5B%5BGlowstone%20Cavern.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.41285729990045683,
+            0.4609747037039205
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f92bfbfb4888",
+          "type": "Encounter",
+          "loc": [
+            -0.007730136581285998,
+            0.0035747312189725465
+          ],
+          "link": "4A - Glowstone Caverns (D177)#Encounter 4 - Tainted Cave",
+          "layer": "%5B%5BGlowstone%20Cavern.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.17681025295591307,
+            0.764105929096771
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "9) Completed Adventures/4A - Glowstone Caverns (D177) C.md"
       ]
     }
   ],
