@@ -1,5 +1,6 @@
 ---
 obsidianUIMode: preview
+noteType: pf2e-Spell
 cssclass: pf2e,pf2e-ritual
 tags:
 - compendium/src/pf2e/aoe5

@@ -1,5 +1,6 @@
 ---
 obsidianUIMode: preview
+noteType: pf2e-Spell
 cssclass: pf2e,pf2e-index
 ---
 # Index of Spells
@@ -175,7 +176,7 @@ cssclass: pf2e,pf2e-index
 - [Comprehend Language](comprehend-language.md)
 - [Concordant Choir](concordant-choir-som.md)
 - [Cone Of Cold](cone-of-cold.md)
-- [Confusion](confusion.md)
+- [confusion](confusion.md)
 - [Consecrate Flesh](consecrate-flesh-lokl.md)
 - [Consuming Darkness](consuming-darkness-apg.md)
 - [Contagious Idea](contagious-idea-da.md)
@@ -208,7 +209,7 @@ cssclass: pf2e,pf2e-index
 - [Dancing Shield](dancing-shield-lokl.md)
 - [Darkened Eyes](darkened-eyes.md)
 - [Darklight](darklight-som.md)
-- [Darkness](darkness.md)
+- [Darkness](%20Compendium/spells/darkness.md)
 - [Darkvision](darkvision.md)
 - [Daydreamer's Curse](daydreamers-curse-av2.md)
 - [Day's Weight](days-weight-som.md)

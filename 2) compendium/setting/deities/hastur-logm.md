@@ -24,4 +24,4 @@ aliases: ["Hastur", "The King in Yellow"]
 - **Divine Skill**: Deception
 - **Favored Weapon**: [rapier](compendium/equipment/items/rapier.md)
 - **Domains**: [glyph](compendium/setting/domains.md#Glyph), [secrecy](compendium/setting/domains.md#Secrecy), [void](compendium/setting/domains.md#Void), [wealth](compendium/setting/domains.md#Wealth)
-- **Cleric Spells**: 1st: [illusory disguise](compendium/spells/illusory-disguise.md); 4th: [confusion](compendium/spells/confusion.md); 5th: [hallucination](compendium/spells/hallucination.md)
+- **Cleric Spells**: 1st: [illusory disguise](compendium/spells/illusory-disguise.md); 4th: [confusion](confusion.md); 5th: [hallucination](compendium/spells/hallucination.md)

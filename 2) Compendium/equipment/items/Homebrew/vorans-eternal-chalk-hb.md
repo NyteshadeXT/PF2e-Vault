@@ -11,7 +11,7 @@ tags:
 aliases: ["Voren's Eternal Chalk]
 ---
 # Voren's Eternal Chalk *Item 1+*  
-[unique](rules/traits/unique.md "Unique Item Trait") [divination](rules/traits/evocation.md "Divination School Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  
+[unique](unique.md) [divination](evocation.md)  [invested](invested.md)  [magical](magical.md)  
 
 - **Bulk** —; **Usage** worn
 - **Price** 425 gp
@@ -19,7 +19,7 @@ aliases: ["Voren's Eternal Chalk]
 This golden ring is inscribed with runes symbolizing wealth and prosperity, and seems to glow slightly with tiny golden motes of light. While wearing this ring you are able to passively identify the amount and purity of gold in any item, and can gain the benefit of Andvari's Gift at will.
 
 > [!info]- GM Only
-> [cursed](rules/traits/cursed-gmg.md "Cursed Item Trait") 
+> [cursed](cursed-gmg.md) 
 > 
 > Legends say the ring is cursed to bring misfortune and destruction to whoever bears it. 
 > 

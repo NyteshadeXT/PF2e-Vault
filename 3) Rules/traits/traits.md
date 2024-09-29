@@ -100,6 +100,7 @@ cssclass: pf2e,pf2e-index
 ## Armor
 
 - [Adjusted](rules/traits/adjusted-tv.md "Adjusted Armor Trait")
+- [Adjustment](rules/traits/adjustment-lotgb.md "Adjustment Armor Trait")
 - [Aquadynamic](rules/traits/aquadynamic-tv.md "Aquadynamic Armor Trait")
 - [Bulwark](rules/traits/bulwark.md "Bulwark Armor Trait")
 - [Comfort](rules/traits/comfort.md "Comfort Armor Trait")
@@ -391,6 +392,7 @@ cssclass: pf2e,pf2e-index
 
 ## Item
 
+- [Accessible](rules/traits/accessible.md "Accessible Item Trait")
 - [Alchemical](rules/traits/alchemical.md "Alchemical Item Trait")
 - [Apex](rules/traits/apex.md "Apex Item Trait")
 - [Artifact](rules/traits/artifact-gmg.md "Artifact Item Trait")
@@ -402,6 +404,7 @@ cssclass: pf2e,pf2e-index
 - [Consumable](rules/traits/consumable.md "Consumable Item Trait")
 - [Contact](rules/traits/contact.md "Contact Item Trait")
 - [Contract](rules/traits/contract-lol.md "Contract Item Trait")
+- [Cumbersome](rules/traits/cumbersome.md "Cumbersome Item Trait")
 - [Cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")
 - [Deflecting](rules/traits/deflecting-tv.md "Deflecting Item Trait")
 - [Drug](rules/traits/drug-gmg.md "Drug Item Trait")
@@ -432,7 +435,9 @@ cssclass: pf2e,pf2e-index
 - [Precious](rules/traits/precious.md "Precious Item Trait")
 - [Processed](rules/traits/processed-tv.md "Processed Item Trait")
 - [Relic](rules/traits/relic-tv.md "Relic Item Trait")
+- [Riding Shield](rules/traits/riding-shield.md "Riding Shield Item Trait")
 - [Scroll](rules/traits/scroll.md "Scroll Item Trait")
+- 
 - [Shield Throw](rules/traits/shield-throw-tv.md "Shield Throw Item Trait")
 - [Snare](rules/traits/snare.md "Snare Item Trait")
 - [Spellgun](rules/traits/spellgun-tv.md "Spellgun Item Trait")
@@ -503,6 +508,22 @@ cssclass: pf2e,pf2e-index
 - [Metropolis](rules/traits/metropolis-gmg.md "Metropolis Settlement Trait")
 - [Town](rules/traits/town-gmg.md "Town Settlement Trait")
 - [Village](rules/traits/village-gmg.md "Village Settlement Trait")
+- [Building](rules/traits/building.md "Settlement Trait")
+- [Yard](rules/traits/yard.md "Settlement Trait")
+- [Infrastructure](rules/traits/infrastructure.md "Settlement Trait")
+- [Edifice](rules/traits/edifice.md "Settlement Trait")
+- [Residential](rules/traits/residential.md "Settlement Trait")
+- [Famous](rules/traits/famous.md "Settlement Trait")
+- [Infamous](rules/traits/infamous.md "Settlement Trait")
+- [Church](rules/traits/church.md "Settlement Trait")
+- [Discount](rules/traits/discount.md "Settlement Trait")
+- [Employer](rules/traits/employer.md "Settlement Trait")
+- [Garrison](rules/traits/garrison.md "Settlement Trait")
+- [Housing](rules/traits/housing.md "Settlement Trait")
+- [Library](rules/traits/library.md "Settlement Trait")
+- [Lodge](rules/traits/library.md "Settlement Trait")
+- [Parlor](rules/traits/parlor.md "Settlement Trait")
+- [Workshop](rules/traits/workshop.md "Settlement Trait")
 
 ## Size
 

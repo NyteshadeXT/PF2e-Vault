@@ -24,4 +24,4 @@ aliases: ["Narriseminek", "The Crownless, the Maker of Kings"]
 - **Divine Skill**: Occultism
 - **Favored Weapon**: [hatchet](compendium/equipment/items/hatchet.md)
 - **Domains**: [delirium](compendium/setting/domains.md#Delirium), [freedom](compendium/setting/domains.md#Freedom), [knowledge](compendium/setting/domains.md#Knowledge), [perfection](compendium/setting/domains.md#Perfection)
-- **Cleric Spells**: 1st: [mindlink](compendium/spells/mindlink.md); 4th: [confusion](compendium/spells/confusion.md); 5th: [synesthesia](compendium/spells/synesthesia.md)
+- **Cleric Spells**: 1st: [mindlink](compendium/spells/mindlink.md); 4th: [confusion](confusion.md); 5th: [synesthesia](compendium/spells/synesthesia.md)

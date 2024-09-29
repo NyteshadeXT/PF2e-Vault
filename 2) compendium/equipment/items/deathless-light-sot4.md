@@ -17,7 +17,7 @@ aliases: ["Deathless Light"]
 - **Bulk** L; **Usage** held in 1 hand
 - **Activate** envision
 
-This glowing piece of flesh increases the spell level of a spell with the [light](rules/traits/light.md "Light Effect Trait") trait by 1 (maximum 7) when determining whether the spell's light will shine in magical darkness or counteract a [darkness](compendium/spells/darkness.md) spell.
+This glowing piece of flesh increases the spell level of a spell with the [light](rules/traits/light.md "Light Effect Trait") trait by 1 (maximum 7) when determining whether the spell's light will shine in magical darkness or counteract a [darkness](2)%20Compendium/spells/darkness.md) spell.
 
 
 ---

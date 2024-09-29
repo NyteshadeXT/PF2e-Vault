@@ -1,5 +1,7 @@
 ---
 obsidianUIMode: preview
+noteType: pf2e-Spell
+cssclass: pf2e,pf2e-spell
 title: "Zephyr Slip"
 noteType: pf2eSpell
 cssclasses: pf2e,pf2e-spell

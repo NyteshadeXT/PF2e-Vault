@@ -16,7 +16,7 @@ aliases: ["Nightpitch"]
 - **Bulk** L; **Usage** held in 1 hand
 - **Activate** [Cast a Spell](rules/actions/cast-a-spell.md)
 
-A pellet of tar mixed with the fur of a nocturnal creature, such as a bat, nightpitch used to cast a [darkness](compendium/spells/darkness.md) spell makes the area of the darkness difficult terrain.
+A pellet of tar mixed with the fur of a nocturnal creature, such as a bat, nightpitch used to cast a [darkness](2)%20Compendium/spells/darkness.md) spell makes the area of the darkness difficult terrain.
 
 
 ---

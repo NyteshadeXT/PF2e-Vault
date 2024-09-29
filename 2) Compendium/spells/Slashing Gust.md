@@ -1,5 +1,6 @@
 ---
 obsidianUIMode: preview
+noteType: pf2e-Spell
 title: "Slashing Gust"
 notetype: pf2e-spell
 cssclasses: pf2e,pf2e-spell

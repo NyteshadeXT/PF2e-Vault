@@ -41,7 +41,7 @@ You expend a number of charges from the staff to cast a spell from its list.
 - **Price**: 900 gp
 
 - **3rd** [paralyze](compendium/spells/paralyze.md)
-- **4th** [charm](compendium/spells/charm.md), [confusion](compendium/spells/confusion.md), [suggestion](compendium/spells/suggestion.md)
+- **4th** [charm](compendium/spells/charm.md), [confusion](confusion.md), [suggestion](compendium/spells/suggestion.md)
 
 #### major staff of enchantment *Item 14*
 

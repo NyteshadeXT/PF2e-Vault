@@ -39,5 +39,6 @@ title: **Activate** [>>](../../../../3)%20Rules/core-rulebook/chapter-9-playing-
 > **Gifts:** The relic grants the following gifts.
 > • 1: [[rolling-geode|Rolling Geode]]
 > • 2: [[apothecarys-garden|Apothecary's Garden]]
+> • 3: [[grappling-vine|Grappling Vine]]
 
 *Source: Homebrew*

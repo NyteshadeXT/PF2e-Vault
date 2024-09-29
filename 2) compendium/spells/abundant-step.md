@@ -1,5 +1,6 @@
 ---
 obsidianUIMode: preview
+noteType: pf2e-Spell
 cssclasses:
   - pf2e
   - pf2e-spell

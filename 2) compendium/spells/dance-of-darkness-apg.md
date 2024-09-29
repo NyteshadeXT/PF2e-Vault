@@ -1,5 +1,6 @@
 ---
 obsidianUIMode: preview
+noteType: pf2e-Spell
 cssclass: pf2e,pf2e-spell
 tags:
 - compendium/src/pf2e/apg
@@ -16,7 +17,7 @@ aliases: ["Dance Of Darkness"]
 - 
 - **Duration**: varies
 
-You dance, [Striding](rules/actions/stride.md) up to half your Speed. At either the start or end of your [Stride](rules/actions/stride.md), you create an area of magical darkness in a 10-foot burst centered on your location. This area is filled with magical darkness that works the same way as that created by a [darkness](compendium/spells/darkness.md) spell of the same level. When you create the darkness, attempt a [Performance](compendium/skills.md#Performance) check to dance, with a standard DC for your level, to determine the duration of the darkness.
+You dance, [Striding](rules/actions/stride.md) up to half your Speed. At either the start or end of your [Stride](rules/actions/stride.md), you create an area of magical darkness in a 10-foot burst centered on your location. This area is filled with magical darkness that works the same way as that created by a [darkness](2)%20Compendium/spells/darkness.md) spell of the same level. When you create the darkness, attempt a [Performance](compendium/skills.md#Performance) check to dance, with a standard DC for your level, to determine the duration of the darkness.
 
 > [!success-degree] 
 > - **Critical Success** 1 minute

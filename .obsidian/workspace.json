@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "9) Completed Adventures/4A - Glowstone Caverns (D177) C.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -44,12 +44,24 @@
             }
           },
           {
-            "id": "f095ca3263951942",
+            "id": "cbbeee048ff2cfe5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6) NPCs/Restwell Keep/Restwell Keep.md",
+                "file": "2) Compendium/equipment/items/Homebrew/floating.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6d95315c18c7330d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3) Rules/traits/traits.md",
                 "mode": "preview",
                 "source": true
               }
@@ -106,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 333.5
   },
   "right": {
     "id": "af92dd2d359f1412",
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6) NPCs/Restwell Keep/Restwell Keep.md",
+                "file": "2) Compendium/equipment/items/Homebrew/floating.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6) NPCs/Restwell Keep/Restwell Keep.md",
+                "file": "2) Compendium/equipment/items/Homebrew/floating.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6) NPCs/Restwell Keep/Restwell Keep.md"
+                "file": "2) Compendium/equipment/items/Homebrew/floating.md"
               }
             }
           },
@@ -236,169 +248,46 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "f6ce394f0cc9eb10",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3ea758dedc37e0e8",
-        "type": "window",
-        "children": [
-          {
-            "id": "963b2b334c013ee2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "101d60ee27f66db7",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-player-view",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 4096,
-        "y": -216,
-        "width": 640,
-        "height": 672,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "c98e856b3c73800b",
-        "type": "window",
-        "children": [
-          {
-            "id": "37b002e599c02ba8",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "05c6c492c27b6ac0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2) compendium/equipment/items/sneaky-key.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 3456,
-        "y": -216,
-        "width": 640,
-        "height": 672,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "6a08ce9fa851c761",
-        "type": "window",
-        "children": [
-          {
-            "id": "a1f7e9a619b754f1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e5530dc176f8b17c",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "zz-Attachments/Chaos Scar - Player View.jpg"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 3456,
-        "y": -216,
-        "width": 640,
-        "height": 672,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "2c651fe6c9e897e2",
-        "type": "window",
-        "children": [
-          {
-            "id": "3c148de155b0dcd3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "959dec771f834af5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2) compendium/equipment/items/Homebrew/purified-glowmetal-weapon-hb.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 8,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "f095ca3263951942",
+  "active": "574bb4a989ac5c0e",
   "lastOpenFiles": [
-    "9) Completed Adventures/6B - The Radiant Morn (D183).md",
-    "9) Completed Adventures/4C - Vanguard Tower (D182).md",
-    "9) Completed Adventures/4A - Glowstone Caverns (D177) C.md",
-    "9) Completed Adventures/2F - The Lost Library (D173) c.md",
-    "9) Completed Adventures/3B - The Splintered Spring (D179) - Done.md",
-    "2) compendium/equipment/equipment.md",
-    "2) compendium/equipment/items/items.md",
-    "2) compendium/equipment/items/Homebrew/orders-covenant-hb.md",
-    "2) compendium/equipment/items/Homebrew/purified-glowmetal-weapon-hb.md",
-    "8) Adventures/2G - The Crossroads (D176).md",
-    "8) Adventures/Rescuing Riddle (See 5A).md",
-    "9) Completed Adventures/The Alchemist’s Eyrie C.md",
-    "8) Adventures/4B - The Pillar of Eyes (D180).md",
+    "zz-Attachments/Whispering Cairn.webp",
+    "zz-Attachments/Broken Portal.webp",
+    "2) Compendium/equipment/items/Homebrew/feather.md",
+    "1) Notes & In Progress Work/environmental.md",
+    "2) Compendium/equipment/items/Homebrew/enlarging.md",
+    "2) Compendium/equipment/items/Homebrew/energy-resistant.md",
+    "2) Compendium/equipment/equipment.md",
+    "2) Compendium/equipment/items/Homebrew/floating.md",
+    "1) Notes & In Progress Work/To Do List.md",
+    "Untitled.md",
+    "Dataview_Shop_Overview_Templater.md",
     "Adventure Loot.md",
-    "1) GM Screen/Loot.md",
-    "2) compendium/equipment/items/sneaky-key.md",
-    "8) Adventures/6A - Rumble in the Valley (D193).md",
+    "zz-Scripts",
+    "2) Compendium/equipment/items/Homebrew/darkness.md",
+    "1) Notes & In Progress Work/Death Dancer.md",
+    "2) Compendium/equipment/items/advancing-tv.md",
+    "2) Compendium/equipment/items/abysium-weapon-lotgb.md",
+    "2) Compendium/equipment/items/items.md",
+    "2) Compendium/equipment/items/Homebrew/tree-sap.md",
+    "2) Compendium/spells/spells.md",
+    "2) Compendium/spells/zealous-conviction.md",
+    "2) Compendium/spells/Zephyr Slip.md",
+    "2) Compendium/spells/zenith-star-logm.md",
+    "3) Rules/traits/traits.md",
+    "2) Compendium/spells/acid-arrow.md",
+    "2) Compendium/spells/achaekeks-clutch-lol.md",
+    "2) Compendium/spells/acid-splash.md",
+    "2) Compendium/spells/abundant-step.md",
     "zz-Attachments/Chaos Scar - Player View.jpg",
-    "6) NPCs/Restwell Keep/Restwell Keep.md",
-    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
-    "8) Adventures/5A - The Slaver's Stone (D181).md",
-    "8) Adventures/4D - Stormcrow Tor (D169).md",
-    "5) World/The Chaos Scar/Chaos Scar - Player View.md",
-    "1) GM Screen/Adventure Notes and ToDos.md",
-    "9) Completed Adventures/3C - The Wayward Wyrmling (D182) C.md",
+    "zz-Attachments/Mirror of Truth.webp",
+    "zz-Attachments/Manifestation of Kataklysmos.webp",
+    "zz-Attachments/Mirror Beatle Attack.webp",
+    "zz-Attachments/Stumbling Giant - Zetas Mind.webp",
+    "zz-Attachments/Forest of Forgotten Memories.webp",
     "zz-Attachments/Pasted image 20230305122457.png",
     "zz-Attachments/Chaos Scar - GM View.png",
     "zz-Attachments/Chaos Scar - GM View.png.crdownload",
-    "1) GM Screen/Party Treasure.md",
-    "2) compendium/equipment/items/tome-of-restorative-cleansing-tv.md",
     "zz-Attachments/Crossroads Image.png",
-    "zz-Attachments/Pasted image 20230307223359.png",
-    "5) World/Wellspring/Pasted image 20230307223359.png",
-    "zz-Attachments/6A - Rumble in the Valley (D193)-20240820111648698.webp",
-    "zz-Attachments/6A - Rumble in the Valley (D193)-20240820111135981.webp",
-    "zz-Attachments/Chaos Spawned Merloc.png",
-    "4) Bestiary/temp",
-    "zz-Attachments/Pasted image 20240817120426.png"
+    "4) Bestiary/temp"
   ]
 }

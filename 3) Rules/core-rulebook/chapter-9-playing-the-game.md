@@ -1158,7 +1158,7 @@ Special senses grant greater awareness that allows a creature with these senses 
 #### Darkvision and Greater Darkvision
 <sup>CRB p. 465</sup>
 
-A creature with [darkvision](rules/abilities/darkvision.md) or [greater darkvision](rules/abilities/darkvision.md) can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. Some forms of magical darkness, such as a 4th-level [darkness](compendium/spells/darkness.md) spell, block normal [darkvision](rules/abilities/darkvision.md). A creature with [greater darkvision](rules/abilities/darkvision.md), however, can see through even these forms of magical darkness.
+A creature with [darkvision](rules/abilities/darkvision.md) or [greater darkvision](rules/abilities/darkvision.md) can see perfectly well in areas of darkness and dim light, though such vision is in black and white only. Some forms of magical darkness, such as a 4th-level [darkness](2)%20Compendium/spells/darkness.md) spell, block normal [darkvision](rules/abilities/darkvision.md). A creature with [greater darkvision](rules/abilities/darkvision.md), however, can see through even these forms of magical darkness.
 
 #### Low-Light Vision
 <sup>CRB p. 465</sup>

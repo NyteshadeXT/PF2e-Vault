@@ -24,4 +24,4 @@ aliases: ["Lahkgya", "Patron of Monkeys"]
 - **Divine Skill**: Thievery
 - **Favored Weapon**: jaws or [battle axe](compendium/equipment/items/battle-axe.md)
 - **Domains**: [indulgence](compendium/setting/domains.md#Indulgence), [nature](compendium/setting/domains.md#Nature), [swarm](compendium/setting/domains.md#Swarm), [trickery](compendium/setting/domains.md#Trickery)
-- **Cleric Spells**: 1st: [fleet step](compendium/spells/fleet-step.md); 3rd: [mad monkeys](compendium/spells/mad-monkeys-apg.md); 4th: [confusion](compendium/spells/confusion.md)
+- **Cleric Spells**: 1st: [fleet step](compendium/spells/fleet-step.md); 3rd: [mad monkeys](compendium/spells/mad-monkeys-apg.md); 4th: [confusion](confusion.md)

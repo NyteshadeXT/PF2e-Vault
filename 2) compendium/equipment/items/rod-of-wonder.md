@@ -32,7 +32,7 @@ Once activated, the rod can't be activated again for `1d4` hours.
 | D% | Wondrous Effect |
 |----|-----------------|
 | 1–3 | Leaves grow from the target; they last 24 hours |
-| 4–8 | [Darkness](compendium/spells/darkness.md) |
+| 4–8 | [Darkness](2)%20Compendium/spells/darkness.md) |
 | 10–13 | A stream of 600 large and colorful butterflies pours forth, fluttering in a 20-foot burst for 2 rounds; creatures are [blinded](rules/conditions.md#Blinded) while in the cloud of butterflies |
 | 14–15 | All the target's weapons animate with the effects of the [dancing rune](compendium/equipment/items/dancing.md) |
 | 16–25 | [Lightning bolt](compendium/spells/lightning-bolt.md) |

@@ -50,7 +50,7 @@ title: [Avatar](compendium/spells/avatar.md) of Nocticula
 The Redeemer Queen smiles upon those who seek to better themselves through introspection, but she is quick to reward betrayal with a stinging rebuke.
 
 - **Minor Boon** The night sky inspires you in a specific way. Once, when you roll a failure on a [Crafting](compendium/skills.md#Crafting) or [Performance](compendium/skills.md#Performance) check under the night sky, you critically succeed instead. Nocticula typically grants this boon for a consequential piece of artwork or performance.
-- **Moderate Boon**: You draw on the power of midnight to guide you on your journeys. You gain [darkvision](rules/abilities/darkvision.md). If you already had [darkvision](rules/abilities/darkvision.md), you can cast [darkness](compendium/spells/darkness.md) once per day as a [divine](rules/traits/divine.md "Divine Tradition Trait") innate spell.
+- **Moderate Boon**: You draw on the power of midnight to guide you on your journeys. You gain [darkvision](rules/abilities/darkvision.md). If you already had [darkvision](rules/abilities/darkvision.md), you can cast [darkness](2)%20Compendium/spells/darkness.md) once per day as a [divine](rules/traits/divine.md "Divine Tradition Trait") innate spell.
 - **Major Boon**: You become an idealized version of yourself, as if created by a divine artist. You permanently gain a set of 4 ability boosts that follow the same rules as the ability boosts you gain at every 5th level.
 
 - **Minor Curse**: Midnight looms and obscures your fate. You are only able to see up to 60 feet away from you, regardless of the lighting or what senses you have.
