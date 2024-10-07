@@ -1,1 +1,2 @@
-Accessory Runes - Non-shield runes need to be added to tailor and maybe leatherworker.  Also need to check on if those can attach to something.
+Monster Hunter creatures and gear need to be built.
+

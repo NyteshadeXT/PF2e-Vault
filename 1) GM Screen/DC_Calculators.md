@@ -1,7 +1,7 @@
 ---
-rarity: 14
+rarity: 16
 skillLevel: 15
-creatureCR: 8
+creatureCR: 9
 creatureTrait: Religion
 playerLevel: 9
 taskDifficulty: 2
