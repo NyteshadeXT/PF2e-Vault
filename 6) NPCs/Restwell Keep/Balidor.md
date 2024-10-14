@@ -17,7 +17,7 @@ Occupation:
 ---
 > [!infobox]
 > **Pronounced:**  "`=this.Pronounced`"
-> ![[Balidor.png|Balidor]]
+> ![[Balidor.png]]
 > [[Balidor.png|Show Players]]
 > ###### Bio
 >  |

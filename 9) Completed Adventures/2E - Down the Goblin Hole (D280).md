@@ -1,6 +1,8 @@
 ---
 title: Down the Goblin Hole
-adventure_status: "Done"
+adventure_status: Done
+total_xp: 445
+completed_xp: 445
 treasures:
   - name: Healing Potion (Lesser)
     amount: 12
@@ -29,7 +31,7 @@ treasures:
   - name: Heartening Missive (Rabbit)
     amount: 50
     level: 6
-    completed: false   
+    completed: false
   - name: Eidetic Potion
     amount: 40
     level: 6
@@ -75,6 +77,7 @@ A [[skills#Society|Society]] roll (DC15) or consulting with local greybeards (su
 After crossing the King’s Wall, the characters travel into the woodlands in the south of the Chaos Scar. The forests here are thick and dark, with few clear trails. In places, the trees are strangely twisted and mutated by the malign influence of the Scar. Initially, the adventurers do not encounter any threatening beasts, but they cannot escape the feeling that they are being watched by inhuman eyes in the dark of the woods. 
 
 ### Goblin Ambush 
+- [x] Simple (50 XP)
 > [!tip]+ Skill Challenge - Ambushing the Ambushers
 > As they approach the Goblin Hole, characters see signs of the goblins—footprints, discarded arrowheads, small paths cut through the underbrush, and the stumps of smaller trees cut down for firewood. If the characters blunder on through the woods, then they automatically run into the goblin ambush (Encounter 1). If they proceed carefully, run the optional skill challenge, Ambushing the Ambushers. 
 > 
@@ -103,7 +106,9 @@ After crossing the King’s Wall, the characters travel into the woodlands in th
 # Encounter 1 - Goblin Ambushers
 ![[Pasted image 20230704164200.png]]
 
-**Encounter Difficulty:** Moderate (100 xp)
+**Encounter Difficulty:** 
+- [x] Moderate (100 XP)
+
 Creatures:
  - 4: [[goblin-warrior|Goblin Sniper]] G
  - 2: [[vine-lasher|Vine Lasher]] V
@@ -159,7 +164,8 @@ A clear trail leads off from the ambush site toward the Goblin Hole.
 # Encounter 2 - The Webwall
 ![[Pasted image 20230705160337.png]]
 
-**Encounter Difficulty:** Severe (155 xp)
+**Encounter Difficulty:** 
+- [x] Severe (155 XP)
 
 Once the goblin ambush in the ravine is dealt with, the characters can descend into the Goblin Hole proper—the caves under the ravine. The cave walls are covered in fungal growths and more spider webs. In places, the characters must clamber down steep and treacherous slopes, as the caves are arranged one atop the next. Each step brings the characters deeper underground. A quick retreat is impossible. 
 
@@ -244,7 +250,8 @@ While characters cling to the wall, they fight at a severe disadvantage against 
 # Encounter 3 - Spiders & Goblins & Kings
 ![[Pasted image 20230705164423.png]]
 
-**Encounter Difficulty:** Severe (140 xp)
+**Encounter Difficulty:** 
+- [x] Severe (140 XP)
 
 ## The Bottom of the Hole 
 > [!note]+ Read Aloud

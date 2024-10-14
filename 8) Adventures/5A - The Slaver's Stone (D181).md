@@ -1,6 +1,8 @@
 ---
 title: The Slaver's Stone
-adventure_status: "Not Started"
+adventure_status: Not Started
+total_xp: 700
+completed_xp: 0
 ---
 
 # Background
@@ -36,7 +38,8 @@ Zestren plans to abduct a rescued prisoner at some point during the journey and 
 ### Minor Quest : Stop Zestren’s Treachery
 Unless stopped, Zestren steals a captive and makes off for the Cloven Skull to learn what secrets he can from the oracle. The adventurers can foil this plot by uncovering his true motives or stopping him from escaping with a prisoner.
 
-**Quest XP:** 20 for each member of the group.
+**Quest XP:** 
+- [ ] Quest (20 XP) for each member of the group.
 
 ## Companions
 Two companion characters, Cluff and Zestren, plus ten minions join the characters’ adventuring group. Divide the minions between the players but consider controlling the two companion characters yourself. If you have too much to handle already, you can assign these characters to the players, but be sure to keep Zestren’s motives secret. A handout at the end of this adventure contains all the statistics for these characters. If Zestren becomes an enemy, use his statistics as given on page 11.
@@ -67,6 +70,7 @@ Two companion characters, Cluff and Zestren, plus ten minions join the character
 > 
 > ## Failure 
 > Zestren goes through with the plan. Also, add 1 cackling harpy to Tactical Encounter 2: Stone Forest.
+- [ ] Challenge (20 XP)
 
 The adventure begins in Restwell Keep. The party can be at the Keep for a variety of reasons, such as picking up supplies, gathering information about another lead, or simply taking some well-deserved downtime between expeditions. Once the adventurers conduct all their business, introduce them to Cluff Maclire. Cluff is at the following locations at the indicated times.
 
@@ -95,6 +99,8 @@ Magrak Ironjaw is a warrior, slaver, and bandit. Because of his depredations, Lo
 Reaching the Crossroads involves following the old trail toward the Chaos Scar. The characters might encounter a few locals along the way. Consider injecting one or two of the following encounters during the trek to the Crossroads.
 
 ### Escaped Prisoner
+- [ ] Low (60 XP)
+
 One of Magrak’s prisoners, a handsome young woman from Cled, escaped the wereboar. Unfortunately, Magrak dispatched his warriors to chase her down. Once the characters defeat the pursuers, then find the woman, Allysen can tell the adventurers that Magrak is headed for some place called the Slaver’s Stone, though she doesn’t know where that is. Cluff, if with the party, sends two warriors to escort her back to their lands.
 
 - 4 [[orc-raider|Orc Raider]] 
@@ -107,6 +113,7 @@ creatures:
 ```
 
 ### Howling Pack
+- [ ] Moderate (80 XP)
 A gnoll band spills across the countryside to attack the adventurers. They are undeterred by the characters’ greater numbers. The gnolls’ erratic behavior comes from the meal they made on strange mushrooms found in a nearby glade.
 
 - 4 [[gnoll-warfang|Gnoll Warfang]]
@@ -123,6 +130,7 @@ creatures:
 ```
 
 ## Roaming Dead
+- [ ] Moderate (80 XP)
 A reckless necromancer was killed when he tried to raise an undead army. The results of his foolish ritual now roam the Chaos Scar.
 
 - 1 [[tyrannosaurus-skeleton|Tyrannosaurus Skeleton]]
@@ -173,6 +181,7 @@ Alternatively, cautious adventurers might try talking (or, they might beat the n
 > 
 > ### Failure 
 > If the failure comes before combat, the bandits attack. If it comes after, the adventurers learn the same information as above, but the bandits follow them and attack while the heroes are engaged against the harpies in Tactical Encounter 2: Dung and Feathers.
+- [ ] Challenge (20 XP)
 
 ## The Stone Forest
 The Stone Forest is not an actual forest but rather a collection of monoliths set here by people unknown for purposes unknown. Some claim they are teeth liberated from a primordial’s mouth by a deft swing of Moradin’s hammer. Curious origins aside, the Stone Forest is a popular roosting place for a band of harpies, who make it their business to torment folk coming and going from the Scar. Most locals tolerate their presence and bullying demands. Magrak is just such a local, and he offered one of his captives to silence the shrieking flock.
@@ -209,6 +218,7 @@ If the characters stop [[Zestren]] and take him alive, they can get his story. U
 > 
 > ### Failure 
 > The characters find the Cloven Skull but get there too late to save Lysa. Proceed with “Seer in the Water,” below.
+- [ ] Challenge (20 XP)
 
 ### Lysa, the Prisoner
 Assuming Lysa survives, she proves helpful. She is a strong-willed woman with brown hair and blue eyes, and she wears a torn shirt and skirt. She has a fiery disposition and a no-nonsense way about her. She knows the following:
@@ -284,6 +294,7 @@ The adventure ends when the characters rescue the prisoners from Magrak or, if t
 You also have the matter of the orc chieftain. Po is angry about not getting his slaves and a little snooping around should garner him the names of the characters. He might seek revenge by attacking the adventurers later or mount an attack on Restwell Keep. If, though, the adventurers failed to rescue the prisoners, they might try to locate them and wrest them from the orc. What did he want the slaves for? Where are they? Do they still live?
 
 ## Encounter 1: Local Color
+- [ ] Low (60 XP) Level 11
 
 ![[5A - The Slaver's Stone (D181)-20240809215828479.webp]]
 
@@ -328,6 +339,7 @@ If the characters wipe out the bandits and learn nothing from them, all is not l
 > In addition to the gear carried by the captain, hunter and mage, the bandits have 2 [[healing-potion|Healing Potion (Moderate)]] and a sack of 80 gp (payment from Magrak).
 
 ## Encounter 2: Dung and Feathers
+- [ ] Moderate (80 XP) Level 11
 
 ![[5A - The Slaver's Stone (D181)-20240816223027483.webp]]
 
@@ -371,6 +383,7 @@ The harpies start the fight by using Captivating Song against enemies and then s
 > The harpies keep their wealth stashed atop one of the stones. It consists of 63 gp and 34 sp, [[enervation-apg|Spell Scroll - 4th Level (Enervation)]] and [[blood-booster-tv|Blood Booster (Moderate)]].
 
 ## Encounter 3: Chain Gang
+- [ ] Low (30 XP) Level 11
 
 ![[5A - The Slaver's Stone (D181)-20240816232439786.webp]]
 
@@ -412,6 +425,7 @@ The orcs abandon their prisoners on the first round by using ferocious charge to
 > Magrak has a sack filled with coins that includes 58 gp, 97 sp and 24 cp.
 
 ## Encounter 4: Guardians of the Skull
+- [ ] Moderate (110 XP) Level 11
 
 ![[5A - The Slaver's Stone (D181)-20240817000107777.webp]]
 
@@ -448,6 +462,7 @@ The ghouls hold positions in front of the gap, using claw or bite attacks agains
 > Scattered across the ground are 42 gp and a pouch of [[scour-gmg|Scour]].
 
 ## Encounter 5: Eyes in the Dark
+- [ ] Severe (120 XP) Level 11
 
 ![[Pasted image 20240817120426.png]]
 

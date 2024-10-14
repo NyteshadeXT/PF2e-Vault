@@ -1,10 +1,15 @@
+---
+total_xp: 460
+completed_xp: 80
+---
 # Setup
 [[Chendra]] informs the players that Zeta's mind is fractured between her true self and the lingering Chaos corruption. To cure her, they must venture into her dreamscape and help her regain control over her mind. The dreamscape represents Zeta's mental state: a surreal and shifting landscape where memories, emotions, and chaos collide.
 
 The players will be able to enter Zeta’s mind during her next sleep cycle, but [[Chendra]] warns them—if they fail, the corruption might solidify its hold, making her more unstable or even losing her entirely to Chaos.
 
 ## The Forest of Forgotten Memories
-**Encounter Difficulty:** Moderate (80 xp)
+**Encounter Difficulty:** 
+- [x] Moderate (80 XP)
 
 ![[Forest of Forgotten Memories.webp|500]]
 [[Forest of Forgotten Memories.webp|Show to Players]]
@@ -39,7 +44,8 @@ The forest is filled with obstacles and hazards tied to Zeta’s memories, creat
 **Corrupted Memory Nodes:** Occasionally, players will come across glowing spheres of chaotic energy. These represent key moments in Zeta’s corrupted memories. If destroyed (AC 18, 10 HP), they weaken the wraiths, lowering their defenses for a round following the node's destruction (reduce AC by 2).
 
 ## The Hearth Room
-**Encounter Difficulty:** Moderate (100 xp)
+**Encounter Difficulty:**
+- [ ] Moderate (100 XP)
 
 Creatures:
  - 2: [[greater-shadow|Greater Shadow]]
@@ -92,7 +98,8 @@ The **Corrupted Zeta’s Shadow** remains seated by the hearth for most of the e
 > Upon successfully pacifying or defeating Zeta’s Shadow, the hearth flame dies down, leaving behind a flickering purple crystal shard which is twisted on itself. This shard is a Twisted Shard.
 
 ## The Labyrinth of Chaos
-**Encounter Difficulty:** Moderate (80 xp)
+**Encounter Difficulty:** 
+- [ ] Moderate (80 XP)
 
 The players step through the door in the hearth and into a twisting, reality-warping labyrinth. The walls ripple with chaotic energy, constantly shifting color, texture, and even material. Pathways open and close without warning, and gravity seems to twist, making every step uncertain. The labyrinth is not just a test of physical prowess, but of wit, memory, and insight. The players must find their way through the maze. At key points, they will encounter riddles and symbols representing choices Zeta once made or was forced into. 
 
@@ -158,7 +165,8 @@ At the center of the labyrinth lies a door sealed by a complex lock, made of swi
 **Healing:**  While trapped in the Labyrinth of Chaos healing of any kind will simply not work.
 
 ## The Mirror of Truth
-**Encounter Difficulty:** Moderate (80 xp)
+**Encounter Difficulty:** 
+- [ ] Moderate (80 XP)
 
 ![[Mirror of Truth.webp|500]]
 [[Mirror of Truth.webp|Show to Players]]
@@ -205,6 +213,8 @@ creatures:
 - **The Void:** The surrounding area is a vast, dark void. While the ground is stable underfoot, the space seems endless, causing disorientation.
 
 ## The Choice
+- [ ] Severe (120 XP)
+
 After defeating Zeta's fear and breaking the mirror's hold on her, the players must confront the **Chains of Chaos** that still bind her to the lingering essence of Kataklysmos. This decision will affect not only Zeta’s fate but also the party’s ongoing struggle against Chaos.
 
 > [!note]+ Read Aloud  

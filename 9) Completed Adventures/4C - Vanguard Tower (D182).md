@@ -1,6 +1,8 @@
 ---
 title: Vanguard Tower
-adventure_status: "Done"
+adventure_status: Done
+total_xp: 300
+completed_xp: 300
 ---
 
 ![[4C - Vanguard Tower (D182)-20240103153832581.webp|locr]]
@@ -44,7 +46,8 @@ Read or paraphrase the following when the adventurers reach the base of Vanguard
 The tower is 50 feet tall, and the other floors can be accessed through windows (DC 15 [[skills#Athletics|Athletics]] check to reach each window). Coming in through the windows will change the order of the encounters but have no effect on the encounters themselves. In fact, if the heroes think to peer into the windows, feel free to give them a preview of the monsters inside the tower.
 
 # Encounter 1 - Ground Floor: Ambush in the Dark
-**Encounter Difficulty:** Low (60 xp)
+**Encounter Difficulty:** 
+- [x] Low (60 XP)
 
 ![[4C - Vanguard Tower (D182)-20240103155239598.webp|right]]
 
@@ -90,7 +93,8 @@ The duergar scouts do their best to stay to the shadows and attack. They engage 
 > With a DC 30 [[skills#Perception|Perception]] check the players find, hidden under a pile of rocks: 9 gp, 81 cp and a [[tracking-fulu-som|Tracking Fulu]]
 
 # Encounter 2 - Middle Floor: Snake Charmers
-**Encounter Difficulty:** Moderate (100 xp)
+**Encounter Difficulty:** 
+- [x] Moderate (100 XP)
 
 ![[4C - Vanguard Tower (D182)-20240104124405614.webp|right]]
 
@@ -130,7 +134,8 @@ The gnoll warfang accompanies the deathpledged gnolls, but as soon as one of the
 > The gnoll warfang is carrying a pouch containing a [[truth-potion|Truth Potion]] 10 gp and 8 cp.
 
 # Encounter 3 - Upper Floor: An Interrupted Negotiation
-**Encounter Difficulty:** Severe (140 xp)
+**Encounter Difficulty:** 
+- [x] Severe (140 XP)
 
 ![[4C - Vanguard Tower (D182)-20240104143040603.webp|right]]
 

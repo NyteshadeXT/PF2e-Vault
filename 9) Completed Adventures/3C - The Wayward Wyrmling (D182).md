@@ -1,3 +1,7 @@
+---
+total_xp: 310
+completed_xp: 310
+---
 # Background
 ![[Pasted image 20230828225940.png|right|450]]
 The crystal dragon Karonzaxus was recently slain by a group of adventurers near the Chaos Scar, and tales of the mighty deed echo through the land. However, unbeknownst to the victorious adventurers, Karonzaxus was female, and had recently become the proud mother of a single male crystal wyrmling, whom she named Taloklaxus. After the death of Karonzaxus, her killers looted her lair but did not discover the wyrmling, who was small enough to hide and avoid detection. With no choice but to fend for himself, Taloklaxus left his mother’s lair in the Chaos Scar and ventured out into the world. He would certainly have been killed and eaten by a more powerful monster but instead, the first creatures he encountered were a warband of serpentfolk from the Scintillating Scale clutch. The Venom Caller leading the group, Varza, an ambitious and progressive serpentfolk, saw the wyrmling as a sign; a sign that it was time to leave her clutch and strike out on her own. 
@@ -15,7 +19,8 @@ Taloklaxus is not an evil creature, but it now has a child’s loyalty to Varza 
 **Total Adventure Value:** 310 xp
 
 # Encounter 1 - Kobold Clearing
-**Encounter Difficulty:** Low (60 xp)
+**Encounter Difficulty:** 
+- [x] Low (60 XP)
 
 ![[Pasted image 20230829111004.png|right]]
 
@@ -63,7 +68,8 @@ When only four serpentfolk remain, a single serpentfolk will try to break away f
 **Pool:** The small pool is 2 feet deep and is difficult terrain.
 
 # Encounter 2 - The Roaring Cavern 
-**Encounter Difficulty:** Severe (120 xp)
+**Encounter Difficulty:** 
+- [x] Severe (120 XP)
 
 ![[Pasted image 20230829115350.png|right]]
 
@@ -110,7 +116,8 @@ In melee, the granitescales move into flanking positions. They won’t shy away 
 **Rushing Stream:** The stream is 3 feet deep and flowing swiftly. A character who makes an [[skills#Athletics|Athletics]] check (DC 11, or DC 21 without a running start) can leap safely across it. Any creature that enters the water suffers the following attack as an immediate reaction: +3 vs. Reflex; the target is knocked prone and is pushed 3 squares downstream toward the pit. A creature that starts its turn in the stream is pushed 3 squares downstream before it can take any other action. A prone creature in the stream must make a DC 13 [[skills#Acrobatics|Acrobatics]] or [[skills#Athletics|Athletics]] check. A creature dragged into the pit by the current can make a saving throw as normal to avoid falling into the water below.
 
 # Encounter 3 - Lair of Karonzaxus
-**Encounter Difficulty:** Severe (130 xp)
+**Encounter Difficulty:** 
+- [x] Severe (130 XP)
 
 ![[Pasted image 20230829134121.png|right|500]]
 

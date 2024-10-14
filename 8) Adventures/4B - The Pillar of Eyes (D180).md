@@ -1,6 +1,8 @@
 ---
 title: The Pillar of Eyes
-adventure_status: "Not Started"
+adventure_status: Not Started
+total_xp: 445
+completed_xp: 0
 ---
 
 # Background
@@ -32,8 +34,6 @@ One obstacle blocks the barghest from his dearest desire: his innate lethargy. F
 **In Dreams:** Strange and disturbing dreams are bothering the residents near the Scar. Now [[Chendra]] has received a warning from Tymora that the Pillar of Eyes is close to being freed and this must not happen. It must be destroyed, so she seeks out the PCs.
 
 # Running the Adventure
-**Total Adventure Value:** 445 xp
-
 -  Strange and disturbing dreams are bothering the residents near the Scar. Now Chendera has received a warning from Avandra that the Pillar of Eyes is close to being freed and this must not happen. It must be destroyed. (The Pillar of Eyes)
 
 The Pillar of Eyes is within sight of the wall enclosing the valley of the Chaos Scar, so once the characters cross, they can head straight there. How long this takes depends on where they entered the Scar.
@@ -46,7 +46,7 @@ When the adventurers can see the Pillar of Eyes, read:
 > # Investigating the Pillar
 > The most notable feature here is the pillar, though the bones might merit some investigation too. The monolith guards its secrets well, and only dedicated study can coax them forth. However, while the adventurers examine the site, goblin wolf riders slowly converge on their position. Should the characters become confused or distracted by their investigation (represented by failing the skill challenge), the goblins can get the drop on them.
 > 
-> **Level:** 6 (15 xp)
+> **Level:** 6 (15 XP)
 > **Complexity:** 2 (requires 6 successes before 3 failures)
 > **Primary Skills:**  [[skills#Arcana|Arcana]], [[skills#medicine|Medicine]], [[skills#Nature|Nature]], [[skills#Perception|Perception]] or [[skills#Survival|Survival]], [[skills#Religion|Religion]]
 > **Secondary Skills:** None
@@ -73,9 +73,11 @@ When the adventurers can see the Pillar of Eyes, read:
 > 
 > # Wolf Riders
 > Whether or not they succeed at the skill challenge, the adventurers must deal with the wolf riders, goblins charged by Foosteth to plunder explorers that wander into the area.
+- [ ] Challenge (15 XP)
 
 # Encounter 1 - Howling Host
-**Encounter Difficulty:** Low (60 xp)
+**Encounter Difficulty:**
+- [ ] Low (60 XP)
 
 ![[4B - The Pillar of Eyes (D180)-20240102170157390.webp|right]]
 
@@ -170,6 +172,7 @@ A captured goblin does not participate in combat and flees at the first opportun
 > 
 > ## Failure 
 > The adventurers stumble across the Wolf Den, whose sentries are expecting them. Add another goblin wolf rider to Encounter 2.
+- [ ] Challenge (20 XP)
 
 # The Wolf Den
 Foosteth and his goblin followers lair inside the Wolf Den, a stinking mound of dirt, debris, and fallen trees. Its single yawning entrance, littered with leavings and junk, is guarded at all times. Smoke lifts from crooked chimneys rising from the roof, but these gaps are too small to enter.
@@ -177,7 +180,8 @@ Foosteth and his goblin followers lair inside the Wolf Den, a stinking mound of 
 The interior of the hill is filthy. The walls are made from packed dirt, rocks, and branches held together with spit and excrement. The floors and ceilings are made of the same materials. Rooms are semicircular, with ceilings about half as tall as the rooms are wide.
 
 # Encounter 2 - Foosteth's Sentries (Area 1: Entrance)
-**Encounter Difficulty:** Severe (120 xp)
+**Encounter Difficulty:** 
+- [ ] Severe (120 XP)
 
 ![[4B - The Pillar of Eyes (D180)-20240102221129561.webp|right]]
 
@@ -218,7 +222,8 @@ The goblins try to fall back into the common room to retain their ranged advanta
 When not raiding and plundering, Foosteth’s troops billet in this dark chamber, with goblins along one side and the bugbears the rest. The remains of a cooking fire are in the center, with sleeping pallets strewn all around. Combat from Encounter 2 might spill into this chamber.
 
 # Encounter 3 - Things in the Dark (Area 3: The Chamber of Smells)
-**Encounter Difficulty:** Moderate (80 xp)
+**Encounter Difficulty:** 
+- [ ] Moderate (80 XP)
 
 ![[4B - The Pillar of Eyes (D180)-20240103150612027.webp|right]]
 
@@ -263,7 +268,8 @@ The madness afflicting Foosteth the Fat has infected him with intense paranoia. 
 A successful [[skills#Perception|Perception]] check reveals a 2-inch tall groove running parallel to the floor for about 10 feet. Dirt and rocks fill the gap. A Critical Success is needed to recognize the pressure plate on the floor.  A secret panel on the opposite side of the pressure plate (requiring a DC 21 [[skills#Perception|Perception]] check to find) can shut off or reset the trap. Characters can also use [[skills#Athletics|Athletics]] to jump over the trapped area if they know where it is.
 
 # Encounter 4 - Unhinged Mind (Area 5: Hall of Whispers)
-**Encounter Difficulty:** Severe (150 xp)
+**Encounter Difficulty:** 
+- [ ] Severe (150 XP)
 
 ![[4B - The Pillar of Eyes (D180)-20240103150642656.webp|right|900]]
 

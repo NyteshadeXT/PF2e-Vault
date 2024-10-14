@@ -1,23 +1,23 @@
 ---
 title: The Hammer Falls
-adventure_status: "Done"
-treasures:
-  - name: Sprite Apple (Pink)
-    amount: 16
-    level: 4
-    completed: true
+adventure_status: Done
+total_xp: 335
+completed_xp: 335
+awarded_pp: 0
+awarded_gp: 20
+awarded_sp: 36
+awarded_cp: 0
+awarded_permanent_items:
+  - name: Magma Hammer
+    ilvl: 5
+    gp: 400
   - name: Poisonous Dagger
-    amount: 150
-    level: 5
-    completed: false
+    ilvl: 5
+    gp: 150
+awarded_consumable_items:
   - name: Tentacle Potion (Lesser)
-    amount: 33
-    level: 6
-    completed: false
-  - name: Gold
-    amount: 88.78
-    level: 0
-    completed: true
+    ilvl: 6
+    gp: 33
 ---
 
 # Background
@@ -65,6 +65,7 @@ A [[skills#Society|Society]] roll (DC15) or consulting with local greybeards (su
 After crossing the King’s Wall, the characters travel into the woodlands in the south of the Chaos Scar. The forests here are thick and dark, with few clear trails. In places, the trees are strangely twisted and mutated by the malign influence of the Scar. Initially, the adventurers do not encounter any threatening beasts, but they cannot escape the feeling that they are being watched by inhuman eyes in the dark of the woods. 
 
 ### Goblin Ambush 
+- [x] Simple (50 XP)
 > [!tip]+ Skill Challenge - Ambushing the Ambushers
 > As they approach the Goblin Hole, characters see signs of the goblins—footprints, discarded arrowheads, small paths cut through the underbrush, and the stumps of smaller trees cut down for firewood. If the characters blunder on through the woods, then they automatically run into the goblin ambush (Encounter 1). If they proceed carefully, run the optional skill challenge, Ambushing the Ambushers. 
 > 
@@ -93,7 +94,9 @@ After crossing the King’s Wall, the characters travel into the woodlands in th
 # Encounter 1 - The Entrance
 ![[Pasted image 20230704164200.png]]
 
-**Encounter Difficulty:** Moderate (100 xp)
+**Encounter Difficulty:** 
+- [x] Moderate (100 XP)
+
 Creatures:
  - 4: [[goblin-warrior|Goblin Sniper]] G
  - 2: [[vine-lasher|Vine Lasher]] V
@@ -151,7 +154,9 @@ A clear trail leads off from the ambush site toward the Goblin Hole.
 
 The corrupted lava flows into this room, where the weapons are created and the bulk of the experiments performed. Several duergar work the furnaces with one of Sleed’s imps, preparing another attempt at creating a lava-infused magical weapon. With the noise from hammers, steam, and the roaring furnaces, it’s difficult for them to hear anyone approaching. They expect the sentries to alert them to any potential problems. 
 
-**Encounter Difficulty:** Low (65 xp)
+**Encounter Difficulty:** 
+- [x] Low (65 XP)
+
 Creatures:
  - 1: [[duergar-guard|Duergar Guard]] G
  - 1: [[Imp]] I
@@ -230,7 +235,9 @@ Although the characters might think they have the element of surprise as they co
 
 The characters continue down another set of stairs and hallways, finally reaching the bottom of the refinery and Sleed’s den, where the corrupted lava broke through the ground and the magical potency is at its peak. Here, Sleed works to perfect his process while Barulg stays nearby to protect him. They have been expecting intruders after hearing the commotion above and have summoned three elemental servitors to assist them in battle. 
 
-**Encounter Difficulty:** Severe (120 xp)
+**Encounter Difficulty:** 
+- [x] Severe (120 XP)
+
 Creatures:
  - 2: [[duergar-guard|Duergar Guard]] Station at enterance
  - 1: [[imp|Sleed]] S
@@ -295,3 +302,12 @@ Sleed and Barulg already know how to use the Lava Pit by harnessing the chaotic 
 
 > [!tip]+ Treasure
 > On Barulg is using a [[magma-hammer|Magma Hammer]].  He also carries 9 gp.  Found on and within Sleed's desk the players find another 20 gp, 36 sp, a *Poisonous Dagger* and *Tentacle Potion (Lesser).* 
+> - [ ] pp::0
+> - [x] gp::20
+> - [x] sp::36
+> - [ ] cp::0
+> - [x] permanent::[[not-a-link|Magma Hammer]] [ilvl::5] [gp::400]
+> - [x] permanent::[[poisonous-dagger-bb|Poisonous Dagger]] [ilvl::5] [gp::150]
+> - [x] consumable::[[tentacle-potion-tv|Tentacle Potion (Lesser)]] [ilvl::6] [gp::33]
+
+

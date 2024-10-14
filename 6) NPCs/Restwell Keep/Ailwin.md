@@ -33,7 +33,7 @@ PersonalityTrait:
 
 > [!infobox]
 > **Pronounced:**  "`=this.Pronounced`"
-> ![[Ailwin.png|Ailwin]]
+> ![[Ailwin.png]]
 > [[Ailwin.png|Show Players]]
 > ###### Bio
 >  |

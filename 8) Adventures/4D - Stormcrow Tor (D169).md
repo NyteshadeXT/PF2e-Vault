@@ -1,6 +1,8 @@
 ---
 title: Stormcrow Tor
-adventure_status: "Not Started"
+adventure_status: Not Started
+total_xp: 680
+completed_xp: 0
 ---
 
 ![[SCT.webp|right|550]]
@@ -32,7 +34,8 @@ Stormcrow Tor is at least a few days’ travel from the closest keep or walled v
 When the heroes arrive, refer to the Stormcrow Tor overview map on the following page, and Encounter 1: Entering the Tor.
 
 # Encounter T1: Entering The Tor
-**Encounter Difficulty:** Moderate (95 xp)
+**Encounter Difficulty:** 
+- [ ] Moderate (95 XP)
 
 ![[SCT E1 Map.webp]]
 
@@ -97,7 +100,8 @@ The mobile gelatinous cube doesn’t enter combat until a hero is within 3 squar
 
 
 # Encounter  T2: Fungal Cellar
-**Encounter Difficulty:** Moderate (85 xp)
+**Encounter Difficulty:** 
+- [ ] Moderate (85 XP)
 
 ![[SCT E2 Map.webp]]
 
@@ -157,7 +161,8 @@ The myconid sovereign remains behind its allies, relying on them for protection.
 > Treasure: A small, rusted iron chest is lodged in the wall of the western cave. The chest is locked (DC 18 Thievery check to open). The well-padded interior holds a [[potion-patch-tv|Potion Patch (Moderate)]] and a [[lifelink-surge-som|Spell scroll (2nd level) (Lifelink Surge)]].
 
 # Encounter T3: Mausoleum
-**Encounter Difficulty:** Severe (120 xp)
+**Encounter Difficulty:** 
+- [ ] Severe (120 XP)
 
 ![[SCT E3 Map.webp]]
 
@@ -232,6 +237,9 @@ A platinum key is hidden amid the dust in one of the coffins ([[skills#Perceptio
 
 # Encounter T4: Lightning Hall
 **Encounter Difficulty:** Varies based on Traps overcome (Level 8 Hazards 20 xp each; Level 9 Hazard 30 xp)
+- [ ] 9th (30 XP)
+- [ ] 8th (20 XP)
+- [ ] 8th (20 XP)
 
 ![[SCT E4 Map.webp]]
 
@@ -260,6 +268,7 @@ party: Chaos Scar
 creatures:
 - 4: [[Magma Scorpion]] 
 ```
+- [ ] Initial (80 XP)
 
 ```encounter
 name: Summoned Scorpion
@@ -267,6 +276,7 @@ party: Chaos Scar
 creatures:
 - 1: [[Magma Scorpion]]
 ```
+- [ ] Summons (20 XP)
 
 Agera of the Shadow Face’s paranoia led her to entrench herself behind a series of dangerous chambers. She perverted what had been Illugi Swordbreaker’s weapon practice chamber, which summoned worthy foes for Illugi to deal with, into a chamber that summons monsters, one after the next, until the enchantment is broken.
 
@@ -292,7 +302,8 @@ The brazier continues summoning additional magma scorpions until it is disabled 
 **Summoning Brazier:** The brazier summons creatures as noted under Setup and Tactics. A character can attack the brazier (hp 75); Destroying it ends the summoning effect permanently.
 
 # Encounter T6: What's My Name
-**Encounter Difficulty:** Moderate (80 xp)
+**Encounter Difficulty:** 
+- [ ] Moderate (80 XP)
 
 ![[SCT E6 Map.webp]]
 
@@ -339,7 +350,8 @@ When PCs see the chamber, read:
 **Portal:** Once activated, this portal provides instant transportation from this chamber to the portal niche in room 7. Walking through the portal is part of a move action, and those appearing on the other side can continue to move up the limit of their speed when they arrive. Those who arrive in room 7 discover the portal is apparently one way (at least at first).
 
 # Encounter T7: Stormcrow Vault Room
-**Encounter Difficulty:** Severe (130 xp)
+**Encounter Difficulty:** 
+- [ ] Severe (130 XP)
 
 ![[SCT E7 Map.webp]]
 

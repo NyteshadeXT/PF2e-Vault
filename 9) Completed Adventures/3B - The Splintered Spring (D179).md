@@ -1,3 +1,7 @@
+---
+total_xp: 315
+completed_xp: 315
+---
 ![[3B - The Splintered Spring (D179)-20240103130445894.webp|right]]
 
 # Background 
@@ -42,9 +46,11 @@ As the characters approach the center of the lake, go to [[02) Serpent Strike]]
 # Encounter 1 - Serpent Strike
 ![[Pasted image 20230726153915.png]]
 
-**Encounter Difficulty:** Moderate (90 xp)
+**Encounter Difficulty:** 
+- [x] Moderate (90 XP)
+
 Creatures:
- - 2: [[dolgaunt|Dolgaunt]] D
+ - 2: [[Dolgaunt]] D
  - 3: [[living-waterfall|Living Waterfall]]
 
 ```encounter
@@ -92,10 +98,12 @@ The crater wall is rough and easily climbable ([[skills#athletics|Athletics]] DC
 # Encounter 2 - The Foul Mire
 ![[Pasted image 20230727141737.png]]
 
-**Encounter Difficulty:** Moderate (80 xp)
+**Encounter Difficulty:** 
+- [x] Moderate (80 XP)
+
 Creatures:
- - 1: [[dolgarr|Dolgarr]] B
- - 3: [[dolgrim|Dolgrim]] W
+ - 1: [[Dolgarr]] B
+ - 3: [[Dolgrim]] W
  - 2: [[living-waterfall|Living Waterfall]] M
 
 ```encounter
@@ -161,9 +169,11 @@ The only way down from this cavern is the sinkhole into which the stream plunges
 **Sinkhole:** The center of the cavern is a rough sinkhole 30 feet in diameter, through which the stream falls. A creature that moves into the sinkhole gets a saving throw to catch the edge. On a failed save, the creature falls 40 feet to the black lake in the cavern below. Because the churning water of the stream cushions the fall, the character takes half damage from the fall. See the next encounter for details of the black lake.
 
 # Encounter 3 - The Black Lake
-**Encounter Difficulty:** Severe (145 xp)
+**Encounter Difficulty:** 
+- [x] Severe (145 XP)
+
 Creatures:
- - 4: [[dolgaunt|Dolgaunt]] D
+ - 4: [[Dolgaunt]] D
  - 2: [[ether-spider|Ether Spider]] S
  - 3: [[gray-ooze|Gray Ooze]]
 
@@ -256,7 +266,7 @@ Once the threat of the foulspawn is ended, the characters can investigate the bl
 > [!note]+ Read Aloud
 > At the farthest corner of the ledge, a foul nest of muck and bones is the dolgaunt lair. The same unearthly sigils seen in the cavern above cover the walls here, scribed in filth and dried blood. From beneath a pile of cracked and well-gnawed bones comes the gleam of gold. 
 
-The symbols here have the same effect on a character that studies them as those in the [[3B - The Splintered Spring (D179) - Done#Encounter 2 - The Foul Mire]] encounter. They have meaning only to the aberrant minds of the foulspawn, but anyone who looks at them for more than a few seconds feels noticeably uneasy. A character who insists on studying them or trying to read the symbols takes a –2 penalty to Will which lasts until the party takes an long rest. 
+The symbols here have the same effect on a character that studies them as those in the [[#Encounter 2 - The Foul Mire]] encounter. They have meaning only to the aberrant minds of the foulspawn, but anyone who looks at them for more than a few seconds feels noticeably uneasy. A character who insists on studying them or trying to read the symbols takes a –2 penalty to Will which lasts until the party takes an long rest. 
 
 In addition to treasure, the dolgaunt has cast aside the gear of the creatures whose magic it has stolen, including a fragment of an adventurer’s map. The map shows part of a series of caverns and is annotated with cramped handwriting. This cryptic introduction to a wider foulspawn cult worshiping the power at the heart of the Chaos Scar connects to upcoming adventures.
 

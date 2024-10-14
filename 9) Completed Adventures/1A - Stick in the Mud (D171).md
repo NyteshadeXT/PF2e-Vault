@@ -1,6 +1,8 @@
 ---
 title: Stick in the Mud
-adventure_status: "Done"
+adventure_status: Done
+total_xp: 400
+completed_xp: 400
 ---
 
 # Background
@@ -28,7 +30,9 @@ Read or paraphrase the following when they reach the ruins of Voran Earthmane’
 # Encounter 1 - The Ruins
 ![[Pasted image 20230824130940.png]]
 
-**Encounter Difficulty:** Moderate (80 xp)
+**Encounter Difficulty:** 
+- [x] Moderate (80 XP)
+
 Creatures:
  - 2: [[boggard-scout|Boggard Scout]]
 
@@ -67,7 +71,9 @@ wallows without hindrance.
 # Encounter 2 - The Study
 ![[Pasted image 20230824131938.png]]
 
-**Encounter Difficulty:** Severe (120 xp)
+**Encounter Difficulty:** 
+- [x] Severe (120 XP)
+
 Creatures:
  - 2: [[boggard-warrior|Boggard Warrior]]
 
@@ -109,7 +115,9 @@ The boggards here are aware of the hidden quagmire hazard in the center of the r
 # Encounter 3 - Chamber of the Frog
 ![[Pasted image 20230824132807.png]]
 
-**Encounter Difficulty:** Severe (120 xp)
+**Encounter Difficulty:** 
+- [x] Severe (120 XP)
+
 Creatures:
  - 1: [[boggard-scout|Boggard Scout]]
  - 2: [[giant-frog|Giant Frog]]
@@ -157,7 +165,9 @@ The giant frogs attack as soon as the PCs enter the  room. Each frog uses graspi
 # Encounter 4 - Vault of the Staff
 ![[Pasted image 20230824133342.png]]
 
-**Encounter Difficulty:** Unknown
+**Encounter Difficulty:** 
+- [x] Moderate (80 XP)
+
 Creatures:
  - 1: Mud Man
 

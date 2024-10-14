@@ -1,3 +1,10 @@
+---
+title: The Lost Library
+adventure_status: Done
+total_xp: 305
+completed_xp: 305
+---
+
 ![[2F - The Lost Library (D173)-20240103130230585.webp|right|900]]
 
 # Background
@@ -34,7 +41,9 @@ Characters examining the tracks outside of the cavern can make a [[skills#Percep
 # Encounter 1 - The Wyrmling's Cave
 ![[Pasted image 20230706224834.png]]
 
-**Encounter Difficulty:** Moderate (105 xp)
+**Encounter Difficulty:** 
+- [x] Moderate (105 XP)
+
 Creatures:
  - 2: [[gnoll-hunter|Gnoll Hunter]] S
  - 1: [[gnoll-sergeant|Gnoll Sergeant]] D
@@ -84,7 +93,9 @@ Kethendtir has the arrogance of youth, and at the beginning of the combat he bel
 # Encounter 2 - The Lost Library
 ![[Pasted image 20230725141839.png]]
 
-**Encounter Difficulty:** Moderate (80 xp)
+**Encounter Difficulty:** 
+- [x] Moderate (80 XP)
+
 Creatures:
  - 2: [[gnoll-cultist|Gnoll Cultist]] S
  - 1: [[gnoll-sergeant|Gnoll Sergeant]] D
@@ -144,7 +155,9 @@ The hobgoblin generals reluctantly joins Gravash in combat, moving into a flanki
 # Encounter 3 - The Inner Sanctum
 ![[Pasted image 20230725161859.png]]
 
-**Encounter Difficulty:** Severe (120 xp)
+**Encounter Difficulty:** 
+- [x] Severe (120 XP)
+
 Creatures:
  - 2: [[hobgoblin-archer|Hobgoblin Archer]] S
  - 1: [[hobgoblin-general|Nibbik]] D

@@ -1,19 +1,8 @@
 ---
 title: Dead by Dawn
-adventure_status: "Done"
-treasures:
-  - name: Vial of Holy Water x4
-    amount: 12
-    level: 1
-    completed: true
-  - name: Healing Potion (Lesser) x3
-    amount: 36
-    level: 3
-    completed: false
-  - name: Gold
-    amount: 100
-    level: 0
-    completed: true
+adventure_status: Done
+total_xp: 370
+completed_xp: 370
 ---
 
 # Background
@@ -86,7 +75,9 @@ Behind the great statue of Orcus, hidden in a hollow beneath a loose stone in th
 # Encounter 2 - The Rectory
 ![[Pasted image 20230422110913.png]]
 
-**Encounter Difficulty:** Trivial (30 xp)
+**Encounter Difficulty:** 
+- [x] Trivial (30 XP)
+
  - 3: [[Zombie-Shambler]]
  - [[Wight]] (Garvus Harbane)
 
@@ -155,7 +146,9 @@ If the characters search the adventurers’ corpses, they can identify Doran Und
 ![[Pasted image 20230422151355.png]]
 [[Pasted image 20230422151355.png|Show to Players]]
 
-**Encounter Difficulty:** Moderate (80 xp) 
+**Encounter Difficulty:** 
+- [x] Moderate (80 XP) 
+
 See skill challenge for more details.
 Creatures:
  - 2: [[Zombie-Shambler]]
@@ -175,11 +168,12 @@ When the characters reach the temple interior, read:
 > [!note]+ Read Aloud
 > Outside the temple, the forest is filled with a cacophony of agonized moaning and screaming that turns your blood to ice. Through the main entrance of the temple, you see a truly horrific sight. The forest, lit by shafts of pale moonlight, is alive with rotting corpses clawing their way free from shallow graves. You try to count their numbers, but soon realize there is little point. The undead horde appears to approach several hundred, if not several thousand, members. There is nowhere to run; stiff, shambling forms fill the landscape as far as you can see in every direction. The dubious safety of the temple is now your only hope of survival. 
 
-## Skill Challenge - Zombie Proofing the Temple
+## Skill Challenge - Zombie Proofing the 
+- [x]  Simple (40 XP)
 
 The zombies and other undead animated by the necroshard are sluggish at first, and many of them must claw their way free from the earth. This gives the characters a few precious minutes to barricade the doors and set up their defenses. Use this skill challenge to represent fortifying the temple.
 
-**Level:** 2 (40 xp)
+**Level:** 2 (40 XP)
 **Complexity:** 3 (requires 8 successes before 3 failures)
 **Primary Skills:**  [[skills#Athletics|Athletics]], [[skills#Crafting|Crafting]], [[skills#Religion|Religion]], [[skills#Thievery|Thievery]]]
 **Secondary Skills:** [[skills#Perception|Perception]]
@@ -228,7 +222,9 @@ Tactics The zombie soldier remains close to a zombie rotter during combat, using
 # Encounter 4 - Zombie Siege (First Wave)
 ![[Pasted image 20230422151428.png]]
 
-**Encounter Difficulty:** Moderate (70 xp)
+**Encounter Difficulty:** 
+- [x] Moderate (70 XP)
+
 See skill challenge for more details. 
 Creatures:
  - 1: [[zombie-owlbear|Zombie Owlbear]]
@@ -253,10 +249,11 @@ For this encounter and the next one, there are eight numbered entry points into 
 When the encounter begins, spilt the initial group of zombies into two groups of 1 grave hound, 2 zombie rotters, and 1 zombie soldier, and then roll a d8 twice (reroll duplicate rolls) to determine which two entry points the first wave of zombies breaches. 
 
 ## Skill Challenge - Shoring Up the Defenses
+- [x] Simple (40 XP)
 
 During the battle, the characters need to repair their defenses to prevent more zombies from breaking into the temple.
 
-**Level:** 2 (40 xp)
+**Level:** 2 (40 XP)
 **Complexity:** 1 (requires 4 successes before 3 failures)
 **Primary Skills:**  [[skills#Athletics|Athletics]], [[skills#Crafting|Crafting]], [[skills#Religion|Religion]], [[skills#Thievery|THievery]]]
 **Secondary Skills:** [[skills#Perception|Perception]]
@@ -293,7 +290,9 @@ If the characters fight off the zombies and complete the skill challenge, they b
 # Encounter 5 - Zombie Siege (Second Wave)
 ![[Pasted image 20230423114727.png]]
 
-**Encounter Difficulty:** Moderate (70 xp)
+**Encounter Difficulty:** 
+- [x] Moderate (70 XP)
+
 Creatures:
  - 2: [[plague-zombie|Plague Zombie]]
  - 4: [[zombie-shambler|Zombie Shambler]]
@@ -332,9 +331,11 @@ The characters could simply leave the necroshard in the temple, but its power wo
 If the characters decide to destroy the necroshard, they find it is almost impervious to attacks. However, surviving the zombie horde earns them the favor of Erathis, especially if one or more characters managed to beseech aid from the goddess during the zombie siege. A simple DC 10 Religion check grants the characters divine insight on how the necroshard can be destroyed. 
 
 ## Skill Challenge - Destroying the Necroshard
+- [x] Simple (40 XP)
+
 The altar in the temple rectory can be reconsecrated, and once the altar is again a divine conduit for the power of Waukeen, the necroshard can be destroyed by placing it on the altar and performing a ritual, represented by this skill challenge. 
 
-**Level:** 2 (40 xp)
+**Level:** 2 (40 XP)
 **Complexity:** 2 (requires 6 successes before 3 failures)
 **Primary Skills:** [[skills#Religion|Religion]]
 **Secondary Skills:** [[skills#Diplomacy|Diplomacy]], [[skills#Crafting|Crafting]]

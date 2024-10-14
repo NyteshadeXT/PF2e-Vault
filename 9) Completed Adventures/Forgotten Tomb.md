@@ -1,3 +1,7 @@
+---
+total_xp: 200
+completed_xp: 200
+---
 # Running the Adventure
 **Total Adventure Value:** 200 xp
 
@@ -58,7 +62,9 @@ When the PCs enter this room, read:
 **Skeletons:** The skeletons in the room are truly dead.  They have no items or even bits of flesh and clothing.
 
 # Encounter 2 - Through the Chill
-**Encounter Difficulty:** Severe (120 xp)
+**Encounter Difficulty:** 
+- [x] Severe (120 XP)
+
 Creatures:
  - 1: [[giant-spectral-centipede|Giant Spectral Centipede]]
 
@@ -127,5 +133,7 @@ Once the players remove the cover of the sarcophagus, read:
 
 **Braziers:** The braziers contain oil and can be lit providing the room with regular illumination.
 
+
 > [!warning]
 > If the players take the time to renew and/or reconsecrate the tomb award them 80 xp and a bonus hero card.
+- [x] Quest (80 XP)

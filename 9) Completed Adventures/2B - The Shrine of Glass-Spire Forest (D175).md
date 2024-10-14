@@ -1,31 +1,8 @@
 ---
 title: The Shrine of the Glass-Spire Forest
-adventure_status: "Done"
-treasures:
-  - name: Cloak of Repute
-    amount: 15
-    level: 4
-    completed: true
-  - name: Chimera Thread
-    amount: 90
-    level: 4
-    completed: true
-  - name: Sense-Dulling Hood (Lesser)
-    amount: 40
-    level: 6
-    completed: true
-  - name: Ghoul Hide
-    amount: 220
-    level: 6
-    completed: true
-  - name: Potion of Resistance (Lesser)
-    amount: 45
-    level: 6
-    completed: true
-  - name: Gold
-    amount: 10
-    level: 0
-    completed: true
+adventure_status: Done
+total_xp: 160
+completed_xp: 160
 ---
 
 # Background
@@ -62,7 +39,7 @@ After crossing beyond the great wall, a half-day’s travel brings the character
 
 Shattered glass litters the ground and gives off strange reflections due to the oddly angled spires.  Navigating this forest is going to be a difficult and dangerous process.
 
-**Level:** 2 (40 xp)
+**Level:** 2 (40 XP)
 **Complexity:** 3 (requires 8 successes before 3 failures)
 **Primary Skills:**  Acrobatics, Arcana, Athletics, Lore (Appropriate Subskill), Nature, Perception, Stealth
 **Secondary Skills:** Survival, Medicine
@@ -102,7 +79,9 @@ Shattered glass litters the ground and gives off strange reflections due to the 
 
 The glass guardians emerge from the spires and attack when the characters approach the shrine. If the party failed the skill challenge, there will be an additional glass guardian, and there may be two additional glass guardian nestlings if they weren’t thrown off the party’s trail. 
 
-**Encounter Difficulty:** Trivial (50 xp)
+**Encounter Difficulty:** 
+- [x] Trivial (50 XP)4
+
 Creatures:
  - 1: [[glass-guardian|Glass Guardian]]
  - 2: [[glass-guardian-nestling|Glass Guardian Nestling]]
@@ -142,7 +121,9 @@ The nestlings will climb nearby spires to reach positions where they can use spi
 # Encounter 2 - Shard Slave of the Glass Spire Shrine
 ![[Pasted image 20230416102726.png]]
 
-**Encounter Difficulty:** Moderate (110 xp)
+**Encounter Difficulty:** 
+- [x] Moderate (110 XP)
+
 Creatures:
  - 1: [[shard-slave|Shard Slave]]
  - 4: [[glass-guardian|Glass Guardian]]

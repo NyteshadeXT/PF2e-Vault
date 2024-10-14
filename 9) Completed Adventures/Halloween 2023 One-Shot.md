@@ -1,3 +1,7 @@
+---
+total_xp: 205
+completed_xp: 205
+---
 [[Pumpkin Queen's Realm.png|Show Players]]
 ![[Pumpkin Queen's Realm.png|right|600]]
 
@@ -5,7 +9,8 @@
 The Halloween Queen is drawn to the strange powers of the Chaos Scar each year on All Hollow's Eve.  Last season, she stumbled upon the PCs and found them to be interesting.  They handled her "trick" with relative ease which she has found to not be an easy feat for most.  She has decided to actively seek them out this season and whisk them into her realm of never ending Halloween for a new, more dangerous, trick.  She, of course, knows that with every good trick must come a good treat!
 
 # Running the Adventure
-**Total Adventure Value:** 140 xp
+**Total Adventure Value:** 
+- [x] Total (205 XP)
 
 **The Portal:** The queen will attempt to pull the players into her realm by temporarily changing an existing doorway or entrance into a portal to her realm. Should that not be an option she will influence the nearby terrain to grow a portal enticing the PCs to her.
 

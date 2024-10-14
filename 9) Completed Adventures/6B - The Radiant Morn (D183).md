@@ -1,6 +1,8 @@
 ---
 title: The Radiant Morn
-adventure_status: "Done"
+adventure_status: Done
+total_xp: 495
+completed_xp: 495
 ---
 
 # Background
@@ -24,7 +26,8 @@ A beggar, Limping Johann, approaches the characters to barter something he heard
 ### An Unknown Quantity
 [[Chendra]] is unsettled by the rumors she has heard of a “Temple of the Radiant Morn” springing up within the Chaos Scar. She has never before heard of any such religious group and fears that it could be up to no good, despite its message of charity and brotherly love. What’s more, he has heard from beggars in town that some of their friends who went to the temple “ just for a look” have never come back. That could be nothing—but if the characters find themselves traveling near the temple and have a chance to look into it, he would like to know what’s really going on. Optionally, characters might themselves overhear beggars discussing this situation and swapping theories about the disappearances. 
 
-**Quest XP:** 50 XP for routing or destroying the cult (including Theran) and bringing news of it to Chendera.
+**Quest XP:** 
+- [x] Quest (50 XP) for routing or destroying the cult (including Theran) and bringing news of it to Chendera.
 
 ### The Missing Merchant
 [[Bosco Heldam]] approaches the characters and tries to hire them as muscle for his “big score.” He confides in them that there’s treasure to be had out at the Temple of the Radiant Morn, and he intends to have it. This information came to him through “reliable channels” which he refuses to share. 
@@ -33,7 +36,8 @@ Don’t make the offer too attractive; it should be clear that he’s an amateur
 
 A week or more after the characters turn him down, his friends or wife approach the characters to ask for help because the merchant has never been gone this long before. The characters could also be approached without ever having seen or heard the merchant, after his disappearance.0
 
-**Quest XP:** 50 XP for bringing the merchant home alive.
+**Quest XP:** 
+- [x] Ques (50 XP) for bringing the merchant home alive.
 
 ## Getting Started
 After hearing a few rumors or being approached by NPCs, characters might try to dig up their own information on the Temple of the Radiant Morn by making [[skills#Religion|Religion]] and [[skills#Diplomacy|Diplomacy]] checks. Although the name implies some connection to Lathander, no player character trying a [[skills#Religion|Religion]] check recalls ever hearing of a temple calling itself the Radiant Morn (but be sure to purse your lips and think about this for a moment before announcing the result of the roll). A DC 14 [[skills#Diplomacy|Diplomacy]] check with a [[gather-information|Gather Information]] action, however, finds plenty of locals willing to confirm that the temple’s disciples work to relieve the suffering of the worst off, and a DC 18 check finds one who can give reasonably clear directions to its location. 
@@ -63,7 +67,9 @@ If the characters refuse to enter the temple’s inner chamber, confront Kalin f
 # Encounter 1 - A Warm Reception
 ![[Pasted image 20230530103159.png|right]]
 
-**Encounter Difficulty:** Extreme (140 xp)
+**Encounter Difficulty:** 
+- [x] Extreme (140 XP)
+
 Creatures:
  - 2: [[orc-warrior|Orc Reaver]] R
  - 2: [[orc-shaman|Orc Shaman]] S
@@ -115,7 +121,9 @@ After this fight, the characters can either head back to the temple entrance ([[
 # Encounter 2 - Fleecing the Flock
 ![[Pasted image 20230530103908.png|right]]
 
-**Encounter Difficulty:** Extreme (165 xp)
+**Encounter Difficulty:** 
+- [x] Extreme (165 XP)
+
 Creatures:
  - 2: [[acolyte-of-the-radiant-morn|Acolyte of the Radiant Morn]] S
  - 9: [[Cultist]] H
@@ -163,7 +171,9 @@ The worshipers are not evil; most of them are no more than beggars and wanderers
 # Encounter 3 - The Living Filth
 ![[Pasted image 20230530135959.png|right]]
 
-**Encounter Difficulty:** Low (20 xp)
+**Encounter Difficulty:** 
+- [x] Low (20 XP)
+
 Creatures:
  - 1: [[black-pudding|Black Pudding]] B
  - 3: [[giant-whiptail-centipede|Giant Whiptail Centipede]] H
@@ -204,7 +214,9 @@ The giant whiptail centipedes are aware of the black pudding’s hunting methods
 # Encounter 4 - The Lord of Flies
 ![[Pasted image 20230530155114.png|right]]
 
-**Encounter Difficulty:** Severe (70 xp)
+**Encounter Difficulty:** 
+- [x] Severe (70 XP)
+
 Creatures:
  - 2: [[Nabasu]] R
  - 4: [[Cultist]] S

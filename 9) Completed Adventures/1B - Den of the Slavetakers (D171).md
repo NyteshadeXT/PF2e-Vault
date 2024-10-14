@@ -1,6 +1,8 @@
 ---
 title: Den of the Slavetakers
 adventure_status: "Done"
+total_xp: 400
+completed_xp: 400
 ---
 
 

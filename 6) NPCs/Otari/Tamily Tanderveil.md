@@ -22,7 +22,7 @@ Age: Young Adult
 
 > [!infobox]
 > **Pronounced:**  "`=this.Pronounced`"
-> ![[Tamily Tanderveil.webp|Tamily Tanderveil]]
+> ![[Tamily Tanderveil.webp]]
 > [[Tamily Tanderveil.webp|Tamily Tanderveil|Show Players]]
 > ###### Bio
 >  |

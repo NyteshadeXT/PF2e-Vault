@@ -3,7 +3,7 @@
 -   ~~200 gold offered for anyone who can bring justice to Kevmar Windsnap and another 200 gold for finding his sister, [[6) NPCs/Restwell Keep/Zeta Windsnap]]. See the bailiff, [[Kendon Longstrider]] for more details. ([[1F - Some Assembly Required (D208)]])~~**~~
 -   ~~Debt collectors wanted! Doran owes me 100 gold and I intend to see that collected. See [[Nerrin Silverhand]] if you want a cut. ([[2C - Dead by Dawn (D176)]])~~
 -   ~~A reward for any brave soul willing to clear out the Goblin Hole. See [[Kendon Longstrider]] for more details. ([[2E - Down the Goblin Hole (D280)]])~~
--   ~~Good-hearted heroes wanted to recover the Cup of Chance which was stolen from the temple of Tymora. See [[Chendra]] for more details. ([[3B - The Splintered Spring (D179) - Done]])~~
+-   ~~Good-hearted heroes wanted to recover the Cup of Chance which was stolen from the temple of Tymora. See [[Chendra]] for more details. ([[3B - The Splintered Spring (D179)]])~~
 -   ~~[[Lord Drysdale]] offers 1,000 gold for anyone who can eliminate the beholder Shur-Tuuz. The successful party can collect from [[Lord Drysdale]] personally. ([[4C - Vanguard Tower (D182)]])
 -   Wanted for Murder, Robbery, Assault and other crimes: Keljack and his ogre companion. Lord Criswell offers 2,500 gold for his head and 500 for the ogre. ([[7A - Scarred for Life (D192)]])
 -   Lord Criswell offers 200 gold for the capture of Bolios the Elementalist and Master Vyen offers 1,000gp for the return of a book he stole called Azael’s Elemental Travels. ([[7C - Head in the Clouds (D184)]])
@@ -15,11 +15,11 @@
 1.  ~~[[Bergen]] lost a green dragon hide on that caravan the Skull Kickers hit. He's offering a reward to whomever can get it back. [[1J - The Kobold Hall (DMG)]])~~
 2.  ~~[[Ardia Ironleaf]] is offering a reward to anyone who can find her lost father, a merchant who sometimes travels close to the wall. He was last seen in the vicinity of the glowing cave. (The Tainted Spiral)~~
 3.  ~~The Cragbottom brothers decided to check out the old refinery to see if they could get it going again. They were ambushed by duergar! Only [[Balidor]] survived and he’ll pay anyone who can bring him his brothers or proof of their fate. ([[2D - The Hammer Falls (D179)]])~~
-4.  ~~A underworld dragon has been spotted raiding the countryside. The farmers have gathered a reward for anyone who can eliminate it. ([[2F - The Lost Library (D173) c]])~~
-5.  ~~The druid [[Lofinor]] is offering to pay 10gp for each venom sack from one of the large insects that have been spotted near the King’s Wall. ([[3A - The Crawling Fane (D178) C]])~~
-6.  ~~[[Gorn Hammerfall]],  a devout follower of of Moradin, is searching for the Hammer of Ivak that was located in an old temple of Moradin that existed before the star fell. He’ll give a reward to anyone who can bring him the relic. ([[3A - The Crawling Fane (D178) C]])~~
-7.  ~~Erim Haverlan and his two sons are woodcutters who have been crossing into the scar to get better material. They haven’t returned and Erim’s wife is offering a reward for anyone who can find him or his remains. ([[3C - The Wayward Wyrmling (D182) C]])~~
-8.  ~~[[Bergen]] crafted fine armor from the scales of Karonzaxus. He believes some more scales may be in her lair and he will pay anyone who can bring back enough to make a shield or suit of armor. ([[3C - The Wayward Wyrmling (D182) C]])~~
+4.  ~~A underworld dragon has been spotted raiding the countryside. The farmers have gathered a reward for anyone who can eliminate it. ([[2F - The Lost Library (D173)]])~~
+5.  ~~The druid [[Lofinor]] is offering to pay 10gp for each venom sack from one of the large insects that have been spotted near the King’s Wall. ([[3A - The Crawling Fane (D178)]])~~
+6.  ~~[[Gorn Hammerfall]],  a devout follower of of Moradin, is searching for the Hammer of Ivak that was located in an old temple of Moradin that existed before the star fell. He’ll give a reward to anyone who can bring him the relic. ([[3A - The Crawling Fane (D178)]])~~
+7.  ~~Erim Haverlan and his two sons are woodcutters who have been crossing into the scar to get better material. They haven’t returned and Erim’s wife is offering a reward for anyone who can find him or his remains. ([[3C - The Wayward Wyrmling (D182)]])~~
+8.  ~~[[Bergen]] crafted fine armor from the scales of Karonzaxus. He believes some more scales may be in her lair and he will pay anyone who can bring back enough to make a shield or suit of armor. ([[3C - The Wayward Wyrmling (D182)]])~~
 
 ## Saruun Guildhall
 1.  ~~The Guildhall can always use more residuum. [[Ailwin]] will pay 40 gold per ounce of residuum the party can acquire. (Death in the Pincers)~~

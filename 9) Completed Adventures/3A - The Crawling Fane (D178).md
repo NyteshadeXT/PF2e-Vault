@@ -1,3 +1,7 @@
+---
+total_xp: 375
+completed_xp: 375
+---
 # Background
 Hargash Bitterblade is a rather eccentric duergar. He has forsaken the worship of the proper duergar gods and instead worships a bizarre entity he calls Chitteruk, which claims dominion over vermin and all things that creep and crawl. Years ago, Hargash fled a large duergar city to escape certain death for his heresy and devotion to his alien god. He and a few of his more fervent followers traveled many years through the Underdark until, finally, the entity that Hargash serves sent him a dream. The dream provided the location of a long-forgotten temple dedicated to the dwarven god Moradin. Hargash was commanded to re-sanctify the temple in the name of Chitteruk. 
 
@@ -24,7 +28,9 @@ Read or paraphrase the following when the characters reach the above-ground temp
 
 ![[Pasted image 20230725225316.png]]
 
-**Encounter Difficulty:** Low (75 xp)
+**Encounter Difficulty:** 
+- [x] Low (75 XP)
+
 Creatures:
  - 2: [[centipede-swarm|Centipede Swarm]]
  - 3: [[web-lurker|Web Lurker]]
@@ -67,7 +73,9 @@ The chasm drops 30 feet to the floor of the temple ruins below. It is fairly eas
 # Encounter 2 - Ancient Rectory
 ![[Pasted image 20230726082332.png]]
 
-**Encounter Difficulty:** Low (60 xp)
+**Encounter Difficulty:** 
+- [x] Low (60 XP)
+
 Creatures:
  - 2: [[duergar-sharpshooter|Duergar Sharpshooter]] S
  - 4: [[web-lurker|Web Lurker]] F
@@ -128,7 +136,9 @@ The ironbound doors are thick and heavy but unlocked.
 # Encounter 3 - The Hall of Honored Dead
 ![[Pasted image 20230726090249.png]]
 
-**Encounter Difficulty:** Low (120 xp)
+**Encounter Difficulty:** 
+- [x] Low (120 XP)
+
 Creatures:
  - 2: [[ogre-spider|Ogre Spider]] S
  - 1: [[web-lurker|Web Lurker]] E
@@ -199,7 +209,9 @@ The hammer’s head is shaped like an anvil and the steel gleams with a bluish t
 # Encounter 4 - The Profaned Chapel
 ![[Pasted image 20230726110633.png]]
 
-**Encounter Difficulty:** Severe (120 xp)
+**Encounter Difficulty:** 
+- [x] Severe (120 XP)
+
 Creatures:
  - 1: [[ogre-spider|Ogre Spider]] D
  - 2: [[giant-scorpion|Giant Scorpion]] S

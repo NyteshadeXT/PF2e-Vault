@@ -1,3 +1,7 @@
+---
+total_xp: 455
+completed_xp: 455
+---
 ![[4A - Glowstone Caverns (D177)-20240103130536049.webp|right|400]]
 
 # Background
@@ -41,7 +45,8 @@ darkMode: false
 
 
 # Encounter 1 - Vestibule
-**Encounter Difficulty:** Moderate (95 xp)
+**Encounter Difficulty:** 
+- [x] Moderate (95 XP)
 
 ![[Pasted image 20230830164356.png]]
 
@@ -103,7 +108,8 @@ If the fight is going poorly (more than half the defenders are down, or the glow
 > The hexer carries a staff sheathed in [[glowmetal-weapon-hb|Glowmetal Staff]]. This functions as a +1 magic staff but is tainted by the influence of the meteorite. The hexer also possesses a [[madstone-hb|Madstone]], a treated nodule of glowmetal.
 
 # Encounter 2 - Bat Cave
-**Encounter Difficulty:** Moderate (90 xp)
+**Encounter Difficulty:** 
+- [x] Moderate (90 XP)
 
 ![[Pasted image 20230830164532.png|right]]
 
@@ -146,7 +152,8 @@ If the goblins are alerted to intruders in other areas, they mount their bats an
 **Stalagmites and Stalactites:** Stalagmites are 2 to 4 feet high. They are difficult terrain and provide cover. Stalactites provide cover for flying creatures within 10 feet of the ceiling.
 
 # Encounter 3 - Trash Heap
-**Encounter Difficulty:** Moderate (100 xp)
+**Encounter Difficulty:** 
+- [x] Moderate (100 XP)
 
 ![[4A - Glowstone Caverns (D177)-20240102155630080.webp|right]]
 
@@ -201,7 +208,8 @@ A creature can jump onto the table (DC 7 [[skills#Athletics|Athletics]]). Creatu
 > Rooting through the heaps of garbage and (including the remains of the trash hulk) uncovers a flask that turns out not to be empty. It contains a [[healing-potion|Healing Potion (Moderate)]]. In addition, the goblin mess cooks are carrying a total of 15 gp and 9 sp. Nothing in the kitchen is fit to eat, but the cleavers can serve as handaxes and the carving knives as daggers.
 
 # Encounter 4 - Tainted Cave
-**Encounter Difficulty:** Severe (140 xp) + Skill Challenge (30 xp)
+**Encounter Difficulty:** 
+- [x] Severe (140 XP) 
 
 ![[4A - Glowstone Caverns (D177)-20240102155659720.webp|right]]
 
@@ -258,6 +266,7 @@ Glork does not hesitate to pull corrupt minions from the mass whenever she can. 
 The corrupt goblin cutters and warriors gang up on a single enemy and take advantage of goblin tactics to achieve flanking positions, using the goblin mass to help flank when they can. They don’t have the survival instinct of normal goblins, though, and do not retreat even when the odds are heavily against them.
 
 ## Skill Challenge - Plugging the Leak
+- [x] Simple (30 XP)
 
 The characters try to temporarily seal the planar wound to limit the influence of the meteorite until a permanent solution can be found.
 

@@ -1,5 +1,6 @@
 # Encounter Title
-**Encounter Difficulty:** difficulty (xxx xp)
+**Encounter Difficulty:**   
+- [ ] difficulty (xxx XP) Level xxx
 
 ![[image]]
 
@@ -16,3 +17,9 @@ creatures:
 ```
 
 Description
+
+
+## Tactics
+
+
+## Features of the Area

@@ -1,6 +1,8 @@
 ---
 title: Death in the Pincers
 adventure_status: "Done"
+total_xp: 400
+completed_xp: 400
 ---
 
 

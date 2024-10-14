@@ -1,9 +1,9 @@
 ---
-title: A Chance Encounter
+title: Some Assembly Required
 adventure_status: "Done"
+total_xp: 400
+completed_xp: 400
 ---
-
-
 
 # Adventure Hooks
 

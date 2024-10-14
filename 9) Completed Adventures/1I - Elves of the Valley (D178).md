@@ -1,6 +1,8 @@
 ---
 title: Elves of the Valley
 adventure_status: "Done"
+total_xp: 400
+completed_xp: 400
 ---
 
 

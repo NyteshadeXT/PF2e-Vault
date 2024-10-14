@@ -18,7 +18,7 @@ Occupation:
 
 > [!infobox]
 > **Pronounced:**  "`=this.Pronounced`"
-> ![[Sorik Orvash.png|Sorik Orvash]]
+> ![[Sorik Orvash.png]]
 > [[Sorik Orvash.png|Show Players]]
 > ###### Bio
 >  |

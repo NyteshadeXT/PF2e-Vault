@@ -1,6 +1,8 @@
 ---
 title: The Kobold Hall
-adventure_status: "Done"
+adventure_status: Done
+total_xp: 240
+completed_xp: 240
 ---
 
 # Background 
@@ -11,7 +13,8 @@ Several kobold tribes dwell within the ruins, hiding in the multitude of tunnels
 Use one of the hooks below to set up the backstory for the adventurers, or create your own. You don’t need a lot of details; you just need enough to explain why the PCs are together and why they are heading out to investigate Kobold Hall. 
 
 # Running the Adventure
-**Total Adventure Value:** 240 xp
+**Total Adventure Value:** 
+- [x] Total (240 XP)
 
 ## Adventure Hooks
 

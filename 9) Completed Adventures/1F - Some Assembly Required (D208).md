@@ -1,6 +1,8 @@
 ---
 title: Some Assembly Required
 adventure_status: "Done"
+total_xp: 800
+completed_xp: 800
 ---
 
 # Background

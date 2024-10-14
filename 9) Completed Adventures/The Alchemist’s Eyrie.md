@@ -1,3 +1,7 @@
+---
+total_xp: 590
+completed_xp: 590
+---
 # Background
 Durzh is—well, was—a renowned dwarven alchemist who hailed from a nearby dwarven stronghold. Paranoid, surly, and antisocial, Durzh was nonetheless one of the most brilliant minds the dwarves had in the realm of alchemy.
 
@@ -37,7 +41,8 @@ The following text describes the environment in which The Alchemist’s Eyrie ta
 ![[The Alchemist’s Eyrie-20240321224206418.webp]]
 
 ## Outside & Approaching
-**Encounter Difficulty:** Moderate (80 xp)
+**Encounter Difficulty:** 
+- [x] Moderate (140 XP)
 
 Read or paraphrase the following when the characters first see the tower:
 > [!note]+ Read Aloud
@@ -129,7 +134,8 @@ The shelves along the wall are all very soldierly, which basically means that no
 > If the players have accompanied the giants in here, this is where the will spring the ambush.  Their sergeant Gnash from [[#Area 6 Kitchen|Area 6 Kitchen]] will join the combat in the second round if he was not notified by the goblin or in the first if he was.
 
 # Area 6: Kitchen
-**Encounter Difficulty:** Moderate (90 xp)
+**Encounter Difficulty:** 
+- [x] Moderate (90 XP)
 
 > [!note]+ Read Aloud
 > Against the northwest portion of the wall is a set of shelves holding a great variety of pots and pans. The wall adjoining the dining room is where the oven and stove are. The last fire in the oven has been out for several hours.
@@ -171,7 +177,7 @@ A large part of this machinery is designed to provide power to the turret on top
 The machinery is not entirely closed off; mechanics needed to be able to access this area to perform maintenance. There are a few small crawlways on each level, but no one larger than a dwarf can crawl in more than a few feet. Dwarves and smaller creatures can laboriously make their way all through the tower machinery.
 
 # Area 10: Artillery Room 
-**Encounter Difficulty:** Trivial (40 xp +30 if the dwarf is saved)
+**Encounter Difficulty:** Trivial (40 XP +30 if the dwarf is saved)
 This is the main defensive area of the tower, and as such, it has a trap in the stairwell to help prevent its capture if someone breaches the main gate.
 
 > [!note]+ Read Aloud
@@ -205,7 +211,8 @@ If the players search the bodies they find a key on a successful [[skills#Percep
 The footlockers have all been plundered.
 
 # Area 13: Occupied Bunk Room
-**Encounter Difficulty:** Trivial (30 xp if the dwarf is rescued)
+**Encounter Difficulty:** 
+- [x] Trivial (30 XP if the dwarf is rescued)
 
 > [!note]+ Read Aloud
 > Another standard dwarven bunk room. Each room has two beds, a pair of footlockers, and a table with two chairs. 
@@ -229,6 +236,7 @@ The door to this room is locked ([[skills#Thievery|Thievery]] DC 21).
 
 > [!tip]+ Treasure
 > The candelabra is of fine quality (worth 5 gp), and in one of the dresser drawers is a small bag containing a gold necklace with a pendant emblazoned with a dragon (valued at 30 gp).
+> - [x] gp::35
 
 #  Area 15: Washroom
 > [!note]+ Read Aloud
@@ -239,7 +247,8 @@ The shower is dwarven sized and utilizes icy mountain stream water.
 ![[The Alchemist’s Eyrie-20240321224021990.webp]]
 
 # Area 16: Storeroom
-**Encounter Difficulty:** Severe (120 xp)
+**Encounter Difficulty:** 
+- [x] Severe (120 XP)
 
 > [!note]+ Read Aloud
 > This open area houses a bunch of supplies for the tower. Foodstuffs, ale, water, linen, maintenance materials: It’s all here, arranged neatly and clearly labeled (in Dwarven). 
@@ -272,9 +281,19 @@ This is a locked ([[skills#Thievery|Thievery]] DC 18) steel-bar cage in which th
 > Two casks of acid (sixteen [[acid-flask|Acid Flask (Moderate)]] worth )
 > 
 > There is also a strongbox ([[skills#Thievery|Thievery]] DC 21) that opens with the same key used for the door to the NCO’s quarters. It holds roughly 10 gp.
+> - [x] gp::10
+> - [x] consumable::[[thunderstone|Thunderstone (Moderate) x18]] [ilvl::3] [gp::180]
+> - [ ] 
+> - [x] consumable::[[alchemists-fire|Alchemist's Fire (Moderate)]] [ilvl::6] [gp::33]
+> - [x] consumable::[[tindertwig|Tindertwig]] [ilvl::6] [gp::33]
+> - [x] consumable::[[sunrod|Sunrod]] [ilvl::6] [gp::33]
+> - [x] consumable::[[smokestick|Smokestick]] [ilvl::6] [gp::33]
+> - [x] consumable::[[tanglefoot-bag|Tanglefoot Bag]] [ilvl::6] [gp::33]
+> - [x] consumable::[[acid-flask|Acid Flask (Moderate)]] [ilvl::6] [gp::33]
 
 # Area 18: Alchemy Stores
-**Encounter Difficulty:** Severe (120 xp)
+**Encounter Difficulty:** 
+- [x] Severe (120 XP)
 
 This is where Durzh keeps his raw materials. There is a lot of wildly varied stuff in here: iron filings, alum, pure vinegar, weak acids and bases, and all sorts of concoctions that only an alchemist would be interested in. There are also containers of insects, worms, and a slough of anatomical bits dissected from various creatures, everything from a cat’s tongue to bat ears to strips of the intestine of a destrachan. There is a single sprig of belladonna.
 
@@ -296,7 +315,8 @@ creatures:
 ![[The Alchemist’s Eyrie-20240321223923350.webp]]
 
 # Area 19: The Lab
-**Encounter Difficulty:** Severe (120 xp)
+**Encounter Difficulty:** 
+- [x] Severe (120 XP)
 
 > [!note]+ Read Aloud
 > This is where Durzh did his work. The entire area is filled with tubes, glassware, and assorted bizarre machinery. The mechanical contraptions in the center of the room allow for the automatic stirring, shaking, and agitation of various experiments. Much of the equipment has been damaged.

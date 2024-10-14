@@ -1,3 +1,7 @@
+---
+total_xp: 700
+completed_xp: 700
+---
 # Background
 Around six months ago, a band of goblins and hobgoblins discovered an abandoned dungeon beneath a small hill in the chaos scar. They explored the ruin and began converting it to their needs, intent on using it as their own center of power.
 
@@ -55,7 +59,9 @@ darkMode: false
 ```
 
 # Wandering Guard
-**Encounter Difficulty:** None (5 xp)
+**Encounter Difficulty:** 
+- [x] None (5 XP)
+
 Creatures:
  - 1: [[goblin-commando|Goblin Commando]]
 
@@ -79,7 +85,8 @@ The best locations to encounter this guard include the following:
 	✦ Corridor (area 14, combat alerts monsters in area 18)
 
 # Area 1 - Palisade
-**Encounter Difficulty:** None (5 xp)
+**Encounter Difficulty:** 
+- [x] None (5 XP)
 
 A tall wall surrounds Slaark’s Crown.
 
@@ -96,7 +103,8 @@ The creatures in area 2 don’t expect guests. They are resting and engaged in i
 **Walls and Gate:** Climbing the wall or gate requires successful DC 15 [[skills#Athletics|Athletics]] checks. The double-door gate is 10 feet wide, 10 feet tall, and barred on the inside ([[skills#Athletics|Athletics]]  DC 30 to break). It has the following properties: Hardness 10, 40 hit points and a break threshold of 20.
 
 # Area 2 - Yard
-**Encounter Difficulty:** Moderate (115 xp)
+**Encounter Difficulty:** 
+- [x] Moderate (115 XP)
 
 Wolf riders patrol this area.
 
@@ -119,7 +127,7 @@ If the players use skill checks, they need to make three consecutive successful 
 Creatures:
  - 1: [[hobgoblin-general|Hobgoblin General]]
  - 1: [[dire-wolf|Dire Wolf]]
- - 2: [[wolf|Wolf]]
+ - 2: [[Wolf]]
  - 2: [[goblin-commando|Goblin Commando]]
  - 4: [[twig-blight|Twig Blight]]
 
@@ -148,7 +156,7 @@ When characters examine the stables, read:
 > [!note]+ Read Aloud
 > Numerous wolf prints run through and around these ramshackle wooden lean-tos, with one set of prints noticeably larger than the others. A half-eaten deer lies on bloodstained soil nearby.
 
-The number of stables indicates that Slaark commands more goblins than those present in [[2H - Slaark's Crown (D220) C#Area 2 - Yard]].
+The number of stables indicates that Slaark commands more goblins than those present in [[#Area 2 - Yard]].
 
 # Area 4 - Storage Hut
 This simple outbuilding is used for storage.
@@ -159,7 +167,7 @@ When characters explore the hut, read:
 > [!note]+ Read Aloud
 > Within this simple hut are many tools, empty barrels and crates, rope, and other bits of gear. A large pile of firewood fills half the hut.
 
-Slaark’s troops stow items here for which they have no immediate need. The firewood is to be used in the boiling oil room ([[2H - Slaark's Crown (D220) C#Area 6]]).
+Slaark’s troops stow items here for which they have no immediate need. The firewood is to be used in the boiling oil room ([[#Area 6]]).
 
 # Area 5 - Upper Stair
 The stair leads to the first underground level of Slaark’s Crown.
@@ -180,7 +188,8 @@ If the characters examine the doors from the inside, they discover that the lock
 **Ceiling:** 10 feet high in the stair chamber.
 
 # Area 6 - Boiling Oil Room
-**Encounter Difficulty:** Moderate (110 xp)
+**Encounter Difficulty:** 
+- [x] Moderate (110 XP)
 
 The door to this room is hidden from view outside the hill. Smoke streams from a vent in the hill above it. Discovering the door requires a successful DC 15 Perception check.
 
@@ -250,7 +259,9 @@ When characters see into the mess hall, read:
 **Bone Piles:** The bone piles are difficult terrain. If characters poke through the jumbled piles of bones, they can identify four human skulls, a dwarf skull, a halfling skull, and animal skulls.
 
 # Level 1: Area 8 - Prison
-**Encounter Difficulty:** Moderate (110 xp)
+**Encounter Difficulty:** 
+- [x] Moderate (110 XP)
+
 The door to this room is locked, and it requires a successful DC 15 Thievery check to open.
 
 When characters enter the prison, read:
@@ -291,7 +302,8 @@ Thrak is the prison overseer, and he’s suspicious of intruders. If the charact
 A beholder gauth named Krilgathis ventured into Slaark’s Crown through the fissure (area 9) a few months ago, when it heard activity in the dungeon. The gauth allied with Slaark. It helps keep guard in exchange for torturing and eating prisoners. Krilgathis might join negotiations here, but its sadistic predilections mean that if it participates, it probably has only negative effects on the conversation. The gauth has little loyalty to the goblins. It flees through area 9 if the fight looks lost.
 
 # Level 1: Area 9 - Fissure
-**Encounter Difficulty:** Low (60 xp)
+**Encounter Difficulty:** 
+- [x] Low (60 XP)
 
 A long, narrow fissure in the rock connects this area of the dungeon to the level below and with the Underdark far beneath it.
 
@@ -317,7 +329,8 @@ creatures:
 **The Fissure:** This fissure opens into area 8. It descends and slices between area 14 and area 17. From there, it continues on into the Underdark, deep beneath Slaark’s Crown. The fissure walls are uneven stone, providing plenty of handholds and footholds (DC 10 [[skills#Athletics]] to climb).
 
 # Level 1: Area 10 - Barracks
-**Encounter Difficulty:** Moderate (80 xp)
+**Encounter Difficulty:** 
+- [x] Moderate (80 XP)
 
 The guards’ barracks are simple but functional.
 
@@ -448,13 +461,14 @@ When characters explore west of the traps, read:
 > [!note]+ Read Aloud
 > The end of the corridor was once a room, but at some time in the past, the floor and ceiling split apart, causing the front wall of the room to collapse. The area is filled with stone debris of all sizes that tumbled from the ceiling and walls. Fissures in the floor and ceiling lead up to the level above and down into darkness.
 
-See [[2H - Slaark's Crown (D220) C#Level 1 Area 9 - Fissure]] for more on the fissure.
+See [[#Level 1 Area 9 - Fissure]] for more on the fissure.
 
 ## Features of the Area
 **Light:** None.
 
 # Level 2: Area 18 - Guard Hall
-**Encounter Difficulty:** Moderate (80 xp)
+**Encounter Difficulty:** 
+- [x] Moderate (80 XP)
 
 The door to this chamber is locked. Slaark and Brakik carry keys for the lock, or it can be picked open with a successful DC 15 [[skills#Thievery]] check.
 
@@ -497,7 +511,8 @@ Brakik is a hulking male hobgoblin who serves as Slaark’s captain of the king�
 Brakik has keys to area 5, this area, and his chest in area 15.
 
 # Level 2: Area 19 - Throne Room
-**Encounter Difficulty:** Severe (135 xp)
+**Encounter Difficulty:** 
+- [x] Severe (135 XP)
 
 King Slaark holds audience in this large hall.
 
@@ -521,8 +536,8 @@ Creatures:
  - 1: King Slaark
  - 2: [[hobgoblin-warrior|Hobgoblin Warrior]]
  - 1: [[hobgoblin-archer|Hobgoblin Archer]]
- - 1: [[doppelganger|Doppelganger]] 
- - 2: [[barbazu|Barbazu]]
+ - 1: [[Doppelganger]] 
+ - 2: [[Barbazu]]
 
 ```encounter
 name: Throne Room
