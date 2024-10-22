@@ -1,6 +1,33 @@
 ---
 total_xp: 455
 completed_xp: 455
+awarded_pp: 0
+awarded_gp: 90
+awarded_sp: 9
+awarded_cp: 0
+awarded_permanent_items:
+  - name: Glowmetal Staff
+    ilvl: 12
+    gp: 2000
+  - name: Madstone
+    ilvl: 6
+    gp: 200
+  - name: Healing Potion (Moderate)
+    ilvl: 6
+    gp: 50
+  - name: +1 Weapon Potency
+    ilvl: 2
+    gp: 35
+  - name: Corrosive
+    ilvl: 8
+    gp: 500
+  - name: Warding Tablets
+    ilvl: 8
+    gp: 450
+awarded_consumable_items:
+  - name: Antiplague (Moderate)
+    ilvl: 6
+    gp: 35
 ---
 ![[4A - Glowstone Caverns (D177)-20240103130536049.webp|right|400]]
 
@@ -106,6 +133,9 @@ If the fight is going poorly (more than half the defenders are down, or the glow
 
 > [!tip]+ Treasure
 > The hexer carries a staff sheathed in [[glowmetal-weapon-hb|Glowmetal Staff]]. This functions as a +1 magic staff but is tainted by the influence of the meteorite. The hexer also possesses a [[madstone-hb|Madstone]], a treated nodule of glowmetal.
+> 
+> - [x] permanent::[[glowmetal-weapon-hb|Glowmetal Staff]] [ilvl::12] [gp::2000]
+> - [x] permanent::[[madstone-hb|Madstone]] [ilvl::6] [gp::200]
 
 # Encounter 2 - Bat Cave
 **Encounter Difficulty:** 
@@ -206,6 +236,10 @@ A creature can jump onto the table (DC 7 [[skills#Athletics|Athletics]]). Creatu
 
 > [!tip]+ Treasure
 > Rooting through the heaps of garbage and (including the remains of the trash hulk) uncovers a flask that turns out not to be empty. It contains a [[healing-potion|Healing Potion (Moderate)]]. In addition, the goblin mess cooks are carrying a total of 15 gp and 9 sp. Nothing in the kitchen is fit to eat, but the cleavers can serve as handaxes and the carving knives as daggers.
+> 
+> - [x] gp::15
+> - [x] sp::9
+> - [x] permanent::[[healing-potion|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
 
 # Encounter 4 - Tainted Cave
 **Encounter Difficulty:** 
@@ -312,6 +346,12 @@ If the characters accumulate 3 failures, they are no longer able to stabilize th
 > Glork’s longsword was absorbed into her mutated form but can be cut free. It is a +1 [[Corrosive]] longsword. Her “shield” is actually a mass of bone and flesh that was once her hand and forearm. It cannot be wielded and is worth nothing other than its gruesome scholarly interest. Her personal treasury contains [[antiplague|Antiplague (Moderate)]], [[warding-tablets-som|Warding Tablets]] and 75 gp.
 > 
 > The [[Glowmetal]] might be the key to forming a permanent seal of the pool, which continues to radiate energy that could corrupt any future inhabitants of these caves. [[Balidor]] will be interested in acquiring samples. Glowmetal is dangerous to stay in contact with over a long time, however in the right hands can be transformed into a very beneficial material, [[purified-glowmetal-weapon-hb|Purified Glowmetal Weapon]].
+> 
+> - [x] gp::75
+> - [x] permanent::[[weapon-potency|+1 Weapon Potency]] [ilvl::2] [gp::35]
+> - [x] permanent::[[corrosive|Corrosive]] [ilvl::8] [gp::500]
+> - [x] permanent::[[warding-tablets-som|Warding Tablets]] [ilvl::8] [gp::450]
+> - [x] consumable::[[antiplague|Antiplague (Moderate)]] [ilvl::6] [gp::35]
 
 # Conclusion
 If the characters manage to suppress the chaos leak, they temporarily prevent further corruption from affecting these caves. The weak point is not completely repaired, though; only a special ritual can permanently seal it. Through discussions with [[Balewin]] they can learn that a ritual which takes several hours combined with a seal made of cold iron can become a keystone for the portal sealing it's energies and preventing it from fully creating.  It will take 10 [[cold-iron|Cold Iron Ingots (High-Grade)]] to create a keystone capable of handling the power of the ritual and the residual chaos energy.

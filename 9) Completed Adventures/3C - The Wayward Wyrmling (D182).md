@@ -1,6 +1,27 @@
 ---
 total_xp: 310
 completed_xp: 310
+awarded_pp: 0
+awarded_gp: 8
+awarded_sp: 10
+awarded_cp: 100
+awarded_permanent_items:
+  - name: Wand Of Crackling Lightning (3rd Level)
+    ilvl: 8
+    gp: 500
+  - name: Eclipse
+    ilvl: 8
+    gp: 450
+awarded_consumable_items:
+  - name: Heartening Missive (Bull)
+    ilvl: 6
+    gp: 50
+  - name: Sovereign Glue
+    ilvl: 7
+    gp: 55
+  - name: Liquid Gold
+    ilvl: 6
+    gp: 40
 ---
 # Background
 ![[Pasted image 20230828225940.png|right|450]]
@@ -203,7 +224,16 @@ If the characters fail the Turning Taloklaxus skill challenge, then the crystal 
 While the characters are fighting Taloklaxus, Varza continues to attack them from afar with damaging spells (acid arrow, magic missle or acide splash). Varza uses venom pool if one or more characters close into melee range or to finish off a seriously wounded character. She resorts to melee only when there is no other option, and happily sacrifices one of her miniojns to keep the characters busy.
 
 > [!tip]+ Treasure
-> Piled in the back of the cave, the players can find the following: [[wand-of-crackling-lightning-apg|Wand of Crackling Lightning]], [[eclipse-aoa2|Eclipse]], [[heartening-missive-tv|Heartening Missive (Bull)]], [[sovereign-glue-apg|Sovereign Glue]], [[liquid-gold-ooa2|Liquid Gold]] and coin in the amount of 8 gp, 10 sp and 100 cp.
+> Piled in the back of the cave, the players can find the following: [[wand-of-crackling-lightning-apg|Wand of Crackling Lightning (3rd Level)]], [[eclipse-aoa2|Eclipse]], [[heartening-missive-tv|Heartening Missive (Bull)]], [[sovereign-glue-apg|Sovereign Glue]], [[liquid-gold-ooa2|Liquid Gold]] and coin in the amount of 8 gp, 10 sp and 100 cp.tre
+> 
+> - [x] gp::8
+> - [x] sp::10
+> - [x] cp::100
+> - [x] permanent::[[wand-of-crackling-lightning-apg|Wand Of Crackling Lightning (3rd Level)]] [ilvl::8] [gp::500]
+> - [x] permanent::[[eclipse-aoa2|Eclipse]] [ilvl::8] [gp::450]
+> - [x] consumable::[[heartening-missive-tv|Heartening Missive (Bull)]] [ilvl::6] [gp::50]
+> - [x] consumable::[[sovereign-glue-apg|Sovereign Glue]] [ilvl::7] [gp::55]
+> - [x] consumable::[[liquid-gold-ooa2|Liquid Gold]] [ilvl::6] [gp::40]
 
 ## Features of the Area
 **Illumination:** Darkness.

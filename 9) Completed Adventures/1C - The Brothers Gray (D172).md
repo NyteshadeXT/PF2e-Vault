@@ -1,8 +1,8 @@
 ---
 title: The Brothers Gray
 adventure_status: "Done"
-total_xp: 400
-completed_xp: 400
+total_xp: 200
+completed_xp: 200
 ---
 
 

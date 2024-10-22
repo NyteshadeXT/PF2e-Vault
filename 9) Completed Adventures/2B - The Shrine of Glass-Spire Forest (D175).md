@@ -3,6 +3,27 @@ title: The Shrine of the Glass-Spire Forest
 adventure_status: Done
 total_xp: 160
 completed_xp: 160
+awarded_pp: 0
+awarded_gp: 10
+awarded_sp: 10
+awarded_cp: 10
+awarded_permanent_items:
+  - name: Cloak Of Repute
+    ilvl: 4
+    gp: 90
+  - name: Sense-Dulling Hood (Lesser)
+    ilvl: 6
+    gp: 40
+  - name: Ghoul Hide
+    ilvl: 6
+    gp: 220
+awarded_consumable_items:
+  - name: Chimera Thread
+    ilvl: 4
+    gp: 15
+  - name: Potion of Resistance (Lesser)
+    ilvl: 6
+    gp: 45
 ---
 
 # Background
@@ -117,6 +138,9 @@ The nestlings will climb nearby spires to reach positions where they can use spi
 
 > [!tip]+ Treasure
 > The glass guardians have defeated other enemies.  On a nearby corpse players can find some badly damaged leather armor, a short sword, a Cloak of Repute and Chimera Thread.
+> 
+> - [x] permanent::[[cloak-of-repute-locg|Cloak Of Repute]] [ilvl::4] [gp::90]
+> - [x] consumable::[[chimera-thread-da|Chimera Thread]] [ilvl::4] [gp::15]
 
 # Encounter 2 - Shard Slave of the Glass Spire Shrine
 ![[Pasted image 20230416102726.png]]
@@ -168,8 +192,15 @@ The shard slave uses dominating tendril to try to dominate or kill one or more c
 * Sticky Flooring (Y): The floor is strangely tacky, gripping at anything that comes in contact with it. 
 * Smooth Flooring (Z): The floor is extremely smooth and slippery.
 
-## Treasure
-A third font stands at the back of the shrine. Instead of holding water, it contains a pane of purple glass. Lying on top of or against this font is a *Sense-Dulling Hood (Lesser)*, a *Ghoul Hide*, *Potion of Resistance (Lesser)* and a small pouch with 10 gp. Also, see the Scrying Font sidebar at the end of this adventure.
+> [!tip]+ Treasure
+> A third font stands at the back of the shrine. Instead of holding water, it contains a pane of purple glass. Lying on top of or against this font is a *Sense-Dulling Hood (Lesser)*, a *Ghoul Hide*, *Potion of Resistance (Lesser)* and a small pouch with 10 gp. Also, see the Scrying Font sidebar at the end of this adventure.
+> 
+> - [x] gp::10
+> - [x] sp::10
+> - [x] cp::10
+> - [x] permanent::[[sense-dulling-hood-tv|Sense-Dulling Hood (Lesser)]] [ilvl::6] [gp::40]
+> - [x] permanent::[[ghoul-hide|Ghoul Hide]] [ilvl::6] [gp::220]
+> - [x] consumable::[[potion-of-resistance|Potion of Resistance (Lesser)]] [ilvl::6] [gp::45]
 
 > [!warning]
 > What if a Character is Killed by the Shard Slave? 

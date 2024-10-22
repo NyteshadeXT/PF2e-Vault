@@ -13,50 +13,59 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/The Shattered Mind.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "31f3938e2ad65a2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9) Completed Adventures/The Alchemist’s Eyrie.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "29ca35604ec6edcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9) Completed Adventures/The Alchemist’s Eyrie.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6d994a266a5dc517",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1) Notes & In Progress Work/Adventure Loot.md",
+                "file": "7) Players/7) Players.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "7) Players"
+            }
+          },
+          {
+            "id": "34e61e8340170d83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1) GM Screen/Adventure Loot.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Adventure Loot"
+            }
+          },
+          {
+            "id": "4d683cdafb9548cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1) GM Screen/Experience Tracker.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Experience Tracker"
+            }
+          },
+          {
+            "id": "78860cf7d747328b",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "1) GM Screen/GM-Screen.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "GM-Screen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +85,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -91,7 +102,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -99,14 +112,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 302.5
   },
   "right": {
     "id": "f8e1763463e4454b",
@@ -122,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9) Completed Adventures/The Alchemist’s Eyrie.md",
+                "file": "7) Players/7) Players.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +145,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 7) Players"
             }
           },
           {
@@ -142,7 +159,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -151,10 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9) Completed Adventures/The Alchemist’s Eyrie.md",
+                "file": "7) Players/7) Players.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 7) Players"
             }
           },
           {
@@ -165,7 +186,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -174,8 +197,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9) Completed Adventures/The Alchemist’s Eyrie.md"
-              }
+                "file": "7) Players/7) Players.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 7) Players"
             }
           },
           {
@@ -183,7 +208,9 @@
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
-              "state": {}
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           },
           {
@@ -191,7 +218,9 @@
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
-              "state": {}
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           },
           {
@@ -212,10 +241,13 @@
                   "displayMoons": true
                 },
                 "id": "ID_4baaf87a98c8"
-              }
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "12f4ee87c3e37d55",
@@ -226,14 +258,16 @@
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-creature-view",
-              "state": {}
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 416.5
+    "width": 490.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,36 +288,105 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "31f3938e2ad65a2c",
+  "floating": {
+    "id": "de518f5150ce465c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "77cf4103e04f59fe",
+        "type": "window",
+        "children": [
+          {
+            "id": "d984ab965e853627",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "52addfde59457823",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {},
+                  "icon": "lucide-view",
+                  "title": "Player View"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 4096,
+        "y": -216,
+        "width": 640,
+        "height": 672,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "20f5484d94f7c54f",
+        "type": "window",
+        "children": [
+          {
+            "id": "c9be841fd1a47677",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0881d5d9a19914a8",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "zz-Attachments/The Pumpkin Queen.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "The Pumpkin Queen"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 3456,
+        "y": -216,
+        "width": 640,
+        "height": 672,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d0b84a0e39ddf570",
   "lastOpenFiles": [
-    "9) Completed Adventures/2D - The Hammer Falls (D179).md",
-    "1) GM Screen/DC_Calculators.md",
     "9) Completed Adventures/The Alchemist’s Eyrie.md",
-    "9) Completed Adventures/The Trial of Balance.md",
-    "1) Notes & In Progress Work/Adventure Loot.md",
-    "1) GM Screen/Loot.md",
-    "zz-Templates/Update Treasure.md",
-    "zz-Templates/Update XP.md",
-    "9) Completed Adventures/2F - The Lost Library (D173).md",
-    "9) Completed Adventures/2C - Dead by Dawn (D176).md",
+    "9) Completed Adventures/Halloween 2023 One-Shot.md",
+    "zz-Attachments/The Pumpkin Queen.png",
+    "8) Adventures/4B - The Pillar of Eyes (D180).md",
+    "1) GM Screen/GM-Screen.md",
+    "2) compendium/equipment/relic-gifts/grappling-vine.md",
+    "2) compendium/equipment/items/Homebrew/tempered-harmony-hb.md",
+    "7) Players/Winter.md",
+    "2) compendium/equipment/items/Homebrew/avengers-needle-hb.md",
+    "7) Players/Varas.md",
+    "7) Players/Ediza.md",
+    "7) Players/Mordak.md",
+    "2) compendium/equipment/items/Homebrew/orders-covenant-hb.md",
+    "7) Players/7) Players.md",
+    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+    "9) Completed Adventures/The Shattered Mind.md",
+    "8) Adventures/2G - The Crossroads (D176).md",
+    "1) GM Screen/Experience Tracker.md",
+    "zz-Attachments/Manifestation of Kataklysmos.webp",
+    "zz-Attachments/Mirror of Truth.webp",
+    "zz-Attachments/Stumbling Giant - Zetas Mind.webp",
+    "1) GM Screen/Adventure Loot.md",
+    "9) Completed Adventures/1A - Stick in the Mud (D171).md",
+    "9) Completed Adventures/1B - Den of the Slavetakers (D171).md",
+    "9) Completed Adventures/1C - The Brothers Gray (D172).md",
+    "8) Adventures/6A - Rumble in the Valley (D193).md",
+    "3) Rules/3) Rules.md",
+    "3) Rules/tables/tables.md",
+    "3) Rules/tables/party-treasure-by-level.md",
     "zz-Scripts/update_treasure.js",
     "zz-Scripts/Update_treasure.js",
-    "9) Completed Adventures/4C - Vanguard Tower (D182).md",
-    "9) Completed Adventures/1F - Some Assembly Required (D208).md",
-    "1) GM Screen/Experience Tracker.md",
-    "9) Completed Adventures/1G - A Chance Encounter (D174).md",
-    "9) Completed Adventures/3B - The Splintered Spring (D179).md",
-    "9) Completed Adventures/Testing.md",
-    "9) Completed Adventures/1A - Stick in the Mud (D171).md",
-    "8) Adventures/4B - The Pillar of Eyes (D180).md",
-    "8) Adventures/8C - The Star-Touched Grove (D219).md",
-    "8) Adventures/Menace at Otari.md",
-    "8) Adventures/Ambushed (See 5A).md",
-    "8) Adventures/Diamond Lake Mining Office.md",
-    "8) Adventures/The Shattered Mind.md",
-    "9) Completed Adventures/Halloween 2023 One-Shot.md",
-    "9) Completed Adventures/Forgotten Tomb.md",
-    "9) Completed Adventures/4A - Glowstone Caverns (D177).md",
     "8) Adventures/Untitled",
     "zz-Scripts/update_xp.js",
     "zz-Attachments/Forest of Forgotten Memories.webp",

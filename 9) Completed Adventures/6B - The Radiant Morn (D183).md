@@ -3,6 +3,48 @@ title: The Radiant Morn
 adventure_status: Done
 total_xp: 495
 completed_xp: 495
+awarded_pp: 0
+awarded_gp: 120
+awarded_sp: 178
+awarded_cp: 0
+awarded_permanent_items:
+  - name: Wand of the Pampered Pet
+    ilvl: 4
+    gp: 75
+  - name: Wand of Mental Purification (1st Level)
+    ilvl: 4
+    gp: 110
+  - name: Staff Of Providence
+    ilvl: 6
+    gp: 230
+  - name: Private Workshop
+    ilvl: 6
+    gp: 200
+  - name: Tome of Restorative Cleansing (Lesser)
+    ilvl: 5
+    gp: 130
+  - name: Cold Iron Full Plate Armor (Low-Grade)
+    ilvl: 5
+    gp: 140
+  - name: Cold Iron Scale Mail Armor (Low-Grade)
+    ilvl: 5
+    gp: 140
+awarded_consumable_items:
+  - name: Ice Slick Snare
+    ilvl: 4
+    gp: 40
+  - name: Singing Muse
+    ilvl: 6
+    gp: 250
+  - name: Clown Monarch
+    ilvl: 5
+    gp: 21
+  - name: Sneaky Key
+    ilvl: 5
+    gp: 22
+  - name: Cytillesh
+    ilvl: 5
+    gp: 30
 ---
 
 # Background
@@ -113,7 +155,11 @@ The otyughs hide within the pit, waiting to attack any hero unfortunate enough t
 **Braziers:** The two large, shallow braziers are filled with flaming, scented oil. A creature that moves (or is forced to move) into a square containing a brazier takes 5 fire damage and the brazier is knocked over. Once a brazier is knocked over, it no longer has any effect. 
 
 > [!tip]+ Treasure
-> In the offal pit PCs can see several items.  PCs who brave the pit can find a [[wand-of-the-pampered-pet-tv|Wand of the Pampered Pet]], a [[wand-of-mental-purification-tv|Wand of Mental Purification (Lesser)]] and an [[ice-slick-snare-pfum|Ice Slick Snare]].
+> In the offal pit PCs can see several items.  PCs who brave the pit can find a [[wand-of-the-pampered-pet-tv|Wand of the Pampered Pet]], a [[wand-of-mental-purification-tv|Wand of Mental Purification (1st Level)]] and an [[ice-slick-snare-pfum|Ice Slick Snare]].
+> 
+> - [x] permanent::[[wand-of-the-pampered-pet-tv|Wand of the Pampered Pet]] [ilvl::4] [gp::75]
+> - [x] permanent::[[wand-of-mental-purification-tv|Wand of Mental Purification (1st Level)]] [ilvl::4] [gp::110]
+> - [x] consumable::[[ice-slick-snare-pfum|Ice Slick Snare]] [ilvl::4] [gp::40]
 
 ## Development
 After this fight, the characters can either head back to the temple entrance ([[#Encounter 2 - Fleecing the Flock]]) or they can push deeper into the temple ([[#Encounter 3 - The Living Filth]]; leave encounter 3 for when the characters exit the temple).
@@ -164,6 +210,12 @@ The rot grubs appear at the start of the second turn and immediately swarm forwa
 
 > [!tip]+ Treasure
 > At the base of one of the statues are various offerings: 37gp, 96sp, a [[staff-of-providence-apg|Staff Of Providence]], a [[private-workshop-lotgb|Private Workshop]] and a [[singing-muse-sot2|Singing Muse]].
+> 
+> - [x] gp::37
+> - [x] sp::96
+> - [x] permanent::[[staff-of-providence-apg|Staff Of Providence]] [ilvl::6] [gp::230]
+> - [x] permanent::[[private-workshop-lotgb|Private Workshop]] [ilvl::6] [gp::200]
+> - [x] consumable::[[singing-muse-sot2|Singing Muse]] [ilvl::6] [gp::250]
 
 ## Development
 The worshipers are not evil; most of them are no more than beggars and wanderers who came to the temple seeking food and some kindness. They fight back because they believe that the characters are here to loot their temple. If characters gleefully slaughter these innocents, look for ways to make them regret their cruelty later. You’ll have a prime opportunity if survivors flee back to Restwell Keep with news of an “unprovoked massacre” at the temple.
@@ -210,6 +262,12 @@ The giant whiptail centipedes are aware of the black pudding’s hunting methods
 
 > [!tip]+ Treasure
 > Scattered around the cave are the remains of from the creatures previous meals.  Players can find amongst the remains: 83gp, 82sp, a [[tome-of-restorative-cleansing-tv|Tome of Restorative Cleansing (Lesser)]], [[cold-iron-armor|Cold Iron Full Plate Armor (Low-Grade)]] and [[clown-monarch-tv|Clown Monarch]].
+> 
+> - [x] gp::83
+> - [x] sp::82
+> - [x] permanent::[[tome-of-restorative-cleansing-tv|Tome of Restorative Cleansing (Lesser)]] [ilvl::5] [gp::130]
+> - [x] permanent::[[cold-iron-armor|Cold Iron Full Plate Armor (Low-Grade)]] [ilvl::5] [gp::140]
+> - [x] consumable::[[clown-monarch-tv|Clown Monarch]] [ilvl::5] [gp::21]
 
 # Encounter 4 - The Lord of Flies
 ![[Pasted image 20230530155114.png|right]]
@@ -272,7 +330,11 @@ The otyughs lurk in the stream of slime with their squishy bodies flattened bene
 **Shackles:** Sacrificial victims are kept chained in this chamber until needed. If the characters are looking for the missing trader, Bosco Heldam, they find him here, beaten and unconscious but alive. Otherwise, all the shackles are empty. 
 
 > [!tip]+ Treasure
-> Piled in a corner the players find [[cold-iron-armor|Cold Iron Scale Mail Armor (Low-Grade)]], [[sneaky-key|Sneaky Key]] and [[cytillesh-gmg|Cytillesh]].  There is also a book describing a ritual capable of sealing planar tears.  According to notes found about the inside of the book, Theran was concerned with spontaneous chaos rifts intereferring with the development of his cult and had been searching for a way to close them.  This information can be used to enact a ritual to close the chaos rift found in the [[4A - Glowstone Caverns (D177)]] adventure.  The book suggests that a Twisted Shard, a powerful artifact that contains a fragment of raw Chaos energy is required as part of the ritual.
+> Piled in a corner the players find [[cold-iron-armor|Cold Iron Scale Mail Armor (Low-Grade)]], [[sneaky-key|Sneaky Key]] and [[cytillesh-gmg|Cytillesh]].  There is also a book describing a ritual capable of sealing planar tears.  According to notes found about the inside of the book, Theran was concerned with spontaneous chaos rifts intereferring with the development of his cult and had been searching for a way to close them.  This information can be used to enact a ritual to close the chaos rift found in the [[4A - Glowstone Caverns (D177)]] adventure.  The book suggests that a Twisted Shard, a powerful artifact that contains a fragment of raw Chaos energy is required as part of the ritual
+> 
+> - [x] permanent::[[cold-iron-armor|Cold Iron Scale Mail Armor (Low-Grade)]] [ilvl::5] [gp::140]
+> - [x] consumable::[[sneaky-key|Sneaky Key]] [ilvl::5] [gp::22]
+> - [x] consumable::[[cytillesh-gmg|Cytillesh]] [ilvl::5] [gp::30]
 
 # Development 
 By the end of this fight, the characters are thoroughly drenched in reeking filth. If they return to town without cleaning up—a task that can take several hours, and they might never get the stench out of some clothing—they will be met with nothing but disgust no matter how successful their expedition was. 

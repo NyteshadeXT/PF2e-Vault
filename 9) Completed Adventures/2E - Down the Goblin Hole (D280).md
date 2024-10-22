@@ -3,39 +3,21 @@ title: Down the Goblin Hole
 adventure_status: Done
 total_xp: 445
 completed_xp: 445
-treasures:
+awarded_pp: 0
+awarded_gp: 10
+awarded_sp: 0
+awarded_cp: 0
+awarded_permanent_items:
+  - name: Shifting
+    ilvl: 6
+    gp: 225
+awarded_consumable_items:
   - name: Healing Potion (Lesser)
-    amount: 12
-    level: 3
-    completed: true
-  - name: Shifting Rune
-    amount: 225
-    level: 6
-    completed: false
+    ilvl: 3
+    gp: 12
   - name: Wounding Oil
-    amount: 45
-    level: 5
-    completed: false
-  - name: Gold
-    amount: 79
-    level: 0
-    completed: true
-  - name: +1 Striking Shortsword
-    amount: 100
-    level: 4
-    completed: false
-  - name: Sarkorian God-caller Garb
-    amount: 250
-    level: 6
-    completed: false
-  - name: Heartening Missive (Rabbit)
-    amount: 50
-    level: 6
-    completed: false
-  - name: Eidetic Potion
-    amount: 40
-    level: 6
-    completed: false
+    ilvl: 5
+    gp: 45
 ---
 
 # Background
@@ -237,6 +219,11 @@ While characters cling to the wall, they fight at a severe disadvantage against 
 
 > [!tip]+ Treasure
 > On bodies of some unfortunate victions the players can find a pouch containing 10 gold coins and a *[[healing-potion|healing potion]] (lesser)*. A character who searches the cavern wall can also find a space hidden behind a rock with a DC 15 [[skills#Perception|Perception]] check. Hidden in this space are a [[shifting|Shifting Rune]] and [[wounding-oil-tv|Wounding Oil]].
+> 
+> - [x] gp::10
+> - [x] permanent::[[shifting|Shifting]] [ilvl::6] [gp::225]
+> - [x] consumable::[[healing-potion|Healing Potion (Lesser)]] [ilvl::3] [gp::12]
+> - [x] consumable::[[wounding-oil-tv|Wounding Oil]] [ilvl::5] [gp::45]
 
 ## Features of the Area 
 **Illumination:** While the steep-sided ravine is in shadow, it’s still considered brightly illuminated. 

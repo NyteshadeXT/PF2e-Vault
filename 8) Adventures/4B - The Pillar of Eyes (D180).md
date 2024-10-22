@@ -3,6 +3,12 @@ title: The Pillar of Eyes
 adventure_status: Not Started
 total_xp: 445
 completed_xp: 0
+awarded_pp: 0
+awarded_gp: 0
+awarded_sp: 0
+awarded_cp: 0
+awarded_permanent_items: []
+awarded_consumable_items: []
 ---
 
 # Background
@@ -34,8 +40,6 @@ One obstacle blocks the barghest from his dearest desire: his innate lethargy. F
 **In Dreams:** Strange and disturbing dreams are bothering the residents near the Scar. Now [[Chendra]] has received a warning from Tymora that the Pillar of Eyes is close to being freed and this must not happen. It must be destroyed, so she seeks out the PCs.
 
 # Running the Adventure
--  Strange and disturbing dreams are bothering the residents near the Scar. Now Chendera has received a warning from Avandra that the Pillar of Eyes is close to being freed and this must not happen. It must be destroyed. (The Pillar of Eyes)
-
 The Pillar of Eyes is within sight of the wall enclosing the valley of the Chaos Scar, so once the characters cross, they can head straight there. How long this takes depends on where they entered the Scar.
 
 When the adventurers can see the Pillar of Eyes, read:
@@ -75,7 +79,7 @@ When the adventurers can see the Pillar of Eyes, read:
 > Whether or not they succeed at the skill challenge, the adventurers must deal with the wolf riders, goblins charged by Foosteth to plunder explorers that wander into the area.
 - [ ] Challenge (15 XP)
 
-# Encounter 1 - Howling Host
+# Encounter 1 - Howling Host (Level 9)
 **Encounter Difficulty:**
 - [ ] Low (60 XP)
 
@@ -179,7 +183,7 @@ Foosteth and his goblin followers lair inside the Wolf Den, a stinking mound of 
 
 The interior of the hill is filthy. The walls are made from packed dirt, rocks, and branches held together with spit and excrement. The floors and ceilings are made of the same materials. Rooms are semicircular, with ceilings about half as tall as the rooms are wide.
 
-# Encounter 2 - Foosteth's Sentries (Area 1: Entrance)
+# Encounter 2 - Foosteth's Sentries (Area 1: Entrance) (level 9)
 **Encounter Difficulty:** 
 - [ ] Severe (120 XP)
 
@@ -217,11 +221,14 @@ The goblins try to fall back into the common room to retain their ranged advanta
 
 > [!tip]+ Treasure
 > The creatures carry assorted coins totaling 2 gp and 7 sp.
+> 
+> - [ ] gp::2
+> - [ ] sp::7
 
 # Area 2: Common Room
 When not raiding and plundering, Foosteth’s troops billet in this dark chamber, with goblins along one side and the bugbears the rest. The remains of a cooking fire are in the center, with sleeping pallets strewn all around. Combat from Encounter 2 might spill into this chamber.
 
-# Encounter 3 - Things in the Dark (Area 3: The Chamber of Smells)
+# Encounter 3 - Things in the Dark (Area 3: The Chamber of Smells) (Level 9)
 **Encounter Difficulty:** 
 - [ ] Moderate (80 XP)
 
@@ -267,7 +274,7 @@ The madness afflicting Foosteth the Fat has infected him with intense paranoia. 
 
 A successful [[skills#Perception|Perception]] check reveals a 2-inch tall groove running parallel to the floor for about 10 feet. Dirt and rocks fill the gap. A Critical Success is needed to recognize the pressure plate on the floor.  A secret panel on the opposite side of the pressure plate (requiring a DC 21 [[skills#Perception|Perception]] check to find) can shut off or reset the trap. Characters can also use [[skills#Athletics|Athletics]] to jump over the trapped area if they know where it is.
 
-# Encounter 4 - Unhinged Mind (Area 5: Hall of Whispers)
+# Encounter 4 - Unhinged Mind (Area 5: Hall of Whispers) (Level 4)
 **Encounter Difficulty:** 
 - [ ] Severe (150 XP)
 
@@ -328,6 +335,15 @@ curtain down.
 
 > [!tip]+ Treasure
 > Foosteth keeps his loot in a pile in his quarters. It includes a +1 Dueling Spear, [[dragonscale-staff-tv|Dragonscale Staff]], a [[preserving-tv|Preserving (Greater) Wooden Shield]], a [[mistform-elixir|Mistform Elixir]], [[powered-full-plate-tv|Powered Full Plate]], a [[malleable-mixture-lotgb|Malleable Mixture (Lesser)]], 97 gp and 6 sp.
+> 
+> - [ ] gp::97
+> - [ ] sp::6
+> - [ ] permanent::[[weapon-potency|+1 Weapon Potency]] [ilvl::2] [gp::35]
+> - [ ] permanent::[[guardian-staff-tv|Guardian Staff (Greater)]] [ilvl::10] [gp::900]
+> - [ ] permanent::[[preserving-tv|Preserving (Greater)]] [ilvl::8] [gp::450]
+> - [ ] permanent::[[powered-full-plate-tv|Powered Full Plate]] [ilvl::7] [gp::360]
+> - [ ] consumable::[[mistform-elixir|Mistform Elixir]] [ilvl::000] [gp::000]
+> - [ ] consumable::[[malleable-mixture-lotgb|Malleable Mixture (Lesser)]] [ilvl::000] [gp::000]
 
 # Conclusion
 Defeating Foosteth and his goblins removes only one agency with designs on freeing the gibbering mouther. Eventually, some other lunatic will try to finish the job. The adventurers might decide to destroy the statue, thus raising the ire of Those Who Hear (4th Edition D&D Dungeon Master’s Guide 2, page 120). The cultists might want to take revenge for the statue’s destruction.

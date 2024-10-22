@@ -3,6 +3,24 @@ title: Vanguard Tower
 adventure_status: Done
 total_xp: 300
 completed_xp: 300
+awarded_pp: 0
+awarded_gp: 209
+awarded_sp: 0
+awarded_cp: 81
+awarded_permanent_items:
+  - name: Staff of Healing (Greater)
+    ilvl: 8
+    gp: 470
+  - name: Beastmaster's Sigil (Major)
+    ilvl: 7
+    gp: 360
+awarded_consumable_items:
+  - name: Tracking Fulu
+    ilvl: 5
+    gp: 25
+  - name: Assassin Vine Wine
+    ilvl: 9
+    gp: 130
 ---
 
 ![[4C - Vanguard Tower (D182)-20240103153832581.webp|locr]]
@@ -91,6 +109,10 @@ The duergar scouts do their best to stay to the shadows and attack. They engage 
 
 > [!tip]+ Treasure
 > With a DC 30 [[skills#Perception|Perception]] check the players find, hidden under a pile of rocks: 9 gp, 81 cp and a [[tracking-fulu-som|Tracking Fulu]]
+> 
+> - [x] gp::9
+> - [x] cp::81
+> - [x] consumable::[[tracking-fulu-som|Tracking Fulu]] [ilvl::5] [gp::25]
 
 # Encounter 2 - Middle Floor: Snake Charmers
 **Encounter Difficulty:** 
@@ -132,6 +154,10 @@ The gnoll warfang accompanies the deathpledged gnolls, but as soon as one of the
 
 > [!tip]+ Treasure
 > The gnoll warfang is carrying a pouch containing a [[truth-potion|Truth Potion]] 10 gp and 8 cp.
+> 
+> - [ ] gp::10
+> - [ ] cp::8
+> - [ ] consumable::[[truth-potion|Truth Potion]] [ilvl::6] [gp::46]
 
 # Encounter 3 - Upper Floor: An Interrupted Negotiation
 **Encounter Difficulty:** 
@@ -182,8 +208,13 @@ The warfang stays out of the fight initially unless attacked. If Shur-Tuuz takes
 
 **Blue Sigils:** In addition, the blue sigils represent wards containing the behir. Shur-Tuuz drops the wards at the beginning of the encounter but they can be brought back. Restoring the wards requires a DC 18 [[skills#Arcana|Arcana]] or [[skills#Nature|Nature]] check as a standard action. The beholder automatically succeeds in restoring the wards with a single action
 
-> [!example]+ Magic Item
+> [!tip]+ Treasure
 > In addition to all of the above, found on the table are the following: [[staff-of-healing|Staff of Healing (Greater)]], [[beastmasters-sigil-tv|Beastmaster's Sigil (Major)]], [[assassin-vine-wine-tv|Assassin Vine Wine]], 200 gp.
+> 
+> - [x] gp::200
+> - [x] permanent::[[staff-of-healing|Staff of Healing (Greater)]] [ilvl::8] [gp::470]
+> - [x] permanent::[[beastmasters-sigil-tv|Beastmaster's Sigil (Major)]] [ilvl::7] [gp::360]
+> - [x] consumable::[[assassin-vine-wine-tv|Assassin Vine Wine]] [ilvl::9] [gp::130]
 
 # Conclusion
 The heroes might wish to use the tower as a base of operations for their further adventures in the Chaos Scar. The characters can shore up the physical defenses easily and use it as a place to store their treasure. The adventurers might also wish to seek out the history of those who lived in the tower before them and complete any unfinished business. The fate of the Cats of Thleen is left open. Perhaps they were killed, or perhaps they retreated to another hideout with grander treasures hidden away.

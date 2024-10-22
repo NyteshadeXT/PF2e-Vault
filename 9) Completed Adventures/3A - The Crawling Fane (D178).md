@@ -1,6 +1,27 @@
 ---
 total_xp: 375
 completed_xp: 375
+awarded_pp: 0
+awarded_gp: 101
+awarded_sp: 0
+awarded_cp: 0
+awarded_permanent_items:
+  - name: Architect's Pattern Book
+    ilvl: 6
+    gp: 240
+  - name: Undead Scourge
+    ilvl: 7
+    gp: 350
+  - name: Bloodhound Olfactory Stimulators
+    ilvl: 5
+    gp: 136
+awarded_consumable_items:
+  - name: Wind Ocarina
+    ilvl: 6
+    gp: 50
+  - name: Fulu Of The Stoic Ox
+    ilvl: 5
+    gp: 25
 ---
 # Background
 Hargash Bitterblade is a rather eccentric duergar. He has forsaken the worship of the proper duergar gods and instead worships a bizarre entity he calls Chitteruk, which claims dominion over vermin and all things that creep and crawl. Years ago, Hargash fled a large duergar city to escape certain death for his heresy and devotion to his alien god. He and a few of his more fervent followers traveled many years through the Underdark until, finally, the entity that Hargash serves sent him a dream. The dream provided the location of a long-forgotten temple dedicated to the dwarven god Moradin. Hargash was commanded to re-sanctify the temple in the name of Chitteruk. 
@@ -130,6 +151,10 @@ The ironbound doors are thick and heavy but unlocked.
 
 > [!tip]+ Treasure
 > Found in the footlocker is 34 gp, [[architects-pattern-book-tv|Architect's Pattern Book]] and [[undead-scourge-lokl|Undead Scourge]].
+> 
+> - [x] gp::34
+> - [x] permanent::[[architects-pattern-book-tv|Architect's Pattern Book]] [ilvl::6] [gp::240]
+> - [x] permanent::[[undead-scourge-lokl|Undead Scourge]] [ilvl::7] [gp::350]
 
 **Rubble:** The rubble is difficult terrain.
 
@@ -266,3 +291,8 @@ The giant scorpions attack the closest heroes in melee, relentlessly biting and 
 
 > [!tip]+ Treasure
 > Hidden in the rubble at the back of the round PCs can find 67 gp, [[wind-ocarina-tv|Wind Ocarina]], [[bloodhound-olfactory-stimulators-tv|Bloodhound Olfactory Stimulators]] and [[fulu-of-the-stoic-ox-som|Fulu Of The Stoic Ox]].
+> 
+> - [x] gp::67
+> - [x] permanent::[[bloodhound-olfactory-stimulators-tv|Bloodhound Olfactory Stimulators]] [ilvl::5] [gp::136]
+> - [x] consumable::[[wind-ocarina-tv|Wind Ocarina]] [ilvl::6] [gp::50]
+> - [x] consumable::[[fulu-of-the-stoic-ox-som|Fulu Of The Stoic Ox]] [ilvl::5] [gp::25]

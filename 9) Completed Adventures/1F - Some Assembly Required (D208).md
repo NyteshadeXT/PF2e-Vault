@@ -1,6 +1,6 @@
 ---
 title: Some Assembly Required
-adventure_status: "Done"
+adventure_status: Done
 total_xp: 800
 completed_xp: 800
 ---
@@ -350,8 +350,12 @@ When the zombies emerge from 5C, read:
 
 **5B. Fallen Foreman:** This passageway is unremarkable except for a solitary zombie trapped beneath a support beam on the floor. The poor soul was once the mine’s foreman. The zombie is considered to be helpless. Noise in this area attracts the attention of the zombies in area 5C. 
 
-Treasure: At his waist, the zombie foreman carries a wand of digging and a purse containing 27 sp and dried figs. The wand of digging is a metal wand tipped with a tiny shovel head. The wand can be used once per day to blast through two 5-foot squares of natural rock. The accompanying explosion can be heard up to 50 squares away. 
-
+> [!tip]+ Treasure
+> At his waist, the zombie foreman carries a wand of digging and a purse containing 27 sp and dried figs. The wand of digging is a metal wand tipped with a tiny shovel head. The wand can be used once per day to blast through two 5-foot squares of natural rock. The accompanying explosion can be heard up to 50 squares away. 
+> 
+> - [ ] sp::27
+> - [ ] permanent::[[wand-of-digging|Wand of Digging]] [ilvl::2] [gp::50]
+``
 5C. Ore Deposit: Undead are often drawn to mindlessly carry out the tasks they performed while living. The zombie miners mill around a rich vein of silver ore. There are several high-purity silver deposits on the rock surface. A character with a mining pick could break off five chunks worth 10 gp each. The zombies shamble toward any loud noise in the collapsed mine area. 
 
 [[zombie-shambler|Zombie Shambler]]

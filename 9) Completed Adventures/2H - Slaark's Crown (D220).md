@@ -1,6 +1,39 @@
 ---
 total_xp: 700
 completed_xp: 700
+awarded_pp: 0
+awarded_gp: 81
+awarded_sp: 50
+awarded_cp: 800
+awarded_permanent_items:
+  - name: Cold Iron Buckler (Standard Grade)
+    ilvl: 7
+    gp: 300
+  - name: Lion's Shield
+    ilvl: 6
+    gp: 245
+  - name: +1 Weapon Potency
+    ilvl: 2
+    gp: 35
+  - name: Energizing
+    ilvl: 6
+    gp: 250
+awarded_consumable_items:
+  - name: Pathfinder's Pouch
+    ilvl: 6
+    gp: 200
+  - name: Elixir of Life (Lesser)
+    ilvl: 5
+    gp: 30
+  - name: Euphoric Loop
+    ilvl: 5
+    gp: 30
+  - name: Potion Of Retaliation (Moderate)
+    ilvl: 6
+    gp: 50
+  - name: Malyass Root Paste
+    ilvl: 7
+    gp: 55
 ---
 # Background
 Around six months ago, a band of goblins and hobgoblins discovered an abandoned dungeon beneath a small hill in the chaos scar. They explored the ruin and began converting it to their needs, intent on using it as their own center of power.
@@ -452,7 +485,18 @@ When characters enter the tribute room, read:
 **Light:** None.
 
 > [!tip]+ Treasure
-> Found throughout the room are the following items: [[pathfinders-pouch-locg|Pathfinder's Pouch]], [[cold-iron-shield|Cold Iron Buckler (Standard Grade)]], [[warding-tattoo-som|Warding Tattoo (Fiend)]], [[lions-shield|Lion's Shield]], [[elixir-of-life|Elixir of Life]], [[euphoric-loop-tv|Euphoric Loop]], [[potion-of-retaliation-apg|Potion Of Retaliation (Moderate)]], [[malyass-root-paste|Malyass Root Paste]] and coin in the amount of 81 gp, 50, sp and 800 cp.
+> Found throughout the room are the following items: [[pathfinders-pouch-locg|Pathfinder's Pouch]], [[cold-iron-shield|Cold Iron Buckler (Standard Grade)]], [[warding-tattoo-som|Warding Tattoo (Fiend)]], [[lions-shield|Lion's Shield]], [[elixir-of-life|Elixir of Life (Lesser)]], [[euphoric-loop-tv|Euphoric Loop]], [[potion-of-retaliation-apg|Potion Of Retaliation (Moderate)]], [[malyass-root-paste|Malyass Root Paste]] and coin in the amount of 81 gp, 50, sp and 800 cp.
+> 
+> - [x] gp::81
+> - [x] sp::50
+> - [x] cp::800
+> - [x] permanent::[[cold-iron-shield|Cold Iron Buckler (Standard Grade)]] [ilvl::7] [gp::300]
+> - [x] permanent::[[lions-shield|Lion's Shield]] [ilvl::6] [gp::245]
+> - [x] consumable::[[pathfinders-pouch-locg|Pathfinder's Pouch]] [ilvl::6] [gp::200]
+> - [x] consumable::[[elixir-of-life|Elixir of Life (Lesser)]] [ilvl::5] [gp::30]
+> - [x] consumable::[[euphoric-loop-tv|Euphoric Loop]] [ilvl::5] [gp::30]
+> - [x] consumable::[[potion-of-retaliation-apg|Potion Of Retaliation (Moderate)]] [ilvl::6] [gp::50]
+> - [x] consumable::[[malyass-root-paste|Malyass Root Paste]] [ilvl::7] [gp::55]
 
 # Level 2: Area 17 - Rubble
 This room was damaged by the earthquake that opened the fissure adjacent to it.
@@ -571,8 +615,11 @@ Zin is a doppelganger who masquerades as a young human female while serving as S
 
 **Chandeliers:** Two massive chandeliers hang from the ceiling as noted on the map. Both are 10 feet in diameter, covered with lit candles, and very heavy. Each chandelier is suspended by a heavy rope affixed to the side wall.
 
-> [!example]+ Magic Item
+> [!tip]+ Treasure
 > Slaark wields a +1 [[energizing-lotgb|Energizing]] Shortsword.
+> 
+> - [x] permanent::[[weapon-potency|+1 Weapon Potency]] [ilvl::2] [gp::35]
+> - [x] permanent::[[energizing-lotgb|Energizing]] [ilvl::6] [gp::250]
 
 # Level 2: Area 20 - King’s Chamber
 This is Slaark’s private chamber.

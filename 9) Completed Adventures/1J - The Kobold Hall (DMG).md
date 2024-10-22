@@ -3,6 +3,30 @@ title: The Kobold Hall
 adventure_status: Done
 total_xp: 240
 completed_xp: 240
+awarded_pp: 0
+awarded_gp: 46
+awarded_sp: 8
+awarded_cp: 0
+awarded_permanent_items:
+  - name: Sturdy Shield (Minor)
+    ilvl: 4
+    gp: 100
+  - name: Rime Crystal
+    ilvl: 3
+    gp: 55
+awarded_consumable_items:
+  - name: Retrieval Prism
+    ilvl: 3
+    gp: 12
+  - name: Choker-Arm Mutagen (Moderate)
+    ilvl: 3
+    gp: 12
+  - name: Ghost Charge (Moderate)
+    ilvl: 3
+    gp: 10
+  - name: Healing Potion (Lesser) x2
+    ilvl: 3
+    gp: 24
 ---
 
 # Background 
@@ -94,6 +118,8 @@ One of the kobold warriors attempts to lure the PCs into the room, where the oth
 
 > [!tip]+ Treasure
 > In addition to any weapons and armor the kobolds carry a total 5 gp.
+> 
+> - [x] gp::5
 
 # Encounter 2 - The Tomb
 ![[Pasted image 20230407212716.png]]
@@ -147,6 +173,8 @@ ___
 
 > [!tip]+ Treasure
 > In addition to any weapons and armor one of the kobolds is carrying a Retrieval Prism.
+> 
+> - [x] consumable::[[retrieval-prism-som|Retrieval Prism]] [ilvl::3] [gp::12]
 
 # Encounter 3 - Skull-Skull
 ![[Pasted image 20230408120352.png]]
@@ -208,6 +236,9 @@ The kobolds’ pet shadow drake remains on the other side of the door. It russhe
 
 > [!tip]+ Treasure
 > In addition to any weapons and armor the kobolds carry a total 7 gp a formula (3) and Choker-Arm Mutagen (Moderate).
+> 
+> - [x] gp::7
+> - [x] consumable::[[choker-arm-mutagen-tv|Choker-Arm Mutagen (Moderate)]] [ilvl::3] [gp::12]
 
 # Encounter 4 - Chieftain's Chamber
 ![[Pasted image 20230408123909.png]]
@@ -264,6 +295,10 @@ When the characters defeat the kobolds, they find a small silver key in the chie
 
 > [!tip]+ Treasure
 > The kobold chieftain carries 10 gp and 8 sp as well as a Ghost Charge.
+> 
+> - [x] gp::10
+> - [x] sp::8
+> - [x] consumable::[[ghost-charge-apg|Ghost Charge (Moderate)]] [ilvl::3] [gp::10]
 
 # Encounter 5 - The True Threat
 ![[Pasted image 20230408130551.png]]
@@ -300,3 +335,8 @@ Szartharrax avoids heavily armored characters, preferring instead to pick off li
 
 > [!tip]+ Treasure
 > If the PCs manage to slay the dragon, they find a small cave up ahead that has a locked treasure chest (DC 20 [[skills#Thievery|Thievery]] check to open). The chest contains the piece of dragon hide that Bergen wanted recovered, 24 gp in a small felt bag, two potions of lesser healing, a Rime Crystal and a Sturdy Shield (Minor).
+> 
+> - [x] gp::24
+> - [x] permanent::[[sturdy-shield|Sturdy Shield (Minor)]] [ilvl::4] [gp::100]
+> - [x] permanent::[[rime-crystal-tv|Rime Crystal]] [ilvl::3] [gp::55]
+> - [x] consumable::[[healing-potion|Healing Potion (Lesser) x2]] [ilvl::3] [gp::24]> 

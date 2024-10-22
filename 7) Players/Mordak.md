@@ -1,8 +1,8 @@
 ---
-hp: 127
-ac: 28
-modifier: 19
-level: 9
+hp: 150
+ac: 29
+modifier: 20
+level: 10
 Player_Name: Steve
 Alignment: LN
 NoteIcon: PC

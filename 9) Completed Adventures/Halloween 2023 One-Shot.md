@@ -1,6 +1,18 @@
 ---
 total_xp: 205
 completed_xp: 205
+awarded_pp: 0
+awarded_gp: 0
+awarded_sp: 0
+awarded_cp: 0
+awarded_permanent_items:
+  - name: Andvari's Gift
+    ilvl: 8
+    gp: 425
+  - name: Happy Healper
+    ilvl: 8
+    gp: 95
+awarded_consumable_items: []
 ---
 [[Pumpkin Queen's Realm.png|Show Players]]
 ![[Pumpkin Queen's Realm.png|right|600]]
@@ -72,4 +84,7 @@ The players will be allowed to open only two of the jack-o-lanterns.  When the s
 > [!tip]+ Treasure
 > First have the players roll a d6 with the following results 1-2: [[andvaranaut-hb|Andvari's Gift]], 3-4: [[levithans-prism-hb|Levithan's Prism]], 5-6: [[happy-healper-hb|Happy Healper]].
 > 
-> Then have them roll a d4 with remaining two items.
+> - [x] permanent::[[andvaranaut-hb|Andvari's Gift]] [ilvl::8] [gp::425]
+> - [ ] permanent::[[levithans-prism-hb|Levithan's Prism]] [ilvl::8] [gp::500]
+> - [x] permanent::[[happy-healper-hb|Happy Healper]] [ilvl::8] [gp::95]
+

@@ -1,7 +1,56 @@
 ---
 total_xp: 590
 completed_xp: 590
+awarded_pp: 0
+awarded_gp: 219
+awarded_sp: 0
+awarded_cp: 0
+awarded_permanent_items:
+  - name: +1 Weapon Potency
+    ilvl: 2
+    gp: 35
+  - name: Striking
+    ilvl: 4
+    gp: 65
+  - name: +1 Armor Potency
+    ilvl: 5
+    gp: 160
+  - name: Resilient
+    ilvl: 8
+    gp: 340
+  - name: +1 Weapon Potency
+    ilvl: 2
+    gp: 35
+  - name: Striking
+    ilvl: 4
+    gp: 65
+  - name: Frost
+    ilvl: 8
+    gp: 500
+  - name: +1 Armor Potency
+    ilvl: 5
+    gp: 160
+awarded_consumable_items:
+  - name: Thunderstone (Moderate) x18
+    ilvl: 3
+    gp: 180
+  - name: Alchemist's Fire (Moderate) x12
+    ilvl: 3
+    gp: 120
+  - name: Sunrod x84
+    ilvl: 1
+    gp: 252
+  - name: Smokestick (Lesser) x60
+    ilvl: 1
+    gp: 180
+  - name: Tanglefoot Bag (Moderate) x24
+    ilvl: 3
+    gp: 240
+  - name: Acid Flask (Moderate) x16
+    ilvl: 3
+    gp: 160
 ---
+
 # Background
 Durzh is—well, was—a renowned dwarven alchemist who hailed from a nearby dwarven stronghold. Paranoid, surly, and antisocial, Durzh was nonetheless one of the most brilliant minds the dwarves had in the realm of alchemy.
 
@@ -276,20 +325,19 @@ This is a locked ([[skills#Thievery|Thievery]] DC 18) steel-bar cage in which th
 > Two boxes of six [[alchemists-fire|Alchemist's Fire (Moderate)]] each
 > Ten boxes of twenty-four [[Tindertwig]] each
 > Seven boxes of twelve [[Sunrod]] each
-> Five boxes of twelve [[Smokestick]] each
-> Four boxes of six [[tanglefoot-bag|Tanglefoot Bag]] each
+> Five boxes of twelve [[Smokestick (Lesser)]] each
+> Four boxes of six [[tanglefoot-bag|Tanglefoot Bag (Moderate)]] each
 > Two casks of acid (sixteen [[acid-flask|Acid Flask (Moderate)]] worth )
 > 
 > There is also a strongbox ([[skills#Thievery|Thievery]] DC 21) that opens with the same key used for the door to the NCO’s quarters. It holds roughly 10 gp.
 > - [x] gp::10
 > - [x] consumable::[[thunderstone|Thunderstone (Moderate) x18]] [ilvl::3] [gp::180]
-> - [ ] 
-> - [x] consumable::[[alchemists-fire|Alchemist's Fire (Moderate)]] [ilvl::6] [gp::33]
-> - [x] consumable::[[tindertwig|Tindertwig]] [ilvl::6] [gp::33]
-> - [x] consumable::[[sunrod|Sunrod]] [ilvl::6] [gp::33]
-> - [x] consumable::[[smokestick|Smokestick]] [ilvl::6] [gp::33]
-> - [x] consumable::[[tanglefoot-bag|Tanglefoot Bag]] [ilvl::6] [gp::33]
-> - [x] consumable::[[acid-flask|Acid Flask (Moderate)]] [ilvl::6] [gp::33]
+> - [x] consumable::[[alchemists-fire|Alchemist's Fire (Moderate) x12]] [ilvl::3] [gp::120]
+> - [x] consumable::[[tindertwig|Tindertwig x240]] [ilvl::1] [gp::4.8]
+> - [x] consumable::[[sunrod|Sunrod x84]] [ilvl::1] [gp::252]
+> - [x] consumable::[[smokestick|Smokestick (Lesser) x60]] [ilvl::1] [gp::180]
+> - [x] consumable::[[tanglefoot-bag|Tanglefoot Bag (Moderate) x24]] [ilvl::3] [gp::240]
+> - [x] consumable::[[acid-flask|Acid Flask (Moderate) x16]] [ilvl::3] [gp::160]
 
 # Area 18: Alchemy Stores
 **Encounter Difficulty:** 
@@ -301,6 +349,7 @@ This is where Durzh keeps his raw materials. There is a lot of wildly varied stu
 > Included among all this stuff are the raw materials required for the medicine that Durzh brewed. If these are returned to the dwarves along with the recipe found in his library ([[#Area 20 Library|Area 20 Library]]]), the stronghold’s alchemists can reproduce the medicine.
 > 
 > There is also a set of glass jars that contain the following: seven pearls valued at 10 gp each, 20 gp worth of ruby dust, 9 gp worth of jade dust, 35 gp worth of diamond dust, and 40 gp worth of powdered amber.
+> - [x] gp::174
 
 > [!danger]+ Trap
 > Among the various containers is a large box that has two living Aurumvorax inside. If they make a [[skills#Perception|Perception]] check of DC 15, they sit very quietly until their box is opened.
@@ -344,6 +393,14 @@ Speenar enjoys using his true strike spell to prepare a sneak attack. If things 
 
 > [!tip]+ Treasure
 > Barring a real nasty fight in this area, there is enough salvage here for someone to piece together an alchemist’s lab.  Bloodbeard has a +1 [[Striking]] light hammer +1 [[Resilient]] scale mail and a wooden shield.  Speenar has a +1 [[Striking]] [[Frost]] short sword and +1 leather armor.
+> - [x] permanent::[[weapon-potency|+1 Weapon Potency]] [ilvl::2] [gp::35]
+> - [x] permanent::[[striking|Striking]] [ilvl::4] [gp::65]
+> - [x] permanent::[[armor-potency|+1 Armor Potency]] [ilvl::5] [gp::160]
+> - [x] permanent::[[resilient|Resilient]] [ilvl::8] [gp::340]
+> - [x] permanent::[[weapon-potency|+1 Weapon Potency]] [ilvl::2] [gp::35]
+> - [x] permanent::[[striking|Striking]] [ilvl::4] [gp::65]
+> - [x] permanent::[[frost|Frost]] [ilvl::8] [gp::500]
+> - [x] permanent::[[armor-potency|+1 Armor Potency]] [ilvl::5] [gp::160]
 
 # Area 20: Library
 This area has a set of shelves and a desk, complete with a pauper’s set of dirty dishes. Durzh keeps his alchemical library and all his personal records here. Characters who take items from Durzh’s library and study them gain a +1 bonus on all future [[skills#Crafting|Crafting (Alchemy)]] checks.

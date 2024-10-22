@@ -3,6 +3,12 @@ title: Stormcrow Tor
 adventure_status: Not Started
 total_xp: 680
 completed_xp: 0
+awarded_pp: 0
+awarded_gp: 0
+awarded_sp: 0
+awarded_cp: 0
+awarded_permanent_items: []
+awarded_consumable_items: []
 ---
 
 ![[SCT.webp|right|550]]
@@ -159,6 +165,9 @@ The myconid sovereign remains behind its allies, relying on them for protection.
 
 > [!tip]+ Treasure
 > Treasure: A small, rusted iron chest is lodged in the wall of the western cave. The chest is locked (DC 18 Thievery check to open). The well-padded interior holds a [[potion-patch-tv|Potion Patch (Moderate)]] and a [[lifelink-surge-som|Spell scroll (2nd level) (Lifelink Surge)]].
+> 
+> - [ ] consumable::[[potion-patch-tv|Potion Patch (Moderate)]] [ilvl::8] [gp::100]
+> - [ ] consumable::[[lifelink-surge-som|Spell scroll (2nd level) (Lifelink Surge)]] [ilvl::3] [gp::12]
 
 # Encounter T3: Mausoleum
 **Encounter Difficulty:** 
@@ -234,6 +243,9 @@ A platinum key is hidden amid the dust in one of the coffins ([[skills#Perceptio
 
 > [!tip]+ Treasure
 > The coffins also holds 11 gp and [[poison-fizz-tv|Poison Fizz (Lesser)]].
+> 
+> - [ ] gp::11
+> - [ ] consumable::[[poison-fizz-tv|Poison Fizz (Lesser)]] [ilvl::8] [gp::80]
 
 # Encounter T4: Lightning Hall
 **Encounter Difficulty:** Varies based on Traps overcome (Level 8 Hazards 20 xp each; Level 9 Hazard 30 xp)
@@ -403,6 +415,16 @@ If it becomes clear that the heroes will likely win the fight, Agera calls on Ka
 
 > [!tip]+ Treasure
 > In the treasure vault the players find 254 gp, 8 sp, [[armor-potency|+1 Armor Potency Chain Shirt]], [[Wraithweave Patch (Type I)]], [[war-razor-tv|+2 Weapon Potency War Razor]], [[wovenwood-shield-lotgb|Wovenwood Shield (Moderate)]], [[flame-barrier|Spell scroll (4th level) (Flame Barrier)]], [[draw-the-lightning-som|Spell scroll (4th level) (Draw The Lightning)]] and [[lashuntas-life-bubble-gw1|Spell scroll (5th level) (Lashunta's Life Bubble)]]
+> 
+> - [ ] gp::254
+> - [ ] sp::8
+> - [ ] permanent::[[armor-potency|+1 Armor Potency]] [ilvl::5] [gp::160]
+> - [ ] permanent::[[Wraithweave Patch (Type I)]] [ilvl::9] [gp::600]
+> - [ ] permanent::[[weapon-potency|+2 Weapon Potency]] [ilvl::10 [gp::935]
+> - [ ] permanent::[[wovenwood-shield-lotgb|Wovenwood Shield (Moderate)]] [ilvl::10] [gp::850]
+> - [ ] consumable::[[flame-barrier|Spell scroll (4th level) (Flame Barrier)]] [ilvl::7] [gp::70]
+> - [ ] consumable::[[draw-the-lightning-som|Spell Scroll (4th level) (Draw The Lightning)]] [ilvl::7] [gp::70]
+> - [ ] consumable::[[lashuntas-life-bubble-gw1|Spell scroll (5th level) (Lashuntas Life Bubble)]] [ilvl::9] [gp::150]
 
 > [!warning]
 > Chaosheart: Depending on the players actions here this item may need further development.  Kind of go with the flow on what the think it is and what they want to do about it.  

@@ -1,6 +1,14 @@
 ---
 title: The Crossroads
-adventure_status: "Done"
+adventure_status: Done
+total_xp: 395
+completed_xp: 105
+awarded_pp: 0
+awarded_gp: 19
+awarded_sp: 9
+awarded_cp: 0
+awarded_permanent_items: []
+awarded_consumable_items: []
 ---
 
 # Background
@@ -47,7 +55,7 @@ Millen will try to trick the characters into falling into his trap, even if he h
 > 
 > When the characters arrive at the trading post, they should catch on that more than just pelt trading goes on here. In fact, the dwarves of the caravan seem a bit unnerved by the presence of adventurers, as though afraid of being caught dealing with Millen. He clearly has more to offer than simple appraisal.
 > 
-> **Level:** 3 (60 xp)
+> **Level:** 3 (60 XP)
 > **Complexity:** 1 (requires 4 successes before 3 failures)
 > **Primary Skills:**  [[skills#Diplomacy|Diplomacy]], [[skills#Perception|Perception]], [[skills#Intimidation|Intimidation]], [[skills#Thievery|Thievery]]
 > **Secondary Skills:** 
@@ -70,12 +78,13 @@ Millen will try to trick the characters into falling into his trap, even if he h
 > ### Failure 
 > Millen does not offer the characters any of his real wares, but instead only pretends to deal with them, attempting to lure them into his scheme (see [[04) Into the Boneyard]]).
 
-# Encounter 1 - Hobgoblin Hangman
+# Encounter 1 - Hobgoblin Hangman (Level 4)
 ![[Pasted image 20230608101115.png]]
 
 This encounter may occur whenever the characters investigate the gibbet tree and decide to intervene. The hobgoblins have recently captured a human thief who tried to rob their base of operations deeper in the valley. They brought the thief here to face a slow, agonizing death. The captive is still alive, but the three hobgoblin deathwatchers assigned to guard the gibbet tree are tiring of his begging. If the heroes decide to intervene and free the man, the hobgoblins try to stop them. Alternatively, this scene could occur if the heroes are captured in the valley and brought here to be put in the gibbet tree themselves. 
 
-**Encounter Difficulty:** Moderate (105 xp)
+**Encounter Difficulty:** 
+- [x] Moderate (105 XP)
 Creatures:
  - 3: [[hobgoblin-soldier|Hobgoblin Soldier]] H
  - 2: [[raven-swarm|Raven Swarm]] R
@@ -107,13 +116,17 @@ The hobgoblins are deathwatchers, set in place to ensure that prisoners left in 
 
 > [!tip]+ Treasure
 > Between the hobgoblins, the players are able to find 19gp and 9sp in addition to their armor and weapons.
+> 
+> - [x] gp::19
+> - [x] sp::9
 
-# Encounter 2 - Inside the Trading Post
+# Encounter 2 - Inside the Trading Post (Level 4)
 ![[Pasted image 20230608105514.png]]
 
 This encounter takes place if the heroes try and bully [[Fulgrim]] and the dwarves into letting them in on the black market dealings, or it could occur when the heroes confront [[Millen Silvereye]] after he tries to direct them into an ambush in the boneyard. Since the dwarves and  [[Fulgrim]] have business together, they fight together, and they will defend [[Millen Silvereye]] if the characters try to rough up the tiefling appraiser. 
 
-**Encounter Difficulty:** Severe (140 xp)
+**Encounter Difficulty:** 
+- [ ] Severe (140 XP)
 Creatures:
  - 4: [[dwarven-caravan-guard|Dwarven Caravan Guard]] G
  - 1: [[dwarven-caravan-master|Dwarven Caravan Master]] D
@@ -146,13 +159,19 @@ When a fight breaks out, the caravan guards move into positions where they can u
 
 > [!tip]+ Treasure
 > In a small chest behind the counter, Fulgrim keeps 37gp, 88sp, a [[sentry-fulu-tv|Sentry Fulu]] and a [[climbing-bolt|Climbing Bolt]].
+> 
+> - [ ] gp::37
+> - [ ] sp::88
+> - [ ] consumable::[[sentry-fulu-tv|Sentry Fulu]] [ilvl::4] [gp::15]
+> - [ ] consumable::[[climbing-bolt|Climbing Bolt]] [ilvl::4] [gp::15]
 
 # Encounter 3 - Into the Boneyard
 ![[Pasted image 20230616105440.png]]
 
-This encounter takes place if the characters are enticed into trying to investigate the boneyard. Several undead creatures reside here, and they lurk underground most of the time (hiding in shallow graves filled with dirt). These undead are mindless and brutish, and want only to extinguish any life that enters the boneyard. 
+This encounter takes place if the characters are enticed into trying to investigate the boneyard. Several undead creatures reside here, and they lurk underground most of the time (hiding in shallow graves filled with dirt). These undead are mindless and brutish, and want only to extinguish any life that enters the boneyard. 
 
-**Encounter Difficulty:** Severe (150 xp)
+**Encounter Difficulty:** 
+- [ ] Severe (150 XP)
 Creatures:
  - 4: [[zombie-brute|Zombie Brute]] G
  - 1:  [[zombie-lord|Zombie Lord]] B
@@ -185,3 +204,7 @@ The four zombie brutes begin in hiding, lurking in the mounds of earth and makin
 
 > [!tip]+ Treasure
 > Searching the zombies the players can find 50 gp and 25 sp.  Additionally the Zombie Lord has [[crystal-shards-apg|Crystal Shards (Moderate)]].
+> 
+> - [ ] gp::50
+> - [ ] sp::25
+> - [ ] consumable::[[crystal-shards-apg|Crystal Shards (Moderate)]] [ilvl::4] [gp::16]

@@ -4,8 +4,8 @@ adventure_status: Done
 total_xp: 335
 completed_xp: 335
 awarded_pp: 0
-awarded_gp: 20
-awarded_sp: 36
+awarded_gp: 43
+awarded_sp: 78
 awarded_cp: 0
 awarded_permanent_items:
   - name: Magma Hammer
@@ -15,6 +15,9 @@ awarded_permanent_items:
     ilvl: 5
     gp: 150
 awarded_consumable_items:
+  - name: Sprite Apple (Pink)
+    ilvl: 4
+    gp: 16
   - name: Tentacle Potion (Lesser)
     ilvl: 6
     gp: 33
@@ -229,6 +232,10 @@ Although the characters might think they have the element of surprise as they co
 
 > [!tip]+ Treasure
 > Scattered among all the worthless items on the floor of the metalworks is 14gp, 42sp and a *Sprite Apple (Pink)*.
+> 
+> - [x] gp::14
+> - [x] sp::42
+> - [x] consumable::[[sprite-apple-tv|Sprite Apple (Pink)]] [ilvl::4] [gp::16]
 
 # Encounter 3 - Sleed's Sanctum
 ![[Pasted image 20230616110728.png]]
@@ -302,10 +309,8 @@ Sleed and Barulg already know how to use the Lava Pit by harnessing the chaotic 
 
 > [!tip]+ Treasure
 > On Barulg is using a [[magma-hammer|Magma Hammer]].  He also carries 9 gp.  Found on and within Sleed's desk the players find another 20 gp, 36 sp, a *Poisonous Dagger* and *Tentacle Potion (Lesser).* 
-> - [ ] pp::0
-> - [x] gp::20
+> - [x] gp::29
 > - [x] sp::36
-> - [ ] cp::0
 > - [x] permanent::[[not-a-link|Magma Hammer]] [ilvl::5] [gp::400]
 > - [x] permanent::[[poisonous-dagger-bb|Poisonous Dagger]] [ilvl::5] [gp::150]
 > - [x] consumable::[[tentacle-potion-tv|Tentacle Potion (Lesser)]] [ilvl::6] [gp::33]

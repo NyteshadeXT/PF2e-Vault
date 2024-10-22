@@ -3,6 +3,30 @@ title: The Lost Library
 adventure_status: Done
 total_xp: 305
 completed_xp: 305
+awarded_pp: 0
+awarded_gp: 0
+awarded_sp: 0
+awarded_cp: 0
+awarded_permanent_items:
+  - name: Formula - 2 Salve of Antiparalysis
+    ilvl: 2
+    gp: 2
+  - name: Formula - 5 Talisman (Dupe's Gold Nugget)
+    ilvl: 5
+    gp: 8
+  - name: Voren's Eternal Chalk
+    ilvl: 5
+    gp: 100
+  - name: Voren's Eternal Lantern
+    ilvl: 5
+    gp: 100
+awarded_consumable_items:
+  - name: Fearcracker
+    ilvl: 5
+    gp: 25
+  - name: Acid Flask (Moderate) x2
+    ilvl: 3
+    gp: 20
 ---
 
 ![[2F - The Lost Library (D173)-20240103130230585.webp|right|900]]
@@ -152,6 +176,15 @@ The hobgoblin generals reluctantly joins Gravash in combat, moving into a flanki
 
 **Portal:** The portal in the corner leads to the final room in this portion of Voran’s library, and [[04) The Inner Sanctum]] 
 
+> [!tip]+ Treasure
+> Text
+> 
+> - [x] permanent::[[Formula - 2 Salve of Antiparalysis|Formula - 2 Salve of Antiparalysis]] [ilvl::2] [gp::2]
+> - [x] permanent::[[Formula - 5 Talisman (Dupe's Gold Nugget)|Formula - 5 Talisman (Dupe's Gold Nugget)]] [ilvl::5] [gp::8]
+> - [x] permanent::[[Voren's Eternal Chalk|Voren's Eternal Chalk]] [ilvl::5] [gp::100]
+> - [x] consumable::[[fearcracker-tv|Fearcracker]] [ilvl::5] [gp::25]
+> - [x] consumable::[[acid-flask|Acid Flask (Moderate) x2]] [ilvl::3] [gp::20]
+
 # Encounter 3 - The Inner Sanctum
 ![[Pasted image 20230725161859.png]]
 
@@ -201,6 +234,11 @@ Nibbik is a coward and tries to keep Hesskin between himself and the PCs. Nibbik
 If another one of Voran’s item keys is used by the circle, a portal opens allowing access to another chamber.  [[voran's-eternal-lantern|Voren's Eternal Lantern]] creates the link to the library. If [[voran's-eternal-chalk|Voran's Eternal Chalk]] is used to draw a red line in the circle, a portal is opened to Voran’s study, in the adventure “Stick in the Mud”. The portal remains open until the party takes an long rest. 
 
 **Hatch:** The hatch requires a DC 22 [[skills#athletics|Athletics]] check to open. Below the hatch is a set of circular stairs that lead to a small living area that provides enough room for the characters to take a long rest. The hatch can be bolted from within. The living area is enchanted, providing individual resting chambers for up to ten creatures. The name of each of the PCs is written on one of these doors. Items left in the chamber will be there when the owner returns.
+
+> [!tip]+ Treasure
+> Text
+> 
+> - [x] permanent::[[Voren's Eternal Lantern|Voren's Eternal Lantern]] [ilvl::5] [gp::100]
 
 ## Concluding the Adventure
 If the characters decide to spare Nibbik, you have the option of introducing hobgoblins as companion characters to the party. 

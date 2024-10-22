@@ -3,6 +3,18 @@ title: Dead by Dawn
 adventure_status: Done
 total_xp: 370
 completed_xp: 370
+awarded_pp: 0
+awarded_gp: 110
+awarded_sp: 0
+awarded_cp: 0
+awarded_permanent_items: []
+awarded_consumable_items:
+  - name: Healing Potion (Lesser) x2
+    ilvl: 3
+    gp: 24
+  - name: Holy Water x4
+    ilvl: 1
+    gp: 12
 ---
 
 # Background
@@ -69,11 +81,14 @@ It should be obvious to the characters the statue is a representation of Orcus, 
 
 **Trapdoor:** The trapdoor opens easily and leads to the temple rectory. 
 
-## Treasure
-Behind the great statue of Orcus, hidden in a hollow beneath a loose stone in the floor, lies a cache of holy items secreted by the faithful of Waukeen long ago. If the characters succeeded at the Perception or Religion checks from examining the mural of Waukeen, they learn the exact location of the cache. If they failed the skill checks, they might still find the cache of items after The Siege Begins encounter (page 31). The cache contains four vials of holy water (level 1) and two potions of healing (lessor).
+> [!tip]+ Treasure
+> Behind the great statue of Orcus, hidden in a hollow beneath a loose stone in the floor, lies a cache of holy items secreted by the faithful of Waukeen long ago. If the characters succeeded at the Perception or Religion checks from examining the mural of Waukeen, they learn the exact location of the cache. If they failed the skill checks, they might still find the cache of items after The Siege Begins encounter (page 31). The cache contains four vials of holy water (level 1) and two potions of healing (lessor).
+> 
+> - [x] consumable::[[healing-potion|Healing Potion (Lesser) x2]] [ilvl::3] [gp::24]
+> - [x] consumable::[[holy-water-bb|Holy Water x4]] [ilvl::1] [gp::12]
 
 # Encounter 2 - The Rectory
-![[Pasted image 20230422110913.png]]
+![[Pasted image 20230422110913.png]]:
 
 **Encounter Difficulty:** 
 - [x] Trivial (30 XP)
@@ -139,8 +154,10 @@ Now that the characters have the necroshard and likely understand its dire poten
 
 **Tables and Chairs:** The tables and chairs are difficult terrain.
 
-## Treasure 
-If the characters search the adventurers’ corpses, they can identify Doran Underhelm by a tattoo of two crossed axes on his left forearm. As Farian promised, Doran has the rogue’s 100 gp payment and a pair of small agate (worth 5 sp each) in a large pouch on his belt.
+> [!tip]+ Treasure
+> If the characters search the adventurers’ corpses, they can identify Doran Underhelm by a tattoo of two crossed axes on his left forearm. As Farian promised, Doran has the rogue’s 100 gp payment and a pair of small agate (worth 5 sp each) in a large pouch on his belt.
+> 
+> - [x] gp::110
 
 # Encounter 3 - Zombie Siege
 ![[Pasted image 20230422151355.png]]

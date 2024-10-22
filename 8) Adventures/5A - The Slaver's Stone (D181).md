@@ -3,6 +3,12 @@ title: The Slaver's Stone
 adventure_status: Not Started
 total_xp: 700
 completed_xp: 0
+awarded_pp: 0
+awarded_gp: 0
+awarded_sp: 0
+awarded_cp: 0
+awarded_permanent_items: []
+awarded_consumable_items: []
 ---
 
 # Background
@@ -337,6 +343,9 @@ If the characters wipe out the bandits and learn nothing from them, all is not l
 ### Features of the Area
 > [!tip]+ Treasure
 > In addition to the gear carried by the captain, hunter and mage, the bandits have 2 [[healing-potion|Healing Potion (Moderate)]] and a sack of 80 gp (payment from Magrak).
+> 
+> - [ ] gp::80
+> - [ ] consumable::[[healing-potion|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
 
 ## Encounter 2: Dung and Feathers
 - [ ] Moderate (80 XP) Level 11
@@ -381,6 +390,11 @@ The harpies start the fight by using Captivating Song against enemies and then s
 
 > [!tip]+ Treasure
 > The harpies keep their wealth stashed atop one of the stones. It consists of 63 gp and 34 sp, [[enervation-apg|Spell Scroll - 4th Level (Enervation)]] and [[blood-booster-tv|Blood Booster (Moderate)]].
+> 
+> - [ ] gp::63
+> - [ ] sp::34
+> - [ ] consumable::[[blood-booster-tv|Blood Booster (Moderate)]] [ilvl::11] [gp::225]
+> - [ ] consumable::[[enervation-apg|Spell Scroll - 4th Level (Enervation)]] [ilvl::7] [gp::70]
 
 ## Encounter 3: Chain Gang
 - [ ] Low (30 XP) Level 11
@@ -423,6 +437,10 @@ The orcs abandon their prisoners on the first round by using ferocious charge to
 
 > [!tip]+ Treasure
 > Magrak has a sack filled with coins that includes 58 gp, 97 sp and 24 cp.
+> 
+> - [ ] gp::58
+> - [ ] sp::97
+> - [ ] cp::24
 
 ## Encounter 4: Guardians of the Skull
 - [ ] Moderate (110 XP) Level 11
@@ -460,6 +478,9 @@ The ghouls hold positions in front of the gap, using claw or bite attacks agains
 
 > [!tip]+ Treasure
 > Scattered across the ground are 42 gp and a pouch of [[scour-gmg|Scour]].
+> 
+> - [ ] gp::42
+> - [ ] consumable::[[scour-gmg|Scour]] [ilvl::8] [gp::80]
 
 ## Encounter 5: Eyes in the Dark
 - [ ] Severe (120 XP) Level 11
@@ -502,4 +523,6 @@ Her servants emerge from the waters to attack.
 **Skiff:** The boat can hold two Medium or Small creatures. Characters standing on the boat that make an attack must immediately succeed on a DC 22 [[skills#Acrobatics|Acrobatics]] check or fall prone in the boat. Failure by 10 or more topples the character into the water.
 
 > [!tip]+ Treasure
-> If the dragon does not grant the heroes a boon, they can find a [[sapling-shield-tv|Sapling Shield]] on the rocks where the dragon lairs.
+> If the dragon does not grant the heroes a boon, they can find a [[sapling-shield-tv|Sapling Shield (Moderate)]] on the rocks where the dragon lairs.
+> 
+> - [ ] permanent::[[sapling-shield-tv|Sapling Shield (Moderate)]] [ilvl::9] [gp::680]

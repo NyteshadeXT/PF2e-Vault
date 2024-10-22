@@ -1,6 +1,24 @@
 ---
 total_xp: 200
 completed_xp: 200
+awarded_pp: 0
+awarded_gp: 0
+awarded_sp: 0
+awarded_cp: 0
+awarded_permanent_items:
+  - name: +1 Armor Potency
+    ilvl: 5
+    gp: 160
+  - name: Ghost Touch
+    ilvl: 4
+    gp: 75
+  - name: +1 Weapon Potency
+    ilvl: 2
+    gp: 35
+  - name: Low-Grad Silver Battle Axe
+    ilvl: 2
+    gp: 20
+awarded_consumable_items: []
 ---
 # Running the Adventure
 **Total Adventure Value:** 200 xp
@@ -125,6 +143,12 @@ Once the players remove the cover of the sarcophagus, read:
 
 > [!tip]+ Treasure
 > The equipment found in the sarcophagus is magical.  The players find a holy relic of Moradin (the circlet), [[resilient|+1 Resilient Splint Mail]], [[ghost-touch|+1 Ghost Touch Battle Axe]] and a [[silver|Low-Grade Silver Battle Axe]].
+> 
+> - [x] permanent::[[resilient|Resilient]] [ilvl::8] [gp::340
+> - [x] permanent::[[armor-potency|+1 Armor Potency]] [ilvl::5] [gp::160]
+> - [x] permanent::[[ghost-touch|Ghost Touch]] [ilvl::4] [gp::75]
+> - [x] permanent::[[weapon-potency|+1 Weapon Potency]] [ilvl::2] [gp::35]
+> - [x] permanent::[[silver|Low-Grad Silver Battle Axe]] [ilvl::2] [gp::20]
 
 ## Features of the Area
 **Illumination:** Complete darkness.

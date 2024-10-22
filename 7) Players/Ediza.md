@@ -1,8 +1,8 @@
 ---
-hp: 89
-ac: 27
-modifier: 14
-level: 9
+hp: 108
+ac: 28
+modifier: 16
+level: 10
 Player_Name: Bob
 Alignment: LN
 Class: Magus

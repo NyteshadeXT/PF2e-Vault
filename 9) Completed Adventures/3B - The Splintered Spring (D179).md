@@ -1,6 +1,27 @@
 ---
 total_xp: 315
 completed_xp: 315
+awarded_pp: 9
+awarded_gp: 78
+awarded_sp: 0
+awarded_cp: 0
+awarded_permanent_items:
+  - name: Ethersight Ring
+    ilvl: 7
+    gp: 325
+awarded_consumable_items:
+  - name: Copper Penny
+    ilvl: 5
+    gp: 30
+  - name: Etheric Essence Disruptor (Moderate)
+    ilvl: 7
+    gp: 360
+  - name: Eagle Eye Elixir (Moderate)
+    ilvl: 5
+    gp: 27
+  - name: Beckoning Cat Amulet
+    ilvl: 5
+    gp: 26
 ---
 ![[3B - The Splintered Spring (D179)-20240103130445894.webp|right]]
 
@@ -271,4 +292,12 @@ The symbols here have the same effect on a character that studies them as those 
 In addition to treasure, the dolgaunt has cast aside the gear of the creatures whose magic it has stolen, including a fragment of an adventurer’s map. The map shows part of a series of caverns and is annotated with cramped handwriting. This cryptic introduction to a wider foulspawn cult worshiping the power at the heart of the Chaos Scar connects to upcoming adventures.
 
 > [!tip]+ Treasure
-> Found in the dolgaunt's lair is an [[ethersight-ring-aoe2|Ethersight Ring]], a [[copper-penny-tv|Copper Penny]], [[etheric-essence-disruptor-g-g|Etheric Essence Disruptor]], [[eagle-eye-elixir|Eagle Eye Elixer]], a [[beckoning-cat-amulet-ec2|Beckoning Cat Amulet]], 9 pp and 78 gp.
+> Found in the dolgaunt's lair is an [[ethersight-ring-aoe2|Ethersight Ring]], a [[copper-penny-tv|Copper Penny]], [[etheric-essence-disruptor-g-g|Etheric Essence  (Moderate)]], [[eagle-eye-elixir|Eagle Eye Elixir (Moderate)]], a [[beckoning-cat-amulet-ec2|Beckoning Cat Amulet]], 9 pp and 78 gp.
+> 
+> - [x] pp::9()
+> - [x] gp::78
+> - [x] permanent::[[ethersight-ring-tv|Ethersight Ring]] [ilvl::7] [gp::325]
+> - [x] consumable::[[copper-penny-tv|Copper Penny]] [ilvl::5] [gp::30]
+> - [x] consumable::[[etheric-essence-disruptor-g-g|Etheric Essence Disruptor (Moderate)]] [ilvl::7] [gp::360]
+> - [x] consumable::[[eagle-eye-elixir|Eagle Eye Elixir (Moderate)]] [ilvl::5] [gp::27]
+> - [x] consumable::[[beckoning-cat-amulet-ec2|Beckoning Cat Amulet]] [ilvl::5] [gp::26]
