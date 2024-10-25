@@ -1,68 +1,24 @@
 {
   "main": {
-    "id": "fc103a10e9e65232",
+    "id": "9bb380c3da42d005",
     "type": "split",
     "children": [
       {
-        "id": "fd72a5f67936ff6c",
+        "id": "474644362a626115",
         "type": "tabs",
         "children": [
           {
-            "id": "d0b84a0e39ddf570",
+            "id": "e7f86e5fc9a1d680",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7) Players/7) Players.md",
-                "mode": "preview",
+                "file": "8) Adventures/Halloween 2024.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "7) Players"
-            }
-          },
-          {
-            "id": "34e61e8340170d83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1) GM Screen/Adventure Loot.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Adventure Loot"
-            }
-          },
-          {
-            "id": "4d683cdafb9548cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1) GM Screen/Experience Tracker.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Experience Tracker"
-            }
-          },
-          {
-            "id": "78860cf7d747328b",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "1) GM Screen/GM-Screen.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "GM-Screen"
+              "title": "Halloween 2024"
             }
           }
         ]
@@ -71,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2277611cb8e78e1f",
+    "id": "ff55ceab1b32f772",
     "type": "split",
     "children": [
       {
-        "id": "7af1b79df1093c87",
+        "id": "81a3266a3fcf5897",
         "type": "tabs",
         "children": [
           {
-            "id": "1944b954272f3c19",
+            "id": "ec62640f440ca2e1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -91,7 +47,7 @@
             }
           },
           {
-            "id": "dac42b3e295ff408",
+            "id": "6d7e0c84073e8605",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -108,7 +64,7 @@
             }
           },
           {
-            "id": "881390af9d97e7c3",
+            "id": "0a342b99f3a20cef",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -121,23 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 300
   },
   "right": {
-    "id": "f8e1763463e4454b",
+    "id": "c1e7f89698746211",
     "type": "split",
     "children": [
       {
-        "id": "1c8d0f25885be05e",
+        "id": "7f58ae8f958cd4d9",
         "type": "tabs",
         "children": [
           {
-            "id": "2edb6917b8a884e7",
+            "id": "9c066aefa3ef7e38",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7) Players/7) Players.md",
+                "file": "8) Adventures/Halloween 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,11 +103,38 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 7) Players"
+              "title": "Backlinks for Halloween 2024"
             }
           },
           {
-            "id": "8192264afbfa894c",
+            "id": "993d94fc44676734",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "8) Adventures/Halloween 2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Halloween 2024"
+            }
+          },
+          {
+            "id": "08c9e96e7fb347e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a860a11984f4198d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -165,46 +148,19 @@
             }
           },
           {
-            "id": "cb9c4b1f3dd65359",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "7) Players/7) Players.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 7) Players"
-            }
-          },
-          {
-            "id": "b139190fe1517002",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "192e6d16a3e64d13",
+            "id": "f8d754b1e9d92a19",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "7) Players/7) Players.md"
+                "file": "8) Adventures/Halloween 2024.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 7) Players"
+              "title": "Outline of Halloween 2024"
             }
           },
           {
-            "id": "24a9d330759c6c24",
+            "id": "9ab780e569c0b2ab",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -214,7 +170,7 @@
             }
           },
           {
-            "id": "088ea874afb476b7",
+            "id": "35bef6ada48cc618",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -222,55 +178,21 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
-          },
-          {
-            "id": "4b45a9e3b0e0e033",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_d8786a5ba87a",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 9,
-                    "month": 13,
-                    "year": 1491
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                },
-                "id": "ID_4baaf87a98c8"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
           }
         ],
         "currentTab": 5
-      },
-      {
-        "id": "12f4ee87c3e37d55",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7d9c6ee02b8e08b0",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 490.5
+    "width": 418.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
@@ -280,117 +202,46 @@
       "dbfolder:Create a new database table": false,
       "templater-obsidian:Templater": false,
       "obsidian42-brat:BRAT": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "de518f5150ce465c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "77cf4103e04f59fe",
-        "type": "window",
-        "children": [
-          {
-            "id": "d984ab965e853627",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "52addfde59457823",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-player-view",
-                  "state": {},
-                  "icon": "lucide-view",
-                  "title": "Player View"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 4096,
-        "y": -216,
-        "width": 640,
-        "height": 672,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "20f5484d94f7c54f",
-        "type": "window",
-        "children": [
-          {
-            "id": "c9be841fd1a47677",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0881d5d9a19914a8",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "zz-Attachments/The Pumpkin Queen.png"
-                  },
-                  "icon": "lucide-image",
-                  "title": "The Pumpkin Queen"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 3456,
-        "y": -216,
-        "width": 640,
-        "height": 672,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "d0b84a0e39ddf570",
+  "active": "e7f86e5fc9a1d680",
   "lastOpenFiles": [
-    "9) Completed Adventures/The Alchemist’s Eyrie.md",
-    "9) Completed Adventures/Halloween 2023 One-Shot.md",
-    "zz-Attachments/The Pumpkin Queen.png",
-    "8) Adventures/4B - The Pillar of Eyes (D180).md",
-    "1) GM Screen/GM-Screen.md",
-    "2) compendium/equipment/relic-gifts/grappling-vine.md",
-    "2) compendium/equipment/items/Homebrew/tempered-harmony-hb.md",
-    "7) Players/Winter.md",
-    "2) compendium/equipment/items/Homebrew/avengers-needle-hb.md",
+    "zz-Attachments/Pumpkin Patch.webp",
+    "4) Bestiary/unique-creatures/Dreadmarrow.md",
+    "zz-Attachments/Dreadmarrow.webp",
+    "zz-Attachments/Dreadmarrow-20241025171812077.webp",
+    "4) Bestiary/homebrew/homebrew.md",
+    "4) Bestiary/homebrew/glass-guardian.md",
+    "4) Bestiary/homebrew/dolgrim.md",
+    "4) Bestiary/homebrew/dolgaunt.md",
+    "4) Bestiary/homebrew/dolgarr.md",
+    "4) Bestiary/homebrew/deathjump-spider.md",
+    "4) Bestiary/homebrew/chaos-spwaned-merloc.md",
+    "4) Bestiary/homebrew/bugbear-warrior.md",
+    "4) Bestiary/homebrew/beholder-gauth.md",
+    "4) Bestiary/homebrew/acolyte-of-the-radiant-morn.md",
+    "4) Bestiary/adventure-paths/skin-beetle.md",
+    "4) Bestiary/adventure-paths/Shadowforged Guardian.md",
+    "4) Bestiary/adventure-paths/serpentfolk-venom-caller.md",
+    "4) Bestiary/adventure-paths/Mutant Bat.md",
+    "4) Bestiary/adventure-paths/harpy-warbird.md",
+    "4) Bestiary/adventure-paths/granitescale-serpentfolk.md",
+    "8) Adventures/Halloween 2024.md",
+    "zz-Attachments/Haunting Shadows.webp",
+    "zz-Attachments/Portal to Harley's Domain - Corrupted.webp",
+    "4) Bestiary/adventure-paths/adventure-paths.md",
     "7) Players/Varas.md",
-    "7) Players/Ediza.md",
-    "7) Players/Mordak.md",
-    "2) compendium/equipment/items/Homebrew/orders-covenant-hb.md",
-    "7) Players/7) Players.md",
-    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
-    "9) Completed Adventures/The Shattered Mind.md",
+    "4) Bestiary/homebrew/Graveknight.md",
     "8) Adventures/2G - The Crossroads (D176).md",
-    "1) GM Screen/Experience Tracker.md",
-    "zz-Attachments/Manifestation of Kataklysmos.webp",
-    "zz-Attachments/Mirror of Truth.webp",
-    "zz-Attachments/Stumbling Giant - Zetas Mind.webp",
-    "1) GM Screen/Adventure Loot.md",
-    "9) Completed Adventures/1A - Stick in the Mud (D171).md",
-    "9) Completed Adventures/1B - Den of the Slavetakers (D171).md",
-    "9) Completed Adventures/1C - The Brothers Gray (D172).md",
-    "8) Adventures/6A - Rumble in the Valley (D193).md",
-    "3) Rules/3) Rules.md",
-    "3) Rules/tables/tables.md",
-    "3) Rules/tables/party-treasure-by-level.md",
-    "zz-Scripts/update_treasure.js",
-    "zz-Scripts/Update_treasure.js",
-    "8) Adventures/Untitled",
-    "zz-Scripts/update_xp.js",
-    "zz-Attachments/Forest of Forgotten Memories.webp",
-    "zz-Scripts",
-    "zz-Attachments/Ardia Ironleaf.png"
+    "8) Adventures/4B - The Pillar of Eyes (D180).md",
+    "zz-Attachments/Pasted image 20230830164356.png",
+    "zz-Attachments/Pasted image 20230830164532.png",
+    "zz-Attachments/Pasted image 20240817120426.png",
+    "zz-Attachments/Pasted image 20230307211113.png",
+    "zz-Attachments/Pasted image 20230307210234.png",
+    "zz-Attachments/Pasted image 20230307205851.png",
+    "9) Completed Adventures/The Shattered Mind.md",
+    "8) Adventures/8) Adventures.md"
   ]
 }
