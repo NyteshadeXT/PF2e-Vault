@@ -3,6 +3,12 @@ title: The Shattered Mind
 adventure_status: Done
 total_xp: 460
 completed_xp: 460
+awarded_pp: 0
+awarded_gp: 0
+awarded_sp: 0
+awarded_cp: 0
+awarded_permanent_items: []
+awarded_consumable_items: []
 ---
 
 ![[Portal to Harley's Domain - Corrupted.webp|600]]
@@ -25,7 +31,7 @@ When the players step through the portal, read:
 
 ### # Encounter 1 - The Haunting Shadows (Level: 10)
 
-![[Haunting Shadows.webp]]
+![[Haunting Shadows.webp|600]]
 [[Haunting Shadows.webp|Show to Players]]
 
 > [!note]+ Read Aloud  
@@ -159,4 +165,12 @@ Dreadmarrow appears like a harbinger of nightmare itself, towering and lanky, wi
 > As you step out, you realize that, indeed, only a few hours have passed—just enough for you to feel a lingering sense of adventure and, in your pockets, the curious treasures Harley has bestowed upon you as tokens of her gratitude.
 
 > [!tip]+ Treasure
-> Put new treasure here
+> Heaped among the holiday treats are 300 gp, 1500 sp, 5000 cp and  [[Grave-Tide|Grave-Tide]], [[Gravekeeper Bow|Gravekeeper Bow]], [[Imbued Grave Dirt|Imbued Grave Dirt]] and [[Rot Lord's Ring|Rot Lord's Ring]]
+> 
+> - [ ] gp::300
+> - [ ] sp::1500
+> - [ ] cp::5000
+> - [ ] permanent::[[Grave-Tide]] [ilvl::10] [gp::900]
+> - [ ] permanent::[[Gravekeeper Bow]] [ilvl::10] [gp::1000]
+> - [ ] permanent::[[Imbued Grave Dirt]] [ilvl::10] [gp::800]
+> - [ ] consumable::[[Rot Lord's Ring]] [ilvl::10] [gp::1000]

@@ -21,7 +21,7 @@ aliases:
 
 # Rot Lord's Ring *Item 10*  
 
-[Rare](rules/traits/Rare.md "Rare Rarity Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait") [magical](rules/traits/magical.md "Magical Item Trait")
+[Rare](rare.md)  [necromancy](necromancy.md) [magical](magical.md)
 
 - **Price** 1,000 gp
 - **Bulk** -; **Usage** worn

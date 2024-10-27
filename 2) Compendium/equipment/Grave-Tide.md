@@ -6,7 +6,6 @@ cssclasses:
 tags:
   - compendium/src/pf2e/hb
   - item/category/weapon/
-  - trait/invested
   - trait/magical
   - trait/necromancy
   - trait/negative
@@ -19,7 +18,7 @@ aliases:
 
 ![[Grave-Tide.webp|right|500]]
 [[Grave-Tide.webp|Show to Players]]
-[rare](rules/traits/rare.md "Rare Rarity Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [negative](rules/traits/negative.md "Negative Item Trait")
+[rare](rare.md)  [necromancy](necromancy.md)  [magical](magical.md)  [negative](negative.md)
 
 - **Price** 900 gp
 - **Bulk** 1; **Usage** held in 1 hand

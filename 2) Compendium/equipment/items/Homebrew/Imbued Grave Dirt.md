@@ -6,12 +6,11 @@ cssclasses:
 tags:
   - compendium/src/pf2e/hb
   - item/category/weapon/
-  - trait/invested
-  - trait/magical
+  - trait/consumable
   - trait/necromancy
   - trait/positive
   - trait/divine
-  - trait/rare
+  - trait/uncommon
 aliases:
   - Imbued Grave Dirt
 ---
@@ -20,7 +19,7 @@ aliases:
 
 # Imbued Grave Dirt *Item 10*  
 
-[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  [consumable](rules/traits/consumable.md "Consumable Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait") [positive](rules/traits/negative.md "Positive Item Trait") [divine](rules/traits/divine.md "Divine Item Trait")
+[uncommon](uncommon.md)  [consumable](consumable.md)  [necromancy](necromancy.md) [positive](negative.md) [divine](divine.md)
 
 - **Price** 800 gp
 - **Bulk** L; **Usage** held in 1 hand

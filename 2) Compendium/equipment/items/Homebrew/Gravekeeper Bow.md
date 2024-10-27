@@ -6,7 +6,6 @@ cssclasses:
 tags:
   - compendium/src/pf2e/hb
   - item/category/weapon/
-  - trait/invested
   - trait/magical
   - trait/necromancy
   - trait/positive
@@ -20,7 +19,7 @@ aliases:
 
 # Gravekeeper Bow *Item 10*  
 
-[rare](rules/traits/rare.md "Rare Rarity Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [positive](rules/traits/negative.md "Positive Item Trait") [divine](rules/traits/divine.md "Divine Item Trait")
+[rare](rare.md)  [necromancy](necromancy.md)  [magical](magical.md)  [positive](negative.md) [divine](divine.md)
 
 - **Price** 1000 gp
 - **Bulk** 1; **Usage** held in 2 hands

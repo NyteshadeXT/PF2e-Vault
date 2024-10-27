@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1) Notes & In Progress Work/Rot Lord's Ring.md",
+                "file": "8) Adventures/4D - Stormcrow Tor (D169).md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Rot Lord's Ring"
+              "title": "4D - Stormcrow Tor (D169)"
+            }
+          },
+          {
+            "id": "b087f0f43a0ad247",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2) Compendium/equipment/relic-gifts/grappling-vine.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "grappling-vine"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.5
+    "width": 420.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,39 +220,40 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7f86e5fc9a1d680",
+  "active": "b087f0f43a0ad247",
   "lastOpenFiles": [
-    "1) Notes & In Progress Work/Imbued Grave Dirt.md",
-    "1) Notes & In Progress Work/Rot Lord's Ring.md",
-    "zz-Attachments/Rot Lords Ring.webp",
-    "1) Notes & In Progress Work/Gravekeeper Bow.md",
-    "zz-Attachments/Imbued Grave Dirt.webp",
-    "1) Notes & In Progress Work/Grave-Tide.md",
+    "2) Compendium/equipment/items/Homebrew/tempered-harmony-hb.md",
+    "7) Players/Winter.md",
+    "7) Players/Varas.md",
+    "2) Compendium/equipment/items/Homebrew/avengers-needle-hb.md",
+    "7) Players/Mordak.md",
+    "2) Compendium/equipment/items/Homebrew/orders-covenant-hb.md",
+    "7) Players/Ediza.md",
+    "8) Adventures/Halloween 2024.md",
+    "8) Adventures/Menace at Otari.md",
+    "8) Adventures/Rescuing Riddle (See 5A).md",
+    "8) Adventures/Ambushed (See 5A).md",
+    "8) Adventures/6A - Rumble in the Valley (D193).md",
+    "8) Adventures/5A - The Slaver's Stone (D181).md",
+    "8) Adventures/4D - Stormcrow Tor (D169).md",
+    "8) Adventures/4B - The Pillar of Eyes (D180).md",
+    "8) Adventures/2G - The Crossroads (D176).md",
+    "1) GM Screen/Adventure Loot.md",
     "2) Compendium/equipment/equipment.md",
+    "2) Compendium/equipment/Grave-Tide.md",
+    "4) Bestiary/4) Bestiary.md",
+    "2) Compendium/equipment/items/Homebrew/Gravekeeper Bow.md",
+    "1) Notes & In Progress Work/Hive Guard.md",
+    "2) Compendium/equipment/items/Homebrew/Imbued Grave Dirt.md",
+    "2) Compendium/equipment/items/Homebrew/Rot Lord's Ring.md",
+    "zz-Attachments/Rot Lords Ring.webp",
+    "zz-Attachments/Imbued Grave Dirt.webp",
     "2) Compendium/equipment/items/polarizing-mace-tv.md",
     "2) Compendium/equipment/items/animal-repellent-tv.md",
-    "2) Compendium/equipment/items/Homebrew/avengers-needle-hb.md",
-    "2) Compendium/equipment/items/ambrosia-of-undying-hope-ec6.md",
-    "2) Compendium/equipment/items/animal-staff.md",
-    "2) Compendium/equipment/items/abysium-lotgb.md",
     "zz-Attachments/Grave-Tide.webp",
-    "2) Compendium/equipment/items/Homebrew/ancestral-predator.md",
-    "2) Compendium/equipment/items/items.md",
-    "8) Adventures/Halloween 2024.md",
     "zz-Attachments/Pumpkin Patch.webp",
-    "4) Bestiary/unique-creatures/Dreadmarrow.md",
     "zz-Attachments/Dreadmarrow.webp",
     "zz-Attachments/Dreadmarrow-20241025171812077.webp",
-    "4) Bestiary/homebrew/homebrew.md",
-    "4) Bestiary/homebrew/glass-guardian.md",
-    "4) Bestiary/homebrew/dolgrim.md",
-    "4) Bestiary/homebrew/dolgaunt.md",
-    "4) Bestiary/homebrew/dolgarr.md",
-    "4) Bestiary/homebrew/deathjump-spider.md",
-    "4) Bestiary/homebrew/chaos-spwaned-merloc.md",
-    "4) Bestiary/homebrew/bugbear-warrior.md",
-    "4) Bestiary/homebrew/beholder-gauth.md",
-    "4) Bestiary/homebrew/acolyte-of-the-radiant-morn.md",
     "zz-Attachments/Haunting Shadows.webp",
     "zz-Attachments/Portal to Harley's Domain - Corrupted.webp",
     "zz-Attachments/Pasted image 20230830164356.png",
