@@ -13,30 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/4D - Stormcrow Tor (D169).md",
-                "mode": "source",
+                "file": "8) Adventures/Halloween 2024.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "4D - Stormcrow Tor (D169)"
+              "title": "Halloween 2024"
             }
           },
           {
             "id": "b087f0f43a0ad247",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2) Compendium/equipment/relic-gifts/grappling-vine.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "grappling-vine"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,10 +191,26 @@
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "d295670d03f2b3c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8be87516aaf0898",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 420.5
+    "width": 473.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,8 +231,81 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b087f0f43a0ad247",
+  "floating": {
+    "id": "767da1f89fe961b4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ccf2001ca5966c25",
+        "type": "window",
+        "children": [
+          {
+            "id": "46fe2f00e0cc3ea0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "34a077a04eea1fa4",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {},
+                  "icon": "lucide-view",
+                  "title": "Player View"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 4096,
+        "y": -216,
+        "width": 640,
+        "height": 672,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "9562179f0bb308d8",
+        "type": "window",
+        "children": [
+          {
+            "id": "b4810ef481c0dbee",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "60924f05f4e338f1",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "zz-Attachments/Pumpkin Patch.webp"
+                  },
+                  "icon": "lucide-image",
+                  "title": "Pumpkin Patch"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 3456,
+        "y": -216,
+        "width": 640,
+        "height": 672,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e7f86e5fc9a1d680",
   "lastOpenFiles": [
+    "zz-Attachments/Pumpkin Patch.webp",
+    "8) Adventures/Halloween 2024.md",
+    "Creature Family Ability Glossary/(Graveknight) Graveknight's Curse.md",
+    "Creature Family Ability Glossary",
+    "zz-Attachments/Haunting Shadows.webp",
+    "zz-Attachments/Portal to Harley's Domain - Corrupted.webp",
+    "8) Adventures/4D - Stormcrow Tor (D169).md",
     "2) Compendium/equipment/items/Homebrew/tempered-harmony-hb.md",
     "7) Players/Winter.md",
     "7) Players/Varas.md",
@@ -229,13 +313,11 @@
     "7) Players/Mordak.md",
     "2) Compendium/equipment/items/Homebrew/orders-covenant-hb.md",
     "7) Players/Ediza.md",
-    "8) Adventures/Halloween 2024.md",
     "8) Adventures/Menace at Otari.md",
     "8) Adventures/Rescuing Riddle (See 5A).md",
     "8) Adventures/Ambushed (See 5A).md",
     "8) Adventures/6A - Rumble in the Valley (D193).md",
     "8) Adventures/5A - The Slaver's Stone (D181).md",
-    "8) Adventures/4D - Stormcrow Tor (D169).md",
     "8) Adventures/4B - The Pillar of Eyes (D180).md",
     "8) Adventures/2G - The Crossroads (D176).md",
     "1) GM Screen/Adventure Loot.md",
@@ -248,14 +330,9 @@
     "2) Compendium/equipment/items/Homebrew/Rot Lord's Ring.md",
     "zz-Attachments/Rot Lords Ring.webp",
     "zz-Attachments/Imbued Grave Dirt.webp",
-    "2) Compendium/equipment/items/polarizing-mace-tv.md",
-    "2) Compendium/equipment/items/animal-repellent-tv.md",
     "zz-Attachments/Grave-Tide.webp",
-    "zz-Attachments/Pumpkin Patch.webp",
     "zz-Attachments/Dreadmarrow.webp",
     "zz-Attachments/Dreadmarrow-20241025171812077.webp",
-    "zz-Attachments/Haunting Shadows.webp",
-    "zz-Attachments/Portal to Harley's Domain - Corrupted.webp",
     "zz-Attachments/Pasted image 20230830164356.png",
     "zz-Attachments/Pasted image 20230830164532.png"
   ]

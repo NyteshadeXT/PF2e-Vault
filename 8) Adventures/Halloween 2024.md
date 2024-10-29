@@ -43,7 +43,7 @@ When the players step through the portal, read:
 
 **Encounter Difficulty:**
 
-- [ ]  Moderate (80 XP)
+- [x]  Moderate (80 XP)
 
 **Creatures:**
 
