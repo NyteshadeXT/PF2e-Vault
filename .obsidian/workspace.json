@@ -13,25 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/Halloween 2024.md",
+                "file": "1) Notes & In Progress Work/To Do List.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "To Do List"
+            }
+          },
+          {
+            "id": "ef8e9147f900377c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1) GM Screen/DC_Calculators.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Halloween 2024"
+              "title": "DC_Calculators"
             }
           },
           {
             "id": "b087f0f43a0ad247",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "8) Adventures/4B - The Pillar of Eyes (D180).md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "4B - The Pillar of Eyes (D180)"
+            }
+          },
+          {
+            "id": "0cc738ddb000a9d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5) World/The Chaos Scar/Chaos Scar - Player View.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Chaos Scar - Player View"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,6 +129,7 @@
       {
         "id": "7f58ae8f958cd4d9",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "9c066aefa3ef7e38",
@@ -122,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8) Adventures/Halloween 2024.md",
+                "file": "8) Adventures/4B - The Pillar of Eyes (D180).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Halloween 2024"
+              "title": "Outgoing links from 4B - The Pillar of Eyes (D180)"
             }
           },
           {
@@ -195,6 +229,7 @@
       {
         "id": "d295670d03f2b3c8",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "e8be87516aaf0898",
@@ -232,19 +267,19 @@
     }
   },
   "floating": {
-    "id": "767da1f89fe961b4",
+    "id": "e3bb04e408387f7c",
     "type": "floating",
     "children": [
       {
-        "id": "ccf2001ca5966c25",
+        "id": "b53d24f17e048151",
         "type": "window",
         "children": [
           {
-            "id": "46fe2f00e0cc3ea0",
+            "id": "ac58f85a8c334f52",
             "type": "tabs",
             "children": [
               {
-                "id": "34a077a04eea1fa4",
+                "id": "e8f9b3b9e9ff0702",
                 "type": "leaf",
                 "state": {
                   "type": "initiative-tracker-player-view",
@@ -257,83 +292,52 @@
           }
         ],
         "direction": "vertical",
-        "x": 4096,
-        "y": -216,
-        "width": 640,
-        "height": 672,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "9562179f0bb308d8",
-        "type": "window",
-        "children": [
-          {
-            "id": "b4810ef481c0dbee",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "60924f05f4e338f1",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "zz-Attachments/Pumpkin Patch.webp"
-                  },
-                  "icon": "lucide-image",
-                  "title": "Pumpkin Patch"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 3456,
-        "y": -216,
-        "width": 640,
-        "height": 672,
+        "x": 768,
+        "y": 0,
+        "width": 768,
+        "height": 816,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "e7f86e5fc9a1d680",
+  "active": "b087f0f43a0ad247",
   "lastOpenFiles": [
-    "zz-Attachments/Pumpkin Patch.webp",
-    "8) Adventures/Halloween 2024.md",
-    "Creature Family Ability Glossary/(Graveknight) Graveknight's Curse.md",
-    "Creature Family Ability Glossary",
-    "zz-Attachments/Haunting Shadows.webp",
-    "zz-Attachments/Portal to Harley's Domain - Corrupted.webp",
-    "8) Adventures/4D - Stormcrow Tor (D169).md",
-    "2) Compendium/equipment/items/Homebrew/tempered-harmony-hb.md",
+    "5) World/The Chaos Scar/Chaos Scar - Player View.md",
+    "zz-Attachments/Chaos Scar - Player View.jpg",
+    "8) Adventures/4B - The Pillar of Eyes (D180).md",
+    "1) GM Screen/DC_Calculators.md",
+    "1) Notes & In Progress Work/To Do List.md",
+    "8) Adventures/8) Adventures.md",
+    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+    "7) Players/Zeta.md",
+    "7) Players/Zestren.md",
     "7) Players/Winter.md",
     "7) Players/Varas.md",
-    "2) Compendium/equipment/items/Homebrew/avengers-needle-hb.md",
     "7) Players/Mordak.md",
-    "2) Compendium/equipment/items/Homebrew/orders-covenant-hb.md",
     "7) Players/Ediza.md",
-    "8) Adventures/Menace at Otari.md",
-    "8) Adventures/Rescuing Riddle (See 5A).md",
-    "8) Adventures/Ambushed (See 5A).md",
-    "8) Adventures/6A - Rumble in the Valley (D193).md",
-    "8) Adventures/5A - The Slaver's Stone (D181).md",
-    "8) Adventures/4B - The Pillar of Eyes (D180).md",
-    "8) Adventures/2G - The Crossroads (D176).md",
-    "1) GM Screen/Adventure Loot.md",
-    "2) Compendium/equipment/equipment.md",
-    "2) Compendium/equipment/Grave-Tide.md",
-    "4) Bestiary/4) Bestiary.md",
-    "2) Compendium/equipment/items/Homebrew/Gravekeeper Bow.md",
-    "1) Notes & In Progress Work/Hive Guard.md",
-    "2) Compendium/equipment/items/Homebrew/Imbued Grave Dirt.md",
-    "2) Compendium/equipment/items/Homebrew/Rot Lord's Ring.md",
-    "zz-Attachments/Rot Lords Ring.webp",
-    "zz-Attachments/Imbued Grave Dirt.webp",
-    "zz-Attachments/Grave-Tide.webp",
+    "zz-Attachments/Winter-20241110181427779.webp",
+    "zz-Attachments/Winter.webp",
+    "zz-Attachments/Varas.webp",
+    "zz-Attachments/Varas-20241110181011965.webp",
+    "zz-Attachments/Veras.webp",
+    "9) Completed Adventures/The Shattered Mind.md",
+    "9) Completed Adventures/6B - The Radiant Morn (D183).md",
+    "8) Adventures/Halloween 2024.md",
+    "zz-Attachments/Pumpkin Patch.webp",
+    "2) compendium/equipment/items/Homebrew/Rot Lord's Ring.md",
+    "2) compendium/equipment/items/Homebrew/Gravekeeper Bow.md",
+    "1) GM Screen/Experience Tracker.md",
+    "2) compendium/equipment/items/Homebrew/Imbued Grave Dirt.md",
+    "2) compendium/equipment/Grave-Tide.md",
+    "9) Completed Adventures/Halloween 2023 One-Shot.md",
+    "zz-Attachments/The Pumpkin Queen.png",
+    "6) NPCs/Crossroads/Crossroads.md",
+    "6) NPCs/Winterspring/Winterspring.md",
+    "6) NPCs/Restwell Keep/Restwell Keep.md",
     "zz-Attachments/Dreadmarrow.webp",
-    "zz-Attachments/Dreadmarrow-20241025171812077.webp",
-    "zz-Attachments/Pasted image 20230830164356.png",
-    "zz-Attachments/Pasted image 20230830164532.png"
+    "2) compendium/skills.md",
+    "Creature Family Ability Glossary",
+    "zz-Attachments/Haunting Shadows.webp"
   ]
 }

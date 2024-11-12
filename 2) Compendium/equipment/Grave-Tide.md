@@ -23,7 +23,7 @@ aliases:
 - **Price** 900 gp
 - **Bulk** 1; **Usage** held in 1 hand
 
-_Grave-Tide_ is a short sword with a dark-stained blade.  It has a scent of decay about it, empowering its wielder when close to death.
+_Grave-Tide_ is a +1 striking short sword with a dark-stained blade.  It has a scent of decay about it, empowering its wielder when close to death.
 
 ```ad-embed-ability
 title: **Activate** `pf2:0` command

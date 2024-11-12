@@ -77,11 +77,11 @@ When the adventurers can see the Pillar of Eyes, read:
 > 
 > # Wolf Riders
 > Whether or not they succeed at the skill challenge, the adventurers must deal with the wolf riders, goblins charged by Foosteth to plunder explorers that wander into the area.
-- [ ] Challenge (15 XP)
+- [x] Challenge (15 XP)
 
 # Encounter 1 - Howling Host (Level 9)
 **Encounter Difficulty:**
-- [ ] Low (60 XP)
+- [x] Low (40 XP)
 
 ![[4B - The Pillar of Eyes (D180)-20240102170157390.webp|right]]
 
@@ -176,7 +176,7 @@ A captured goblin does not participate in combat and flees at the first opportun
 > 
 > ## Failure 
 > The adventurers stumble across the Wolf Den, whose sentries are expecting them. Add another goblin wolf rider to Encounter 2.
-- [ ] Challenge (20 XP)
+- [x] Challenge (20 XP)
 
 # The Wolf Den
 Foosteth and his goblin followers lair inside the Wolf Den, a stinking mound of dirt, debris, and fallen trees. Its single yawning entrance, littered with leavings and junk, is guarded at all times. Smoke lifts from crooked chimneys rising from the roof, but these gaps are too small to enter.

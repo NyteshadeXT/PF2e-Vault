@@ -10,7 +10,9 @@ NoteIcon: PC
 Race: Woodland Elf
 Party: Chaos Scar
 ---
-![[Veras.webp]]
+
+![[Varas.webp|600]]
+[[Veras.webp|Show to Players]]
 [[fatal-havoc|Fatal Havoc]]
 [[avengers-needle-hb|Avenger's Needle]]
 

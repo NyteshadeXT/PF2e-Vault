@@ -1,12 +1,12 @@
 ---
 title: The Shattered Mind
 adventure_status: Done
-total_xp: 460
-completed_xp: 460
+total_xp: 340
+completed_xp: 340
 awarded_pp: 0
-awarded_gp: 0
-awarded_sp: 0
-awarded_cp: 0
+awarded_gp: 300
+awarded_sp: 1500
+awarded_cp: 5000
 awarded_permanent_items: []
 awarded_consumable_items: []
 ---
@@ -80,7 +80,7 @@ If the players defeat or capture the specters, a successful DC 28 [[skills#Relig
 
 **Encounter Difficulty:**
 
-- [ ]  Moderate (100 XP)
+- [x]  Moderate (100 XP)
 
 **Creatures:**
 
@@ -117,19 +117,19 @@ If the players manage to capture or closely examine a fallen Pumpkin Fiend, they
 
 **Encounter Difficulty:**
 
-- [ ]  Extreme (160 XP)
+- [x]  Extreme (160 XP)
 
 **Creatures:**
 
 - 1: [[Dreadmarrow]]
-- 2: [[dread-wraith|Dread Wraith]] 
+- 2: [[dread-wraith|Dread Wraith]]
 
 ```encounter
 name: Harley’s Prison
 party: Chaos Scar
 creatures:
 - 1: [[Dreadmarrow]]
-- 2: [[Nightmare Scarecrow]]
+- 2: [[Dread Wraith, Nightmare Scarecrow]]
 
 ```
 
@@ -167,10 +167,10 @@ Dreadmarrow appears like a harbinger of nightmare itself, towering and lanky, wi
 > [!tip]+ Treasure
 > Heaped among the holiday treats are 300 gp, 1500 sp, 5000 cp and  [[Grave-Tide|Grave-Tide]], [[Gravekeeper Bow|Gravekeeper Bow]], [[Imbued Grave Dirt|Imbued Grave Dirt]] and [[Rot Lord's Ring|Rot Lord's Ring]]
 > 
-> - [ ] gp::300
-> - [ ] sp::1500
-> - [ ] cp::5000
-> - [ ] permanent::[[Grave-Tide]] [ilvl::10] [gp::900]
-> - [ ] permanent::[[Gravekeeper Bow]] [ilvl::10] [gp::1000]
-> - [ ] permanent::[[Imbued Grave Dirt]] [ilvl::10] [gp::800]
-> - [ ] consumable::[[Rot Lord's Ring]] [ilvl::10] [gp::1000]
+> - [x] gp::300
+> - [x] sp::1500
+> - [x] cp::5000
+> - [x] permanent::[[Grave-Tide]] [ilvl::10] [gp::900]
+> - [x] permanent::[[Gravekeeper Bow]] [ilvl::10] [gp::1000]
+> - [x] permanent::[[Imbued Grave Dirt]] [ilvl::10] [gp::800]
+> - [x] consumable::[[Rot Lord's Ring]] [ilvl::10] [gp::1000]

@@ -24,7 +24,7 @@ aliases:
 - **Price** 1000 gp
 - **Bulk** 1; **Usage** held in 2 hands
 
-*Gravekeeper Bow* channels divine energy to repel the undead, providing essential protection and power for its wielder. In the right hands it can even serve as a holy symbol.
+*Gravekeeper Bow*, a +1 Striking long bow channels divine energy to repel the undead, providing essential protection and power for its wielder. In the right hands it can even serve as a holy symbol.
 
 ```ad-embed-ability
 title: **Activate** command

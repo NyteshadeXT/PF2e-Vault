@@ -214,6 +214,167 @@
       "resultText": "[2, 6]",
       "timestamp": 1730076125265,
       "id": "TFBT0qgv3e2v"
+    },
+    {
+      "result": 14,
+      "original": "1d20",
+      "resultText": "[14]",
+      "timestamp": 1730590491492,
+      "id": "dcOb8udGdarQ"
+    },
+    {
+      "result": 16,
+      "original": "3d6",
+      "resultText": "[6, 5, 5]",
+      "timestamp": 1730590498706,
+      "id": "DK9ywKC9s8Mf"
+    },
+    {
+      "result": 31,
+      "original": "4d8+11",
+      "resultText": "[4, 1, 8, 7]+11",
+      "timestamp": 1730590735557,
+      "id": "IOZFRWVd37Gl"
+    },
+    {
+      "result": 38,
+      "original": "2d20",
+      "resultText": "[19, 19]",
+      "timestamp": 1730591783076,
+      "id": "EsLsIcGcUTlP"
+    },
+    {
+      "result": 18,
+      "original": "6d6",
+      "resultText": "[1, 4, 2, 2, 5, 4]",
+      "timestamp": 1730591793847,
+      "id": "1bYtkXCPV8E8"
+    },
+    {
+      "result": 4,
+      "original": "1d4",
+      "resultText": "[4]",
+      "timestamp": 1730591898978,
+      "id": "-sErdsTV9izf"
+    },
+    {
+      "result": 14,
+      "original": "2d8+11",
+      "resultText": "[2, 1]+11",
+      "timestamp": 1730591970870,
+      "id": "TljPLovLR8e_"
+    },
+    {
+      "result": 35,
+      "original": "5d10",
+      "resultText": "[5, 8, 5, 10, 7]",
+      "timestamp": 1730593121469,
+      "id": "FQn5g4LJqzZe"
+    },
+    {
+      "result": 11,
+      "original": "1d20",
+      "resultText": "[11]",
+      "timestamp": 1730593161356,
+      "id": "iq8PWvUbFths"
+    },
+    {
+      "result": 14,
+      "original": "1d20",
+      "resultText": "[14]",
+      "timestamp": 1730593167439,
+      "id": "CFDXlZapGTSf"
+    },
+    {
+      "result": 20,
+      "original": "1d20",
+      "resultText": "[20]",
+      "timestamp": 1730593915270,
+      "id": "dfBYiu__Dwp9"
+    },
+    {
+      "result": 35,
+      "original": "1d20+23",
+      "resultText": "[12]+23",
+      "timestamp": 1730595777784,
+      "id": "eqMcIhdgQoEJ"
+    },
+    {
+      "result": 10,
+      "original": "2d8",
+      "resultText": "[8, 2]",
+      "timestamp": 1730595995014,
+      "id": "gpCvkouLvJHX"
+    },
+    {
+      "result": 12,
+      "original": "2d8",
+      "resultText": "[5, 7]",
+      "timestamp": 1730596035415,
+      "id": "amMPbEL-s1VC"
+    },
+    {
+      "result": 16,
+      "original": "4d6",
+      "resultText": "[2, 4, 5, 5]",
+      "timestamp": 1730596829479,
+      "id": "p1qZCd2KdQTh"
+    },
+    {
+      "result": 8,
+      "original": "2d6",
+      "resultText": "[5, 3]",
+      "timestamp": 1730596854742,
+      "id": "uyytcBYFznz_"
+    },
+    {
+      "result": 6,
+      "original": "2d6",
+      "resultText": "[2, 4]",
+      "timestamp": 1730596860483,
+      "id": "MmEYKvefhrUA"
+    },
+    {
+      "result": 13,
+      "original": "1d20",
+      "resultText": "[13]",
+      "timestamp": 1730596895943,
+      "id": "A7Itn-OwYGS1"
+    },
+    {
+      "result": 27,
+      "original": "3d12+12",
+      "resultText": "[3, 4, 8]+12",
+      "timestamp": 1730597023542,
+      "id": "eTpGMx4FUeRx"
+    },
+    {
+      "result": 21,
+      "original": "6d8",
+      "resultText": "[4, 5, 3, 2, 2, 5]",
+      "timestamp": 1730598370361,
+      "id": "eTlYobYj9WMs"
+    },
+    {
+      "result": 12,
+      "original": "1d20",
+      "resultText": "[12]",
+      "timestamp": 1730598474939,
+      "id": "0pbrbsl1QLPV"
+    },
+    {
+      "result": 2,
+      "original": "1d20",
+      "resultText": "[2]",
+      "timestamp": 1730598479263,
+      "id": "MgA-5WBWjBSF"
+    },
+    {
+      "result": 9,
+      "original": "2d8",
+      "resultText": "[3, 6]",
+      "timestamp": 1730599364205,
+      "id": "sKrsbGJ676rH"
     }
   ],
   "returnAllTags": true
