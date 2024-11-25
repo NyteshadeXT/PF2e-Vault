@@ -14,6 +14,7 @@ level: 3
 columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
+player: true
 source: "HB"
 name: "Zeta Windsnap"
 level: "Creature 3"

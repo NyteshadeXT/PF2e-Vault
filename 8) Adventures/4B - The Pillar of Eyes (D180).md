@@ -1,14 +1,14 @@
 ---
 title: The Pillar of Eyes
 adventure_status: Not Started
-total_xp: 445
-completed_xp: 0
+total_xp: 385
+completed_xp: 235
 awarded_pp: 0
 awarded_gp: 0
 awarded_sp: 0
 awarded_cp: 0
-awarded_permanent_items: []
-awarded_consumable_items: []
+awarded_permanent_items: 
+awarded_consumable_items:
 ---
 
 # Background
@@ -185,7 +185,7 @@ The interior of the hill is filthy. The walls are made from packed dirt, rocks, 
 
 # Encounter 2 - Foosteth's Sentries (Area 1: Entrance) (level 9)
 **Encounter Difficulty:** 
-- [ ] Severe (120 XP)
+- [x] Severe (80 XP)
 
 ![[4B - The Pillar of Eyes (D180)-20240102221129561.webp|right]]
 
@@ -230,7 +230,7 @@ When not raiding and plundering, Foosteth’s troops billet in this dark chamber
 
 # Encounter 3 - Things in the Dark (Area 3: The Chamber of Smells) (Level 9)
 **Encounter Difficulty:** 
-- [ ] Moderate (80 XP)
+- [x] Moderate (80 XP)
 
 ![[4B - The Pillar of Eyes (D180)-20240103150612027.webp|right]]
 
@@ -278,7 +278,7 @@ A successful [[skills#Perception|Perception]] check reveals a 2-inch tall groove
 **Encounter Difficulty:** 
 - [ ] Severe (150 XP)
 
-![[4B - The Pillar of Eyes (D180)-20240103150642656.webp|right|900]]
+![[4B - The Pillar of Eyes (D180)-20240103150642656.webp|right|600]]
 
 Creatures:
  - 2: [[trained-dire-wolf|Trained Dire Wolf]] W
@@ -298,7 +298,7 @@ creatures:
 
 Foosteth lurks in this room, attended by guards, pets, and goblin slaves who serve him in his personal quarters.
 
-![[4B - The Pillar of Eyes (D180)-20240103152653073.webp]]
+![[4B - The Pillar of Eyes (D180)-20240103152653073.webp|700]]
 
 Do not place the goblins on the map at the start of combat. They are hiding behind the curtain and do not join the fight until the third round.
 

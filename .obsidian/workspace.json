@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7f86e5fc9a1d680",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1) Notes & In Progress Work/To Do List.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "To Do List"
-            }
-          },
-          {
             "id": "ef8e9147f900377c",
             "type": "leaf",
             "state": {
@@ -62,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Chaos Scar - Player View"
             }
+          },
+          {
+            "id": "4ddee4f647ece5dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4) Bestiary/party-npc/Zeta Windsnap.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Zeta Windsnap"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -245,7 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 473.5
+    "width": 472.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,77 +266,44 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "e3bb04e408387f7c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b53d24f17e048151",
-        "type": "window",
-        "children": [
-          {
-            "id": "ac58f85a8c334f52",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e8f9b3b9e9ff0702",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-player-view",
-                  "state": {},
-                  "icon": "lucide-view",
-                  "title": "Player View"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 768,
-        "y": 0,
-        "width": 768,
-        "height": 816,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "b087f0f43a0ad247",
   "lastOpenFiles": [
-    "5) World/The Chaos Scar/Chaos Scar - Player View.md",
-    "zz-Attachments/Chaos Scar - Player View.jpg",
+    "4) Bestiary/party-npc/Zeta Windsnap.md",
+    "7) Players/Zeta.md",
     "8) Adventures/4B - The Pillar of Eyes (D180).md",
-    "1) GM Screen/DC_Calculators.md",
+    "4) Bestiary/unique-creatures/Agera of the Shadow Face.md",
+    "4) Bestiary/party-npc/zeta-windsnap.md",
+    "4) Bestiary/party-npc",
     "1) Notes & In Progress Work/To Do List.md",
+    "5) World/The Chaos Scar/Chaos Scar - Player View.md",
+    "1) GM Screen/DC_Calculators.md",
+    "2) compendium/gm/hazards/brown-mold-gmg.md",
+    "2) compendium/gm/hazards/hazards.md",
+    "2) compendium/gm/hazards/acid-strongbox-trap-qff1.md",
+    "4) Bestiary/4) Bestiary.md",
+    "3) Rules/3) Rules.md",
+    "3) Rules/assets/assets.md",
+    "3) Rules/abilities/abilities.md",
+    "3) Rules/gamemastery-guide/gamemastery-guide.md",
+    "1) GM Screen/Experience Tracker.md",
+    "1) GM Screen/common-conditions-p.618-623.md",
+    "7) Players/Zestren.md",
+    "1) GM Screen/Adventure Loot.md",
+    "5) World/Party Configuration.md",
+    "zz-Attachments/Chaos Scar - Player View.jpg",
     "8) Adventures/8) Adventures.md",
     "5) World/The Chaos Scar/Chaos Scar - GM View.md",
-    "7) Players/Zeta.md",
-    "7) Players/Zestren.md",
     "7) Players/Winter.md",
     "7) Players/Varas.md",
     "7) Players/Mordak.md",
-    "7) Players/Ediza.md",
     "zz-Attachments/Winter-20241110181427779.webp",
     "zz-Attachments/Winter.webp",
     "zz-Attachments/Varas.webp",
     "zz-Attachments/Varas-20241110181011965.webp",
     "zz-Attachments/Veras.webp",
-    "9) Completed Adventures/The Shattered Mind.md",
-    "9) Completed Adventures/6B - The Radiant Morn (D183).md",
-    "8) Adventures/Halloween 2024.md",
     "zz-Attachments/Pumpkin Patch.webp",
-    "2) compendium/equipment/items/Homebrew/Rot Lord's Ring.md",
-    "2) compendium/equipment/items/Homebrew/Gravekeeper Bow.md",
-    "1) GM Screen/Experience Tracker.md",
-    "2) compendium/equipment/items/Homebrew/Imbued Grave Dirt.md",
-    "2) compendium/equipment/Grave-Tide.md",
-    "9) Completed Adventures/Halloween 2023 One-Shot.md",
     "zz-Attachments/The Pumpkin Queen.png",
-    "6) NPCs/Crossroads/Crossroads.md",
-    "6) NPCs/Winterspring/Winterspring.md",
-    "6) NPCs/Restwell Keep/Restwell Keep.md",
     "zz-Attachments/Dreadmarrow.webp",
-    "2) compendium/skills.md",
     "Creature Family Ability Glossary",
     "zz-Attachments/Haunting Shadows.webp"
   ]
