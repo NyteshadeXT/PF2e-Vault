@@ -1,9 +1,7 @@
-
-
 ```leaflet
 id: Chaos-Scar-GM-View
 image: 
- - [[Chaos Scar - GM View.png]]
+ - [[Chaos Scar - GM View.webp]]
 bounds: [[0, 0], [1060, 1600]]
 height: 1000px
 width: 95%

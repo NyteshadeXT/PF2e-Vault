@@ -67,6 +67,7 @@ spellcasting:
   - name: "Champion Devotion Spells"
     desc: "DC 20, (1 Focus Point) __3rd__ [[lay-on-hands|lay on hands]]"
 sourcebook: "_Bestiary_, page 263."
+sourcebook: "_Bestiary_, page 263."
 ```
 
 ```encounter-table

@@ -1,14 +1,15 @@
 ---
 title: The Pillar of Eyes
 adventure_status: Not Started
-total_xp: 385
+adventure_level: 9
+total_xp: 375
 completed_xp: 235
 awarded_pp: 0
 awarded_gp: 0
 awarded_sp: 0
 awarded_cp: 0
 awarded_permanent_items: 
-awarded_consumable_items:
+awarded_consumable_items: 
 ---
 
 # Background
@@ -276,7 +277,7 @@ A successful [[skills#Perception|Perception]] check reveals a 2-inch tall groove
 
 # Encounter 4 - Unhinged Mind (Area 5: Hall of Whispers) (Level 4)
 **Encounter Difficulty:** 
-- [ ] Severe (150 XP)
+- [ ] Severe (140 XP)
 
 ![[4B - The Pillar of Eyes (D180)-20240103150642656.webp|right|600]]
 
@@ -284,7 +285,7 @@ Creatures:
  - 2: [[trained-dire-wolf|Trained Dire Wolf]] W
  - 4: [[bugbear-warrior|Bugbear Warrior]] B
  - 4: [[gnoll-warfang|Gnoll Warfang]] N
- - 1: Foosteth F
+ - 1: [[Foosteth]] F
 
 ```encounter
 name: Foosteth's Sentries
@@ -292,13 +293,11 @@ party: Chaos Scar
 creatures:
 - 2: [[Trained Dire Wolf]] 
 - 4: [[Bugbear Warrior]]
-- 5: [[Goblin Commando], hidden]
-- 1: Foosteth, 84, 18, 5
+- 5: [[Gnoll Warfang], hidden]
+- 1: [[Foosteth]]
 ```
 
 Foosteth lurks in this room, attended by guards, pets, and goblin slaves who serve him in his personal quarters.
-
-![[4B - The Pillar of Eyes (D180)-20240103152653073.webp|700]]
 
 Do not place the goblins on the map at the start of combat. They are hiding behind the curtain and do not join the fight until the third round.
 

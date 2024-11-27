@@ -1,6 +1,7 @@
 ---
 title: Stormcrow Tor
 adventure_status: Not Started
+adventure_level: 10
 total_xp: 680
 completed_xp: 0
 awarded_pp: 0

@@ -3,6 +3,7 @@ title: Stick in the Mud
 adventure_status: Done
 total_xp: 215
 completed_xp: 215
+running_xp: 215
 ---
 
 # Background

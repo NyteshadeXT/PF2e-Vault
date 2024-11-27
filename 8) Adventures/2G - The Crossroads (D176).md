@@ -1,6 +1,7 @@
 ---
 title: The Crossroads
 adventure_status: Done
+adventure_level: 5
 total_xp: 395
 completed_xp: 105
 awarded_pp: 0

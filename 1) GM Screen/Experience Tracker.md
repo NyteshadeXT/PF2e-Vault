@@ -1,6 +1,7 @@
 ```dataviewjs
 let totalXP = 0;
 let completedXP = 0;
+let runningXP = 0;
 
 // Sum XP from "9) Completed Adventures"
 for (let page of dv.pages('"9) Completed Adventures"')) {
@@ -24,9 +25,10 @@ dv.paragraph(`**Potential Level:** ${potentialLevel}     **Character Level:**
 ```
 
 ```dataview
-table sum(total_xp) as Total_XP, sum(completed_xp) as Completed_XP
+table adventure_level, total_xp as Total_XP, completed_xp as Completed_XP
 from "9) Completed Adventures" or "8) Adventures"
 where total_xp
+sort adventure_level
 
 
 ```

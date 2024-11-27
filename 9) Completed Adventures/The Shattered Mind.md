@@ -1,6 +1,7 @@
 ---
 title: The Shattered Mind
 adventure_status: Done
+adventure_level: 9
 total_xp: 460
 completed_xp: 460
 ---

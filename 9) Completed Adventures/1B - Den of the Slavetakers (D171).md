@@ -3,6 +3,7 @@ title: Den of the Slavetakers
 adventure_status: "Done"
 total_xp: 200
 completed_xp: 200
+running_xp: 415
 ---
 
 
