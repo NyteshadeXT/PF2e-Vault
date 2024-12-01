@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1) Notes & In Progress Work/Untitled.md",
-                "mode": "source",
+                "file": "8) Adventures/5A - The Slaver's Stone (D181).md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "5A - The Slaver's Stone (D181)"
             }
           }
         ],
@@ -249,6 +249,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "sheet-plus:Create excel file": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -266,71 +267,35 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "3025743c72b717d3",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f98a21392c9d5128",
-        "type": "window",
-        "children": [
-          {
-            "id": "21aff10c7f949240",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4056adaaeccb0dc0",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "zz-Attachments/4B - The Pillar of Eyes (D180)-20240103152653073.webp"
-                  },
-                  "icon": "lucide-image",
-                  "title": "4B - The Pillar of Eyes (D180)-20240103152653073"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 204,
-        "y": 81,
-        "width": 2576,
-        "height": 1408,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "1fd56a4c291709b5",
   "lastOpenFiles": [
-    "1) GM Screen/weapon-traits-p.282-283.md",
-    "1) Notes & In Progress Work/Untitled.md",
-    "1) GM Screen/Experience Tracker.md",
-    "8) Adventures/2G - The Crossroads (D176).md",
+    "8) Adventures/4D - Stormcrow Tor (D169).md",
     "8) Adventures/4B - The Pillar of Eyes (D180).md",
+    "4) Bestiary/party-npc/Chendra.md",
+    "1) GM Screen/Actions-Cheat-Sheet.md",
+    "1) GM Screen/Adventure Loot.md",
+    "1) GM Screen/common-conditions-p.618-623.md",
+    "1) GM Screen/DC_Calculators.md",
+    "1) GM Screen/DunGen (Random Dungeon Generator).md",
+    "1) GM Screen/Experience Tracker.md",
+    "1) GM Screen/GM-Screen.md",
+    "1) GM Screen/Mimic Fight Club (Item Generator).md",
+    "1) GM Screen/rules-reference.md",
+    "1) GM Screen/Skill-Actions-Cheat-Sheet.md",
+    "1) GM Screen/weapon-traits-p.282-283.md",
+    "1) Notes & In Progress Work/DC Calc Test.md",
+    "1) Notes & In Progress Work/Death Dancer.md",
+    "1) Notes & In Progress Work/environmental.md",
+    "1) Notes & In Progress Work/Hive Guard.md",
+    "1) Notes & In Progress Work/To Do List.md",
+    "1) Notes & In Progress Work/Untitled.md",
+    "zz-Attachments/4B - The Pillar of Eyes (D180)-20240103152653073.webp",
+    "8) Adventures/2G - The Crossroads (D176).md",
     "9) Completed Adventures/1A - Stick in the Mud (D171).md",
     "9) Completed Adventures/1B - Den of the Slavetakers (D171).md",
     "9) Completed Adventures/The Trial of Balance.md",
     "9) Completed Adventures/The Shattered Mind.md",
     "9) Completed Adventures/The Alchemist’s Eyrie.md",
-    "9) Completed Adventures/Halloween 2024.md",
-    "9) Completed Adventures/Halloween 2023 One-Shot.md",
-    "9) Completed Adventures/Forgotten Tomb.md",
-    "9) Completed Adventures/6B - The Radiant Morn (D183).md",
-    "9) Completed Adventures/4C - Vanguard Tower (D182).md",
-    "9) Completed Adventures/4A - Glowstone Caverns (D177).md",
-    "9) Completed Adventures/3C - The Wayward Wyrmling (D182).md",
-    "9) Completed Adventures/3B - The Splintered Spring (D179).md",
-    "9) Completed Adventures/3A - The Crawling Fane (D178).md",
-    "9) Completed Adventures/2H - Slaark's Crown (D220).md",
-    "9) Completed Adventures/2F - The Lost Library (D173).md",
-    "9) Completed Adventures/2E - Down the Goblin Hole (D280).md",
-    "9) Completed Adventures/2D - The Hammer Falls (D179).md",
-    "9) Completed Adventures/2C - Dead by Dawn (D176).md",
-    "9) Completed Adventures/2B - The Shrine of Glass-Spire Forest (D175).md",
-    "9) Completed Adventures/2A - Sliver's Call (D174).md",
     "zz-Attachments/Garn Goldhammer-20240523092051276.webp",
     "zz-Attachments/Game Rules Header.png",
     "zz-Attachments/Pasted image 20240817120426.png",
@@ -340,7 +305,6 @@
     "zz-Attachments/Pasted image 20230829165718.png",
     "zz-Attachments/Pasted image 20230829134121.png",
     "zz-Attachments/Pasted image 20230829115350.png",
-    "zz-Attachments/Pasted image 20230829111004.png",
     "4) Bestiary/party-npc",
     "Creature Family Ability Glossary"
   ]
