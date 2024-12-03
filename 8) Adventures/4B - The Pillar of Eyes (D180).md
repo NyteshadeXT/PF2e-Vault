@@ -3,13 +3,31 @@ title: The Pillar of Eyes
 adventure_status: Not Started
 adventure_level: 9
 total_xp: 375
-completed_xp: 235
+completed_xp: 375
 awarded_pp: 0
-awarded_gp: 0
-awarded_sp: 0
+awarded_gp: 99
+awarded_sp: 13
 awarded_cp: 0
-awarded_permanent_items: 
-awarded_consumable_items: 
+awarded_permanent_items:
+  - name: +1 Weapon Potency
+    ilvl: 2
+    gp: 35
+  - name: Guardian Staff (Greater)
+    ilvl: 10
+    gp: 900
+  - name: Preserving (Greater)
+    ilvl: 8
+    gp: 450
+  - name: Powered Full Plate
+    ilvl: 7
+    gp: 360
+awarded_consumable_items:
+  - name: Mistform Elixir
+    ilvl: 0
+    gp: 0
+  - name: Malleable Mixture (Lesser)
+    ilvl: 0
+    gp: 0
 ---
 
 # Background
@@ -223,8 +241,8 @@ The goblins try to fall back into the common room to retain their ranged advanta
 > [!tip]+ Treasure
 > The creatures carry assorted coins totaling 2 gp and 7 sp.
 > 
-> - [ ] gp::2
-> - [ ] sp::7
+> - [x] gp::2
+> - [x] sp::7
 
 # Area 2: Common Room
 When not raiding and plundering, Foosteth’s troops billet in this dark chamber, with goblins along one side and the bugbears the rest. The remains of a cooking fire are in the center, with sleeping pallets strewn all around. Combat from Encounter 2 might spill into this chamber.
@@ -277,7 +295,7 @@ A successful [[skills#Perception|Perception]] check reveals a 2-inch tall groove
 
 # Encounter 4 - Unhinged Mind (Area 5: Hall of Whispers) (Level 4)
 **Encounter Difficulty:** 
-- [ ] Severe (140 XP)
+- [x] Severe (140 XP)
 
 ![[4B - The Pillar of Eyes (D180)-20240103150642656.webp|right|600]]
 
@@ -335,14 +353,14 @@ curtain down.
 > [!tip]+ Treasure
 > Foosteth keeps his loot in a pile in his quarters. It includes a +1 Dueling Spear, [[dragonscale-staff-tv|Dragonscale Staff]], a [[preserving-tv|Preserving (Greater) Wooden Shield]], a [[mistform-elixir|Mistform Elixir]], [[powered-full-plate-tv|Powered Full Plate]], a [[malleable-mixture-lotgb|Malleable Mixture (Lesser)]], 97 gp and 6 sp.
 > 
-> - [ ] gp::97
-> - [ ] sp::6
-> - [ ] permanent::[[weapon-potency|+1 Weapon Potency]] [ilvl::2] [gp::35]
-> - [ ] permanent::[[guardian-staff-tv|Guardian Staff (Greater)]] [ilvl::10] [gp::900]
-> - [ ] permanent::[[preserving-tv|Preserving (Greater)]] [ilvl::8] [gp::450]
-> - [ ] permanent::[[powered-full-plate-tv|Powered Full Plate]] [ilvl::7] [gp::360]
-> - [ ] consumable::[[mistform-elixir|Mistform Elixir]] [ilvl::000] [gp::000]
-> - [ ] consumable::[[malleable-mixture-lotgb|Malleable Mixture (Lesser)]] [ilvl::000] [gp::000]
+> - [x] gp::97
+> - [x] sp::6
+> - [x] permanent::[[weapon-potency|+1 Weapon Potency]] [ilvl::2] [gp::35]
+> - [x] permanent::[[guardian-staff-tv|Guardian Staff (Greater)]] [ilvl::10] [gp::900]
+> - [x] permanent::[[preserving-tv|Preserving (Greater)]] [ilvl::8] [gp::450]
+> - [x] permanent::[[powered-full-plate-tv|Powered Full Plate]] [ilvl::7] [gp::360]
+> - [x] consumable::[[mistform-elixir|Mistform Elixir]] [ilvl::000] [gp::000]
+> - [x] consumable::[[malleable-mixture-lotgb|Malleable Mixture (Lesser)]] [ilvl::000] [gp::000]
 
 # Conclusion
 Defeating Foosteth and his goblins removes only one agency with designs on freeing the gibbering mouther. Eventually, some other lunatic will try to finish the job. The adventurers might decide to destroy the statue, thus raising the ire of Those Who Hear (4th Edition D&D Dungeon Master’s Guide 2, page 120). The cultists might want to take revenge for the statue’s destruction.
