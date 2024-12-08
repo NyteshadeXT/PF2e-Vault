@@ -4,10 +4,10 @@ noteType: pf2eMonster
 aliases: "Zeta Windsnap"
 tags: 
   - pf2e/creature/type/humanoid
-  - pf2e/creature/level/3
+  - pf2e/creature/level/5
 statblock: inline
 name: "Zeta Windsnap"
-level: 3
+level: 5
 ---
 
 ```statblock

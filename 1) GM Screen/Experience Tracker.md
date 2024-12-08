@@ -1,3 +1,5 @@
+![[Restwell Keep-20240105144659375.webp|600]]
+
 ```dataviewjs
 let totalXP = 0;
 let completedXP = 0;
@@ -20,6 +22,7 @@ let characterLevel = (completedXP / 1000).toFixed(1);
 
 dv.paragraph(`**Total XP:** ${totalXP}     **Completed XP:** ${completedXP}`);
 dv.paragraph(`**Potential Level:** ${potentialLevel}     **Character Level:** ${characterLevel}`);
+
 
 
 ```

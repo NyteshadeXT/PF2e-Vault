@@ -42,7 +42,7 @@ When the heroes arrive, refer to the Stormcrow Tor overview map on the following
 
 # Encounter T1: Entering The Tor
 **Encounter Difficulty:** 
-- [ ] Moderate (95 XP)
+- [ ] Moderate (95 XP) Level 10
 
 ![[SCT E1 Map.webp]]
 
@@ -108,7 +108,7 @@ The mobile gelatinous cube doesn’t enter combat until a hero is within 3 squar
 
 # Encounter  T2: Fungal Cellar
 **Encounter Difficulty:** 
-- [ ] Moderate (85 XP)
+- [ ] Moderate (85 XP) Level 10
 
 ![[SCT E2 Map.webp]]
 
@@ -172,7 +172,7 @@ The myconid sovereign remains behind its allies, relying on them for protection.
 
 # Encounter T3: Mausoleum
 **Encounter Difficulty:** 
-- [ ] Severe (120 XP)
+- [ ] Severe (120 XP) Level 10
 
 ![[SCT E3 Map.webp]]
 
@@ -250,9 +250,9 @@ A platinum key is hidden amid the dust in one of the coffins ([[skills#Perceptio
 
 # Encounter T4: Lightning Hall
 **Encounter Difficulty:** Varies based on Traps overcome (Level 8 Hazards 20 xp each; Level 9 Hazard 30 xp)
-- [ ] 9th (30 XP)
-- [ ] 8th (20 XP)
-- [ ] 8th (20 XP)
+- [ ] 9th (30 XP) Level 10
+- [ ] 8th (20 XP) Level 10
+- [ ] 8th (20 XP) Level 10
 
 ![[SCT E4 Map.webp]]
 
@@ -268,7 +268,8 @@ Deeper access is sealed behind a magical wall of force and a flaring expanse of 
 > [[lightning-hallway-hb|Lightning Hallway]]
 
 # Encounter T5: Hall of Summoning
-**Encounter Difficulty:** Varies (20 xp per magma scorpion defeated)
+**Encounter Difficulty:** 
+- [ ] Varies (20 XP) per magma scorpion Level 10
 
 ![[SCT E5 Map.webp]]
 
@@ -316,7 +317,7 @@ The brazier continues summoning additional magma scorpions until it is disabled 
 
 # Encounter T6: What's My Name
 **Encounter Difficulty:** 
-- [ ] Moderate (80 XP)
+- [ ] Moderate (80 XP) Level 10
 
 ![[SCT E6 Map.webp]]
 
@@ -364,7 +365,7 @@ When PCs see the chamber, read:
 
 # Encounter T7: Stormcrow Vault Room
 **Encounter Difficulty:** 
-- [ ] Severe (130 XP)
+- [ ] Severe (130 XP) Level 10
 
 ![[SCT E7 Map.webp]]
 

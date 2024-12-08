@@ -2,14 +2,14 @@
 title: The Slaver's Stone
 adventure_status: Not Started
 adventure_level: 10
-total_xp: 700
+total_xp: 940
 completed_xp: 0
 awarded_pp: 0
 awarded_gp: 0
 awarded_sp: 0
 awarded_cp: 0
-awarded_permanent_items: []
-awarded_consumable_items: []
+awarded_permanent_items: 
+awarded_consumable_items:
 ---
 
 # Background
@@ -23,6 +23,10 @@ The adventure begins at Restwell Keep. There, the characters run across Cluff, w
 The adventurers can then move to intercept the slaver band. They nearly catch up with them at the Stone Forest, a blighted area of petrified trees, but are delayed by several harpies. Magrak, it appears, offered the harpies a sacrifice—a young woman—to gain safe passage through their territory. If the characters rescue her, they can learn important information about how to defeat the wereboar before he gets to the Slaver’s Stone. That night, however, Zestren makes off with the captive and hauls her to the oracle at Cloven Skull. Cluff, dismayed, must choose to either follow the traitor or to push on to rescue the greater number of his folk.
 
 # Running the Adventure
+> [!info]- GM Only
+> BE CAREFUL WITH THIS ADVENTURE!
+> 
+> Don't forget to add Zestren and Cluff as Players in the initiative tracker. Keep track of the minions.  As the die they will need to be removed from each encounter and the adventure difficulty/xp will need to be adjusted.
 
 ## The Consequences of Time
 Cautious adventurers might take one or more rests during the adventure. This is bad news for the poor prisoners, because the villains aren’t going to put their plans on hold for 8 hours. Luckily, extended resting shouldn’t be necessary thanks to the Companions (see below). Still, the adventurers might take their time, and if they do, they face specific consequences.
@@ -106,7 +110,7 @@ Magrak Ironjaw is a warrior, slaver, and bandit. Because of his depredations, Lo
 Reaching the Crossroads involves following the old trail toward the Chaos Scar. The characters might encounter a few locals along the way. Consider injecting one or two of the following encounters during the trek to the Crossroads.
 
 ### Escaped Prisoner
-- [ ] Low (60 XP)
+- [ ] Trivial (40 XP)
 
 One of Magrak’s prisoners, a handsome young woman from Cled, escaped the wereboar. Unfortunately, Magrak dispatched his warriors to chase her down. Once the characters defeat the pursuers, then find the woman, Allysen can tell the adventurers that Magrak is headed for some place called the Slaver’s Stone, though she doesn’t know where that is. Cluff, if with the party, sends two warriors to escort her back to their lands.
 
@@ -117,16 +121,21 @@ name: Escaped Prisoner
 party: Chaos Scar
 creatures:
 - 4: [[Orc Raider]] 
+- 2: [[Blade Mercenary, Mercernary A, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary B, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary C, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary D, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary E, Ally], 13]
 ```
 
 ### Howling Pack
-- [ ] Moderate (80 XP)
+- [ ] Trivial (60 XP)
 A gnoll band spills across the countryside to attack the adventurers. They are undeterred by the characters’ greater numbers. The gnolls’ erratic behavior comes from the meal they made on strange mushrooms found in a nearby glade.
 
 - 4 [[gnoll-warfang|Gnoll Warfang]]
 - 2 [[gnoll-hunter|Gnoll Hunter]]
 - 4 [[hyena|Hyena]]
-- 
+
 ```encounter
 name: Howling Pack
 party: Chaos Scar
@@ -134,21 +143,31 @@ creatures:
 - 4: [[Gnoll Warfang]] 
 - 2: [[Gnoll Hunter]]
 - 4: [[Hyena]]
+- 2: [[Blade Mercenary, Mercernary A, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary B, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary C, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary D, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary E, Ally], 13]
 ```
 
 ## Roaming Dead
-- [ ] Moderate (80 XP)
+- [ ] Trivial (60 XP)
 A reckless necromancer was killed when he tried to raise an undead army. The results of his foolish ritual now roam the Chaos Scar.
 
 - 1 [[tyrannosaurus-skeleton|Tyrannosaurus Skeleton]]
 - 2 [[hunter-wight|Hunter Wight]]
-- 
+
 ```encounter
 name: Howling Pack
 party: Chaos Scar
 creatures:
 - 1: [[Tyrannosaurus Skeleton]] 
 - 2: [[Hunter Wight]]
+- 2: [[Blade Mercenary, Mercernary A, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary B, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary C, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary D, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary E, Ally], 13]
 ```
 
 ## 1.  Crossroads
@@ -301,7 +320,7 @@ The adventure ends when the characters rescue the prisoners from Magrak or, if t
 You also have the matter of the orc chieftain. Po is angry about not getting his slaves and a little snooping around should garner him the names of the characters. He might seek revenge by attacking the adventurers later or mount an attack on Restwell Keep. If, though, the adventurers failed to rescue the prisoners, they might try to locate them and wrest them from the orc. What did he want the slaves for? Where are they? Do they still live?
 
 ## Encounter 1: Local Color
-- [ ] Low (60 XP) Level 11
+- [ ] Moderate (170 XP) Level 10
 
 ![[5A - The Slaver's Stone (D181)-20240809215828479.webp]]
 
@@ -319,6 +338,11 @@ creatures:
 - 1: [[Dronvi Thald]]
 - 1: [[Pramlan]]
 - 8: [[Proud Boy Bandit]]
+- 2: [[Blade Mercenary, Mercernary A, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary B, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary C, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary D, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary E, Ally], 13]
 ```
 
 The bandits aided Magrak Ironjaw and now camp here, finding creative ways to spend their coin. They owe Magrak no particular loyalty and are open to discussion since they are not particularly interested in dying.
@@ -349,7 +373,7 @@ If the characters wipe out the bandits and learn nothing from them, all is not l
 > - [ ] consumable::[[healing-potion|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
 
 ## Encounter 2: Dung and Feathers
-- [ ] Moderate (80 XP) Level 11
+- [ ] Moderate (180 XP) Level 10
 
 ![[5A - The Slaver's Stone (D181)-20240816223027483.webp]]
 
@@ -363,6 +387,11 @@ party: Chaos Scar
 creatures:
 - 6: [[Harpy, Elite]] 
 - 2: [[Harpy Warbird]]
+- 2: [[Blade Mercenary, Mercernary A, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary B, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary C, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary D, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary E, Ally], 13]
 ```
 
 
@@ -398,7 +427,7 @@ The harpies start the fight by using Captivating Song against enemies and then s
 > - [ ] consumable::[[enervation-apg|Spell Scroll - 4th Level (Enervation)]] [ilvl::7] [gp::70]
 
 ## Encounter 3: Chain Gang
-- [ ] Low (30 XP) Level 11
+- [ ] Trivial (100 XP) Level 10
 
 ![[5A - The Slaver's Stone (D181)-20240816232439786.webp]]
 
@@ -416,6 +445,11 @@ creatures:
 - 2: [[Orc Raider]]
 - 2: [[Hobgoblin General, Hobgoblin Sentry]]
 - 6: [[Goblin Archer]]
+- 2: [[Blade Mercenary, Mercernary A, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary B, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary C, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary D, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary E, Ally], 13]
 ```
 
 Magrak has set up camp around the Slaver’s Stone. He sits around the campfire. The orc raider guard the dozen prisoners. The hobgoblins hold positions to watch for enemies, while a few archers hide in the rocks so they can pick off intruders from cover and the rest take positions atop the drum. Magrak expects the orc chieftain, but anyone else gets one warning to “sod off ” before he orders his force to attack.
@@ -444,7 +478,7 @@ The orcs abandon their prisoners on the first round by using ferocious charge to
 > - [ ] cp::24
 
 ## Encounter 4: Guardians of the Skull
-- [ ] Moderate (110 XP) Level 11
+- [ ] Trivial (30 XP) Level 10
 
 ![[5A - The Slaver's Stone (D181)-20240817000107777.webp]]
 
@@ -458,6 +492,11 @@ party: Chaos Scar
 creatures:
 - 3: [[Leng Ghoul]] 
 - 1: [[Titan Centipede], hidden]
+- 2: [[Blade Mercenary, Mercernary A, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary B, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary C, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary D, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary E, Ally], 13]
 ```
 
 Two ghouls along with their pet centipede established themselves here to exact payment from any who would treat with the oracle, a fee of which the oracle is unaware and never receives. The undead prefer living gifts for passage, and anyone who offers a sacrifice can move through the gap unmolested. Otherwise, they block anyone from entering, happily attacking those who try.
@@ -484,7 +523,7 @@ The ghouls hold positions in front of the gap, using claw or bite attacks agains
 > - [ ] consumable::[[scour-gmg|Scour]] [ilvl::8] [gp::80]
 
 ## Encounter 5: Eyes in the Dark
-- [ ] Severe (120 XP) Level 11
+- [ ] Moderate (220 XP) Level 10
 
 ![[Pasted image 20240817120426.png]]
 
@@ -498,6 +537,11 @@ party: Chaos Scar
 creatures:
 - 1: [[Adult Silver Dragon, Lake Oracle]] 
 - 6: [[Chaos Spawn Merloc]]
+- 2: [[Blade Mercenary, Mercernary A, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary B, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary C, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary D, Ally], 13]
+- 2: [[Blade Mercenary, Mercernary E, Ally], 13]
 ```
 
 The Lake Oracle lurks on the island in the lake’s center. The Chaos Spawn Merlocs haunt the water and emerge to join the fight should the dragon come under attack.

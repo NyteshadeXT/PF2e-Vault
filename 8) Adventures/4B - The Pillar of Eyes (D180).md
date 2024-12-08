@@ -1,6 +1,6 @@
 ---
 title: The Pillar of Eyes
-adventure_status: Not Started
+adventure_status: Done
 adventure_level: 9
 total_xp: 375
 completed_xp: 375
