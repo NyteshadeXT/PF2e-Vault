@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/9A - Heart of the Scar (D197).md",
+                "file": "6) NPCs/Restwell Keep/Grace.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "9A - Heart of the Scar (D197)"
+              "title": "Grace"
             }
           }
         ],
@@ -245,11 +245,92 @@
       "obsidian-import-json:JSON/CSV Importer": false,
       "dbfolder:Create a new database table": false,
       "templater-obsidian:Templater": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "calendarium:Open Calendarium": false
     }
+  },
+  "floating": {
+    "id": "bbd99f6e139ccc79",
+    "type": "floating",
+    "children": [
+      {
+        "id": "87161f72b719f97a",
+        "type": "window",
+        "children": [
+          {
+            "id": "516a8e0c4bfda04a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7fb21e25e99bc140",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {},
+                  "icon": "lucide-view",
+                  "title": "Player View"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 0,
+        "width": 768,
+        "height": 816,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "fdedac14d6589f01",
+        "type": "window",
+        "children": [
+          {
+            "id": "77f1ca1fb3f7d65c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a00cc42358b75074",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "zz-Attachments/Grace-20231217173120982.webp"
+                  },
+                  "icon": "lucide-image",
+                  "title": "Grace-20231217173120982"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 8,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
   },
   "active": "fa6f9d86396034ef",
   "lastOpenFiles": [
+    "zz-Attachments/Grace-20231217173120982.webp",
+    "6) NPCs/Restwell Keep/Grace.md",
+    "6) NPCs/Restwell Keep/Balewin.md",
+    "zz-Attachments/Balewin.webp",
+    "8) Adventures/4D - Stormcrow Tor (D169).md",
+    "6) NPCs/Crossroads/Crossroads.md",
+    "6) NPCs/Restwell Keep/Restwell Keep.md",
+    "6) NPCs/Restwell Keep/Karrie Buttonquail.md",
+    "6) NPCs/Restwell Keep/Jarek.md",
+    "zz-Attachments/Jarek.png",
+    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+    "8) Adventures/4B - The Pillar of Eyes (D180).md",
+    "8) Adventures/9A - Heart of the Scar (D197).md",
+    "8) Adventures/5A - The Slaver's Stone (D181).md",
     "1) GM Screen/weapon-traits-p.282-283.md",
     "1) GM Screen/Skill-Actions-Cheat-Sheet.md",
     "1) GM Screen/rules-reference.md",
@@ -260,22 +341,10 @@
     "1) GM Screen/Actions-Cheat-Sheet.md",
     "1) GM Screen/common-conditions-p.618-623.md",
     "1) GM Screen/Adventure Loot.md",
-    "8) Adventures/9A - Heart of the Scar (D197).md",
     "8) Adventures/8C - The Star-Touched Grove (D219).md",
     "8) Adventures/8B - The Runecutter's Ruin (D186).md",
     "8) Adventures/8A - Pit of Delirium (D190).md",
     "8) Adventures/7C - Head in the Clouds (D184).md",
-    "8) Adventures/7D - Scarblade (D189).md",
-    "8) Adventures/7B - Reflections of Ruin (D196).md",
-    "8) Adventures/7A - Scarred for Life (D192).md",
-    "8) Adventures/6A - Rumble in the Valley (D193).md",
-    "8) Adventures/5A - The Slaver's Stone (D181).md",
-    "8) Adventures/4D - Stormcrow Tor (D169).md",
-    "8) Adventures/Rescuing Riddle (See 5A).md",
-    "8) Adventures/Ambushed (See 5A).md",
-    "4) Bestiary/adventure-paths/Blade Mercenary.md",
-    "8) Adventures/4B - The Pillar of Eyes (D180).md",
-    "5) World/The Chaos Scar/Restwell Keep.md",
     "zz-Attachments/4B - The Pillar of Eyes (D180)-20240103152653073.webp",
     "zz-Attachments/Garn Goldhammer-20240523092051276.webp",
     "zz-Attachments/Game Rules Header.png",
@@ -284,8 +353,6 @@
     "zz-Attachments/Pasted image 20230830164356.png",
     "zz-Attachments/Pasted image 20230830162729.png",
     "zz-Attachments/Pasted image 20230829165718.png",
-    "zz-Attachments/Pasted image 20230829134121.png",
-    "zz-Attachments/Pasted image 20230829115350.png",
     "4) Bestiary/party-npc",
     "Creature Family Ability Glossary"
   ]
