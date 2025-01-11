@@ -2,14 +2,17 @@
 title: Stormcrow Tor
 adventure_status: Not Started
 adventure_level: 10
-total_xp: 680
-completed_xp: 0
+total_xp: 700
+completed_xp: 215
 awarded_pp: 0
-awarded_gp: 0
+awarded_gp: 11
 awarded_sp: 0
 awarded_cp: 0
 awarded_permanent_items: []
-awarded_consumable_items: []
+awarded_consumable_items:
+  - name: Poison Fizz (Lesser)
+    ilvl: 8
+    gp: 80
 ---
 
 ![[SCT.webp|right|550]]
@@ -42,7 +45,7 @@ When the heroes arrive, refer to the Stormcrow Tor overview map on the following
 
 # Encounter T1: Entering The Tor
 **Encounter Difficulty:** 
-- [ ] Moderate (95 XP) Level 10
+- [x] Moderate (95 XP) Level 10
 
 ![[SCT E1 Map.webp]]
 
@@ -172,7 +175,7 @@ The myconid sovereign remains behind its allies, relying on them for protection.
 
 # Encounter T3: Mausoleum
 **Encounter Difficulty:** 
-- [ ] Severe (120 XP) Level 10
+- [x] Severe (120 XP) Level 10
 
 ![[SCT E3 Map.webp]]
 
@@ -225,14 +228,14 @@ When the skeleton is touched or disturbed, such as by being attacked or in the a
 **Magic Fountain:** A magic fountain lies in the hallway east of the Mausoleum. The Stormcrow Company managed to move a magic fountain from the tower of an evil wizard they overthrew to their own base. The fountain’s reliability suffered in the transport. It confers an ability or disability upon each person that drinks from the fountain no more than 1/day. The fountain confers effects similar to rituals where the skill check to perform the ritual, if any is required, is +10. However, it may also confer a disease!
 
 ###### `dice: 1d6` Ability
-| Die Roll |  Effect |
-| ---- | --- |
-| 1 | [[nightmare-fever|Nightmare Fever]] |
-| 2 | [[comprehend-language|Comprehend Language]] |
-| 3 | [[endure-elements|Endure Elements]] |
-| 4 | [[discern-lies|Discern Lies]] |
-| 5 | [[talking-corpse|Talking Corpse]] |
-| 6 | [[create-undead|Create Undead]] |
+| Die Roll | Effect                                       |
+| -------- | -------------------------------------------- |
+| 1        | [[nightmare-fever\|Nightmare Fever]]         |
+| 2        | [[comprehend-language\|Comprehend Language]] |
+| 3        | [[endure-elements\|Endure Elements]]         |
+| 4        | [[discern-lies\|Discern Lies]]               |
+| 5        | [[talking-corpse\|Talking Corpse]]           |
+| 6        | [[create-undead\|Create Undead]]             |
 
 **Drain:** The drain was used by the Emerald Warlock to catch excess blood from victims of his experiments. Now it is a grating for campfires.
 
@@ -245,8 +248,8 @@ A platinum key is hidden amid the dust in one of the coffins ([[skills#Perceptio
 > [!tip]+ Treasure
 > The coffins also holds 11 gp and [[poison-fizz-tv|Poison Fizz (Lesser)]].
 > 
-> - [ ] gp::11
-> - [ ] consumable::[[poison-fizz-tv|Poison Fizz (Lesser)]] [ilvl::8] [gp::80]
+> - [x] gp::11
+> - [x] consumable::[[poison-fizz-tv|Poison Fizz (Lesser)]] [ilvl::8] [gp::80]
 
 # Encounter T4: Lightning Hall
 **Encounter Difficulty:** Varies based on Traps overcome (Level 8 Hazards 20 xp each; Level 9 Hazard 30 xp)

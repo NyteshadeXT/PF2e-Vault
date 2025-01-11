@@ -27,16 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6) NPCs/Restwell Keep/Grace.md",
+                "file": "8) Adventures/4D - Stormcrow Tor (D169).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Grace"
+              "title": "4D - Stormcrow Tor (D169)"
+            }
+          },
+          {
+            "id": "2170bc258840626a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1) GM Screen/Adventure Loot.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Adventure Loot"
+            }
+          },
+          {
+            "id": "47ea8f72bfb619dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Chaos Scar - GM View"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -275,67 +303,72 @@
           }
         ],
         "direction": "vertical",
-        "x": 768,
+        "x": 2176,
         "y": 0,
-        "width": 768,
-        "height": 816,
+        "width": 640,
+        "height": 672,
         "maximize": false,
         "zoom": 0
       },
       {
-        "id": "fdedac14d6589f01",
+        "id": "503c5bae344747fd",
         "type": "window",
         "children": [
           {
-            "id": "77f1ca1fb3f7d65c",
+            "id": "c876f009a2fa3701",
             "type": "tabs",
             "children": [
               {
-                "id": "a00cc42358b75074",
+                "id": "93b3573e044849ff",
                 "type": "leaf",
                 "state": {
-                  "type": "image",
+                  "type": "markdown",
                   "state": {
-                    "file": "zz-Attachments/Grace-20231217173120982.webp"
+                    "file": "2) compendium/equipment/items/poison-fizz-tv.md",
+                    "mode": "preview",
+                    "source": true
                   },
-                  "icon": "lucide-image",
-                  "title": "Grace-20231217173120982"
+                  "icon": "lucide-file",
+                  "title": "poison-fizz-tv"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 256,
-        "y": 8,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
+        "x": 1536,
+        "y": 0,
+        "width": 640,
+        "height": 672,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "fa6f9d86396034ef",
+  "active": "2170bc258840626a",
   "lastOpenFiles": [
-    "zz-Attachments/Grace-20231217173120982.webp",
+    "6) NPCs/Restwell Keep/Restwell Keep.md",
+    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+    "8) Adventures/4D - Stormcrow Tor (D169).md",
+    "1) GM Screen/Experience Tracker.md",
+    "2) compendium/equipment/items/poison-fizz-tv.md",
+    "zz-Attachments/Chaos Scar - Player View.jpg",
+    "8) Adventures/4B - The Pillar of Eyes (D180).md",
+    "5) World/The Chaos Scar/Chaos Scar - Player View.md",
     "6) NPCs/Restwell Keep/Grace.md",
+    "zz-Attachments/Grace-20231217173120982.webp",
     "6) NPCs/Restwell Keep/Balewin.md",
     "zz-Attachments/Balewin.webp",
-    "8) Adventures/4D - Stormcrow Tor (D169).md",
     "6) NPCs/Crossroads/Crossroads.md",
-    "6) NPCs/Restwell Keep/Restwell Keep.md",
     "6) NPCs/Restwell Keep/Karrie Buttonquail.md",
     "6) NPCs/Restwell Keep/Jarek.md",
     "zz-Attachments/Jarek.png",
-    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
-    "8) Adventures/4B - The Pillar of Eyes (D180).md",
     "8) Adventures/9A - Heart of the Scar (D197).md",
     "8) Adventures/5A - The Slaver's Stone (D181).md",
     "1) GM Screen/weapon-traits-p.282-283.md",
     "1) GM Screen/Skill-Actions-Cheat-Sheet.md",
     "1) GM Screen/rules-reference.md",
     "1) GM Screen/GM-Screen.md",
-    "1) GM Screen/Experience Tracker.md",
     "1) GM Screen/DunGen (Random Dungeon Generator).md",
     "1) GM Screen/DC_Calculators.md",
     "1) GM Screen/Actions-Cheat-Sheet.md",
@@ -344,15 +377,12 @@
     "8) Adventures/8C - The Star-Touched Grove (D219).md",
     "8) Adventures/8B - The Runecutter's Ruin (D186).md",
     "8) Adventures/8A - Pit of Delirium (D190).md",
-    "8) Adventures/7C - Head in the Clouds (D184).md",
     "zz-Attachments/4B - The Pillar of Eyes (D180)-20240103152653073.webp",
     "zz-Attachments/Garn Goldhammer-20240523092051276.webp",
     "zz-Attachments/Game Rules Header.png",
     "zz-Attachments/Pasted image 20240817120426.png",
     "zz-Attachments/Pasted image 20230830164532.png",
     "zz-Attachments/Pasted image 20230830164356.png",
-    "zz-Attachments/Pasted image 20230830162729.png",
-    "zz-Attachments/Pasted image 20230829165718.png",
     "4) Bestiary/party-npc",
     "Creature Family Ability Glossary"
   ]
