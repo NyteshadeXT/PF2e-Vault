@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef8e9147f900377c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1) GM Screen/Experience Tracker.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Experience Tracker"
-            }
-          },
-          {
             "id": "fa6f9d86396034ef",
             "type": "leaf",
             "state": {
@@ -41,30 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1) GM Screen/Adventure Loot.md",
+                "file": "8) Adventures/6A - Rumble in the Valley (D193).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Adventure Loot"
-            }
-          },
-          {
-            "id": "47ea8f72bfb619dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5) World/The Chaos Scar/Chaos Scar - GM View.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Chaos Scar - GM View"
+              "title": "6A - Rumble in the Valley (D193)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -255,7 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 472.5
+    "width": 475.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -277,83 +248,26 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "bbd99f6e139ccc79",
-    "type": "floating",
-    "children": [
-      {
-        "id": "87161f72b719f97a",
-        "type": "window",
-        "children": [
-          {
-            "id": "516a8e0c4bfda04a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7fb21e25e99bc140",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-player-view",
-                  "state": {},
-                  "icon": "lucide-view",
-                  "title": "Player View"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2176,
-        "y": 0,
-        "width": 640,
-        "height": 672,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "503c5bae344747fd",
-        "type": "window",
-        "children": [
-          {
-            "id": "c876f009a2fa3701",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "93b3573e044849ff",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2) compendium/equipment/items/poison-fizz-tv.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "poison-fizz-tv"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1536,
-        "y": 0,
-        "width": 640,
-        "height": 672,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "2170bc258840626a",
+  "active": "fa6f9d86396034ef",
   "lastOpenFiles": [
-    "6) NPCs/Restwell Keep/Restwell Keep.md",
-    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+    "8) Adventures/6A - Rumble in the Valley (D193).md",
+    "8) Adventures/5A - The Slaver's Stone (D181).md",
     "8) Adventures/4D - Stormcrow Tor (D169).md",
     "1) GM Screen/Experience Tracker.md",
+    "8) Adventures/Completed/The Alchemist’s Eyrie.md",
+    "4) Bestiary/bestiary-3/bestiary-3.md",
+    "Conditions/Frightened.md",
+    "Conditions",
+    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+    "4) Bestiary/bestiary-3/adlet.md",
+    "4) Bestiary/unique-creatures/magrak-ironjaw.md",
+    "4) Bestiary/adventure-paths/Blade Mercenary.md",
+    "4) Bestiary/homebrew/proud-boy-bandit.md",
+    "8) Adventures/Completed/4B - The Pillar of Eyes (D180).md",
+    "1) GM Screen/Adventure Loot.md",
     "2) compendium/equipment/items/poison-fizz-tv.md",
+    "6) NPCs/Restwell Keep/Restwell Keep.md",
     "zz-Attachments/Chaos Scar - Player View.jpg",
-    "8) Adventures/4B - The Pillar of Eyes (D180).md",
     "5) World/The Chaos Scar/Chaos Scar - Player View.md",
     "6) NPCs/Restwell Keep/Grace.md",
     "zz-Attachments/Grace-20231217173120982.webp",
@@ -364,19 +278,9 @@
     "6) NPCs/Restwell Keep/Jarek.md",
     "zz-Attachments/Jarek.png",
     "8) Adventures/9A - Heart of the Scar (D197).md",
-    "8) Adventures/5A - The Slaver's Stone (D181).md",
     "1) GM Screen/weapon-traits-p.282-283.md",
     "1) GM Screen/Skill-Actions-Cheat-Sheet.md",
     "1) GM Screen/rules-reference.md",
-    "1) GM Screen/GM-Screen.md",
-    "1) GM Screen/DunGen (Random Dungeon Generator).md",
-    "1) GM Screen/DC_Calculators.md",
-    "1) GM Screen/Actions-Cheat-Sheet.md",
-    "1) GM Screen/common-conditions-p.618-623.md",
-    "1) GM Screen/Adventure Loot.md",
-    "8) Adventures/8C - The Star-Touched Grove (D219).md",
-    "8) Adventures/8B - The Runecutter's Ruin (D186).md",
-    "8) Adventures/8A - Pit of Delirium (D190).md",
     "zz-Attachments/4B - The Pillar of Eyes (D180)-20240103152653073.webp",
     "zz-Attachments/Garn Goldhammer-20240523092051276.webp",
     "zz-Attachments/Game Rules Header.png",

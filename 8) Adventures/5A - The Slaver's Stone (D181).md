@@ -2,14 +2,14 @@
 title: The Slaver's Stone
 adventure_status: Not Started
 adventure_level: 10
-total_xp: 940
+total_xp: 780
 completed_xp: 0
 awarded_pp: 0
 awarded_gp: 0
 awarded_sp: 0
 awarded_cp: 0
 awarded_permanent_items: 
-awarded_consumable_items:
+awarded_consumable_items: 
 ---
 
 # Background
@@ -110,7 +110,7 @@ Magrak Ironjaw is a warrior, slaver, and bandit. Because of his depredations, Lo
 Reaching the Crossroads involves following the old trail toward the Chaos Scar. The characters might encounter a few locals along the way. Consider injecting one or two of the following encounters during the trek to the Crossroads.
 
 ### Escaped Prisoner
-- [ ] Trivial (40 XP)
+- [ ] Trivial (60 XP)
 
 One of Magrak’s prisoners, a handsome young woman from Cled, escaped the wereboar. Unfortunately, Magrak dispatched his warriors to chase her down. Once the characters defeat the pursuers, then find the woman, Allysen can tell the adventurers that Magrak is headed for some place called the Slaver’s Stone, though she doesn’t know where that is. Cluff, if with the party, sends two warriors to escort her back to their lands.
 
@@ -120,13 +120,10 @@ One of Magrak’s prisoners, a handsome young woman from Cled, escaped the wereb
 name: Escaped Prisoner
 party: Chaos Scar
 creatures:
-- 4: [[Orc Raider]] 
-- 2: [[Blade Mercenary, Mercernary A, Ally], 13]
-- 2: [[Blade Mercenary, Mercernary B, Ally], 13]
-- 2: [[Blade Mercenary, Mercernary C, Ally], 13]
-- 2: [[Blade Mercenary, Mercernary D, Ally], 13]
-- 2: [[Blade Mercenary, Mercernary E, Ally], 13]
+- 6: [[Orc Raider]] 
 ```
+
+The party encounters two bands of of warriors searching for Cled.  While the party handles one of them Cluff's mercenaries will handle the other.  They will win this combat with only minor injuries to show for it.
 
 ### Howling Pack
 - [ ] Trivial (60 XP)
@@ -143,12 +140,9 @@ creatures:
 - 4: [[Gnoll Warfang]] 
 - 2: [[Gnoll Hunter]]
 - 4: [[Hyena]]
-- 2: [[Blade Mercenary, Mercernary A, Ally], 13]
-- 2: [[Blade Mercenary, Mercernary B, Ally], 13]
-- 2: [[Blade Mercenary, Mercernary C, Ally], 13]
-- 2: [[Blade Mercenary, Mercernary D, Ally], 13]
-- 2: [[Blade Mercenary, Mercernary E, Ally], 13]
 ```
+
+A second gnoll band will emerge from over a hill in the round following the encounter with the first.  Cluff's mercenaries will move to intercept them and again will emerge with only minor wounds to show from the battle.
 
 ## Roaming Dead
 - [ ] Trivial (60 XP)
@@ -163,12 +157,9 @@ party: Chaos Scar
 creatures:
 - 1: [[Tyrannosaurus Skeleton]] 
 - 2: [[Hunter Wight]]
-- 2: [[Blade Mercenary, Mercernary A, Ally], 13]
-- 2: [[Blade Mercenary, Mercernary B, Ally], 13]
-- 2: [[Blade Mercenary, Mercernary C, Ally], 13]
-- 2: [[Blade Mercenary, Mercernary D, Ally], 13]
-- 2: [[Blade Mercenary, Mercernary E, Ally], 13]
 ```
+
+During the combat a small band of zombies will join the battle.  Cluff's mercernaries will again move to handle the situation.  They will once more emerge mostly unharmed from the battle. 
 
 ## 1.  Crossroads
 The Crossroads are beyond the King’s Wall, about halfway to the Chaos Scar, at the juncture of the main trail and a second, smaller trail that leads to the north. 
@@ -320,7 +311,7 @@ The adventure ends when the characters rescue the prisoners from Magrak or, if t
 You also have the matter of the orc chieftain. Po is angry about not getting his slaves and a little snooping around should garner him the names of the characters. He might seek revenge by attacking the adventurers later or mount an attack on Restwell Keep. If, though, the adventurers failed to rescue the prisoners, they might try to locate them and wrest them from the orc. What did he want the slaves for? Where are they? Do they still live?
 
 ## Encounter 1: Local Color
-- [ ] Moderate (170 XP) Level 10
+- [ ] Moderate (110 XP) Level 10
 
 ![[5A - The Slaver's Stone (D181)-20240809215828479.webp]]
 
@@ -328,7 +319,7 @@ At the start of the encounter, place the following foes on the map:
  - 1: [[Kan Sken]] (Captain) C
  - 1: [[Dronvi Thald]] (Hunter) H
  - 1: [[Pramlan]] (Mage) M
- - 8: [[proud-boy-bandit|Proud Boy Bandit]] P
+ - 2: [[proud-boy-bandit|Proud Boy Bandit]] P
 
 ```encounter
 name: Local Color
@@ -337,17 +328,14 @@ creatures:
 - 1: [[Kan Sken]] 
 - 1: [[Dronvi Thald]]
 - 1: [[Pramlan]]
-- 8: [[Proud Boy Bandit]]
-- 2: [[Blade Mercenary, Mercernary A, Ally], 13]
-- 2: [[Blade Mercenary, Mercernary B, Ally], 13]
-- 2: [[Blade Mercenary, Mercernary C, Ally], 13]
-- 2: [[Blade Mercenary, Mercernary D, Ally], 13]
-- 2: [[Blade Mercenary, Mercernary E, Ally], 13]
+- 2: [[Proud Boy Bandit]]
 ```
 
 The bandits aided Magrak Ironjaw and now camp here, finding creative ways to spend their coin. They owe Magrak no particular loyalty and are open to discussion since they are not particularly interested in dying.
 
-The captain, hunter, mage, and four bandits are at the site. The other four bandits are off doing something bad in the trees. They come to investigate sounds of fighting at the start of the third round entering from the right side of the map.
+The captain, hunter, mage, and two bandits are at the site. The other eight bandits are off doing something bad in the trees. They come to investigate sounds of fighting at the start of the third round entering from the right side of the map.
+
+Cluff's mercenaries will move to intercept these bandits as the emerge from the trees. 
 
 As noted above, if the characters arrive before the orcs, allow the characters to see the camp and where the creatures are positioned. The characters can use [[skills#Stealth|Stealth]] against the sentries’ passive [[skills#Perception|Perception]] to move into position and possibly take the entire camp by surprise.
 
@@ -362,6 +350,8 @@ If the heroes approach in the open, read:
 ### Tactics
 The bandits fight simply, working in teams to flank while the mage hurls magic missiles and other spells into the party’s midst.
 
+The mercenaries engage a separate group of bandits.  Two of them die in round two.  They are able to finish off the bandits by the end of round six.
+
 ### Botching the Encounter
 If the characters wipe out the bandits and learn nothing from them, all is not lost. [[Millen Silvereye]], the psychic tiefling who runs the Trading Post, is relieved to be rid of the bandits and tells the characters everything they need to know in exchange for 10 gp. Substitute someone else if Millen is dead or gone.
 
@@ -373,25 +363,18 @@ If the characters wipe out the bandits and learn nothing from them, all is not l
 > - [ ] consumable::[[healing-potion|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
 
 ## Encounter 2: Dung and Feathers
-- [ ] Moderate (180 XP) Level 10
+- [ ] Severe (120 XP) Level 10
 
 ![[5A - The Slaver's Stone (D181)-20240816223027483.webp]]
 
 At the start of the encounter, place the following foes on the map: 
- - 6: [[Harpy, Elite]] H
  - 2: [[harpy-warbird|Harpy Warbird]] H
 
 ```encounter
 name: Dung and Feathers
 party: Chaos Scar
 creatures:
-- 6: [[Harpy, Elite]] 
 - 2: [[Harpy Warbird]]
-- 2: [[Blade Mercenary, Mercernary A, Ally], 13]
-- 2: [[Blade Mercenary, Mercernary B, Ally], 13]
-- 2: [[Blade Mercenary, Mercernary C, Ally], 13]
-- 2: [[Blade Mercenary, Mercernary D, Ally], 13]
-- 2: [[Blade Mercenary, Mercernary E, Ally], 13]
 ```
 
 
@@ -402,7 +385,9 @@ When the heroes come upon the Stone Teeth, read:
 > Eight monoliths, each twenty feet tall, rise around the trail leading to the Scar. No stone stands straight; they lean as if they might fall at any moment. Lichen and dung stain the rocks, likely from the screeching bird women perched atop them. One calls out, “A gift and we shall let your band pass unharmed!” Just then, you hear a pitiful cry sounding from atop the eighth stone, where you see a terrified young woman searching for a way down.
 
 ### Tactics
-The harpies start the fight by using Captivating Song against enemies and then swoop down from their perches to make attacks and then land on another monolith. They fight until only two remain, at which point they kill their prisoner and fly off toward the valley.
+The harpies start the fight by using Captivating Song against enemies and then swoop down from their perches to make attacks and then land on another monolith. They fight until only one remains, at which point it kills the prisoner and flys off toward the valley.
+
+Standard harpies break off and attack the mercenaries.  Two of the mercenaries will die during round two of this engagement.  They will finish off the harpies during round three.
 
 > [!danger]+ Trap
 > ### Unstable Monolith (Single-Use Terrain)
@@ -427,7 +412,7 @@ The harpies start the fight by using Captivating Song against enemies and then s
 > - [ ] consumable::[[enervation-apg|Spell Scroll - 4th Level (Enervation)]] [ilvl::7] [gp::70]
 
 ## Encounter 3: Chain Gang
-- [ ] Trivial (100 XP) Level 10
+- [ ] Trivial (40 XP) Level 10
 
 ![[5A - The Slaver's Stone (D181)-20240816232439786.webp]]
 
@@ -435,7 +420,6 @@ At the start of the encounter, place the following foes on the map:
  - 1: [[magrak-ironjaw|Magrak Ironjaw]] M
  - 2: [[orc-raider|Orc Raider]] R
  - 2: [[hobgoblin-general|Hobgoblin General]] H
- - 6: [[goblin-archer|Goblin Archer]] A
 
 ```encounter
 name: Chain Gang
@@ -444,12 +428,6 @@ creatures:
 - 1: [[Magrak IronJaw]] 
 - 2: [[Orc Raider]]
 - 2: [[Hobgoblin General, Hobgoblin Sentry]]
-- 6: [[Goblin Archer]]
-- 2: [[Blade Mercenary, Mercernary A, Ally], 13]
-- 2: [[Blade Mercenary, Mercernary B, Ally], 13]
-- 2: [[Blade Mercenary, Mercernary C, Ally], 13]
-- 2: [[Blade Mercenary, Mercernary D, Ally], 13]
-- 2: [[Blade Mercenary, Mercernary E, Ally], 13]
 ```
 
 Magrak has set up camp around the Slaver’s Stone. He sits around the campfire. The orc raider guard the dozen prisoners. The hobgoblins hold positions to watch for enemies, while a few archers hide in the rocks so they can pick off intruders from cover and the rest take positions atop the drum. Magrak expects the orc chieftain, but anyone else gets one warning to “sod off ” before he orders his force to attack.
@@ -464,6 +442,8 @@ When the heroes see the encampment, read:
 Magrak doesn’t place much stock in group tactics and it shows in the forces under his command. Magrak prefers to fight with murderous intent. 
 
 The orcs abandon their prisoners on the first round by using ferocious charge to close the distance and then focus attacks on their targets until they can use sudden charge. The archers and sentries fight simply. The sentries move to clump up into teams of two to benefit from their phalanx soldier auras while the archers pick off any ranged enemies they can see.
+
+The mercenaries charge the archers recognizing them to be a big threat.  None of them will die in this engagement.
 
 ### Features of the Area
 **Rocks:** The large rocks jutting from the ground count as difficult terrain and grant cover to creatures fully in their spaces. Prone creatures fully in these spaces gain superior cover.
@@ -492,8 +472,6 @@ party: Chaos Scar
 creatures:
 - 3: [[Leng Ghoul]] 
 - 1: [[Titan Centipede], hidden]
-- 2: [[Blade Mercenary, Mercernary A, Ally], 13]
-- 2: [[Blade Mercenary, Mercernary B, Ally], 13]
 - 2: [[Blade Mercenary, Mercernary C, Ally], 13]
 - 2: [[Blade Mercenary, Mercernary D, Ally], 13]
 - 2: [[Blade Mercenary, Mercernary E, Ally], 13]
@@ -511,6 +489,8 @@ If the heroes approach, read:
 
 ### Tactics
 The ghouls hold positions in front of the gap, using claw or bite attacks against immobilized and stunned opponents. The centipede rumbles from out of some rubble at the side of the room lost in the darkness at the start of the second round.
+
+The mercenaries all join the players in this combat.  Adjust group C to have half health.
 
 ### Features of the Area
 **Cloven Skull:** The gap in the skull leads into a dark and winding passage that eventually ends at a subterranean lake.
@@ -537,8 +517,6 @@ party: Chaos Scar
 creatures:
 - 1: [[Adult Silver Dragon, Lake Oracle]] 
 - 6: [[Chaos Spawn Merloc]]
-- 2: [[Blade Mercenary, Mercernary A, Ally], 13]
-- 2: [[Blade Mercenary, Mercernary B, Ally], 13]
 - 2: [[Blade Mercenary, Mercernary C, Ally], 13]
 - 2: [[Blade Mercenary, Mercernary D, Ally], 13]
 - 2: [[Blade Mercenary, Mercernary E, Ally], 13]
@@ -560,6 +538,8 @@ When the Oracle reaches the heroes, read:
 The dragon drops her disguise, uses frightful presence, and then uses her breath weapon. The dragon then moves away, flying near the ceiling or near the island until breath weapon recharges. She uses melee attacks against any creature that closes on her.
 
 Her servants emerge from the waters to attack.
+
+The surviving mercenaries will join this combat as well.  Adjust heath and remaining numbers appropriately.
 
 ### Features of the Area
 **Illumination:** This room is dark.

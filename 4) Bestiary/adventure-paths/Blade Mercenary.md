@@ -68,7 +68,7 @@ attacks:
   - name: ""
 
   - name: "Melee"
-    desc: "`pf2:1` Longsword +19 (magical, versatile p)\n__Damage__  2d8 + 9 slashing"
+    desc: "`pf2:1` Longsword +19 (magical, versatile p)\n__Damage__ `dice: 2d8+9` 2d8 + 9 slashing"
 
   - name: "Ranged"
     desc: "`pf2:1` Composite Longbow +18 (deadly d10, magical, propulsive, range increment 100 feet, reload 0, volley 30 ft.)\n__Damage__  2d8 + 9 piercing"
