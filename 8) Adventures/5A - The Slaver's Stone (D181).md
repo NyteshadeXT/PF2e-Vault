@@ -12,6 +12,8 @@ awarded_permanent_items:
 awarded_consumable_items: 
 ---
 
+![[The Slavers Stone.webp]]
+
 # Background
 A few days ago, a wereboar slaver named Magrak Ironjaw attacked the remote village of Cled to capture prisoners he intended to sell as slaves. Magrak, his own troops, plus those of the Proud Boys bandits, led the prisoners across the King’s Wall and into the scar, bound for the Slaver’s Stone not far from the valley mouth. There, he hopes to offload the chattel to an orc chieftain who is known to be a good customer for slavers. 
 

@@ -49,7 +49,7 @@ When the players step through the portal, read:
 **Creatures:**
 
 - 3: [[specter]] (Poltergeist variant with eerie laughter)
-- 1: [[Graveknight]] (dressed in Harley’s twisted garb)
+- 1: [[graveknight]] (dressed in Harley’s twisted garb)
 
 ```encounter
 name: The Haunting Shadows

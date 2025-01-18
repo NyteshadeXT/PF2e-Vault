@@ -18,7 +18,7 @@ The players will be able to enter Zeta’s mind during her next sleep cycle, but
 [[Forest of Forgotten Memories.webp|Show to Players]]
 
 Creatures:
- - 2: [[Memory Wraith]] W
+ - 2: [[memory-wraith]] W
 
 ```encounter
 name: Forest of Forgotten Memories
@@ -33,7 +33,7 @@ The forest is dark and oppressive, with towering trees made of shifting, etherea
 > As you step deeper into the forest, the trees seem to whisper in familiar voices—voices you’ve heard from Zeta before. The air feels heavy, the ground soft beneath your feet like you’re walking on memories themselves. Suddenly, the wind picks up, and figures form in the mist between the trees. Shadowy humanoid shapes emerge, shifting and distorting like smoke, moving toward you with purpose. 
 
 ## Tactics
-The [[Memory Wraith|Memory Wraiths]] are creatures formed from Zeta’s darkest, most suppressed memories. They move through the trees, using their incorporeal nature to slip in and out of sight. These wraiths are not bound by traditional tactics but seem to react to the party’s emotions—targeting those who show the most fear or confusion first. They use **Telepathic Assault** to disorient their targets.
+The [[memory-wraith|Memory Wraiths]] are creatures formed from Zeta’s darkest, most suppressed memories. They move through the trees, using their incorporeal nature to slip in and out of sight. These wraiths are not bound by traditional tactics but seem to react to the party’s emotions—targeting those who show the most fear or confusion first. They use **Telepathic Assault** to disorient their targets.
 
 ## Features of the Area
 The forest is filled with obstacles and hazards tied to Zeta’s memories, creating a confusing and treacherous terrain.

@@ -54,7 +54,7 @@ health:
 attacks:
   - name: Melee
     desc: "⬻ light mace +13 ([[agile]], [[finesse]], [[shove]]); __Damage__ 2d6+6 (2d6+6) bludgeoning"
-  - name: Melee
+  - name: Melee.
     desc: "⬻ crossbow +18 ([[range increment 120 feet]], [[reload 1]]); __Damage__ 2d10+9 (2d10+9) piercing or bola bolt"
 
 spellcasting:

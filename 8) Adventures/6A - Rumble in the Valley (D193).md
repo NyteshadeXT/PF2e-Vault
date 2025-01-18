@@ -1,7 +1,9 @@
 ---
 title: Rumble in the Valley
-adventure_status: "Not Started"
+adventure_status: Not Started
+adventure_level: 11
 ---
+![[Rumble in the Valley.webp|right]]
 
 # Background
 Kodan is an experienced hobgoblin commander, who leads a band of raiders called the Talons, so named for their hit-and-run tactics patterned after those of certain dragons. Hearing of opportunities for wealth and power, he took his band to the Chaos Scar. 
@@ -13,7 +15,7 @@ The keep and adventuring parties were constant threats that couldn’t be dealt 
 Using the talents of various monsters seeking revenge, Kodan took over a set of caves and has turned it into a massive trap. He doesn’t intend to kill the adventurers in the caves but rather weaken them so that he and his now-reinforced Talons can eliminate them, in full view of emissaries from important Chaos Scar factions. With the adventurers out of the way, and having demonstrated his might, Kodan intends to rule the Chaos Scar.
 
 # Adventure Synopsis
-The adventurers are summoned by [[Ardia Ironleaf]], a wealthy patron and frequent source of work, about another quest into the Chaos Scar. Ardia explains that elemental creatures are attacking his trade caravans and have been seen coming from a newly spotted cave entrance. She promises wealth and glory, as well as a chance to save innocent lives, if the adventurers investigate the incidents.
+The adventurers are summoned by [[Ardia Ironleaf]] about another quest into the Chaos Scar. Ardia explains that elemental creatures are attacking her trade caravans and have been seen coming from a newly spotted cave entrance. She promises wealth and glory, as well as a chance to save innocent lives, if the adventurers investigate the incidents.
 
 In truth, the quest is a ruse. The real Ardia has been captured and replaced by Linn. Kodan has prepared a trap for the adventurers within one of the caves of the Chaos Scar, utilizing the talents of Slik, Primpel, and Barulg.
 
@@ -24,14 +26,14 @@ At the end of the tunnels, a small force of sentries loyal to Kodan guard a ston
 In the valley below, witnessed by monstrous emissaries, Kodan and the Talons fight the party in one last showdown. If Kodan defeats the adventurers, he proves his worth to lead the monsters of the Chaos Scar in an attack on Restwell Keep. If he falls, the adventurers end a grave threat to the keep.
 
 # Running the Adventure
-- **Caravan Troubles Again:** [[Ardia Ironleaf]] is looking for the party. Something about his caravans being attacked by elemental creatures from the Scar. Sound like she’s willing to pay lots of coin.
+- **Caravan Troubles Again:** [[Ardia Ironleaf]] is looking for the party. Something about her caravans being attacked by elemental creatures from the Scar. Sound like she’s willing to pay lots of coin.
 
 # The Adventure Begins
 When you’re ready to begin the adventure, read:
 > [!note]+ Read Aloud
 > Within the walls of Restwell Keep, you’ve made a name for yourselves as heroes, ready to protect the innocent, rescue the endangered, and thwart the evil. As you walk along the streets, you’re thanked by passersby whom you have helped or those who just know you by reputation.
 > 
-> So you aren’t surprised to once again be called to another adventure at the behest of Ardia Ironleaf. In the past, she has needed help dealing with the dangers of the Chaos Scar, which are numerous, to clear the way for her trade caravans. Ardia asks you to investigate a possible incursion by elementals that threaten one of his trade routes. As always, she offers to pay well.
+> So you aren’t surprised to once again be called to another adventure at the behest of Ardia Ironleaf. In the past, she has needed help dealing with the dangers of the Chaos Scar, which are numerous, to clear the way for her trade caravans. Ardia asks you to investigate a possible incursion by elementals that threaten one of her trade routes. As always, she offers to pay well.
 > 
 > “This should be short work for such experienced adventurers as you,” she says, smiling. Without waiting for your answer, she hands you a map to the spot where she believes the creatures are coming from. She encourages you to leave quickly, for she has another caravan moving through tomorrow.
 
@@ -39,7 +41,7 @@ In fact, the person who the adventurers are meeting with is not [[Ardia Ironleaf
 
 This excuse might make the adventurers suspicious. With a successful DC 29 [[sense-motive|Sense Motive]] check, a character senses that Ardia seems to be upset about something. If challenged, she explains that she is annoyed at the cost of doing business in the keep. (In reality, the doppelganger wants revenge for the death of her brothers.) If the adventurers continue to press her, she excuses herself on the pretext that she has another important meeting to attend.
 
-The fake Ardia pays the party 85 gp up front, with a promise of triple that on successful completion of the mission. If that doesn’t persuade the adventurers, the doppelganger increases the offer as needed—she intends for them never to return, so payment isn’t a problem.
+The fake Ardia pays the party 100 gp up front, with a promise of triple that on successful completion of the mission. If that doesn’t persuade the adventurers, the doppelganger increases the offer as needed—she intends for them never to return, so payment isn’t a problem.
 
 The map provided by "Ardia" is detailed and accurate, leading the party right to the cave entrance. The journey is surprisingly quiet for a trip into the Chaos Scar—the first clue that something is not quite right about the mission.
 
@@ -51,34 +53,37 @@ The cave immediately begins to slope downward, twisting to the east. With a succ
 If the adventurers take time to search more thoroughly, or decide to turn back, you can encourage them to continue forward with the sound of an anguished cry from ahead: the voice of the real Ardia.
 
 ## Encounter 1: Between Rust and a Hard Place
+**Encounter Difficulty:** 
+- [x] Moderate (90 XP) Level 11
+
 ![[6A - Rumble in the Valley (D193)-20240820111648698.webp]]
 
 At the start of the encounter, place the following foes on the map: 
- - 2: [[BadGuy1]] W
- - 2: [[BadGuy2]] H
+ - 2: [[mudborn|Mudborn]] M
+ - 2: [[rust-monster-enhanced|Rust Monster]] R
+ - 1: [[Tar ooze]] G
+ - 1: [[Ardia Ironleaf]] D
 
 ```encounter
-name: EncounterName
+name: Between Rust and a Hard Place
 party: Chaos Scar
 creatures:
-- 2: [[Badguy1]] 
-- 2: [[Badguy2]]
+- 2: [[Mudborn]] 
+- 2: [[Enhanced Rust Monster]]
+- 1: [[Tar Ooze]]
 ```
 
 The map for Event 1 shows the entrance and the  cavern where Ardia is being held. She is badly injured and needs attention if she is to survive. Once the adventurers enter the cave, the tunnel leading back out starts to collapse.
-
-Monsters: 2 elemental evil mudborn (M), 1 gelatinous
-cube (G), 2 gluttonous rust monsters (R).
 
 When the adventurers get close enough to see inside, read:
 > [!note]+ Read Aloud
 > You stand at the entrance to a large chamber, divided into two sections. The more distant half is illuminated by torches on the walls, placed to give you a good view of a sight you were clearly intended to witness. 
 > 
-> Your patron Dyson—battered, beaten, and bloody— hangs pitifully from manacles attached by chains to the far wall. There’s no way the old man could have arrived before you, and his wounds show that he has suffered long-term abuse.
+> Your patron Ardia—battered, beaten, and bloody— hangs pitifully from manacles attached by chains to the far wall. There’s no way the she could have arrived before you, and her wounds show that she has suffered long-term abuse.
 > 
-> Surrounding him are two humanoid shapes seemingly made of living mud. Within their chests, covered by the muck, are two wriggling insect-like creatures, whose antennae occasionally poke out of the disgusting slime. 
+> Surrounding her are two humanoid shapes seemingly made of living mud. Within their chests, covered by the muck, are two wriggling insect-like creatures, whose antennae occasionally poke out of the disgusting slime. 
 > 
-> Dyson tries to choke out a warning, but the pain of his injuries, reinforced by a brutal blow from one of the mud creatures, silences him before he can finish. The monsters emit a low gurgling sound as they turn to face you, and the cat-sized insects burst forth, leaving a bubbling mud trail behind them. 
+> Ardia tries to choke out a warning, but the pain of her injuries, reinforced by a brutal blow from one of the mud creatures, silences her before she can finish. The monsters emit a low gurgling sound as they turn to face you, and the cat-sized insects burst forth, leaving a bubbling mud trail behind them. 
 > 
 > Behind you, a loud crashing sound reverberates through the tunnels.
 
@@ -89,35 +94,287 @@ Any creature that tries to escape back through the entrance tunnel on the first 
 After the cave-in ends, returning through the entrance passage is no longer possible. The only exit is the tunnel at the far side of the cavern.
 
 ### Tactics
-The elemental evil mudborn are under
-orders to stop enemies from reaching Dyson. They
-stay near him, launching their mud ball attacks at
-anyone who tries to approach. The gluttonous rust
-monsters were imprisoned within the mudborn,
-where they starved nearly to death. They home in on
-the character with the most metal to devour.
-The gelatinous cube was prodded into place to
-prevent an early exit. It spends the first round moving
-into better position to engulf prey. It avoids the mudborn
-(which have no flesh to devour) but does not
-hesitate to overrun a rust monster while trying to get
-to a character.
+The [[mudborn]] are under orders to stop enemies from reaching [[Ardia Ironleaf|Ardia]]. They stay near her, launching their mud ball attacks at anyone who tries to approach. The enhanced rust monsters were imprisoned within the mudborn, where they starved nearly to death. They home in on the character with the most metal to devour. 
+
+The gelatinous cube was prodded into place to prevent an early exit. It spends the first round moving into better position to engulf prey. It avoids the mudborn (which have no flesh to devour) but does not hesitate to overrun a rust monster while trying to get to a character.
 
 ### Features of the Area
-Light: Torches along the walls of the farther
-cavern shed bright light.
-Dyson (D): The old man has been tortured and
-will die in a few rounds if he is not tended to. Anyone
-adjacent to him can make a DC 15 Heal check to
-stabilize him. Using a healing power on Dyson automatically
-stabilize him. Otherwise, he makes a death
-saving throw at the end of each round and dies after
-three failures. Even if stabilized, Dyson barely clings
-to life and is unconscious for the remainder of the
-adventure. Rescuing Dyson fulfills a minor quest.
+**Light:** Torches along the walls of the farther cavern shed bright light.
 
-QUEST: Caver n Rescue
-7th-Level Minor Quest (300 XP)
-Returning Dyson to town alive earns the characters
-the quest reward.
+Ardia (D): The elf has been tortured and will die in a few rounds if she is not tended to. Anyone adjacent to her can make a DC 29 [[skills#Medicine|Medicine]] check to stabilize her. Using a healing power on Ardia automatically stabilize her. Otherwise, she makes a death saving throw at the end of each round and dies after three failures. Even if stabilized, Ardia barely clings to life and is unconscious for the remainder of the adventure. Rescuing Ardia fulfills a minor quest.
 
+
+**QUEST: Cavern Rescue (Minor Quest)** 
+- [ ] Low (60 XP) Level 11
+Returning Ardia to town alive earns the characters the quest reward.
+
+## Encounter 2: Tunnels of Terror
+**Encounter Difficulty:** 
+- [x] Moderate (80 XP) Level 11
+
+Kodan knows he can’t stand up to the adventurers at full strength. His goal is to weaken them as much as possible, perhaps eliminating one or two of them if he’s lucky. To that end, with the aid of Barulg’s construction and forging, and traps designed by Slik, he has laid out the tunnels to harry and weaken the party. Kodan still needs a few adventurers to escape, however, so he can finish them off in view of those he’s trying to impress.
+
+After a short time exploring, the party comes to a spot where the tunnel forks. Both directions are blocked by solid metal gates, each connected by a chain to a pulley in the opposite tunnel. Each slab requires at least two characters to raise it by pulling on its chain, and it falls back as soon as the chain is released or fewer than two characters hold it. (The chain is long enough to allow those holding it to move past the open slab if it is opened by the other chain.) Unless the adventurers come up with a way around this obstacle, they will have no choice but to split into two groups, each passing simultaneously into the opposing tunnels. After passing these obstacles, the groups are reunited at the exit chamber.
+
+Each group must deal with two of the obstacles laid out by the Talons, represented by short skill challenges that affect the final encounter. Tailor these challenges to the group’s abilities, choosing two from those described below , in whichever order you want. These challenges use a variety of skills, so they shouldn’t be too difficult for the characters to overcome. If the players come up with a way to avoid splitting the party, they should easily bypass this challenge and emerge stronger than Kodan expects.  There is a strange sense of confounding in the air.  Only give the players information about the primary and secondary skills allowed.  They must discover success criteria on their own.
+
+> [!tip]+ Skill Challenge
+> # Barulg’s Infernal Forge
+> 
+> The tunnel walls transition into intricately carved works of metal and obsidian, engraved with devilish visages. Barulg, through his infernal masters, has infused his craftsmanship with primal fears of the living: the dark, being lost, and fire. The fiendish images swallow all light in the area (including any magical light sources) and launch blasts of invisible fire. 
+> 
+> **Level:** 7 (40 XP)
+> **Complexity:** 1 (requires 4 successes before 3 failures)
+> **Time Frame:** Each character can make a skill check in this challenge once per minute.
+> **Primary Skills:**  [[skills#Crafting|Crafting]], [[skills#Perception|Perception]], [[skills#Society|Society]]
+> **Secondary Skills:** [[skills#Perception|Perception]]
+> **Special:** After any character makes a skill check, regardless of the skill used and the success or failure of the check, a random character takes `dice: 2d6+4` 2d6 + 4 fire damage.
+> 
+> ### Primary Skills
+> **Crafting (DC 29, 1 success):** The character relies on familiarity with construction to advance carefully.
+> 
+> **Perception (DC 29, 1 success):**  Despite the lack of light, the character uses other senses to find the path.
+> 
+> **Society (DC 29, 1 success):** The character recognizes the art on the walls as duergar handiwork, allowing him or her to figure out the best places to step based on their patterns. Success with this check, in addition to counting toward the overall challenge reduces damage taken by half.
+> 
+> ### Secondary Skills
+> **Perception (DC 26, no successes):** The character tries to anticipate the fire blasts. No success is gained, but he or she takes no damage from the next blast of fire that targets that character.  Alternately, the character uses intuition to warn the others about an oncoming blast of fire. No success is gained, but each other character takes only half damage from the next fire blast that attacks him or her.
+> 
+> ### Success
+> The party reaches the end of the hall, and their light sources flare to life again.
+> 
+> ### Failure 
+> The adventures emerge with infernal darkness clinging to their souls. The group gains the **Marked by Barulg** trait: Any character who scores a hit against Barulg in the final encounter takes 5 fire damage.
+
+
+
+> [!tip]+ Skill Challenge
+> # Linn’s Paranoid Gauntlet
+> 
+> The rocky walls change to a mirror-like substance, reflecting thousands of things both real and false. Images, voices, and sounds appear all around the characters, who become increasingly unsure if the other party members are real or have been replaced by something sinister. The adventurers must shake these feelings to emerge safely from the maze of mirrors.
+> 
+> **Level:** 7 (40 XP)
+> **Complexity:** 1 (requires 4 successes before 3 failures)
+> **Time Frame:** Each character can make a skill check in this challenge once per round.
+> **Primary Skills:**  [[skills#Arcana|Arcana]], [[skills#Diplomacy|Diplomacy]], [[skills#Perception|Perception]]
+> **Secondary Skills:** [[skills#Diplomacy|Diplomacy]], [[skills#Intimidation|Intimidation]]
+> **Special:** Each round, any character who has not succeeded at a primary skill check takes `dice: 2d6+4` 2d6 + 4 psychic damage.
+> 
+> ### Primary Skills
+> **Arcana (DC 29, 1 success):** The character uses his or her magical senses to get a fix on what is real and what is magically created.
+> 
+> **Diplomacy (DC 29, 1 success):**  The character gives a stirring speech to convince the others of his or her identity and trustworthiness.
+> 
+> **Perception (DC 29, 1 success):** The character trusts his or her intuition to tune out the false voices and images.
+> 
+> ### Secondary Skills
+> **Diplomacy (DC 23, no successes):** The character employs verbal gymnastics to confuse the various illusions, although his or her own reality is still in doubt. No success is gained, but each other character receives a +2 bonus to the next primary skill check he or she makes this round.
+> 
+> **Intimidation (DC 26, no successes):** The character forcefully asserts his or her existence. Although this tactic is effective, the other party members grow more distrustful of each other. No success is gained, but this character gains a +2 bonus to all primary skill checks during the challenge. All other characters take a –2 penalty to their next primary skill checks.
+> 
+> ### Success
+> The bond between the adventurers helps to dispel the illusions and feelings of paranoia, leaving only a mild sense of doubt.
+> 
+> ### Failure 
+> The adventurers can’t shake their suspicions about what they experience. The group gains the **Marked by Linn** trait: Any character who scores a hit against Linn in the final encounter cannot regain hit points until the end of his or her next turn.
+
+
+
+> [!tip]+ Skill Challenge
+> # Primpel’s Muddy Tomb
+> 
+> This section of tunnel is filled with slowly shifting mud, which seems to exude an otherworldly essence.
+> 
+> **Level:** 7 (40 XP)
+> **Complexity:** 1 (requires 4 successes before 3 failures)
+> **Time Frame:** Each character can make a skill check in this challenge once per minute.
+> **Primary Skills:**  [[skills#Athletics|Athletics]], [[skills#Nature|Nature]], [[skills#Religion|Religion]]
+> **Secondary Skills:** [[skills#Athletics|Athletics]], [[skills#Religion|Religion]]
+> **Special:** Each character must earn at least 1 success  with a primary skill in order to proceed, even if the group has achieved 4 successes.
+> 
+> ### Primary Skills
+> **Athletics (DC 29, 1 success):** The character uses brute force, pushing through while holding his or her breath.
+> 
+> **Nature (DC 24, 1 success):**  By drawing upon his or her experience in swampy terrain, the character is able to find solid footing amid the deeper mud.
+> 
+> **Religion (DC 24, 1 success):** The character discerns that the earth and water bear traces of elemental energy tainted by chaos. Calling on divine powers that oppose elemental chaos causes the mud to part around the character. 
+> 
+> ### Secondary Skills
+> **Athletics (DC 20, no successes):** No success is gained, but the character swims or wades through while dragging another character along, granting a +2 bonus to the next primary skill check made by another character. The character making this secondary skill check takes a –2 penalty to the next primary skill check he or she makes. 
+> 
+> **Religion (DC 20, no successes):** The character meditates on a blessing to help another character ward off elemental chaos. No success is gained, but the other character gains a +2 bonus to the next primary skill check. The character making this secondary skill check cannot make primary Religion checks for the rest of the challenge.
+> 
+> ### Success
+> The party struggles through the tunnels and emerges from the mud.
+> 
+> ### Failure 
+> The adventurers make it to the other side, but the chaos instilled in the mud seeps into their bodies. The group gains the **Marked by Primpel** trait: Any character who scores a hit against Primpel in the final encounter is weakened until the end of his or her next turn.
+
+
+
+> [!tip]+ Skill Challenge
+> # Slik’s Mechanical nightmare
+> 
+> Slik the kobold has outfitted these halls with as many traps as he could think of, and he wasn’t subtle.  Blades on pendulums, pit traps, falling stone blocks, and poison dart shooters line this stretch of tunnel.
+> 
+> **Level:** 7 (40 XP)
+> **Complexity:** 1 (requires 4 successes before 3 failures)
+> **Time Frame:** Each character can make a skill check in this challenge once per minute.
+> **Primary Skills:**  [[skills#Acrobatics|Acrobatics]], [[skills#Crafting|Crafting]], [[skills#Thievery|Thievery]]
+> **Secondary Skills:** [[skills#Athletics|Athletics]], [[skills#Perception|Perception]]
+> **Special:** After a character makes any skill check, the traps attack that character. Attack: `pf2e:1` `dice: 1d20+21` +21 vs. AC. Hit: `dice: 2d8+6` 2d8 + 6 damage.
+> 
+> ### Primary Skills
+> **Acrobatics (DC 29, 1 success):** The character dodges, slides, and weaves past the deadly traps.
+> 
+> **Crafting (DC 24, 1 success):**  These traps are old hat to seasoned adventurers, and the character relies on his or her experience to bypass them.
+> 
+> **Thievery (DC 24, 1 success):** The character temporarily sabotages one or more parts of the elaborate trap system, allowing passage.
+> 
+> ### Secondary Skills
+> **Athletics (DC 21, no successes):** The character temporarily forces the machinery to a halt, facing an attack to give the others a greater chance of success. No success is gained, but all other characters gain a +2 bonus to any primary skill checks this round. This character is automatically hit by the traps this round.
+> 
+> **Perception (DC 21, no successes):** The character observes a pattern to the traps’ activation. No success is gained, but all characters gain a +2 bonus to AC against the traps’ attack this turn.
+> 
+> ### Success
+> Through a combination of teamwork, timing, and tenacity, the party escapes the trapped tunnel.
+> 
+> ### Failure 
+> The traps have introduced Slik’s custom poison into the adventurers’ blood. The group gains the **Marked by Slik** trait: Each of the adventurers takes a –2 penalty to all defenses against Slik’s attacks and has vulnerable 5 to Slik’s damage.
+
+# Encounter 3: Valley Sentries
+**Encounter Difficulty:**   
+- [ ] Moderate (85 XP) Level 11
+
+![[6A Valley Sentries.webp]]
+
+The two tunnels eventually converge, allowing the adventurers to reassemble near the exit (if they were split). Just outside, they hear occasional sounds of bickering in Undercommon. One more force waits to harass them as they emerge, in a further effort to weaken the party before the final confrontation. The sentries also give Kodan plenty of time to get ready for his crowning moment.
+
+The adventurers can take a short rest before proceeding out of the cave. If they are carrying Ardia, they have time to lay her down in a safe spot. The monsters ignore the elf; besides not being a threat, she’s not on the list.
+
+When the heroes advance to the outside, read:
+> [!note]+ Read Aloud
+> A chill air sweeps across you as you make your way out of the tunnel, high on the slope of a rocky outcropping somewhere inside the Chaos Scar. You have seen much of the Scar in your time here, but you’ve never had quite this view of it. From here, it looks almost serene.
+> 
+> You don’t have much time to admire the view, though, for a sizable group awaits your arrival with obvious hostility. An ogre brandishing a massive morningstar dominates the scene, supported by a number of duergar. Two of the dark dwarves are holding the reins to a snapping drake, which they release when you emerge. A single mud creature quivers in place.
+> 
+> The ogre grins and hefts its weapon: “The boss wants ’em softened up. I call the short one.”
+
+At the start of the encounter, place the following foes on the map: 
+ - 1: [[ogre-boss|Ogre Boss]] W
+ - 1: [[mudborn|Mudborn]] M
+ - 2: [[frost-drake|Frost Drake]] A
+ - 4: [[duergar-scout|Duergar Scout]] D
+
+```encounter
+name: EncounterName
+party: Chaos Scar
+creatures:
+- 1: [[Ogre Boss]] 
+- 1: [[Mudborn]]
+- 2: [[Frost Drake]]
+- 4: [[Duergar Scout]]
+```
+
+The combat takes place on a rocky outcropping 50 feet above the valley. The jutting stone partially blocks the view of what lies below.
+
+Anyone can peer over the edge and see that a small crowd of creatures of all sorts is gathering near the bottom of the cliff. The shape of the outcropping blocks the view of what they’re surrounding, which isn’t revealed until the adventurers descend farther. 
+
+An adventurer might be knocked over the edge during the combat. If he or she survives the fall, that character gets an early glimpse of the gathering below. Kodan does not immediately attack but barks, “Get back up there. We’re not ready for you yet.” If the adventurer chooses not to return to the outcropping, the Talons attack with overwhelming superiority of numbers.
+
+## Tactics
+On the first round, two duergar thugs descend about 10 feet on rope ladders to signal the crowd below that the party has arrived. On the next round, they climb back up and move to join the fight. 
+
+All of the sentries have been ordered not to kill any of the adventurers. With the exception of the frost drakes, the monsters do not attack anyone who appears to be unconscious. Once the adventurers outnumber the sentries, the survivors fight only until bloodied, then attempt to flee down the rope ladders. Those who get to the bottom join the crowd in the final encounter.
+
+The ogre boss targets whoever looks the toughest in the party, preferring to attack dwarves, bigger creatures and defenders in heavy armor.
+
+## Features of the Area
+**Light:** If the adventurers arrive during the day, the area is brightly lit. At night, torches from the valley below shed dim light over the area.
+
+**Rope Ladders:** These are secured by metal spikes to the cliff edge in four spots and extend to the valley floor. If a creature is pushed off the edge beside a ladder and fails the saving throw to avoid falling, it can attempt a DC 26 [[skills#Acrobatics|Acrobatics]] check to grab onto the ladder instead.  If the attempt fails creatures suffer `dice: 5d6` 5d6 falling damage. Creatures on the ladder gain partial cover from attackers on the cliff edge. If an adventurer descends more than 10 feet, he or she might be within range of some attacks from the monsters below—but they aren’t willing to start the fight until the party is on the ground.
+
+# Encounter 4: Rumble in the Valley
+**Encounter Difficulty:**   
+- [ ] severe (110 XP) Level 11
+
+![[6A Rumble in the Valley.webp]]
+
+The final battle for the Chaos Scar is here. Rope ladders lead to the valley, where representatives of the Chaos Scar’s inhabitants will witness the culmination of Kodan’s plan.
+
+The party can take another short rest before venturing down. During that time a chant starts, at first low and growing progressively louder. At first, the words are inaudible and in a variety of rumbling monstrous speech. Gradually, the chant falls into unison, repeating “Talons” in Common over and over until the adventurers descend to the battlefield.
+
+The only way to get down safely is on the ladders, each of which can hold the weight of two characters at a time. The adventurers will have to choose which ones to use, and in which order to descend, which dictates where they arrive in the valley. 
+
+As they begin to descend, the chanting stops. Kodan takes this opportunity to rile up the spectators before the final battle. Read:
+> [!note]+ Read Aloud
+> You make your way carefully down the rope ladders. After descending about 10 feet, you can more clearly see what’s waiting for you. A hobgoblin stands on a short cliff above the crowd of monsters and addresses you.
+> 
+> “The time of your oppression has come to an end. You have terrorized the denizens of the Chaos Scar long enough. We are the Talons, and we are here to see that justice is finally done.” 
+> 
+> There is a short cheer at the mention of the Talons, then the hobgoblin continues. “Each of us have been wronged. Whether you’ve killed our kind, our family, our livelihood, or even ourselves, the time has come for you to pay the price for your crimes against us.” He gestures to present a bullywug dressed in robes, a shapechanger whose visage flickers from the face of Ardia to that of each of you, a kobold tinkering with a metal device, and a duergar whose eyes flicker with infernal flames. 
+> 
+> “These representatives have come to witness your doom. Once you are defeated, I shall lead a united Chaos Scar against your precious keep.”
+> 
+> The first of you reaches the bottom of the ladder. The five Talons tense up. “Enough introductions. Now for the main event.”
+
+At the start of the encounter, place the following foes on the map: 
+ - 1: [[Kodan]] K
+ - 1: [[Barulg the Returned|Barulg]] B
+ - 1: [[Linn]] L
+ - 2: [[BadGuy2]] H
+
+```encounter
+name: Rumble in the Valley
+party: Chaos Scar
+creatures:
+- 1: [[Kodan]] 
+- 1: [[Barulg the Returned]]
+- 1: [[Linn]]
+- 2: [[Badguy2]]
+```
+
+Remaining creatures should be level 9.
+
+Monsters: Barulg, duergar/devil (B); Linn, doppelganger infiltra- tor (L); Primpel, bullywug priest of Elemental Evil (P); Slik, kobold trapsmith (S)
+
+The battle continues until only one group survives. Kodan has staked everything on this showdown, and the other Talons fight on no matter what. Showing weakness in the Chaos Scar is just as bad as losing.
+
+> [!infobox|ws-med]+
+> # Consequences of Failure
+> If a group failed one or more of the skill challenges presented in [[#Encounter 2 Tunnels of Terror]], its members are affected by a magical disadvantage that hinders their effectiveness during the final confrontation. These effects are summarized below.
+> 
+> Challenge | Disadvantage |
+> ---|---|
+> Primpel's Muddy Tomb | Marked by Primpel: Any character who scores a hit against Primpel is weakened until the end of his or her next turn. |
+> Linn's Paranoid Gauntlet | Marked by Linn: Any character who scores a hit against Linn cannot regain hit points until the end of his or her next turn. |
+> Barulg's Infernal Forge | Marked by Barulg: Any character who scores a hit against Barulg takes 5 fire damage. |
+> Slik's Mechanical Nightmare | Marked by Slik: Each character takes –2 penalty to all defenses against Slik’s attacks and has vul- nerable 5 to Slik’s damage.  |
+
+## Tactics
+Kodan directs the action, but he also wants to make sure he gets the credit for killing the adventurers. He focuses on bloodied enemies when possible. Linn is fanatically loyal to Kodan and does her best to protect him, seeking combat advantage whenever she can.
+
+Primpel is not afraid to get mixed up in the fight but tries to stay around the periphery and catch as many enemies as possible with his earth-sundering croak. If Kodan dies or is otherwise incapacitated, Primpel attempts to take command of the Talons.
+
+Barulg wants only to prove his power, and he fights to the death.
+
+Slik uses his traps to stay as far away as possible from combat. He uses trick shot and contraptions unleashed to move enemies into melee with the other Talons or into the crowd.
+
+## Features of the Area
+**Light:** If the adventurers arrive during the day, the area is brightly lit. At night, torches illuminate the scene with bright light.
+
+**Ledge:** Kodan and his cronies stand on this square chunk of stone, which rises to a height of about 10 feet at its westernmost edge.
+
+**Rope Ladders:** These are secured by metal spikes to the cliff edge in four spots and extend to the valley floor. A creature can attempt a DC 16 Athletics check to climb to a higher position. 
+
+**The Crowd:** This diverse group of Chaos Scar inhabitants can be represented by any monster tokens or miniatures at hand. The creatures are not there to fight but to observe, so they don’t join in the combat. However, any adventurer who gets to close to a crowd member draws a reflexive attack. 
+
+> [!danger]+ Trap
+> [[the-crowd-hb|The Crowd]]
+
+# Conclusion 
+Defeating all the Talons ends the threat of a unified Chaos Scar and enhances the adventurers’ reputation as heroes. When the last of the Talons is killed, the rest of the crowd quickly scatters to report to their groups that Kodan‘s plan failed. 
+
+If Kodan is killed and his body left unattended, some of the watching monsters spirit it away on the following round. Remove half the remaining creatures in the crowd, and if anyone asks, tell the party that there is no sign of the hobgoblin. (His absence is obvious at the end of the fight.) However, Kodan might return some day to exact revenge.
+
+The adventurers return to the keep, either with a living Ardia (who will eventually recover) or bringing word of hers fate. In either case, they receive a reward of 150 gp, but only returning Ardia alive satisfies the minor quest. If Kodan’s body wasn’t recovered, the adventurers might have to keep an eye out for another scheme from the hobgoblin or his followers.
