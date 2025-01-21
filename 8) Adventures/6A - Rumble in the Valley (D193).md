@@ -2,6 +2,8 @@
 title: Rumble in the Valley
 adventure_status: Not Started
 adventure_level: 11
+total_xp: 425
+completed_xp: 0
 ---
 ![[Rumble in the Valley.webp|right]]
 
@@ -54,7 +56,7 @@ If the adventurers take time to search more thoroughly, or decide to turn back, 
 
 ## Encounter 1: Between Rust and a Hard Place
 **Encounter Difficulty:** 
-- [x] Moderate (90 XP) Level 11
+- [ ] Moderate (90 XP) Level 11
 
 ![[6A - Rumble in the Valley (D193)-20240820111648698.webp]]
 
@@ -110,7 +112,7 @@ Returning Ardia to town alive earns the characters the quest reward.
 
 ## Encounter 2: Tunnels of Terror
 **Encounter Difficulty:** 
-- [x] Moderate (80 XP) Level 11
+- [ ] Moderate (80 XP) Level 11
 
 Kodan knows he can’t stand up to the adventurers at full strength. His goal is to weaken them as much as possible, perhaps eliminating one or two of them if he’s lucky. To that end, with the aid of Barulg’s construction and forging, and traps designed by Slik, he has laid out the tunnels to harry and weaken the party. Kodan still needs a few adventurers to escape, however, so he can finish them off in view of those he’s trying to impress.
 
@@ -322,7 +324,8 @@ At the start of the encounter, place the following foes on the map:
  - 1: [[Kodan]] K
  - 1: [[Barulg the Returned|Barulg]] B
  - 1: [[Linn]] L
- - 2: [[BadGuy2]] H
+ - 1: [[Primpel]] P
+ - 1: [[Slik|Slik]] S
 
 ```encounter
 name: Rumble in the Valley
@@ -331,7 +334,8 @@ creatures:
 - 1: [[Kodan]] 
 - 1: [[Barulg the Returned]]
 - 1: [[Linn]]
-- 2: [[Badguy2]]
+- 1: {{Primpel}}
+- 1: [[Slik]]
 ```
 
 Remaining creatures should be level 9.

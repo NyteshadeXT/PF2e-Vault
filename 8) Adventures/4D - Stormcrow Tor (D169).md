@@ -2,8 +2,8 @@
 title: Stormcrow Tor
 adventure_status: Not Started
 adventure_level: 10
-total_xp: 700
-completed_xp: 215
+total_xp: 690
+completed_xp: 305
 awarded_pp: 0
 awarded_gp: 11
 awarded_sp: 0
@@ -285,7 +285,7 @@ party: Chaos Scar
 creatures:
 - 4: [[Magma Scorpion]] 
 ```
-- [ ] Initial (80 XP)
+- [x] Initial (70 XP)
 
 ```encounter
 name: Summoned Scorpion
@@ -293,7 +293,7 @@ party: Chaos Scar
 creatures:
 - 1: [[Magma Scorpion]]
 ```
-- [ ] Summons (20 XP)
+- [x] Summons (20 XP)
 
 Agera of the Shadow Face’s paranoia led her to entrench herself behind a series of dangerous chambers. She perverted what had been Illugi Swordbreaker’s weapon practice chamber, which summoned worthy foes for Illugi to deal with, into a chamber that summons monsters, one after the next, until the enchantment is broken.
 

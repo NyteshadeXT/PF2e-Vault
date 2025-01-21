@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/6A - Rumble in the Valley (D193).md",
+                "file": "8) Adventures/7A - Scarred for Life (D192).md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "6A - Rumble in the Valley (D193)"
+              "title": "7A - Scarred for Life (D192)"
             }
           },
           {
@@ -62,23 +62,8 @@
               "icon": "lucide-file",
               "title": "rust-monster-enhanced"
             }
-          },
-          {
-            "id": "51870f42f6a2b577",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4) Bestiary/unique-creatures/Primpel.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Primpel"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -301,18 +286,60 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "51870f42f6a2b577",
+  "floating": {
+    "id": "df063f4de699df93",
+    "type": "floating",
+    "children": [
+      {
+        "id": "192653aad99a5907",
+        "type": "window",
+        "children": [
+          {
+            "id": "e0d049c5da5771c1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9e5cc16584c0cd0e",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {},
+                  "icon": "lucide-view",
+                  "title": "Player View"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -640,
+        "y": 144,
+        "width": 640,
+        "height": 672,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "fa6f9d86396034ef",
   "lastOpenFiles": [
-    "4) Bestiary/unique-creatures/Primpel.md",
-    "8) Adventures/6A - Rumble in the Valley (D193).md",
+    "7) Players/Ediza.md",
+    "7) Players/Mordak.md",
+    "7) Players/Varas.md",
+    "7) Players/Winter.md",
+    "8) Adventures/4D - Stormcrow Tor (D169).md",
     "4) Bestiary/homebrew/rust-monster-enhanced.md",
+    "4) Bestiary/unique-creatures/Primpel.md",
+    "8) Adventures/7A - Scarred for Life (D192).md",
+    "8) Adventures/5A - The Slaver's Stone (D181).md",
+    "8) Adventures/6A - Rumble in the Valley (D193).md",
+    "4) Bestiary/unique-creatures/Slik.md",
     "4) Bestiary/unique-creatures/Linn.md",
     "4) Bestiary/unique-creatures/Kodan.md",
     "4) Bestiary/unique-creatures/Barulg the Returned.md",
     "4) Bestiary/unique-creatures/Dreadmarrow.md",
     "4) Bestiary/unique-creatures/Pramlan.md",
     "4) Bestiary/unique-creatures/Agera of the Shadow Face.md",
-    "8) Adventures/4D - Stormcrow Tor (D169).md",
     "1) GM Screen/rules-reference.md",
     "2) Compendium/gm/hazards/hazards.md",
     "4) Bestiary/unique-creatures/magrak-ironjaw.md",
@@ -322,13 +349,6 @@
     "4) Bestiary/unique-creatures/Dronvi Thald.md",
     "2) Compendium/gm/hazards/Homebrew/the-crowd-hb.md",
     "2) Compendium/gm/hazards/abyss-warped-trees-qff2.md",
-    "3) Rules/actions/drop-prone.md",
-    "zz-Templates/Action Icons.md",
-    "8) Adventures/Completed/4B - The Pillar of Eyes (D180).md",
-    "8) Adventures/Completed/4C - Vanguard Tower (D182).md",
-    "8) Adventures/Completed/6B - The Radiant Morn (D183).md",
-    "8) Adventures/7A - Scarred for Life (D192).md",
-    "8) Adventures/5A - The Slaver's Stone (D181).md",
     "zz-Attachments/6A Rumble in the Valley.webp",
     "zz-Attachments/6A Valley Sentries.webp",
     "zz-Attachments/The Slavers Stone.webp",

@@ -26,7 +26,7 @@ trait_06: "Bullywug"
 modifier: 23
 perception:
   - name: "Perception"
-    desc: "+17; __darkvision__, __swamp walk__;"
+    desc: "+17; __darkvision__, __swamp walk_;"
 languages: "Aquan, Common, Primordial"
 skills:
   - name: "Skills"
@@ -37,21 +37,19 @@ abilities_top:
   - name: "Swamp Walk"
     desc: "Primpel ignores difficult terrain caused by swamps or wetlands."
   - name: "Rancid Air"
-    desc: "([[aura]], [[poison]]); __2 aura__. Any enemy that spends Hit Points or healing resources (e.g., through spells or potions) while in the aura becomes [[Weakened]] until the end of its next turn."
+    desc: "([[aura]], [[poison]]); __2 aura__. Any enemy that uses a healing effect (such as Regeneration, healing potions, or spells like Heal) within the aura becomes [[enfeebled|enfeebled 1]] until the end of its next turn."
   - name: "Aquatic Adaptation"
     desc: "Primpel can breathe underwater and gains a +2 circumstance bonus to attack rolls against non-aquatic creatures while in water."
   - name: "Nature's Release"
     desc: "Whenever Primpel is critically hit, the attacker regains 5 Hit Points."
-
-abilities_mid:
-  - name: "Earth-Sundering Croak"
-    desc: "⬺ ([[poison]], [[sonic]]); __DC 27 Fortitude__—Close blast 15 feet. All creatures in the area take 3d6 poison damage and 3d6 sonic damage and must succeed at a Fortitude save or become [[Sickened 1]]. On a critical failure, creatures are also [[Deafened]] for 1 minute."
-  - name: "Bolt of Caustic Mud"
-    desc: "⬻ ([[acid]], [[magical]]); Ranged 30 feet. +19 to hit. __Damage__: 4d6 acid damage, and the target is [[Immobilized]] until the end of Primpel's next turn. If the target is already [[Immobilized]], it takes 1d8 persistent acid damage."
-  - name: "Quarterstaff"
-    desc: "⬻ ([[weapon]], [[magical]]); Melee Strike +17 to hit. __Damage__: 2d8+6 bludgeoning damage plus 1d6 acid damage."
+  - name: "Equipment"
+    desc: "A +1 striking quarterstaff, Robes adorned with swamp-like motifs."
 
 abilities_bot:
+  - name: "Bolt of Caustic Mud"
+    desc: "⬻ ([[acid]], [[magical]]); Ranged 30 feet. +19 `dice: 1d20+19` to hit. __Damage__: `dice: 4d6` acid damage, and the target is [[Immobilized]] until the end of Primpel's next turn. If the target is already [[Immobilized]], it takes `dice: 1d8` persistent acid damage."
+  - name: "Earth-Sundering Croak"
+    desc: "⬺ ([[poison]], [[sonic]]); __DC 27 Fortitude__ **Area** 15-foot cone; All creatures in the area take `dice: 3d6` poison damage and `dice: 3d6` sonic damage and must succeed at a Fortitude save or become [[Sickened|Sickened 1]]. On a critical failure, creatures are also [[Deafened]] for 1 minute."
   - name: "Caustic Mastery"
     desc: "Creatures affected by Primpel’s acid attacks take a –1 circumstance penalty to saves against effects with the [[Acid]] trait."
 
@@ -64,19 +62,14 @@ armorclass:
 hp: 140
 health:
   - name: HP
-    desc: "140; __Immunities__: none; __Resistances__: Acid 10, Poison 5."
+    desc: "140; __Resistances__: Acid 10, Poison 5."
 
 attacks:
   - name: Melee
-    desc: "⬻ quarterstaff +17 ([[magical]]); __Damage__: 2d8+6 bludgeoning plus 1d6 acid damage."
+    desc: "⬻ quarterstaff +17 ([[magical]]); __Damage__: `dice: 2d8+6` bludgeoning damage plus `dice: 1d6` acid damage."
   - name: Ranged
     desc: "⬻ bolt of caustic mud +19 ([[acid]], [[magical]]); __Damage__: 4d6 acid damage and immobilization."
-  - name: Special
-    desc: "⬺ Earth-Sundering Croak; see Abilities."
 
-equipment:
-  - name: "Equipment"
-    desc: "A +1 striking quarterstaff and robes adorned with swamp-like motifs."
 ```
 
 ```
