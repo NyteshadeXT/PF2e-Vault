@@ -2,17 +2,35 @@
 title: Stormcrow Tor
 adventure_status: Not Started
 adventure_level: 10
-total_xp: 690
-completed_xp: 305
+total_xp: 610
+completed_xp: 455
 awarded_pp: 0
-awarded_gp: 11
-awarded_sp: 0
+awarded_gp: 265
+awarded_sp: 8
 awarded_cp: 0
-awarded_permanent_items: []
+awarded_permanent_items:
+  - name: +1 Armor Potency Chain Shirt
+    ilvl: 5
+    gp: 160
+  - name: +2 Weapon Potency War Razor
+    ilvl: 10
+    gp: 935
+  - name: Wovenwood Shield (Moderate)
+    ilvl: 10
+    gp: 850
 awarded_consumable_items:
   - name: Poison Fizz (Lesser)
     ilvl: 8
     gp: 80
+  - name: Spell scroll (4th level) (Aromatic Lure)
+    ilvl: 7
+    gp: 70
+  - name: Spell Scroll (4th level) (Draw The Lightning)
+    ilvl: 7
+    gp: 70
+  - name: Spell scroll (5th level) (Lashuntas Life Bubble)
+    ilvl: 9
+    gp: 150
 ---
 
 ![[SCT.webp|right|550]]
@@ -272,8 +290,6 @@ Deeper access is sealed behind a magical wall of force and a flaring expanse of 
 
 # Encounter T5: Hall of Summoning
 **Encounter Difficulty:** 
-- [ ] Varies (20 XP) per magma scorpion Level 10
-
 ![[SCT E5 Map.webp]]
 
 At the start of the encounter, place the following foes on the map: 
@@ -320,7 +336,7 @@ The brazier continues summoning additional magma scorpions until it is disabled 
 
 # Encounter T6: What's My Name
 **Encounter Difficulty:** 
-- [ ] Moderate (80 XP) Level 10
+- [x] Low (60 XP) Level 10
 
 ![[SCT E6 Map.webp]]
 
@@ -368,7 +384,7 @@ When PCs see the chamber, read:
 
 # Encounter T7: Stormcrow Vault Room
 **Encounter Difficulty:** 
-- [ ] Severe (130 XP) Level 10
+- [x] Moderate (90 XP) Level 10
 
 ![[SCT E7 Map.webp]]
 
@@ -421,15 +437,15 @@ If it becomes clear that the heroes will likely win the fight, Agera calls on Ka
 > [!tip]+ Treasure
 > In the treasure vault the players find 254 gp, 8 sp, [[armor-potency|+1 Armor Potency Chain Shirt]], [[Wraithweave Patch (Type I)]], [[war-razor-tv|+2 Weapon Potency War Razor]], [[wovenwood-shield-lotgb|Wovenwood Shield (Moderate)]], [[flame-barrier|Spell scroll (4th level) (Flame Barrier)]], [[draw-the-lightning-som|Spell scroll (4th level) (Draw The Lightning)]] and [[lashuntas-life-bubble-gw1|Spell scroll (5th level) (Lashunta's Life Bubble)]]
 > 
-> - [ ] gp::254
-> - [ ] sp::8
-> - [ ] permanent::[[armor-potency|+1 Armor Potency]] [ilvl::5] [gp::160]
-> - [ ] permanent::[[Wraithweave Patch (Type I)]] [ilvl::9] [gp::600]
-> - [ ] permanent::[[weapon-potency|+2 Weapon Potency]] [ilvl::10 [gp::935]
-> - [ ] permanent::[[wovenwood-shield-lotgb|Wovenwood Shield (Moderate)]] [ilvl::10] [gp::850]
-> - [ ] consumable::[[flame-barrier|Spell scroll (4th level) (Flame Barrier)]] [ilvl::7] [gp::70]
-> - [ ] consumable::[[draw-the-lightning-som|Spell Scroll (4th level) (Draw The Lightning)]] [ilvl::7] [gp::70]
-> - [ ] consumable::[[lashuntas-life-bubble-gw1|Spell scroll (5th level) (Lashuntas Life Bubble)]] [ilvl::9] [gp::150]
+> - [x] gp::254
+> - [x] sp::8
+> - [x] permanent::[[armor-potency|+1 Armor Potency Chain Shirt]] [ilvl::5] [gp::160]
+> - [x] permanent::[[Wraithweave Patch (Type I)]] [ilvl::9] [gp::600]
+> - [x] permanent::[[weapon-potency|+2 Weapon Potency War Razor]] [ilvl::10] [gp::935]
+> - [x] permanent::[[wovenwood-shield-lotgb|Wovenwood Shield (Moderate)]] [ilvl::10] [gp::850]
+> - [x] consumable::[[aromatic-lure-lol|Spell scroll (4th level) (Aromatic Lure)]] [ilvl::7] [gp::70]
+> - [x] consumable::[[draw-the-lightning-som|Spell Scroll (4th level) (Draw The Lightning)]] [ilvl::7] [gp::70]
+> - [x] consumable::[[lashuntas-life-bubble-gw1|Spell scroll (5th level) (Lashuntas Life Bubble)]] [ilvl::9] [gp::150]
 
 > [!warning]
 > Chaosheart: Depending on the players actions here this item may need further development.  Kind of go with the flow on what the think it is and what they want to do about it.  

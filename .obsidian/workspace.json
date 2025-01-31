@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4) Bestiary/homebrew/rust-monster-enhanced.md",
+                "file": "1) GM Screen/Adventure Loot.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "rust-monster-enhanced"
+              "title": "Adventure Loot"
             }
           }
         ]
@@ -264,7 +264,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.5
+    "width": 427.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,49 +286,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "df063f4de699df93",
-    "type": "floating",
-    "children": [
-      {
-        "id": "192653aad99a5907",
-        "type": "window",
-        "children": [
-          {
-            "id": "e0d049c5da5771c1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9e5cc16584c0cd0e",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-player-view",
-                  "state": {},
-                  "icon": "lucide-view",
-                  "title": "Player View"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -640,
-        "y": 144,
-        "width": 640,
-        "height": 672,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "fa6f9d86396034ef",
   "lastOpenFiles": [
+    "2) compendium/equipment/items/wovenwood-shield-lotgb.md",
+    "8) Adventures/4D - Stormcrow Tor (D169).md",
+    "1) GM Screen/Adventure Loot.md",
+    "4) Bestiary/homebrew/rust-monster-enhanced.md",
+    "2) compendium/equipment/items/Wraithweave Patch (Type I).md",
+    "zz-Attachments/Kataklysmos-Symbol.webp",
+    "zz-Attachments/4D - Stormcrow Tor (D169)-20240502100540234.webp",
     "7) Players/Ediza.md",
     "7) Players/Mordak.md",
     "7) Players/Varas.md",
     "7) Players/Winter.md",
-    "8) Adventures/4D - Stormcrow Tor (D169).md",
-    "4) Bestiary/homebrew/rust-monster-enhanced.md",
     "4) Bestiary/unique-creatures/Primpel.md",
     "8) Adventures/7A - Scarred for Life (D192).md",
     "8) Adventures/5A - The Slaver's Stone (D181).md",
@@ -346,9 +316,6 @@
     "4) Bestiary/unique-creatures/Kobold Boss - Zolgran.md",
     "4) Bestiary/unique-creatures/Kan Sken.md",
     "4) Bestiary/unique-creatures/Foosteth.md",
-    "4) Bestiary/unique-creatures/Dronvi Thald.md",
-    "2) Compendium/gm/hazards/Homebrew/the-crowd-hb.md",
-    "2) Compendium/gm/hazards/abyss-warped-trees-qff2.md",
     "zz-Attachments/6A Rumble in the Valley.webp",
     "zz-Attachments/6A Valley Sentries.webp",
     "zz-Attachments/The Slavers Stone.webp",
@@ -358,8 +325,6 @@
     "zz-Attachments/Grace-20231217173120982.webp",
     "zz-Attachments/Balewin.webp",
     "zz-Attachments/Jarek.png",
-    "zz-Attachments/4B - The Pillar of Eyes (D180)-20240103152653073.webp",
-    "zz-Attachments/Garn Goldhammer-20240523092051276.webp",
     "4) Bestiary/party-npc",
     "Creature Family Ability Glossary"
   ]
