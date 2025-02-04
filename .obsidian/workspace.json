@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/4D - Stormcrow Tor (D169).md",
+                "file": "5) World/The Chaos Scar/Chaos Scar - GM View.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "4D - Stormcrow Tor (D169)"
+              "title": "Chaos Scar - GM View"
             }
           },
           {
@@ -82,7 +82,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -243,7 +244,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       },
       {
         "id": "d295670d03f2b3c8",
@@ -264,7 +265,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5
+    "width": 472.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,11 +287,87 @@
       "calendarium:Open Calendarium": false
     }
   },
+  "floating": {
+    "id": "7d4baf1956c4df63",
+    "type": "floating",
+    "children": [
+      {
+        "id": "1dcf1924c90eabfa",
+        "type": "window",
+        "children": [
+          {
+            "id": "a4aed358446711ee",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ef52aa2ebb3b01e9",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {},
+                  "icon": "lucide-view",
+                  "title": "Player View"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2602,
+        "y": 11,
+        "width": 513,
+        "height": 539,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "3ff3b5b72328340c",
+        "type": "window",
+        "children": [
+          {
+            "id": "36274a908a046088",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "45a8a87306b52633",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2) compendium/equipment/items/potion-patch-tv.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "potion-patch-tv"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1212,
+        "y": -4,
+        "width": 1524,
+        "height": 1614,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "fa6f9d86396034ef",
   "lastOpenFiles": [
-    "2) compendium/equipment/items/wovenwood-shield-lotgb.md",
-    "8) Adventures/4D - Stormcrow Tor (D169).md",
+    "8) Adventures/5A - The Slaver's Stone (D181).md",
+    "2) compendium/equipment/items/potion-patch-tv.md",
+    "8) Adventures/2G - The Crossroads (D176).md",
     "1) GM Screen/Adventure Loot.md",
+    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+    "8) Adventures/7A - Scarred for Life (D192).md",
+    "8) Adventures/Completed/4D - Stormcrow Tor (D169).md",
+    "8) Adventures/6A - Rumble in the Valley (D193).md",
+    "2) compendium/gm/hazards/Homebrew/force-burst-wall-hb.md",
+    "2) compendium/gm/hazards/Homebrew/lightning-hallway-hb.md",
+    "2) compendium/equipment/items/wovenwood-shield-lotgb.md",
     "4) Bestiary/homebrew/rust-monster-enhanced.md",
     "2) compendium/equipment/items/Wraithweave Patch (Type I).md",
     "zz-Attachments/Kataklysmos-Symbol.webp",
@@ -300,9 +377,6 @@
     "7) Players/Varas.md",
     "7) Players/Winter.md",
     "4) Bestiary/unique-creatures/Primpel.md",
-    "8) Adventures/7A - Scarred for Life (D192).md",
-    "8) Adventures/5A - The Slaver's Stone (D181).md",
-    "8) Adventures/6A - Rumble in the Valley (D193).md",
     "4) Bestiary/unique-creatures/Slik.md",
     "4) Bestiary/unique-creatures/Linn.md",
     "4) Bestiary/unique-creatures/Kodan.md",
@@ -311,11 +385,6 @@
     "4) Bestiary/unique-creatures/Pramlan.md",
     "4) Bestiary/unique-creatures/Agera of the Shadow Face.md",
     "1) GM Screen/rules-reference.md",
-    "2) Compendium/gm/hazards/hazards.md",
-    "4) Bestiary/unique-creatures/magrak-ironjaw.md",
-    "4) Bestiary/unique-creatures/Kobold Boss - Zolgran.md",
-    "4) Bestiary/unique-creatures/Kan Sken.md",
-    "4) Bestiary/unique-creatures/Foosteth.md",
     "zz-Attachments/6A Rumble in the Valley.webp",
     "zz-Attachments/6A Valley Sentries.webp",
     "zz-Attachments/The Slavers Stone.webp",

@@ -377,6 +377,13 @@
       "resultText": "[3, 6]",
       "timestamp": 1730599364205,
       "id": "sKrsbGJ676rH"
+    },
+    {
+      "result": "9",
+      "original": "1d20",
+      "resultText": "1d20\n[9]",
+      "timestamp": 1738541470796,
+      "id": "8UKYTJht90Zi"
     }
   ],
   "showDice": true,

@@ -1,9 +1,9 @@
 ---
 title: Stormcrow Tor
-adventure_status: Not Started
+adventure_status: Complete
 adventure_level: 10
-total_xp: 610
-completed_xp: 455
+total_xp: 580
+completed_xp: 510
 awarded_pp: 0
 awarded_gp: 265
 awarded_sp: 8
@@ -19,6 +19,12 @@ awarded_permanent_items:
     ilvl: 10
     gp: 850
 awarded_consumable_items:
+  - name: Potion Patch (Moderate)
+    ilvl: 8
+    gp: 100
+  - name: Spell scroll (2nd level) (Benefiting Attire)
+    ilvl: 3
+    gp: 12
   - name: Poison Fizz (Lesser)
     ilvl: 8
     gp: 80
@@ -129,7 +135,7 @@ The mobile gelatinous cube doesn’t enter combat until a hero is within 3 squar
 
 # Encounter  T2: Fungal Cellar
 **Encounter Difficulty:** 
-- [ ] Moderate (85 XP) Level 10
+- [x] Moderate (55 XP) Level 10
 
 ![[SCT E2 Map.webp]]
 
@@ -137,7 +143,7 @@ At the start of the encounter, place the following foes on the map:
  - 2: [[myconid-guard|Myconid Guard]] G
  - 1: [[myconid-rotpriest|Myconid Rotpriest]] R
  - 1: [[myconid-sovereign|Myconid Sovereign]] S
- - 1: [[tendriculos|Tendriculos]] B
+ - 1: [[tendriculos]] B
 
 ```encounter
 name: Fungal Cellar
@@ -188,8 +194,8 @@ The myconid sovereign remains behind its allies, relying on them for protection.
 > [!tip]+ Treasure
 > Treasure: A small, rusted iron chest is lodged in the wall of the western cave. The chest is locked (DC 18 Thievery check to open). The well-padded interior holds a [[potion-patch-tv|Potion Patch (Moderate)]] and a [[lifelink-surge-som|Spell scroll (2nd level) (Lifelink Surge)]].
 > 
-> - [ ] consumable::[[potion-patch-tv|Potion Patch (Moderate)]] [ilvl::8] [gp::100]
-> - [ ] consumable::[[lifelink-surge-som|Spell scroll (2nd level) (Lifelink Surge)]] [ilvl::3] [gp::12]
+> - [x] consumable::[[potion-patch-tv|Potion Patch (Moderate)]] [ilvl::8] [gp::100]
+> - [x] consumable::[[benefiting attire|Spell scroll (2nd level) (Benefiting Attire)]] [ilvl::3] [gp::12]
 
 # Encounter T3: Mausoleum
 **Encounter Difficulty:** 
@@ -199,8 +205,8 @@ The myconid sovereign remains behind its allies, relying on them for protection.
 
 At the start of the encounter, place the following foes on the map: 
  - 10: [[tengu-tribal|Tengu Tribal]] T
- - 2: [[specter|Specter]] S
- - 1: [[wraith|Wraith]] W
+ - 2: [[specter]] S
+ - 1: [[wraith]] W
 
 ```encounter
 name: Mausoleum
@@ -248,12 +254,12 @@ When the skeleton is touched or disturbed, such as by being attacked or in the a
 ###### `dice: 1d6` Ability
 | Die Roll | Effect                                       |
 | -------- | -------------------------------------------- |
-| 1        | [[nightmare-fever\|Nightmare Fever]]         |
-| 2        | [[comprehend-language\|Comprehend Language]] |
-| 3        | [[endure-elements\|Endure Elements]]         |
-| 4        | [[discern-lies\|Discern Lies]]               |
-| 5        | [[talking-corpse\|Talking Corpse]]           |
-| 6        | [[create-undead\|Create Undead]]             |
+| 1        | [[nightmare-fever|Nightmare Fever]]         |
+| 2        | [[comprehend-language|Comprehend Language]] |
+| 3        | [[endure-elements|Endure Elements]]         |
+| 4        | [[discern-lies|Discern Lies]]               |
+| 5        | [[talking-corpse|Talking Corpse]]           |
+| 6        | [[create-undead|Create Undead]]             |
 
 **Drain:** The drain was used by the Emerald Warlock to catch excess blood from victims of his experiments. Now it is a grating for campfires.
 
@@ -271,9 +277,9 @@ A platinum key is hidden amid the dust in one of the coffins ([[skills#Perceptio
 
 # Encounter T4: Lightning Hall
 **Encounter Difficulty:** Varies based on Traps overcome (Level 8 Hazards 20 xp each; Level 9 Hazard 30 xp)
-- [ ] 9th (30 XP) Level 10
-- [ ] 8th (20 XP) Level 10
-- [ ] 8th (20 XP) Level 10
+- [x] 9th (30 XP) Level 10
+- [x] 8th (20 XP) Level 10
+- [x] 8th (20 XP) Level 10
 
 ![[SCT E4 Map.webp]]
 
