@@ -384,6 +384,20 @@
       "resultText": "1d20\n[9]",
       "timestamp": 1738541470796,
       "id": "8UKYTJht90Zi"
+    },
+    {
+      "result": "12",
+      "original": "1d20",
+      "resultText": "1d20\n[12]",
+      "timestamp": 1739751681279,
+      "id": "a7x49FSCEu5h"
+    },
+    {
+      "result": "19",
+      "original": "1d20",
+      "resultText": "1d20\n[19]",
+      "timestamp": 1739753477073,
+      "id": "JjFmomP8ajlb"
     }
   ],
   "showDice": true,
