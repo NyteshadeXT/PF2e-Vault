@@ -112,7 +112,7 @@ Magrak Ironjaw is a warrior, slaver, and bandit. Because of his depredations, Lo
 Reaching the Crossroads involves following the old trail toward the Chaos Scar. The characters might encounter a few locals along the way. Consider injecting one or two of the following encounters during the trek to the Crossroads.
 
 ### Escaped Prisoner
-- [ ] Trivial (60 XP)
+- [x] Trivial (60 XP)
 
 One of Magrak’s prisoners, a handsome young woman from Cled, escaped the wereboar. Unfortunately, Magrak dispatched his warriors to chase her down. Once the characters defeat the pursuers, then find the woman, Allysen can tell the adventurers that Magrak is headed for some place called the Slaver’s Stone, though she doesn’t know where that is. Cluff, if with the party, sends two warriors to escort her back to their lands.
 
@@ -128,7 +128,7 @@ creatures:
 The party encounters two bands of of warriors searching for Cled.  While the party handles one of them Cluff's mercenaries will handle the other.  They will win this combat with only minor injuries to show for it.
 
 ### Howling Pack
-- [ ] Trivial (60 XP)
+- [x] Trivial (60 XP)
 A gnoll band spills across the countryside to attack the adventurers. They are undeterred by the characters’ greater numbers. The gnolls’ erratic behavior comes from the meal they made on strange mushrooms found in a nearby glade.
 
 - 4 [[gnoll-warfang|Gnoll Warfang]]

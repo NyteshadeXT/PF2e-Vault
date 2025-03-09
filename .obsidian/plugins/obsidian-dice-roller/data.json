@@ -398,6 +398,41 @@
       "resultText": "1d20\n[19]",
       "timestamp": 1739753477073,
       "id": "JjFmomP8ajlb"
+    },
+    {
+      "result": "1",
+      "original": "1d20",
+      "resultText": "1d20\n[1]",
+      "timestamp": 1740962898630,
+      "id": "t8W2jFEOlybL"
+    },
+    {
+      "result": "10",
+      "original": "1d20",
+      "resultText": "1d20\n[10]",
+      "timestamp": 1740962905049,
+      "id": "wESq81CBQgks"
+    },
+    {
+      "result": "9",
+      "original": "1d20",
+      "resultText": "1d20\n[9]",
+      "timestamp": 1740962910799,
+      "id": "CPSt8siJoGeQ"
+    },
+    {
+      "result": "18",
+      "original": "1d20",
+      "resultText": "1d20\n[18]",
+      "timestamp": 1740962922357,
+      "id": "gWlEhwS1_0zw"
+    },
+    {
+      "result": "11",
+      "original": "1d20",
+      "resultText": "1d20\n[11]",
+      "timestamp": 1740964505313,
+      "id": "9YsQc2C9xfxi"
     }
   ],
   "showDice": true,

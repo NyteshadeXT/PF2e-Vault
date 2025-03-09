@@ -78,17 +78,20 @@
             }
           },
           {
-            "id": "c1afff2423b00bc0",
+            "id": "585b3f9ca7ee38b7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "4) Bestiary/party-npc/Cluff Maclire.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Cluff Maclire"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,16 +252,6 @@
             }
           },
           {
-            "id": "285ddcc40b7a156a",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
             "id": "c82596998b56b355",
             "type": "leaf",
             "state": {
@@ -308,24 +301,102 @@
       "obsidian-import-json:JSON/CSV Importer": false,
       "dbfolder:Create a new database table": false,
       "templater-obsidian:Templater": false,
-      "obsidian42-brat:BRAT": false,
-      "calendarium:Open Calendarium": false
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "6247675b3331503d",
+  "floating": {
+    "id": "9edf19ec08c1c736",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3d066ae783cde54a",
+        "type": "window",
+        "children": [
+          {
+            "id": "2618e376c4983252",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3dbefe935de9734d",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {},
+                  "icon": "lucide-view",
+                  "title": "Player View"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2176,
+        "y": 0,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "61abc49f6e32be0d",
+        "type": "window",
+        "children": [
+          {
+            "id": "f8b6582aa5450667",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7654172862f738de",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "zz-Attachments/Cluff Maclire.webp"
+                  },
+                  "icon": "lucide-image",
+                  "title": "Cluff Maclire"
+                }
+              },
+              {
+                "id": "cf6a935fe9b7315f",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.8.9"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.8.9"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 1536,
+        "y": 0,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "cf6a935fe9b7315f",
   "lastOpenFiles": [
-    "2) compendium/equipment/items/potion-patch-tv.md",
-    "4) Bestiary/party-npc/Zestren.md",
+    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
     "zz-Attachments/Cluff Maclire.webp",
-    "4) Bestiary/party-npc/Cluff Maclire.md",
     "8) Adventures/5A - The Slaver's Stone (D181).md",
+    "4) Bestiary/party-npc/Zestren.md",
+    "4) Bestiary/party-npc/Cluff Maclire.md",
+    "1) GM Screen/DC Calculators.md",
+    "1) GM Screen/Adventure Loot.md",
+    "2) compendium/equipment/items/potion-patch-tv.md",
     "6) NPCs/Restwell Keep/Zeta Windsnap.md",
     "6) NPCs/Restwell Keep/Kendon Longstrider.md",
     "zz-Attachments/Kendon Longstrider.png",
     "zz-Attachments/Balewin.webp",
-    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
-    "1) GM Screen/DC Calculators.md",
-    "1) GM Screen/Adventure Loot.md",
     "1) GM Screen/DunGen (Random Dungeon Generator).md",
     "1) GM Screen/GM-Screen.md",
     "1) GM Screen/rules-reference.md",
