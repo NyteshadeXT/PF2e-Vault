@@ -313,7 +313,7 @@ The adventure ends when the characters rescue the prisoners from Magrak or, if t
 You also have the matter of the orc chieftain. Po is angry about not getting his slaves and a little snooping around should garner him the names of the characters. He might seek revenge by attacking the adventurers later or mount an attack on Restwell Keep. If, though, the adventurers failed to rescue the prisoners, they might try to locate them and wrest them from the orc. What did he want the slaves for? Where are they? Do they still live?
 
 ## Encounter 1: Local Color
-- [ ] Moderate (110 XP) Level 10
+- [x] Low (65 XP) Level 10
 
 ![[5A - The Slaver's Stone (D181)-20240809215828479.webp]]
 
@@ -361,11 +361,11 @@ If the characters wipe out the bandits and learn nothing from them, all is not l
 > [!tip]+ Treasure
 > In addition to the gear carried by the captain, hunter and mage, the bandits have 2 [[healing-potion|Healing Potion (Moderate)]] and a sack of 80 gp (payment from Magrak).
 > 
-> - [ ] gp::80
-> - [ ] consumable::[[healing-potion|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
+> - [x] gp::80
+> - [x] consumable::[[healing-potion|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
 
 ## Encounter 2: Dung and Feathers
-- [ ] Severe (120 XP) Level 10
+- [x] Low (60 XP) Level 10
 
 ![[5A - The Slaver's Stone (D181)-20240816223027483.webp]]
 
@@ -460,19 +460,19 @@ The mercenaries charge the archers recognizing them to be a big threat.  None of
 > - [ ] cp::24
 
 ## Encounter 4: Guardians of the Skull
-- [ ] Trivial (30 XP) Level 10
+- [ ] Trivial (95 XP) Level 10
 
 ![[5A - The Slaver's Stone (D181)-20240817000107777.webp]]
 
 At the start of the encounter, place the following foes on the map: 
- - 3: [[leng-ghoul|Leng Ghoul]] G
+ - 4: [[leng-ghoul|Leng Ghoul]] G
  - 1: [[titan-centipede|Titan Centipede]] S
 
 ```encounter
 name: EncounterName
 party: Chaos Scar
 creatures:
-- 3: [[Leng Ghoul]] 
+- 4: [[Leng Ghoul]] 
 - 1: [[Titan Centipede], hidden]
 - 2: [[Blade Mercenary, Mercernary C, Ally], 13]
 - 2: [[Blade Mercenary, Mercernary D, Ally], 13]
@@ -505,7 +505,7 @@ The mercenaries all join the players in this combat.  Adjust group C to have hal
 > - [ ] consumable::[[scour-gmg|Scour]] [ilvl::8] [gp::80]
 
 ## Encounter 5: Eyes in the Dark
-- [ ] Moderate (220 XP) Level 10
+- [ ] Moderate (140 XP) Level 10
 
 ![[Pasted image 20240817120426.png]]
 

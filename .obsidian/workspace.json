@@ -50,34 +50,6 @@
             }
           },
           {
-            "id": "25bb10c46e88d8c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1) GM Screen/Adventure Loot.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Adventure Loot"
-            }
-          },
-          {
-            "id": "6247675b3331503d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4) Bestiary/party-npc/Zestren.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Zestren"
-            }
-          },
-          {
             "id": "585b3f9ca7ee38b7",
             "type": "leaf",
             "state": {
@@ -90,8 +62,23 @@
               "icon": "lucide-file",
               "title": "Cluff Maclire"
             }
+          },
+          {
+            "id": "9bb0281404ca7b7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8) Adventures/7A - Scarred for Life (D192).md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "7A - Scarred for Life (D192)"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -199,7 +186,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -283,7 +272,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 472.5
+    "width": 529.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -301,126 +291,49 @@
       "obsidian-import-json:JSON/CSV Importer": false,
       "dbfolder:Create a new database table": false,
       "templater-obsidian:Templater": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "9edf19ec08c1c736",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3d066ae783cde54a",
-        "type": "window",
-        "children": [
-          {
-            "id": "2618e376c4983252",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3dbefe935de9734d",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-player-view",
-                  "state": {},
-                  "icon": "lucide-view",
-                  "title": "Player View"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2176,
-        "y": 0,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "61abc49f6e32be0d",
-        "type": "window",
-        "children": [
-          {
-            "id": "f8b6582aa5450667",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7654172862f738de",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "zz-Attachments/Cluff Maclire.webp"
-                  },
-                  "icon": "lucide-image",
-                  "title": "Cluff Maclire"
-                }
-              },
-              {
-                "id": "cf6a935fe9b7315f",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.8.9"
-                  },
-                  "icon": "lucide-book-up",
-                  "title": "Release Notes 1.8.9"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 1536,
-        "y": 0,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "cf6a935fe9b7315f",
+  "active": "9bb0281404ca7b7e",
   "lastOpenFiles": [
-    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
-    "zz-Attachments/Cluff Maclire.webp",
-    "8) Adventures/5A - The Slaver's Stone (D181).md",
-    "4) Bestiary/party-npc/Zestren.md",
     "4) Bestiary/party-npc/Cluff Maclire.md",
+    "8) Adventures/5A - The Slaver's Stone (D181).md",
+    "4) Bestiary/unique-creatures/Fool.md",
+    "4) Bestiary/unique-creatures/Keljack.md",
+    "4) Bestiary/unique-creatures/Slik.md",
+    "4) Bestiary/unique-creatures/Pramlan.md",
+    "8) Adventures/7A - Scarred for Life (D192).md",
+    "4) Bestiary/4) Bestiary.md",
+    "4) Bestiary/bestiary-1/bestiary-1.md",
+    "4) Bestiary/unique-creatures/magrak-ironjaw.md",
+    "4) Bestiary/unique-creatures/Kobold Boss - Zolgran.md",
+    "4) Bestiary/unique-creatures/Kodan.md",
+    "8) Adventures/6A - Rumble in the Valley (D193).md",
     "1) GM Screen/DC Calculators.md",
+    "4) Bestiary/homebrew/chaos-spwaned-merloc.md",
+    "2) Compendium/gm/hazards/Homebrew/the-crowd-hb.md",
+    "8) Adventures/2G - The Crossroads (D176).md",
+    "zz-Attachments/Pasted image 20230608105514.png",
+    "6) NPCs/Restwell Keep/Ardia Ironleaf.md",
+    "zz-Attachments/Crossroads Image.png",
+    "4) Bestiary/bestiary-1/aasimar-redeemer.md",
+    "8) Adventures/Completed/1F - Some Assembly Required (D208).md",
+    "8) Adventures/Completed/1D - Death in the Pincers (D172).md",
+    "8) Adventures/Completed/2B - The Shrine of Glass-Spire Forest (D175).md",
     "1) GM Screen/Adventure Loot.md",
-    "2) compendium/equipment/items/potion-patch-tv.md",
-    "6) NPCs/Restwell Keep/Zeta Windsnap.md",
-    "6) NPCs/Restwell Keep/Kendon Longstrider.md",
+    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+    "5) World/The Chaos Scar/Restwell Keep.md",
+    "5) World/The Chaos Scar/Restwell Jobs.md",
+    "zz-Attachments/Cluff Maclire.webp",
     "zz-Attachments/Kendon Longstrider.png",
     "zz-Attachments/Balewin.webp",
-    "1) GM Screen/DunGen (Random Dungeon Generator).md",
-    "1) GM Screen/GM-Screen.md",
-    "1) GM Screen/rules-reference.md",
-    "1) GM Screen/Skill-Actions-Cheat-Sheet.md",
-    "1) GM Screen/weapon-traits-p.282-283.md",
-    "6) NPCs/Restwell Keep/Balewin.md",
-    "7) Players/Varas.md",
-    "2) compendium/equipment/items/Homebrew/avengers-needle-hb.md",
-    "5) World/Party Configuration.md",
-    "1) Notes & In Progress Work/To Do List.md",
-    "8) Adventures/Completed/4D - Stormcrow Tor (D169).md",
-    "8) Adventures/Completed/6B - The Radiant Morn (D183).md",
-    "8) Adventures/Completed/2D - The Hammer Falls (D179).md",
-    "8) Adventures/Completed/1F - Some Assembly Required (D208).md",
-    "6) NPCs/Restwell Keep/Restwell Keep.md",
-    "6) NPCs/Crossroads/Crossroads.md",
     "zz-Attachments/Kataklysmos-Symbol.webp",
     "zz-Attachments/4D - Stormcrow Tor (D169)-20240502100540234.webp",
     "zz-Attachments/6A Rumble in the Valley.webp",
     "zz-Attachments/6A Valley Sentries.webp",
     "zz-Attachments/The Slavers Stone.webp",
-    "zz-Attachments/Rumble in the Valley.webp",
     "Conditions",
-    "zz-Attachments/Chaos Scar - Player View.jpg",
     "4) Bestiary/party-npc",
     "Creature Family Ability Glossary"
   ]

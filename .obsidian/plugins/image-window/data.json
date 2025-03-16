@@ -14,12 +14,12 @@
           "maximized": false
         },
         "KylesDesktop": {
-          "x": 2552,
-          "y": -8,
+          "x": 937,
+          "y": 107,
           "width": 1096,
           "height": 1888,
           "fullscreen": false,
-          "maximized": true
+          "maximized": false
         }
       }
     }

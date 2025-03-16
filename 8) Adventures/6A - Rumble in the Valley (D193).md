@@ -56,7 +56,7 @@ If the adventurers take time to search more thoroughly, or decide to turn back, 
 
 ## Encounter 1: Between Rust and a Hard Place
 **Encounter Difficulty:** 
-- [ ] Moderate (90 XP) Level 11
+- [ ] Low (60 XP) Level 11
 
 ![[6A - Rumble in the Valley (D193)-20240820111648698.webp]]
 
@@ -107,12 +107,12 @@ Ardia (D): The elf has been tortured and will die in a few rounds if she is not 
 
 
 **QUEST: Cavern Rescue (Minor Quest)** 
-- [ ] Low (60 XP) Level 11
+- [ ] Low (30 XP) Level 11
 Returning Ardia to town alive earns the characters the quest reward.
 
 ## Encounter 2: Tunnels of Terror
 **Encounter Difficulty:** 
-- [ ] Moderate (80 XP) Level 11
+- [ ] Moderate (40 XP) Level 11
 
 Kodan knows he can’t stand up to the adventurers at full strength. His goal is to weaken them as much as possible, perhaps eliminating one or two of them if he’s lucky. To that end, with the aid of Barulg’s construction and forging, and traps designed by Slik, he has laid out the tunnels to harry and weaken the party. Kodan still needs a few adventurers to escape, however, so he can finish them off in view of those he’s trying to impress.
 
@@ -246,7 +246,7 @@ Each group must deal with two of the obstacles laid out by the Talons, represent
 
 # Encounter 3: Valley Sentries
 **Encounter Difficulty:**   
-- [ ] Moderate (85 XP) Level 11
+- [ ] Low (60 XP) Level 11
 
 ![[6A Valley Sentries.webp]]
 
@@ -298,7 +298,7 @@ The ogre boss targets whoever looks the toughest in the party, preferring to att
 
 # Encounter 4: Rumble in the Valley
 **Encounter Difficulty:**   
-- [ ] severe (110 XP) Level 11
+- [ ] Moderate (80 XP) Level 11
 
 ![[6A Rumble in the Valley.webp]]
 
