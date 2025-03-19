@@ -62,23 +62,9 @@
               "icon": "lucide-file",
               "title": "Cluff Maclire"
             }
-          },
-          {
-            "id": "9bb0281404ca7b7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8) Adventures/7A - Scarred for Life (D192).md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "7A - Scarred for Life (D192)"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -295,36 +281,36 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9bb0281404ca7b7e",
+  "active": "2170bc258840626a",
   "lastOpenFiles": [
-    "4) Bestiary/party-npc/Cluff Maclire.md",
+    "4) Bestiary/unique-creatures/magrak-ironjaw.md",
     "8) Adventures/5A - The Slaver's Stone (D181).md",
+    "4) Bestiary/party-npc/Zestren.md",
+    "4) Bestiary/party-npc/Cluff Maclire.md",
+    "8) Adventures/2G - The Crossroads (D176).md",
+    "7) Players/Winter.md",
+    "8) Adventures/8) Adventures.md",
+    "7) Players/Varas.md",
+    "7) Players/Mordak.md",
+    "7) Players/Ediza.md",
+    "8) Adventures/7A - Scarred for Life (D192).md",
     "4) Bestiary/unique-creatures/Fool.md",
     "4) Bestiary/unique-creatures/Keljack.md",
     "4) Bestiary/unique-creatures/Slik.md",
     "4) Bestiary/unique-creatures/Pramlan.md",
-    "8) Adventures/7A - Scarred for Life (D192).md",
     "4) Bestiary/4) Bestiary.md",
     "4) Bestiary/bestiary-1/bestiary-1.md",
-    "4) Bestiary/unique-creatures/magrak-ironjaw.md",
     "4) Bestiary/unique-creatures/Kobold Boss - Zolgran.md",
     "4) Bestiary/unique-creatures/Kodan.md",
     "8) Adventures/6A - Rumble in the Valley (D193).md",
     "1) GM Screen/DC Calculators.md",
     "4) Bestiary/homebrew/chaos-spwaned-merloc.md",
     "2) Compendium/gm/hazards/Homebrew/the-crowd-hb.md",
-    "8) Adventures/2G - The Crossroads (D176).md",
     "zz-Attachments/Pasted image 20230608105514.png",
     "6) NPCs/Restwell Keep/Ardia Ironleaf.md",
     "zz-Attachments/Crossroads Image.png",
     "4) Bestiary/bestiary-1/aasimar-redeemer.md",
     "8) Adventures/Completed/1F - Some Assembly Required (D208).md",
-    "8) Adventures/Completed/1D - Death in the Pincers (D172).md",
-    "8) Adventures/Completed/2B - The Shrine of Glass-Spire Forest (D175).md",
-    "1) GM Screen/Adventure Loot.md",
-    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
-    "5) World/The Chaos Scar/Restwell Keep.md",
-    "5) World/The Chaos Scar/Restwell Jobs.md",
     "zz-Attachments/Cluff Maclire.webp",
     "zz-Attachments/Kendon Longstrider.png",
     "zz-Attachments/Balewin.webp",

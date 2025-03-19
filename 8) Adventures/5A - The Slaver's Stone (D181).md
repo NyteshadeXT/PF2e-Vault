@@ -414,7 +414,7 @@ Standard harpies break off and attack the mercenaries.  Two of the mercenaries w
 > - [ ] consumable::[[enervation-apg|Spell Scroll - 4th Level (Enervation)]] [ilvl::7] [gp::70]
 
 ## Encounter 3: Chain Gang
-- [ ] Trivial (40 XP) Level 10
+- [x] Trivial (40 XP) Level 10
 
 ![[5A - The Slaver's Stone (D181)-20240816232439786.webp]]
 
