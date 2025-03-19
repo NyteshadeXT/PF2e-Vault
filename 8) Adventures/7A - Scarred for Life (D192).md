@@ -1,6 +1,6 @@
 ---
 title: Scarred for Life
-adventure_status: "Not Started"
+adventure_status: Not Started
 adventure_level: 12
 ---
 
@@ -15,13 +15,6 @@ Now a well-known outlaw, Keljack recently discovered that his body is infused wi
 
 Keljack has resolved to undertake an expedition deeper into the Scar, and to attract hirelings he has spread word of a grand treasure hunt. He and Fool are going to meet with a pair of notable bandit leaders and decide which of those groups best suits their needs.
 
-# Synopsis
-While traveling between Fallcrest and Restwell Keep, the adventurers stop at the Quarter Moon  Inn. They encounter Keljack and Fool in the middle of negotiating with two groups of bandits, and the talks are going poorly. The heroes can attempt to apprehend Keljack, or they can join him on his “treasure hunt.”
-
-Keljack and Fool lead the adventurers into the Scar; the characters might be pursing them, or they might all be traveling together. Either way, the heroes must contend with servants of the trapped beholder before arriving at the stasis crystal.
-
- In the final encounter, Keljack’s proximity to the beholder finally releases the creature from the crystal. The adventurers must prevail over the beholder before deciding Keljack’s ultimate fate.
-
 # Running the Adventure
 
 When the adventure starts, the heroes find them selves in one of two situations.
@@ -31,6 +24,14 @@ When the adventure starts, the heroes find them selves in one of two situations.
 The Blades can impart any of the commonly held beliefs about Keljack (see below) if any character makes a successful DC 28 [[skills#Diplomacy|Diplomacy]] check.
 
 **Job Board Posting** Wanted for Murder, Robbery, Assault and other crimes: Keljack and his ogre companion. Lord Criswell offers 150 gold for his head and 30 for the ogre. 
+
+[[Lord Drysdale]] has wanted posters posted for [[Keljack]] and [[Fool]] on the Restwell job board. Capturing Keljack would be a triumph for his political career, for the peace of the Nentir Vale, and for justice. He knows that going after Keljack personally would be foolhardy, especially since the outlaw has been seen with an ogre recently. But he’s pretty sure that raising the bounty on both of those outlaws will attract the talent needed to bring them in.  The accusations leveled at Keljack are largely true, though perhaps embellished by the passage of time. The accusations against Fool are entirely fabricated, but to the Lord Warden, they seem like crimes an ogre would commit.
+
+**Keljack**
+By the order of the Lord Protector Drysdale, the outlaw Keljack—known for the prominent and distinctive scar across his face, and being of moderate height and surly disposition—is wanted alive! He has pillaged, murdered, and committed a sundry host of villainous shenanigans too numerous to list. Any who deliver Keljack alive to Fallcrest will be paid the sum of 1,500 gold pieces.
+
+**Fool**
+By the order of the Lord Protector Drysdale, an ogre calling himself Fool, known to wield a morningstar and a handaxe, and also known to travel in the company of Keljack the outlaw, is wanted alive! He has committed murder, destroyed property, and stolen sheep. Any who deliver this ogre alive to Fallcrest will receive the sum of 300 gold pieces.
 
 ## Keljack
 Keljack is well known throughout the lands surrounding the Chaos Scar. Bandit leader, outlaw, mercenary—Keljack has been all of these things and more.
@@ -49,7 +50,7 @@ Recently, Keljack ambushed a wandering scholar in search of loot. The woman had 
 
 Keljack suspected this energy was related to his madness, so he traveled to the Scar to find the truth. Even though he sensed the stasis crystal somewhere ahead of him, he realized that he was no match for the monsters of the Scar and turned back. On his way out, he saved the life of the ogre named Fool, and the two quickly became friends. 
 
-Now, Keljack and Fool are at the Quarter Moon Inn to meet with prospective hirelings. Keljack feels that another bout of insanity is fast approaching, and this upcoming expedition could be his last chance to find out the truth about himself before he loses his mind once more.
+Now, Keljack and Fool look to meet with prospective hirelings. Keljack feels that another bout of insanity is fast approaching, and this upcoming expedition could be his last chance to find out the truth about himself before he loses his mind once more.
 
 [[Keljack]]
 
@@ -69,55 +70,128 @@ At first, the beholder railed against its imprisonment. The stasis shell that ke
 
 The beholder sensed when Keljack neared the Scar on his first expedition, and along the connection between itself and Keljack, it was able to perceive an image of the outlaw. Now most of its gnolls roam the Scar under specific orders to capture Keljack and bring him to the crystal.
 
-## Price on Their Heads
-Faren Markelhay, Lord Warden of Fallcrest, is out to make a name for himself. Capturing Keljack would be a triumph for his political career, for the peace of the Nentir Vale, and for justice. He knows that going after Keljack personally would be foolhardy, especially since the outlaw has been seen with an ogre recently. But he’s pretty sure that raising the bounty on both of those outlaws will attract the talent needed to bring them in.
+## Encounter 1: Delicate Negotiations
+At the start of the encounter, place the following foes on the map: 
+ - 1: [[Keljack]] K
 
-Wanted posters (see below) are displayed prominently at inns and taverns throughout Fallcrest and the Nentir Vale. The accusations leveled at Keljack are largely true, though perhaps embellished by the passage of time. The accusations against Fool are entirely fabricated, but to the Lord Warden, they seem like crimes an ogre would commit.
+```encounter
+name: Delicate Negotiaions
+party: Chaos Scar
+creatures:
+- 1: [[Keljack]] 
+```
 
-Keljack
-By the order of the Lord Warden of Fallcrest, the outlaw Keljack—known for the prominent and distinctive scar across his face, and being of moderate height and surly disposition—is wanted alive! He has pillaged, murdered, and committed a sundry host of villainous shenanigans too numerous to list. Any who deliver Keljack alive to Fallcrest will be paid the sum of 3,000 gold pieces.
+Taking a huge risk, a disguised Keljack approaches the PCs in the Stumbling Giant as they recover from their latest adventure.
 
-Fool
-By the order of the Lord Warden of Fallcrest, an ogre calling himself Fool, known to wield a morningstar and a handaxe, and also known to travel in the company of Keljack the outlaw, is wanted alive! He has committed murder, destroyed property, and stolen sheep. Any who deliver this ogre alive to Fallcrest will receive the sum of 600 gold pieces.
+> [!note]+ Read Aloud
+> Dim lanterns flicker against dark wooden walls, the scent of spiced mead and roasted meat filling the air. A bard plays a lively tune in the corner while conversations and occasional dice games echo through the room. As you settle into your seats, savoring the brief respite from danger, a hooded figure hesitantly approaches your table. The scent of damp wool and travel clings to his cloak. He glances around the room, his fingers twitching slightly before he lowers his voice. 
+> 
+> _"I... I need your help. And I need you to hear me out before you say no. I don’t have many options left, and I think you might be my only chance."_
+> 
+> His voice is steady but edged with unease. Beneath the hood, you glimpse sharp eyes and a ragged red scar, constantly scanning the room. Whatever he’s about to say, it’s clear he believes it's dangerous.  He speaks quickly, his voice tinged with urgency. 
+> 
+> _"I know you’ve handled things most wouldn’t dare to. I’ve found something—something powerful. But I can’t get to it alone. Not without getting killed. I need you to help me reach it… before someone else does."_
+> 
+> He shifts in his seat, his fingers twitching slightly. _"Magic—real magic—pulses through me. A scholar told me so before I... had a misunderstanding with her. It’s the same kind of power that’s buried deep in the Chaos Scar. I went looking for answers, and I found something—a Stasis Crystal. But the Scar is death, and I wasn’t getting out alone.  The magic in that crystal—it’s calling me. I don’t know why. But I know it matters. And I need you to help me get there."_
 
-encounter 1:
-delIcate
-negotIatIonS
-Encounter Level 9+ (2,100+ XP)
-setup
-Keljack (K)
-Fool (M)
-Char, tiefling occultist (O)
-Flip, gnome illusionist (G)
-3 tiefling furies (F)
-3 gnome assassins (A)
-Keljack is negotiating with two small-time bandit groups—Char’s Furies and Flip’s Shadows—for who should have the privilege of accompanying him to his “treasure.” He thought to play one group off the other and gain a favorable cut of whatever is found within the Scar, but the negotiations have hit an impasse. Fabulous treasure is supposedly at stake, and neither group wants to allow the other to leave with Keljack. When the adventurers make their entrance, every- thing changes.
-As the adventurers approach the Quarter Moon Inn, read:
-The Quarter Moon Inn looks busy today. Four strong horses are tethered out front, and chatter drifts through the doorway and windows.
-The adventurers notice the wanted posters for Keljack and Fool plastered on a board outside the tavern. If they look around further, they can find a rear door and two more horses, around back. A second story has bedrooms where travelers can spend the night and windows that can be opened without difficulty. (The owners of the Quarter 
-Moon, the halfling brothers Heller and Mir, are                                                                                   hiding in the kitchen until Keljack leaves, praying he doesn’t wreck the place.)
-If the adventurers look in a window, so that they can see and hear Keljack and Fool, read:
-A man with a scarred face is playing cards with a tiefling and a gnome. An ogre sits by himself at a nearby table and sneers at the others.
-Allow the adventurers to be creative in planning their entrance to the inn. The outlaws have a passive Per- ception of 15 for noticing any sneaking or subterfuge.
-If the adventurers enter openly, Keljack greets them with a smile: The adventurers are just the type of people he seeks. He tries to use his reputation to convince the adventurers to help them find his “trea- sure.” His paranoia is hard at work, and already he doesn’t trust either Char or Flip.
-If the characters are persuaded to accompany Keljack and Fool, Char and Flip become enraged. They forge a temporary truce and gang up on the adventurers.
-If the adventurers try to put Keljack under arrest or if they charge into the tavern, Char and Flip fight to cover Keljack’s escape with the hope of rejoining him later.
-Tactics
-If the heroes have come to arrest them, Keljack and Fool attempt to flee as soon as possible and in any available direction—out the doors, through the win- dows, or up the stairs—though neither leaves the other behind if he appears incapable of following. Keljack steals a horse, trusting Fool’s natural speed to keep up. They each have a potion of healing.
-If the adventurers plan to accompany Keljack, he and Fool fight on their side against the other bandits.
-Fool’s preferred tactic, in either situation, is to cut the chandelier with a thrown handaxe and send it 
+Keljack makes no mention of Fool and he won't join the party until they are almost to the Kings Wall.
 
-### The Quarter Moon Inn
-Between Fallcrest and Restwell Keep lies the Quarter Moon Inn, a roadside tavern and way station run by the halfling brothers Heller and Mir Halfmoon (cousins of Selarund Halfmoon in Fallcrest). Famed for its pies, both savory and sweet, the inn is a popular stopping point for travelers.
-Whether the adventurers track down Keljack and Fool (hook 1) or you use the outlaw duo as a chance encounter (hook 2), the adventurers come upon them in the inn as the two outlaws meet with a pair of bandit leaders.
+If the characters are persuaded to accompany Keljack, he will want to leave immediately if at all possible.
 
-### Following a Feeling
-Traveling through the Chaos Scar is neither safe nor easy. Accompanied by or in pursuit of Keljack, the adventurers must avoid the dangers of the Scar and the beholder’s forces as they make their way to the vast forest along the Scar’s southern border.
-These events lead up to Encounter 2: Into the Scar.
+If the adventurers try to put Keljack under arrest he will not resist, but will continue to beg them for their help rather then follow this course of action. Fool will eventually discover what happens and break Keljack out of the Restwell dungeons.  They will head to the Chaos Scar on their own to discover the source of the strange energy.  Keljack feels he has no choice but to try before the madness overtakes him again.
 
-### The Stream Crossing
-About a mile from the stasis crystal, the party comes to a fast-running stream beneath a beaver dam. Part of the stream is shallow enough to cross, but the beholder’s servants, gnolls and their trained owlbears, watch the crossing, ready to take advantage of the ter- rain to isolate and devour travelers.
-These events lead up to Encounter 3: The Stream.
+## Encounter 2: Into the Scar
+**Encounter Difficulty:**   
+- [ ] Trivial (40 XP) Level 12
+
+> [!tip]+ Skill Challenge
+> # Into the Scar
+> 
+> The adventurers must avoid the dangerous monsters that rove the Scar while either chasing Keljack or helping him to locate the crystal.
+> 
+> **Level:** 12 (40 xp)
+> **Complexity:** 4 (requires 10 successes before 3 failures)
+> **Primary Skills:**  [[skills#Arcana|Arcana]], [[skills#Occultism|Occultism]], [[skills#society|Society]], [[skills#nature|Nature]], [[skills#stealth|Stealth]]
+> **Secondary Skills:** [[skills#Medicine|Medicine]], [[skills#Perception|Perception]]
+> 
+> ### Primary Skills
+> **Arcana (DC 30, 3 successes maximum):** If Keljack is with the party, the character boosts Keljack’s ability to detect the stasis crystal through other magical emanations that pervade the Scar. Or if Keljack is being pursued, the character detects and follows the energy coming from him.
+> 
+> **Nature (DC 25, 3 successes maximum):** The character understands clues—markings on trees, the scarcity of other wildlife, distinctive droppings—that indicate that the adventurers are entering a dangerous creature’s territory well before they encounter the creature.
+> 
+> **Occultism (DC 30, 4 successes maximum):** If Keljack is with the party, the character knows that many of the Scar’s inhabitants have been warped and twisted by the presence of the meteor, and he or she can predict the creatures’ preferred hunting grounds and behavioral patterns. Or if Keljack is being pur- sued, the character can perceive the effect of the strange energy associated with the meteor, and crea- tures of the Far Realm, before they are encountered.
+> 
+> **Society (DC 25, 2 successes maximum):** The character recalls tales of other adventurers who have explored this area of the Chaos Scar. Although the stories are not current, they help the party avoid the area’s known threats. A **Critical Success** on this check counts as two successes instead of one. If the adventurers earn both successes possible, they can then use [[skills#Medicine|Medicine]] as a secondary skill in the challenge.
+> 
+> **Stealth (DC 25, 4 successes maximum):** The character scouts ahead, determining the safest route through the area, or conceals the party’s tracks. A character who gets a **Critical Success** on this check can choose to remove a failure in the challenge rather than counting this result as a success.
+> 
+> ### Secondary Skills
+> **Medicine (DC 30, only usable after obtaining 2 success in the Society check):** The character helps an ally fight off stress and exhaustion, granting the ally a +2 bonus to his or her next check in the challenge. 
+> 
+> **Perception (DC 20, 1 success):** The character notices tracks or dangerous creatures before the adventurers are spotted in turn, granting a +2 bonus to the next [[skills#Nature|Nature]] check or [[skills#Stealth|Stealth]] check made in the challenge.
+> 
+> ### Special 
+> **Sense Motive (DC 25):** If the characters are traveling with Keljack, he becomes increasingly impatient and paranoid as the journey progresses. With a successful [[sense-motive|Sense Motive]] check, a character discerns and reveals to the outlaw that Keljack’s actions are being influenced by an outside source related to the Far Realm. This knowledge makes Keljack redouble his efforts to see this quest through: The outlaw gains a +2 bonus to all attack rolls until the end of the adventure.
+> 
+> ### Success
+> The adventurers navigate the dangers of the Scar to arrive in the area of the stasis crystal. If the adventurers are pursuing Keljack, they arrive close behind him. Go to Encounter 4
+> 
+> ### Failure 
+> The party is attacked by a group of gnolls in service to the trapped beholder. The gnolls have orders to capture Keljack and bring him to the stasis crystal (if he is present), or to kill any who approach the area of the crystal (if Keljack is traveling ahead of the characters). Go to Encounter 3.
+
+# Encounter 3: The Stream
+**Encounter Difficulty:**   
+- [ ] difficulty (xxx XP) Level xxx
+
+![[image.png]]
+
+At the start of the encounter, place the following foes on the map: 
+ - 2: [[BadGuy1]] W
+ - 2: [[BadGuy2]] H
+
+```encounter
+name: EncounterName
+party: Chaos Scar
+creatures:
+- 2: [[Badguy1]] 
+- 2: [[Badguy2]]
+```
+
+Keljack knows that the source of his feeling is in the primeval forest beyond the stream. The adven- turers arrive here in his company, or close behind him, depending on their actions throughout the adventure.
+The gnoll pack lord and the third trained owlbear are present only if the adventurers accompany Kel- jack and Fool.
+When the adventurers arrive at the stream, read:
+A fast-running stream rushes from a nearby beaver dam. The trail leads to a shallow crossing before resuming on the other side.
+Gnolls in service to the trapped beholder patrol this crossing with several trained owlbears. They have slain the beavers that built this dam and now ambush any creatures crossing the stream.
+If the adventurers are pursuing Keljack, the out- laws were ambushed by the gnolls as they crossed the stream. Fool escaped, but Keljack was captured and is being taken to the beholder by the gnoll pack lord and one of the trained owlbears. The rest of the gnolls and the owlbears are lounging in the open, not expecting another group of trespassers so soon.
+If the adventurers and Keljack are traveling together, then the gnolls and the owlbears are hiding
+in the bushes across the stream, and the adventurers can spot them with a DC 22 Perception check. With a DC 16 Perception check, an adventurer notices numerous tracks, large and small, crisscrossing the trail on the other side of the stream.
+
+
+## Tactics
+If the monsters are encountered in the open, they take cover in the bushes and try to draw the adven- turers across the stream before destroying the dam.
+If the monsters are in hiding, they try to ambush the first adventurer who steps past the flood line on their side of the stream. The pack lord then attempts to push the boulder into the dam, destroying it in hopes of separating the party.
+The gnolls have been instructed to kill any creature except Keljack that tries to enter the area. The gnolls fight to the death. If no gnolls are alive to direct them, the owlbears flee when bloodied.
+
+## Features of the Area
+Illumination: Bright light during the day or dim light at night.
+Beaver Dam: The gnolls have removed key pieces of the dam so that it will fall apart when hit by the boulder. An adventurer can balance on the dam with a DC 16 Acrobatics check.
+Boulder: The boulder is perched on a steep rise over the dam and can be pushed into the dam with a DC 16 Strength check as a standard action. 
+Bushes: The thick bushes on the other side of 
+the trail are difficult terrain and provide partial concealment.
+Crossing: The crossing is difficult terrain.
+Flood: If the dam breaks, creatures between the flood lines must make a DC 16 Strength check or be pushed 2d4 squares downstream.
+Flood Line: The white dotted lines on the map indicate the level to which the water rises if the dam breaks.
+Pond: The pond is deep but placid (DC 10 Athlet- ics check to swim).
+Stream: A character must make a DC 15 Athletics check to swim in the stream. If it is in flood, swimming the stream becomes a DC 20 Athletics check.
+Trees: The trees are 20 feet tall and provide partial concealment to any creature beneath their branches. The trunks can be climbed with a DC 15 Athletics check. A creature pushed downstream can make a saving throw to catch the adjacent trunk or the branches of any tree it passes. If the saving throw succeeds, the forced movement ends.
+
+
+
+
+
+
+
+
 
 ### The Ancient Forest
 Beyond the stream, the forest takes on a primeval look. The trees become larger, blotting out the sun, and the ground sinks into shallow swampland. The beholder’s stasis crystal landed here as the meteor tore its way into the Scar. Energy bleeding from the crystal has preserved this section of the forest as it was when the crystal landed.
