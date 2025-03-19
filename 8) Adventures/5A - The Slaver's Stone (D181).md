@@ -9,7 +9,7 @@ awarded_gp: 0
 awarded_sp: 0
 awarded_cp: 0
 awarded_permanent_items: 
-awarded_consumable_items: 
+awarded_consumable_items:
 ---
 
 ![[The Slavers Stone.webp]]
@@ -452,6 +452,11 @@ The mercenaries charge the archers recognizing them to be a big threat.  None of
 **Slaver’s Stone:** A wide and 20-foottall stone platform occupies the camp’s center. The stairs winding around the platform are difficult terrain. A fall from the top deals `dice: 2d10` damage.
 **Prisoners:** The twelve prisoners are in chains and immobilized. Freeing a prisoner requires a DC 25 [[skills#Thievery|Thievery]] or DC 29 Strength check. The chain can also be attacked: Hardness 8, 60 hp. The prisoners use Cled warrior statistics except their melee basic attacks deal half damage until they are armed.
 
+### Cluff
+If asked what's next, Cluff will ask for an escort out of the Chaos Scar and then take the survivors back to his clan.
+
+If asked about [[Zestren]], Cluff will share a crazy conversation he had with Zestren about somethe he called "The Cloven Skull."  The PCs while not familiar with it directly have heard of the location.  Allow a [[skills#Society|Society]] check DC 26 to recall that the Cloven Skull is said to be a rocky formation against the face of the cliff not to far from where the PCs currently are.
+
 > [!tip]+ Treasure
 > Magrak has a sack filled with coins that includes 58 gp, 97 sp and 24 cp.
 > 
@@ -528,13 +533,48 @@ The Lake Oracle lurks on the island in the lake’s center. The Chaos Spawn Merl
 
 When the heroes enter this cavern, read:
 > [!note]+ Read Aloud
-> The tunnel ends at a stony shore against which oily black water laps. A rocky island rises from the waters some distance away, where you can just make out a humanoid figure crouching by the lake.
+> Beyond the ghouls, you find a cramped, winding passage burrowing deep into the mountain.  It ends at a stony shore against which oily black water laps. A rocky island dotted with purple chaos crystals rises from the waters some distance away, where you can just make out a humanoid figure crouching by the lake.
 
 The heroes can catch the Lake Oracle’s attention by calling to her. She climbs on a small boat and rows to the opposite shore.
 
 When the Oracle reaches the heroes, read:
 > [!note]+ Read Aloud
 > A pale human woman with white, unseeing eyes regards you through dirty gray strands of hair. She wears nothing, but is unashamed by her nakedness. She says, “You have come seeking knowledge. Tell me why I should cast aside mystery’s veil.”
+
+If combat breaks out, refer to the encounter.  However, if the heroes approach the Lake oracle with more discretion, they can instead try to persuade the dragon to reveal a secret, foretell an event, or provide some other bit of information the characters need to learn. If the characters take this approach, run the “Consulting the oracle” skill challenge below
+
+> [!tip]+ Skill Challenge
+> # Title
+> 
+> Brief Discription
+> 
+> **Level:** 8 (40 xp)
+> **Complexity:** 1 (requires 4 successes before 3 failures)
+> **Primary Skills:**  Arcana, Bluff, Diplomacy, His- tory, Insight, special
+> **Secondary Skills:** [[skills#Intimidation|Intimidation]]
+> 
+> ### Primary Skills
+> **Skill One (DC 15, 1 success):** Description
+> 
+> **Skill Two (DC 15, 1 success):** Description
+> 
+> **Skill Three (DC 15, 1 success):** Description
+> 
+> **Skill Four (DC 15, 1 success):** Description
+> 
+> ### Secondary Skills
+> **Skill One (DC 15, 1 success):** The dragon does not respond to threats or bullying. Each attempted Intimidate check makes the dragon angrier and results in an automatic failure. 
+> 
+> **Skill Two (DC 15, 1 success):** Description
+> 
+> ### Success
+> Describe what happens on a success.
+> 
+> ### Failure 
+> Describe what happens on failure.
+> 
+> ### Special
+> Describe anything special that occurs.
 
 ### Tactics
 The dragon drops her disguise, uses frightful presence, and then uses her breath weapon. The dragon then moves away, flying near the ceiling or near the island until breath weapon recharges. She uses melee attacks against any creature that closes on her.
