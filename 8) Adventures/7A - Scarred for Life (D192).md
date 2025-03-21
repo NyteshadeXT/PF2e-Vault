@@ -128,29 +128,56 @@ If the adventurers try to put Keljack under arrest he will not resist, but will 
 > **Secondary Skills:** [[skills#Medicine|Medicine]], [[skills#Perception|Perception]]
 > 
 > ### Primary Skills
-> **Arcana (DC 30, 3 successes maximum):** If Keljack is with the party, the character boosts Keljack’s ability to detect the stasis crystal through other magical emanations that pervade the Scar. Or if Keljack is being pursued, the character detects and follows the energy coming from him.
+> **Arcana (DC 30, 3 successes maximum):** If Keljack is with the party, the character boosts Keljack’s ability to detect the stasis crystal through other magical emanations that pervade the Scar. Or if Keljack is being pursued, the character detects and follows the energy coming from him.  
+> - **Success:**  "Reaching out with your arcane senses, you weave through the wild magical energies that ripple through the Scar. Like distant echoes, you feel the pull of something ancient and powerful—Keljack’s trail, or perhaps the crystal itself. Your efforts refine the party’s direction, avoiding paths clouded by unstable magic."_
+> - **Failure:**  "You reach out with your arcane senses, but the Scar’s chaotic energies swirl and resist your efforts. Flickers of distant power mislead your perceptions, leading the party down a dead-end path or into the lingering aftershocks of the meteor’s corrupting touch.
 > 
 > **Nature (DC 25, 3 successes maximum):** The character understands clues—markings on trees, the scarcity of other wildlife, distinctive droppings—that indicate that the adventurers are entering a dangerous creature’s territory well before they encounter the creature.
+> - **Success:**  "You spot the signs immediately—a broken branch, unnatural silence, the telltale claw marks of a predator marking its claim. With careful guidance, you navigate the party around these dangers before they become threats."
+>  **Failure:**  "You try to read the land, but something is off—patterns don’t match, and the usual signs of danger are absent or deceptive. Before you realize it, the party has stumbled too close to something’s hunting ground, leaving you exposed."
 > 
 > **Occultism (DC 30, 4 successes maximum):** If Keljack is with the party, the character knows that many of the Scar’s inhabitants have been warped and twisted by the presence of the meteor, and he or she can predict the creatures’ preferred hunting grounds and behavioral patterns. Or if Keljack is being pur- sued, the character can perceive the effect of the strange energy associated with the meteor, and crea- tures of the Far Realm, before they are encountered.
+> - **Success:**  "The residual corruption in the Scar speaks to you—not in words, but in whispers of warped reality and wrongness. You recognize the signs of where creatures twisted by the meteor’s power roam, allowing you to steer clear of their lurking presence."
+> - **Failure:**  "You attempt to interpret the chaotic emanations of the Scar, but the distortions are overwhelming. What you thought was a safe route instead brings you closer to places where the barrier between worlds has thinned, leaving the party vulnerable to unnatural horrors."
 > 
 > **Society (DC 25, 2 successes maximum):** The character recalls tales of other adventurers who have explored this area of the Chaos Scar. Although the stories are not current, they help the party avoid the area’s known threats. A **Critical Success** on this check counts as two successes instead of one. If the adventurers earn both successes possible, they can then use [[skills#Medicine|Medicine]] as a secondary skill in the challenge.
+> - **Success:**  "You recall an old tale—an explorer who barely escaped the Scar’s dangers spoke of landmarks and lurking threats. Those stories now serve you well, as you recognize the very places they described and take an alternate path before trouble finds you."
+> - **Failure:**  "The stories you remember seem useful, but the landscape has changed. The ruins that were once safe ground are now twisted, and the warnings you followed lead the party into unfamiliar and dangerous territory."
 > 
 > **Stealth (DC 25, 4 successes maximum):** The character scouts ahead, determining the safest route through the area, or conceals the party’s tracks. A character who gets a **Critical Success** on this check can choose to remove a failure in the challenge rather than counting this result as a success.
+> - **Success:**  "You move with precision, carefully masking your tracks and choosing the most shadowed paths. The Scar is dangerous, but for now, its inhabitants remain unaware of your presence."
+> - **Failure:**  "You attempt to move silently, but the terrain betrays you. Loose stones shift underfoot, or a snapped branch cracks like a gunshot in the silence. Somewhere in the distance, something has taken notice."
 > 
 > ### Secondary Skills
 > **Medicine (DC 30, only usable after obtaining 2 success in the Society check):** The character helps an ally fight off stress and exhaustion, granting the ally a +2 bonus to his or her next check in the challenge. 
+> - **Success:**  "Recognizing signs of fatigue and strain, you administer a quick remedy—binding a wound, easing an aching limb, or offering a revitalizing tonic. The group presses on, fortified against exhaustion."
+> - **Failure:**  "You attempt to soothe an ally’s weariness, but the harsh environment of the Scar allows little room for rest. Your efforts fall short, and exhaustion remains an ever-present threat."
 > 
 > **Perception (DC 20, 1 success):** The character notices tracks or dangerous creatures before the adventurers are spotted in turn, granting a +2 bonus to the next [[skills#Nature|Nature]] check or [[skills#Stealth|Stealth]] check made in the challenge.
+> - **Success:**  "Your keen eyes pick up subtle disturbances—tracks in the dirt, disturbed foliage, the faint glint of eyes reflecting moonlight. With a silent signal, you warn the group and alter course before something notices you."
+> - **Failure:**  "You scan the surroundings, but in the gloom of the Scar, details blur and shift. By the time you recognize the signs of danger, you’ve already strayed too close."
 > 
 > ### Special 
 > **Sense Motive (DC 25):** If the characters are traveling with Keljack, he becomes increasingly impatient and paranoid as the journey progresses. With a successful [[sense-motive|Sense Motive]] check, a character discerns and reveals to the outlaw that Keljack’s actions are being influenced by an outside source related to the Far Realm. This knowledge makes Keljack redouble his efforts to see this quest through: The outlaw gains a +2 bonus to all attack rolls until the end of the adventure.
+> - **Success:**  "You catch Keljack glancing over his shoulder, his movements growing more erratic. His paranoia is more than simple nerves—something is gnawing at his mind, pushing him forward with unnatural urgency. You confront him, grounding his thoughts in reality, and his resolve steadies."
+> - **Failure:**  "Keljack mutters to himself, his grip tightening on his weapon. You sense something is wrong, but before you can intervene, his paranoia deepens. His trust in the party wanes, making your journey together all the more precarious."
 > 
 > ### Success
-> The adventurers navigate the dangers of the Scar to arrive in the area of the stasis crystal. If the adventurers are pursuing Keljack, they arrive close behind him. Go to Encounter 4
+> The adventurers navigate the dangers of the Scar to arrive in the area of the stasis crystal. If the adventurers are pursuing Keljack, they arrive close behind him. Go to Encounter 4.
+> 
+> "After a grueling journey through the Scar, you break free from the oppressive terrain and into a clearing that hums with an eerie stillness. The air crackles with unseen energy, pulling your attention to the heart of the clearing—there, half-buried in the jagged earth, a massive crystalline structure pulses with a dim, rhythmic glow.
+> 
+> If Keljack is ahead of you, his footprints lead straight to the crystal’s edge, the signs of his passage fresh. 
+> If he is with you, he steps forward, his breath catching in his throat as he stares at his prize. Whatever lies within that crystal… you are here now to uncover it."*
 > 
 > ### Failure 
 > The party is attacked by a group of gnolls in service to the trapped beholder. The gnolls have orders to capture Keljack and bring him to the stasis crystal (if he is present), or to kill any who approach the area of the crystal (if Keljack is traveling ahead of the characters). Go to Encounter 3.
+> 
+> "The twisted landscape of the Scar shifts underfoot, leading you down unfamiliar paths, deeper into its chaotic heart. Then, from the shadows, a guttural howl splits the air. Before you can react, dark shapes dart between jagged rocks—gnolls, their eyes burning with feral intensity.
+> 
+> One of them, taller and clad in scavenged metal, snarls in a rough, guttural tongue. ‘Ahh... fresh meat!’
+> 
+> There is no time to reason. The gnolls move with lethal intent, weapons raised, ready to drag Keljack away—or cut you down where you stand."*
 
 ## Encounter 3: The Stream
 **Encounter Difficulty:**   

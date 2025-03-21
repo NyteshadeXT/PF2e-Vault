@@ -61,7 +61,7 @@ If the adventurers take time to search more thoroughly, or decide to turn back, 
 ![[6A - Rumble in the Valley (D193)-20240820111648698.webp]]
 
 At the start of the encounter, place the following foes on the map: 
- - 2: [[mudborn|Mudborn]] M
+ - 2: [[Mudborn]] M
  - 2: [[rust-monster-enhanced|Rust Monster]] R
  - 1: [[Tar ooze]] G
  - 1: [[Ardia Ironleaf]] D
@@ -134,19 +134,32 @@ Each group must deal with two of the obstacles laid out by the Talons, represent
 > 
 > ### Primary Skills
 > **Crafting (DC 29, 1 success):** The character relies on familiarity with construction to advance carefully.
+> - **Success:**  "You run your hands along the engraved metalwork, feeling for inconsistencies in the structure. Your knowledge of construction reveals subtle gaps in the floor and walls—places where the fire traps are least likely to trigger. You guide the group forward, step by careful step."
+> - **Failure:**  "Your instincts tell you that the infernal craftsmanship follows a logical design, but as you attempt to gauge the safest route, the ground shifts beneath your feet. A sudden burst of searing heat erupts from the walls, forcing you to stumble blindly forward."
 > 
 > **Perception (DC 29, 1 success):**  Despite the lack of light, the character uses other senses to find the path.
+> - **Success:**  "With no light to guide you, you focus on sound and touch—the faint hum of unseen magic, the whisper of air shifting through hidden vents. At the last moment, you halt the group just before a section of floor releases a surge of invisible flame, allowing them to slip past unharmed."
+> - **Failure:**  "You strain to listen, to feel, to sense anything beyond the overwhelming darkness. But the walls seem to close in, warping your perception. A blast of infernal fire erupts from the carvings, licking at your skin as you scramble to move forward."
 > 
 > **Society (DC 29, 1 success):** The character recognizes the art on the walls as duergar handiwork, allowing him or her to figure out the best places to step based on their patterns. Success with this check, in addition to counting toward the overall challenge reduces damage taken by half.
+> - **Success:**  "The intricate metal engravings, the sinister duergar artistry—you recognize it for what it is. This is a warning as much as it is a trap. You decipher the placement of each visage, identifying the safest path through the forge’s deathly corridor. Your insight helps the entire party, making the flames less lethal."
+> - **Failure:**  "You recall something about duergar craftsmanship—patterns, symbols—but the knowledge escapes you when you need it most. You step forward, thinking you’ve found a safe route, only to hear a metallic click. A roaring wave of fire answers your mistake."
 > 
 > ### Secondary Skills
 > **Perception (DC 26, no successes):** The character tries to anticipate the fire blasts. No success is gained, but he or she takes no damage from the next blast of fire that targets that character.  Alternately, the character uses intuition to warn the others about an oncoming blast of fire. No success is gained, but each other character takes only half damage from the next fire blast that attacks him or her.
+> - **Success (self):**  "You feel the air shift, a surge of heat building just before it erupts. Instinct kicks in—you duck and roll just as a blast of invisible fire erupts overhead, avoiding the searing pain altogether."
+> - **Success (group):**  "A faint change in the air—a warning just before the fire strikes. ‘Move!’ you shout, shoving an ally aside. The fire erupts, but thanks to your quick reaction, the worst of it is avoided."
+> - **Failure:**  "You think you sense something—an unnatural stillness, an ominous quiet. But before you can react, a gout of fire explodes from the wall, burning into flesh and armor alike."
 > 
 > ### Success
 > The party reaches the end of the hall, and their light sources flare to life again.
 > 
+> "With one final step, you cross into open space—and suddenly, light returns. Your torches and magic flares to life, revealing the end of the corridor. The choking darkness is behind you, and though the heat of the forge still lingers, you have emerged unscathed."
+> 
 > ### Failure 
 > The adventures emerge with infernal darkness clinging to their souls. The group gains the **Marked by Barulg** trait: Any character who scores a hit against Barulg in the final encounter takes 5 fire damage.
+> 
+> "The dark does not let go easily. As you stagger out of the corridor, the inky blackness clings to you. The searing heat of the forge is now a part of you—when you finally face Barulg, his fire will recognize you as one of its own."
 
 
 
@@ -164,21 +177,39 @@ Each group must deal with two of the obstacles laid out by the Talons, represent
 > 
 > ### Primary Skills
 > **Arcana (DC 29, 1 success):** The character uses his or her magical senses to get a fix on what is real and what is magically created.
+>- **Success:** "Focusing on the ebb and flow of magic, you extend your senses beyond the deception. The threads of illusion unravel just slightly, revealing glimpses of the true path ahead. The mirror-like walls ripple as if they resent being exposed, but for a moment, clarity prevails."
+>- **Failure:** "You reach out with your magical senses, but the web of illusion twists in response. The reflections shift with your thoughts, warping to match your worst fears. Your mind is flooded with an overwhelming sense of doubt—what if _you_ are the illusion?"
 > 
 > **Diplomacy (DC 29, 1 success):**  The character gives a stirring speech to convince the others of his or her identity and trustworthiness.
+> - **Success:** "You steady your voice and speak with conviction, reminding your allies of who you are and what you've been through together. Though the whispers claw at the edges of your words, your sincerity rings true. A flicker of recognition passes through your companions' eyes, strengthening their resolve against the illusion."
+> - **Failure:** "You try to reason with your allies, but doubt clouds their eyes. Every reassurance you offer is twisted by the whispers, echoed back with a cruel edge. 'Isn't that exactly what an imposter would say?' the illusions taunt. For a moment, even _you_ wonder if you can trust your own voice."
 > 
 > **Perception (DC 29, 1 success):** The character trusts his or her intuition to tune out the false voices and images.
+> - **Success:** "Ignoring the distractions, you focus on the subtle details—the way sound bounces unnaturally, the way the reflections lag just a fraction of a second behind. Your instincts guide you, separating truth from trickery. A faint shimmer in the distance reveals a path forward, if you trust yourself enough to take it."
+> - **Failure:** "Your eyes dart between reflections, trying to find inconsistencies, but every time you think you’ve found something real, it shifts. The illusions respond to your focus, twisting to match your suspicions. Your own face sneers back at you, lips curling into words you _almost_ said. Which ones are real? Are any?"
 > 
 > ### Secondary Skills
 > **Diplomacy (DC 23, no successes):** The character employs verbal gymnastics to confuse the various illusions, although his or her own reality is still in doubt. No success is gained, but each other character receives a +2 bonus to the next primary skill check he or she makes this round.
 > 
+> "With careful words and steady reassurance, you weave a verbal counterpoint to the illusions’ falsehoods. Though the uncertainty remains, your allies find their footing just a little stronger. They might not believe everything you say—but they believe enough."
+> 
 > **Intimidation (DC 26, no successes):** The character forcefully asserts his or her existence. Although this tactic is effective, the other party members grow more distrustful of each other. No success is gained, but this character gains a +2 bonus to all primary skill checks during the challenge. All other characters take a –2 penalty to their next primary skill checks.
+> 
+> "You slam your fist against a mirrored wall, your voice cutting through the madness with raw force. 'I AM REAL!' The reflections recoil, momentarily uncertain, but so do your allies—your aggression plants a seed of doubt in their minds. Are you proving your existence… or hiding something?"
 > 
 > ### Success
 > The bond between the adventurers helps to dispel the illusions and feelings of paranoia, leaving only a mild sense of doubt.
 > 
+> *"With effort, you push past the doubt and confusion, anchoring yourselves in what you know to be real. The distorted voices fade, the endless reflections waver, and the mirror-like walls ripple as if recoiling from your collective resolve. 
+> 
+> A final whisper slithers through the air—'Are you sure?'—but it is weak, desperate. Then, the illusion collapses. The twisted maze of mirrors shatters, leaving behind a dimly lit path forward. Though unease still lingers, you know who you are, and that is enough… for now."*
+> 
 > ### Failure 
 > The adventurers can’t shake their suspicions about what they experience. The group gains the **Marked by Linn** trait: Any character who scores a hit against Linn in the final encounter cannot regain hit points until the end of his or her next turn.
+> 
+> *"The reflections refuse to settle, the whispers twist familiar words into mockeries, and the doubt festers in your minds. Every step feels uncertain, every glance at an ally tinged with suspicion.
+> 
+> The path finally emerges, but something is wrong. The illusion has faded, yet its grip remains. An invisible weight settles in your chests, an echo of paranoia that won’t fully fade. The doubt clings to you like a shadow, and a lingering voice in your mind asks: _What if you're wrong?_"*
 
 
 
@@ -196,21 +227,39 @@ Each group must deal with two of the obstacles laid out by the Talons, represent
 > 
 > ### Primary Skills
 > **Athletics (DC 29, 1 success):** The character uses brute force, pushing through while holding his or her breath.
+> - **Success:** "Muscles burning, you drive forward through the thick, clinging mud. Every step is a battle as the muck drags at your legs, but sheer willpower propels you onward. You break through a particularly deep patch, gasping as your feet find solid ground beneath the surface."
+> - **Failure:** "You brace yourself and push forward, but the mud is relentless. It tightens like a vice around your limbs, pulling you down inch by inch. Your breath comes in ragged gasps as exhaustion sets in. The more you struggle, the deeper you sink."
 > 
 > **Nature (DC 24, 1 success):**  By drawing upon his or her experience in swampy terrain, the character is able to find solid footing amid the deeper mud.
+> - **Success:** "You study the patterns of shifting mud, searching for subtle ridges and firmer ground. With careful movements, you step in just the right places, finding solid footing where others would sink. The path forward begins to reveal itself."
+> - **Failure:** "You attempt to find stable footing, but the mud is deceptive. What looked like a solid patch turns to sludge beneath your weight, swallowing your leg to the knee. The scent of rot rises as the shifting muck pulls you deeper into its clutches."
 > 
 > **Religion (DC 24, 1 success):** The character discerns that the earth and water bear traces of elemental energy tainted by chaos. Calling on divine powers that oppose elemental chaos causes the mud to part around the character. 
+> - **Success:** "Closing your eyes, you reach out with your faith, sensing the taint in the mud. Whispering a prayer or invoking a warding gesture, you call upon divine power to push back against the creeping corruption. The water around you shudders, then parts slightly, making your path just a little clearer."
+> - **Failure:** "You call upon your faith, but the tainted mud does not yield. It twists around you, seeping into your very being. Your skin tingles with an unnatural energy, and for a moment, you feel an overwhelming sense of wrongness—as if something ancient and chaotic is watching you struggle."
 > 
 > ### Secondary Skills
 > **Athletics (DC 20, no successes):** No success is gained, but the character swims or wades through while dragging another character along, granting a +2 bonus to the next primary skill check made by another character. The character making this secondary skill check takes a –2 penalty to the next primary skill check he or she makes. 
 > 
+> "Gritting your teeth, you grab hold of a struggling ally and drag them through the sludge. Every muscle in your body screams in protest, but you refuse to let them sink. They find a steadier footing ahead, but the effort has taken its toll on you."
+> 
 > **Religion (DC 20, no successes):** The character meditates on a blessing to help another character ward off elemental chaos. No success is gained, but the other character gains a +2 bonus to the next primary skill check. The character making this secondary skill check cannot make primary Religion checks for the rest of the challenge.
+> 
+> "You murmur a quiet blessing, focusing your will on an ally rather than yourself. Though the chaotic energy of the mud resists, your faith shields them, making their next steps just a little easier. As you finish, you feel drained, as if something in the swamp has stolen a fraction of your divine spark."
 > 
 > ### Success
 > The party struggles through the tunnels and emerges from the mud.
 > 
+> "With one final push, you break free of the clinging, tainted mud, gasping as you stagger onto firmer ground. The tunnel stretches ahead, still damp and oppressive, but at least you are no longer sinking. The mud seems almost reluctant to release you, tendrils of thick sludge breaking away with a sickening slurp.
+> 
+> The corruption still lingers in the air, but you have passed through its grasp—mostly unscathed."*
+> 
 > ### Failure 
 > The adventurers make it to the other side, but the chaos instilled in the mud seeps into their bodies. The group gains the **Marked by Primpel** trait: Any character who scores a hit against Primpel in the final encounter is weakened until the end of his or her next turn.
+> 
+> "At last, you claw your way out of the shifting mire, but something is wrong. Your limbs feel heavier, your breath shallower. A cold sensation lingers beneath your skin, as though the tainted mud has seeped into your very being.
+> 
+> The ground is solid beneath you now, but you can’t shake the feeling that the chaos of the swamp has left its mark. And as you move forward, you realize—it has."*
 
 
 
@@ -228,21 +277,39 @@ Each group must deal with two of the obstacles laid out by the Talons, represent
 > 
 > ### Primary Skills
 > **Acrobatics (DC 29, 1 success):** The character dodges, slides, and weaves past the deadly traps.
+> - **Success:** "With split-second reflexes, you twist and tumble through the deadly gauntlet. A pendulum blade whips past your shoulder as you slide beneath it, narrowly avoiding a pit that opens beneath your feet. Every movement is precise, every step perfectly timed. You land gracefully, past the worst of the traps—at least for now."
+> - **Failure:** "You attempt to vault over a dart trap, but the ground shifts beneath you. A metal blade swings from the ceiling, forcing you to twist midair. Your footing falters, and pain flares as something sharp grazes your side. A hiss of released pressure signals another trap resetting behind you."
 > 
 > **Crafting (DC 24, 1 success):**  These traps are old hat to seasoned adventurers, and the character relies on his or her experience to bypass them.
+> - **Success:** "You scan the hall, mentally dissecting the traps like a well-worn blueprint. The mechanisms are crude, but efficient—gears, pressure plates, and counterweights all working in concert. You reach out, jamming a gear with a stray piece of debris. A section of the trap system groans in protest, giving you and your allies an opening to advance."
+> - **Failure:** "You pry open a panel, hoping to disable the mechanism within, but Slik’s craftsmanship is maddeningly intricate. A misplaced wire sparks, and suddenly, gears whir back to life. A section of the floor drops away at your feet, and you scramble to avoid the fresh hazard you just activated."
 > 
 > **Thievery (DC 24, 1 success):** The character temporarily sabotages one or more parts of the elaborate trap system, allowing passage.
+> - **Success:** "With deft fingers, you trace the edges of a trigger mechanism, swiftly disengaging the pressure plate before it can activate. A pendulum blade slows, then stops mid-swing, giving the group a moment to move forward unharmed. The delicate sabotage leaves the rest of the system unaware—for now."
+> - **Failure:** "You attempt to jam the mechanism of a dart trap, but Slik’s design is more complex than expected. As soon as you think you’ve disabled it, a hidden spring triggers, launching a flurry of darts in your direction. The traps here are not so easily fooled."
 > 
 > ### Secondary Skills
 > **Athletics (DC 21, no successes):** The character temporarily forces the machinery to a halt, facing an attack to give the others a greater chance of success. No success is gained, but all other characters gain a +2 bonus to any primary skill checks this round. This character is automatically hit by the traps this round.
 > 
+> "With a determined grunt, you seize hold of a grinding cog and throw your weight against it. The machinery screeches in protest as you strain, bringing a section of the trap system to a temporary halt. Your allies surge forward while you hold the mechanism in place—until the backlash of pent-up energy sends shrapnel and blades flying in your direction."
+> 
 > **Perception (DC 21, no successes):** The character observes a pattern to the traps’ activation. No success is gained, but all characters gain a +2 bonus to AC against the traps’ attack this turn.
+> 
+> "You pause, watching the deadly machines in motion, and a pattern emerges. The gears click in precise rhythm, the dart launchers fire in waves, and the pendulums move in a predictable arc. With a shout, you warn your allies of the safest timing to move, giving them a chance to evade the worst of the traps."
 > 
 > ### Success
 > Through a combination of teamwork, timing, and tenacity, the party escapes the trapped tunnel.
 > 
+> "With a final leap, roll, or well-placed step, you clear the last of the traps. Behind you, pendulum blades swing back and forth in eerie synchronization, their mechanisms still whirring. The air is thick with the scent of oiled metal and the faint tang of poison, but you’ve made it through.
+> 
+> Ahead, the tunnel opens into a wider chamber, free from immediate danger—for now."*
+> 
 > ### Failure 
 > The traps have introduced Slik’s custom poison into the adventurers’ blood. The group gains the **Marked by Slik** trait: Each of the adventurers takes a –2 penalty to all defenses against Slik’s attacks and has vulnerable 5 to Slik’s damage.
+> 
+> "You reach the end of the trapped corridor, but something is wrong. The sting of a dart, the scrape of a blade—somewhere along the way, Slik’s traps have done more than just wound you. A faint burning sensation creeps through your veins, and your movements feel sluggish.
+> 
+> Slik may not have stopped you, but he’s left his mark."
 
 # Encounter 3: Valley Sentries
 **Encounter Difficulty:**   
@@ -264,7 +331,7 @@ When the heroes advance to the outside, read:
 
 At the start of the encounter, place the following foes on the map: 
  - 1: [[ogre-boss|Ogre Boss]] W
- - 1: [[mudborn|Mudborn]] M
+ - 1: [[Mudborn]] M
  - 2: [[frost-drake|Frost Drake]] A
  - 4: [[duergar-scout|Duergar Scout]] D
 
