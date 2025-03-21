@@ -1,4 +1,3 @@
-
 ---
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-item
@@ -10,6 +9,7 @@ tags:
 - trait/magical
 aliases: ["Voren's Eternal Chalk]
 ---
+
 # Voren's Eternal Chalk *Item 1+*  
 [unique](unique.md) [divination](evocation.md)  [invested](invested.md)  [magical](magical.md)  
 

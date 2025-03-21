@@ -104,8 +104,8 @@ The glass guardians emerge from the spires and attack when the characters approa
 - [x] Trivial (50 XP)4
 
 Creatures:
- - 1: [[Glass-Guardian|Glass Guardian]]
- - 2: [[Glass-Guardian-Nestling|Glass Guardian Nestling]]
+ - 1: [[glass-guardian|Glass Guardian]]
+ - 2: [[glass-guardian-nestling|Glass Guardian Nestling]]
 
 ```encounter
 name: Glass Guardian Attack
@@ -149,8 +149,8 @@ The nestlings will climb nearby spires to reach positions where they can use spi
 - [x] Moderate (110 XP)
 
 Creatures:
- - 1: [[Shard-Slave|Shard Slave]]
- - 4: [[Glass-Guardian|Glass Guardian]]
+ - 1: [[shard-slave|Shard Slave]]
+ - 4: [[glass-guardian|Glass Guardian]]
 
 ```encounter
 name: Shard Slave

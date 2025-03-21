@@ -1,6 +1,6 @@
 ---
 title: The Slaver's Stone
-adventure_status: Not Started
+adventure_status: In Progress
 adventure_level: 10
 total_xp: 780
 completed_xp: 0
@@ -550,31 +550,30 @@ If combat breaks out, refer to the encounter.  However, if the heroes approach t
 > 
 > **Level:** 8 (40 xp)
 > **Complexity:** 1 (requires 4 successes before 3 failures)
-> **Primary Skills:**  Arcana, Bluff, Diplomacy, His- tory, Insight, special
+> **Primary Skills:**  [[skills#Arcana|Arcana]], [[skills#Deception|Deception]], [[skills#Diplomacy|Diplomacy]], [[skills#society|Society]], [[skills#Perception|Perception]], Special
 > **Secondary Skills:** [[skills#Intimidation|Intimidation]]
 > 
 > ### Primary Skills
-> **Skill One (DC 15, 1 success):** Description
+> **Arcana (DC 28, 1 success, maximum 1 success):** The character identifies the Chaotic influences in the dragon. A successful check, in addition to counting as a success, grants a +2 bonus to [[skills#Diplomacy|Diplomacy]] checks related to the challenge. 
 > 
-> **Skill Two (DC 15, 1 success):** Description
+> **Deception (DC 30, 1 success, maximum 4 successes):** The character lies about the reason for wanting the knowledge. or every 5 points by which the check succeeds, the character earns an extra success. Each failed check, in addition to counting as a failure, increases the DC for all skill checks related to the challenge by 2. 
 > 
-> **Skill Three (DC 15, 1 success):** Description
+> **Diplomacy (DC 25, 1 success, maximum 4 successes):** The character makes an impassioned plea to the dragon, explaining the information’s importance. For every 5 points by which the check succeeds, the character earns an extra success. 
 > 
-> **Skill Four (DC 15, 1 success):** Description
+> **Perception (DC 20, 1 success, maximum 1 success):** The character tries to ascertain the dragon’s desires. A success reveals the dragon is quite mad. A successful check, in addition to counting as a success, grants a +2 bonus to [[skills#diplomacy|Diplomacy]] checks related to the challenge. Success by 5 or more also reveals the dragon might accept a gift. 
+> 
+> **Society (DC 28, 1 success, maximum 1 success):** The character recalls some interesting historical tidbit of interest to the dragon. In addition to counting as a success, a successful check also removes 1 failure. 
+> 
+> **Special:** Offering the dragon a gift worth at least 400 gp grants 2 successes, with 1 additional success for each additional 100 gp of its value.
 > 
 > ### Secondary Skills
-> **Skill One (DC 15, 1 success):** The dragon does not respond to threats or bullying. Each attempted Intimidate check makes the dragon angrier and results in an automatic failure. 
-> 
-> **Skill Two (DC 15, 1 success):** Description
+> **Intimidate:** The dragon does not respond to threats or bullying. Each attempted Intimidate check makes the dragon angrier and results in an automatic failure
 > 
 > ### Success
-> Describe what happens on a success.
+> The dragon reveals useful information pertaining to the questions the characters put for ward.  If the characters succeed on the skill challenge without accumulating any failures, the dragon rewards the character with the highest Charisma score a boon ([[whispers-from-beyond|Whispers from Beyond]]).
 > 
 > ### Failure 
-> Describe what happens on failure.
-> 
-> ### Special
-> Describe anything special that occurs.
+> The dragon grows angry and attacks the heroes.
 
 ### Tactics
 The dragon drops her disguise, uses frightful presence, and then uses her breath weapon. The dragon then moves away, flying near the ceiling or near the island until breath weapon recharges. She uses melee attacks against any creature that closes on her.

@@ -322,6 +322,77 @@
         ],
         "sourcebook": "_Homebrew_"
       }
+    ],
+    [
+      "Primal Owlbear",
+      {
+        "columns": 2,
+        "forcecolumns": true,
+        "layout": "Basic Pathfinder 2e Layout",
+        "source": "HB",
+        "name": "Primal Owlbear",
+        "level": "Creature 10",
+        "alignment": "N",
+        "size": "Large",
+        "trait_03": "Animal",
+        "modifier": 16,
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "Perception +16; __low-light vision__, __imprecise scent 30__;"
+          }
+        ],
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "__Acrobatics__: +15 (1d20+15); __Athletics__: +22 (1d20+22); __Intimidation__: +19 (1d20+19); "
+          }
+        ],
+        "abilityMods": [
+          7,
+          3,
+          6,
+          -4,
+          5,
+          1
+        ],
+        "abilities_bot": [
+          {
+            "name": "Bloodcurdling Screech",
+            "desc": "⬻ (<STATBLOCK-WIKI-LINK>auditory<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>emotion<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>fear<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>mental<STATBLOCK-WIKI-LINK>);  The primal owlbear unleashes a loud screech that terrifies its prey. Each creature in an 80-foot emanation must attempt a DC 28 Will save. Regardless of the result, creatures are temporarily immune for 1 minute.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is <STATBLOCK-WIKI-LINK>rules/conditions.md#Frightened|frightened 1<STATBLOCK-WIKI-LINK>.\n__Failure__ The creature is <STATBLOCK-WIKI-LINK>rules/conditions.md#Frightened|frightened 2<STATBLOCK-WIKI-LINK>.\n__Critical Failure__ The creature is <STATBLOCK-WIKI-LINK>rules/conditions.md#Fleeing|fleeing<STATBLOCK-WIKI-LINK> for 1 round and <STATBLOCK-WIKI-LINK>rules/conditions.md#Frightened|frightened 3<STATBLOCK-WIKI-LINK>."
+          },
+          {
+            "name": "Gnaw",
+            "desc": "⬻ __Requirements__ The primal owlbear has a creature <STATBLOCK-WIKI-LINK>rules/conditions.md#Grabbed|grabbed<STATBLOCK-WIKI-LINK> with its talons.  __Effect__  The owlbear attempts to disembowel the creature with a beak <STATBLOCK-WIKI-LINK>Strike<STATBLOCK-WIKI-LINK>. If the <STATBLOCK-WIKI-LINK>Strike<STATBLOCK-WIKI-LINK> hits, the target must attempt a DC 30 Will save.\n__Critical Success__ The target is unaffected.\n__Success__ The target is <STATBLOCK-WIKI-LINK>rules/conditions.md#Sickened|sickened 1<STATBLOCK-WIKI-LINK>.\n__Failure__ The target is <STATBLOCK-WIKI-LINK>rules/conditions.md#Sickened|sickened 1<STATBLOCK-WIKI-LINK> and <STATBLOCK-WIKI-LINK>rules/conditions.md#Slowed|slowed 1<STATBLOCK-WIKI-LINK> as long as it remains <STATBLOCK-WIKI-LINK>rules/conditions.md#Sickened|sickened<STATBLOCK-WIKI-LINK>."
+          },
+          {
+            "name": "Screeching Advance",
+            "desc": "⬺ (<STATBLOCK-WIKI-LINK>auditory<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>emotion<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>fear<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>mental<STATBLOCK-WIKI-LINK>);  The primal owlbear makes a Bloodcurdling Screech and <STATBLOCK-WIKI-LINK>Stride|Strides<STATBLOCK-WIKI-LINK> twice. All creatures within 80 feet of the owlbear at any point during this movement are subjected to the effects of Bloodcurdling Screech."
+          }
+        ],
+        "speed": "25 feet",
+        "ac": 30,
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "30; __Fort__: +22 (1d20+22); __Ref__: +16 (1d20+16); __Will__: +19 (1d20+19);"
+          }
+        ],
+        "hp": 172,
+        "health": [
+          {
+            "name": "HP",
+            "desc": "172; "
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Melee",
+            "desc": "⬻ beak +23 __Damage__ 2d12+6 (2d12+6) piercing"
+          }
+        ],
+        "sourcebook": "_Homebrew_"
+      }
     ]
   ],
   "defaultLayouts": {

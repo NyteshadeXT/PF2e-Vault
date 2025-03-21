@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "8) Adventures/5A - The Slaver's Stone (D181).md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -48,23 +48,9 @@
               "icon": "lucide-file",
               "title": "DC Calculators"
             }
-          },
-          {
-            "id": "585b3f9ca7ee38b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4) Bestiary/party-npc/Cluff Maclire.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Cluff Maclire"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 294.5
   },
   "right": {
     "id": "c1e7f89698746211",
@@ -130,7 +116,7 @@
       {
         "id": "7f58ae8f958cd4d9",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 61.88725490196079,
         "children": [
           {
             "id": "9c066aefa3ef7e38",
@@ -242,7 +228,7 @@
       {
         "id": "d295670d03f2b3c8",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 38.11274509803921,
         "children": [
           {
             "id": "e8be87516aaf0898",
@@ -281,44 +267,44 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2170bc258840626a",
+  "active": "840bbd312e6c32ca",
   "lastOpenFiles": [
-    "4) Bestiary/unique-creatures/magrak-ironjaw.md",
-    "8) Adventures/5A - The Slaver's Stone (D181).md",
-    "4) Bestiary/party-npc/Zestren.md",
-    "4) Bestiary/party-npc/Cluff Maclire.md",
-    "8) Adventures/2G - The Crossroads (D176).md",
-    "7) Players/Winter.md",
-    "8) Adventures/8) Adventures.md",
-    "7) Players/Varas.md",
-    "7) Players/Mordak.md",
-    "7) Players/Ediza.md",
-    "8) Adventures/7A - Scarred for Life (D192).md",
-    "4) Bestiary/unique-creatures/Fool.md",
-    "4) Bestiary/unique-creatures/Keljack.md",
-    "4) Bestiary/unique-creatures/Slik.md",
-    "4) Bestiary/unique-creatures/Pramlan.md",
-    "4) Bestiary/4) Bestiary.md",
-    "4) Bestiary/bestiary-1/bestiary-1.md",
-    "4) Bestiary/unique-creatures/Kobold Boss - Zolgran.md",
-    "4) Bestiary/unique-creatures/Kodan.md",
-    "8) Adventures/6A - Rumble in the Valley (D193).md",
+    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
     "1) GM Screen/DC Calculators.md",
+    "8) Adventures/7A - Scarred for Life (D192).md",
+    "8) Adventures/6A - Rumble in the Valley (D193).md",
+    "8) Adventures/5A - The Slaver's Stone (D181).md",
+    "8) Adventures/2G - The Crossroads (D176).md",
+    "8) Adventures/Ambushed (See 5A).md",
+    "8) Adventures/Rescuing Riddle (See 5A).md",
+    "8) Adventures/7B - Reflections of Ruin (D196).md",
+    "zz-Attachments/7A - Scarred for Life _D192_-1742516106344.webp",
+    "zz-Attachments/image-2.png",
+    "zz-Attachments/image-1.png",
+    "4) Bestiary/homebrew/beholder-eye-tyrant.md",
+    "2) compendium/spells/fear.md",
+    "4) Bestiary/homebrew/gnoll-warfang.md",
+    "4) Bestiary/homebrew/gnoll-warleader.md",
+    "4) Bestiary/homebrew/gnoll-stalker.md",
     "4) Bestiary/homebrew/chaos-spwaned-merloc.md",
-    "2) Compendium/gm/hazards/Homebrew/the-crowd-hb.md",
+    "4) Bestiary/homebrew/beholder-gauth.md",
+    "4) Bestiary/homebrew/gnome-arcane-sneak.md",
+    "2) compendium/spells/slow.md",
+    "2) compendium/spells/slashing-gust.md",
+    "2) compendium/spells/shrink-item.md",
+    "2) compendium/spells/sleep.md",
+    "2) compendium/spells/disintegrate.md",
+    "2) compendium/spells/fear-the-sun-sot4.md",
+    "2) compendium/spells/fearful-feast-av3.md",
+    "2) compendium/spells/spells.md",
+    "2) compendium/spells/dispel-magic.md",
+    "zz-Attachments/beholder-eye-tyrant.webp",
     "zz-Attachments/Pasted image 20230608105514.png",
-    "6) NPCs/Restwell Keep/Ardia Ironleaf.md",
     "zz-Attachments/Crossroads Image.png",
-    "4) Bestiary/bestiary-1/aasimar-redeemer.md",
-    "8) Adventures/Completed/1F - Some Assembly Required (D208).md",
     "zz-Attachments/Cluff Maclire.webp",
     "zz-Attachments/Kendon Longstrider.png",
     "zz-Attachments/Balewin.webp",
     "zz-Attachments/Kataklysmos-Symbol.webp",
-    "zz-Attachments/4D - Stormcrow Tor (D169)-20240502100540234.webp",
-    "zz-Attachments/6A Rumble in the Valley.webp",
-    "zz-Attachments/6A Valley Sentries.webp",
-    "zz-Attachments/The Slavers Stone.webp",
     "Conditions",
     "4) Bestiary/party-npc",
     "Creature Family Ability Glossary"

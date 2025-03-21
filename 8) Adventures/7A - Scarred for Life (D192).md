@@ -2,7 +2,11 @@
 title: Scarred for Life
 adventure_status: Not Started
 adventure_level: 12
+total_xp: 250
+completed_xp: 0
 ---
+
+![[7A - Scarred for Life _D192_-1742516106344.webp|right]]
 
 # Background
 Four hundred years ago, a meteor collided with the world and left a nasty gash across the face of the Nentir Vale. Unbeknownst to anyone, the meteor also carried a passenger. An ancient beholder thought that it could hitch a ride on the meteor and touch down on a new world ripe for conquest. To survive the long journey, the beholder wrapped itself in a protective coating of crystal (using a unique version of the Stasis Shell ritual, presented in Dragon 366) and rode the meteor through the depths of space. 
@@ -16,7 +20,6 @@ Now a well-known outlaw, Keljack recently discovered that his body is infused wi
 Keljack has resolved to undertake an expedition deeper into the Scar, and to attract hirelings he has spread word of a grand treasure hunt. He and Fool are going to meet with a pair of notable bandit leaders and decide which of those groups best suits their needs.
 
 # Running the Adventure
-
 When the adventure starts, the heroes find them selves in one of two situations.
 
 **Meeting the Blades** Some inexperienced adventurers calling themselves Bathram’s Blades are at the Slumbering Giant in Restwell Keep celebrating their return from their first expedition into the Chaos Scar. Between drunken tales of their exploits, the Blades talk about the close call they had with the outlaw Keljack and his new ogre sidekick, Fool. The two were seen on the southern edge of the King’s Wall about a week ago as the Blades traveled away from the Scar, and they might still be in the area. 
@@ -70,6 +73,16 @@ At first, the beholder railed against its imprisonment. The stasis shell that ke
 
 The beholder sensed when Keljack neared the Scar on his first expedition, and along the connection between itself and Keljack, it was able to perceive an image of the outlaw. Now most of its gnolls roam the Scar under specific orders to capture Keljack and bring him to the crystal.
 
+> [!infobox]
+> # Dead or Alive
+> If the adventurers capture Keljack and Fool, the two outlaws do their best to convince the adventurers to help them solve the mystery of Keljack’s scar. Keljack lies, persuades, and makes outlandish promises if he thinks it will do him any good; he has about 1,000 gp hidden in various locations around the Nentir Vale, though he’d rather not give it all up at once. 
+> <br>
+> Fool, for his part, talks of his enslaved tribe and argues cogently (dropping, whenever convenient, the “dumb ogre” act) for his and Keljack’s release. 
+> <br>
+> If the heroes insist on holding the outlaws captive, Fool’s ability to get out of certain kinds of restraining effects could come into play. If Keljack and the ogre manage to win free, the adventure continues just as it would have if the outlaws had escaped the inn. 
+> <br>
+> If the adventurers are determined and skilled enough to keep Keljack and Fool under arrest, later to be hanged for their crimes, it is ultimately up to you if the story of Keljack ends here.
+> 
 ## Encounter 1: Delicate Negotiations
 At the start of the encounter, place the following foes on the map: 
  - 1: [[Keljack]] K
@@ -139,61 +152,139 @@ If the adventurers try to put Keljack under arrest he will not resist, but will 
 > ### Failure 
 > The party is attacked by a group of gnolls in service to the trapped beholder. The gnolls have orders to capture Keljack and bring him to the stasis crystal (if he is present), or to kill any who approach the area of the crystal (if Keljack is traveling ahead of the characters). Go to Encounter 3.
 
-# Encounter 3: The Stream
+## Encounter 3: The Stream
 **Encounter Difficulty:**   
-- [ ] difficulty (xxx XP) Level xxx
+- [ ] severe (110 XP) Level 12
 
-![[image.png]]
+![[image-2.png]]
 
 At the start of the encounter, place the following foes on the map: 
- - 2: [[BadGuy1]] W
- - 2: [[BadGuy2]] H
+ - 2: [[gnoll-stalker|Gnoll Stalker]] S
+ - 1: [[gnoll-warleader|Gnoll Warleader]] W
+ - 2: [[primal-owlbear|Primal Owlbear]]
 
 ```encounter
-name: EncounterName
+name: The Stream
 party: Chaos Scar
 creatures:
-- 2: [[Badguy1]] 
-- 2: [[Badguy2]]
+- 2: [[Gnoll Stalker]] 
+- 1: [[Gnoll Warleader]]
+- 2: [[Primal Owlbear]]
 ```
 
-Keljack knows that the source of his feeling is in the primeval forest beyond the stream. The adven- turers arrive here in his company, or close behind him, depending on their actions throughout the adventure.
-The gnoll pack lord and the third trained owlbear are present only if the adventurers accompany Kel- jack and Fool.
+Keljack knows that the source of his feeling is in the primeval forest beyond the stream. The adventurers arrive here in his company, or close behind him, depending on their actions throughout the adventure.
+
+The gnoll warleader is resent only if the adventurers accompany Keljack and Fool.
+
 When the adventurers arrive at the stream, read:
-A fast-running stream rushes from a nearby beaver dam. The trail leads to a shallow crossing before resuming on the other side.
+> [!note]+ Read Aloud
+> A fast-running stream rushes from a nearby beaver dam. The trail leads to a shallow crossing before resuming on the other side.
+
 Gnolls in service to the trapped beholder patrol this crossing with several trained owlbears. They have slain the beavers that built this dam and now ambush any creatures crossing the stream.
-If the adventurers are pursuing Keljack, the out- laws were ambushed by the gnolls as they crossed the stream. Fool escaped, but Keljack was captured and is being taken to the beholder by the gnoll pack lord and one of the trained owlbears. The rest of the gnolls and the owlbears are lounging in the open, not expecting another group of trespassers so soon.
-If the adventurers and Keljack are traveling together, then the gnolls and the owlbears are hiding
-in the bushes across the stream, and the adventurers can spot them with a DC 22 Perception check. With a DC 16 Perception check, an adventurer notices numerous tracks, large and small, crisscrossing the trail on the other side of the stream.
 
+If the adventurers are pursuing Keljack, the outlaws were ambushed by the gnolls as they crossed the stream. Fool escaped, but Keljack was captured and is being taken to the beholder by the gnoll warleader and one of the trained owlbears. The rest of the gnolls and the owlbears are lounging in the open, not expecting another group of trespassers so soon.
 
-## Tactics
-If the monsters are encountered in the open, they take cover in the bushes and try to draw the adven- turers across the stream before destroying the dam.
-If the monsters are in hiding, they try to ambush the first adventurer who steps past the flood line on their side of the stream. The pack lord then attempts to push the boulder into the dam, destroying it in hopes of separating the party.
+If the adventurers and Keljack are traveling together, then the gnolls and the owlbears are hiding in the bushes across the stream, and the adventurers can spot them with a DC 28 Perception check. With a DC 32 Perception check, an adventurer notices numerous tracks, large and small, crisscrossing the trail on the other side of the stream.
+
+### Tactics
+If the monsters are encountered in the open, they take cover in the bushes and try to draw the adventurers across the stream before destroying the dam.
+
+If the monsters are in hiding, they try to ambush the first adventurer who steps past the flood line on their side of the stream. The warleader then attempts to push the boulder into the dam, destroying it in hopes of separating the party.
+
 The gnolls have been instructed to kill any creature except Keljack that tries to enter the area. The gnolls fight to the death. If no gnolls are alive to direct them, the owlbears flee when bloodied.
 
-## Features of the Area
-Illumination: Bright light during the day or dim light at night.
-Beaver Dam: The gnolls have removed key pieces of the dam so that it will fall apart when hit by the boulder. An adventurer can balance on the dam with a DC 16 Acrobatics check.
-Boulder: The boulder is perched on a steep rise over the dam and can be pushed into the dam with a DC 16 Strength check as a standard action. 
-Bushes: The thick bushes on the other side of 
-the trail are difficult terrain and provide partial concealment.
-Crossing: The crossing is difficult terrain.
-Flood: If the dam breaks, creatures between the flood lines must make a DC 16 Strength check or be pushed 2d4 squares downstream.
-Flood Line: The white dotted lines on the map indicate the level to which the water rises if the dam breaks.
-Pond: The pond is deep but placid (DC 10 Athlet- ics check to swim).
-Stream: A character must make a DC 15 Athletics check to swim in the stream. If it is in flood, swimming the stream becomes a DC 20 Athletics check.
-Trees: The trees are 20 feet tall and provide partial concealment to any creature beneath their branches. The trunks can be climbed with a DC 15 Athletics check. A creature pushed downstream can make a saving throw to catch the adjacent trunk or the branches of any tree it passes. If the saving throw succeeds, the forced movement ends.
+### Features of the Area
+**Illumination:** Bright light during the day or dim light at night.
+**Beaver Dam:** The gnolls have removed key pieces of the dam so that it will fall apart when hit by the boulder. An adventurer can balance on the dam with a DC 26 Acrobatics check.
+**Boulder:** The boulder is perched on a steep rise over the dam and can be pushed into the dam with a DC 130 [[skills#Athletics|Athletics]] check as a standard action. 
+**Bushes:** The thick bushes on the other side of the trail are difficult terrain and provide partial concealment.
+**Crossing:** The crossing is difficult terrain.
+**Flood:** If the dam breaks, creatures between the flood lines must make a DC 28 [[skills#Athletics|Athletics]]  check or be pushed 2d4 squares downstream.
+**Flood Line:** The white dotted lines on the map indicate the level to which the water rises if the dam breaks.
+**Pond:** The pond is deep but placid (DC 20 [[skills#Athletics|Athletics]] check to swim).
+**Stream:** A character must make a DC 24 [[skills#Athletics|Athletics]] check to swim in the stream. If it is in flood, swimming the stream becomes a DC 32 [[skills#Athletics|Athletics]] check.
+**Trees:** The trees are 20 feet tall and provide partial concealment to any creature beneath their branches. The trunks can be climbed with a DC 25 [[skills#athletics|Athletics]] check. A creature pushed downstream can make a saving throw to catch the adjacent trunk or the branches of any tree it passes. If the saving throw succeeds, the forced movement ends.
 
+## Encounter 4: An End to Madness
+**Encounter Difficulty:**   
+- [ ] severe (100 XP) Level 12
 
+![[image-1.png]]
 
+At the start of the encounter, place the following foes on the map: 
+ - 1: [[beholder-eye-tyrant|Beholder Eye Tyrant]] W
+ - 2: [[gnoll-stalker|Gnoll Stalker]]
 
+```encounter
+name: An End to Madness
+party: Chaos Scar
+creatures:
+- 1: [[Beholder Eye Tyrant]] 
+- 2: [[Gnoll Stalker]]
+```
 
-
-
-
-
-### The Ancient Forest
 Beyond the stream, the forest takes on a primeval look. The trees become larger, blotting out the sun, and the ground sinks into shallow swampland. The beholder’s stasis crystal landed here as the meteor tore its way into the Scar. Energy bleeding from the crystal has preserved this section of the forest as it was when the crystal landed.
 
-After the heroes have crossed or circumvented the stream, the adventure ends with Encounter 4: An End to Madness.
+The source of Keljack’s woes is the beholder’s stasis crystal. The presence of the missing bit of magic in Keljack’s body allows the beholder to finally emerge. 
+
+If the adventurers are pursuing Keljack, then the gnoll warleader and one trained owlbear from Encounter 3: The Stream are present, and they start adjacent to the crystal. 
+
+As the adventurers arrive, read the following: 
+> [!note]+ Read Aloud
+> A large, red crystal obelisk is embedded in a hillock amid this shallow swamp. Enormous trees rise from the waters, their branches weaving a dense canopy overhead. 
+
+If the adventurers arrive in Keljack’s company, they have the opportunity to prepare themselves for what ever happens when Keljack touches the crystal. 
+
+Keljack hasn’t come this far to turn around now. He can feel the magic singing in his body; he knows he needs to touch the crystal. Keljack starts the encounter adjacent to the crystal. Allow the players to place their characters and Fool around the map as they see fit. With time on their side, they can easily identify and avoid the squares of grasping bog. 
+
+If the adventurers are pursuing Keljack and succeeded in Encounter 2: Into the Scar, then they arrive as the gnoll warleader is dragging Keljack to the crystal and the beholder is being released. Fool enters the combat in the second round in an attempt to rescue Keljack. 
+
+If the adventurers failed Encounter 2: Into the Scar and Keljack got ahead of them or was captured, the party arrives as Keljack dies beneath the beholder’s deadly gaze. Fool witnesses Keljack’s death from the trees, panics, and flees into the depths of the Scar. 
+
+When Keljack is adjacent to the beholder or when he is killed, read: 
+> [!note]+ Read Aloud
+> Suddenly, in a flash of light, the shard flies from within Keljack’s body and reintegrates with the rest of the crystal. The stasis shell falls away in a shower of fragments, leaving a beholder hovering above the swamp and casting its gaze toward the nearest enemy. 
+
+### Tactics
+With typical arrogance, the beholder considers itself invincible against this party of adventurers. Defeat is inconceivable, and it does not retreat. 
+
+If the adventurers accompanied Keljack here, then he is knocked unconscious by the fragment leaving his body.  Fool will scoop him up and hide him in the nearby forest.  Fool will join the fight against the beholder if the heroes appear to be in trouble. If the characters pursued Keljack to this site, then he and Fool flee for their lives, leaving the adventurers and the beholder to work out their differences. 
+
+The gnolls are hiding in the woods watching and waiting.  Once the players engage the beholder, the emerge from the woods and join the battle.  The beholder doesn't really care about the gnolls and may catch then in it's various attacks.
+
+### Features of the Area
+**Illumination:** Dim light during the day, darkness at night. 
+**Dry Land:** Small hillocks of land emerge from the water and are normal terrain. 
+**Grasping Bog:** The white dotted lines on the map enclose squares of grasping bog. A grasping bog is difficult terrain. In addition, a creature that falls prone in a square of grasping bog is restrained and cannot stand up (save ends both). 
+**Stasis Crystal:** The beholder’s translucent stasis crystal is 10 feet in diameter and 10 feet tall (another 5 feet of its height is buried in the bog). The crystal is slippery (DC 30 [[skills#Athletics|Athletics]] check to climb). It is immune to damage, and it provides cover.
+**Swamp:** The ground beneath the shallow water is difficult terrain. An adventurer can drop prone in the water to gain partial cover against ranged attacks.
+**Trees:** The trees in this area (represented on the map by their trunks) spread their branches into a thick, interwoven canopy 20 feet above the swamp. The trees can be climbed vertically, and the canopy can be traversed horizontally, each with a DC 26 [[skills#Athletics|Athletics]] check. 
+
+> [!tip]+ Treasure
+> If the characters search the area where the crystal shattered, they find five large pieces that can be carried away. Each of these fragments is worth 500 gp to the right buyer. The wizard [[Ailwin]] in Restwell Keep would be especially interested.
+> 
+> - [ ] gp::1500
+
+## ConcludIng the Adventure 
+If Keljack and Fool survive at the party’s side, their fate is up to the adventurers. Keljack asks the adventurers if they would be willing to help free Fool’s tribe from the dragon Maluriath. The red dragon and the rest of Fool’s tribe appear in the next Chaos Scar adventure, “Reflections of Ruin” (Dungeon 194). 
+
+If Keljack and Fool flee the final encounter, the adventurers can attempt to hunt them down. If the outlaws are cornered, they fight until dead or unconscious (see the “Dead or Alive?” sidebar for more information). 
+
+If Keljack dies, Fool might attempt to enlist the adventurers’ aid to free his tribe from the dragon, depending on his relationship with the party. 
+
+In all cases, the death of the beholder lifts the madness from Keljack’s mind. He is free as never before to choose his own path in life, though he now ages at a normal rate. Perhaps, with the adventurers’ help, he can rise above the villainous identity he has forged for himself. 
+
+> [!tip]+ Treasure
+> If Keljack survives the fight with the beholder at the party’s side, he promises them 300 gp and a [[aeon-stone|Aeon Stone (Pink Rhomboid)]] from his personal stash once they leave the Scar. 
+> 
+> - [ ] gp::300
+> - [ ] permanent::[[aeon-stone|Aeon Stone (Pink Rhomboid)]] [ilvl::12] [gp::1900]
+
+If the adventurers turn them in to [[Lord Drysdale]] award them the promised 180 gp.
+
+
+
+
+
+
+

@@ -10,7 +10,7 @@
 
 **[conditions](conditions.md#Flat-Footed):** You are unable to focus your full attention on defense. You take a –2 circumstance penalty to AC.
 
-**[conditions](conditions.md#Frightened):** You are afflicted by [fear](fear.md). [conditions](conditions.md#Frightened) always includes a value. You take a status penalty on all your checks, DCs, and saving throws equal to this value. Unless noted otherwise, at the end of each of your turns, the value of your [conditions](conditions.md#Frightened) condition decreases by 1.
+**[conditions](conditions.md#Frightened):** You are afflicted by [fear](3)%20Rules/traits/fear.md). [conditions](conditions.md#Frightened) always includes a value. You take a status penalty on all your checks, DCs, and saving throws equal to this value. Unless noted otherwise, at the end of each of your turns, the value of your [conditions](conditions.md#Frightened) condition decreases by 1.
 
 ** [conditions](conditions.md#Grabbed):** You are held in place by another creature. You are immobile and [conditions](conditions.md#Flat-Footed) (-2 circumstance penalty to AC). If you attempt a [manipulate](manipulate.md) action while [conditions](conditions.md#Grabbed), you must succeed at a DC 5 flat check or you fail and the action is wasted.
 
