@@ -62,7 +62,7 @@ attacks:
   - name: ""
 
   - name: "Melee"
-    desc: "`pf2:1` Pseudopod +23 (reach 10 feet)\n__Damage__  2d10 + 14 bludgeoning plus improved-grab"
+    desc: "`pf2:1` Pseudopod +23 (reach 10 feet)\n__Damage__  `dice: 2d10+14` 2d10 + 14 bludgeoning plus improved-grab"
 
   - name: "[[Bestiary Ability Glossary/Engulf|Engulf]]"
     desc: "`pf2:2`  DC 29 Reflex check, 6d6 bludgeoning, [[Actions/Escape|Escape]] DC 29, Rupture 17\n\n* * *\n"

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/5A - The Slaver's Stone (D181).md",
-                "mode": "source",
+                "file": "8) Adventures/6A - Rumble in the Valley (D193).md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "5A - The Slaver's Stone (D181)"
+              "title": "6A - Rumble in the Valley (D193)"
             }
           },
           {
@@ -48,9 +48,37 @@
               "icon": "lucide-file",
               "title": "monster-hunter-variants"
             }
+          },
+          {
+            "id": "483ee638b2c1cb30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3) Rules/tables/party-treasure-by-level.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "party-treasure-by-level"
+            }
+          },
+          {
+            "id": "1f6661ce8aa6fbbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4) Bestiary/party-npc/Zeta Windsnap.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Zeta Windsnap"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -116,7 +144,7 @@
       {
         "id": "7f58ae8f958cd4d9",
         "type": "tabs",
-        "dimension": 61.88725490196079,
+        "dimension": 49.7093023255814,
         "children": [
           {
             "id": "9c066aefa3ef7e38",
@@ -228,7 +256,7 @@
       {
         "id": "d295670d03f2b3c8",
         "type": "tabs",
-        "dimension": 38.11274509803921,
+        "dimension": 50.2906976744186,
         "children": [
           {
             "id": "e8be87516aaf0898",
@@ -244,8 +272,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 529.5,
-    "collapsed": true
+    "width": 529.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,8 +294,61 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ec62640f440ca2e1",
+  "floating": {
+    "id": "195afd0efbea7191",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c0d7ebb8fe691578",
+        "type": "window",
+        "children": [
+          {
+            "id": "2762127376be9035",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "de068f6ea812e612",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {},
+                  "icon": "lucide-view",
+                  "title": "Player View"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 0,
+        "width": 768,
+        "height": 816,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "de068f6ea812e612",
   "lastOpenFiles": [
+    "8) Adventures/6A - Rumble in the Valley (D193).md",
+    "4) Bestiary/adventure-paths/Tar Ooze.md",
+    "4) Bestiary/party-npc/Zeta Windsnap.md",
+    "8) Adventures/Completed/3C - The Wayward Wyrmling (D182).md",
+    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+    "5) World/The Chaos Scar/Chaos Scar - Player View.md",
+    "zz-Attachments/Chaos Scar - Player View.jpg",
+    "4) Bestiary/monster-hunter-variants/monster-hunter-variants.md",
+    "3) Rules/tables/party-treasure-by-level.md",
+    "zz-Attachments/Pasted image 20230829165718.png",
+    "6) NPCs/Restwell Keep/Ardia Ironleaf.md",
+    "8) Adventures/Completed/4A - Glowstone Caverns (D177).md",
+    "zz-Attachments/Ardia Ironleaf.png",
+    "5) World/The Chaos Scar/Restwell Keep.md",
+    "8) Adventures/5A - The Slaver's Stone (D181).md",
+    "6) NPCs/Restwell Keep/Grace.md",
+    "zz-Attachments/Grace-20231217173120982.webp",
+    "1) GM Screen/Adventure Loot.md",
     "4) Bestiary/homebrew/S/shard-slave.md",
     "4) Bestiary/homebrew/T/tengu-inciter.md",
     "4) Bestiary/homebrew/S",
@@ -291,29 +371,11 @@
     "4) Bestiary/homebrew/tiefling-guard.md",
     "4) Bestiary/homebrew/D/duergar-miner.md",
     "4) Bestiary/homebrew/D/duergar-scout.md",
-    "4) Bestiary/homebrew/D/duergar-guard.md",
-    "4) Bestiary/homebrew/B/bugbear-warrior.md",
-    "4) Bestiary/homebrew/homebrew.md",
-    "zz-Templates/Markdown Templates/Combat Templates/Insert Encounter Note.md",
-    "1) GM Screen/DC Calculators.md",
-    "8) Adventures/7A - Scarred for Life (D192).md",
-    "8) Adventures/6A - Rumble in the Valley (D193).md",
-    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
-    "8) Adventures/5A - The Slaver's Stone (D181).md",
-    "8) Adventures/2G - The Crossroads (D176).md",
-    "8) Adventures/Ambushed (See 5A).md",
-    "8) Adventures/Rescuing Riddle (See 5A).md",
-    "8) Adventures/7B - Reflections of Ruin (D196).md",
     "zz-Attachments/7A - Scarred for Life _D192_-1742516106344.webp",
     "zz-Attachments/image-2.png",
     "zz-Attachments/image-1.png",
-    "4) Bestiary/homebrew/B/beholder-eye-tyrant.md",
     "zz-Attachments/beholder-eye-tyrant.webp",
     "zz-Attachments/Pasted image 20230608105514.png",
-    "zz-Attachments/Crossroads Image.png",
-    "zz-Attachments/Cluff Maclire.webp",
-    "zz-Attachments/Kendon Longstrider.png",
-    "zz-Attachments/Balewin.webp",
-    "zz-Attachments/Kataklysmos-Symbol.webp"
+    "zz-Attachments/Crossroads Image.png"
   ]
 }

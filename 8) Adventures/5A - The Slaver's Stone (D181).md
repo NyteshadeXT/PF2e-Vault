@@ -460,9 +460,9 @@ If asked about [[Zestren]], Cluff will share a crazy conversation he had with Ze
 > [!tip]+ Treasure
 > Magrak has a sack filled with coins that includes 58 gp, 97 sp and 24 cp.
 > 
-> - [ ] gp::58
-> - [ ] sp::97
-> - [ ] cp::24
+> - [x] gp::58
+> - [x] sp::97
+> - [x] cp::24
 
 ## Encounter 4: Guardians of the Skull
 - [ ] Trivial (95 XP) Level 10

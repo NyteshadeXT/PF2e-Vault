@@ -468,6 +468,13 @@
       "resultText": "1d20\n[11]",
       "timestamp": 1742171898125,
       "id": "hNmEcHwcO-xF"
+    },
+    {
+      "result": "17",
+      "original": "3d8",
+      "resultText": "3d8\n[7, 7, 3]",
+      "timestamp": 1742778805921,
+      "id": "l680RNgSVw3d"
     }
   ],
   "showDice": true,
