@@ -15,7 +15,7 @@ aliases: ["Venom Pouch"]
 
 - **Price** 40 gp
 - **Bulk** —; **Usage** affixed to a shield
-- **Activate** `pf2:0` interact; **Trigger** You use [[shield-block|Shield Block]] against an unarmed melee [[Strike]] or a [[Strike]] made by a non-reach melee weapon.
+- **Activate** `pf2:0` interact; **Trigger** You use [[shield-block|Shield Block]] against an unarmed melee [[strike]] or a [[strike]] made by a non-reach melee weapon.
 
 This small brown pouch contains the venom of a poisonous creature. When activated, the triggering creature must attempt a Fortitude save against DC 22. On a failed save, the creature takes `dice: 2d6` persistent poison damage.
 

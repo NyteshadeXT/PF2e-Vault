@@ -8,7 +8,7 @@ tags:
 aliases: ["Glowmetal Weapon"]
 ---
 # Glowmetal Weapon *Item 12+*  
-[uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
+[uncommon](uncommon.md)  
 
 - **Bulk** varies by weapon; **Usage** varies by weapon
 

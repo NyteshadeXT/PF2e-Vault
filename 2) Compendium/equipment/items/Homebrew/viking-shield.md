@@ -10,7 +10,7 @@ aliases:
 Source: Everything Shields
 ---
 # Viking Shield *Item 0*  
-[accessible](rules/traits/accessible.md "Item Trait")
+[accessible](accessible.md)
 
 - **Category** Medium
 - **Price** 1 gp

@@ -8,7 +8,7 @@ tags:
 aliases: ["Purified Glowmetal Weapon"]
 ---
 # Purified Glowmetal Weapon *Item 12+*  
-[precious](rules/traits/precious.md "Precious Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  
+[precious](precious.md)  [rare](rare.md)  
 
 ![[purified-glowmetal-weapon-20240702105224997.webp|right|500]]
 

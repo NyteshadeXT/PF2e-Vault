@@ -14,7 +14,7 @@ aliases:
   - Madstone
 ---
 # Madstone *Item 6*  
-[magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [transmutation](rules/traits/necromancy.md "Necromancy School Trait")  
+[magical](magical.md)  [rare](rare.md)  [transmutation](necromancy.md)  
 
 - **Bulk** L; **Usage** held in 1 hand
 - **Price**: 200 gp
@@ -24,7 +24,7 @@ This dully glowing lump of metal has a strange, oily texture. It heals wounds bu
 You can use the Madstone to restore 3d8+10 hit points and like an [[elixir-of-life|Elixir of Life]], to gain a +2 to saving throws against diseases and poisons for 10 minutes.
 
 > [!info]- GM Only
-> [cursed](rules/traits/cursed-gmg.md "Cursed Item Trait")  
+> [cursed](cursed-gmg.md)  
 > Whenever you activate the Madstone you suffer ([[conditions#clumsy|Clumsy]]) 2 until you take an 8 hour rest.
 
 ```ad-embed-ability

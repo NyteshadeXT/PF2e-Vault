@@ -2,14 +2,17 @@
 title: The Slaver's Stone
 adventure_status: In Progress
 adventure_level: 10
-total_xp: 780
-completed_xp: 0
+total_xp: 655
+completed_xp: 300
 awarded_pp: 0
-awarded_gp: 0
-awarded_sp: 0
-awarded_cp: 0
-awarded_permanent_items: 
+awarded_gp: 138
+awarded_sp: 97
+awarded_cp: 24
+awarded_permanent_items: []
 awarded_consumable_items:
+  - name: Healing Potion (Moderate)
+    ilvl: 6
+    gp: 50
 ---
 
 ![[The Slavers Stone.webp]]
@@ -200,7 +203,7 @@ Alternatively, cautious adventurers might try talking (or, they might beat the n
 > 
 > ### Failure 
 > If the failure comes before combat, the bandits attack. If it comes after, the adventurers learn the same information as above, but the bandits follow them and attack while the heroes are engaged against the harpies in Tactical Encounter 2: Dung and Feathers.
-- [ ] Challenge (20 XP)
+- [x] Challenge (15 XP)
 
 ## The Stone Forest
 The Stone Forest is not an actual forest but rather a collection of monoliths set here by people unknown for purposes unknown. Some claim they are teeth liberated from a primordial’s mouth by a deft swing of Moradin’s hammer. Curious origins aside, the Stone Forest is a popular roosting place for a band of harpies, who make it their business to torment folk coming and going from the Scar. Most locals tolerate their presence and bullying demands. Magrak is just such a local, and he offered one of his captives to silence the shrieking flock.

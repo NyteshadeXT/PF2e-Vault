@@ -36,31 +36,31 @@
             }
           },
           {
-            "id": "840bbd312e6c32ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4) Bestiary/monster-hunter-variants/monster-hunter-variants.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "monster-hunter-variants"
-            }
-          },
-          {
             "id": "483ee638b2c1cb30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3) Rules/tables/party-treasure-by-level.md",
-                "mode": "preview",
+                "file": "8) Adventures/7B - Reflections of Ruin (D196).md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "party-treasure-by-level"
+              "title": "7B - Reflections of Ruin (D196)"
+            }
+          },
+          {
+            "id": "1ff4192499177dbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1) Notes & In Progress Work/Untitled.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
       {
         "id": "7f58ae8f958cd4d9",
         "type": "tabs",
-        "dimension": 49.7093023255814,
+        "dimension": 47.77131782945737,
         "children": [
           {
             "id": "9c066aefa3ef7e38",
@@ -231,16 +231,6 @@
             }
           },
           {
-            "id": "90bc4097cdd9e70b",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
             "id": "c82596998b56b355",
             "type": "leaf",
             "state": {
@@ -249,6 +239,16 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "c3f4426d49d23268",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
         ],
         "currentTab": 5
@@ -256,7 +256,7 @@
       {
         "id": "d295670d03f2b3c8",
         "type": "tabs",
-        "dimension": 50.2906976744186,
+        "dimension": 52.22868217054264,
         "children": [
           {
             "id": "e8be87516aaf0898",
@@ -272,7 +272,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 529.5
+    "width": 529.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -320,62 +321,62 @@
           }
         ],
         "direction": "vertical",
-        "x": 768,
-        "y": 0,
-        "width": 768,
-        "height": 816,
+        "x": 288,
+        "y": 4,
+        "width": 1537,
+        "height": 1614,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "de068f6ea812e612",
+  "active": "ec62640f440ca2e1",
   "lastOpenFiles": [
-    "8) Adventures/6A - Rumble in the Valley (D193).md",
-    "4) Bestiary/adventure-paths/Tar Ooze.md",
-    "4) Bestiary/party-npc/Zeta Windsnap.md",
-    "8) Adventures/Completed/3C - The Wayward Wyrmling (D182).md",
-    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
-    "5) World/The Chaos Scar/Chaos Scar - Player View.md",
-    "zz-Attachments/Chaos Scar - Player View.jpg",
-    "4) Bestiary/monster-hunter-variants/monster-hunter-variants.md",
+    "1) Notes & In Progress Work/To Do List.md",
+    "1) Notes & In Progress Work/DC Calc Test.md",
+    "1) GM Screen/GM-Screen.md",
+    "1) GM Screen/DunGen (Random Dungeon Generator).md",
+    "1) GM Screen/DC Calculators.md",
     "3) Rules/tables/party-treasure-by-level.md",
-    "zz-Attachments/Pasted image 20230829165718.png",
-    "6) NPCs/Restwell Keep/Ardia Ironleaf.md",
-    "8) Adventures/Completed/4A - Glowstone Caverns (D177).md",
-    "zz-Attachments/Ardia Ironleaf.png",
-    "5) World/The Chaos Scar/Restwell Keep.md",
+    "8) Adventures/7B - Reflections of Ruin (D196).md",
+    "8) Adventures/6A - Rumble in the Valley (D193).md",
+    "4) Bestiary/party-npc/Zeta Windsnap.md",
+    "4) Bestiary/bestiary-1/frost-drake.md",
+    "8) Adventures/Completed/3C - The Wayward Wyrmling (D182).md",
+    "2) compendium/equipment/items/abadars-flawless-scale-logm.md",
+    "2) compendium/equipment/items/abysium-lotgb.md",
+    "2) compendium/equipment/items/abysium-weapon-lotgb.md",
+    "2) compendium/equipment/items/accompaniment-cloak-tv.md",
+    "2) compendium/equipment/items/8-round-magazine-tv.md",
+    "2) compendium/equipment/items/1A_Add_New_Items.md",
+    "2) compendium/equipment/items/Untitled.md",
+    "2) compendium/equipment/items/C",
+    "2) compendium/equipment/items/B",
+    "2) compendium/equipment/items/A",
+    "6) NPCs/Restwell Keep/Restwell Keep.md",
+    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+    "zz-Attachments/7B - Reflections of Ruin.webp",
+    "zz-Attachments/7B - Reflections of Ruin _D196_-1743353975095.webp",
+    "8) Adventures/2G - The Crossroads (D176).md",
     "8) Adventures/5A - The Slaver's Stone (D181).md",
-    "6) NPCs/Restwell Keep/Grace.md",
-    "zz-Attachments/Grace-20231217173120982.webp",
+    "4) Bestiary/monster-hunter-variants/monster-hunter-variants.md",
+    "8) Adventures/7A - Scarred for Life (D192).md",
     "1) GM Screen/Adventure Loot.md",
-    "4) Bestiary/homebrew/S/shard-slave.md",
-    "4) Bestiary/homebrew/T/tengu-inciter.md",
+    "8) Adventures/Completed/6B - The Radiant Morn (D183).md",
+    "zz-Attachments/Chaos Scar - Player View.jpg",
+    "zz-Attachments/Pasted image 20230829165718.png",
+    "zz-Attachments/Ardia Ironleaf.png",
+    "zz-Attachments/Grace-20231217173120982.webp",
     "4) Bestiary/homebrew/S",
-    "4) Bestiary/homebrew/P/primal-owlbear.md",
     "4) Bestiary/homebrew/T",
     "4) Bestiary/homebrew/R",
-    "4) Bestiary/homebrew/O/orc-raider.md",
     "4) Bestiary/homebrew/P",
-    "4) Bestiary/homebrew/M/magma-hurler.md",
     "4) Bestiary/homebrew/O",
-    "4) Bestiary/homebrew/Untitled.md",
     "4) Bestiary/homebrew/N",
-    "4) Bestiary/homebrew/G/glass-guardian.md",
     "4) Bestiary/homebrew/M",
-    "4) Bestiary/homebrew/D/duergar-shocktrooper.md",
-    "4) Bestiary/homebrew/G",
-    "4) Bestiary/homebrew/G/gnoll-stalker.md",
-    "4) Bestiary/homebrew/D",
-    "4) Bestiary/homebrew/C",
-    "4) Bestiary/homebrew/tiefling-guard.md",
-    "4) Bestiary/homebrew/D/duergar-miner.md",
-    "4) Bestiary/homebrew/D/duergar-scout.md",
     "zz-Attachments/7A - Scarred for Life _D192_-1742516106344.webp",
     "zz-Attachments/image-2.png",
     "zz-Attachments/image-1.png",
-    "zz-Attachments/beholder-eye-tyrant.webp",
-    "zz-Attachments/Pasted image 20230608105514.png",
-    "zz-Attachments/Crossroads Image.png"
+    "zz-Attachments/beholder-eye-tyrant.webp"
   ]
 }

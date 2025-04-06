@@ -62,7 +62,7 @@ health:
 attacks:
   - name: Melee
     desc: "⬻ fangs +17 __Damage__ 2d12+8 (2d12+8) piercing plus 1d6 (1d6) cold"
-  - name: Melee
+  - name: Melee.
     desc: "⬻ tail +17 ([[reach|reach 10 feet]]); __Damage__ 2d10+8 (2d10+8) bludgeoning"
 
 sourcebook: "_Bestiary_, page 134."

@@ -14,7 +14,7 @@ aliases:
 # Order's Covenant *Item 7+*  
 ![[Order's Covenant.jpg|left|350]]
 [[Order's Covenant.jpg|Show to Players]]
-[unique](rules/traits/unique.md "Unique Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [lawful](rules/traits/lawful.md "Lawful Item Trait")  [evocation](rules/traits/evocation.md "Evocation Item Trait")  [relic](rules/traits/relic.md "Relic Item Trait") 
+[unique](unique.md)  [invested](invested.md)  [magical](magical.md)  [lawful](lawful.md)  [evocation](evocation.md)  [relic](rules/traits/relic.md "Relic Item Trait") 
 
 - **Aspects** law and battle
 - **Bulk** 1
@@ -24,7 +24,7 @@ aliases:
 
 Order's Covenant once belonged to a champion of Moradin,  Ivak Stoneblood.  Ivak made it his life's work to bring order to a chaotic world.  He defended many a dwarven stronghold from demonic invaders.  Upon Ivak's death the warhammer was interred with him and has lain dormant since.
 
-The hammer’s head is shaped like an anvil and the steel gleams with a bluish tint. Order's Covenant is a +1 [Striking](../striking.md) warhammer.
+The hammer’s head is shaped like an anvil and the steel gleams with a bluish tint. Order's Covenant is a +1 [Striking](striking.md) warhammer.
 
 ---
 ```ad-embed-ability
@@ -39,6 +39,6 @@ title: **Activate** [>>](Rules/core-rulebook/chapter-9-playing-the-game.md#Actio
 > **Gifts:** The relic grants the following gifts.
 > • 1: [[lawful-assault|Lawful Assault]]
 > • 2: [[tools-of-war|Tools of War]]
-> • 3: [[axiomatic|Axiomatic]]
+> • 3: [[axiomatic]]
 
 *Source: Homebrew*

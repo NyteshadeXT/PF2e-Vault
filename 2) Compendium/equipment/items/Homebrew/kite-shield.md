@@ -10,7 +10,7 @@ aliases:
 Source: Everything Shields
 ---
 # Kite Shield *Item 0*  
-[deflecting](rules/traits/deflecting-tv.md "Item Trait")
+[deflecting](deflecting-tv.md)
 
 - **Category** Medium
 - **Price** 5 gp

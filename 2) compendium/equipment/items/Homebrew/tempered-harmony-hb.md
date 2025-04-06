@@ -14,7 +14,7 @@ aliases:
 # Tempered Harmony *Item 7+*  
 ![[Tempered Harmony.jpg|right|500]]
 [[Tempered Harmony.jpg|Show to Players]]
-[unique](rules/traits/unique.md "Unique Item Trait")  [invested](rules/traits/invested.md "Invested Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [evocation](rules/traits/evocation.md "Evocation Item Trait")  [relic](rules/traits/relic.md "Relic Item Trait") 
+[unique](unique.md)  [invested](invested.md)  [magical](magical.md)  [evocation](evocation.md)  [relic](rules/traits/relic.md "Relic Item Trait") 
 
 - **Aspects** earth and plant
 - **Bulk** 1
@@ -24,7 +24,7 @@ aliases:
 
 Druid's understand the need for balance and harmony in nature.  They also understand that sometimes this must be achieved through battle.
 
-The tip of this weapon is made from perfectly honed stone.  It's handle is wooden and wrapped with sprouting vines.  Tempered Harmony is a +1 [Striking](../striking.md) spear.
+The tip of this weapon is made from perfectly honed stone.  It's handle is wooden and wrapped with sprouting vines.  Tempered Harmony is a +1 [Striking](striking.md) spear.
 
 ---
 ```ad-embed-ability

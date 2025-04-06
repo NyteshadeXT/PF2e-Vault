@@ -13,7 +13,7 @@ aliases: ["Shield Sheath"]
 - **Price** 1 gp
 - **Bulk** —; **Usage** applied to a shield
 
-You have added a bracket or sheath to your shield that allows you to stow your weapon. A weapon sheath can contain a single onehanded weapon whose bulk cannot exceed the bulk of the shield. When you draw your shield, if you have a free hand and there is a weapon in the shield's weapon sheath, you may draw that weapon with the same [[Interact]] action you use to draw the shield. Stowing a weapon in the sheath requires a single [[Interact]] action.
+You have added a bracket or sheath to your shield that allows you to stow your weapon. A weapon sheath can contain a single onehanded weapon whose bulk cannot exceed the bulk of the shield. When you draw your shield, if you have a free hand and there is a weapon in the shield's weapon sheath, you may draw that weapon with the same [[interact]] action you use to draw the shield. Stowing a weapon in the sheath requires a single [[interact]] action.
 
 This adjustment cannot be applied to a shield with the [[accessible]] trait.
 

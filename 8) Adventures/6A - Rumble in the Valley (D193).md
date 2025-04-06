@@ -2,8 +2,14 @@
 title: Rumble in the Valley
 adventure_status: Not Started
 adventure_level: 11
-total_xp: 425
-completed_xp: 0
+total_xp: 270
+completed_xp: 150
+awarded_pp: 0
+awarded_gp: 0
+awarded_sp: 0
+awarded_cp: 0
+awarded_permanent_items: []
+awarded_consumable_items: []
 ---
 ![[Rumble in the Valley.webp|right]]
 
@@ -56,7 +62,7 @@ If the adventurers take time to search more thoroughly, or decide to turn back, 
 
 ## Encounter 1: Between Rust and a Hard Place
 **Encounter Difficulty:** 
-- [ ] Low (60 XP) Level 11
+- [x] Low (60 XP) Level 11
 
 ![[6A - Rumble in the Valley (D193)-20240820111648698.webp]]
 
@@ -103,11 +109,11 @@ The gelatinous cube was prodded into place to prevent an early exit. It spends t
 ### Features of the Area
 **Light:** Torches along the walls of the farther cavern shed bright light.
 
-Ardia (D): The elf has been tortured and will die in a few rounds if she is not tended to. Anyone adjacent to her can make a DC 29 [[skills#Medicine|Medicine]] check to stabilize her. Using a healing power on Ardia automatically stabilize her. Otherwise, she makes a death saving throw at the end of each round and dies after three failures. Even if stabilized, Ardia barely clings to life and is unconscious for the remainder of the adventure. Rescuing Ardia fulfills a minor quest.
+**Ardia (D):** The elf has been tortured and will die in a few rounds if she is not tended to. Anyone adjacent to her can make a DC 29 [[skills#Medicine|Medicine]] check to stabilize her. Using a healing power on Ardia automatically stabilize her. Otherwise, she makes a death saving throw at the end of each round and dies after three failures. Even if stabilized, Ardia barely clings to life and is unconscious for the remainder of the adventure. Rescuing Ardia fulfills a minor quest.
 
 
 **QUEST: Cavern Rescue (Minor Quest)** 
-- [ ] Low (30 XP) Level 11
+- [x] Low (30 XP) Level 11
 Returning Ardia to town alive earns the characters the quest reward.
 
 ## Encounter 2: Tunnels of Terror
@@ -273,7 +279,7 @@ Each group must deal with two of the obstacles laid out by the Talons, represent
 > **Time Frame:** Each character can make a skill check in this challenge once per minute.
 > **Primary Skills:**  [[skills#Acrobatics|Acrobatics]], [[skills#Crafting|Crafting]], [[skills#Thievery|Thievery]]
 > **Secondary Skills:** [[skills#Athletics|Athletics]], [[skills#Perception|Perception]]
-> **Special:** After a character makes any skill check, the traps attack that character. Attack: `pf2e:1` `dice: 1d20+21` +21 vs. AC. Hit: `dice: 2d8+6` 2d8 + 6 damage.
+> **Special:** After a character makes any skill check, the traps attack that character. Attack: `pf2:1` `dice: 1d20+21` +21 vs. AC. Hit: `dice: 2d8+6` 2d8 + 6 damage.
 > 
 > ### Primary Skills
 > **Acrobatics (DC 29, 1 success):** The character dodges, slides, and weaves past the deadly traps.
@@ -313,7 +319,7 @@ Each group must deal with two of the obstacles laid out by the Talons, represent
 
 # Encounter 3: Valley Sentries
 **Encounter Difficulty:**   
-- [ ] Low (60 XP) Level 11
+- [x] Low (60 XP) Level 11
 
 ![[6A Valley Sentries.webp]]
 
@@ -404,6 +410,9 @@ creatures:
 - 1: {{Primpel}}
 - 1: [[Slik]]
 ```
+
+Duragar - 40
+Duragar - 20
 
 Remaining creatures should be level 9.
 

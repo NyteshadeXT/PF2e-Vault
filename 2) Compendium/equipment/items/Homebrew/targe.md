@@ -10,7 +10,7 @@ aliases:
 Source: Everything Shields
 ---
 # Targe *Item 0*  
-[shield finesse](rules/traits/shield-finesse.md "Item Trait")
+[shield finesse](shield-finesse.md)
 
 - **Category** Light
 - **Price** 2 sp

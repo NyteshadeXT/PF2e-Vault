@@ -13,7 +13,7 @@ aliases: ["Happy Healper"]
 # Happy Healper *Item 8*  
 ![[Happy Healper.png|right|500]]
 [[Happy Healper.png|Show to Players]]
-[consumable](rules/traits/consumable.md "Consumable Item Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [rare](rules/traits/rare.md "Rare School Trait") 
+[consumable](consumable.md)  [magical](magical.md)  [necromancy](necromancy.md)  [rare](rare.md) 
 
 - **Price** 95 gp
 - **Bulk** 1; **Usage** held in 1 hand
@@ -25,9 +25,9 @@ As an action while you hold the healper, you can speak the command phrase “Hea
 
 The healper has one action per round and takes its turn immediately after the creature who summoned it. The summoner, as an action, can give it one of the following instructions:
 
-- 0 charges: [[stabilize|Stabilize]] [[heal|Heal]]
-- 1 charge: [[heal|Heal]] 2nd-level, [[restoration|Restoration]] , [[restore-senses|Restore Senses]] 
-- 2 charges: [[heal|Heal]] 3rd-level, [[remove-disease|Remove Disease]]
+- 0 charges: [[stabilize]] [[heal]]
+- 1 charge: [[heal]] 2nd-level, [[restoration]] , [[restore-senses|Restore Senses]] 
+- 2 charges: [[heal]] 3rd-level, [[remove-disease|Remove Disease]]
 
 ---
 *Source: Homebrew*
