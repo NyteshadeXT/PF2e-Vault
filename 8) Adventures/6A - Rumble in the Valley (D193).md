@@ -3,13 +3,13 @@ title: Rumble in the Valley
 adventure_status: Not Started
 adventure_level: 11
 total_xp: 270
-completed_xp: 150
+completed_xp: 190
 awarded_pp: 0
 awarded_gp: 0
 awarded_sp: 0
 awarded_cp: 0
-awarded_permanent_items: []
-awarded_consumable_items: []
+awarded_permanent_items: 
+awarded_consumable_items: 
 ---
 ![[Rumble in the Valley.webp|right]]
 
@@ -118,7 +118,7 @@ Returning Ardia to town alive earns the characters the quest reward.
 
 ## Encounter 2: Tunnels of Terror
 **Encounter Difficulty:** 
-- [ ] Moderate (40 XP) Level 11
+- [x] Moderate (40 XP) Level 11
 
 Kodan knows he can’t stand up to the adventurers at full strength. His goal is to weaken them as much as possible, perhaps eliminating one or two of them if he’s lucky. To that end, with the aid of Barulg’s construction and forging, and traps designed by Slik, he has laid out the tunnels to harry and weaken the party. Kodan still needs a few adventurers to escape, however, so he can finish them off in view of those he’s trying to impress.
 
@@ -371,7 +371,7 @@ The ogre boss targets whoever looks the toughest in the party, preferring to att
 
 # Encounter 4: Rumble in the Valley
 **Encounter Difficulty:**   
-- [ ] Moderate (80 XP) Level 11
+- [x] Moderate (80 XP) Level 11
 
 ![[6A Rumble in the Valley.webp]]
 
@@ -407,7 +407,7 @@ creatures:
 - 1: [[Kodan]] 
 - 1: [[Barulg the Returned]]
 - 1: [[Linn]]
-- 1: {{Primpel}}
+- 1: [[Primpel]]
 - 1: [[Slik]]
 ```
 
@@ -415,8 +415,6 @@ Duragar - 40
 Duragar - 20
 
 Remaining creatures should be level 9.
-
-Monsters: Barulg, duergar/devil (B); Linn, doppelganger infiltra- tor (L); Primpel, bullywug priest of Elemental Evil (P); Slik, kobold trapsmith (S)
 
 The battle continues until only one group survives. Kodan has staked everything on this showdown, and the other Talons fight on no matter what. Showing weakness in the Chaos Scar is just as bad as losing.
 

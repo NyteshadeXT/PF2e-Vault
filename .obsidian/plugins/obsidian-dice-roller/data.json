@@ -475,6 +475,97 @@
       "resultText": "3d8\n[7, 7, 3]",
       "timestamp": 1742778805921,
       "id": "l680RNgSVw3d"
+    },
+    {
+      "result": "2",
+      "original": "1d6",
+      "resultText": "1d6\n[2]",
+      "timestamp": 1744587410609,
+      "id": "WTZwcyf5OnAn"
+    },
+    {
+      "result": "19",
+      "original": "1d20",
+      "resultText": "1d20\n[19]",
+      "timestamp": 1744587582149,
+      "id": "ZfTqQzChcLBU"
+    },
+    {
+      "result": "20",
+      "original": "1d20",
+      "resultText": "1d20\n[20]",
+      "timestamp": 1744588070398,
+      "id": "-7IEhYqvALyC"
+    },
+    {
+      "result": "5",
+      "original": "1d20",
+      "resultText": "1d20\n[5]",
+      "timestamp": 1744588144773,
+      "id": "qXBvV0Q7X3EF"
+    },
+    {
+      "result": "1",
+      "original": "1d20",
+      "resultText": "1d20\n[1]",
+      "timestamp": 1744588200343,
+      "id": "R41LblyG6-1g"
+    },
+    {
+      "result": "18",
+      "original": "1d20",
+      "resultText": "1d20\n[18]",
+      "timestamp": 1744588303534,
+      "id": "uY4Z6sv_HW0t"
+    },
+    {
+      "result": "6",
+      "original": "1d20",
+      "resultText": "1d20\n[6]",
+      "timestamp": 1744588315756,
+      "id": "mmcGDzIc1uPQ"
+    },
+    {
+      "result": "19",
+      "original": "1d20",
+      "resultText": "1d20\n[19]",
+      "timestamp": 1744588320489,
+      "id": "iuvpjb1ofWxN"
+    },
+    {
+      "result": "17",
+      "original": "1d20",
+      "resultText": "1d20\n[17]",
+      "timestamp": 1744588681343,
+      "id": "-yfnEIcgyKUA"
+    },
+    {
+      "result": "17",
+      "original": "4d6",
+      "resultText": "4d6\n[5, 1, 5, 6]",
+      "timestamp": 1744589502768,
+      "id": "xgDRvAcLp1Ae"
+    },
+    {
+      "result": "3",
+      "original": "1d6",
+      "resultText": "1d6\n[3]",
+      "timestamp": 1744589818584,
+      "id": "J8x3wcNP6qJO"
+    },
+    {
+      "result": "20",
+      "original": "2d10+8",
+      "resultText": "2d10+8\n[5, 7]+8",
+      "timestamp": 1744590673347,
+      "id": "FF3puc4PN03H"
+    },
+    {
+      "result": "2",
+      "original": "1d20",
+      "resultText": "1d20\n[2]",
+      "timestamp": 1744591512060,
+      "id": "Yso0a8_7BdTE"
     }
   ],
   "showDice": true,

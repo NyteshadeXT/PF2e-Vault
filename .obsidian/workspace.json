@@ -22,45 +22,17 @@
             }
           },
           {
-            "id": "2170bc258840626a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8) Adventures/6A - Rumble in the Valley (D193).md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "6A - Rumble in the Valley (D193)"
-            }
-          },
-          {
             "id": "483ee638b2c1cb30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/7B - Reflections of Ruin (D196).md",
-                "mode": "source",
+                "file": "8) Adventures/7A - Scarred for Life (D192).md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "7B - Reflections of Ruin (D196)"
-            }
-          },
-          {
-            "id": "1ff4192499177dbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1) Notes & In Progress Work/Untitled.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "7A - Scarred for Life (D192)"
             }
           },
           {
@@ -78,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -272,8 +244,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 529.5,
-    "collapsed": true
+    "width": 529.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -296,19 +267,19 @@
     }
   },
   "floating": {
-    "id": "195afd0efbea7191",
+    "id": "640c2a3cf39dc3c4",
     "type": "floating",
     "children": [
       {
-        "id": "c0d7ebb8fe691578",
+        "id": "aff7a8685925e4f7",
         "type": "window",
         "children": [
           {
-            "id": "2762127376be9035",
+            "id": "f1d8103d1fcd5629",
             "type": "tabs",
             "children": [
               {
-                "id": "de068f6ea812e612",
+                "id": "b17da8d0a08da060",
                 "type": "leaf",
                 "state": {
                   "type": "initiative-tracker-player-view",
@@ -321,26 +292,64 @@
           }
         ],
         "direction": "vertical",
-        "x": 288,
-        "y": 4,
-        "width": 1537,
-        "height": 1614,
+        "x": 4096,
+        "y": -216,
+        "width": 640,
+        "height": 672,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "77da39f48b017b1f",
+        "type": "window",
+        "children": [
+          {
+            "id": "94621c3910eeaef3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "951c8e3154c4ce34",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "zz-Attachments/Chaos Scar - Player View.jpg"
+                  },
+                  "icon": "lucide-image",
+                  "title": "Chaos Scar - Player View"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 8,
+        "width": 1024,
+        "height": 800,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "ec62640f440ca2e1",
+  "active": "483ee638b2c1cb30",
   "lastOpenFiles": [
+    "zz-Attachments/7A - Scarred for Life _D192_-1742516106344.webp",
+    "8) Adventures/7A - Scarred for Life (D192).md",
+    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+    "8) Adventures/6A - Rumble in the Valley (D193).md",
+    "4) Bestiary/party-npc/Zeta Windsnap.md",
+    "5) World/The Chaos Scar/Chaos Scar - Player View.md",
+    "zz-Attachments/Chaos Scar - Player View.jpg",
+    "8) Adventures/7B - Reflections of Ruin (D196).md",
+    "4) Bestiary/unique-creatures/Barulg the Returned.md",
+    "1) Notes & In Progress Work/Untitled.md",
+    "1) GM Screen/DC Calculators.md",
     "1) Notes & In Progress Work/To Do List.md",
     "1) Notes & In Progress Work/DC Calc Test.md",
     "1) GM Screen/GM-Screen.md",
     "1) GM Screen/DunGen (Random Dungeon Generator).md",
-    "1) GM Screen/DC Calculators.md",
     "3) Rules/tables/party-treasure-by-level.md",
-    "8) Adventures/7B - Reflections of Ruin (D196).md",
-    "8) Adventures/6A - Rumble in the Valley (D193).md",
-    "4) Bestiary/party-npc/Zeta Windsnap.md",
     "4) Bestiary/bestiary-1/frost-drake.md",
     "8) Adventures/Completed/3C - The Wayward Wyrmling (D182).md",
     "2) compendium/equipment/items/abadars-flawless-scale-logm.md",
@@ -354,16 +363,9 @@
     "2) compendium/equipment/items/B",
     "2) compendium/equipment/items/A",
     "6) NPCs/Restwell Keep/Restwell Keep.md",
-    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
     "zz-Attachments/7B - Reflections of Ruin.webp",
     "zz-Attachments/7B - Reflections of Ruin _D196_-1743353975095.webp",
     "8) Adventures/2G - The Crossroads (D176).md",
-    "8) Adventures/5A - The Slaver's Stone (D181).md",
-    "4) Bestiary/monster-hunter-variants/monster-hunter-variants.md",
-    "8) Adventures/7A - Scarred for Life (D192).md",
-    "1) GM Screen/Adventure Loot.md",
-    "8) Adventures/Completed/6B - The Radiant Morn (D183).md",
-    "zz-Attachments/Chaos Scar - Player View.jpg",
     "zz-Attachments/Pasted image 20230829165718.png",
     "zz-Attachments/Ardia Ironleaf.png",
     "zz-Attachments/Grace-20231217173120982.webp",
@@ -374,7 +376,6 @@
     "4) Bestiary/homebrew/O",
     "4) Bestiary/homebrew/N",
     "4) Bestiary/homebrew/M",
-    "zz-Attachments/7A - Scarred for Life _D192_-1742516106344.webp",
     "zz-Attachments/image-2.png",
     "zz-Attachments/image-1.png",
     "zz-Attachments/beholder-eye-tyrant.webp"

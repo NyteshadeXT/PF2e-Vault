@@ -57,7 +57,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ Warhammer +18 ([[reach]] 5 feet); __Damage__ `dice: 2d10+6` bludgeoning damage."
+    desc: "⬻ Warhammer +18 ([[reach]] 5 feet); __Damage__ `dice: 2d10+11` bludgeoning damage."
 equipment:
   - name: "Equipment"
     desc: " +1 striking warhammer, +1 resilient breastplate;"
