@@ -948,7 +948,7 @@ You affect the world around you primarily by using actions, which produce effect
 > 
 > [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action") Three-Action Activity
 > 
-> [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") Reaction
+> `pf2:r`(rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction") Reaction
 > 
 > [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action") Free Action
 

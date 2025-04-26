@@ -1,11 +1,11 @@
 ---
 noteType: pf2eMonster
-aliases: "Duergar Miner"
+aliases: "Proper Creature Name"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
 statblock: inline
-name: "Duergar Miner"
+name: "Proper Creature Name"
 level: 1
 ---
 

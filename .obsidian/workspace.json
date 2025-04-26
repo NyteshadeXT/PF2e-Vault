@@ -48,9 +48,51 @@
               "icon": "lucide-file",
               "title": "Zeta Windsnap"
             }
+          },
+          {
+            "id": "921490a797deb2b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8) Adventures/7D - Scarblade (D189).md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "7D - Scarblade (D189)"
+            }
+          },
+          {
+            "id": "d6ee03b6821c26a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2) Compendium/equipment/items/Homebrew/scarblade.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "scarblade"
+            }
+          },
+          {
+            "id": "ad81162337049d88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1) GM Screen/DC Calculators.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "DC Calculators"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -107,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 361.5
   },
   "right": {
     "id": "c1e7f89698746211",
@@ -266,118 +308,53 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "640c2a3cf39dc3c4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "aff7a8685925e4f7",
-        "type": "window",
-        "children": [
-          {
-            "id": "f1d8103d1fcd5629",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b17da8d0a08da060",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-player-view",
-                  "state": {},
-                  "icon": "lucide-view",
-                  "title": "Player View"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 4096,
-        "y": -216,
-        "width": 640,
-        "height": 672,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "77da39f48b017b1f",
-        "type": "window",
-        "children": [
-          {
-            "id": "94621c3910eeaef3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "951c8e3154c4ce34",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "zz-Attachments/Chaos Scar - Player View.jpg"
-                  },
-                  "icon": "lucide-image",
-                  "title": "Chaos Scar - Player View"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 8,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "483ee638b2c1cb30",
+  "active": "d6ee03b6821c26a1",
   "lastOpenFiles": [
-    "zz-Attachments/7A - Scarred for Life _D192_-1742516106344.webp",
-    "8) Adventures/7A - Scarred for Life (D192).md",
-    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
-    "8) Adventures/6A - Rumble in the Valley (D193).md",
-    "4) Bestiary/party-npc/Zeta Windsnap.md",
-    "5) World/The Chaos Scar/Chaos Scar - Player View.md",
-    "zz-Attachments/Chaos Scar - Player View.jpg",
-    "8) Adventures/7B - Reflections of Ruin (D196).md",
-    "4) Bestiary/unique-creatures/Barulg the Returned.md",
-    "1) Notes & In Progress Work/Untitled.md",
+    "2) Compendium/spells/spells.md",
+    "2) Compendium/spells/aberrant-form-som.md",
+    "2) Compendium/equipment/items/Homebrew/scarblade.md",
+    "8) Adventures/7D - Scarblade (D189).md",
     "1) GM Screen/DC Calculators.md",
-    "1) Notes & In Progress Work/To Do List.md",
-    "1) Notes & In Progress Work/DC Calc Test.md",
     "1) GM Screen/GM-Screen.md",
+    "1) GM Screen/weapon-traits-p.282-283.md",
+    "1) GM Screen/Skill-Actions-Cheat-Sheet.md",
+    "1) GM Screen/rules-reference.md",
     "1) GM Screen/DunGen (Random Dungeon Generator).md",
-    "3) Rules/tables/party-treasure-by-level.md",
-    "4) Bestiary/bestiary-1/frost-drake.md",
-    "8) Adventures/Completed/3C - The Wayward Wyrmling (D182).md",
-    "2) compendium/equipment/items/abadars-flawless-scale-logm.md",
-    "2) compendium/equipment/items/abysium-lotgb.md",
-    "2) compendium/equipment/items/abysium-weapon-lotgb.md",
-    "2) compendium/equipment/items/accompaniment-cloak-tv.md",
-    "2) compendium/equipment/items/8-round-magazine-tv.md",
-    "2) compendium/equipment/items/1A_Add_New_Items.md",
-    "2) compendium/equipment/items/Untitled.md",
+    "1) GM Screen/Conditions p.618-623.md",
+    "1) GM Screen/Adventure Loot.md",
+    "1) GM Screen/Actions Cheat Sheet.md",
+    "zz-Attachments/scarblade-1745590024276.webp",
+    "Untitled 1.md",
+    "2) Compendium/equipment/items/Homebrew/tempered-harmony-hb.md",
+    "2) Compendium/equipment/items/Homebrew/gravekeeper-bow.md",
+    "2) Compendium/equipment/equipment.md",
+    "8) Adventures/7C - Head in the Clouds (D184).md",
+    "4) Bestiary/unique-creatures/Morrn Bladeclaw.md",
+    "4) Bestiary/bestiary-1/ghost-commoner.md",
+    "4) Bestiary/party-npc/Zeta Windsnap.md",
+    "4) Bestiary/homebrew/P/pit-shadow.md",
+    "4) Bestiary/bestiary-1/bestiary-1.md",
+    "4) Bestiary/homebrew/S/savage-fiendblood-minotaur.md",
+    "4) Bestiary/homebrew/B/beholder-eye-tyrant.md",
+    "zz-Templates/Markdown Templates/Combat Templates/Creature New Creature.md",
+    "zz-Attachments/7D - Scarblade _D189_-1745509559353.webp",
+    "zz-Attachments/7D - Scarblade _D189_-1745509018613.webp",
+    "zz-Attachments/Vial of Entropic Ichor.webp",
+    "zz-Attachments/Crystal of Recursive Aberration.webp",
+    "zz-Attachments/Eye of Fractured Potential.webp",
+    "zz-Attachments/Chaos-Scarred Eye Tyrant.webp",
+    "zz-Attachments/7D - Scarblade _D189_-1745441774995.webp",
+    "zz-Attachments/Demonic Savage Minotaur.webp",
+    "4) Bestiary/rage-of-elements",
+    "4) Bestiary/New folder",
+    "zz-Attachments/7C - Head in the Clouds _D184_-1745417183582.webp",
+    "4) Bestiary/homebrew/F",
     "2) compendium/equipment/items/C",
     "2) compendium/equipment/items/B",
     "2) compendium/equipment/items/A",
-    "6) NPCs/Restwell Keep/Restwell Keep.md",
-    "zz-Attachments/7B - Reflections of Ruin.webp",
-    "zz-Attachments/7B - Reflections of Ruin _D196_-1743353975095.webp",
-    "8) Adventures/2G - The Crossroads (D176).md",
-    "zz-Attachments/Pasted image 20230829165718.png",
-    "zz-Attachments/Ardia Ironleaf.png",
-    "zz-Attachments/Grace-20231217173120982.webp",
     "4) Bestiary/homebrew/S",
     "4) Bestiary/homebrew/T",
     "4) Bestiary/homebrew/R",
-    "4) Bestiary/homebrew/P",
-    "4) Bestiary/homebrew/O",
-    "4) Bestiary/homebrew/N",
-    "4) Bestiary/homebrew/M",
-    "zz-Attachments/image-2.png",
-    "zz-Attachments/image-1.png",
-    "zz-Attachments/beholder-eye-tyrant.webp"
+    "4) Bestiary/homebrew/P"
   ]
 }

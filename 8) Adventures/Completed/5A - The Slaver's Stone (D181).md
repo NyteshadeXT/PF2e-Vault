@@ -1,6 +1,6 @@
 ---
 title: The Slaver's Stone
-adventure_status: In Progress
+adventure_status: Completed
 adventure_level: 10
 total_xp: 655
 completed_xp: 300
@@ -136,7 +136,7 @@ A gnoll band spills across the countryside to attack the adventurers. They are u
 
 - 4 [[gnoll-warfang|Gnoll Warfang]]
 - 2 [[gnoll-hunter|Gnoll Hunter]]
-- 4 [[hyena|Hyena]]
+- 4 [[Hyena]]
 
 ```encounter
 name: Howling Pack
@@ -175,7 +175,7 @@ When the characters approach the Crossroads, read:
 
 The Proud Boys gang camps near the trading post. They are cruel brigands who sometimes work with Magrak when he needs more muscle than his own team can provide. The bandits accompanied Magrak on his last expedition but split off from him to spend their pay at the trading post.
 
-The characters can beat the information they need from the brigands and, in fact, this might be the best approach. In that case, go to [[#Encounter 1 Local Color]].
+The characters can beat the information they need from the brigands and, in fact, this might be the best approach. In that case, go to [[#Encounter 1 Local Color|Encounter 1 Local Color]].
 
 Alternatively, cautious adventurers might try talking (or, they might beat the needed information from a captive after defeating the bandits). In that case, run the “Interrogating the Brigands” skill challenge. If parley occurs first, the bandit captain, a wily half-elf named Carrus, does the talking. Carrus is unpleasant, has a foul mouth, and a leering eye. Otherwise, the same information can come from any of the bandits. Characters gain a +2 bonus to Intimidate checks if they defeat the bandits first.
 
@@ -208,11 +208,11 @@ Alternatively, cautious adventurers might try talking (or, they might beat the n
 ## The Stone Forest
 The Stone Forest is not an actual forest but rather a collection of monoliths set here by people unknown for purposes unknown. Some claim they are teeth liberated from a primordial’s mouth by a deft swing of Moradin’s hammer. Curious origins aside, the Stone Forest is a popular roosting place for a band of harpies, who make it their business to torment folk coming and going from the Scar. Most locals tolerate their presence and bullying demands. Magrak is just such a local, and he offered one of his captives to silence the shrieking flock.
 
-The Stone Forest stands between the Slaver’s Stone and the Crossroads. The group can circumvent it easily, but trekking off the trail invites contact with other things haunting these parts (see “[[#On the Way]],” above, for possibilities). In any event, the heroes are bound to hear the shrieking cries and the shouted curses from their captive.
+The Stone Forest stands between the Slaver’s Stone and the Crossroads. The group can circumvent it easily, but trekking off the trail invites contact with other things haunting these parts (see “[[#On the Way|On the Way]],” above, for possibilities). In any event, the heroes are bound to hear the shrieking cries and the shouted curses from their captive.
 
 Adventurers passing through learn the harpies’ demand. Groups can pass freely if they offer up one of their members (a minion will do), a pile of gold (at least 5 gp per traveler), or some other valuable trinket. The harpies readily betray Magrak, telling the adventurers, if they ask, that he came this way. The harpies attack anyone who refuses to pay for their passage. Under no circumstances will they release their prisoner voluntarily.
 
-Go to Tactical [[#Encounter 2: Dung and Feathers]].
+Go to Tactical [[#Encounter 2: Dung and Feathers|Encounter 2: Dung and Feathers]].
 
 ### Betrayal
 If the adventurers haven’t yet uncovered [[Zestren|Zestren's]] sinister motives by the time the combat starts, [[Zestren]] uses the chaos in the battle to snatch [[#Lysa, the Prisoner|Lysa]] and make off with her. [[Zestren]] attacks the woman, knocking her unconscious. He then races off to the north to hand her over to the ghouls.
@@ -251,9 +251,9 @@ Assuming Lysa survives, she proves helpful. She is a strong-willed woman with br
 Lysa is not about to go home. She joins [[Cluff Maclire|Cluff's]] forces, picking up spare armor and weapons from her cohorts.
 
 ## Slaver’s Stone
-The Slaver’s Stone takes its name for the business conducted on the high, flat stone. Magrak named it himself. Magrak arrives at the Stone early and must wait several hours for the orc chieftain, Po, to arrive. If the characters arrive in time, which they do if they’ve been smart with their rests (see “[[#The Consequences of Time]]”), they can catch the wereboar without the orcs to give him trouble. In this situation, allow the characters to see the camp and where the creatures are positioned. The characters can use [[skills#Stealth|Stealth]] against the sentries’ passive [[skills#Perception|Perception]] to move into position and, most likely, take the entire camp by surprise.
+The Slaver’s Stone takes its name for the business conducted on the high, flat stone. Magrak named it himself. Magrak arrives at the Stone early and must wait several hours for the orc chieftain, Po, to arrive. If the characters arrive in time, which they do if they’ve been smart with their rests (see “[[#The Consequences of Time|The Consequences of Time]]”), they can catch the wereboar without the orcs to give him trouble. In this situation, allow the characters to see the camp and where the creatures are positioned. The characters can use [[skills#Stealth|Stealth]] against the sentries’ passive [[skills#Perception|Perception]] to move into position and, most likely, take the entire camp by surprise.
 
-Go to Tactical [[#Encounter 3: Chain Gang.]]
+Go to Tactical [[#Encounter 3: Chain Gang.|Encounter 3: Chain Gang.]]
 
 ## The Lake Oracle
 Although tangential to the main plot, the characters might have cause to visit the seer of the Cloven Skull depending on how the story with Zestren plays out. The Lake Oracle is an insane steel dragon, driven mad through exposure to exposure to chaos crystals long ago. The dragon hides in the Chaos Scar to escape the voices and visions she experienced and now lairs in a dark cavern. She subsists on the blindfish swimming in the underground lake where she makes her home and has little to no contact with the other creatures found in her lair.
@@ -263,12 +263,12 @@ Zestren knows the location of the Cloven Skull and can lead the characters there
 ### The Cloven Skull
 The Cloven Skull is a queer rock formation in the side of the mountains forming the Chaos Scar and, as one might expect, it appears to be an enormous human skull chiseled from the stone and with a dark gap in the center.
 
-Go to Tactical [[#Encounter 4: Guardians of the Skull]].
+Go to Tactical [[#Encounter 4: Guardians of the Skull|Encounter 4: Guardians of the Skull]].
 
 ### Seer in the Water
 Beyond the ghouls at the Cloven Skull, the characters find a cramped, winding passage burrowing deep into the mountain. The tunnel leads more or less straight to the oracle. When the adventurers reach the end, they are on the pebbled shore overlooking a broad, wide lake teeming with pale crustaceans and darting blindfish. Some distance away is the small, rocky island where the oracle makes her home.
 
-If combat breaks out, go to Tactical [[#Encounter: 5 Eyes in the Dark]].
+If combat breaks out, go to Tactical [[#Encounter: 5 Eyes in the Dark|Encounter: 5 Eyes in the Dark]].
 
 Heroes approaching the Lake Oracle with more discretion, however, can instead try to persuade the dragon to reveal a secret, foretell an event, or provide some other bit of information the characters need to learn. If the characters take this approach, run the “Consulting the Oracle” skill challenge.
 
@@ -311,7 +311,7 @@ Heroes approaching the Lake Oracle with more discretion, however, can instead tr
 > **Power (Daily):** `pf2:r`  When an enemy enters a square adjacent to you it hears strange chaotic whispers. The target must succeed at a Will based on your class DC or become flat-footed to you and take a –2 penalty to attack rolls that include you as a target until the end of your next turn.
 
 ## Conclusion
-The adventure ends when the characters rescue the prisoners from Magrak or, if the adventurers follow up on the oracle, after getting the information they or Zestren need (or slaying the dragon). If Cluff survives, he thanks the heroes for their help and assures them they will be treated like kings the next time they come through Cled. If the characters helped Zestren learn Riddle’s fate (see Tactical [[#Encounter 5: Eyes in the Dark]] for more information on her fate), the elf is grieved by the knowledge but is more resolved than ever to hunt down the necromancer and free Riddle’s soul. 
+The adventure ends when the characters rescue the prisoners from Magrak or, if the adventurers follow up on the oracle, after getting the information they or Zestren need (or slaying the dragon). If Cluff survives, he thanks the heroes for their help and assures them they will be treated like kings the next time they come through Cled. If the characters helped Zestren learn Riddle’s fate (see Tactical [[#Encounter 5: Eyes in the Dark|Encounter 5: Eyes in the Dark]] for more information on her fate), the elf is grieved by the knowledge but is more resolved than ever to hunt down the necromancer and free Riddle’s soul. 
 
 You also have the matter of the orc chieftain. Po is angry about not getting his slaves and a little snooping around should garner him the names of the characters. He might seek revenge by attacking the adventurers later or mount an attack on Restwell Keep. If, though, the adventurers failed to rescue the prisoners, they might try to locate them and wrest them from the orc. What did he want the slaves for? Where are they? Do they still live?
 
@@ -401,7 +401,7 @@ Standard harpies break off and attack the mercenaries.  Two of the mercenaries w
 > 
 > **Requirement:** You must be adjacent to the monolith.
 > **Check:** DC 24 [[skills#Athletics|Athletics]] check to topple the monolith
-> **Success:** The monolith falls and each creature in a close blast 3 away from the character makes a DC 25 reflex save.  Those who fail suffer `dice: 4d8+8` damage, the monolith knocks the target prone, and the target has cover and cannot stand. The target can use the [[escape|Escape]] (DC 24) to end the “cannot stand” condition. 
+> **Success:** The monolith falls and each creature in a close blast 3 away from the character makes a DC 25 reflex save.  Those who fail suffer `dice: 4d8+8` damage, the monolith knocks the target prone, and the target has cover and cannot stand. The target can use the [[Escape]] (DC 24) to end the “cannot stand” condition. 
 > **Failure:** Half damage, and the target moves to the nearest unoccupied square adjacent to the blast.
 
 ### Features of the Area

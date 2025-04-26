@@ -62,7 +62,7 @@ sourcebook: "Homebrew"
 ```
 
 ```encounter-table
-name: Magrak Ironjaw
+name: Keljack
 creatures:
-  - 1: Magrak Ironjaw
+  - 1: Keljack
 ```

@@ -1,9 +1,15 @@
 ---
 title: Scarred for Life
-adventure_status: Not Started
+adventure_status: In Progress
 adventure_level: 12
 total_xp: 250
 completed_xp: 0
+awarded_pp: 0
+awarded_gp: 0
+awarded_sp: 0
+awarded_cp: 0
+awarded_permanent_items: []
+awarded_consumable_items: []
 ---
 
 ![[7A - Scarred for Life _D192_-1742516106344.webp|right]]

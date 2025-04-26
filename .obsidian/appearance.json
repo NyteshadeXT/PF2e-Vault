@@ -9,7 +9,8 @@
     "pf2-compendium",
     "supercharged-links-gen",
     "table-header",
-    "LootCheck"
+    "LootCheck",
+    "pf2e-spell"
   ],
   "baseFontSize": 15,
   "theme": "obsidian",

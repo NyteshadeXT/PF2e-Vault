@@ -166,12 +166,12 @@ Dreadmarrow appears like a harbinger of nightmare itself, towering and lanky, wi
 > As you step out, you realize that, indeed, only a few hours have passed—just enough for you to feel a lingering sense of adventure and, in your pockets, the curious treasures Harley has bestowed upon you as tokens of her gratitude.
 
 > [!tip]+ Treasure
-> Heaped among the holiday treats are 300 gp, 1500 sp, 5000 cp and  [[Grave-Tide]], [[Gravekeeper Bow]], [[Imbued Grave Dirt]] and [[Rot Lord's Ring]]
+> Heaped among the holiday treats are 300 gp, 1500 sp, 5000 cp and  [[Grave-Tide]], [[gravekeeper-bow]], [[Imbued Grave Dirt]] and [[Rot Lord's Ring]]
 > 
 > - [x] gp::300
 > - [x] sp::1500
 > - [x] cp::5000
 > - [x] permanent::[[Grave-Tide]] [ilvl::10] [gp::900]
-> - [x] permanent::[[Gravekeeper Bow]] [ilvl::10] [gp::1000]
+> - [x] permanent::[[gravekeeper-bow]] [ilvl::10] [gp::1000]
 > - [x] permanent::[[Imbued Grave Dirt]] [ilvl::10] [gp::800]
 > - [x] consumable::[[Rot Lord's Ring]] [ilvl::10] [gp::1000]

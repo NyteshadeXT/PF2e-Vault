@@ -1,6 +1,6 @@
 ---
 title: Rumble in the Valley
-adventure_status: Not Started
+adventure_status: Completed
 adventure_level: 11
 total_xp: 270
 completed_xp: 190

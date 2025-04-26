@@ -5,13 +5,16 @@
   "deleteAttachmentsWithNote": false,
   "deleteEmptyFolders": true,
   "deleteExistFilesWhenMoveNote": false,
-  "moveAttachmentsWithNote": false,
-  "showBackupWarning": false,
-  "updateLinks": true,
   "excludePaths": [
     "/consistant-report.md$/",
     ".git/",
     ".obsidian/"
   ],
-  "includePaths": []
+  "includePaths": [],
+  "moveAttachmentsWithNote": false,
+  "showBackupWarning": false,
+  "treatAsAttachmentExtensions": [
+    ".excalidraw.md"
+  ],
+  "updateLinks": true
 }
