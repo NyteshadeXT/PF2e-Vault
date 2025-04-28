@@ -56,25 +56,11 @@
               "type": "markdown",
               "state": {
                 "file": "8) Adventures/7D - Scarblade (D189).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "7D - Scarblade (D189)"
-            }
-          },
-          {
-            "id": "d6ee03b6821c26a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2) Compendium/equipment/items/Homebrew/scarblade.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "scarblade"
             }
           },
           {
@@ -90,9 +76,23 @@
               "icon": "lucide-file",
               "title": "DC Calculators"
             }
+          },
+          {
+            "id": "30bfd026c533a1e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6) NPCs/Restwell Keep/Balewin.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Balewin"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 231.5
   },
   "right": {
     "id": "c1e7f89698746211",
@@ -308,46 +308,45 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d6ee03b6821c26a1",
+  "active": "483ee638b2c1cb30",
   "lastOpenFiles": [
+    "zz-Attachments/7A - Scarred for Life _D192_-1745792105949.webp",
+    "8) Adventures/7A - Scarred for Life (D192).md",
+    "zz-Attachments/Balewin.webp",
+    "8) Adventures/7B - Reflections of Ruin (D196).md",
+    "6) NPCs/Restwell Keep/Kendon Longstrider.md",
+    "8) Adventures/7D - Scarblade (D189).md",
+    "6) NPCs/Restwell Keep/Balewin.md",
+    "6) NPCs/Restwell Keep/Lord Drysdale.md",
+    "6) NPCs/Restwell Keep/Elessan.md",
+    "6) NPCs/Restwell Keep/Benwick.md",
+    "6) NPCs/Restwell Keep/Bergen.md",
+    "6) NPCs/Restwell Keep/Syradon.md",
+    "6) NPCs/Restwell Keep/Restwell Keep.md",
+    "6) NPCs/Crossroads/Crossroads.md",
+    "zz-Attachments/beholder-eye-tyrant.webp",
+    "4) Bestiary/unique-creatures/Fool.md",
+    "4) Bestiary/party-npc/Zeta Windsnap.md",
+    "2) compendium/equipment/relic-gifts/relic-gifts.md",
+    "2) compendium/equipment/equipment.md",
     "2) Compendium/spells/spells.md",
     "2) Compendium/spells/aberrant-form-som.md",
     "2) Compendium/equipment/items/Homebrew/scarblade.md",
-    "8) Adventures/7D - Scarblade (D189).md",
     "1) GM Screen/DC Calculators.md",
     "1) GM Screen/GM-Screen.md",
     "1) GM Screen/weapon-traits-p.282-283.md",
     "1) GM Screen/Skill-Actions-Cheat-Sheet.md",
     "1) GM Screen/rules-reference.md",
     "1) GM Screen/DunGen (Random Dungeon Generator).md",
-    "1) GM Screen/Conditions p.618-623.md",
-    "1) GM Screen/Adventure Loot.md",
-    "1) GM Screen/Actions Cheat Sheet.md",
     "zz-Attachments/scarblade-1745590024276.webp",
-    "Untitled 1.md",
-    "2) Compendium/equipment/items/Homebrew/tempered-harmony-hb.md",
-    "2) Compendium/equipment/items/Homebrew/gravekeeper-bow.md",
-    "2) Compendium/equipment/equipment.md",
-    "8) Adventures/7C - Head in the Clouds (D184).md",
-    "4) Bestiary/unique-creatures/Morrn Bladeclaw.md",
-    "4) Bestiary/bestiary-1/ghost-commoner.md",
-    "4) Bestiary/party-npc/Zeta Windsnap.md",
-    "4) Bestiary/homebrew/P/pit-shadow.md",
-    "4) Bestiary/bestiary-1/bestiary-1.md",
-    "4) Bestiary/homebrew/S/savage-fiendblood-minotaur.md",
-    "4) Bestiary/homebrew/B/beholder-eye-tyrant.md",
-    "zz-Templates/Markdown Templates/Combat Templates/Creature New Creature.md",
     "zz-Attachments/7D - Scarblade _D189_-1745509559353.webp",
     "zz-Attachments/7D - Scarblade _D189_-1745509018613.webp",
     "zz-Attachments/Vial of Entropic Ichor.webp",
     "zz-Attachments/Crystal of Recursive Aberration.webp",
     "zz-Attachments/Eye of Fractured Potential.webp",
     "zz-Attachments/Chaos-Scarred Eye Tyrant.webp",
-    "zz-Attachments/7D - Scarblade _D189_-1745441774995.webp",
-    "zz-Attachments/Demonic Savage Minotaur.webp",
     "4) Bestiary/rage-of-elements",
     "4) Bestiary/New folder",
-    "zz-Attachments/7C - Head in the Clouds _D184_-1745417183582.webp",
     "4) Bestiary/homebrew/F",
     "2) compendium/equipment/items/C",
     "2) compendium/equipment/items/B",

@@ -1,15 +1,15 @@
 ---
 title: Scarred for Life
-adventure_status: In Progress
+adventure_status: Complete
 adventure_level: 12
 total_xp: 250
-completed_xp: 0
+completed_xp: 140
 awarded_pp: 0
-awarded_gp: 0
+awarded_gp: 1500
 awarded_sp: 0
 awarded_cp: 0
-awarded_permanent_items: []
-awarded_consumable_items: []
+awarded_permanent_items: 
+awarded_consumable_items: 
 ---
 
 ![[7A - Scarred for Life _D192_-1742516106344.webp|right]]
@@ -121,7 +121,7 @@ If the adventurers try to put Keljack under arrest he will not resist, but will 
 
 ## Encounter 2: Into the Scar
 **Encounter Difficulty:**   
-- [ ] Trivial (40 XP) Level 12
+- [x] Trivial (40 XP) Level 12
 
 > [!tip]+ Skill Challenge
 > # Into the Scar
@@ -240,7 +240,7 @@ The gnolls have been instructed to kill any creature except Keljack that tries t
 
 ## Encounter 4: An End to Madness
 **Encounter Difficulty:**   
-- [ ] severe (100 XP) Level 12
+- [x] severe (100 XP) Level 12
 
 ![[image-1.png]]
 
@@ -261,6 +261,9 @@ Beyond the stream, the forest takes on a primeval look. The trees become larger,
 The source of Keljack’s woes is the beholder’s stasis crystal. The presence of the missing bit of magic in Keljack’s body allows the beholder to finally emerge. 
 
 If the adventurers are pursuing Keljack, then the gnoll warleader and one trained owlbear from Encounter 3: The Stream are present, and they start adjacent to the crystal. 
+
+[[7A - Scarred for Life _D192_-1745792105949.webp]]
+![[7A - Scarred for Life _D192_-1745792105949.webp|500]]
 
 As the adventurers arrive, read the following: 
 > [!note]+ Read Aloud
@@ -296,7 +299,7 @@ The gnolls are hiding in the woods watching and waiting.  Once the players engag
 > [!tip]+ Treasure
 > If the characters search the area where the crystal shattered, they find five large pieces that can be carried away. Each of these fragments is worth 500 gp to the right buyer. The wizard [[Ailwin]] in Restwell Keep would be especially interested.
 > 
-> - [ ] gp::1500
+> - [x] gp::1500
 
 ## ConcludIng the Adventure 
 If Keljack and Fool survive at the party’s side, their fate is up to the adventurers. Keljack asks the adventurers if they would be willing to help free Fool’s tribe from the dragon Maluriath. The red dragon and the rest of Fool’s tribe appear in the next Chaos Scar adventure, “Reflections of Ruin” (Dungeon 194). 

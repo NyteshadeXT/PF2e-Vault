@@ -566,6 +566,13 @@
       "resultText": "1d20\n[2]",
       "timestamp": 1744591512060,
       "id": "Yso0a8_7BdTE"
+    },
+    {
+      "result": "17",
+      "original": "1d20",
+      "resultText": "1d20\n[17]",
+      "timestamp": 1745796965228,
+      "id": "Mnrj7QhHc4xR"
     }
   ],
   "showDice": true,
