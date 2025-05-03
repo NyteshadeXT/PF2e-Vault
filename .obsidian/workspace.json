@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -308,15 +308,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "483ee638b2c1cb30",
+  "active": "1f6661ce8aa6fbbc",
   "lastOpenFiles": [
-    "zz-Attachments/7A - Scarred for Life _D192_-1745792105949.webp",
+    "6) NPCs/Restwell Keep/Balewin.md",
+    "4) Bestiary/party-npc/Zeta Windsnap.md",
+    "8) Adventures/Completed/4B - The Pillar of Eyes (D180).md",
+    "8) Adventures/Completed/4C - Vanguard Tower (D182).md",
+    "8) Adventures/Completed/4D - Stormcrow Tor (D169).md",
     "8) Adventures/7A - Scarred for Life (D192).md",
+    "zz-Attachments/7A - Scarred for Life _D192_-1745792105949.webp",
     "zz-Attachments/Balewin.webp",
     "8) Adventures/7B - Reflections of Ruin (D196).md",
     "6) NPCs/Restwell Keep/Kendon Longstrider.md",
     "8) Adventures/7D - Scarblade (D189).md",
-    "6) NPCs/Restwell Keep/Balewin.md",
     "6) NPCs/Restwell Keep/Lord Drysdale.md",
     "6) NPCs/Restwell Keep/Elessan.md",
     "6) NPCs/Restwell Keep/Benwick.md",
@@ -326,7 +330,6 @@
     "6) NPCs/Crossroads/Crossroads.md",
     "zz-Attachments/beholder-eye-tyrant.webp",
     "4) Bestiary/unique-creatures/Fool.md",
-    "4) Bestiary/party-npc/Zeta Windsnap.md",
     "2) compendium/equipment/relic-gifts/relic-gifts.md",
     "2) compendium/equipment/equipment.md",
     "2) Compendium/spells/spells.md",
@@ -336,8 +339,6 @@
     "1) GM Screen/GM-Screen.md",
     "1) GM Screen/weapon-traits-p.282-283.md",
     "1) GM Screen/Skill-Actions-Cheat-Sheet.md",
-    "1) GM Screen/rules-reference.md",
-    "1) GM Screen/DunGen (Random Dungeon Generator).md",
     "zz-Attachments/scarblade-1745590024276.webp",
     "zz-Attachments/7D - Scarblade _D189_-1745509559353.webp",
     "zz-Attachments/7D - Scarblade _D189_-1745509018613.webp",

@@ -67,9 +67,9 @@ If the adventurers take time to search more thoroughly, or decide to turn back, 
 ![[6A - Rumble in the Valley (D193)-20240820111648698.webp]]
 
 At the start of the encounter, place the following foes on the map: 
- - 2: [[Mudborn]] M
+ - 2: [[mudborn]] M
  - 2: [[rust-monster-enhanced|Rust Monster]] R
- - 1: [[Tar ooze]] G
+ - 1: [[Tar Ooze]] G
  - 1: [[Ardia Ironleaf]] D
 
 ```encounter
@@ -337,7 +337,7 @@ When the heroes advance to the outside, read:
 
 At the start of the encounter, place the following foes on the map: 
  - 1: [[ogre-boss|Ogre Boss]] W
- - 1: [[Mudborn]] M
+ - 1: [[mudborn]] M
  - 2: [[frost-drake|Frost Drake]] A
  - 4: [[duergar-scout|Duergar Scout]] D
 
@@ -398,7 +398,7 @@ At the start of the encounter, place the following foes on the map:
  - 1: [[Barulg the Returned|Barulg]] B
  - 1: [[Linn]] L
  - 1: [[Primpel]] P
- - 1: [[Slik|Slik]] S
+ - 1: [[Slik]] S
 
 ```encounter
 name: Rumble in the Valley

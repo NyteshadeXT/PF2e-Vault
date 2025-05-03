@@ -4,10 +4,10 @@ noteType: pf2eMonster
 aliases: "Zeta Windsnap"
 tags: 
   - pf2e/creature/type/humanoid
-  - pf2e/creature/level/5
+  - pf2e/creature/level/6
 statblock: inline
 name: "Zeta Windsnap"
-level: 5
+level: 6
 ---
 
 ```statblock
@@ -17,20 +17,20 @@ layout: Basic Pathfinder 2e Layout
 player: true
 source: "HB"
 name: "Zeta Windsnap"
-level: "Creature 5"
+level: "Creature 6"
 alignment: "CG"
 size: "Medium"
 trait_03: "Human"
-trait_04: "Half-Elf"
+trait_04: "Elf"
 trait_05: "Humanoid"
-modifier: 11
+modifier: 12
 perception:
   - name: "Perception"
-    desc: "Perception +11; low-light vision;"
+    desc: "Perception +12; low-light vision;"
 languages: "Common, Sylvan; "
 skills:
   - name: "Skills"
-    desc: "__Acrobatics__: +11 (1d20+11); __Athletics__: +8 (1d20+8); __Diplomacy__: +9 (1d20+9); __Lore: Farming__: +7 (1d20+7); __Medicine__: +9 (1d20+9); __Nature__: +11 (1d20+11); __Stealth__: +13 (1d20+13); __Survival__: +9 (1d20+9); __Thievery__: +11 (1d20+11); "
+    desc: "__Acrobatics__: +12 (1d20+12); __Athletics__: +9 (1d20+9); __Diplomacy__: +10 (1d20+10); __Lore: Farming__: +8 (1d20+8); __Medicine__: +10 (1d20+10); __Nature__: +12 (1d20+12); __Stealth__: +14 (1d20+14); __Survival__: +10 (1d20+10); __Thievery__: +12 (1d20+12); "
 abilityMods: [1, 4, 3, 0, 2, 2]
 
 abilities_bot:
@@ -40,29 +40,29 @@ abilities_bot:
     desc: "⬻ You designate a single creature as your prey and focus your attacks against that creature. You must be able to see or hear the prey, or you must be tracking the prey during exploration. You gain a +2 circumstance bonus to Perception checks when you Seek your prey and a +2 circmustance bonus to Survival checks when you Track your prey. You also ignore the penalty for making ranged attacks within your second range increment againts the prey your hunting. You can have only one creature designated as your prey at a time. If you use Hunt Prey against a creature when you already have a creature designated, the prior creature loses the designation and the new prey gains the designation. Your designation lasts until your next daily preperations."
 abilities_top:
   - name: Items
-    desc: "composite shortbow (100 arrows), +1 shortsword, +1 leather armor;"
+    desc: "+1 Striking Composite Shortbow (90 arrows), +1 shortsword, +1 leather armor;"
 
 speed: 25 feet (trackless step)
 
-ac: 23
+ac: 24
 armorclass:
   - name: AC
-    desc: "23; __Fort__: +12 (1d20+12); __Ref__: +13 (1d20+13); __Will__: +11 (1d20+11);"
-hp: 73
+    desc: "24; __Fort__: +13 (1d20+13); __Ref__: +14 (1d20+14); __Will__: +12 (1d20+12);"
+hp: 86
 health:
   - name: HP
-    desc: "73; "
+    desc: "86; "
 
 
 attacks:
   - name: Melee
-    desc: "⬻ +1 shortsword +14 ([[agile]], [[finesse]], [[versatile|versatile p]]); __Damage__ 1d6+1 (1d6+1) slashing"
+    desc: "⬻ +1 shortsword +15 ([[agile]], [[finesse]], [[versatile|versatile p]]); __Damage__ 1d6+1 (1d6+1) slashing"
   - name: Ranged
-    desc: "⬻ composite shortbow +13 ([[deadly|deadly 1d10]]); __Damage__ 1d6+1 (1d6+1) piercing"
+    desc: "⬻ composite shortbow +15 ([[deadly|deadly 1d10]]); __Damage__ 2d6 (2d6) piercing"
 
 spellcasting:
   - name: "Focus Spells"
-    desc: (1 point) [[heal-companion-apg|Heal Companion]]"
+    desc: (2 points) [[heal-companion-apg|Heal Companion]], [[soothing-mist-apg|Soothing Mist]]"
 
 sourcebook: "_Homebrew_"
 ```
@@ -72,3 +72,6 @@ name: Zeta Windsnap
 creatures:
   - 1: Zeta Windsnap
 ```
+
+[[trained-dire-wolf|Zeta's Dire Wolf Fang]]
+[[trained-dire-wolf|Zeta's Dire Wolf Claw]]
