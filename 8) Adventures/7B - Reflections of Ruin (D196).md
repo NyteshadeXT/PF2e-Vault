@@ -3,7 +3,7 @@ title: Reflections of Ruin
 adventure_status: Not Started
 adventure_level: 12
 total_xp: 440
-completed_xp: 0
+completed_xp: 180
 awarded_pp: 0
 awarded_gp: 0
 awarded_sp: 0
@@ -48,7 +48,7 @@ After failure upon failure, Maluriath changed the direction of her research. Ins
 
 # Encounter 1: Dumb and Ugly
 **Encounter Difficulty:**   
-- [ ] Moderate (80 XP) Level 12
+- [x] Moderate (80 XP) Level 12
 
 ![[7B - Reflections of Ruin _D196_-1743353975095.webp|right]]
 
@@ -172,7 +172,7 @@ check is DC 36 or higher they can detect that a mirror more carefully crafted th
 
 # Encounter 2: Perilous Passages
 **Encounter Difficulty:**   
-- [ ] Severe (100 XP) Level 12
+- [x] Severe (100 XP) Level 12
 - [ ] Mangler #1 (10 XP) Level 12
 - [ ] Mangler #1 (10 XP) Level 12
 - [ ] Mangler #3 (10 XP) Level 12

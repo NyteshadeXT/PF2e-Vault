@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/7A - Scarred for Life (D192).md",
+                "file": "8) Adventures/7B - Reflections of Ruin (D196).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "7A - Scarred for Life (D192)"
+              "title": "7B - Reflections of Ruin (D196)"
             }
           },
           {
@@ -78,21 +78,21 @@
             }
           },
           {
-            "id": "30bfd026c533a1e9",
+            "id": "39ae42495c93e9a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6) NPCs/Restwell Keep/Balewin.md",
+                "file": "4) Bestiary/unique-creatures/Keljack.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Balewin"
+              "title": "Keljack"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 282.5
   },
   "right": {
     "id": "c1e7f89698746211",
@@ -158,7 +158,7 @@
       {
         "id": "7f58ae8f958cd4d9",
         "type": "tabs",
-        "dimension": 47.77131782945737,
+        "dimension": 49.6124031007752,
         "children": [
           {
             "id": "9c066aefa3ef7e38",
@@ -223,15 +223,13 @@
             }
           },
           {
-            "id": "f8d754b1e9d92a19",
+            "id": "c3f4426d49d23268",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "8) Adventures/Halloween 2024.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Halloween 2024"
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           },
           {
@@ -245,6 +243,21 @@
             }
           },
           {
+            "id": "f8d754b1e9d92a19",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "8) Adventures/7B - Reflections of Ruin (D196).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 7B - Reflections of Ruin (D196)"
+            }
+          },
+          {
             "id": "c82596998b56b355",
             "type": "leaf",
             "state": {
@@ -253,16 +266,6 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
-          },
-          {
-            "id": "c3f4426d49d23268",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
           }
         ],
         "currentTab": 5
@@ -270,7 +273,7 @@
       {
         "id": "d295670d03f2b3c8",
         "type": "tabs",
-        "dimension": 52.22868217054264,
+        "dimension": 50.3875968992248,
         "children": [
           {
             "id": "e8be87516aaf0898",
@@ -286,7 +289,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 529.5
+    "width": 476.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -308,44 +311,43 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1f6661ce8aa6fbbc",
+  "active": "483ee638b2c1cb30",
   "lastOpenFiles": [
-    "6) NPCs/Restwell Keep/Balewin.md",
-    "4) Bestiary/party-npc/Zeta Windsnap.md",
-    "8) Adventures/Completed/4B - The Pillar of Eyes (D180).md",
-    "8) Adventures/Completed/4C - Vanguard Tower (D182).md",
-    "8) Adventures/Completed/4D - Stormcrow Tor (D169).md",
+    "zz-Attachments/7B - Reflections of Ruin _D196_-1745296603864.webp",
+    "8) Adventures/7B - Reflections of Ruin (D196).md",
     "8) Adventures/7A - Scarred for Life (D192).md",
+    "8) Adventures/8A - Pit of Delirium (D190).md",
+    "8) Adventures/7D - Scarblade (D189).md",
+    "8) Adventures/7C - Head in the Clouds (D184).md",
+    "4) Bestiary/unique-creatures/Keljack.md",
+    "4) Bestiary/unique-creatures/Fool.md",
+    "4) Bestiary/homebrew/F/foulspawn-mangler.md",
+    "4) Bestiary/homebrew/F/foulspawn-mockery.md",
+    "zz-Attachments/Chaos Scar - Player View.jpg",
+    "zz-Attachments/7B - Reflections of Ruin _D196_-1743353975095.webp",
+    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+    "1) GM Screen/DC Calculators.md",
+    "5) World/The Chaos Scar/Chaos Scar - Player View.md",
+    "zz-Attachments/Pasted image 20230829165718.png",
+    "8) Adventures/Completed/3C - The Wayward Wyrmling (D182).md",
+    "8) Adventures/Completed/5A - The Slaver's Stone (D181).md",
+    "zz-Attachments/Garrick Blackoak.png",
+    "8) Adventures/Tyrant of the Scar.md",
+    "6) NPCs/Restwell Keep/Garrick Blackoak.md",
+    "6) NPCs/Restwell Keep/Balewin.md",
+    "6) NPCs/Restwell Keep/Gorn Hammerfall.md",
+    "6) NPCs/Restwell Keep/Mother Aran.md",
+    "6) NPCs/Restwell Keep/Jarek.md",
+    "8) Adventures/2G - The Crossroads (D176).md",
+    "8) Adventures/Completed/6A - Rumble in the Valley (D193).md",
     "zz-Attachments/7A - Scarred for Life _D192_-1745792105949.webp",
     "zz-Attachments/Balewin.webp",
-    "8) Adventures/7B - Reflections of Ruin (D196).md",
     "6) NPCs/Restwell Keep/Kendon Longstrider.md",
-    "8) Adventures/7D - Scarblade (D189).md",
     "6) NPCs/Restwell Keep/Lord Drysdale.md",
     "6) NPCs/Restwell Keep/Elessan.md",
-    "6) NPCs/Restwell Keep/Benwick.md",
-    "6) NPCs/Restwell Keep/Bergen.md",
-    "6) NPCs/Restwell Keep/Syradon.md",
-    "6) NPCs/Restwell Keep/Restwell Keep.md",
-    "6) NPCs/Crossroads/Crossroads.md",
     "zz-Attachments/beholder-eye-tyrant.webp",
-    "4) Bestiary/unique-creatures/Fool.md",
-    "2) compendium/equipment/relic-gifts/relic-gifts.md",
-    "2) compendium/equipment/equipment.md",
-    "2) Compendium/spells/spells.md",
-    "2) Compendium/spells/aberrant-form-som.md",
-    "2) Compendium/equipment/items/Homebrew/scarblade.md",
-    "1) GM Screen/DC Calculators.md",
-    "1) GM Screen/GM-Screen.md",
-    "1) GM Screen/weapon-traits-p.282-283.md",
-    "1) GM Screen/Skill-Actions-Cheat-Sheet.md",
     "zz-Attachments/scarblade-1745590024276.webp",
     "zz-Attachments/7D - Scarblade _D189_-1745509559353.webp",
-    "zz-Attachments/7D - Scarblade _D189_-1745509018613.webp",
-    "zz-Attachments/Vial of Entropic Ichor.webp",
-    "zz-Attachments/Crystal of Recursive Aberration.webp",
-    "zz-Attachments/Eye of Fractured Potential.webp",
-    "zz-Attachments/Chaos-Scarred Eye Tyrant.webp",
     "4) Bestiary/rage-of-elements",
     "4) Bestiary/New folder",
     "4) Bestiary/homebrew/F",

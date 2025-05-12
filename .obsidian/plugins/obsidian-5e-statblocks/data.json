@@ -463,6 +463,82 @@
         ],
         "sourcebook": "_Homebrew_"
       }
+    ],
+    [
+      "Foulspwan Mangler",
+      {
+        "columns": 1,
+        "forcecolumns": true,
+        "layout": "Basic Pathfinder 2e Layout",
+        "source": "HB",
+        "name": "Foulspwan Mangler",
+        "level": "Creature 8",
+        "alignment": "CE",
+        "size": "Medium",
+        "trait_03": "Aberration",
+        "trait_04": "Humanoid",
+        "trait_05": "Foulspawn",
+        "modifier": 16,
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "Perception +16; __low-light vision__;"
+          }
+        ],
+        "languages": "Undercommon, telepathy 10ft. ; ",
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "__Athletics__: +16 (1d20+16); __Stealth__: +18 (1d20+18);"
+          }
+        ],
+        "abilityMods": [
+          5,
+          7,
+          2,
+          4,
+          3,
+          4
+        ],
+        "abilities_top": [
+          {
+            "name": "Items",
+            "desc": "+1 <STATBLOCK-WIKI-LINK>striking<STATBLOCK-WIKI-LINK> dagger x6;"
+          }
+        ],
+        "abilities_bot": [
+          {
+            "name": "Dagger Dance",
+            "desc": "`pf2:3` (<STATBLOCK-WIKI-LINK>move<STATBLOCK-WIKI-LINK>); The mangler uses dagger attacks three times and can Step up2 squares after each attack."
+          }
+        ],
+        "speed": "35 feet",
+        "ac": 24,
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "24; __Fort__: +16 (1d20+16); __Ref__: +19 (1d20+19); __Will__: +16 (1d20+16);"
+          }
+        ],
+        "hp": 131,
+        "health": [
+          {
+            "name": "HP",
+            "desc": "131; "
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Melee",
+            "desc": "⬻ dagger +18 (<STATBLOCK-WIKI-LINK>agile|Agile<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>finesse|Finesse<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>thrown|Thrown 10ft.<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>versatile|Versatile S<STATBLOCK-WIKI-LINK>); __Damage__ 2d4+5 (2d4+5) piercing plus 1d6 (1d6) persistent bleed"
+          },
+          {
+            "name": "Ranged",
+            "desc": "⬻ dagger +20 (<STATBLOCK-WIKI-LINK>agile|Agile<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>finesse|Finesse<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>thrown|Thrown 10ft.<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>versatile|Versatile S<STATBLOCK-WIKI-LINK>); __Damage__ 2d4+5 (2d4+5) piercing"
+          }
+        ],
+        "sourcebook": "_Homebrew_"
+      }
     ]
   ],
   "defaultLayouts": {
@@ -915,8 +991,8 @@
   "showAdvanced": true,
   "version": {
     "major": 4,
-    "minor": 8,
-    "patch": 1
+    "minor": 9,
+    "patch": 0
   },
   "paths": [
     "4) Bestiary"

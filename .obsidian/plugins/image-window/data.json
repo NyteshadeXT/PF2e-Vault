@@ -6,12 +6,12 @@
     "Second Window": {
       "hosts": {
         "Kyle_Laptop": {
-          "x": -8,
-          "y": -8,
-          "width": 1552,
-          "height": 832,
+          "x": 2041,
+          "y": -84,
+          "width": 2517,
+          "height": 148,
           "fullscreen": false,
-          "maximized": true
+          "maximized": false
         },
         "KylesDesktop": {
           "x": 937,
