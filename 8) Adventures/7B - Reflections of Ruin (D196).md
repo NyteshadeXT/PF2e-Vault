@@ -1,15 +1,45 @@
 ---
 title: Reflections of Ruin
-adventure_status: Not Started
+adventure_status: Complete
 adventure_level: 12
 total_xp: 440
-completed_xp: 180
-awarded_pp: 0
-awarded_gp: 0
-awarded_sp: 0
-awarded_cp: 0
-awarded_permanent_items: []
-awarded_consumable_items: []
+completed_xp: 380
+awarded_pp: 40
+awarded_gp: 360
+awarded_sp: 450
+awarded_cp: 20
+awarded_permanent_items:
+  - name: +2 Swallow-Spike (Greater) Scroll Robes
+    ilvl: 12
+    gp: 2810
+  - name: +2 Scale Mail
+    ilvl: 11
+    gp: 1060
+  - name: +2 Fearsome (Greater) Dancers Spear
+    ilvl: 12
+    gp: 2935
+awarded_consumable_items:
+  - name: Spell Scroll (4th level) Umbral Graft
+    ilvl: 7
+    gp: 70
+  - name: Numbing Tonic (Moderate)
+    ilvl: 9
+    gp: 150
+  - name: Shrieking Skull
+    ilvl: 12
+    gp: 400
+  - name: Mage Bane
+    ilvl: 12
+    gp: 325
+  - name: Fury Cocktail (Moderate)
+    ilvl: 12
+    gp: 360
+  - name: Panacea
+    ilvl: 13
+    gp: 450
+  - name: Spell Scroll (7th Level) Control Sand
+    ilvl: 13
+    gp: 600
 ---
 ![[7B - Reflections of Ruin.webp|right]]
 
@@ -282,7 +312,7 @@ If the characters explore this area, they can learn the following information he
 
 # Encounter 3: On the Right Track
 **Encounter Difficulty:**   
-- [ ] Severe (120 XP) Level 12
+- [x] Severe (120 XP) Level 12
 - [ ] Mangler #1 (10 XP) Level 12
 - [ ] Mangler #1 (10 XP) Level 12
 - [ ] Mangler #3 (10 XP) Level 12
@@ -379,13 +409,13 @@ If the characters explore this area, they might find treasure here. When the her
 > [!tip]+ Treasure
 > Hidden in the bedding are items that Rogue stole from Maluriath’s hoard: Spell scroll (4th level) (Umbral Graft), Numbing Tonic (Moderate), and 60 gp.
 > 
-> - [ ] gp::60
-> - [ ] consumable::[[umbral-graft-som|Spell Scroll (4th level) Umbral Graft]] [ilvl::7] [gp::70]
-> - [ ] consumable::[[numbing-tonic-tv|Numbing Tonic (Moderate)]] [ilvl::9] [gp::150]
+> - [x] gp::60
+> - [x] consumable::[[umbral-graft-som|Spell Scroll (4th level) Umbral Graft]] [ilvl::7] [gp::70]
+> - [x] consumable::[[numbing-tonic-tv|Numbing Tonic (Moderate)]] [ilvl::9] [gp::150]
 
 # Encounter 4: Mirror, Mirror on the Wall
 **Encounter Difficulty:**   
-- [ ] Moderate (80 XP) Level 12
+- [x] Moderate (80 XP) Level 12
 
 ![[7B - Reflections of Ruin _D196_-1745346835950.webp|Right]]
 
@@ -469,18 +499,18 @@ title: *Brazier Topple*
 > [!tip]+ Treasure
 > All of the following can be found in Maluriath's hoard. [[swallow-spike-tv|Swallow-Spike]], [[fearsome-apg|Fearsome]]
 > 
-> - [ ] pp::40
-> - [ ] gp::300
-> - [ ] sp::450
-> - [ ] cp::20
-> - [ ] permanent::[[scroll-robes-tv|+2 Swallow-Spike (Greater) Scroll Robes]] [ilvl::12] [gp::2810]
-> - [ ] permanent::[[scale-mail|+2 Scale Mail]] [ilvl::11] [gp::1060]
-> - [ ] permanent::[[dancers-spear-tv|+2 Fearsome (Greater) Dancers Spear]] [ilvl::12] [gp::2935]
-> - [ ] consumable::[[shrieking-skull-g-g|Shrieking Skull]] [ilvl::12] [gp::400]
-> - [ ] consumable::[[mage-bane-aoa5|Mage Bane]] [ilvl::12] [gp::325]
-> - [ ] consumable::[[fury-cocktail-tv|Fury Cocktail (Moderate)]] [ilvl::12] [gp::360]
-> - [ ] consumable::[[panacea|Panacea]] [ilvl::13] [gp::450]
-> - [ ] consumable::[[control-sand-ec5|Spell Scroll (7th Level) Control Sand]] [ilvl::13] [gp::600]
+> - [x] pp::40
+> - [x] gp::300
+> - [x] sp::450
+> - [x] cp::20
+> - [x] permanent::[[scroll-robes-tv|+2 Swallow-Spike (Greater) Scroll Robes]] [ilvl::12] [gp::2810]
+> - [x] permanent::[[scale-mail|+2 Scale Mail]] [ilvl::11] [gp::1060]
+> - [x] permanent::[[dancers-spear-tv|+2 Fearsome (Greater) Dancers Spear]] [ilvl::12] [gp::2935]
+> - [x] consumable::[[shrieking-skull-g-g|Shrieking Skull]] [ilvl::12] [gp::400]
+> - [x] consumable::[[mage-bane-aoa5|Mage Bane]] [ilvl::12] [gp::325]
+> - [x] consumable::[[fury-cocktail-tv|Fury Cocktail (Moderate)]] [ilvl::12] [gp::360]
+> - [x] consumable::[[panacea|Panacea]] [ilvl::13] [gp::450]
+> - [x] consumable::[[control-sand-ec5|Spell Scroll (7th Level) Control Sand]] [ilvl::13] [gp::600]
 
 # Concluding the Adventure
 Only Maluriath has the knowledge to complete the ritual, but the adventurers know the Chaos Scar is a magnet for creatures of ill intent. Destruction of the final dark mirror, before another evil force discovers it, is a real concern. Although brute force can disrupt the mirror’s part in Maluriath’s ritual, the mirror requires at least 200 damage to destroy.

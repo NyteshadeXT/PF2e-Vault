@@ -30,7 +30,7 @@ When you critically hit with this weapon, the target becomes [frightened](rules/
 
 - **Price**: 2000 gp
 
-When you critically hit with this weapon, the target becomes [frightened](rules/conditions.md#Frightened).
+When you critically hit with this weapon, the target becomes [frightened](rules/conditions.md#Frightened) 2.
 
 ---
 *Source: Advanced Player's Guide p. 260*
