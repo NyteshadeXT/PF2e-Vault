@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/7C - Head in the Clouds (D184).md",
+                "file": "8) Adventures/7D - Scarblade (D189).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "7C - Head in the Clouds (D184)"
+              "title": "7D - Scarblade (D189)"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/7D - Scarblade (D189).md",
+                "file": "8) Adventures/8B - The Runecutter's Ruin (D186).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "7D - Scarblade (D189)"
+              "title": "8B - The Runecutter's Ruin (D186)"
             }
           },
           {
@@ -76,23 +76,9 @@
               "icon": "lucide-file",
               "title": "DC Calculators"
             }
-          },
-          {
-            "id": "39ae42495c93e9a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4) Bestiary/unique-creatures/Keljack.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Keljack"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -266,6 +252,16 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "a827a83d2357ce7b",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
           }
         ],
         "currentTab": 5
@@ -311,44 +307,46 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "483ee638b2c1cb30",
+  "active": "921490a797deb2b3",
   "lastOpenFiles": [
-    "2) compendium/equipment/items/swallow-spike-tv.md",
     "8) Adventures/7C - Head in the Clouds (D184).md",
-    "8) Adventures/7B - Reflections of Ruin (D196).md",
-    "8) Adventures/2G - The Crossroads (D176).md",
-    "8) Adventures/Tyrant of the Scar.md",
     "8) Adventures/7D - Scarblade (D189).md",
-    "8) Adventures/Completed/7A - Scarred for Life (D192).md",
-    "8) Adventures/8A - Pit of Delirium (D190).md",
-    "2) compendium/equipment/items/fearsome-apg.md",
-    "2) compendium/spells/control-sand-ec5.md",
-    "4) Bestiary/unique-creatures/Keljack.md",
-    "zz-Attachments/Mirror Mirror.png",
-    "2) compendium/equipment/items/numbing-tonic-tv.md",
-    "2) compendium/spells/umbral-graft-som.md",
-    "4) Bestiary/unique-creatures/Fool.md",
-    "4) Bestiary/homebrew/F/foulspawn-mockery.md",
-    "zz-Attachments/7B - Reflections of Ruin _D196_-1745296603864.webp",
-    "4) Bestiary/homebrew/F/foulspawn-mangler.md",
-    "zz-Attachments/Chaos Scar - Player View.jpg",
-    "zz-Attachments/7B - Reflections of Ruin _D196_-1743353975095.webp",
-    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
     "1) GM Screen/DC Calculators.md",
-    "5) World/The Chaos Scar/Chaos Scar - Player View.md",
-    "zz-Attachments/Pasted image 20230829165718.png",
-    "8) Adventures/Completed/3C - The Wayward Wyrmling (D182).md",
-    "8) Adventures/Completed/5A - The Slaver's Stone (D181).md",
-    "zz-Attachments/Garrick Blackoak.png",
-    "6) NPCs/Restwell Keep/Garrick Blackoak.md",
-    "6) NPCs/Restwell Keep/Balewin.md",
-    "6) NPCs/Restwell Keep/Gorn Hammerfall.md",
-    "6) NPCs/Restwell Keep/Mother Aran.md",
-    "6) NPCs/Restwell Keep/Jarek.md",
-    "zz-Attachments/7A - Scarred for Life _D192_-1745792105949.webp",
-    "zz-Attachments/Balewin.webp",
-    "zz-Attachments/beholder-eye-tyrant.webp",
-    "zz-Attachments/scarblade-1745590024276.webp",
+    "4) Bestiary/homebrew/N/neogi.md",
+    "8) Adventures/7B - Reflections of Ruin (D196).md",
+    "8) Adventures/8A - Pit of Delirium (D190).md",
+    "8) Adventures/Tyrant of the Scar.md",
+    "8) Adventures/9A - Heart of the Scar (D197).md",
+    "8) Adventures/8C - The Star-Touched Grove (D219).md",
+    "8) Adventures/8B - The Runecutter's Ruin (D186).md",
+    "zz-Attachments/8B - The Runecutter's Ruin (D186)-1751088939990.webp",
+    "zz-Attachments/neogi.webp",
+    "4) Bestiary/homebrew/U/umber-hulk.md",
+    "zz-Attachments/umber-hulk.webp",
+    "4) Bestiary/homebrew/M/meenlock-spawn.md",
+    "4) Bestiary/homebrew/U",
+    "2) Compendium/gm/hazards/Homebrew/chaos-shard.md",
+    "2) Compendium/gm/hazards/Homebrew/chaos-shard-delirium-ii.md",
+    "4) Bestiary/homebrew/M/meenlock-stalker.md",
+    "2) Compendium/gm/hazards/Homebrew/chaos-shard-delirium.md",
+    "4) Bestiary/homebrew/M/magma-hurler.md",
+    "4) Bestiary/homebrew/B/beholder-eye-tyrant.md",
+    "4) Bestiary/homebrew/N/necrotic-gelatinous-cube.md",
+    "4) Bestiary/homebrew/R/rust-monster-enhanced.md",
+    "4) Bestiary/homebrew/T/trained-dire-wolf.md",
+    "4) Bestiary/homebrew/T/twig-blight.md",
+    "4) Bestiary/homebrew/T/tengu-wing-mage.md",
+    "4) Bestiary/homebrew/X/xulgath-leader-14.md",
+    "4) Bestiary/homebrew/S/shard-slave.md",
+    "4) Bestiary/homebrew/S/savage-fiendblood-minotaur.md",
+    "zz-Attachments/meenlock-stalker.webp",
+    "3) Rules/assets/img/reaction.svg",
+    "3) Rules/assets/img/load.svg",
+    "3) Rules/assets/img/hour-glass.svg",
+    "3) Rules/assets/img/delay.svg",
+    "4) Bestiary/homebrew/X",
+    "zz-Attachments/Valtaris.webp",
+    "zz-Attachments/8A - Pit of Delirium (D190)-1751055390606.webp",
     "4) Bestiary/rage-of-elements",
     "4) Bestiary/New folder",
     "4) Bestiary/homebrew/F",
@@ -356,8 +354,6 @@
     "2) compendium/equipment/items/B",
     "2) compendium/equipment/items/A",
     "4) Bestiary/homebrew/S",
-    "4) Bestiary/homebrew/T",
-    "4) Bestiary/homebrew/R",
-    "4) Bestiary/homebrew/P"
+    "4) Bestiary/homebrew/T"
   ]
 }

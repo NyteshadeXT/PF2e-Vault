@@ -2,6 +2,7 @@
 title: The Runecutter's Ruin
 adventure_status: "Not Started"
 ---
+![[8B - The Runecutter's Ruin (D186)-1751088939990.webp|right]]
 
 # Background
 Trained in the art of rune smithing by devotees of Erathis, the dwarf runepriest Olek Dael grew frustrated by the slow expansion or, at times, the contraction of civilization. Stymied by opposition at every turn, the votary had what he considered an epiphany: Force employed in service of order and light was far better than rampant chaos and darkness. If people would not listen to reason and work together, civilization must be imposed on them. The god of conquest, Bane, offered exactly what Olek so desperately sought. 

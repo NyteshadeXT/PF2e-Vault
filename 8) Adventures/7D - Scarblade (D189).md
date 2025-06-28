@@ -2,7 +2,7 @@
 title: Scarblade
 adventure_status: Not Started
 adventure_level: 13
-total_xp: 410
+total_xp: 490
 completed_xp: 0
 awarded_pp: 0
 awarded_gp: 0
@@ -77,6 +77,8 @@ The crumbling trail and the collapsing trail appear not much different from any 
 
 ![[7D - Scarblade _D189_-1745509018613.webp|right]]
 
+**Encounter Difficulty:**   
+- [ ] Trivial (20 XP) Level 13
 ```ad-embed-ability
 title: *Crumbling Trail* **Hazard** Level 13
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait") 
@@ -96,6 +98,8 @@ The ground beneath the creature gives way, causing them to stumble and slide.
 **Reset** The hazard resets at the start of the next round.
 ```
 
+**Encounter Difficulty:**   
+- [ ] Trivial (20 XP) Level 13
 ```ad-embed-ability 
 title: *Collapsing Trail* **Hazard** Level 13
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait") 
@@ -118,6 +122,9 @@ The trail gives way in a dangerous landslide of rubble.
 
 
 The flash flood area should show signs of severe runoff and erosion. It will still appear safe if there hasn’t been much rain lately, but the pit can unleash the water from a pond into a gushing torrent.
+
+**Encounter Difficulty:**   
+- [ ] Trivial (20 XP) Level 13
 ```ad-embed-ability 
 title: *Flash Flood* **Hazard** Level 13
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait") 
@@ -139,6 +146,9 @@ Torrential waters rush through the area, sweeping everything in their path.
 ```
 
 The gusting wind is useful chiefly against flying characters, but it can be turned against anyone with some effect.
+
+**Encounter Difficulty:**   
+- [ ] Trivial (20 XP) Level 13
 ```ad-embed-ability 
 title: *Gusting Wind* **Hazard** Level 13
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait") 

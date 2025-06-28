@@ -609,6 +609,387 @@
         ],
         "sourcebook": "_Homebrew_"
       }
+    ],
+    [
+      "Xulgath Warrior Elite",
+      {
+        "layout": "Pathfinder 2e Creature Layout",
+        "name": "Xulgath Warrior Elite",
+        "level": "Creature 10",
+        "source": "Pathfinder Beginner Box",
+        "alignment": "",
+        "size": "<STATBLOCK-WIKI-LINK>medium<STATBLOCK-WIKI-LINK>",
+        "traits": [
+          "<STATBLOCK-WIKI-LINK>humanoid<STATBLOCK-WIKI-LINK>",
+          "<STATBLOCK-WIKI-LINK>xulgath<STATBLOCK-WIKI-LINK>"
+        ],
+        "modifier": 18,
+        "senses": "darkvision",
+        "languages": "—",
+        "skills": [
+          {
+            "Athletics": 22
+          },
+          {
+            "Stealth": 18
+          }
+        ],
+        "attributes": [
+          {
+            "str": 7
+          },
+          {
+            "dex": 4
+          },
+          {
+            "con": 5
+          },
+          {
+            "int": 1
+          },
+          {
+            "wis": 3
+          },
+          {
+            "cha": 2
+          }
+        ],
+        "speed": "25 feet",
+        "ac": 28,
+        "saves": [
+          {
+            "fort": 20
+          },
+          {
+            "ref": 19
+          },
+          {
+            "will": 16
+          }
+        ],
+        "hp": 179,
+        "abilities_mid": [
+          {
+            "name": "Stench",
+            "desc": "(aura, olfactory) 30 feet, DC 28 – A creature that enters the aura or starts its turn there must succeed at a Fortitude save or become <STATBLOCK-WIKI-LINK>Sickened 1<STATBLOCK-WIKI-LINK>. On a failure, the creature takes a –1 status penalty to all checks and DCs until it uses an action to retch. A creature that succeeds isn't affected by any xulgath's stench for 1 minute."
+          }
+        ],
+        "attacks": [
+          {
+            "name": "___Melee___ ⬻ club",
+            "desc": "",
+            "bonus": 21,
+            "damage": "2d12+20 bludgeoning"
+          },
+          {
+            "name": "___Melee___ ⬻ jaws",
+            "desc": "(<STATBLOCK-MARKDOWN-LINK>rules/traits/unarmed.md|unarmed<STATBLOCK-MARKDOWN-LINK>)",
+            "bonus": 21,
+            "damage": "2d12+20 piercing"
+          },
+          {
+            "name": "___Melee___ ⬻ claw",
+            "desc": "(<STATBLOCK-MARKDOWN-LINK>rules/traits/agile.md|agile<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>rules/traits/unarmed.md|unarmed<STATBLOCK-MARKDOWN-LINK>)",
+            "bonus": 21,
+            "damage": "2d12+14 slashing"
+          },
+          {
+            "name": "___Ranged___ ⬻ javelin",
+            "desc": "(<STATBLOCK-MARKDOWN-LINK>rules/traits/thrown-30.md|thrown 30 feet<STATBLOCK-MARKDOWN-LINK>)",
+            "bonus": 19,
+            "damage": "2d12+20 piercing"
+          }
+        ]
+      }
+    ],
+    [
+      "Xulgath Skulker Elite",
+      {
+        "layout": "Pathfinder 2e Creature Layout",
+        "name": "Xulgath Skulker Elite",
+        "level": "Creature 12",
+        "source": "Pathfinder Monster Core",
+        "alignment": "",
+        "size": "<STATBLOCK-WIKI-LINK>medium<STATBLOCK-WIKI-LINK>",
+        "traits": [
+          "<STATBLOCK-WIKI-LINK>humanoid<STATBLOCK-WIKI-LINK>",
+          "<STATBLOCK-WIKI-LINK>xulgath<STATBLOCK-WIKI-LINK>"
+        ],
+        "modifier": 21,
+        "senses": "darkvision",
+        "languages": "draconic, sakvroth",
+        "skills": [
+          {
+            "Acrobatics": 25
+          },
+          {
+            "Stealth": 25
+          },
+          {
+            "Thievery": 25
+          }
+        ],
+        "attributes": [
+          {
+            "str": 5
+          },
+          {
+            "dex": 7
+          },
+          {
+            "con": 4
+          },
+          {
+            "int": 2
+          },
+          {
+            "wis": 4
+          },
+          {
+            "cha": 3
+          }
+        ],
+        "speed": "25 feet",
+        "ac": 32,
+        "saves": [
+          {
+            "fort": 22
+          },
+          {
+            "ref": 24
+          },
+          {
+            "will": 19
+          }
+        ],
+        "hp": 211,
+        "abilities_mid": [
+          {
+            "name": "Stench",
+            "desc": "(aura, olfactory) 30 feet, DC 30 – A creature that enters the aura or starts its turn there must succeed at a Fortitude save or become <STATBLOCK-WIKI-LINK>Sickened 1<STATBLOCK-WIKI-LINK>."
+          },
+          {
+            "name": "Hidden Movement",
+            "desc": "If a xulgath skulker starts its turn <STATBLOCK-WIKI-LINK>Undetected<STATBLOCK-WIKI-LINK> or <STATBLOCK-WIKI-LINK>Hidden<STATBLOCK-WIKI-LINK>, that creature is <STATBLOCK-WIKI-LINK>Off-Guard<STATBLOCK-WIKI-LINK> against its attacks until the end of the skulker’s turn."
+          },
+          {
+            "name": "Mask Stench",
+            "desc": "The skulker masks its stench with curated herbs, suppressing the stench aura. It can resume the aura as a free action."
+          },
+          {
+            "name": "Sneak Attack",
+            "desc": "The skulker deals an additional 1d6 precision damage to <STATBLOCK-WIKI-LINK>Off-Guard<STATBLOCK-WIKI-LINK> creatures."
+          }
+        ],
+        "attacks": [
+          {
+            "name": "___Melee___ ⬻ dagger",
+            "desc": "(<STATBLOCK-MARKDOWN-LINK>rules/traits/agile.md|agile<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>rules/traits/finesse.md|finesse<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>rules/traits/versatile-s.md|versatile S<STATBLOCK-MARKDOWN-LINK>)",
+            "bonus": 24,
+            "damage": "3d6+10 piercing"
+          },
+          {
+            "name": "___Melee___ ⬻ jaws",
+            "desc": "(<STATBLOCK-MARKDOWN-LINK>rules/traits/unarmed.md|unarmed<STATBLOCK-MARKDOWN-LINK>)",
+            "bonus": 23,
+            "damage": "3d6+10 piercing"
+          },
+          {
+            "name": "___Melee___ ⬻ claw",
+            "desc": "(<STATBLOCK-MARKDOWN-LINK>rules/traits/agile.md|agile<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>rules/traits/finesse.md|finesse<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>rules/traits/unarmed.md|unarmed<STATBLOCK-MARKDOWN-LINK>)",
+            "bonus": 24,
+            "damage": "3d6+10 slashing"
+          }
+        ]
+      }
+    ],
+    [
+      "Xulgath Leader Elite",
+      {
+        "layout": "Pathfinder 2e Creature Layout",
+        "name": "Xulgath Leader Elite",
+        "level": "Creature 14",
+        "source": "Pathfinder Monster Core",
+        "alignment": "",
+        "size": "<STATBLOCK-WIKI-LINK>medium<STATBLOCK-WIKI-LINK>",
+        "traits": [
+          "<STATBLOCK-WIKI-LINK>humanoid<STATBLOCK-WIKI-LINK>",
+          "<STATBLOCK-WIKI-LINK>xulgath<STATBLOCK-WIKI-LINK>"
+        ],
+        "modifier": 25,
+        "senses": "darkvision",
+        "languages": "draconic, sakvroth",
+        "skills": [
+          {
+            "Athletics": 29
+          },
+          {
+            "Intimidation": 22
+          },
+          {
+            "Stealth": 22
+          }
+        ],
+        "attributes": [
+          {
+            "str": 8
+          },
+          {
+            "dex": 4
+          },
+          {
+            "con": 4
+          },
+          {
+            "int": 2
+          },
+          {
+            "wis": 4
+          },
+          {
+            "cha": 4
+          }
+        ],
+        "speed": "25 feet",
+        "ac": 35,
+        "saves": [
+          {
+            "fort": 25
+          },
+          {
+            "ref": 22
+          },
+          {
+            "will": 25
+          }
+        ],
+        "hp": 254,
+        "abilities_mid": [
+          {
+            "name": "Stench",
+            "desc": "(aura, olfactory) 30 feet, DC 33 – A creature that enters the aura or starts its turn there must succeed at a Fortitude save or become sickened."
+          }
+        ],
+        "abilities_bot": [
+          {
+            "name": "Weakening Strike",
+            "desc": "A creature hit by a xulgath leader's jaws or claw Strike is <STATBLOCK-WIKI-LINK>Enfeebled 1<STATBLOCK-WIKI-LINK> (or <STATBLOCK-WIKI-LINK>Enfeebled 2<STATBLOCK-WIKI-LINK> on a critical hit) for 1 round."
+          }
+        ],
+        "attacks": [
+          {
+            "name": "___Melee___ ⬻ greataxe",
+            "desc": "(<STATBLOCK-MARKDOWN-LINK>rules/traits/sweep.md|sweep<STATBLOCK-MARKDOWN-LINK>)",
+            "bonus": 25,
+            "damage": "3d10+18 slashing"
+          },
+          {
+            "name": "___Melee___ ⬻ jaws",
+            "desc": "(<STATBLOCK-MARKDOWN-LINK>rules/traits/unarmed.md|unarmed<STATBLOCK-MARKDOWN-LINK>)",
+            "bonus": 25,
+            "damage": "3d8+15 piercing plus weakening strike"
+          },
+          {
+            "name": "___Melee___ ⬻ claw",
+            "desc": "(<STATBLOCK-MARKDOWN-LINK>rules/traits/agile.md|agile<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>rules/traits/unarmed.md|unarmed<STATBLOCK-MARKDOWN-LINK>)",
+            "bonus": 25,
+            "damage": "3d6+14 slashing plus weakening strike"
+          },
+          {
+            "name": "___Ranged___ ⬻ javelin",
+            "desc": "(<STATBLOCK-MARKDOWN-LINK>rules/traits/thrown-30.md|thrown 30 feet<STATBLOCK-MARKDOWN-LINK>)",
+            "bonus": 22,
+            "damage": "3d6+12 piercing"
+          }
+        ]
+      }
+    ],
+    [
+      "Meenlock Spawn",
+      {
+        "columns": 2,
+        "forcecolumns": true,
+        "layout": "Pathfinder 2e Creature Layout",
+        "source": "4e Conversion",
+        "name": "Meenlock Spawn",
+        "level": "Creature 10",
+        "rare_03": "Uncommon",
+        "alignment": "<STATBLOCK-WIKI-LINK>chaotic evil<STATBLOCK-WIKI-LINK>",
+        "size": "<STATBLOCK-WIKI-LINK>medium<STATBLOCK-WIKI-LINK>",
+        "traits": [
+          "<STATBLOCK-WIKI-LINK>aberration<STATBLOCK-WIKI-LINK>",
+          "<STATBLOCK-WIKI-LINK>psychic<STATBLOCK-WIKI-LINK>",
+          "<STATBLOCK-WIKI-LINK>fear<STATBLOCK-WIKI-LINK>"
+        ],
+        "modifier": 17,
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "+17; low-light vision"
+          }
+        ],
+        "languages": "Common, Deep Speech",
+        "skills": [
+          {
+            "Athletics": 19
+          },
+          {
+            "Stealth": 17
+          },
+          {
+            "Intimidation": 18
+          },
+          {
+            "Occultism": 16
+          }
+        ],
+        "attributes": [
+          {
+            "str": 4
+          },
+          {
+            "dex": 3
+          },
+          {
+            "con": 3
+          },
+          {
+            "int": -1
+          },
+          {
+            "wis": 1
+          },
+          {
+            "cha": 0
+          }
+        ],
+        "speed": "25 feet",
+        "ac": 29,
+        "saves": [
+          {
+            "fort": 19
+          },
+          {
+            "ref": 18
+          },
+          {
+            "will": 16
+          }
+        ],
+        "hp": 130,
+        "attacks": [
+          {
+            "name": "Melee",
+            "desc": "⬻ claw +22 (<STATBLOCK-WIKI-LINK>magical<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>agile<STATBLOCK-WIKI-LINK>); __Damage__ 2d10+9 slashing"
+          }
+        ],
+        "abilities_bot": [
+          {
+            "name": "Whisper of Death",
+            "desc": "<STATBLOCK-WIKI-LINK>reaction<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>occult<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>mental<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>psychic<STATBLOCK-WIKI-LINK> — Trigger: The meenlock spawn is reduced to 0 HP. Effect: Each enemy adjacent to the meenlock takes 4d6 psychic damage (DC 28 basic Will save)."
+          }
+        ]
+      }
     ]
   ],
   "defaultLayouts": {
@@ -1062,7 +1443,7 @@
   "version": {
     "major": 4,
     "minor": 9,
-    "patch": 0
+    "patch": 1
   },
   "paths": [
     "4) Bestiary"

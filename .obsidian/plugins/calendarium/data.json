@@ -436,7 +436,24 @@
         }
       ],
       "path": [],
-      "showIntercalarySeparately": false
+      "showIntercalarySeparately": false,
+      "seasonal": {
+        "seasons": [],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": -1735920489,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E"
+        }
+      },
+      "locations": {
+        "locations": []
+      }
     }
   ],
   "configDirectory": null,
@@ -458,8 +475,8 @@
   },
   "showIntercalary": false,
   "version": {
-    "major": 1,
-    "minor": 5,
+    "major": 2,
+    "minor": 0,
     "patch": 0,
     "beta": null
   },
