@@ -990,6 +990,164 @@
           }
         ]
       }
+    ],
+    [
+      "Morrn Bladeclaw",
+      {
+        "columns": 1,
+        "forcecolumns": true,
+        "layout": "Basic Pathfinder 2e Layout",
+        "source": "Homebrew",
+        "name": "Morrn Bladeclaw",
+        "level": "Creature 15",
+        "alignment": "CE",
+        "size": "Large",
+        "trait_01": "Undead",
+        "trait_02": "Giant",
+        "trait_03": "Incorporeal",
+        "trait_04": "Spirit",
+        "modifier": 26,
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "Perception +26; __darkvision__"
+          }
+        ],
+        "languages": "Common, Jotun",
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "__Athletics__ +30, __Intimidation__ +28, __Stealth__ +24"
+          }
+        ],
+        "abilityMods": [
+          7,
+          4,
+          6,
+          2,
+          3,
+          5
+        ],
+        "abilities_mid": [
+          {
+            "name": "Double Actions",
+            "desc": "Morrn rolls initiative twice and takes a full turn on each result. He can take two reactions per round, but only one between each of his turns."
+          },
+          {
+            "name": "Insubstantial",
+            "desc": "Morrn takes half damage from all sources except force and positive damage. If he takes radiant damage, this trait is suppressed until the start of his next turn."
+          }
+        ],
+        "abilities_bot": [
+          {
+            "name": "Gladiator’s Instinct",
+            "desc": "__Trigger__: An enemy enters a square flanking Morrn. __Effect__: Morrn makes a melee Strike against the flanking creature. On a hit, the target is pushed 15 feet."
+          },
+          {
+            "name": "Rejuvenation",
+            "desc": "If destroyed, Morrn reforms in 1d10 days unless his remains are sanctified with a __6th-level__ or higher __consecrate__ spell."
+          }
+        ],
+        "speed": "fly 40 feet (hover)",
+        "ac": 38,
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "38; __Fort__: +32, __Ref__: +26, __Will__: +28"
+          }
+        ],
+        "hp": 250,
+        "health": [
+          {
+            "name": "HP",
+            "desc": "250; __Negative Healing__; __Immunities__ disease, poison, precision, death effects, paralyzed, unconscious; __Resistances__ all damage 10 (except force, ghost touch, or positive)"
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Spectral Sword ◈",
+            "desc": "__Melee__ +32; __Damage__ 2d12+10 negative damage, and the target is pushed 5 feet. The target takes 10 persistent negative damage (__DC 30__ to end). Morrn marks the target until the end of his next turn."
+          }
+        ],
+        "sourcebook": "_Homebrew_"
+      }
+    ],
+    [
+      "Pit Shadow",
+      {
+        "columns": 1,
+        "forcecolumns": true,
+        "layout": "Basic Pathfinder 2e Layout",
+        "source": "HB",
+        "name": "Pit Shadow",
+        "level": "Creature 13",
+        "alignment": "CE",
+        "size": "Medium",
+        "trait_01": "Undead",
+        "trait_02": "Shadow",
+        "trait_03": "Incorporeal",
+        "trait_04": "Spirit",
+        "modifier": 22,
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "Perception +22; __darkvision__;"
+          }
+        ],
+        "languages": "Common;",
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "__Stealth__: +28 (1d20+28); __Acrobatics__: +26 (1d20+26); "
+          }
+        ],
+        "abilityMods": [
+          -5,
+          8,
+          6,
+          -4,
+          2,
+          4
+        ],
+        "abilities_mid": [
+          {
+            "name": "Shadow Stealth",
+            "desc": "The Pit Shadow can Hide in dim light or darkness even without cover or concealment."
+          },
+          {
+            "name": "Phasing",
+            "desc": "The Pit Shadow can move through solid objects and creatures as though they were difficult terrain. It must end its turn in an unoccupied space."
+          }
+        ],
+        "abilities_bot": [
+          {
+            "name": "Pit Wail",
+            "desc": "(<STATBLOCK-WIKI-LINK>sonic<STATBLOCK-WIKI-LINK>) (15-foot cone), once every `dice: 1d4` 1d4 rounds; +24 vs Fortitude, `dice: 3d6` 3d6 sonic damage and pushed 10 feet on hit (20 feet and knocked prone on crit). No effect on failure."
+          }
+        ],
+        "speed": "fly 40 feet (hover)",
+        "ac": 34,
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "34; __Fort__: +24 (1d20+24); __Ref__: +28 (1d20+28); __Will__: +22 (1d20+22);"
+          }
+        ],
+        "hp": 50,
+        "health": [
+          {
+            "name": "HP",
+            "desc": "50; negative healing, rejuvenation; __Immunities__ poison, precision, death effects, disease, paralyzed, unconscious; __Resistances__ Resistance 10 to all damage (except force, ghost touch, or positive)"
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Melee",
+            "desc": "⬻ Pit Strike +26 (<STATBLOCK-WIKI-LINK>magical<STATBLOCK-WIKI-LINK>); __Damage__ 2d10+8 (2d10+8) negative"
+          }
+        ],
+        "sourcebook": "_Homebrew_"
+      }
     ]
   ],
   "defaultLayouts": {

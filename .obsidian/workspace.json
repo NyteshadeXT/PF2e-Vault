@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/7D - Scarblade (D189).md",
+                "file": "8) Adventures/Tyrant of the Scar.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "7D - Scarblade (D189)"
+              "title": "Tyrant of the Scar"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/8B - The Runecutter's Ruin (D186).md",
+                "file": "8) Adventures/8A - Pit of Delirium (D190).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "8B - The Runecutter's Ruin (D186)"
+              "title": "8A - Pit of Delirium (D190)"
             }
           },
           {
@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "DC Calculators"
             }
+          },
+          {
+            "id": "976c26b9ae98f59a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2) compendium/equipment/items/Homebrew/avengers-needle-hb.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "avengers-needle-hb"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -307,46 +321,80 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "921490a797deb2b3",
+  "floating": {
+    "id": "1a7c223e4912b2ee",
+    "type": "floating",
+    "children": [
+      {
+        "id": "dfef9937f8e59245",
+        "type": "window",
+        "children": [
+          {
+            "id": "0918e0509804212c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3a456a0340fdec35",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {},
+                  "icon": "lucide-view",
+                  "title": "Player View"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -768,
+        "y": 0,
+        "width": 768,
+        "height": 807,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "483ee638b2c1cb30",
   "lastOpenFiles": [
-    "8) Adventures/7C - Head in the Clouds (D184).md",
-    "8) Adventures/7D - Scarblade (D189).md",
-    "1) GM Screen/DC Calculators.md",
-    "4) Bestiary/homebrew/N/neogi.md",
-    "8) Adventures/7B - Reflections of Ruin (D196).md",
-    "8) Adventures/8A - Pit of Delirium (D190).md",
+    "zz-Attachments/Eye of Fractured Potential.webp",
     "8) Adventures/Tyrant of the Scar.md",
+    "1) GM Screen/DC Calculators.md",
+    "2) compendium/equipment/items/Homebrew/crystal-of-recursive-aberration.md",
+    "2) compendium/equipment/items/Homebrew/eye-of-fractured-potential.md",
+    "2) compendium/equipment/items/Homebrew/avengers-needle-hb.md",
+    "2) compendium/equipment/items/items.md",
+    "4) Bestiary/unique-creatures/Chaos-Scarred Eye Tyrant.md",
+    "5) World/The Chaos Scar/Chaos Scar - Player View.md",
+    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+    "2) compendium/equipment/equipment.md",
+    "zz-Attachments/Chaos-Scarred Eye Tyrant.webp",
+    "2) compendium/equipment/items/panacea.md",
+    "8) Adventures/8A - Pit of Delirium (D190).md",
+    "8) Adventures/7B - Reflections of Ruin (D196).md",
+    "2) compendium/equipment/items/mage-bane-aoa5.md",
+    "8) Adventures/8B - The Runecutter's Ruin (D186).md",
+    "8) Adventures/7D - Scarblade (D189).md",
+    "zz-Attachments/Chaos Scar - Player View.jpg",
+    "6) NPCs/Restwell Keep/Restwell Keep.md",
+    "4) Bestiary/homebrew/P/pit-shadow.md",
+    "4) Bestiary/unique-creatures/Morrn Bladeclaw.md",
+    "8) Adventures/7C - Head in the Clouds (D184).md",
+    "4) Bestiary/homebrew/N/neogi.md",
     "8) Adventures/9A - Heart of the Scar (D197).md",
     "8) Adventures/8C - The Star-Touched Grove (D219).md",
-    "8) Adventures/8B - The Runecutter's Ruin (D186).md",
     "zz-Attachments/8B - The Runecutter's Ruin (D186)-1751088939990.webp",
     "zz-Attachments/neogi.webp",
     "4) Bestiary/homebrew/U/umber-hulk.md",
     "zz-Attachments/umber-hulk.webp",
     "4) Bestiary/homebrew/M/meenlock-spawn.md",
     "4) Bestiary/homebrew/U",
-    "2) Compendium/gm/hazards/Homebrew/chaos-shard.md",
-    "2) Compendium/gm/hazards/Homebrew/chaos-shard-delirium-ii.md",
-    "4) Bestiary/homebrew/M/meenlock-stalker.md",
-    "2) Compendium/gm/hazards/Homebrew/chaos-shard-delirium.md",
-    "4) Bestiary/homebrew/M/magma-hurler.md",
-    "4) Bestiary/homebrew/B/beholder-eye-tyrant.md",
-    "4) Bestiary/homebrew/N/necrotic-gelatinous-cube.md",
-    "4) Bestiary/homebrew/R/rust-monster-enhanced.md",
-    "4) Bestiary/homebrew/T/trained-dire-wolf.md",
-    "4) Bestiary/homebrew/T/twig-blight.md",
-    "4) Bestiary/homebrew/T/tengu-wing-mage.md",
-    "4) Bestiary/homebrew/X/xulgath-leader-14.md",
-    "4) Bestiary/homebrew/S/shard-slave.md",
-    "4) Bestiary/homebrew/S/savage-fiendblood-minotaur.md",
     "zz-Attachments/meenlock-stalker.webp",
     "3) Rules/assets/img/reaction.svg",
     "3) Rules/assets/img/load.svg",
     "3) Rules/assets/img/hour-glass.svg",
-    "3) Rules/assets/img/delay.svg",
     "4) Bestiary/homebrew/X",
-    "zz-Attachments/Valtaris.webp",
-    "zz-Attachments/8A - Pit of Delirium (D190)-1751055390606.webp",
     "4) Bestiary/rage-of-elements",
     "4) Bestiary/New folder",
     "4) Bestiary/homebrew/F",

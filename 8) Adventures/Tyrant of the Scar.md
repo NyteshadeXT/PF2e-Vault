@@ -2,14 +2,23 @@
 title: Tyrand of the Scar
 adventure_status: Not Started
 adventure_level: 13
-total_xp: 80
+total_xp: 120
 completed_xp: 0
 awarded_pp: 0
 awarded_gp: 0
 awarded_sp: 0
 awarded_cp: 0
-awarded_permanent_items: []
-awarded_consumable_items: []
+awarded_permanent_items:
+  - name: Eye of Fractured Potential
+    ilvl: 15
+    gp: 6000
+  - name: Crystal of Recursive Aberration
+    ilvl: 15
+    gp: 6500
+awarded_consumable_items:
+  - name: Vial of Entropic Ichor
+    ilvl: 15
+    gp: 700
 ---
 
 The Eye Tyrant the players released from it's prison has been experimenting with the chaotic energy it has found throughout the Scar.  Little by little it has been transformed into a new and deadly creature.  Unknown to the creature another entity has taken particular interest, Kataklysmos.  He has decided to use the Tyrant to attack and hopefully defeat the PCs as they are starting to get to close to his followers.
@@ -33,7 +42,7 @@ This encounter can take place anywhere in the scar.  The players will find thems
 
 # Encounter 1: To the Death
 **Encounter Difficulty:**   
-- [ ] Moderate (80 XP) Level 13
+- [ ] Severe (120 XP) Level 15
 
 [[Chaos-Scarred Eye Tyrant.webp|Show to Players]]
 ![[Chaos-Scarred Eye Tyrant.webp|500]]
@@ -68,9 +77,9 @@ When the Tyrant dies read the following:
 > [!tip]+ Treasure
 > If the players investigate the corpse they make a DC 33 [[skills#Perception|Perception]] check.  If successful, from the ruined corpse of the Eye Tyrant the players may collect the following.
 > 
-> - [ ] permanent::[[eye-of-fractured-potential|Eye of Fractured Potential]] [ilvl::15] [gp::6000]
-> - [ ] permanent::[[crystal-of-recursive-aberration|Crystal of Recursive Aberration]] [ilvl::15] [gp::6500]
-> - [ ] consumable::[[vial-of-entropic-ichor|Vial of Entropic Ichor]] [ilvl::15] [gp::700]
+> - [x] permanent::[[eye-of-fractured-potential|Eye of Fractured Potential]] [ilvl::15] [gp::6000]
+> - [x] permanent::[[crystal-of-recursive-aberration|Crystal of Recursive Aberration]] [ilvl::15] [gp::6500]
+> - [x] consumable::[[vial-of-entropic-ichor|Vial of Entropic Ichor]] [ilvl::15] [gp::700]
 
 
 

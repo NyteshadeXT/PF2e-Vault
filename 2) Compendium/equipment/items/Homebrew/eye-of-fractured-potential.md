@@ -21,7 +21,7 @@ aliases:
 **Price:** 6,000 gp  
 **Usage:** Worn over one eye; **Bulk** L  
 
-This jagged monocle is formed from one of the tyrant’s preserved crystalline eye stalks. The gem pulses with chaotic insight and unpredictable clarity.  Upon investing and wearing it you gain a +2 item bonus to [[skills#Perception|Perceptoin]] checks and Will saves against illusions or mind-affecting effects.  
+This jagged monocle is formed from one of the tyrant’s preserved crystalline eye stalks. The gem pulses with chaotic insight and unpredictable clarity.  Upon investing and wearing it you gain a +2 item bonus to [[skills#Perception|Perception]] checks and Will saves against illusions or mind-affecting effects.  
 
 You are permanently affected by _true seeing_ on your dominant eye, but you gain vulnerable 5 to visual sensory overload effects (e.g., _color spray_, _prismatic spray_).
 

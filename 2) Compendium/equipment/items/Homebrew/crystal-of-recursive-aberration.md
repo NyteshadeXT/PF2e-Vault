@@ -33,7 +33,6 @@ You cast duplicative form (as [[mirror image]], but you create 1d4+1 duplicates 
 - **Failure** Your form shifts violently—you instead cast [[gaseous form]] on yourself (no save, no resistance check). You remain in this form for 1d4 rounds and can't dismiss it early.
 - **Critical Failure** In addition, you take `dice: 4d6` 4d6 chaotic damage and become [[conditions#Confused|Confused]] for 1 round after returning to normal.
 
-The crystal regains its power after 24 hours.
 ```
 
 *Source: Homebrew*

@@ -41,10 +41,6 @@ abilities_top:
 abilities_mid:
   - name: "Buoyant"
     desc: "The Chaos-Scarred Eye Tyrant defies gravity as if swimming through air. It cannot fall and remains airborne unless completely incapacitated."
-  - name: "Shifty"
-    desc: "⬲  Slik strides 5 feet without triggering reactions."
-  - name: "Triggered Traps"
-    desc: "⬺ ([[manipulate]], [[fire]], [[mechanical]]); __Trigger__ A creature moves adjacent to or interacts with one of Slik's placed traps. __Effect__ Slik triggers the trap, forcing the triggering creature to make a Reflex save (DC 28)."
 
 abilities_bot:
   - name: "Antimagic Cone"
