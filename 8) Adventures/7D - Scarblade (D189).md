@@ -78,7 +78,7 @@ The crumbling trail and the collapsing trail appear not much different from any 
 ![[7D - Scarblade _D189_-1745509018613.webp|right]]
 
 **Encounter Difficulty:**   
-- [ ] Trivial (20 XP) Level 13
+- [x] Trivial (20 XP) Level 13
 ```ad-embed-ability
 title: *Crumbling Trail* **Hazard** Level 13
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait") 
@@ -99,7 +99,7 @@ The ground beneath the creature gives way, causing them to stumble and slide.
 ```
 
 **Encounter Difficulty:**   
-- [ ] Trivial (20 XP) Level 13
+- [x] Trivial (20 XP) Level 13
 ```ad-embed-ability 
 title: *Collapsing Trail* **Hazard** Level 13
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait") 
@@ -124,7 +124,7 @@ The trail gives way in a dangerous landslide of rubble.
 The flash flood area should show signs of severe runoff and erosion. It will still appear safe if there hasn’t been much rain lately, but the pit can unleash the water from a pond into a gushing torrent.
 
 **Encounter Difficulty:**   
-- [ ] Trivial (20 XP) Level 13
+- [x] Trivial (20 XP) Level 13
 ```ad-embed-ability 
 title: *Flash Flood* **Hazard** Level 13
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait") 
@@ -148,7 +148,7 @@ Torrential waters rush through the area, sweeping everything in their path.
 The gusting wind is useful chiefly against flying characters, but it can be turned against anyone with some effect.
 
 **Encounter Difficulty:**   
-- [ ] Trivial (20 XP) Level 13
+- [x] Trivial (20 XP) Level 13
 ```ad-embed-ability 
 title: *Gusting Wind* **Hazard** Level 13
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait") 
@@ -235,7 +235,7 @@ If Morrn is killed, the pit becomes dormant for 24 hours. The spiked chain pinwh
 
 # Fight 1: One on One
 **Encounter Difficulty:**   
-- [ ] Severe (30 XP) Level 13
+- [x] Severe (30 XP) Level 13
 
 > [!info]- GM Only
 > Be sure to change the Player indicator in the encounter to the players who will be particapting in the actual encounter.
@@ -250,7 +250,7 @@ creatures:
 
 # Fight 2: Duo's
 **Encounter Difficulty:**   
-- [ ] Severe (80 XP) Level 13
+- [x] Severe (80 XP) Level 13
 
 ```encounter
 name: Duos
@@ -263,7 +263,7 @@ creatures:
 
 # Fight 3: Team Fight
 **Encounter Difficulty:**   
-- [ ] Extreme (160 XP) Level 13
+- [x] Extreme (160 XP) Level 13
 
 ```encounter
 name: Team Fight
@@ -303,38 +303,6 @@ The trail gives way in a dangerous landslide of rubble.
 
 **Reset** The hazard resets at the start of the next round.
 ```
-
-
----
-name: Spiked Chain Pinwheel
-type: Hazard
-level: 12
-rarity: Uncommon
-traits: Mechanical, Trap, Object
-perception: Automatic
-initiative: +19
-hp: 130
-ac: 29
-fort: 28
-ref: 26
-will: —
-hardness: 10
-immunities: Mental, Necrotic, Poison, Precision, All Conditions, Ongoing Damage
-resistances:
-  all: 5
-description: A rotating mechanical device embedded in the center of a pit. Spiked chains lash outward in alternating patterns, sweeping the area with deadly force.
-routine:
-  effect: The pinwheel spins one-quarter turn per round, sweeping chains outward. It makes two sweeping attacks each round, alternating direction.
-  [two-action] Chain Sweep (attack, manipulate)
-  **Effect** The pinwheel makes two sweeping attacks, one in each direction (determined by its current rotation state—e.g., NW/SE or NE/SW).  
-  **Attack** +25 vs. Reflex DC of creatures in a 20-foot burst (Close Burst 4).  
-  **Hit** 4d8+8 slashing damage, the target is knocked prone and **immobilized** (Escape DC 32).  
-  **Critical Hit** The target is also **grabbed** in addition to being immobilized.
-  **Bloodied Effect** (At 65 HP or lower): The trap malfunctions slightly, reducing to one attack per round.
-disable:
-  - **Thievery DC 33 (3 actions)** — Success disables the pinwheel entirely. Failure triggers a reactionary attack on the disabling creature.
-  - **Thievery DC 28 (2 actions)** — Success reduces the pinwheel’s attack bonus to +22. Failure triggers a reactionary attack on the disabling creature.
-
 
 ## Features of the Area
 **Illumination:** During the day, bright illumination from an overcast sky. At night, dim illumination cast by the crystal block that holds the Scarblade. Dim illumination in the buildings and pit rooms. 

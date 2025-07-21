@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "5) World/The Chaos Scar/Chaos Scar - GM View.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/Tyrant of the Scar.md",
+                "file": "8) Adventures/7D - Scarblade (D189).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tyrant of the Scar"
+              "title": "7D - Scarblade (D189)"
             }
           },
           {
@@ -83,12 +83,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2) compendium/equipment/items/Homebrew/avengers-needle-hb.md",
-                "mode": "preview",
+                "file": "2) compendium/gm/afflictions/blackfrost-gw3.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "avengers-needle-hb"
+              "title": "blackfrost-gw3"
+            }
+          },
+          {
+            "id": "bb2764ced1fd173e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
@@ -347,53 +357,85 @@
           }
         ],
         "direction": "vertical",
-        "x": -768,
-        "y": 0,
-        "width": 768,
-        "height": 807,
+        "x": 4096,
+        "y": -216,
+        "width": 640,
+        "height": 672,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "b7f5886617317273",
+        "type": "window",
+        "children": [
+          {
+            "id": "2ce33c0c64c93342",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a99b7f302a21581a",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "zz-Attachments/7D - Scarblade _D189_-1745509559353.webp"
+                  },
+                  "icon": "lucide-image",
+                  "title": "7D - Scarblade _D189_-1745509559353"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 3456,
+        "y": -216,
+        "width": 640,
+        "height": 672,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "483ee638b2c1cb30",
+  "active": "ec62640f440ca2e1",
   "lastOpenFiles": [
+    "zz-Attachments/7D - Scarblade _D189_-1745509559353.webp",
+    "8) Adventures/7D - Scarblade (D189).md",
+    "8) Adventures/Completed/Tyrant of the Scar.md",
+    "2) compendium/equipment/items/Homebrew/vial-of-entropic-ichor.md",
+    "8) Adventures/Completed/7B - Reflections of Ruin (D196).md",
+    "8) Adventures/7C - Head in the Clouds (D184).md",
+    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+    "7) Players/Ediza.md",
+    "zz-Attachments/Vial of Entropic Ichor.webp",
+    "2) compendium/equipment/items/Homebrew/eye-of-fractured-potential.md",
+    "zz-Attachments/Chaos-Scarred Eye Tyrant.webp",
+    "7) Players/Mordak.md",
+    "7) Players/Varas.md",
+    "7) Players/Winter.md",
+    "5) World/Party Configuration.md",
+    "4) Bestiary/party-npc/Zeta Windsnap.md",
+    "8) Adventures/8A - Pit of Delirium (D190).md",
+    "2) compendium/gm/afflictions/blackfrost-gw3.md",
+    "2) compendium/gm/afflictions/afflictions.md",
+    "2) compendium/equipment/Grave-Tide.md",
+    "2) compendium/equipment/items/Homebrew/avengers-needle-hb.md",
     "zz-Attachments/Eye of Fractured Potential.webp",
-    "8) Adventures/Tyrant of the Scar.md",
     "1) GM Screen/DC Calculators.md",
     "2) compendium/equipment/items/Homebrew/crystal-of-recursive-aberration.md",
-    "2) compendium/equipment/items/Homebrew/eye-of-fractured-potential.md",
-    "2) compendium/equipment/items/Homebrew/avengers-needle-hb.md",
     "2) compendium/equipment/items/items.md",
     "4) Bestiary/unique-creatures/Chaos-Scarred Eye Tyrant.md",
     "5) World/The Chaos Scar/Chaos Scar - Player View.md",
-    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
     "2) compendium/equipment/equipment.md",
-    "zz-Attachments/Chaos-Scarred Eye Tyrant.webp",
     "2) compendium/equipment/items/panacea.md",
-    "8) Adventures/8A - Pit of Delirium (D190).md",
-    "8) Adventures/7B - Reflections of Ruin (D196).md",
-    "2) compendium/equipment/items/mage-bane-aoa5.md",
-    "8) Adventures/8B - The Runecutter's Ruin (D186).md",
-    "8) Adventures/7D - Scarblade (D189).md",
     "zz-Attachments/Chaos Scar - Player View.jpg",
-    "6) NPCs/Restwell Keep/Restwell Keep.md",
-    "4) Bestiary/homebrew/P/pit-shadow.md",
-    "4) Bestiary/unique-creatures/Morrn Bladeclaw.md",
-    "8) Adventures/7C - Head in the Clouds (D184).md",
-    "4) Bestiary/homebrew/N/neogi.md",
-    "8) Adventures/9A - Heart of the Scar (D197).md",
-    "8) Adventures/8C - The Star-Touched Grove (D219).md",
     "zz-Attachments/8B - The Runecutter's Ruin (D186)-1751088939990.webp",
     "zz-Attachments/neogi.webp",
-    "4) Bestiary/homebrew/U/umber-hulk.md",
     "zz-Attachments/umber-hulk.webp",
-    "4) Bestiary/homebrew/M/meenlock-spawn.md",
     "4) Bestiary/homebrew/U",
     "zz-Attachments/meenlock-stalker.webp",
     "3) Rules/assets/img/reaction.svg",
     "3) Rules/assets/img/load.svg",
-    "3) Rules/assets/img/hour-glass.svg",
     "4) Bestiary/homebrew/X",
     "4) Bestiary/rage-of-elements",
     "4) Bestiary/New folder",

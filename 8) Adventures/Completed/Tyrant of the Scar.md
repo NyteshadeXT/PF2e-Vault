@@ -1,6 +1,6 @@
 ---
 title: Tyrand of the Scar
-adventure_status: Not Started
+adventure_status: Completed
 adventure_level: 13
 total_xp: 120
 completed_xp: 0
@@ -42,7 +42,7 @@ This encounter can take place anywhere in the scar.  The players will find thems
 
 # Encounter 1: To the Death
 **Encounter Difficulty:**   
-- [ ] Severe (120 XP) Level 15
+- [x] Severe (120 XP) Level 15
 
 [[Chaos-Scarred Eye Tyrant.webp|Show to Players]]
 ![[Chaos-Scarred Eye Tyrant.webp|500]]

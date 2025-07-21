@@ -509,7 +509,7 @@ title: *Brazier Topple*
 > - [x] consumable::[[shrieking-skull-g-g|Shrieking Skull]] [ilvl::12] [gp::400]
 > - [x] consumable::[[mage-bane-aoa5|Mage Bane]] [ilvl::12] [gp::325]
 > - [x] consumable::[[fury-cocktail-tv|Fury Cocktail (Moderate)]] [ilvl::12] [gp::360]
-> - [x] consumable::[[panacea|Panacea]] [ilvl::13] [gp::450]
+> - [x] consumable::[[Panacea]] [ilvl::13] [gp::450]
 > - [x] consumable::[[control-sand-ec5|Spell Scroll (7th Level) Control Sand]] [ilvl::13] [gp::600]
 
 # Concluding the Adventure
