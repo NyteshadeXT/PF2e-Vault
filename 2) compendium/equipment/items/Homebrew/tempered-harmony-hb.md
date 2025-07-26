@@ -40,5 +40,6 @@ title: **Activate** [>>](../../../../3)%20Rules/core-rulebook/chapter-9-playing-
 > • 1: [[rolling-geode|Rolling Geode]]
 > • 2: [[apothecarys-garden|Apothecary's Garden]]
 > • 3: [[grappling-vine|Grappling Vine]]
+> • 4: [[weapon-potency|Weapon Potency +2]] [[underground-bounty|Underground Bounty]]
 
 *Source: Homebrew*

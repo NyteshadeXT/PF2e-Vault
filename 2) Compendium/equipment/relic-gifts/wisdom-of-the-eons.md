@@ -14,6 +14,6 @@ aliases:
 
 **Aspect** Battle
 **Prerequisite** Experience of the Ages
-**Effect** Gain another feat up to level 6 from any of the listed classes listed in Experience of the Ages gift for which you qualify.
+**Effect** Gain another feat up to level 6 from either Fighter, Barbarian, Champion, Monk Rogue and Ranger that you qualify for.
 
 *Source: Golarion Unseen: Relics of Wrath p. 7*  

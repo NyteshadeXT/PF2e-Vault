@@ -40,5 +40,6 @@ title: **Activate** [>>](Rules/core-rulebook/chapter-9-playing-the-game.md#Actio
 > • 1: [[lawful-assault|Lawful Assault]]
 > • 2: [[tools-of-war|Tools of War]]
 > • 3: [[axiomatic]]
+> • 4: [[weapon-potency|Weapon Potency +2]] [[wisdom-of-the-eons|Wisdom of the Eons]]
 
 *Source: Homebrew*

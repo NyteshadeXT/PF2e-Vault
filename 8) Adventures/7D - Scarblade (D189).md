@@ -8,8 +8,8 @@ awarded_pp: 0
 awarded_gp: 0
 awarded_sp: 0
 awarded_cp: 0
-awarded_permanent_items: []
-awarded_consumable_items: []
+awarded_permanent_items: 
+awarded_consumable_items:
 ---
 
 ![[7D - Scarblade _D189_-1745441774995.webp|right]]
@@ -284,26 +284,6 @@ creatures:
 - 1: [[Morrn Bladeclaw]]
 ```
 
-```ad-embed-ability 
-title: *Collapsing Trail* **Hazard** Level 13
-[environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait") 
-
-- **Complexity** Complex
-- **Stealth** +30 legendary  
-****
-The trail gives way in a dangerous landslide of rubble.
-**Disable** [[skills#Acrobatics|Acrobatics]] or [[skills#Athletics|Athletics]] DC 34 (to bypass the trail without triggering it)
-
-> [!note]+  **Sudden Collapse** ([[manipulate]], [[attack]]) `pf2:r`
-> **Trigger** A creature enters a square of collapsing trail while moving uphill.  
-> **Effect**  The hazard makes a melee attack against the triggering creature:  
-> **Attack** +27 vs. Reflex DC
-> **Hit** `dice: 6d6+6` 6d6+6 bludgeoning damage, the creature falls prone and slides 25 feet (5 squares) downhill. If the creature is already prone, it takes no damage, but its turn ends immediately.
-> **Miss** The creature takes half damage and slides 10 feet (2 squares) downhill. If already prone, no damage is taken and its turn ends immediately.
-
-**Reset** The hazard resets at the start of the next round.
-```
-
 ## Features of the Area
 **Illumination:** During the day, bright illumination from an overcast sky. At night, dim illumination cast by the crystal block that holds the Scarblade. Dim illumination in the buildings and pit rooms. 
 **Blocks (red shaded areas):** These are solid stone blocks 10 feet high. They rise up from the floor only for the final battle against Morrn Bladeclaw.
@@ -315,3 +295,8 @@ The trail gives way in a dangerous landslide of rubble.
 **Pit Rooms:** These small rooms are used to hold combatants, willingly or unwillingly. Some have decaying ladders that lead to trapdoors (T) on the surface. From above, the trapdoors are overgrown with 
 moss and weeds, so that a DC 36 [[skills#Perception|Perception]] check is needed to spot one.
 **Crystal Block:** This glowing crystal provides cover and holds the Scarblade. It is immune to all damage but shatters when Morrn Bladeclaw is first bloodied.
+
+> [!tip]+ Treasure
+> Sitting in the remains of the crystal block is the Scarblade waiting for it's new user to take possession of it.
+> 
+> - [ ] permanent::[[scarblade|Scarblade]] [ilvl::13] [gp::2500]

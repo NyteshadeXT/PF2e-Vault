@@ -37,6 +37,7 @@ title: Harmony Strike command,  [Interact](Rules/actions/interact.md)
 > • 1: [[vengeance]]
 > • 2: [[orders-edge|Order's Edge]]
 > • 3: **Relic Power (Chaos Bane)**: Once per day, when facing a creature that embodies chaos, you can activate the Avenger's Needle to become a beacon of order. For 1 minute, the weapon emits a 20-foot aura that imposes a -2 status penalty to attack rolls and damage rolls for creatures of chaotic alignment within the area.
+> • 4: [[weapon-potency|Weapon Potency +2]] & [[wounding|Wounding]]
 
 *Source: Homebrew*
 
