@@ -1,15 +1,18 @@
 ---
 title: Scarblade
-adventure_status: Not Started
+adventure_status: Completed
 adventure_level: 13
 total_xp: 490
-completed_xp: 0
+completed_xp: 490
 awarded_pp: 0
 awarded_gp: 0
 awarded_sp: 0
 awarded_cp: 0
-awarded_permanent_items: 
-awarded_consumable_items:
+awarded_permanent_items:
+  - name: Scarblade
+    ilvl: 13
+    gp: 2500
+awarded_consumable_items: []
 ---
 
 ![[7D - Scarblade _D189_-1745441774995.webp|right]]
@@ -274,7 +277,7 @@ creatures:
 
 # Fight 3: Finals
 **Encounter Difficulty:**   
-- [ ] Severe (140 XP) Level 13
+- [x] Severe (140 XP) Level 13
 
 ```encounter
 name: Finals
@@ -299,4 +302,4 @@ moss and weeds, so that a DC 36 [[skills#Perception|Perception]] check is needed
 > [!tip]+ Treasure
 > Sitting in the remains of the crystal block is the Scarblade waiting for it's new user to take possession of it.
 > 
-> - [ ] permanent::[[scarblade|Scarblade]] [ilvl::13] [gp::2500]
+> - [x] permanent::[[scarblade|Scarblade]] [ilvl::13] [gp::2500]

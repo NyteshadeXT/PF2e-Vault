@@ -49,7 +49,7 @@ speed: fly 40 feet (hover)
 ac: 38
 armorclass:
   - name: AC
-    desc: "38; __Fort__: +32, __Ref__: +26, __Will__: +28"
+    desc: "38; __Fort__: +32 (1d20+32);, __Ref__: +26 (1d20+24);, __Will__: +28 (1d20+28);"
 
 hp: 250
 health:
@@ -58,6 +58,6 @@ health:
 
 attacks:
   - name: Spectral Sword ◈
-    desc: "__Melee__ +32; __Damage__ 2d12+10 negative damage, and the target is pushed 5 feet. The target takes 10 persistent negative damage (__DC 30__ to end). Morrn marks the target until the end of his next turn."
+    desc: "__Melee__ +32; __Damage__ `dice: 2d10+10` 2d12+10 negative damage, and the target is pushed 5 feet. The target takes 10 persistent negative damage (__DC 30__ to end). Morrn marks the target until the end of his next turn."
 
 sourcebook: "_Homebrew_"
