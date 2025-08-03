@@ -34,7 +34,7 @@ abilityMods: [3, 2, 0, 0, 3, 2]
 
 abilities_bot:
   - name: "Pack Attack"
-    desc: "  A gnoll cultist deals 1d4 (1d4) extra damage to any creature that's within reach of at least two of the gnoll cultist's allies."
+    desc: "  A gnoll cultist deals (1d4) 1d4 extra damage to any creature that's within reach of at least two of the gnoll cultist's allies."
   - name: "No Mercy"
     desc: "⬲ When an enemy misses the war fang with a melee attack, the gnoll can make a melee attack against it."
 abilities_top:
@@ -55,9 +55,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ longsword +18 ([[versatile P]]); __Damage__ 2d10+9 (2d10+9) slashing"
+    desc: "⬻ longsword +18 ([[versatile P]]); __Damage__ (2d10+9) 2d10+9 slashing"
   - name: Melee
-    desc: "⬻ jaws +18 ([[agile]]); __Damage__ 2d6+6 (2d6+6) piercing"
+    desc: "⬻ jaws +18 ([[agile]]); __Damage__ (2d6+6) 2d6+6 piercing"
 
 sourcebook: "_Homebrew_."
 ```

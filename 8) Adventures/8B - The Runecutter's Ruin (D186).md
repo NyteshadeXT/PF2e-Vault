@@ -1,6 +1,14 @@
 ---
 title: The Runecutter's Ruin
-adventure_status: "Not Started"
+adventure_status: Not Started
+total_xp: 330
+completed_xp: 0
+awarded_pp: 0
+awarded_gp: 0
+awarded_sp: 0
+awarded_cp: 0
+awarded_permanent_items: []
+awarded_consumable_items: []
 ---
 ![[8B - The Runecutter's Ruin (D186)-1751088939990.webp|right]]
 
@@ -115,6 +123,297 @@ As the adventurers come within sight of the hill the stones stand on, they see s
 
 Upon the hill, Olek chants divine words of power. When the adventurers ascend the hill, read the text at the start of encounter 3: The Shattered Prison. If they take a measured approach and try to talk to Olek, consult the “Parley with Olek” sidebar.
 
+- [ ] challenge (20 XP) Level 14
+> [!tip]+ Skill Challenge
+> # Following the Tracks
+> 
+> Once the adventurers hear about Olek or learn about the runes, they’ll need to find his location. Depending on how much time you have and the preferences of your players, you can handwave these events and simply move straight to the runic library; drop clues for them to follow, such as runes in places they’ve been or with people they know; or use this skill challenge.
+> 
+> This challenge assumes the adventurers have found some of the runes, but don’t know who Olek is. If they’ve already been specifically told about the runepriest (possibly by Lord Drysdale), they start with 1 success in the skill challenge.
+> 
+> **Level:** 14 (20 xp)
+> **Complexity:** 1 (requires 4 successes before 3 failures)
+> **Primary Skills:**  [[skills#Diplomacy|Diplomacy]], [[skills#Perception|Perception]], [[skills#Religion|Religion]], [[skills#Stealth|Stealth]]
+> **Secondary Skills:** Skill List
+> 
+> ### Primary Skills
+> **Diplomacy (DC 15, 1 success):** The adventurer tries to find out who in the area knows how to scribe divine runes. The character can ask around or a DC 31 [[gather-information|Gather Information]] check to recall the name Olek Dael. Either result gives 1 success. You can use the same checks and results if the character looks for members of the Brotherhood of the Scar.
+> 
+> **Perception (DC 15, 1 success):** The adventurers make a DC 36 Perception group check where one of the players it the primary seeker and the others use [[aid]]. If the group check succeeds, the heroes gain 1 success. Choose one adventurer who succeeded on the check. That character notices **a person who bears a rune** (see aside) moving about nearby.
+> 
+> **Religion (DC 33, 1 success):** This option allows the character to reach out mystically and sense the presence of divine runes. With a DC 33 Religion check, the character “feels” the nearest one of Olek’s runes not yet discovered. The adventurers find a note inscribed by Olek or a person bearing a rune granted by Olek. This discovery nets the party 1 success.
+> 
+> **Stealth (DC 30, 1 success):** If the adventurers find someone who bears a rune (by succeeding on Perception or Religion checks), they can track that person. Have the adventurers following the runebound person make a DC 30 Stealth group check. If they fail, their quarry notices them and leads them astray, resulting in 1 failure. Otherwise, they gain 1 success. If they capture the person who has the rune, they can use interaction skills to press him or her for more information gaining an additional success.
+> 
+> ### Success
+> The adventurers learn that Olek Dael, an accomplished runepriest, maintains a library in a grove of statues. They also discover where the library is located.
+> 
+> ### Failure 
+> The adventurers learn the location of the runic library, but the dwarf or one of his allies notices the party’s efforts. The heroes face tougher odds when they arrive at the library. Add another minotaur charger (see Encounter 2) to each encounter. Don’t award extra XP for defeating these additional monsters. Carefully monitor the adjustments in encounters resulting from the runes and from failing this skill challenge. Adding a minotaur to each encounter might make them too difficult, particularly for lower level parties. In that case, other penalties could be opening the encounters with the characters surprised or with their opponents in more advantageous positions.
+
+> [!aside| right] 
+> ### Quick Followers
+> Some results indicate that the adventurers see a person whom Olek has blessed with a rune. The short descriptions below can be used if you need to roleplay a runebound creature on the fly.
+> 
+> **Tavitz Patrella:** This teenage human boy accepts messenger jobs from Olek. The boy’s rune gives him greater endurance for the long trips (usually on foot, though he sometimes “borrows” a horse) between clients. (If the characters follow him over a long distance, they must succeed on a DC 32 [[skills#Athletics|Athletics]] group check or they lose him.) Tavitz suspects that the dwarf is involved with dangerous people, but keeps his nose out of it. He’s sarcastic and unhelpful, but open to outright bribery (30 gp or so).
+> 
+> **Victory:** Bound to Olek by a common devotion to Hextor, the nephalim priestess named Victory uses disguises to wander around in settlements and assess whether they’re prepared for war. The spy is cannier than Tavitz, and her rune gives her heightened senses—darkvision (the [[skills#Stealth|Stealth]] group check to follow her is DC 34). She sometimes flirts with the idea of betraying Olek so she can ascend to a higher place in the Brotherhood, but she has yet to settle on a plan with a reasonable chance of success.
+
+## Encounter 1: Grove of Statues
+**Encounter Difficulty:**   
+- [ ] severe (90 XP) Level 14
+
+![[8B - The Runecutter's Ruin - Grove of Statues.webp.webp]]
+
+Olek’s lieutenant Ptolema stands guard on the rise above the underground library. Her other guards, creatures she has turned into stone statues, lie scattered about the grove. Thus, at the start of the fight, every enemy but Ptolema appears to be a statue.
+
+When the adventurers come within sight of the grove, have the players place their miniatures on the northeast portion of the map, on or near the road, and read:
+> [!note]+ Read Aloud
+> Ahead, the path meets a stone bridge that crosses a shallow stream. Beyond the bridge, the trees lie fallen and ruined. A few statues of humanoid creatures, their faces frozen in anguished expressions, are scattered among the dead foliage. Painted runes cover each statue.
+
+Ptolema has a good vantage point. Unless the adventurers are especially stealthy, she sees them with time to spare. Make a [[skills#Stealth|Stealth]] check for her. If she remains hidden, she waits for the first character to move into range, then takes a surprise round. If she rolls a low initiative, she uses the surprise round to kiss the nephilim statue (see “Tactics” below). If she thinks she’ll be able to act early in the first round, she instead fires an arrow on the surprise round.
+
+When the adventurers notice Ptolema, read:
+> [!note]+ Read Aloud
+> On the small hill ahead, a woman with green, scaly skin stands guard. Her hair is a mass of writhing snakes, and she holds a shortbow. A dark green rune covers her right forearm.
+
+At the start of the encounter, place the following foes on the map: 
+ - 1: [[Ptolema]] M
+ - 1: [[tiefling-occultist|Tiefling Occultist]] T
+ - 4: [[runic-statue|Runic Statue]] S
+
+```encounter
+name: Grove of Statues
+party: Chaos Scar
+creatures:
+- 1: [[Ptolema]] 
+- 1: [[Tiefling Occultist]]
+- 4: [[Runic Statue]]
+```
+
+## Tactics
+> [!aside| right] 
+> ### Rune Transference
+> When Ptolema is defeated, her rune dissipates and re-forms on the arm of one of the adventurers. It should be a character who makes weapon attacks. The rune transfers immediately—the new bearer is able to use it right away. Meanwhile, Ptolema dissipates in a gush of water.
+
+The first chance she gets, Ptolema moves adjacent to the statue of the nephilim and kisses it as a minor action, dispelling the petrification.
+
+When Ptolema frees the nephilim, read:
+> [!note]+ Read Aloud
+> The woman kisses the lips of a statue next to her. It turns from stone to flesh, reverting to a living nephilim in leather armor and a red cape. Coughing as he returns to life, he recites a brief religious phrase. The statues across the grove begin shuffling toward you—not turned to flesh, but animated by the runes that cover them.
+
+Ptolema stays on the hill, guarding the entrance to the library and counting on her petrifying stare to take out anyone who gets close. The nephilim follows her lead, trying to get targets taking her ongoing poison damage within his soul fire burst.
+
+The statues possess little intelligence, but are able to gang up to take advantage of their stone fist attacks. Either of the other monsters can call the statues, commanding them to attack anyone who gets close.
+
+The monsters in the library below hear the fight above and start preparing for invaders. Jorag is happy to let Ptolema take the worst of an attack; after all, if she’s gone, he has more influence with Olek. Still, if the battle drags on, Jorag and one or more minotaurs might come up to help.
+
+## Features of the Area
+**Illumination:** Bright light during the day; dim light at night.
+**Cliffs:** The 5-foot-high embankments require DC 33 [[skills#Athletics|Athletics]] checks to climb.
+**Statues:** When they aren’t active, the statues provide partial cover to creatures in their squares and are difficult terrain.
+**Trees:** A creature in a square with a bush or the large tree’s branches gains partial cover. The large tree’s center square is blocking terrain. The fallen trees are difficult terrain.
+**Water:** The steam is slow and shallow. A Medium creature can wade through it as difficult terrain. A Small creature requires a DC 33 [[skills#Athletics|Athletics]] check to move through it as difficult terrain; otherwise, the creature flounders, stopping and losing the remainder of its move.
+
+## Encounter 2: The Runic Library
+**Encounter Difficulty:**   
+- [ ] severe (100 XP) Level 14
+
+![[8B - The Runecutter's Ruin - Runic Library.webp.webp]]
+
+> [!aside| right] 
+> ### Rune Transference
+> When Jorag is knocked out or killed, his neck runes dissipate and re-form on one of the adventurers. Any character could gain it, but it’s likely to jump to another heavily armored and armed melee combatant. It avoids a character who already has a rune. The rune transfers immediately—the new bearer is able to use it right away. Meanwhile, Jorag dissipates in a gout of flame.
+
+The monsters have been warned about the adventurers’ arrival by the sound of fighting outside. Make a [[skills#Stealth|Stealth]] check for the gargoyle. If the gargoyle beats them, it doesn’t make itself known until its initiative. Otherwise, the adventurers notice the gargoyle when they enter.
+
+When the adventurers open the metal double doors, read:
+> [!note]+ Read Aloud
+> In the large room beyond the doors, painted runes cover every surface. Some markings are active, pulsing with power. Other signs are sketchy—inactive and roughly painted.
+> 
+> A basin of bubbling water sits in the center of the room, flashing with ghostly images of different runes. The tiles around it have runes carved in them as well. At the far west end, connected by two short hallways, a dimly lit room holds two large statues.
+> 
+> Right in front of the stairs, a circle of runes is scribed on the floor. About a third of them glow. Past that, two old, eroded stone sarcophagi rise from the floor. Minotaurs with falchions hold positions by them. One stands; the other sits on a sarcophagus. As you arrive, they heft their weapons and prepare to charge.
+
+At the start of the encounter, place the following foes on the map: 
+ - 1: [[Jorag Hobgoblin Lieutenant]] H
+ - 1: [[gargoyle-rock-hurler|Gargoyle Rock Hurler]] H
+ - 2: [[minotaur-hunter-elite|Minotaur Hunter Elite]] M
+
+```encounter
+name: Runic Library
+party: Chaos Scar
+creatures:
+- 1: [[Jorag]] 
+- 1: [[Gargoyle Rock Hurler]]
+- 2: [[Minotaur Hunter Elite]]
+```
+
+## Tactics
+Jorag does not wear armor at all times, but should have plenty of time to don it once he hears the combat commence above. If you want to add a moment of drama, you could have Jorag delay his preparations as he listens to the fighting. In that case, he gets a late start on donning his armor and requires the first round of this encounter to complete that process. In that case, he remains behind the door until his initiative comes up during the second round, then steps out into the battle.
+
+When Jorag arrives, read:
+> [!note]+ Read Aloud
+> A tall hobgoblin in red scale mail throws open the door, brandishing a barbed whip. He screams to his cohorts, “Prove your worth! Show you can tear apart these interlopers, and Olek will reward you as he did me!” He pulls loose his gorget to show a series of runes encircling his neck, burning with faint orange embers.
+
+Jorag stays close to the minotaur, keeping them within 2 squares so he can protect them with his swift whip power. He uses his boon as soon as he can after being bloodied, then moves adjacent to an enemy and pulls another to him with his whip.
+
+The monsters know how the runic tiles work. The minotaur take full advantage, pushing adventurers into the active rune-warded tiles using goring rush.
+
+The gargoyle stays back, flitting between the sides of the statue room and hurling rocks..
+
+At the start of each round, the runes on the floor cycle. See the descriptions of the runic circle, runic font, and rune-warded tiles under “Features of the Area” below.
+
+> [!aside| right] 
+> ### Disabling the Runic Font
+> Any hero who examines the runic font closely and succeeds on a DC 35 [[skills#Arcana|Arcana]] or DC 30 [[skills#Religion|Religion]] check understands that the cycling runes are a power source accessible by a specially bonded creature, presumably Olek, from a distance. The adventurer also understands that the cycle can be disrupted. The party won’t have enough time during combat to do so, however.
+> 
+> The simplest way to stop the cycle is to empty the holy water from the font. The heroes can also remove the runes on the floor, either on the smaller runic circle or on the rune-warded tiles. Destroying runes on the warded tiles prevents the corresponding section of the runic circle from glowing and disrupts the magic. If the adventurers are able to disrupt the process, Encounter 3: The Shattered Prison runs a little differently. Removing runes from the runic circle does not stop the process on the tiles—it just stops indicating what tiles are affected—and does not disrupt the cycle.
+
+## Features of the Area
+**Illumination:** Bright light in the main areas; dim light in the statue room and bunk room.
+**Beds:** Beds are difficult terrain. The footlockers have weak locks ([[skills#Thievery|Thievery]] DC 30 to pick) and contain a few coins each. These coins are part of the treasures for this section of the adventure (see “Treasure” below).
+**Ceiling:** The ceiling is 10 feet high.
+**Doors:** The door to Olek’s study is locked ([[skills#Thievery|Thievery]] DC 33). The double door entrance and the door to the bunk room have no locking mechanisms.
+**Runic Circle:** Depending on which rune is showing in the runic font, a section of the runic circle near the entrance glows brightly. The colored areas indicate which one is lit at any time. When the adventurers enter, the red runes are lit. The illumination then cycles to yellow at the start of the next round, then green, then blue, then back to red. (The color coding is for your reference; no such colors appear on the runes themselves.) The lit runes of the circle indicate which rune-warded tiles around the font are active; the circle runes have no effect on their own.
+**Runic Font:** The basin in the middle of the room is filled with roiling holy water. Runes appear across its surface, cycling between four major symbols. Each symbol lights some of the runes in the runic circle and activates some of the rune-warded tiles around the font, creating a sort of resonant prayer—a cyclical mantra that strengthens Olek’s rune smithing.
+**Rune-Warded Tiles:** The tiles around the font don’t glow or give any other outward indication of their effect, but they match the pattern of the runic circle. When an area is active (the four tiles shown in red on the first round, for example), any adventurer who moves into one of those squares by any means takes ongoing 10 radiant damage (save ends) and is teleported to one of the corresponding squares on the runic circle.
+**Sarcophagi:** These battered, closed stone sarcophagi were left by the creatures that once lived here. They contain nothing but looted, splintered, brittle bones.
+**Statues:** Two statues stand at the western end of the library, one of Bane (where the gargoyle starts) and one of a sphinx. The Bane statue appears of more recent origin, and both are covered with runes. The reason for the Bane statue is obvious to anyone who knows Olek’s background. A DC 17 Arcana or Religion check reveals that sphinxes are sometimes treated as minor deities by monsters. Perhaps the creatures that created this place before Olek arrived worshiped the sphinx. Olek might have kept the sphinx statue as a symbol of the mystery he was trying to solve while he mastered the forbidden runes.
+
+> [!tip]+ Treasure
+> In addition to Jorag's gear, in the footlockers the players find a combined total of 42 gp.  262 gp of value in art objects can be found in Olek’s study and 200 gp worth of gems are found in the runic font.  Also found in the runic font is a [[thousand-pains-fulu-tv|Thousand-Pains Fulu]] and a [[balisse-feather-apg|Balisse Feather]]
+> 
+> - [ ] gp::504
+> - [ ] permanent::[[striking|+1 Greater Striking Whip]] [ilvl::12] [gp::1100]
+> - [ ] permanent::[[weapon-potency| +2 Javelin]] [ilvl::10] [gp::935]
+> - [ ] permanent::[[weapon-potency| +2 Javelin]] [ilvl::10] [gp::935]
+> - [ ] permanent::[[weapon-potency| +2 Javelin]] [ilvl::10] [gp::935]
+> - [ ] permanent::[[armor-potency| +2 Resilient Scale Mail]] [ilvl::11] [gp::1400]
+> - [ ] consumable::[[balisse-feather-apg|Balisse Feather]] [ilvl::12] [gp::400]
+> - [ ] consumable::[[thousand-pains-fulu-tv|Thousand-Pains Fulu]] [ilvl::14] [gp::630]
+
+
+## Encounter 3: The Shattered Prison
+**Encounter Difficulty:**   
+- [ ] severe (120 XP) Level 14
+
+> [!aside| right] 
+> ### Parley with Olek
+> It could be easy to paint the runepriest as a madman, but he’s following a rational, if misguided, path. He chose to follow Hextor not because he “turned evil,” but because he thinks conquest is the only way to form an ordered society out of the unrelenting chaos of the world. Olek knows little about, and never planned to release, the primordials. He sincerely believes he can control the ancient runes and has no idea why they were forbidden.
+> 
+> Olek could be willing to negotiate with the heroes, but not if it’s clear they’ve been beating up his lieutenants. He instantly recognizes the runes he’s placed and considers anyone bearing the Rune of Poison or Rune of Banefire as an enemy.
+> 
+> If the adventurers aren’t obviously antagonists and try to negotiate, Olek listens for only a short while before returning to his chanting. If they are disguised as followers of Hextor or members of the Brotherhood of the Scar, the adventurers could engage Olek’s attention a bit longer. Even so, he has little patience for anyone who opposes his plan to establish an orderly society through Bane’s conquest. 
+> 
+> If the adventurers offer religious arguments that explain how Olek’s rune smithing could set a primordial loose, they might convince him to stop what he’s doing. But no one can dissuade him from his ultimate goal. If he’s unable to bring about Hextor’s conquest through the ancient runes, he’ll find another way.
+
+![[8B - The Runecutter's Ruin - Shattered Prison.webp]]
+
+Just in time, the adventurers find Olek preparing to call down what he thinks is the avatar of his god.
+
+When the adventurers arrive, read:
+> [!note]+ Read Aloud
+> Olek stands encircled by monoliths, chanting loudly in Supernal. The standing stones—completely covered with runes—glow faintly, pulsing stronger whenever he finishes a stanza.
+> 
+> Overhead, a mass of sea-blue clouds descends, crackling with red-orange sheet lightning. This uncanny combination creates the appearance of fire coursing across an airborne ocean. For a moment, the clouds gather into shapes that resemble arms stretching down toward the earth. A flash of lightning illuminates a grinning visage in the clouds.
+
+Make [[skills#Stealth|Stealth]] checks for the gargoyles.
+
+If an adventurer notices one or more gargoyles, point them out and read:
+> [!note]+ Read Aloud
+> Grasping the side of a standing stone is a statue of a winged creature covered in runes. It moves ever so slightly.
+
+If the characters talk to Olek, consult the “Parley with Olek” sidebar. If they manage to convince him that what he’s doing will free one or more primordials, he stops his chanting and erases the runes from the stones. Even so, Hoshotath begins to break through and starts attacking. Olek sides with the adventurers and fights against the elementals while trying to remove the runes.
+
+> [!aside| right] 
+> ### Rune Transference
+> If Olek is defeated, the massive rune on his torso dissipates and re-forms on one of the adventurers. It likely binds to a character who uses the divine power source or has a high Religion modifier. It avoids any character who already has a rune. The rune transfers immediately—the new bearer is able to use it right away
+
+If the adventurers fight Olek, read:
+> [!note]+ Read Aloud
+> As you prepare to attack, Olek extends a warhammer covered with intricate runes toward you. He shouts, “Hextor gives gifts beyond knowledge. Expect no quarter. Expect defeat!”
+
+At the start of the encounter, place the following foes on the map: 
+ - 1: [[Olek Dael]] O
+
+```encounter
+name: Shattered Prison 1
+party: Chaos Scar
+creatures:
+- 1: [[Olek Dael]]
+```
+
+The first time Hoshotath does a sweep, place the following foes on the map: 
+ - 2: [[elemental-inferno|Elemental Inferno]] F
+ - 1: [[elemental-tsunami|Elemental Tsunami]] W
+
+```encounter
+name: Shattered Prison 2
+party: Chaos Scar
+creatures:
+- 2: [[Elemental Inferno]] 
+- 1: [[Elemental Tsunami]]
+```
+
+## Tactics
+When Olek becomes bloodied, he uses rune of command. The activation of this final rune allows Hoshotath to reach through the bounds of its prison into the world. Pause to read the following, then continue with the rest of the runepriest’s turn.
+
+At some point during olek’s next turn after he is bloodied, read:
+> [!note]+ Read Aloud
+> The dwarf concentrates, and a massive rune on his torso flares. Bands of light stream out from the symbols to strike the standing stones all around. The clouds above coalesce into a massive humanoid shape formed half of water and half of flame. Rain pouring from one half hisses into rolling steam as it nears the other half. The ill-formed creature appears to be struggling, like it’s breaking through a barrier.
+> 
+> Olek peers at it with confusion and says, “Hextor? Have you answered my prayers?”
+
+Roll initiative for Hoshotath. Each time the primordial’s initiative comes up, it sweeps its limbs across the battlefield along the lines indicated on the map—a three-fingered hand of fire and two tendrils of water. Each character caught in the path takes damage: 1d10 + 10 fire damage and ongoing 5 fire damage (save ends) for the fiery fingers; 2d10 + 10 damage for the watery tendrils.
+
+The first time Hoshotath does a sweep, its primordial flesh sloughs off, leaving three fire elementals and two water elementals behind. They appear in any square the primordial’s appendages passed through, adjacent to a person or object. The development assumes that the adventurers are trouncing Olek and the gargoyles at this point. If not, you can roll the extra enemies out more slowly, dropping two or so each round.
+
+The elementals have no loyalty to Olek, attacking both sides equally. They don’t put much strategy behind their attacks, though they do gang up on anyone who starts using cold attacks against any elemental or who attempts to deactivate pillars.
+
+Each time Hoshotath sweeps the field, it also smashes two standing stones. The power invested in them discharges, widening the cracks in the metaphysical walls of its prison.
+
+**Olek’s Behavior:** Even after the primordial appears, Olek doesn’t realize it isn’t an avatar of his god. Once he gets hit by the primordial or one of the elementals, he’s pretty sure he’s made a mistake. He might attack the elementals or attempt to deactivate standing stones using his rune. If near defeat, he might also flee. If so, make sure the adventurers know that containing Hoshotath is impossible without the assistance of Olek’s rune. They must access that rune, through him or despite him.
+
+**Sealing the Prison:** `pf2:3` The bearer of the rune of command (whether Olek or someone else) understands that he or she can deactivate a pillar with a triple action. (If the primordial is about to destroy the last two pillars, pick a recipient of the rune who can act, or use a hero point, before Hoshotath does). The Flaming Sea must destroy all the pillars while they are active. If any pillar is deactivated, the primordial is sucked back into its prison, unable to fight its way out.
+
+**Disabling the Runic Font:** If the adventurers disrupted Olek’s runic system in the library you can add flavor by having the runepriest chant some words to access his runic font during the battle. When the power does not flow, he realizes that the heroes have attacked his library.
+
+## Features of the Area
+**Illumination:** Bright light during the day; dim light at night (from the near continuous lightning).
+**Cliffs:** The 5-foot-high embankments require DC 32 [[skills#Athletics|Athletics]] checks to climb.
+**Rock:** The large stone is 10 feet high and requires a DC 35 [[skills#Athletics|Athletics]] check to climb.
+**Standing Stones:** The stones are blocking terrain. After a stone is destroyed by Hoshotath, its square becomes difficult terrain.
+**Trees:** A creature in a square with a bush or the large tree’s branches gains partial cover. The large trees’ center squares are blocking terrain.
+
+> [!tip]+ Treasure
+> In addition to Olek's gear the players discover what he has been using for his rituals and rune smithing. This includes 10 pp, 209 gp 4 sp, a +2 Greater Striking Warhammer, +2 Greater Resilient Half Plate, an [[elemental-wayfinder-lopsg|Elemental Wayfinder (Earth)]], a 7th level spell scroll for the [[Contingency]] spell and a [[Hydra Mutagen]].
+> 
+> - [ ] pp::10
+> - [ ] gp::209
+> - [ ] sp::4
+> - [ ] permanent::[[striking|+2 Greater Striking Warhammer]] [ilvl::12] [gp::2000]
+> - [ ] permanent::[[resilient|+2 Greater Resilient Half Plate]] [ilvl::14] [gp::5400]
+> - [ ] permanent::[[elemental-wayfinder-lopsg|Elemental Wayfinder (Earth)]] [ilvl::9] [gp::600]
+> - [ ] consumable::[[contingency|Spell scroll (7th level) (Contingency)]] [ilvl::13] [gp::600]
+> - [ ] consumable::[[Hydra Mutagen|Hydra Mutagen]] [ilvl::13] [gp::600]
+
 ## Conclusion
-If the adventurers defeat Olek without killing him, they can take him to an authority such as Lord Drysdale for imprisonment or deal with him on their own terms. The runepriest’s defeat does not change his goals, however. If the adventurers let him go, he’s likely to turn up again with more power and a more baleful plan.
+If the adventurers defeat Olek and deactivate at least one standing stone before they are all smashed, Hoshotath screams as it is sucked back into its runic prison. Any runes bound to the adventurers (and anyone else Olek favored) fade as the primordia’s thought-construct prison re-forms as strong as it was before the runepriest began manipulating the runes. If the adventurers defeat Olek without killing him, they can take him to an authority such as Lord Drysdale for imprisonment or deal with him on their own terms. The runepriest’s defeat does not change his goals, however. If the adventurers let him go, he’s likely to turn up again with more power and a more baleful plan.
+
+If the primordial destroys all the stones, it breaks through, returning to the world. The burning half of its body starts a massive forest fire while its watery half triggers a flood that drowns the nearby countryside. Hoshotath is free to rampage and destroy; the adventurers have failed utterly and doomed the surrounding lands. It might not be too late to save the world, but the adventurers have an uphill battle if they mean to overcome the power of a primordial (see “After the Adventure”).
+
+## After the Adventure
+The events of this adventure can influence the future of your game.
+
+**Primordial Echoes:** Although the adventurers sent Hoshotath crawling back to its prison, the primordial’s partial presence in the world has set forces in motion. Just as its “hands” left elementals behind, its body infested the Chaos Scar with elemental threats. Use elemental creatures in future encounters in the Chaos Scar and create elemental hazards spawned by Hoshotath’s presence in other locations.
+
+**The Flaming Sea Unleashed:** If the adventurers failed to stop Hoshotath from escaping its prison, the primordial rampages through the countryside. Still weak from atrophy and the strenuous escape, the primordial can be defeated without setting off a new war. The adventurers need to act quickly, however, and gain outside assistance if they’re going to return the Flaming Sea to imprisonment.
+
+**The Chained God:** Similar runes helped to bind Tharizdun. A part of that monstrosity’s mind began to stir when the great runes binding Hoshotath were overtaxed. His cultists begin to see visions calling them to reclaim Olek’s runes and to begin freeing trapped primordials, paving the way for their master’s release.
+
+
+
+
+
 

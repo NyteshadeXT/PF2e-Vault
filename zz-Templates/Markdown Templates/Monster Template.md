@@ -64,7 +64,7 @@ hp: 425
 health:
   - name: HP
     desc: "425;  __Immunities__ fire, paralyzed, sleep; __Weaknesses__ cold 20;"
-
+saves:
 
 attacks:
   - name: Melee

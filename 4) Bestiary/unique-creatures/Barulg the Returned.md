@@ -11,7 +11,6 @@ level: 9
 ---
 
 ```statblock
-columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: "Custom"

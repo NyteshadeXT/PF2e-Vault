@@ -20,8 +20,7 @@ level: "Creature 9"
 rare_02: "Uncommon"
 alignment: "CE"
 size: "Small"
-trait_04: "Humanoid"
-trait_05: "Kobold"
+
 modifier: 19
 perception:
   - name: "Perception"

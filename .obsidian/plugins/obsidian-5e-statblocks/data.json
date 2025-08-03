@@ -1148,6 +1148,809 @@
         ],
         "sourcebook": "_Homebrew_"
       }
+    ],
+    [
+      "Runic Statue",
+      {
+        "layout": "Basic Pathfinder 2e Layout",
+        "source": "Custom",
+        "name": "Runic Statue",
+        "level": "Creature 10",
+        "rarity": "Uncommon",
+        "alignment": "N",
+        "size": "Medium",
+        "trait_01": "Construct",
+        "trait_02": "Earth",
+        "trait_03": "Magical",
+        "modifier": 22,
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "+20; darkvision"
+          }
+        ],
+        "languages": "—",
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "Athletics +23"
+          }
+        ],
+        "abilityMods": [
+          6,
+          2,
+          4,
+          -4,
+          4,
+          -2
+        ],
+        "speed": "25 feet",
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "30; __Fort__ +22, __Ref__ +18, __Will__ +20"
+          }
+        ],
+        "health": [
+          {
+            "name": ""
+          },
+          {
+            "name": "HP",
+            "desc": "170; __Immunities__ disease, mental, necrotic, paralyzed, poison, unconscious; __Resistances__ poison 10"
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Stone Fist",
+            "desc": "⬻ +24 (magical); __Damage__ 3d12+10 bludgeoning plus Knock Prone if adjacent to an ally"
+          }
+        ],
+        "abilities_top": [
+          {
+            "name": "Runes of Strength",
+            "desc": "At the start of combat, each statue has 1 rune of strength. For every additional rune of strength it has beyond the first, it deals an additional 1d12 damage on melee Strikes."
+          }
+        ],
+        "abilities_bot": [
+          {
+            "name": "Runic Gift ⬲",
+            "desc": "**Trigger** The statue is reduced to 0 HP. **Effect** It shatters, and each other Runic Statue within 30 feet gains one additional rune of strength until the end of the encounter."
+          }
+        ],
+        "mtime": 1753819178656,
+        "path": "4) Bestiary/homebrew/R/runic-statue.md"
+      }
+    ],
+    [
+      "Runic Statue",
+      {
+        "layout": "Basic Pathfinder 2e Layout",
+        "source": "Custom",
+        "name": "Runic Statue",
+        "level": "Creature 10",
+        "rarity": "Uncommon",
+        "alignment": "N",
+        "size": "Medium",
+        "trait_01": "Construct",
+        "trait_02": "Earth",
+        "trait_03": "Magical",
+        "modifier": 22,
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "+20; darkvision"
+          }
+        ],
+        "languages": "—",
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "Athletics +23"
+          }
+        ],
+        "abilityMods": [
+          6,
+          2,
+          4,
+          -4,
+          4,
+          -2
+        ],
+        "speed": "25 feet",
+        "ac": 30,
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "30; __Fort__ +22, __Ref__ +18, __Will__ +20"
+          }
+        ],
+        "hp": 170,
+        "health": [
+          {
+            "name": "HP",
+            "desc": "170; __Immunities__ disease, mental, necrotic, paralyzed, poison, unconscious; __Resistances__ poison 10"
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Stone Fist",
+            "desc": "⬻ +24 (magical); __Damage__ 3d12+10 bludgeoning plus Knock Prone if adjacent to an ally"
+          }
+        ],
+        "abilities_top": [
+          {
+            "name": "Runes of Strength",
+            "desc": "At the start of combat, each statue has 1 rune of strength. For every additional rune of strength it has beyond the first, it deals an additional 1d12 damage on melee Strikes."
+          }
+        ],
+        "abilities_bot": [
+          {
+            "name": "Runic Gift ⬲",
+            "desc": "**Trigger** The statue is reduced to 0 HP. **Effect** It shatters, and each other Runic Statue within 30 feet gains one additional rune of strength until the end of the encounter."
+          }
+        ]
+      }
+    ],
+    [
+      "Ptolema",
+      {
+        "columns": 2,
+        "forcecolumns": true,
+        "layout": "Basic Pathfinder 2e Layout",
+        "source": "Custom",
+        "name": "Ptolema",
+        "level": "Creature 13",
+        "rare_02": "Unique",
+        "size": "Medium",
+        "trait_04": "Humanoid",
+        "trait_05": "Arcane",
+        "trait_06": "Visual",
+        "modifier": 26,
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "Perception +26; __darkvision__;"
+          }
+        ],
+        "languages": "Common, Aklo",
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "__Deception__: +26 (1d20+26); __Diplomacy__: +24 (1d20+24); __Stealth__: +26 (1d20+26); __Arcana__: +22 (1d20+22); __Occultism__: +22 (1d20+22); __Society__: +22 (1d20+22)"
+          }
+        ],
+        "abilityMods": [
+          4,
+          6,
+          5,
+          3,
+          3,
+          6
+        ],
+        "abilities_top": [
+          {
+            "name": "Petrifying Gaze",
+            "desc": "⬻ (<STATBLOCK-WIKI-LINK>arcane<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>aura<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>visual<STATBLOCK-WIKI-LINK>) **30 feet**. At the end of each enemy’s turn within the aura, they must attempt a DC 34 Fortitude save. On a failure, the creature is <STATBLOCK-WIKI-LINK>conditions#slowed|Slowed 1<STATBLOCK-WIKI-LINK> for 1 minute. On a critical failure, the creature is petrified permanently. The medusa can activate or deactivate this aura using a single action with the concentrate trait."
+          },
+          {
+            "name": "Biting Snakes",
+            "desc": "`pf2:r` **Trigger** A creature ends its turn adjacent to the medusa.  **Effect** The medusa makes a snake fangs Strike."
+          }
+        ],
+        "abilities_bot": [
+          {
+            "name": "Focus Gaze",
+            "desc": "⬻ (<STATBLOCK-WIKI-LINK>arcane<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>concentrate<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>incapacitation<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>visual<STATBLOCK-WIKI-LINK> The medusa focuses their gaze on a creature within 30 feet. That creature must immediately attempt a DC 34 Fortitude save against the medusa’s petrifying gaze. If already slowed, a failure causes the creature to be permanently petrified. After attempting the save, the creature is temporarily immune until the start of the medusa’s next turn."
+          },
+          {
+            "name": "Rune of Poison",
+            "desc": "<STATBLOCK-WIKI-LINK>8B - The Runecutter's Ruin (D186)#The Forbidden Runes|Rune of Poison<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "name": "Serpent Venom",
+            "desc": "(<STATBLOCK-WIKI-LINK>Poison<STATBLOCK-WIKI-LINK>), **Saving Throw** DC 34 Fortitude; **Maximum Duration** 6 rounds  **Stage 1** (3d6) 3d6 poison damage and <STATBLOCK-WIKI-LINK>conditions#enfeebled|Enfeebled 1<STATBLOCK-WIKI-LINK> (1 round)  **Stage 2** (6d6) 6d6 poison damage and <STATBLOCK-WIKI-LINK>conditions#enfeebled|Enfeebled 2<STATBLOCK-WIKI-LINK> (1 round)"
+          }
+        ],
+        "speed": "30 feet",
+        "ac": 35,
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "35; __Fort__: +26 (1d20+26); __Ref__: +28 (1d20+28); __Will__: +24 (1d20+24);"
+          }
+        ],
+        "hp": 230,
+        "health": [
+          {
+            "name": "HP",
+            "desc": "230;  __Resistances__ poison 10"
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Melee",
+            "desc": "Shortsword +26 (<STATBLOCK-WIKI-LINK>agile<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>finesse<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>versatile S<STATBLOCK-WIKI-LINK>) __Damage__: (2d6+10) 2d6+10 piercing plus Serpent Venom"
+          },
+          {
+            "name": "Melee.",
+            "desc": "Snake Fangs +24 (<STATBLOCK-WIKI-LINK>agile<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>finesse<STATBLOCK-WIKI-LINK>) __Damage__: (2d4+10) 2d4+10 piercing plus Serpent Venom"
+          },
+          {
+            "name": "Ranged",
+            "desc": "Composite Shortbow +27 (<STATBLOCK-WIKI-LINK>deadly d10<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>magical<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>propulsive<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>range 100 ft<STATBLOCK-WIKI-LINK>) __Damage__: (2d6+9) 2d6+9 piercing plus Serpent Venom"
+          }
+        ]
+      }
+    ],
+    [
+      "Jorag",
+      {
+        "layout": "Basic Pathfinder 2e Layout",
+        "name": "Jorag",
+        "level": "Creature 14",
+        "alignment": "LE",
+        "size": "Medium",
+        "trait_01": "Humanoid",
+        "trait_02": "Goblin",
+        "trait_03": "Hobgoblin",
+        "languages": "Common, Goblin",
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "+25; __darkvision__"
+          }
+        ],
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "__Athletics__ +27, __Intimidation__ +28, __Warfare Lore__ +25"
+          }
+        ],
+        "abilityMods": [
+          4,
+          2,
+          5,
+          1,
+          2,
+          4
+        ],
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "34; __Fort__ +27, __Ref__ +24, __Will__ +29"
+          }
+        ],
+        "health": [
+          {
+            "name": "HP",
+            "desc": "230"
+          }
+        ],
+        "speed": "25 feet",
+        "abilities_top": [
+          {
+            "name": "Equipment",
+            "desc": "<STATBLOCK-WIKI-LINK>Greater Striking<STATBLOCK-WIKI-LINK> +1 <STATBLOCK-WIKI-LINK>Whip<STATBLOCK-WIKI-LINK>, +2 <STATBLOCK-WIKI-LINK>Javelin<STATBLOCK-WIKI-LINK>s (3), +2 <STATBLOCK-WIKI-LINK>Resilient Scale Mail<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "abilities_mid": [
+          {
+            "name": "Phalanx Movement",
+            "desc": "⬽ __Frequency__ once per round. __Effect__ Jorag and each adjacent ally can Step as a free action, but must end adjacent to Jorag. This does not trigger reactions."
+          },
+          {
+            "name": "Swift Whip",
+            "desc": "⬲ __Trigger__ A creature within 10 feet uses a hostile action or makes an attack that doesn't include Jorag. __Effect__ Jorag makes a Whip Strike against the triggering creature. On a hit, the target takes normal damage and the creature takes a –2 circumstance penalty to the triggering attack. This is a <STATBLOCK-WIKI-LINK>mental<STATBLOCK-WIKI-LINK> and <STATBLOCK-WIKI-LINK>emotion<STATBLOCK-WIKI-LINK> effect."
+          }
+        ],
+        "strikes": [
+          {
+            "name": "Whip",
+            "desc": "⬻ +29 (agile, finesse, nonlethal, reach 10 feet); __Damage__ 2d4+11 slashing"
+          },
+          {
+            "name": "Javelin",
+            "desc": "⬻ +29 (thrown 30 feet); __Damage__ 2d6+10 piercing"
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Gargoyle Rock Hurler",
+      {
+        "layout": "Basic Pathfinder 2e Layout",
+        "name": "Gargoyle Rock Hurler",
+        "level": "Creature 12",
+        "alignment": "NE",
+        "size": "Medium",
+        "trait_01": "Elemental",
+        "trait_02": "Earth",
+        "trait_03": "Humanoid",
+        "languages": "Terran",
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "+24; __darkvision__"
+          }
+        ],
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "__Stealth__ +24"
+          }
+        ],
+        "abilityMods": [
+          5,
+          4,
+          3,
+          -2,
+          3,
+          2
+        ],
+        "ac": 32,
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "32; __Fort__ +26, __Ref__ +22, __Will__ +22"
+          }
+        ],
+        "hp": 165,
+        "health": [
+          {
+            "name": "HP",
+            "desc": "165"
+          }
+        ],
+        "speed": "25 feet, fly 40 feet",
+        "abilities_top": [
+          {
+            "name": "Stone Defense",
+            "desc": "The gargoyle has resistance 10 to all damage from creatures more than 25 feet away (5 squares)."
+          }
+        ],
+        "abilities_mid": [
+          {
+            "name": "Hail of Hurled Stone",
+            "desc": "⬺ __Frequency__ once per round. __Effect__ The gargoyle hurls a barrage of stones. __Area__ 10-foot burst within 50 feet. __Targets__ All creatures in the area. __Strike__ +27 vs. AC; __Damage__ 2d6+7 bludgeoning, or 2d6+12 to the creature in the center square. __Miss__ Half damage."
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Claw",
+            "desc": "⬻ +25 (magical); __Damage__ 2d8+8 slashing"
+          },
+          {
+            "name": "Hurled Stone",
+            "desc": "⬻ +27 (range increment 60 feet); __Damage__ 3d6+9 bludgeoning"
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Jorag",
+      {
+        "layout": "Basic Pathfinder 2e Layout",
+        "name": "Jorag",
+        "level": "Creature 14",
+        "alignment": "LE",
+        "size": "Medium",
+        "trait_01": "Humanoid",
+        "trait_02": "Goblin",
+        "trait_03": "Hobgoblin",
+        "languages": "Common, Goblin",
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "+25; __darkvision__"
+          }
+        ],
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "__Athletics__ +27, __Intimidation__ +28, __Warfare Lore__ +25"
+          }
+        ],
+        "abilityMods": [
+          4,
+          2,
+          5,
+          1,
+          2,
+          4
+        ],
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "34; __Fort__ +27, __Ref__ +24, __Will__ +29"
+          }
+        ],
+        "health": [
+          {
+            "name": "HP",
+            "desc": "230"
+          }
+        ],
+        "speed": "25 feet",
+        "abilities_top": [
+          {
+            "name": "Equipment",
+            "desc": "<STATBLOCK-WIKI-LINK>Greater Striking<STATBLOCK-WIKI-LINK> +1 <STATBLOCK-WIKI-LINK>Whip<STATBLOCK-WIKI-LINK>, +2 <STATBLOCK-WIKI-LINK>Javelin<STATBLOCK-WIKI-LINK>s (3), +2 <STATBLOCK-WIKI-LINK>Resilient Scale Mail<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "abilities_mid": [
+          {
+            "name": "Phalanx Movement",
+            "desc": "⬽ __Frequency__ once per round. __Effect__ Jorag and each adjacent ally can Step as a free action, but must end adjacent to Jorag. This does not trigger reactions."
+          },
+          {
+            "name": "Swift Whip",
+            "desc": "⬲ __Trigger__ A creature within 10 feet uses a hostile action or makes an attack that doesn't include Jorag. __Effect__ Jorag makes a Whip Strike against the triggering creature. On a hit, the target takes normal damage and the creature takes a –2 circumstance penalty to the triggering attack. This is a <STATBLOCK-WIKI-LINK>mental<STATBLOCK-WIKI-LINK> and <STATBLOCK-WIKI-LINK>emotion<STATBLOCK-WIKI-LINK> effect."
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Whip",
+            "desc": "⬻ +29 (agile, finesse, nonlethal, reach 10 feet); __Damage__ 2d4+11 slashing"
+          },
+          {
+            "name": "Javelin",
+            "desc": "⬻ +29 (thrown 30 feet); __Damage__ 2d6+10 piercing"
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Jorag",
+      {
+        "layout": "Basic Pathfinder 2e Layout",
+        "name": "Jorag",
+        "level": "Creature 14",
+        "alignment": "LE",
+        "size": "Medium",
+        "trait_01": "Humanoid",
+        "trait_02": "Goblin",
+        "trait_03": "Hobgoblin",
+        "languages": "Common, Goblin",
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "+25; __darkvision__"
+          }
+        ],
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "__Athletics__ +27, __Intimidation__ +28, __Warfare Lore__ +25"
+          }
+        ],
+        "abilityMods": [
+          4,
+          2,
+          5,
+          1,
+          2,
+          4
+        ],
+        "ac": 34,
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "34; __Fort__ +27, __Ref__ +24, __Will__ +29"
+          }
+        ],
+        "hp": 230,
+        "health": [
+          {
+            "name": "HP",
+            "desc": "230"
+          }
+        ],
+        "speed": "25 feet",
+        "abilities_top": [
+          {
+            "name": "Equipment",
+            "desc": "<STATBLOCK-WIKI-LINK>Greater Striking<STATBLOCK-WIKI-LINK> +1 <STATBLOCK-WIKI-LINK>Whip<STATBLOCK-WIKI-LINK>, +2 <STATBLOCK-WIKI-LINK>Javelin<STATBLOCK-WIKI-LINK>s (3), +2 <STATBLOCK-WIKI-LINK>Resilient Scale Mail<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "abilities_mid": [
+          {
+            "name": "Phalanx Movement",
+            "desc": "⬽ __Frequency__ once per round. __Effect__ Jorag and each adjacent ally can Step as a free action, but must end adjacent to Jorag. This does not trigger reactions."
+          },
+          {
+            "name": "Swift Whip",
+            "desc": "⬲ __Trigger__ A creature within 10 feet uses a hostile action or makes an attack that doesn't include Jorag. __Effect__ Jorag makes a Whip Strike against the triggering creature. On a hit, the target takes normal damage and the creature takes a –2 circumstance penalty to the triggering attack. This is a <STATBLOCK-WIKI-LINK>mental<STATBLOCK-WIKI-LINK> and <STATBLOCK-WIKI-LINK>emotion<STATBLOCK-WIKI-LINK> effect."
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Whip",
+            "desc": "⬻ +29 (agile, finesse, nonlethal, reach 10 feet); __Damage__ 2d4+11 slashing"
+          },
+          {
+            "name": "Javelin",
+            "desc": "⬻ +29 (thrown 30 feet); __Damage__ 2d6+10 piercing"
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Minotaur Hunter Elite",
+      {
+        "layout": "Basic Pathfinder 2e Layout",
+        "name": "Minotaur Hunter Elite",
+        "level": "Creature 12",
+        "alignment": "CE",
+        "size": "Medium",
+        "trait_01": "Humanoid",
+        "trait_02": "Minotaur",
+        "languages": "Common, Minotaur",
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "+24; __scent (imprecise) 30 feet__"
+          }
+        ],
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "__Athletics__ +27, __Intimidation__ +24, __Survival__ +22"
+          }
+        ],
+        "abilityMods": [
+          5,
+          2,
+          4,
+          1,
+          2,
+          2
+        ],
+        "ac": 32,
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "32; __Fort__ +27, __Ref__ +23, __Will__ +22"
+          }
+        ],
+        "hp": 180,
+        "health": [
+          {
+            "name": "HP",
+            "desc": "180"
+          }
+        ],
+        "speed": "30 feet",
+        "abilities_top": [
+          {
+            "name": "Equipment",
+            "desc": "+2 <STATBLOCK-WIKI-LINK>Striking Greataxe<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>studded leather armor<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "abilities_mid": [
+          {
+            "name": "Blood Tracker",
+            "desc": "The minotaur can smell the presence of wounded creatures. It gains a +2 circumstance bonus to Survival checks to Track creatures that are below their maximum Hit Points."
+          },
+          {
+            "name": "Labyrinth Sense",
+            "desc": "The minotaur always knows the shortest, most direct route to the center of any maze or labyrinthine terrain."
+          },
+          {
+            "name": "Powerful Charge",
+            "desc": "⬺ __Requirements__ The minotaur Strides at least 10 feet in a straight line immediately before the Strike. __Effect__ The minotaur makes a horn Strike. On a hit, it deals an additional 1d8 damage and the target must succeed at a DC 32 Fortitude save or be knocked <STATBLOCK-WIKI-LINK>prone<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Greataxe",
+            "desc": "⬻ Melee +27 (magical, sweep, two-hand d12); __Damage__ (2d12+11) 2d12+11 slashing"
+          },
+          {
+            "name": "Horns",
+            "desc": "⬻ Melee +25; __Damage__ (2d8+9) 2d8+9 piercing"
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Olek Dael",
+      {
+        "layout": "Basic Pathfinder 2e Layout",
+        "source": "Converted from D&D 4e",
+        "name": "Olek Dael",
+        "level": "Creature 15",
+        "size": "Medium",
+        "trait_01": "Humanoid",
+        "trait_02": "Dwarf",
+        "modifier": 25,
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "+25; <STATBLOCK-WIKI-LINK>low-light vision<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "languages": "Common, Dwarven, Supernal",
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "_Athletics_ +29, _Religion_ +23, _Intimidation_ +24, _Crafting_ +22"
+          }
+        ],
+        "abilityMods": [
+          7,
+          1,
+          4,
+          2,
+          6,
+          3
+        ],
+        "abilities_top": [
+          {
+            "name": "Equipment",
+            "desc": "<STATBLOCK-WIKI-LINK>weapon-potency|+2<STATBLOCK-WIKI-LINK> <STATBLOCK-WIKI-LINK>striking|Greater Striking<STATBLOCK-WIKI-LINK> <STATBLOCK-WIKI-LINK>warhammer|Warhammer<STATBLOCK-WIKI-LINK>; <STATBLOCK-WIKI-LINK>armor-potency|+2<STATBLOCK-WIKI-LINK> <STATBLOCK-WIKI-LINK>resilient|Greater Resilient<STATBLOCK-WIKI-LINK> <STATBLOCK-WIKI-LINK>half-plate|Half Plate<STATBLOCK-WIKI-LINK>; <STATBLOCK-WIKI-LINK>elemental-wayfinder-lopsg|Elemental Wayfinder (Earth)<STATBLOCK-WIKI-LINK> ;"
+          }
+        ],
+        "abilities_mid": [
+          {
+            "name": "Rune Effect",
+            "desc": "Whenever Olek uses an attack power, he chooses one of its two rune effects (conquest or resistance). He gains that effect for that use of that power."
+          },
+          {
+            "name": "Stand the Ground",
+            "desc": "Olek is moved 5 feet less by any forced movement effects."
+          },
+          {
+            "name": "Steady-Footed",
+            "desc": "When Olek would be knocked <STATBLOCK-WIKI-LINK>prone<STATBLOCK-WIKI-LINK>, he can attempt a DC 30 Reflex save to remain standing."
+          },
+          {
+            "name": "Runic Font",
+            "desc": "If a Runic Font is active in the encounter, Olek gains one additional action per round."
+          },
+          {
+            "name": "Rune of Command's Curse",
+            "desc": "After Olek uses **Rune of Command's Blessing**, if he rolls a natural 5 or lower on his first attack roll during a turn, he becomes <STATBLOCK-WIKI-LINK>controlled<STATBLOCK-WIKI-LINK> by an external entity until the end of his next turn."
+          }
+        ],
+        "abilities_bot": [
+          {
+            "name": "Rune of Command’s Blessing `pf2:2` (arcane, auditory, emotion, mental)",
+            "desc": "**Frequency**: Once per encounter, usable only while below 50% HP. Olek targets all enemies in a 10-foot emanation. DC 34 Will save.\n**Success**: Unaffected.\n**Failure**: Target is <STATBLOCK-WIKI-LINK>controlled<STATBLOCK-WIKI-LINK> until the end of Olek's next turn.\n\n**Conquest Rune**: Olek gains a +2 status bonus to attack rolls until the end of his next turn.\n**Resistance Rune**: Each enemy that succeeds their save becomes <STATBLOCK-WIKI-LINK>enfeebled 1<STATBLOCK-WIKI-LINK> until the end of Olek’s next turn."
+          },
+          {
+            "name": "Runic Duality `pf2:r` (reaction, arcane, divine)",
+            "desc": "**Trigger**: A creature within Olek’s melee reach uses a manipulate, move, or attack action. **Effect**: Olek makes a Runic Warhammer Strike with one of his rune effects."
+          }
+        ],
+        "speed": "25 feet",
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "36; _Fort_ +32, _Ref_ +27, _Will_ +30"
+          }
+        ],
+        "health": [
+          {
+            "name": "HP",
+            "desc": "270; _Immunities_ <STATBLOCK-WIKI-LINK>controlled<STATBLOCK-WIKI-LINK> (from Rune of Command's Curse source only), _Resistances_ 10 radiant, 10 mental"
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Melee",
+            "desc": "Runic Warhammer +30 (magical, versatile B), Damage (3d8+13) 4d8+13 bludgeoning + **Conquest Rune**: Target must succeed a DC 34 Reflex save or fall <STATBLOCK-WIKI-LINK>prone<STATBLOCK-WIKI-LINK>. **Resistance Rune**: Olek or one ally adjacent to the target gains a +2 status bonus to AC and saves until the end of Olek’s next turn."
+          },
+          {
+            "name": "Ranged",
+            "desc": "Runic Seal +30 (30 feet, radiant), Damage (1d10+13) 1d10+13 radiant + target is <STATBLOCK-WIKI-LINK>immobilized<STATBLOCK-WIKI-LINK> (DC 34 Fortitude negates, ends at end of target’s next turn). **Conquest Rune**: Each enemy adjacent to the target takes 2d6 radiant damage. **Resistance Rune**: One ally adjacent to the target gains 20 temporary Hit Points."
+          }
+        ],
+        "sourcebook": "Homebrew"
+      }
+    ],
+    [
+      "Olek Dael",
+      {
+        "layout": "Basic Pathfinder 2e Layout",
+        "source": "Converted from D&D 4e",
+        "name": "Olek Dael",
+        "level": "Creature 15",
+        "size": "Medium",
+        "trait_01": "Humanoid",
+        "trait_02": "Dwarf",
+        "modifier": 25,
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "+25; <STATBLOCK-WIKI-LINK>low-light vision<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "languages": "Common, Dwarven, Supernal",
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "_Athletics_ +29, _Religion_ +23, _Intimidation_ +24, _Crafting_ +22"
+          }
+        ],
+        "abilityMods": [
+          7,
+          1,
+          4,
+          2,
+          6,
+          3
+        ],
+        "abilities_top": [
+          {
+            "name": "Equipment",
+            "desc": "<STATBLOCK-WIKI-LINK>weapon-potency|+2<STATBLOCK-WIKI-LINK> <STATBLOCK-WIKI-LINK>striking|Greater Striking<STATBLOCK-WIKI-LINK> <STATBLOCK-WIKI-LINK>warhammer|Warhammer<STATBLOCK-WIKI-LINK>; <STATBLOCK-WIKI-LINK>armor-potency|+2<STATBLOCK-WIKI-LINK> <STATBLOCK-WIKI-LINK>resilient|Greater Resilient<STATBLOCK-WIKI-LINK> <STATBLOCK-WIKI-LINK>half-plate|Half Plate<STATBLOCK-WIKI-LINK>; <STATBLOCK-WIKI-LINK>elemental-wayfinder-lopsg|Elemental Wayfinder (Earth)<STATBLOCK-WIKI-LINK> ;"
+          }
+        ],
+        "abilities_mid": [
+          {
+            "name": "Rune Effect",
+            "desc": "Whenever Olek uses an attack power, he chooses one of its two rune effects (conquest or resistance). He gains that effect for that use of that power."
+          },
+          {
+            "name": "Stand the Ground",
+            "desc": "Olek is moved 5 feet less by any forced movement effects."
+          },
+          {
+            "name": "Steady-Footed",
+            "desc": "When Olek would be knocked <STATBLOCK-WIKI-LINK>prone<STATBLOCK-WIKI-LINK>, he can attempt a DC 30 Reflex save to remain standing."
+          },
+          {
+            "name": "Runic Font",
+            "desc": "If a Runic Font is active in the encounter, Olek gains one additional action per round."
+          },
+          {
+            "name": "Rune of Command's Curse",
+            "desc": "After Olek uses **Rune of Command's Blessing**, if he rolls a natural 5 or lower on his first attack roll during a turn, he becomes <STATBLOCK-WIKI-LINK>controlled<STATBLOCK-WIKI-LINK> by an external entity until the end of his next turn."
+          }
+        ],
+        "abilities_bot": [
+          {
+            "name": "Rune of Command’s Blessing `pf2:2` (arcane, auditory, emotion, mental)",
+            "desc": "**Frequency**: Once per encounter, usable only while below 50% HP. Olek targets all enemies in a 10-foot emanation. DC 34 Will save.\n**Success**: Unaffected.\n**Failure**: Target is <STATBLOCK-WIKI-LINK>controlled<STATBLOCK-WIKI-LINK> until the end of Olek's next turn.\n\n**Conquest Rune**: Olek gains a +2 status bonus to attack rolls until the end of his next turn.\n**Resistance Rune**: Each enemy that succeeds their save becomes <STATBLOCK-WIKI-LINK>enfeebled 1<STATBLOCK-WIKI-LINK> until the end of Olek’s next turn."
+          },
+          {
+            "name": "Runic Duality `pf2:r` (reaction, arcane, divine)",
+            "desc": "**Trigger**: A creature within Olek’s melee reach uses a manipulate, move, or attack action. **Effect**: Olek makes a Runic Warhammer Strike with one of his rune effects."
+          }
+        ],
+        "speed": "25 feet",
+        "ac": 36,
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "36; _Fort_ +32, _Ref_ +27, _Will_ +30"
+          }
+        ],
+        "hp": 270,
+        "health": [
+          {
+            "name": "HP",
+            "desc": "270; _Immunities_ <STATBLOCK-WIKI-LINK>controlled<STATBLOCK-WIKI-LINK> (from Rune of Command's Curse source only), _Resistances_ 10 radiant, 10 mental"
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Melee",
+            "desc": "Runic Warhammer +30 (magical, versatile B), Damage (3d8+13) 3d8+13 bludgeoning + **Conquest Rune**: Target must succeed a DC 34 Reflex save or fall <STATBLOCK-WIKI-LINK>prone<STATBLOCK-WIKI-LINK>. **Resistance Rune**: Olek or one ally adjacent to the target gains a +2 status bonus to AC and saves until the end of Olek’s next turn."
+          },
+          {
+            "name": "Ranged",
+            "desc": "Runic Seal +30 (30 feet, radiant), Damage (1d10+13) 1d10+13 radiant + target is <STATBLOCK-WIKI-LINK>immobilized<STATBLOCK-WIKI-LINK> (DC 34 Fortitude negates, ends at end of target’s next turn). **Conquest Rune**: Each enemy adjacent to the target takes 2d6 radiant damage. **Resistance Rune**: One ally adjacent to the target gains 20 temporary Hit Points."
+          }
+        ],
+        "sourcebook": "Homebrew"
+      }
     ]
   ],
   "defaultLayouts": {
