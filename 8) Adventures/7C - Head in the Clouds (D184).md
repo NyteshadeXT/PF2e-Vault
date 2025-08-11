@@ -1,15 +1,30 @@
 ---
 title: Head in the Clouds
-adventure_status: Not Started
+adventure_status: Completed
 adventure_level: 13
 total_xp: 320
-completed_xp: 0
-awarded_pp: 0
-awarded_gp: 0
-awarded_sp: 0
+completed_xp: 230
+awarded_pp: 20
+awarded_gp: 200
+awarded_sp: 390
 awarded_cp: 0
-awarded_permanent_items: []
-awarded_consumable_items: []
+awarded_permanent_items:
+  - name: Unholy Weapon Potency +2 Throwing Knife
+    ilvl: 11
+    gp: 2335
+  - name: "Runestone: Energy-Resistant (Greater)"
+    ilvl: 10
+    gp: 950
+awarded_consumable_items:
+  - name: Boulder Seed
+    ilvl: 12
+    gp: 360
+  - name: Spell scroll (6th level) (Natures Reprisal)
+    ilvl: 11
+    gp: 300
+  - name: Spell scroll (5th level) (Spiritual Guardian)
+    ilvl: 9
+    gp: 150
 ---
 
 # Background
@@ -112,7 +127,7 @@ If the adventurers attack from within The Head in the Clouds, the athach close i
 
 # Encounter 2: Too Little Too Late
 **Encounter Difficulty:**   
-- [ ] Severe (110 XP) Level 13
+- [x] Severe (110 XP) Level 13
 
 Bolios begs the characters to help him contain the elementals trapped in the glyphs. They are unraveling simultaneously and each glyph requires a creature standing on it to succeed in three successive DC 31 [[skills#Arcana|Arcana]] checks. (if Bolios is dead, a character with the Arcana skill can surmise this is the case as the glyphs flash and sputter.) Characters can aid one another, but their efforts are doomed. Bolios doesn’t know that the pool in the mouth cave serves as another point of elemental containment—a natural one that Bolios missed in his effort to turn the head into his flying fortress.
 
@@ -148,7 +163,7 @@ The elementals attack relentlessly, but they focus their rage on Bolios when pos
 
 # Encounter 3: Besieged by Demons
 **Encounter Difficulty:**   
-- [ ] Severe (120 XP) Level 13
+- [x] Severe (120 XP) Level 13
 
 [[Demonic Savage Minotaur.webp|Show to Players]]
 ![[Demonic Savage Minotaur.webp|left|500]]
@@ -189,14 +204,14 @@ The demonic savage minotaur runs up through the interior of the head and the tow
 > [!tip]+ Treasure
 > Bolios gives the characters much of his wealth and belongings for defending him and driving off the attackers.  This includes 20 pp, 200 gp, 390 sp, an [[throwing-knife-ec1|Unholy Weapon Potency +2 Throwing Knife]], a [[2) Compendium/equipment/items/Homebrew/energy-resistant|Runestone: Energy-Resistant]], a [[boulder-seed-tv|Boulder Seed]] and two scrolls. One is [[natures-reprisal-som|Nature's Reprisal]] and the other is [[spiritual-guardian]]
 > 
-> - [ ] pp::20
-> - [ ] gp::200
-> - [ ] sp::390
-> - [ ] permanent::[[throwing-knife-ec1|Unholy Weapon Potency +2 Throwing Knife]] [ilvl::11] [gp::2335]
-> - [ ] permanent::[[2) Compendium/equipment/items/Homebrew/energy-resistant|Runestone: Energy-Resistant (Greater)]] [ilvl::10] [gp::950]
-> - [ ] consumable::[[boulder-seed-tv|Boulder Seed]] [ilvl::12] [gp::360]
-> - [ ] consumable::[[natures-reprisal-som|Spell scroll (6th level) (Natures Reprisal)]] [ilvl::11] [gp::300]
-> - [ ] consumable::[[spiritual-guardian|Spell scroll (5th level) (Spiritual Guardian)]] [ilvl::9] [gp::150]
+> - [x] pp::20
+> - [x] gp::200
+> - [x] sp::390
+> - [x] permanent::[[throwing-knife-ec1|Unholy Weapon Potency +2 Throwing Knife]] [ilvl::11] [gp::2335]
+> - [x] permanent::[[2) Compendium/equipment/items/Homebrew/energy-resistant|Runestone: Energy-Resistant (Greater)]] [ilvl::10] [gp::950]
+> - [x] consumable::[[boulder-seed-tv|Boulder Seed]] [ilvl::12] [gp::360]
+> - [x] consumable::[[natures-reprisal-som|Spell scroll (6th level) (Natures Reprisal)]] [ilvl::11] [gp::300]
+> - [x] consumable::[[spiritual-guardian|Spell scroll (5th level) (Spiritual Guardian)]] [ilvl::9] [gp::150]
 
 [[unholy|Unholy]]
 [[weapon-potency|Weapon Potency]]

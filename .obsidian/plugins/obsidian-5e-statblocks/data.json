@@ -1951,6 +1951,191 @@
         ],
         "sourcebook": "Homebrew"
       }
+    ],
+    [
+      "Crystal Strider",
+      {
+        "columns": 2,
+        "forcecolumns": true,
+        "layout": "Basic Pathfinder 2e Layout",
+        "source": "Pathfinder Rage of Elements",
+        "name": "Crystal Strider",
+        "level": "Creature 10",
+        "alignment": "",
+        "size": "Medium",
+        "trait_01": "<STATBLOCK-WIKI-LINK>earth<STATBLOCK-WIKI-LINK>",
+        "trait_02": "<STATBLOCK-WIKI-LINK>elemental<STATBLOCK-WIKI-LINK>",
+        "modifier": 20,
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "+20; Darkvision, Tremorsense (Imprecise) 60 Feet"
+          }
+        ],
+        "languages": "Petran",
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "Acrobatics: +19, Athletics: +23, Nature: +20"
+          }
+        ],
+        "abilityMods": [
+          7,
+          3,
+          5,
+          0,
+          4,
+          1
+        ],
+        "speed": "45 feet,  climb 45 feet",
+        "sourcebook": "_Pathfinder Rage of Elements_",
+        "ac": 29,
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "29; __Fort__ +21, __Ref__ +19, __Will__ +20"
+          }
+        ],
+        "hp": 230,
+        "health": [
+          {
+            "name": ""
+          },
+          {
+            "name": "HP",
+            "desc": "230; __Immunities__  bleed,  paralyzed,  poison,  sleep; __Weaknesses__ sonic 10"
+          }
+        ],
+        "abilities_top": [
+          {
+            "name": ""
+          }
+        ],
+        "abilities_mid": [
+          {
+            "name": ""
+          },
+          {
+            "name": "Crystal Refraction",
+            "desc": "`pf2:0`  **Trigger** The crystal strider is targeted by a light effect\n* * *\n\n**Effect** The strider redirects the triggering effect to a different creature of its choice within 30 feet or absorbs the effect harmlessly, reducing the number of rounds left to recharge Release Light by 1."
+          }
+        ],
+        "attacks": [
+          {
+            "name": ""
+          },
+          {
+            "name": "Melee",
+            "desc": "`pf2:1` Leg +21 (reach 15 feet, versatile p)\n__Damage__ (2d10+13)  2d10 + 13 bludgeoning"
+          },
+          {
+            "name": "Ranged",
+            "desc": "`pf2:1` Crystal Dart +21 (range increment 30 feet)\n__Damage__ (2d10+13)  2d10 + 13 piercing"
+          },
+          {
+            "name": "Primal Innate Spells",
+            "desc": "DC 29, attack +21; __5th __  _<STATBLOCK-WIKI-LINK>Spells/Chromatic Ray|Chromatic Ray (Release Light)<STATBLOCK-WIKI-LINK>_"
+          },
+          {
+            "name": "Precise Steps",
+            "desc": "  The crystal strider's many narrow legs allow it to ignore difficult terrain."
+          },
+          {
+            "name": "Release Light",
+            "desc": "`pf2:1` (attack,light,primal) The strider emits the light that continually refracts within them to cast <STATBLOCK-WIKI-LINK>Spells/Chromatic Ray|Chromatic Ray<STATBLOCK-WIKI-LINK> as an innate primal spell heightened to 5th rank, with a +21 spell attack roll. The crystal strider can't Release Light again for 1d4 rounds."
+          },
+          {
+            "name": "<STATBLOCK-WIKI-LINK>Bestiary Ability Glossary/Trample|Trample<STATBLOCK-WIKI-LINK>",
+            "desc": "`pf2:3`  Large or smaller, leg, DC 29 Reflex check\n\n* * *\n"
+          }
+        ]
+      }
+    ],
+    [
+      "Hezrou",
+      {
+        "columns": 2,
+        "forcecolumns": true,
+        "layout": "Basic Pathfinder 2e Layout",
+        "source": "B2",
+        "name": "Hezrou",
+        "level": "Creature 11",
+        "alignment": "CE",
+        "size": "Large",
+        "trait_03": "Amphibious",
+        "trait_04": "Demon",
+        "trait_05": "Fiend",
+        "modifier": 21,
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "Perception +21; __darkvision__;"
+          }
+        ],
+        "languages": "Abyssal, Celestial, Draconic;  telepathy 100 feet;",
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "__Arcana__: +21 (1d20+21); __Athletics__: +24 (1d20+24); __Intimidation__: +23 (1d20+23); __Stealth__: +20 (1d20+20), (Stealth: +24 (1d20+24) in swamps); "
+          }
+        ],
+        "abilityMods": [
+          7,
+          3,
+          6,
+          4,
+          5,
+          4
+        ],
+        "abilities_mid": [
+          {
+            "name": "Purity Vulnerability",
+            "desc": "  A hezrou revels in the foulness it exudes and becomes distraught when contaminations are purified. The first time in a round when a contamination is purified (such as via purify food and drink) or a toxin is neutralized (such as via neutralize poison) within 30 feet of a hezrou, the demon takes 6d6 (6d6) mental damage."
+          },
+          {
+            "name": "Stench",
+            "desc": " (<STATBLOCK-WIKI-LINK>aura<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>olfactory<STATBLOCK-WIKI-LINK>);  30 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 27 Fortitude save or become <STATBLOCK-WIKI-LINK>rules/conditions.md#Sickened|sickened 1<STATBLOCK-WIKI-LINK> (plus <STATBLOCK-WIKI-LINK>rules/conditions.md#Slowed|slowed 1<STATBLOCK-WIKI-LINK> for as long as itʼs <STATBLOCK-WIKI-LINK>rules/conditions.md#Sickened|sickened<STATBLOCK-WIKI-LINK> on a critical failure). While within the aura, affected creatures take a –2 circumstance penalty to saves against disease and to recover from the <STATBLOCK-WIKI-LINK>rules/conditions.md#Sickened|sickened<STATBLOCK-WIKI-LINK> condition. A creature that succeeds at its save is temporarily immune for 1 minute."
+          }
+        ],
+        "abilities_bot": [
+          {
+            "name": "Poisonous Pustules",
+            "desc": "⬻ (<STATBLOCK-WIKI-LINK>poison<STATBLOCK-WIKI-LINK>); __Requirements__ The hezrou is grappling a creature  __Effect__  Toxic fluids spurt from burst boils and weeping wens on the hezrou's body. A creature <STATBLOCK-WIKI-LINK>rules/conditions.md#Grabbed|grabbed<STATBLOCK-WIKI-LINK> or <STATBLOCK-WIKI-LINK>rules/conditions.md#Restrained|restrained<STATBLOCK-WIKI-LINK> by the hezrou takes 2d12+6 (2d12+6) poison damage (DC 30 basic Fortitude save)."
+          }
+        ],
+        "speed": "30 feet, swim 30 feet",
+        "ac": 31,
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "31; __Fort__: +23 (1d20+23); __Ref__: +18 (1d20+18); __Will__: +22 (1d20+22);"
+          }
+        ],
+        "hp": 245,
+        "health": [
+          {
+            "name": "HP",
+            "desc": "245;  __Weaknesses__ cold iron 10, good 10;"
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Melee",
+            "desc": "⬻ jaws (evil, magical, reach 10 feet) +24 __Damage__ 2d12+13 (2d12+13) piercing plus 1d6 (1d6) evil and Grab"
+          },
+          {
+            "name": "Melee.",
+            "desc": "⬻ claw (agile, evil, magical, reach 10 feet) +24 __Damage__ 2d8+13 (2d8+13) slashing plus 1d6 (1d6) evil"
+          }
+        ],
+        "spellcasting": [
+          {
+            "name": "Divine Innate Spells",
+            "desc": "DC 27; __4th__ <STATBLOCK-WIKI-LINK>dimension-door|dimension door<STATBLOCK-WIKI-LINK> (at will), <STATBLOCK-WIKI-LINK>divine-wrath|divine wrath<STATBLOCK-WIKI-LINK> (at will), <STATBLOCK-WIKI-LINK>gaseous-form|gaseous form<STATBLOCK-WIKI-LINK>; __5th__ <STATBLOCK-WIKI-LINK>Abyssal-plague|Abyssal plague<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>dimension-door|dimension door<STATBLOCK-WIKI-LINK>; __6th__ <STATBLOCK-WIKI-LINK>divine-wrath|divine wrath<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>paranoia<STATBLOCK-WIKI-LINK>;"
+          }
+        ],
+        "sourcebook": "_Bestiary 2_, page 67."
+      }
     ]
   ],
   "defaultLayouts": {

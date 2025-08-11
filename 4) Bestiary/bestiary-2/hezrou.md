@@ -55,9 +55,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws (evil, magical, reach <10 feet>) +24 __Damage__ 2d12+13 (2d12+13) piercing plus 1d6 (1d6) evil and Grab"
-  - name: Melee
-    desc: "⬻ claw (agile, evil, magical, reach <10 feet>) +24 __Damage__ 2d8+13 (2d8+13) slashing plus 1d6 (1d6) evil"
+    desc: "⬻ jaws (evil, magical, reach 10 feet) +24 __Damage__ 2d12+13 (2d12+13) piercing plus 1d6 (1d6) evil and Grab"
+  - name: Melee.
+    desc: "⬻ claw (agile, evil, magical, reach 10 feet) +24 __Damage__ 2d8+13 (2d8+13) slashing plus 1d6 (1d6) evil"
 
 spellcasting:
   - name: "Divine Innate Spells"

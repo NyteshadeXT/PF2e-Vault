@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/7C - Head in the Clouds (D184).md",
+                "file": "8) Adventures/8B - The Runecutter's Ruin (D186).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "7C - Head in the Clouds (D184)"
+              "title": "8B - The Runecutter's Ruin (D186)"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2) compendium/equipment/items/Homebrew/scarblade.md",
+                "file": "8) Adventures/7C - Head in the Clouds (D184).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "scarblade"
+              "title": "7C - Head in the Clouds (D184)"
             }
           },
           {
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -266,16 +266,6 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
-          },
-          {
-            "id": "a827a83d2357ce7b",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
           }
         ],
         "currentTab": 5
@@ -317,7 +307,8 @@
       "obsidian-import-json:JSON/CSV Importer": false,
       "dbfolder:Create a new database table": false,
       "templater-obsidian:Templater": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "floating": {
@@ -346,51 +337,69 @@
           }
         ],
         "direction": "vertical",
-        "x": 4096,
-        "y": -216,
-        "width": 1024,
-        "height": 800,
+        "x": 768,
+        "y": 0,
+        "width": 768,
+        "height": 816,
         "maximize": false,
         "zoom": 0
       },
       {
-        "id": "33d9a7ddc963ad05",
+        "id": "5b777750d6178b83",
         "type": "window",
         "children": [
           {
-            "id": "fc011e2a93212af5",
+            "id": "7adf24710fd370ff",
             "type": "tabs",
             "children": [
               {
-                "id": "86bd81b21c4ecb6d",
+                "id": "a6babb6597aee038",
                 "type": "leaf",
                 "state": {
-                  "type": "image",
+                  "type": "markdown",
                   "state": {
-                    "file": "zz-Attachments/Bolios Wittish.webp"
+                    "file": "2) compendium/equipment/items/throwing-knife-ec1.md",
+                    "mode": "preview",
+                    "source": true
                   },
-                  "icon": "lucide-image",
-                  "title": "Bolios Wittish"
+                  "icon": "lucide-file",
+                  "title": "throwing-knife-ec1"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 3456,
-        "y": -216,
-        "width": 640,
-        "height": 672,
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 816,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "fca8dfcc91b209de",
+  "active": "3a456a0340fdec35",
   "lastOpenFiles": [
-    "4) Bestiary/unique-creatures/Olek Dael.md",
-    "8) Adventures/8C - The Star-Touched Grove (D219).md",
+    "8) Adventures/2G - The Crossroads (D176).md",
+    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
     "8) Adventures/8B - The Runecutter's Ruin (D186).md",
+    "8) Adventures/8A - Pit of Delirium (D190).md",
+    "2) compendium/equipment/items/Homebrew/scarblade.md",
+    "8) Adventures/7C - Head in the Clouds (D184).md",
+    "7) Players/7D - Scarblade (D189).md",
+    "2) compendium/equipment/items/unholy.md",
+    "6) NPCs/Restwell Keep/Zeta Windsnap.md",
+    "6) NPCs/Restwell Keep/Restwell Keep.md",
+    "6) NPCs/Restwell Keep/Kendon Longstrider.md",
+    "zz-Attachments/Bolios Wittish.webp",
+    "zz-Attachments/Demonic Savage Minotaur.webp",
+    "8) Adventures/8C - The Star-Touched Grove (D219).md",
+    "2) compendium/equipment/items/Homebrew/avengers-needle-hb.md",
+    "7) Players/Varas.md",
+    "4) Bestiary/bestiary-2/hezrou.md",
+    "4) Bestiary/rage-of-elements/Crystal Strider.md",
+    "4) Bestiary/unique-creatures/Olek Dael.md",
     "2) Compendium/equipment/items/Hydra Mutagen.md",
     "2) Compendium/spells/Contingency.md",
     "4) Bestiary/homebrew/G/gnoll-warfang.md",
@@ -402,28 +411,12 @@
     "zz-Attachments/8B - The Runecutter's Ruin - Grove of Statues.webp.webp",
     "zz-Attachments/8B - The Runecutter's Ruin - Runic Library.webp",
     "zz-Attachments/8B - The Runecutter's Ruin - Runic Library.webp.webp",
-    "zz-Attachments/Bolios Wittish.webp",
     "4) Bestiary/elite-variants/minotaur-hunter-elite.md",
     "4) Bestiary/homebrew/G/gargoyle-rock-hurler.md",
     "4) Bestiary/homebrew/R/runic-statue.md",
     "4) Bestiary/homebrew/T/tiefling-occultist.md",
-    "4) Bestiary/unique-creatures/Ptolema.md",
-    "4) Bestiary/elite-variants/elite-variants.md",
-    "Gargoyle Rock Hurler.md",
-    "4) Bestiary/unique-creatures/Foosteth.md",
-    "4) Bestiary/unique-creatures/Barulg the Returned.md",
-    "4) Bestiary/bestiary-1/bestiary-1.md",
-    "4) Bestiary/bestiary-1/hobgoblin-soldier.md",
-    "4) Bestiary/unique-creatures/Dreadmarrow.md",
-    "4) Bestiary/unique-creatures/Fool.md",
-    "4) Bestiary/homebrew/homebrew.md",
-    "4) Bestiary/unique-creatures/Keljack.md",
-    "zz-Templates/Markdown Templates/Monster Template.md",
-    "zz-Templates/Markdown Templates/Regional Leaflet Map Template.md",
-    "zz-Templates/Markdown Templates/Combat Templates/Create New Creature.md",
     "zz-Attachments/scarblade-1745590024276.webp",
     "zz-Attachments/7D - Scarblade _D189_-1745441774995.webp",
-    "zz-Attachments/7D - Scarblade _D189_-1745509559353.webp",
     "4) Bestiary/homebrew/U",
     "4) Bestiary/homebrew/X",
     "4) Bestiary/rage-of-elements",

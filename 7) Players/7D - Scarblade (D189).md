@@ -302,4 +302,4 @@ moss and weeds, so that a DC 36 [[skills#Perception|Perception]] check is needed
 > [!tip]+ Treasure
 > Sitting in the remains of the crystal block is the Scarblade waiting for it's new user to take possession of it.
 > 
-> - [x] permanent::[[scarblade|Scarblade]] [ilvl::13] [gp::2500]
+> - [x] permanent::[[Scarblade]] [ilvl::13] [gp::2500]

@@ -60,10 +60,10 @@ attacks:
   - name: ""
 
   - name: "Melee"
-    desc: "`pf2:1` Leg +21 (reach 15 feet, versatile p)\n__Damage__  2d10 + 13 bludgeoning"
+    desc: "`pf2:1` Leg +21 (reach 15 feet, versatile p)\n__Damage__ (2d10+13)  2d10 + 13 bludgeoning"
 
   - name: "Ranged"
-    desc: "`pf2:1` Crystal Dart +21 (range increment 30 feet)\n__Damage__  2d10 + 13 piercing"
+    desc: "`pf2:1` Crystal Dart +21 (range increment 30 feet)\n__Damage__ (2d10+13)  2d10 + 13 piercing"
 
   - name: "Primal Innate Spells"
     desc: "DC 29, attack +21; __5th __  _[[Spells/Chromatic Ray|Chromatic Ray (Release Light)]]_"
