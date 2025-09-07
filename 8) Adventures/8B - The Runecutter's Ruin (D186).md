@@ -2,7 +2,7 @@
 title: The Runecutter's Ruin
 adventure_status: Not Started
 total_xp: 330
-completed_xp: 0
+completed_xp: 190
 awarded_pp: 0
 awarded_gp: 0
 awarded_sp: 0
@@ -161,7 +161,7 @@ Upon the hill, Olek chants divine words of power. When the adventurers ascend th
 
 ## Encounter 1: Grove of Statues
 **Encounter Difficulty:**   
-- [ ] severe (90 XP) Level 14
+- [x] severe (90 XP) Level 14
 
 ![[8B - The Runecutter's Ruin - Grove of Statues.webp.webp]]
 
@@ -217,7 +217,7 @@ The monsters in the library below hear the fight above and start preparing for i
 
 ## Encounter 2: The Runic Library
 **Encounter Difficulty:**   
-- [ ] severe (100 XP) Level 14
+- [x] severe (100 XP) Level 14
 
 ![[8B - The Runecutter's Ruin - Runic Library.webp.webp]]
 
@@ -225,7 +225,7 @@ The monsters in the library below hear the fight above and start preparing for i
 > ### Rune Transference
 > When Jorag is knocked out or killed, his neck runes dissipate and re-form on one of the adventurers. Any character could gain it, but it’s likely to jump to another heavily armored and armed melee combatant. It avoids a character who already has a rune. The rune transfers immediately—the new bearer is able to use it right away. Meanwhile, Jorag dissipates in a gout of flame.
 
-The monsters have been warned about the adventurers’ arrival by the sound of fighting outside. Make a [[skills#Stealth|Stealth]] check for the gargoyle. If the gargoyle beats them, it doesn’t make itself known until its initiative. Otherwise, the adventurers notice the gargoyle when they enter.
+The monsters have been warned about the adventurers’ arrival by the sound of fighting outside. Make a [[skills#Stealth|Stealth]] check for the gargoyle. If the gargoyle beats them, it doesn’t make itself known until its initiative. Otherwise, the adventurers notice the gargoyle when they enter.
 
 When the adventurers open the metal double doors, read:
 > [!note]+ Read Aloud
@@ -250,7 +250,7 @@ creatures:
 ```
 
 ## Tactics
-Jorag does not wear armor at all times, but should have plenty of time to don it once he hears the combat commence above. If you want to add a moment of drama, you could have Jorag delay his preparations as he listens to the fighting. In that case, he gets a late start on donning his armor and requires the first round of this encounter to complete that process. In that case, he remains behind the door until his initiative comes up during the second round, then steps out into the battle.
+Jorag does not wear armor at all times, but should have plenty of time to don it once he hears the combat commence above. If you want to add a moment of drama, you could have Jorag delay his preparations as he listens to the fighting. In that case, he gets a late start on donning his armor and requires the first round of this encounter to complete that process. In that case, he remains behind the door until his initiative comes up during the second round, then steps out into the battle.
 
 When Jorag arrives, read:
 > [!note]+ Read Aloud
@@ -272,31 +272,31 @@ At the start of each round, the runes on the floor cycle. See the descriptions o
 
 ## Features of the Area
 **Illumination:** Bright light in the main areas; dim light in the statue room and bunk room.
-**Beds:** Beds are difficult terrain. The footlockers have weak locks ([[skills#Thievery|Thievery]] DC 30 to pick) and contain a few coins each. These coins are part of the treasures for this section of the adventure (see “Treasure” below).
+**Beds:** Beds are difficult terrain. The footlockers have weak locks ([[skills#Thievery|Thievery]] DC 30 to pick) and contain a few coins each. These coins are part of the treasures for this section of the adventure (see “Treasure” below).
 **Ceiling:** The ceiling is 10 feet high.
 **Doors:** The door to Olek’s study is locked ([[skills#Thievery|Thievery]] DC 33). The double door entrance and the door to the bunk room have no locking mechanisms.
 **Runic Circle:** Depending on which rune is showing in the runic font, a section of the runic circle near the entrance glows brightly. The colored areas indicate which one is lit at any time. When the adventurers enter, the red runes are lit. The illumination then cycles to yellow at the start of the next round, then green, then blue, then back to red. (The color coding is for your reference; no such colors appear on the runes themselves.) The lit runes of the circle indicate which rune-warded tiles around the font are active; the circle runes have no effect on their own.
 **Runic Font:** The basin in the middle of the room is filled with roiling holy water. Runes appear across its surface, cycling between four major symbols. Each symbol lights some of the runes in the runic circle and activates some of the rune-warded tiles around the font, creating a sort of resonant prayer—a cyclical mantra that strengthens Olek’s rune smithing.
 **Rune-Warded Tiles:** The tiles around the font don’t glow or give any other outward indication of their effect, but they match the pattern of the runic circle. When an area is active (the four tiles shown in red on the first round, for example), any adventurer who moves into one of those squares by any means takes ongoing 10 radiant damage (save ends) and is teleported to one of the corresponding squares on the runic circle.
 **Sarcophagi:** These battered, closed stone sarcophagi were left by the creatures that once lived here. They contain nothing but looted, splintered, brittle bones.
-**Statues:** Two statues stand at the western end of the library, one of Bane (where the gargoyle starts) and one of a sphinx. The Bane statue appears of more recent origin, and both are covered with runes. The reason for the Bane statue is obvious to anyone who knows Olek’s background. A DC 17 Arcana or Religion check reveals that sphinxes are sometimes treated as minor deities by monsters. Perhaps the creatures that created this place before Olek arrived worshiped the sphinx. Olek might have kept the sphinx statue as a symbol of the mystery he was trying to solve while he mastered the forbidden runes.
+**Statues:** Two statues stand at the western end of the library, one of Hextor (where the gargoyle starts) and one of a sphinx. The Hextor statue appears of more recent origin, and both are covered with runes. The reason for the Hextor statue is obvious to anyone who knows Olek’s background. A DC 17 Arcana or Religion check reveals that sphinxes are sometimes treated as minor deities by monsters. Perhaps the creatures that created this place before Olek arrived worshiped the sphinx. Olek might have kept the sphinx statue as a symbol of the mystery he was trying to solve while he mastered the forbidden runes.
 
 > [!tip]+ Treasure
 > In addition to Jorag's gear, in the footlockers the players find a combined total of 42 gp.  262 gp of value in art objects can be found in Olek’s study and 200 gp worth of gems are found in the runic font.  Also found in the runic font is a [[thousand-pains-fulu-tv|Thousand-Pains Fulu]] and a [[balisse-feather-apg|Balisse Feather]]
 > 
 > - [ ] gp::504
-> - [ ] permanent::[[striking|+1 Greater Striking Whip]] [ilvl::12] [gp::1100]
-> - [ ] permanent::[[weapon-potency| +2 Javelin]] [ilvl::10] [gp::935]
-> - [ ] permanent::[[weapon-potency| +2 Javelin]] [ilvl::10] [gp::935]
-> - [ ] permanent::[[weapon-potency| +2 Javelin]] [ilvl::10] [gp::935]
-> - [ ] permanent::[[armor-potency| +2 Resilient Scale Mail]] [ilvl::11] [gp::1400]
+> - [x] permanent::[[striking|+1 Greater Striking Whip]] [ilvl::12] [gp::1100]
+> - [x] permanent::[[weapon-potency| +2 Javelin]] [ilvl::10] [gp::935]
+> - [x] permanent::[[weapon-potency| +2 Javelin]] [ilvl::10] [gp::935]
+> - [x] permanent::[[weapon-potency| +2 Javelin]] [ilvl::10] [gp::935]
+> - [x] permanent::[[armor-potency| +2 Resilient Scale Mail]] [ilvl::11] [gp::1400]
 > - [ ] consumable::[[balisse-feather-apg|Balisse Feather]] [ilvl::12] [gp::400]
 > - [ ] consumable::[[thousand-pains-fulu-tv|Thousand-Pains Fulu]] [ilvl::14] [gp::630]
 
 
 ## Encounter 3: The Shattered Prison
 **Encounter Difficulty:**   
-- [ ] severe (120 XP) Level 14
+- [x] severe (120 XP) Level 14
 
 > [!aside| right] 
 > ### Parley with Olek
@@ -365,13 +365,13 @@ At some point during olek’s next turn after he is bloodied, read:
 > 
 > Olek peers at it with confusion and says, “Hextor? Have you answered my prayers?”
 
-Roll initiative for Hoshotath. Each time the primordial’s initiative comes up, it sweeps its limbs across the battlefield along the lines indicated on the map—a three-fingered hand of fire and two tendrils of water. Each character caught in the path takes damage: 1d10 + 10 fire damage and ongoing 5 fire damage (save ends) for the fiery fingers; 2d10 + 10 damage for the watery tendrils.
+Roll initiative for Hoshotath. Each time the primordial’s initiative comes up, it sweeps its limbs across the battlefield along the lines indicated on the map—a three-fingered hand of fire and two tendrils of water. Each character caught in the path takes damage: 1d10 + 10 fire damage and ongoing 5 fire damage (save ends) for the fiery fingers; 2d10 + 10 damage for the watery tendrils.
 
-The first time Hoshotath does a sweep, its primordial flesh sloughs off, leaving three fire elementals and two water elementals behind. They appear in any square the primordial’s appendages passed through, adjacent to a person or object. The development assumes that the adventurers are trouncing Olek and the gargoyles at this point. If not, you can roll the extra enemies out more slowly, dropping two or so each round.
+The first time Hoshotath does a sweep, its primordial flesh sloughs off, leaving three fire elementals and two water elementals behind. They appear in any square the primordial’s appendages passed through, adjacent to a person or object. The development assumes that the adventurers are trouncing Olek and the gargoyles at this point. If not, you can roll the extra enemies out more slowly, dropping two or so each round.
 
 The elementals have no loyalty to Olek, attacking both sides equally. They don’t put much strategy behind their attacks, though they do gang up on anyone who starts using cold attacks against any elemental or who attempts to deactivate pillars.
 
-Each time Hoshotath sweeps the field, it also smashes two standing stones. The power invested in them discharges, widening the cracks in the metaphysical walls of its prison.
+Each time Hoshotath sweeps the field, it also smashes two standing stones. The power invested in them discharges, widening the cracks in the metaphysical walls of its prison.
 
 **Olek’s Behavior:** Even after the primordial appears, Olek doesn’t realize it isn’t an avatar of his god. Once he gets hit by the primordial or one of the elementals, he’s pretty sure he’s made a mistake. He might attack the elementals or attempt to deactivate standing stones using his rune. If near defeat, he might also flee. If so, make sure the adventurers know that containing Hoshotath is impossible without the assistance of Olek’s rune. They must access that rune, through him or despite him.
 
@@ -389,14 +389,14 @@ Each time Hoshotath sweeps the field, it also smashes two standing stones. The p
 > [!tip]+ Treasure
 > In addition to Olek's gear the players discover what he has been using for his rituals and rune smithing. This includes 10 pp, 209 gp 4 sp, a +2 Greater Striking Warhammer, +2 Greater Resilient Half Plate, an [[elemental-wayfinder-lopsg|Elemental Wayfinder (Earth)]], a 7th level spell scroll for the [[Contingency]] spell and a [[Hydra Mutagen]].
 > 
-> - [ ] pp::10
-> - [ ] gp::209
-> - [ ] sp::4
-> - [ ] permanent::[[striking|+2 Greater Striking Warhammer]] [ilvl::12] [gp::2000]
-> - [ ] permanent::[[resilient|+2 Greater Resilient Half Plate]] [ilvl::14] [gp::5400]
-> - [ ] permanent::[[elemental-wayfinder-lopsg|Elemental Wayfinder (Earth)]] [ilvl::9] [gp::600]
-> - [ ] consumable::[[contingency|Spell scroll (7th level) (Contingency)]] [ilvl::13] [gp::600]
-> - [ ] consumable::[[Hydra Mutagen|Hydra Mutagen]] [ilvl::13] [gp::600]
+> - [x] pp::10
+> - [x] gp::209
+> - [x] sp::4
+> - [x] permanent::[[striking|+2 Greater Striking Warhammer]] [ilvl::12] [gp::2000]
+> - [x] permanent::[[resilient|+2 Greater Resilient Half Plate]] [ilvl::14] [gp::5400]
+> - [x] permanent::[[elemental-wayfinder-lopsg|Elemental Wayfinder (Earth)]] [ilvl::9] [gp::600]
+> - [x] consumable::[[contingency|Spell scroll (7th level) (Contingency)]] [ilvl::13] [gp::600]
+> - [x] consumable::[[Hydra Mutagen|Hydra Mutagen]] [ilvl::13] [gp::600]
 
 ## Conclusion
 If the adventurers defeat Olek and deactivate at least one standing stone before they are all smashed, Hoshotath screams as it is sucked back into its runic prison. Any runes bound to the adventurers (and anyone else Olek favored) fade as the primordia’s thought-construct prison re-forms as strong as it was before the runepriest began manipulating the runes. If the adventurers defeat Olek without killing him, they can take him to an authority such as Lord Drysdale for imprisonment or deal with him on their own terms. The runepriest’s defeat does not change his goals, however. If the adventurers let him go, he’s likely to turn up again with more power and a more baleful plan.

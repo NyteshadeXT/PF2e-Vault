@@ -771,11 +771,11 @@
       "id": "3U1gFOFzy0V3"
     },
     {
-      "result": "33",
-      "original": "8d6",
-      "resultText": "8d6\n[4, 4, 5, 1, 4, 6, 3, 6]",
-      "timestamp": 1754268736634,
-      "id": "4O3x8Y701URG"
+      "result": "14",
+      "original": "3d6",
+      "resultText": "3d6\n[6, 6, 2]",
+      "timestamp": 1756083053889,
+      "id": "bOziJuCpvZmI"
     }
   ],
   "showDice": true,

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "5) World/The Chaos Scar/Chaos Scar - GM View.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -289,7 +289,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 448.5
+    "width": 466.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -311,82 +311,29 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "1a7c223e4912b2ee",
-    "type": "floating",
-    "children": [
-      {
-        "id": "dfef9937f8e59245",
-        "type": "window",
-        "children": [
-          {
-            "id": "0918e0509804212c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3a456a0340fdec35",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-player-view",
-                  "state": {},
-                  "icon": "lucide-view",
-                  "title": "Player View"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 768,
-        "y": 0,
-        "width": 768,
-        "height": 816,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "5b777750d6178b83",
-        "type": "window",
-        "children": [
-          {
-            "id": "7adf24710fd370ff",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a6babb6597aee038",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2) compendium/equipment/items/throwing-knife-ec1.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "throwing-knife-ec1"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 768,
-        "height": 816,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "3a456a0340fdec35",
+  "active": "483ee638b2c1cb30",
   "lastOpenFiles": [
-    "8) Adventures/2G - The Crossroads (D176).md",
-    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+    "2) compendium/equipment/items/Hydra Mutagen.md",
     "8) Adventures/8B - The Runecutter's Ruin (D186).md",
+    "1) GM Screen/DC Calculators.md",
+    "2) compendium/equipment/items/wayfinder.md",
+    "2) compendium/equipment/items/elemental-wayfinder-lopsg.md",
+    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+    "zz-Attachments/Chaos Scar - Player View.jpg",
+    "8) Adventures/7C - Head in the Clouds (D184).md",
+    "7) Players/Winter.md",
+    "7) Players/Varas.md",
+    "7) Players/Mordak.md",
+    "7) Players/Ediza.md",
+    "1) Notes & In Progress Work/To Do List.md",
+    "5) World/The Chaos Scar/Chaos Scar - Player View.md",
+    "zz-Attachments/Quint Spiregleam.png",
+    "2) compendium/equipment/items/throwing-knife-ec1.md",
+    "8) Adventures/Completed/7B - Reflections of Ruin (D196).md",
+    "6) NPCs/Restwell Keep/Quint Spiregleam.md",
+    "8) Adventures/2G - The Crossroads (D176).md",
     "8) Adventures/8A - Pit of Delirium (D190).md",
     "2) compendium/equipment/items/Homebrew/scarblade.md",
-    "8) Adventures/7C - Head in the Clouds (D184).md",
     "7) Players/7D - Scarblade (D189).md",
     "2) compendium/equipment/items/unholy.md",
     "6) NPCs/Restwell Keep/Zeta Windsnap.md",
@@ -396,27 +343,12 @@
     "zz-Attachments/Demonic Savage Minotaur.webp",
     "8) Adventures/8C - The Star-Touched Grove (D219).md",
     "2) compendium/equipment/items/Homebrew/avengers-needle-hb.md",
-    "7) Players/Varas.md",
-    "4) Bestiary/bestiary-2/hezrou.md",
-    "4) Bestiary/rage-of-elements/Crystal Strider.md",
-    "4) Bestiary/unique-creatures/Olek Dael.md",
-    "2) Compendium/equipment/items/Hydra Mutagen.md",
-    "2) Compendium/spells/Contingency.md",
-    "4) Bestiary/homebrew/G/gnoll-warfang.md",
-    "4) Bestiary/unique-creatures/Kan Sken.md",
-    "4) Bestiary/unique-creatures/Jorag Hobgoblin Lieutenant.md",
     "zz-Attachments/8B - The Runecutter's Ruin - Shattered Prison.webp",
     "zz-Attachments/8B - The Runecutter's Ruin (D186)-1751088939990.webp",
     "zz-Attachments/8B - The Runecutter's Ruin - Grove of Statues.webp",
     "zz-Attachments/8B - The Runecutter's Ruin - Grove of Statues.webp.webp",
     "zz-Attachments/8B - The Runecutter's Ruin - Runic Library.webp",
     "zz-Attachments/8B - The Runecutter's Ruin - Runic Library.webp.webp",
-    "4) Bestiary/elite-variants/minotaur-hunter-elite.md",
-    "4) Bestiary/homebrew/G/gargoyle-rock-hurler.md",
-    "4) Bestiary/homebrew/R/runic-statue.md",
-    "4) Bestiary/homebrew/T/tiefling-occultist.md",
-    "zz-Attachments/scarblade-1745590024276.webp",
-    "zz-Attachments/7D - Scarblade _D189_-1745441774995.webp",
     "4) Bestiary/homebrew/U",
     "4) Bestiary/homebrew/X",
     "4) Bestiary/rage-of-elements",
