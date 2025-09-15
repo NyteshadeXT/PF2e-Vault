@@ -1,14 +1,44 @@
 ---
 title: The Runecutter's Ruin
-adventure_status: Not Started
+adventure_status: Completed
 total_xp: 330
-completed_xp: 190
-awarded_pp: 0
-awarded_gp: 0
-awarded_sp: 0
+completed_xp: 310
+awarded_pp: 10
+awarded_gp: 209
+awarded_sp: 4
 awarded_cp: 0
-awarded_permanent_items: []
-awarded_consumable_items: []
+awarded_permanent_items:
+  - name: +1 Greater Striking Whip
+    ilvl: 12
+    gp: 1100
+  - name: " +2 Javelin"
+    ilvl: 10
+    gp: 935
+  - name: " +2 Javelin"
+    ilvl: 10
+    gp: 935
+  - name: " +2 Javelin"
+    ilvl: 10
+    gp: 935
+  - name: " +2 Resilient Scale Mail"
+    ilvl: 11
+    gp: 1400
+  - name: +2 Greater Striking Warhammer
+    ilvl: 12
+    gp: 2000
+  - name: +2 Greater Resilient Half Plate
+    ilvl: 14
+    gp: 5400
+  - name: Elemental Wayfinder (Earth)
+    ilvl: 9
+    gp: 600
+awarded_consumable_items:
+  - name: Spell scroll (7th level) (Contingency)
+    ilvl: 13
+    gp: 600
+  - name: Hydra Mutagen
+    ilvl: 13
+    gp: 600
 ---
 ![[8B - The Runecutter's Ruin (D186)-1751088939990.webp|right]]
 

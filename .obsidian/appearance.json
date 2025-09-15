@@ -12,7 +12,7 @@
     "LootCheck",
     "pf2e-spell"
   ],
-  "baseFontSize": 17,
+  "baseFontSize": 15,
   "theme": "obsidian",
   "baseFontSizeAction": true
 }

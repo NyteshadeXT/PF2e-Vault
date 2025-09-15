@@ -3,8 +3,8 @@ rarity: 14
 skillLevel: 15
 creatureCR: 9
 creatureTrait: Religion
-playerLevel: 14
-taskDifficulty: 0
+playerLevel: 15
+taskDifficulty: 2
 skillDifficulty: 0
 itemLevel: 2
 itemValue: 35

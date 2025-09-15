@@ -1523,6 +1523,33 @@
       "files": [
         "8) Adventures/Completed/4A - Glowstone Caverns (D177).md"
       ]
+    },
+    {
+      "id": "Chaos-Scar-GM-View",
+      "lastAccessed": 1757895986109,
+      "markers": [
+        {
+          "id": "ID_989b0b684b89",
+          "type": "default",
+          "loc": [
+            868.375,
+            1437.537793086014
+          ],
+          "layer": "%5B%5BChaos%20Scar%20-%20GM%20View.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "5) World/The Chaos Scar/Chaos Scar - GM View.md"
+      ]
     }
   ],
   "defaultMarker": {

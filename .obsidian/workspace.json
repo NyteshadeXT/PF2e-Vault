@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fa6f9d86396034ef",
+            "id": "1f6661ce8aa6fbbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,48 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Chaos Scar - GM View"
-            }
-          },
-          {
-            "id": "483ee638b2c1cb30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8) Adventures/8B - The Runecutter's Ruin (D186).md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "8B - The Runecutter's Ruin (D186)"
-            }
-          },
-          {
-            "id": "3e4da84cd7761f50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8) Adventures/7C - Head in the Clouds (D184).md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "7C - Head in the Clouds (D184)"
-            }
-          },
-          {
-            "id": "1f6661ce8aa6fbbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4) Bestiary/party-npc/Zeta Windsnap.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Zeta Windsnap"
             }
           },
           {
@@ -83,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/8C - The Star-Touched Grove (D219).md",
+                "file": "8) Adventures/8A - Pit of Delirium (D190).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "8C - The Star-Touched Grove (D219)"
+              "title": "8A - Pit of Delirium (D190)"
+            }
+          },
+          {
+            "id": "aedbf6ac6ae35ffd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5) World/The Chaos Scar/Restwell Keep.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Restwell Keep"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -149,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 293.5
   },
   "right": {
     "id": "c1e7f89698746211",
@@ -322,44 +294,44 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "483ee638b2c1cb30",
+  "active": "fca8dfcc91b209de",
   "lastOpenFiles": [
-    "2) compendium/equipment/items/Hydra Mutagen.md",
-    "8) Adventures/8B - The Runecutter's Ruin (D186).md",
-    "1) GM Screen/DC Calculators.md",
-    "2) compendium/equipment/items/wayfinder.md",
-    "2) compendium/equipment/items/elemental-wayfinder-lopsg.md",
+    "5) World/The Chaos Scar/Restwell Keep.md",
+    "8) Adventures/8A - Pit of Delirium (D190).md",
+    "zz-Attachments/Elessan.png",
     "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+    "8) Adventures/Completed/The Shattered Mind.md",
+    "6) NPCs/Restwell Keep/Elessan.md",
+    "6) NPCs/Restwell Keep/Garrick Blackoak.md",
+    "6) NPCs/Restwell Keep/Kendon Longstrider.md",
+    "8) Adventures/8B - The Runecutter's Ruin (D186).md",
+    "5) World/The Chaos Scar/Chaos Scar - Player View.md",
     "zz-Attachments/Chaos Scar - Player View.jpg",
-    "8) Adventures/7C - Head in the Clouds (D184).md",
+    "4) Bestiary/homebrew/S/slug-rabbit.md",
     "7) Players/Winter.md",
     "7) Players/Varas.md",
     "7) Players/Mordak.md",
     "7) Players/Ediza.md",
-    "1) Notes & In Progress Work/To Do List.md",
-    "5) World/The Chaos Scar/Chaos Scar - Player View.md",
-    "zz-Attachments/Quint Spiregleam.png",
-    "2) compendium/equipment/items/throwing-knife-ec1.md",
+    "8) Adventures/7C - Head in the Clouds (D184).md",
+    "8) Adventures/8C - The Star-Touched Grove (D219).md",
+    "8) Adventures/9A - Heart of the Scar (D197).md",
+    "zz-Attachments/9A - Heart of the Scar (D197)-1757880711426.webp",
+    "1) GM Screen/DC Calculators.md",
+    "4) Bestiary/unique-creatures/Hongya Corrupted Druid.md",
+    "zz-Attachments/hongya.webp",
+    "4) Bestiary/unique-creatures/Foosteth.md",
+    "zz-Attachments/8C - The Star-Touched Grove (D219)-1757875380767.webp",
+    "4) Bestiary/homebrew/homebrew.md",
+    "4) Bestiary/homebrew/W/worm-porcupine.md",
+    "4) Bestiary/homebrew/T/twig-blight.md",
+    "4) Bestiary/homebrew/W",
     "8) Adventures/Completed/7B - Reflections of Ruin (D196).md",
-    "6) NPCs/Restwell Keep/Quint Spiregleam.md",
-    "8) Adventures/2G - The Crossroads (D176).md",
-    "8) Adventures/8A - Pit of Delirium (D190).md",
-    "2) compendium/equipment/items/Homebrew/scarblade.md",
-    "7) Players/7D - Scarblade (D189).md",
-    "2) compendium/equipment/items/unholy.md",
-    "6) NPCs/Restwell Keep/Zeta Windsnap.md",
-    "6) NPCs/Restwell Keep/Restwell Keep.md",
-    "6) NPCs/Restwell Keep/Kendon Longstrider.md",
+    "4) Bestiary/homebrew/T/tongue-wolf.md",
+    "zz-Attachments/8C - The Star-Touched Grove (D219)-1757859798592.webp",
+    "zz-Attachments/Quint Spiregleam.png",
     "zz-Attachments/Bolios Wittish.webp",
     "zz-Attachments/Demonic Savage Minotaur.webp",
-    "8) Adventures/8C - The Star-Touched Grove (D219).md",
-    "2) compendium/equipment/items/Homebrew/avengers-needle-hb.md",
     "zz-Attachments/8B - The Runecutter's Ruin - Shattered Prison.webp",
-    "zz-Attachments/8B - The Runecutter's Ruin (D186)-1751088939990.webp",
-    "zz-Attachments/8B - The Runecutter's Ruin - Grove of Statues.webp",
-    "zz-Attachments/8B - The Runecutter's Ruin - Grove of Statues.webp.webp",
-    "zz-Attachments/8B - The Runecutter's Ruin - Runic Library.webp",
-    "zz-Attachments/8B - The Runecutter's Ruin - Runic Library.webp.webp",
     "4) Bestiary/homebrew/U",
     "4) Bestiary/homebrew/X",
     "4) Bestiary/rage-of-elements",
@@ -368,7 +340,6 @@
     "2) compendium/equipment/items/C",
     "2) compendium/equipment/items/B",
     "2) compendium/equipment/items/A",
-    "4) Bestiary/homebrew/S",
-    "4) Bestiary/homebrew/T"
+    "4) Bestiary/homebrew/S"
   ]
 }
