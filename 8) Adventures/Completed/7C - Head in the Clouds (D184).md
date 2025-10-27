@@ -107,7 +107,7 @@ If the heroes arrive by chasing down The Head in the Clouds, they crest a nearby
 If the adventurers hitched a ride on the head, they can hear the low voices of the ettins grumbling outside when they pick themselves up after the crash.
 
 At the start of the encounter, place the following foes on the map: 
- - 3: [[athach|Athach]] W
+ - 3: [[Athach]] W
 
 ```encounter
 name: Offerings to a God
@@ -175,7 +175,7 @@ The hezrou approach The Head in the Clouds cautiously, keeping in the low spots 
 The minotaur time their arrival for 2 rounds after they detect signs that the hezrou have attacked. The minotaur magi have one of their demonic brethren with them, chained, blinded, and muzzled. Thus their first action upon their arrival is to unleash the demonic savage minotaur.
 
 At the start of the encounter, place the following foes on the map: 
- - 4: [[hezrou|Hezrou]] W
+ - 4: [[Hezrou]] W
  - 1: [[savage-fiendblood-minotaur|Savage Fiendblood Minotaur]] H
 
 ```encounter
@@ -213,7 +213,7 @@ The demonic savage minotaur runs up through the interior of the head and the tow
 > - [x] consumable::[[natures-reprisal-som|Spell scroll (6th level) (Natures Reprisal)]] [ilvl::11] [gp::300]
 > - [x] consumable::[[spiritual-guardian|Spell scroll (5th level) (Spiritual Guardian)]] [ilvl::9] [gp::150]
 
-[[unholy|Unholy]]
+[[Unholy]]
 [[weapon-potency|Weapon Potency]]
 
 # Concluding the Adventure

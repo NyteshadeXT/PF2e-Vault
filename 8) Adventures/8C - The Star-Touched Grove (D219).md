@@ -163,7 +163,7 @@ name: Heart of Corruption
 party: Chaos Scar
 creatures:
 - 3: Worm Porcupine
-- 1: Tongue Wolf, hidden
+- 1: Hongya
 ```
 
 Hongya fights until she drops to 0 hit points.
@@ -172,6 +172,14 @@ Hongya fights until she drops to 0 hit points.
 **Illumination:** Bright light, from the stars just overhead. 
 **Fell Ether:** A creature that starts its turn in a square of fell ether (white patches on the map) takes 10 psychic damage but gains a +1 power bonus to attack rolls and a +5 power bonus to damage rolls until the start of that creature’s next turn. 
 **Ancient Trees:** These huge trees are blocking terrain. 
+
+> [!tip]+ Treasure
+> Pushed into the roots of one of the great trees the players can find, DC 32 [[skills#Perception|Perception]] check, Druid's Vestments
+> 
+> - [ ] gp::34
+> - [ ] permanent::[[druids-vestments|Druid's Vestments]] [ilvl::10] [gp::1000]
+> - [ ] permanent::[[resilient|+2 Resilient Darkwood Scale Mail]] [ilvl::14] [gp::6580]
+> - [ ] permanent::[[staff-of-natures-cunning-som|Staff Of Nature's Cunning]] [ilvl::15] [gp::6500]
 
 ## Conclusion 
 If Hongya drops below 1 hit point, the stars abandon her and retreat back where they belong. The grove reverts to its natural state, and the fell ether dissipates. The worm porcupines revert to normal and sidle off into the forest. 

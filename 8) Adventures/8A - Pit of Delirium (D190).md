@@ -283,11 +283,11 @@ The umber hulk uses confusing gaze to keep the party as near to it as possible a
 **Pit:** A rough-hewn, 10-foot-deep pit in the northeast corner serves as Yalax’s nest. Characters searching the nest find a level 13 uncommon or rare magic item and two gemstones worth 1,000 gp each.
 
 > [!tip]+ Treasure
-> Characters can find a suit of [[glorious-plate-locg|Glorious Plate]], a [[malleable-mixture-lotgb|Malleable Mixture]] and 234 gp.
+> Characters can find a suit of [[glorious-plate-locg|Glorious Plate]], a [[malleable-mixture-lotgb|Malleable Mixture (Greater)]] and 234 gp.
 > 
 > - [ ] gp::234
 > - [ ] permanent::[[glorious-plate-locg|Glorious Plate]] [ilvl::14] [gp::4500]
-> - [ ] consumable::[[malleable-mixture-lotgb|Malleable Mixture]] [ilvl::000] [gp::000]
+> - [ ] consumable::[[malleable-mixture-lotgb|Malleable Mixture (Greater)]] [ilvl::14] [gp::750]
 
 # Concluding the Adventure
 If the heroes defeat Yalax and bring the chaos shard to the surface, [[Ailwin]]’s apprentices can study it and find a way to destroy the shard without harming the wizard (see “Quests” above). If the heroes destroy the shard, [[Ailwin]] falls into a coma. Freeing him from his coma requires a [[Remove Curse]]. 
