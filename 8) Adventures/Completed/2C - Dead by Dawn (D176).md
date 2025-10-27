@@ -244,7 +244,7 @@ Tactics The zombie soldier remains close to a zombie rotter during combat, using
 
 See skill challenge for more details. 
 Creatures:
- - 1: [[Zombie-Owlbear|Zombie Owlbear]]
+ - 1: [[zombie-owlbear|Zombie Owlbear]]
  - 2: [[zombie-brute|Zombie Brute]]
 
 ```encounter

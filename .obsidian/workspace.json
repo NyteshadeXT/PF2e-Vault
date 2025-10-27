@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/8A - Pit of Delirium (D190).md",
-                "mode": "preview",
+                "file": "4) Bestiary/book-of-the-dead/sykever.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "8A - Pit of Delirium (D190)"
+              "title": "sykever"
             }
           },
           {
@@ -61,6 +61,20 @@
               },
               "icon": "lucide-file",
               "title": "Restwell Keep"
+            }
+          },
+          {
+            "id": "bb1e99b8db1ca784",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4) Bestiary/unique-creatures/Parade Master of Glass.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Parade Master of Glass"
             }
           }
         ],
@@ -121,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 292.5
   },
   "right": {
     "id": "c1e7f89698746211",
@@ -271,7 +285,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5
+    "width": 484.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -294,44 +308,81 @@
       "calendarium:Open Calendarium": false
     }
   },
+  "floating": {
+    "id": "3151cffcb61b25fe",
+    "type": "floating",
+    "children": [
+      {
+        "id": "533f41d158770523",
+        "type": "window",
+        "children": [
+          {
+            "id": "36e6b6602b83aba4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a92d8ef617f7a8eb",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {},
+                  "icon": "lucide-view",
+                  "title": "Player View"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 4096,
+        "y": -216,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "fca8dfcc91b209de",
   "lastOpenFiles": [
-    "5) World/The Chaos Scar/Restwell Keep.md",
-    "8) Adventures/8A - Pit of Delirium (D190).md",
-    "zz-Attachments/Elessan.png",
-    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
-    "8) Adventures/Completed/The Shattered Mind.md",
-    "6) NPCs/Restwell Keep/Elessan.md",
-    "6) NPCs/Restwell Keep/Garrick Blackoak.md",
-    "6) NPCs/Restwell Keep/Kendon Longstrider.md",
-    "8) Adventures/8B - The Runecutter's Ruin (D186).md",
-    "5) World/The Chaos Scar/Chaos Scar - Player View.md",
-    "zz-Attachments/Chaos Scar - Player View.jpg",
-    "4) Bestiary/homebrew/S/slug-rabbit.md",
-    "7) Players/Winter.md",
-    "7) Players/Varas.md",
-    "7) Players/Mordak.md",
-    "7) Players/Ediza.md",
-    "8) Adventures/7C - Head in the Clouds (D184).md",
-    "8) Adventures/8C - The Star-Touched Grove (D219).md",
-    "8) Adventures/9A - Heart of the Scar (D197).md",
-    "zz-Attachments/9A - Heart of the Scar (D197)-1757880711426.webp",
-    "1) GM Screen/DC Calculators.md",
-    "4) Bestiary/unique-creatures/Hongya Corrupted Druid.md",
-    "zz-Attachments/hongya.webp",
-    "4) Bestiary/unique-creatures/Foosteth.md",
-    "zz-Attachments/8C - The Star-Touched Grove (D219)-1757875380767.webp",
+    "4) Bestiary/homebrew/M/meenlock-stalker.md",
+    "4) Bestiary/book-of-the-dead/zombie-lord.md",
+    "4) Bestiary/book-of-the-dead/sykever.md",
+    "4) Bestiary/book-of-the-dead/book-of-the-dead.md",
+    "4) Bestiary/book-of-the-dead/zombie-owlbear.md",
+    "8) Adventures/Halloween 2025 - The Cracked Lantern.md",
+    "4) Bestiary/unique-creatures/Parade Master of Glass.md",
+    "4) Bestiary/homebrew/M/mirror-man.md",
+    "zz-Attachments/mirror-man.webp",
+    "4) Bestiary/homebrew/M/memory-wraith.md",
+    "4) Bestiary/homebrew/M/magma-hurler.md",
+    "4) Bestiary/homebrew/L/lantern-fragment.md",
+    "4) Bestiary/homebrew/S/shadow-drake-ancient.md",
+    "4) Bestiary/bestiary-1/bestiary-1.md",
+    "4) Bestiary/bestiary-1/shadow.md",
     "4) Bestiary/homebrew/homebrew.md",
-    "4) Bestiary/homebrew/W/worm-porcupine.md",
-    "4) Bestiary/homebrew/T/twig-blight.md",
+    "4) Bestiary/homebrew/L",
+    "4) Bestiary/homebrew/S/shard-slave.md",
+    "4) Bestiary/homebrew/S/savage-fiendblood-minotaur.md",
+    "4) Bestiary/bestiary-2/bestiary-2.md",
+    "4) Bestiary/bestiary-2/shadow-drake.md",
+    "8) Adventures/7C - Head in the Clouds (D184).md",
+    "8) Adventures/2G - The Crossroads (D176).md",
+    "8) Adventures/8) Adventures.md",
+    "8) Adventures/9A - Heart of the Scar (D197).md",
+    "2) compendium/equipment/items/items.md",
+    "8) Adventures/8A - Pit of Delirium (D190).md",
+    "2) compendium/equipment/items/Homebrew/eye-of-fractured-potential.md",
+    "zz-Attachments/Elessan.png",
+    "zz-Attachments/Chaos Scar - Player View.jpg",
+    "zz-Attachments/9A - Heart of the Scar (D197)-1757880711426.webp",
+    "zz-Attachments/hongya.webp",
+    "zz-Attachments/8C - The Star-Touched Grove (D219)-1757875380767.webp",
     "4) Bestiary/homebrew/W",
-    "8) Adventures/Completed/7B - Reflections of Ruin (D196).md",
-    "4) Bestiary/homebrew/T/tongue-wolf.md",
     "zz-Attachments/8C - The Star-Touched Grove (D219)-1757859798592.webp",
     "zz-Attachments/Quint Spiregleam.png",
     "zz-Attachments/Bolios Wittish.webp",
     "zz-Attachments/Demonic Savage Minotaur.webp",
-    "zz-Attachments/8B - The Runecutter's Ruin - Shattered Prison.webp",
     "4) Bestiary/homebrew/U",
     "4) Bestiary/homebrew/X",
     "4) Bestiary/rage-of-elements",
@@ -339,7 +390,6 @@
     "4) Bestiary/homebrew/F",
     "2) compendium/equipment/items/C",
     "2) compendium/equipment/items/B",
-    "2) compendium/equipment/items/A",
-    "4) Bestiary/homebrew/S"
+    "2) compendium/equipment/items/A"
   ]
 }

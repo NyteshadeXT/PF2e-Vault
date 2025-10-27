@@ -150,7 +150,7 @@ If the characters descend the tunnel, proceed with [[#Encounter 1 Old Catacombs]
 
 ### Encounter 1: Old Catacombs
 **Encounter Difficulty:**   
-- [ ] severe (120 XP) Level 14
+- [x] severe (120 XP) Level 14
 
 ![[image]]
 
@@ -197,7 +197,7 @@ creatures:
 
 ### Encounter 2: Fate Worse then Death
 **Encounter Difficulty:**   
-- [ ] severe (120 XP) Level 14
+- [x] severe (120 XP) Level 14
 
 These lower catacombs are connected to the catacombs above by a stone staircase. Here the adventurers learn the fate of the guards and commoners abducted from Restwell Keep: The poor sods wallow alongside the meenlocks that have corrupted them.
 
