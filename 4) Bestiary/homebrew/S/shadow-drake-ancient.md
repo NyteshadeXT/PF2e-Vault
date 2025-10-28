@@ -16,7 +16,7 @@ forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: "HB"
 name: "Shadow Drake (Ancient)"
-level: "Creature 2"
+level: "Creature 12"
 alignment: "CE"
 size: "Medium"
 trait_03: "Dragon"

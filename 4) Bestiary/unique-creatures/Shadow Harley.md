@@ -1,13 +1,13 @@
 ---
 noteType: pf2eMonster
-aliases: "Sykever"
+aliases: "Shadow Harley"
 tags: 
   - pf2e/creature/type/darvakka
   - pf2e/creature/type/trait/shadow
   - pf2e/creature/type/undead
   - pf2e/creature/level/15
 statblock: inline
-name: "sykever"
+name: "Shadow Harley"
 level: 15
 ---
 
@@ -17,7 +17,7 @@ forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 statblock: true
 source: "BotD"
-name: "Sykever"
+name: "Shadow Harley"
 level: "Creature 15"
 alignment: "CE"
 size: "Huge"
@@ -48,17 +48,17 @@ health:
     desc: "335; negative healing; __Immunities__ death effects, disease, paralyzed, poison, unconscious; __Resistance__ cold 10; __Weaknesses__ good 10, silver 10;"
 
 abilities_mid:
-  - name: "Entropy's Shadow"
-    desc: " ([[aura]], [[divine]], [[necromancy]], [[negative]]); 40 ft;  Sykever leak entropy and corruption from their very being. A living creature entering or starting its turn in the aura takes `dice: 4d6` 4d6 negative damage with a DC 33 basic Fortitude save. If it fails, it's also [enfeebled|enfeebled 1] for 1 minute and pulled 10 feet toward the skyever."
-  - name: "Sunlight Powerlessness"
-    desc: "A skyever caught in sunlight is [stunned|stunned 2] and [clumsy|clumsy 2]." 
+  - name: "Lantern's Fracture"
+    desc: " ([[aura]], [[divine]], [[necromancy]], [[negative]]); 40 ft;  Harley's Shadow leak entropy and fire from its very being. A living creature entering or starting its turn in the aura takes `dice: 4d6` 4d6 fire damage with a DC 33 basic Fortitude save. If it fails, it's also [enfeebled|enfeebled 1] for 1 minute and pulled 10 feet toward the skyever."
+  - name: "Light Vulnerability"
+    desc: "A skyever caught in bright, pure light (sunlight, daylight) is [stunned|stunned 2] and [clumsy|clumsy 2]." 
 
 
 attacks:
   - name: Melee
-    desc: "⬻ horn +31 ([[magical]], [[reach d10]]), __Damage__ 3d8+12 (3d8+12) bludgeoning plus `dice: 1d10` 1d10 cold and `dice: 2d6` 2d6 persistent"
+    desc: "⬻ crimson slam +31 ([[magical]], [[reach 10 ft]]), __Damage__ 3d8+12 (3d8+12) bludgeoning plus 1d10 (1d10) fire and 2d6 (2d6) persistent fire"
   - name: Melee.
-    desc: "⬻ arm spike +31 ([[agile]], [[magical]], [[reach d10]]), __Damage__ 3d8+12 (3d8+12) piercing plus `dice: 1d10` 1d10 cold "
+    desc: "⬻ shattered talon +31 ([[agile]], [[magical]], [[reach 10 ft]]), __Damage__ 3d8+12 (3d8+12) piercing plus 1d10 (1d10) fire"
   - name: Change Posture
     desc: "`pf2:1` The sykever changes between their bipedal and quadrupedal stance. In their bipedal stance, the sykever can use all the abilities in their stat block except Horned Rush. In their quadrupedal stance, the sykever has a Speed of 80 feet but can't make arm spike Strikes, Disarm, cast spells, or use Crush Item."
   - name: Crush Item
@@ -70,7 +70,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 36; __7th__ [[spells-dataview-backup/spells/level-1/harm|Harm]] (x3), [[paralyze]], [[plane-shift|Plane Shift]] (to material plane, negative energy plane or shadow plane only); __6th__ [[true-seeing|True Seeing]]; __4th__ [[2) Compendium/spells/darkness|Darkness]] (at will), [[invisibility]] (x3); __Cantrips (8th)__ [[2) Compendium/spells/detect-magic|Detect Magic]]; __Constant (8th)__ [[air-walk|Air Walk]];"
+    desc: "DC 36; __7th__ [[Fireball]] (x3), [[paralyze]]; __6th__ [[true-seeing|True Seeing]]; __4th__ [[2) Compendium/spells/darkness|Darkness]] (at will), [[invisibility]] (x3); __Cantrips (8th)__ [[2) Compendium/spells/detect-magic|Detect Magic]]; __Constant (8th)__ [[air-walk|Air Walk]];"
 sourcebook: "_Book of the Dead_, page 83."
 ```
 

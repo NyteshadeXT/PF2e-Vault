@@ -4,6 +4,12 @@ adventure_status: Not Started
 adventure_level: 14
 total_xp: 320
 completed_xp: 0
+awarded_pp: 0
+awarded_gp: 0
+awarded_sp: 0
+awarded_cp: 0
+awarded_permanent_items: []
+awarded_consumable_items: []
 ---
 
 # Adventure Summary
@@ -17,7 +23,9 @@ If the Lantern’s corruption spreads, her realm—and the joyful spirit of Hall
 
 # Encounter 1: A Light Dimming
 **Encounter Difficulty:**   
-- [ ] Moderate (80 XP) Level 14
+- [ ] Severe (90 XP) Level 14
+
+![[Halloween Harley.webp|left wmed]]
 
 This adventure begins on **All Hallows Eve**, just as the heroes are wrapping up their day near the **Chaos Scar**. 
 
@@ -55,6 +63,8 @@ Allow Harley a short conversation here. She should deliver key exposition in her
 > 
 > She shakes her head and forces a smile. “Never mind that now. If I can patch the Lantern from the outside while you hold back the things trying to crawl out—well, then maybe this old Hallows Eve can still be saved.”
 
+![[Halloween 2025 - The Cracked Lantern-1761596014080.webp|right wmed]]
+
 At that cue, the Lantern flares, marking the beginning of combat.
 
 > [!note]+ Read Aloud  - The Lantern Awakens
@@ -82,12 +92,14 @@ The wyrmlings swoop and breathe arcs of red-tinged fire, targeting clusters of P
 
 ## Features of the Area
 **The Lantern (Object, AC 28, Hardness 15, HP 75):** Emits dim light in 30 ft. If destroyed, the realm destabilizes, forcing all creatures to make a DC 33 Reflex save or take `dice: 10d6` 10d6 force damage and be knocked prone as the realm convulses.
-**Creeping Shadowfire:** Each round on initiative 20, the crack leaks a **wave of red-black flame** in a 20-ft burst (8d6 fire damage, Reflex DC 31 half).
+**Creeping Shadowfire:** Each round on initiative 20, the crack leaks a wave of red-black flame in a 20-ft burst (`dice: 8d6` 8d6 fire damage, Reflex DC 31 half).
 **Glass and Embers:** Around the base of the lantern is fallen glass shards and glowing embers creating an area of difficult terrain in a 10 ft radius.
 
 # Encounter 2: The Mirror Parade
 **Encounter Difficulty:**   
-- [x] Severe (90 XP) Level 14
+- [ ] Severe (90 XP) Level 14
+
+![[Halloween 2025 - The Cracked Lantern-1761596406967.webp|right wmed]]
 
 After the Lantern Wyrm collapses and the corrupted energies recoil back into the Lantern, the realm grows unnervingly quiet. Harley looks toward the far horizon, where the crimson hue still pulses faintly through the violet clouds.
 
@@ -147,83 +159,157 @@ When the Parade Master dies, his shards rise and burst into glittering dust. Har
 
 # Encounter 3: Heart of the Lantern
 **Encounter Difficulty:**   
-- [x] Severe (120 XP) Level 14
+- [ ] Severe (140 XP) Level 14
 
-After the defeat of the Parade Master of Glass, the carnival collapses into silence. The broken mirrors along the street flicker faintly, showing distorted images of Harley’s Lantern, each reflection trembling as though in pain. The air smells faintly of ozone and burnt sugar again — the signature scent of her realm unraveling.
+![[Halloween 2025 - The Cracked Lantern-1761597678222.webp|left wmed]]
 
-> [!note]+ Read Aloud  
-> The final shards of the Parade Master’s form float upward, shimmering like dying embers. As they rise, they begin to align in mid-air, forming a ghostly outline of the great Lantern you first saw — only now its light burns red at the core.
-> 
-> Harley stares at the image, her usual levity gone. “It’s calling to me,” she murmurs. “Or… to _something else._”
-> 
-> The image flickers violently, and you feel a pulse — a heartbeat — ripple through the ground beneath your feet. In the distance, across the endless pumpkin fields, the real Lantern flares with crimson light, splitting the clouds overhead like a wound in the sky.
-> 
-> Harley turns to you, face pale but determined. “That’s where this ends. My Lantern’s heart is bleeding into the space between worlds — and something’s crawling _through_ the crack.”
-
-As they travel, the landscape beneath them fades away into mist, revealing glimpses of Aetheria’s night sky — and, faintly, the red meteor, now much closer and visible even here within Harley’s pocket realm.
+The street of mirrors collapses inward after the Parade Master’s defeat. Shattered reflections swirl like dying fireflies, each fragment showing the Lantern pulsing crimson in the distance.
 
 > [!note]+ Read Aloud  
-> When you arrive, the great Lantern no longer glows with its warm amber light. Its surface has blackened, cracks glowing red-white like veins of magma. The once-gentle pulse now thrums like a drumbeat of war. The pumpkin fields surrounding it have withered, the vines turned to ash.
+> The mirrored shards drift upward, aligning into a faint outline of the Lantern against the violet sky. Its light flares, a deep scarlet heartbeat that shakes the ground. Harley watches the image, her usual sparkle gone. “It’s calling to me,” she whispers. “Or maybe… to what’s _left_ of me.”
 > 
-> Harley stands at its base, her fingers trembling as she lifts her staff. “It’s not just my magic anymore,” she says quietly. “Something _from beyond_ has taken hold inside. If I enter, I’ll feed it more power. It’s feeding on me — on every Halloween, every spark of joy that made this place.”
+> The glow intensifies until the horizon itself burns red. A tremor rolls beneath your feet, and from far off you hear the Lantern _crack_ — a sound like glass shattering inside your skull. Harley straightens, determination cutting through her fear. “That’s where it ends. If the Lantern breaks again, it won’t just swallow _my_ world.”
 > 
-> She glances back at you, a flicker of both fear and trust in her eyes. “But you’re not bound to it. You can go where I cannot. Find the core, shatter whatever’s growing inside, and I’ll anchor you here so the Lantern doesn’t collapse.”
+> She gestures, tracing a path of orange fire through the mist. “Follow the light, loves. Before the dark learns to walk.”
 
-The Lantern’s light swells once more — and then, like a collapsing star, it inverts. The world stretches, twists, and you’re pulled inside.
-
-Inside, space folds into an impossible chamber: a floating void of fractured glass platforms, each shard reflecting scenes from Harley’s realm — the pumpkin fields, the parade, even your own faces distorted in eerie smiles.
+Bridges of molten glass rise from the void, carrying the party back across the distorted fields toward the Lantern’s hill. The night above has changed — the crimson star burns closer now, bleeding through even this pocket realm.
 
 > [!note]+ Read Aloud  
-> You fall through silence, landing gently on a glass platform suspended in endless space. Around you, other shards of glass drift slowly, reflecting pale orange and crimson light. Each surface ripples like liquid, showing fragments of Harley’s world — and deep within one of them, you see her Lantern’s heart, beating like a dying sun.
+> The Lantern towers before you once more, its frame warped and blackened. The crack that once leaked faint light now blazes red-white, veins of fire crawling across its surface. The fields around it are ash and shadow.  Harley’s voice trembles as she approaches. “It’s feeding on me — on every spark I’ve ever given this place. If I step inside, it’ll devour what’s left of the Season.”
 > 
-> Tendrils of red shadow snake between the shards, feeding into a single massive silhouette — a being that shifts constantly, part Harley, part something else. Her voice echoes faintly, doubled and distorted:
+> She turns to you with a pleading smile. “But you can go where I can’t. The Lantern knows you. It remembers your light.”
 > 
-> “I… see you. You should not have come.”
+> She plants her staff into the soil. The runes along it flare, and a spiral of gold and violet energy forms around her feet. “I’ll hold the gateway open until the heart is clean.”
+
+The Lantern’s light folds inward, and the world inverts — drawing you through its blazing crack into the realm within.
+
+> [!note]+ Read Aloud  
+> You fall through endless radiance, landing softly on a floating platform of mirrored glass. Shards drift all around, each reflecting pieces of Harley’s world — pumpkin fields, candlelight, children laughing — then twisting into fire and ash.
 > 
-> Then the reflection tears itself free from the nearest shard — _Harley’s Shadow_, wreathed in crimson flame and leaking trails of black glass.
+> At the center of this fragmented void looms a colossal silhouette: Harley’s own form, distorted and burning from within. Her laughter and sobs overlap, echoing like wind through broken bells.
+> 
+> “You came,” she says in Harley’s voice — but wrong, layered with something ancient and cruel. “Then you’ll break with me.”
+
+The fractured light around her begins to coalesce. Glowing shards detach from the floating platforms, twisting into humanoid forms — **Lantern Fragments**, born from the Lantern’s shattered light.
+
+> [!note]+ Read Aloud  
+> The shards flare to life, swirling around Harley’s Shadow like satellites. Each gleams gold for a heartbeat before turning crimson. Their motion is perfect, synchronized — a mockery of order forged from ruin.
 
 ```encounter
 name: Heart of the Lantern
 party: Chaos Scar
 creatures:
 - 2: [[Lantern Fragment]] 
-- 1: [[Savage Fiendblood Minotaur]]
+- 1: [[Shadow Harley]]
+- 1: Crimson Resonance, Hidden
 ```
 
 
 ## Tactics
-The Hezrou want to separate the heroes, so they attempt to Grab them and then [[dimension-door|Dimension Door]] outside the tower through the arrow slits. 
+The Fragments open with ranged bursts, forcing the party to move across shifting platforms while Harley’s Shadow uses her Crimson Surge and Draining Gaze to split the group. 
 
-The demonic savage minotaur runs up through the interior of the head and the tower to engage the first enemy it sees.
+At half HP, she shatters the platform network (creating 4 zones of difficult terrain, [[skills#Acrobatics|Acrobatics]] DC 28 to cross). 
+
+Harley’s essence fuels the Lantern; its corruption feeds directly on her power. If she steps inside, the crimson energy will consume her joy and turn her fully into the Shadow.  Outside, she anchors a ritual to stabilize the Lantern’s shell and keep the portal open. Each minute inside is a strain on her life force.  Occasionally, her voice echoes through the cracks:
+
+> [!note]+ Read Aloud  
+> “You’re doing beautifully… don’t let the light go out!”
+
+If the fight lasts more than 7 rounds, her ritual starts to fail — the crimson resonance triggers each round.
 
 ## Features of the Area
-**Attacking from The Head in the Clouds:** A creature can make attacks out of the eyes of the head, but the eyes are about 60 feet above the ground. Similarly, creatures within the tower are 100 feet, 115 feet, or 130 feet above the ground. Regardless of where the creatures are in the head or the tower, targets within 20 feet of the head have total cover. Only creatures leaning over the edge of roof of the first level of the tower can get a clear shot at targets within 20 feet of the side of the head.
-**Climbing The Head in the Clouds:** A creature can climb the head with a DC 31 [[skills#Athletics|Athletics]] check. Climbing the side of the tower requires a DC 33 [[skills#Athletics|Athletics]] check.
-**Bookcases:** A bookcase might be pushed over onto the 2-by-4-square area adjacent to it. if so, the pusher makes a Strength +12 attack at creatures in the area.   On a hit, the creature takes 1d8 + Strength modifier damage and falls prone. On a miss, the creature slides to the nearest open space.
-**Magic Glyphs:** Any non-elemental creature that ends its turn in a square of a glyph suffers the following:
-- **Blue Glyph**—`dice: 6d6` cold damage, and the creature is [[conditions#Slowed|Slowed 1]].
-- **Red Glyph**—`dice: 4d8` fire damage.
-- **Golden Glyph**—`dice: 3d12` damage, and a –2 penalty to all defenses (save ends).
+**Crimson Resonance** At initiative 20 each round, roll a `dice: 1d6` to determine the effect:
+
+|     |                                                                                                              |
+| --- | ------------------------------------------------------------------------------------------------------------ |
+| 1–2 | **Shadowflame Burst:** 60-ft burst `dice: 6d6` fire + `dice: 6d6` negative damage (Ref DC 33 half).          |
+| 3–4 | **Gravity Inversion:** Platforms tilt; Ref DC 31 or fall prone and slide 10 ft. in a random direction.       |
+| 5–6 | **Mirror Feedback:** Bright light sources within 20 ft explode (`dice: 8d6` mental damage, Will DC 33 half). | 
+
+> [!note]+ Read Aloud  
+> With a final shrieking laugh, Harley’s Shadow fractures into a thousand flaming shards. Each fragment races back into the Lantern’s core, and for a heartbeat the world is blinding white.
+> 
+> Then, silence. The crimson light gutters out, leaving only a soft amber glow. The drifting glass settles into stillness, and you feel a gentle pull upward — the Lantern’s light folding the world back into itself.
+> 
+> You stand once more in the pumpkin fields. The Lantern towers above, whole again and radiant with golden fire. Harley kneels beside it, her aura dim but warm.
+> 
+> “My dears,” she says with a tired smile, “you saved more than just the Season tonight.” With a snap of her fingers, a long banquet table appears beside the Lantern — piled high with candied apples, sugared pastries, and steaming mugs of cider. Soft music rises on the wind, carried by laughter that feels lighter now, unburdened.
+> 
+> “Trick and treat — both well earned.”
+> 
+> For a time, you’re allowed to rest. The autumn breeze carries the scent of roasted pumpkin and spiced sugar. Harley wanders between you, offering kind words and curious gifts.
+
+## **Harley’s Banquet of Masks and Miracles**
+
+> [!note]+ Read Aloud  
+> The long harvest table gleams under the restored Lantern’s light. Silver bells chime softly as Harley raises her staff, and each candle flickers into the shape of a tiny, smiling face.
+> 
+> “Now then, my lovely heroes — every Hallows’ Eve needs its parting favors! A trick for the brave, a treat for the kind, and a little mischief for those caught in between.”
+> 
+> She sweeps her hand, and four gifts appear upon the table — each resting on black velvet, glowing faintly beneath the Lantern’s amber shine.
+
+
+### **The Jack O’ Lantern Mask**
+> [!note]+ Read Aloud  
+> Harley gestures to a carved pumpkin mask whose grin burns with inner fire.
+> 
+> “For those who face the dark and make it laugh back — a smile to terrify the terrors themselves. Wear it proudly, and let your laughter set the night ablaze. The fearful need reminding: not all fire consumes; some protects.”
+> 
+> The mask’s hollow eyes spark for a moment, echoing Harley’s own mischievous glint.
+
+### **The Mask of the Porcelain Pretender**
+> [!note]+ Read Aloud  
+> Next, she unveils a smooth white mask, its painted smile perfect and unsettling.
+> 
+> “Ah, the little liar. Polished, polite, and perfectly convincing. This one hides truths with artistry, not malice — though I warn you, darlings, it _does_ love an audience. Every fib told through it earns a wider grin, so use it for wit, not wickedness.”
+> 
+> The porcelain gleam reflects the Lantern’s light like moonlight on still water.
+
+### **Harley’s Treat of Dread**
+> [!note]+ Read Aloud  
+> Harley lifts a goblet filled with flickering crimson cider, steam curling into tiny flame-eyed pumpkins.
+> 
+> “For my bold ones — who stare fear in the eye and toast it. A sip of this will set your heart alight and your enemies trembling. Remember, courage isn’t the absence of fear — it’s making fear dance to your tune.”
+> 
+> She raises her own glass with a devilish wink before setting it beside you.
+
+### **Harley’s Treat of Joy**
+> [!note]+ Read Aloud  
+> Finally, she reveals a crystal bottle of golden cider that glows like dawn. The scent of sugar and pumpkin spice fills the air.
+> 
+> “And for those who fight with laughter instead of blades — a draught of delight. It’ll keep the chill of despair far from your heart and share your joy with every soul nearby. The world needs a few more smiles, don’t you think?”
+> 
+> The Lantern brightens as she speaks, its light dancing through the bottle like sunrise through stained glass.
+> 
+> She raises her mug toward you in toast. “To the brave hearts who keep the dark at bay — even mine.” When the laughter fades and the last candles burn low, Harley glances up at the sky. The crimson star still burns above — no longer distant, but bright enough to cast its own pale light.
+> 
+> “It’s closer now,” she whispers. “I can see it even from here. The others still don’t believe me. But you do… don’t you?”
+
+## **Harley’s Final Gift — The Ember of Tomorrow**
+> [!note]+ Read Aloud  
+> “One more thing,” she says softly. “A secret between us. The others won’t listen, but...”
+> 
+> “Before you go,” she says quietly, “there’s one last thing I can give you.”
+> 
+> She cups her hands, and a spark of pure golden fire flickers between them. The air around her grows still as the Lantern’s light bends inward, feeding the flame. When she opens her hands, a tiny glass charm floats above her palm — a teardrop of starlight swirling with warm amber hues.
+> 
+> “An **Ember of Tomorrow**,” she whispers. “A promise that life will not end easily. Should the worst befall us, this little light will defy the dark — for one life, one time, no more.”
+> 
+> She looks to each of you in turn, her smile trembling. “I can’t say whose light it should guard. That choice belongs to you, my heroes. Give it to the one you cannot bear to lose — or keep it close until the world itself decides.”
+> 
+> The charm drifts forward, hovering between you, its glow reflected in Harley’s eyes. “Take it,” she says softly. “And remember — even when the sky burns red, there’s still time for one more tomorrow.”
+> 
+> She smiles then — wistful, knowing — and waves her hand. The fields shimmer, the table and Lantern dissolving into starlight. “Go on, my darlings. The night is ending, and you’ve earned your dawn.”
+> 
+> Her laughter follows, soft and sweet, as the world folds away. You find yourselves once again beneath familiar skies, the scent of autumn still lingering in the air — and, just for a moment, the faint echo of laughter drifting on the wind.
 
 > [!tip]+ Treasure
-> Bolios gives the characters much of his wealth and belongings for defending him and driving off the attackers.  This includes 20 pp, 200 gp, 390 sp, an [[throwing-knife-ec1|Unholy Weapon Potency +2 Throwing Knife]], a [[2) compendium/equipment/items/Homebrew/energy-resistant|Runestone: Energy-Resistant]], a [[boulder-seed-tv|Boulder Seed]] and two scrolls. One is [[natures-reprisal-som|Nature's Reprisal]] and the other is [[spiritual-guardian]]
+> Harley offers the players the following gifts. 200 pp,  [[mask-of-the-porcelain-pretender|Mask of the Porcelain Pretender]], [[jack-o-lantern-mask|Jack-O-Lantern Mask]], [[harleys-treat-of-joy|Harley's Treat of Joy]] x2 and [[harleys-treat-of-dread|Harley's Treat of Dread]] x2.
 > 
-> - [x] pp::20
-> - [x] gp::200
-> - [x] sp::390
-> - [x] permanent::[[throwing-knife-ec1|Unholy Weapon Potency +2 Throwing Knife]] [ilvl::11] [gp::2335]
-> - [x] permanent::[[2) compendium/equipment/items/Homebrew/energy-resistant|Runestone: Energy-Resistant (Greater)]] [ilvl::10] [gp::950]
-> - [x] consumable::[[boulder-seed-tv|Boulder Seed]] [ilvl::12] [gp::360]
-> - [x] consumable::[[natures-reprisal-som|Spell scroll (6th level) (Natures Reprisal)]] [ilvl::11] [gp::300]
-> - [x] consumable::[[spiritual-guardian|Spell scroll (5th level) (Spiritual Guardian)]] [ilvl::9] [gp::150]
-
-[[Unholy]]
-[[weapon-potency|Weapon Potency]]
-
-# Concluding the Adventure
-If Bolios survives, he’s grateful to the adventurers and begs them to help get him and his library out of the Chaos Scar. The minotaurs’ bodies might reveal some clue as to why they wanted The Head in the Clouds, 
-but why that is and what adventures it might lead the characters to is up to you.
-
-Although Bolios strengthened the bonds on the elementals in his ship, he doesn’t know how to recapture them or bond new elemental creatures. Once he has had time to do some research with his books, he’ll be happy to hire the characters to seek and capture some elementals to repower The Head in the Clouds (and probably to chase out whatever creatures inevitably move into the head after Bolios and the characters strip it of valuables and leave the Scar). As payment for these deeds, Bolios gives the characters the rest of his wealth and takes them wherever they wish to go, plus he offers to give them another free ride at a later date.
-
-If Bolios didn’t survive, the heroes might be able to research the means of re-powering the head themselves from Bolios’s library, but they must either get the books and scrolls out of the Chaos Scar, or defend The Head in the Clouds from other curious Scar denizens. Either way, the characters must find new elementals and then reclaim the head from those who have it when they return—surely that’s a quest worthy of the reward of a flying fortress!
+> - [ ] pp::200
+> - [ ] permanent::[[jack-o-lantern-mask|Jack-O-Lantern Mask]] [ilvl::14] [gp::4600]
+> - [ ] permanent::[[mask-of-the-porcelain-pretender|Mask of the Porcelain Pretender]] [ilvl::14] [gp::4500]
+> - [ ] consumable::[[harleys-treat-of-joy|Harley's Treat of Joy]] [ilvl::14] [gp::0]
+> - [ ] consumable::[[harleys-treat-of-joy|Harley's Treat of Joy]] [ilvl::14] [gp::0]
+> - [ ] consumable::[[harleys-treat-of-dread|Harley's Treat of Dread]] [ilvl::14] [gp::0]
+> - [ ] consumable::[[harleys-treat-of-dread|Harley's Treat of Dread]] [ilvl::14] [gp::0]
