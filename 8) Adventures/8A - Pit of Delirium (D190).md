@@ -242,7 +242,7 @@ The meenlock stalkers keep their distance, attacking the characters at range wit
 
 ### Encounter 3: Pit of Delirium
 **Encounter Difficulty:**   
-- [ ] severe (90 XP) Level 14
+- [x] severe (90 XP) Level 14
 
 The adventurers reach this area either by falling down into the pit or descending the stairs that encircle it.
 
@@ -285,8 +285,8 @@ The umber hulk uses confusing gaze to keep the party as near to it as possible a
 > [!tip]+ Treasure
 > Characters can find a suit of [[glorious-plate-locg|Glorious Plate]], a [[malleable-mixture-lotgb|Malleable Mixture (Greater)]] and 234 gp.
 > 
-> - [ ] gp::234
-> - [ ] permanent::[[glorious-plate-locg|Glorious Plate]] [ilvl::14] [gp::4500]
+> - [x] gp::234
+> - [x] permanent::[[glorious-plate-locg|Glorious Plate]] [ilvl::14] [gp::4500]
 > - [ ] consumable::[[malleable-mixture-lotgb|Malleable Mixture (Greater)]] [ilvl::14] [gp::750]
 
 # Concluding the Adventure

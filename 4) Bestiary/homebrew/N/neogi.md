@@ -15,7 +15,7 @@ forcecolumns: true
 layout: Pathfinder 2e Creature Layout
 token: "[[neogi.webp|Show to Players]]"
 source: 4e Conversion
-name: "Yalax"
+name: "Neogi"
 level: "Creature 13"
 rare_03: "Uncommon"
 alignment: "[[evil]]"
