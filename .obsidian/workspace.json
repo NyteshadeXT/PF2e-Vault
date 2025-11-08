@@ -69,16 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/8A - Pit of Delirium (D190).md",
-                "mode": "preview",
+                "file": "4) Bestiary/homebrew/C/corrupt-soldier-of-bane.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "8A - Pit of Delirium (D190)"
+              "title": "corrupt-soldier-of-bane"
+            }
+          },
+          {
+            "id": "a8d3ec7bd0c6f8e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4) Bestiary/homebrew/C/chaos-spwaned-merloc.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "chaos-spwaned-merloc"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -336,24 +350,39 @@
         "direction": "vertical",
         "x": 4096,
         "y": -216,
-        "width": 640,
-        "height": 672,
+        "width": 1024,
+        "height": 800,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "fca8dfcc91b209de",
+  "active": "bb1e99b8db1ca784",
   "lastOpenFiles": [
-    "zz-Attachments/Halloween Harley.webp",
-    "8) Adventures/Halloween 2025 - The Cracked Lantern.md",
-    "zz-Attachments/Halloween 2025 - The Cracked Lantern-1761596406967.webp",
-    "8) Adventures/8A - Pit of Delirium (D190).md",
+    "4) Bestiary/homebrew/C/corrupt-priest-of-bane.md",
+    "4) Bestiary/homebrew/C/corrupt-scout-of-bane.md",
+    "4) Bestiary/homebrew/C/corrupt-bane-hound.md",
+    "4) Bestiary/homebrew/C/corrupt-soldier-of-bane.md",
+    "8) Adventures/9A - Heart of the Scar (D197).md",
+    "4) Bestiary/homebrew/C/chaos-spwaned-merloc.md",
+    "zz-Attachments/hallowgaunt.webp",
     "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+    "5) World/The Chaos Scar/Restwell Keep.md",
+    "1) GM Screen/DC Calculators.md",
+    "8) Adventures/8C - The Star-Touched Grove (D219).md",
+    "8) Adventures/Halloween 2025 - The Cracked Lantern.md",
+    "4) Bestiary/homebrew/B/beholder-eye-tyrant.md",
+    "zz-Attachments/9A - Heart of the Scar (D197)-1762536427679.webp",
+    "6) NPCs/Restwell Keep/Chendra.md",
+    "6) NPCs/Restwell Keep/Restwell Keep.md",
+    "6) NPCs/Restwell Keep/Lofinor.md",
+    "8) Adventures/8B - The Runecutter's Ruin (D186).md",
+    "8) Adventures/8A - Pit of Delirium (D190).md",
+    "zz-Attachments/Halloween Harley.webp",
+    "zz-Attachments/Halloween 2025 - The Cracked Lantern-1761596406967.webp",
     "zz-Attachments/Halloween 2025 - The Cracked Lantern-1761596014080.webp",
     "4) Bestiary/homebrew/N/neogi.md",
     "8) Adventures/Completed/Halloween 2023 One-Shot.md",
-    "5) World/The Chaos Scar/Restwell Keep.md",
     "2) Compendium/equipment/items/Homebrew/harleys-treat-of-dread.md",
     "zz-Attachments/Halloween 2025 - The Cracked Lantern-1761597678222.webp",
     "2) Compendium/equipment/items/Homebrew/harleys-treat-of-joy.md",
@@ -364,23 +393,9 @@
     "zz-Attachments/mask-of-the-porcelain-pretender.webp",
     "2) Compendium/equipment/items/Homebrew/adamantine-flake.md",
     "2) Compendium/equipment/items/items.md",
-    "4) Bestiary/unique-creatures/Shadow Harley.md",
-    "4) Bestiary/book-of-the-dead/sykever.md",
-    "4) Bestiary/unique-creatures/Agera of the Shadow Face.md",
-    "4) Bestiary/unique-creatures/Barulg the Returned.md",
-    "4) Bestiary/unique-creatures/Chaos-Scarred Eye Tyrant.md",
-    "4) Bestiary/book-of-the-dead/zombie-lord.md",
-    "4) Bestiary/book-of-the-dead/hunter-wight.md",
-    "4) Bestiary/homebrew/S/shadow-drake-ancient.md",
-    "4) Bestiary/book-of-the-dead/book-of-the-dead.md",
-    "4) Bestiary/unique-creatures/Parade Master of Glass.md",
-    "4) Bestiary/homebrew/M/meenlock-stalker.md",
-    "4) Bestiary/book-of-the-dead/zombie-owlbear.md",
     "zz-Attachments/mirror-man.webp",
     "4) Bestiary/homebrew/L",
     "zz-Attachments/Elessan.png",
-    "zz-Attachments/Chaos Scar - Player View.jpg",
-    "zz-Attachments/9A - Heart of the Scar (D197)-1757880711426.webp",
     "4) Bestiary/homebrew/W",
     "4) Bestiary/homebrew/U",
     "4) Bestiary/homebrew/X",

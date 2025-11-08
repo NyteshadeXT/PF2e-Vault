@@ -15,7 +15,7 @@ Restwell Keep has long relied on the druids of the Scar to guide hunters and log
 The druids no longer answer the keep’s calls. Travelers who dare approach Hongya’s grove vanish, and the air around it shimmers with a faint starlit glow. The people of Restwell Keep suspect the Scar has claimed another soul—and that the corruption festering within may soon spill into their fields and homes.
 
 # Synopsis
-Belvo Halfbeard tasks the characters with investigating the spreading pseudolife near Woodbridge and finding out why Hongya has allowed this terror to hppen.
+Lolfinor tasks the characters with investigating the spreading pseudolife near Woodbridge and finding out why Hongya has allowed this terror to happen.
 
 While the characters are traveling through the greater forest, less than an hour from Woodbridge, some of the more aggressive new varieties of animal life attack. Then, as heroes draw close to the grove, the star Khirad, which answered Hongya, attempts to take control of them. When that encounter is over, the characters have a chance to use Hongya’s garden to shake off Khirad’s influence.
 
@@ -32,7 +32,6 @@ Finally, they confront Hongya in the ancient heart of the grove. She has been ch
 > See Lolfinor, elder of the Circle, at the stone circle beyond Restwell Keep for further counsel and recompense.”**
 
 The posting has stirred unease among the farmers and hunters of the Keep. Some mutter that the druids are too harsh, that Hongya may be victim rather than villain. Others whisper of livestock sprouting new limbs, of hunters vanishing without a sound, and of a pale green light drifting through the trees at night.
-- [[Ailwin]] has heard that a fallen druid called Hongya had once grown some plants with interesting star-touched qualities. He will pay for samples of these plants - more plants for higher pay.
 
 ## Encounter 1: Far Fauna
 **Encounter Difficulty:**   
@@ -182,4 +181,19 @@ Hongya fights until she drops to 0 hit points.
 > - [ ] permanent::[[staff-of-natures-cunning-som|Staff Of Nature's Cunning]] [ilvl::15] [gp::6500]
 
 ## Conclusion 
-If Hongya drops below 1 hit point, the stars abandon her and retreat back where they belong. The grove reverts to its natural state, and the fell ether dissipates. The worm porcupines revert to normal and sidle off into the forest. 
+Immediately after Hongya falls.
+
+> [!note]+ Read Aloud  
+> As Hongya’s monstrous form collapses, the grove exhales.  The warped trees straighten, their bark smoothing; petals unfurl in silent apology.  Then, above you, the stars flicker once—every constellation quivering as though in pain.   The silver light turns crimson.  You feel the pulse before you see it—a deep vibration that hums in your teeth and bones.  A single point of red light burns through the canopy, impossibly bright, impossibly near.
+
+### Effects
+- The characters feel a _gravitational pull upward_, as if the red star itself is drawing their souls toward it.
+- Any lingering Far Realm energy from Khirad’s afflictions reactivates for a moment, forcing each hero to make a **Will DC 32** save or experience a _vision_.
+
+### Vision (shared or individual)
+> [!note]+ Read Aloud  
+> You stand upon a world cracked open like an egg.  Oceans hang in the sky; islands drift through blood-red clouds.  A vast shadow stirs among the stars, its voice rumbling:  
+> 
+> _“The Heart beats. The Scar awakens. The Heavens will bleed.”_
+> 
+> Then everything goes dark.

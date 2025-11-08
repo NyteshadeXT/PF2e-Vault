@@ -1,9 +1,9 @@
 ---
 title: The Cracked Lantern
-adventure_status: Not Started
+adventure_status: In Progress
 adventure_level: 14
 total_xp: 320
-completed_xp: 0
+completed_xp: 90
 awarded_pp: 0
 awarded_gp: 0
 awarded_sp: 0
@@ -23,7 +23,7 @@ If the Lantern’s corruption spreads, her realm—and the joyful spirit of Hall
 
 # Encounter 1: A Light Dimming
 **Encounter Difficulty:**   
-- [ ] Severe (90 XP) Level 14
+- [x] Severe (90 XP) Level 14
 
 ![[Halloween Harley.webp|left wmed]]
 

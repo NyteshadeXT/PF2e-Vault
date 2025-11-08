@@ -1,13 +1,16 @@
 ---
 title: Pit of Delirium
-adventure_status: Not Started
+adventure_status: Complete
 total_xp: 330
-completed_xp: 0
+completed_xp: 330
 awarded_pp: 0
-awarded_gp: 0
+awarded_gp: 234
 awarded_sp: 0
 awarded_cp: 0
-awarded_permanent_items: []
+awarded_permanent_items:
+  - name: Glorious Plate
+    ilvl: 14
+    gp: 4500
 awarded_consumable_items: []
 ---
 ![[8A - Pit of Delirium (D190)-1751055390606.webp|right]]
