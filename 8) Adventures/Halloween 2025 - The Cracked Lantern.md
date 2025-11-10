@@ -2,8 +2,8 @@
 title: The Cracked Lantern
 adventure_status: In Progress
 adventure_level: 14
-total_xp: 320
-completed_xp: 90
+total_xp: 390
+completed_xp: 250
 awarded_pp: 0
 awarded_gp: 0
 awarded_sp: 0
@@ -97,7 +97,7 @@ The wyrmlings swoop and breathe arcs of red-tinged fire, targeting clusters of P
 
 # Encounter 2: The Mirror Parade
 **Encounter Difficulty:**   
-- [ ] Severe (90 XP) Level 14
+- [x] Severe (160 XP) Level 14
 
 ![[Halloween 2025 - The Cracked Lantern-1761596406967.webp|right wmed]]
 

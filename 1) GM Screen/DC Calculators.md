@@ -1,8 +1,8 @@
 ---
-rarity: 14
+rarity: 16
 skillLevel: 15
-creatureCR: 9
-creatureTrait: Religion
+creatureCR: 12
+creatureTrait: Arcana, Crafting
 playerLevel: 15
 taskDifficulty: 0
 skillDifficulty: 0
