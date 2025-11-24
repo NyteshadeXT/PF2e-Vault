@@ -1,15 +1,33 @@
 ---
 title: The Cracked Lantern
-adventure_status: In Progress
+adventure_status: Complete
 adventure_level: 14
 total_xp: 390
-completed_xp: 250
-awarded_pp: 0
+completed_xp: 390
+awarded_pp: 200
 awarded_gp: 0
 awarded_sp: 0
 awarded_cp: 0
-awarded_permanent_items: []
-awarded_consumable_items: []
+awarded_permanent_items:
+  - name: Jack-O-Lantern Mask
+    ilvl: 14
+    gp: 4600
+  - name: Mask of the Porcelain Pretender
+    ilvl: 14
+    gp: 4500
+awarded_consumable_items:
+  - name: Harley's Treat of Joy
+    ilvl: 14
+    gp: 0
+  - name: Harley's Treat of Joy
+    ilvl: 14
+    gp: 0
+  - name: Harley's Treat of Dread
+    ilvl: 14
+    gp: 0
+  - name: Harley's Treat of Dread
+    ilvl: 14
+    gp: 0
 ---
 
 # Adventure Summary
@@ -159,7 +177,7 @@ When the Parade Master dies, his shards rise and burst into glittering dust. Har
 
 # Encounter 3: Heart of the Lantern
 **Encounter Difficulty:**   
-- [ ] Severe (140 XP) Level 14
+- [x] Severe (140 XP) Level 14
 
 ![[Halloween 2025 - The Cracked Lantern-1761597678222.webp|left wmed]]
 
@@ -306,10 +324,10 @@ If the fight lasts more than 7 rounds, her ritual starts to fail — the crimson
 > [!tip]+ Treasure
 > Harley offers the players the following gifts. 200 pp,  [[mask-of-the-porcelain-pretender|Mask of the Porcelain Pretender]], [[jack-o-lantern-mask|Jack-O-Lantern Mask]], [[harleys-treat-of-joy|Harley's Treat of Joy]] x2 and [[harleys-treat-of-dread|Harley's Treat of Dread]] x2.
 > 
-> - [ ] pp::200
-> - [ ] permanent::[[jack-o-lantern-mask|Jack-O-Lantern Mask]] [ilvl::14] [gp::4600]
-> - [ ] permanent::[[mask-of-the-porcelain-pretender|Mask of the Porcelain Pretender]] [ilvl::14] [gp::4500]
-> - [ ] consumable::[[harleys-treat-of-joy|Harley's Treat of Joy]] [ilvl::14] [gp::0]
-> - [ ] consumable::[[harleys-treat-of-joy|Harley's Treat of Joy]] [ilvl::14] [gp::0]
-> - [ ] consumable::[[harleys-treat-of-dread|Harley's Treat of Dread]] [ilvl::14] [gp::0]
-> - [ ] consumable::[[harleys-treat-of-dread|Harley's Treat of Dread]] [ilvl::14] [gp::0]
+> - [x] pp::200
+> - [x] permanent::[[jack-o-lantern-mask|Jack-O-Lantern Mask]] [ilvl::14] [gp::4600]
+> - [x] permanent::[[mask-of-the-porcelain-pretender|Mask of the Porcelain Pretender]] [ilvl::14] [gp::4500]
+> - [x] consumable::[[harleys-treat-of-joy|Harley's Treat of Joy]] [ilvl::14] [gp::0]
+> - [x] consumable::[[harleys-treat-of-joy|Harley's Treat of Joy]] [ilvl::14] [gp::0]
+> - [x] consumable::[[harleys-treat-of-dread|Harley's Treat of Dread]] [ilvl::14] [gp::0]
+> - [x] consumable::[[harleys-treat-of-dread|Harley's Treat of Dread]] [ilvl::14] [gp::0]

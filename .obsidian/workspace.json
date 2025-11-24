@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+                "file": "8) Adventures/8A - Pit of Delirium (D190).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chaos Scar - GM View"
+              "title": "8A - Pit of Delirium (D190)"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/Halloween 2025 - The Cracked Lantern.md",
+                "file": "8) Adventures/8B - The Runecutter's Ruin (D186).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Halloween 2025 - The Cracked Lantern"
+              "title": "8B - The Runecutter's Ruin (D186)"
             }
           },
           {
@@ -91,8 +91,7 @@
               "title": "chaos-spwaned-merloc"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -348,39 +347,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 4096,
-        "y": -216,
-        "width": 640,
-        "height": 672,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "649755b160a8f749",
-        "type": "window",
-        "children": [
-          {
-            "id": "ad7eabb7102e17ce",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7ff3d4ef2df00919",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "zz-Attachments/Halloween 2025 - The Cracked Lantern-1761597678222.webp"
-                  },
-                  "icon": "lucide-image",
-                  "title": "Halloween 2025 - The Cracked Lantern-1761597678222"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 3456,
-        "y": -216,
+        "x": 2560,
+        "y": 0,
         "width": 640,
         "height": 672,
         "maximize": false,
@@ -388,42 +356,43 @@
       }
     ]
   },
-  "active": "9ab780e569c0b2ab",
+  "active": "1f6661ce8aa6fbbc",
   "lastOpenFiles": [
-    "zz-Attachments/Halloween 2025 - The Cracked Lantern-1761597678222.webp",
-    "8) Adventures/Halloween 2025 - The Cracked Lantern.md",
+    "8) Adventures/8B - The Runecutter's Ruin (D186).md",
+    "8) Adventures/8C - The Star-Touched Grove (D219).md",
+    "8) Adventures/Completed/3C - The Wayward Wyrmling (D182).md",
+    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
+    "Conditions/Frightened.md",
+    "8) Adventures/9A - Heart of the Scar (D197).md",
     "1) GM Screen/DC Calculators.md",
+    "5) World/The Chaos Scar/Restwell Keep.md",
+    "8) Adventures/8A - Pit of Delirium (D190).md",
+    "2) compendium/equipment/items/Homebrew/harleys-treat-of-dread.md",
+    "8) Adventures/Completed/Halloween 2025 - The Cracked Lantern.md",
+    "2) compendium/equipment/items/Homebrew/harleys-treat-of-joy.md",
+    "2) compendium/equipment/items/Homebrew/jack-o-lantern-mask.md",
+    "zz-Attachments/Halloween 2025 - The Cracked Lantern-1761597678222.webp",
     "zz-Attachments/mirror-man.webp",
     "zz-Attachments/Halloween 2025 - The Cracked Lantern-1761596406967.webp",
     "4) Bestiary/homebrew/C/corrupt-soldier-of-bane.md",
     "4) Bestiary/homebrew/C/corrupt-priest-of-bane.md",
     "4) Bestiary/homebrew/C/corrupt-scout-of-bane.md",
     "4) Bestiary/homebrew/C/corrupt-bane-hound.md",
-    "8) Adventures/9A - Heart of the Scar (D197).md",
     "4) Bestiary/homebrew/C/chaos-spwaned-merloc.md",
     "zz-Attachments/hallowgaunt.webp",
-    "5) World/The Chaos Scar/Chaos Scar - GM View.md",
-    "5) World/The Chaos Scar/Restwell Keep.md",
-    "8) Adventures/8C - The Star-Touched Grove (D219).md",
     "4) Bestiary/homebrew/B/beholder-eye-tyrant.md",
     "zz-Attachments/9A - Heart of the Scar (D197)-1762536427679.webp",
     "6) NPCs/Restwell Keep/Chendra.md",
     "6) NPCs/Restwell Keep/Restwell Keep.md",
     "6) NPCs/Restwell Keep/Lofinor.md",
-    "8) Adventures/8B - The Runecutter's Ruin (D186).md",
-    "8) Adventures/8A - Pit of Delirium (D190).md",
     "zz-Attachments/Halloween Harley.webp",
     "zz-Attachments/Halloween 2025 - The Cracked Lantern-1761596014080.webp",
     "4) Bestiary/homebrew/N/neogi.md",
     "8) Adventures/Completed/Halloween 2023 One-Shot.md",
     "2) Compendium/equipment/items/Homebrew/harleys-treat-of-dread.md",
     "2) Compendium/equipment/items/Homebrew/harleys-treat-of-joy.md",
-    "2) Compendium/equipment/items/Homebrew/happy-healper-hb.md",
-    "2) Compendium/equipment/items/Homebrew/jack-o-lantern-mask.md",
-    "2) Compendium/equipment/items/Homebrew/mask-of-the-porcelain-pretender.md",
     "zz-Attachments/jack-o-lantern-mask.webp",
     "zz-Attachments/mask-of-the-porcelain-pretender.webp",
-    "2) Compendium/equipment/items/Homebrew/adamantine-flake.md",
     "4) Bestiary/homebrew/L",
     "zz-Attachments/Elessan.png",
     "4) Bestiary/homebrew/W",
