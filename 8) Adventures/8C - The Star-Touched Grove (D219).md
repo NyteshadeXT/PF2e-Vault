@@ -190,9 +190,12 @@ Immediately after Hongya falls.
 - The characters feel a _gravitational pull upward_, as if the red star itself is drawing their souls toward it.
 - Any lingering Far Realm energy from Khirad’s afflictions reactivates for a moment, forcing each hero to make a **Will DC 32** save or experience a _vision_.
 
+> [!warning]
+> ALL PLAYERS FAIL THIS CHECK.
+
 ### Vision (shared or individual)
 > [!note]+ Read Aloud  
-> You stand upon a world cracked open like an egg.  Oceans hang in the sky; islands drift through blood-red clouds.  A vast shadow stirs among the stars, its voice rumbling:  
+> For the briefest of moments you stand upon a world cracked open like an egg.  Oceans hang in the sky; islands drift through blood-red clouds.  A vast shadow stirs among the stars, its voice rumbling:  
 > 
 > _“The Heart beats. The Scar awakens. The Heavens will bleed.”_
 > 

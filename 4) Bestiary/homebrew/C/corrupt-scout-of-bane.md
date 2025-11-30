@@ -32,6 +32,10 @@ skills:
     desc: "__Acrobatics__ +25; __Athletics__ +22; __Deception__ +22; __Intimidation__ +22; __Nature__ +21; __Stealth__ +25; __Survival__ +23"
 abilityMods: [4, 6, 3, 2, 4, 4]
 
+abilities_top:
+  - name: "Equipment"
+    desc: "+2 Shortsword; +1 Spear; +2 Leather Armor"
+
 abilities_mid:
   - name: "Hidden Movement"
     desc: "If the scout begins its turn [[hidden]] or [[undetected]] by a creature, that creature is [[off-guard]] against the scout's attacks until the end of this turn."
@@ -57,11 +61,11 @@ health:
     desc: "220; __Resistances__ bleed 10;"
 
 attacks:
-  - name: "Melee Shortsword"
+  - name: "Melee +2 Shortsword"
     desc: "⬻ +24 ([[agile]], [[finesse]], [[versatile|versatile S]]); __Damage__ 2d6+10 piercing"
-  - name: Melee Spear
+  - name: Melee +1 Spear
     desc: "⬻ spear +24 ([[thrown|thrown 20 feet]]); __Damage__ 2d6+10 piercing"
-  - name: Ranged
+  - name: Ranged +1 Spear
     desc: "⬻ spear +24 ([[thrown|thrown 20 feet]]); __Damage__ 2d6+8 piercing"
   - name: "Tactical Feint"
     desc: "⬺  The scout attempts to [[Feint]] against a creature within 30 feet using Deception +22; on a success, the target is [[off-guard]] against the scout’s next melee or ranged Strike before the end of the scout’s next turn."

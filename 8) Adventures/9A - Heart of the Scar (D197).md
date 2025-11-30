@@ -1,6 +1,8 @@
 ---
 title: Heart of the Scar
-adventure_status: "Not Started"
+adventure_status: Not Started
+total_xp: 635
+completed_xp: 0
 ---
 ![[9A - Heart of the Scar (D197)-1762536427679.webp|right wmed]]
 
@@ -37,7 +39,7 @@ The adventurers then proceed down to the second level. Horrific creatures from o
 Likely with Farbane in hand, the adventurers can make their way to the third level, a cavernous chamber carved from the bedrock of the cliffs. Here awaits the cosmic horror of Shoth-Gorag and a battle the characters will not soon forget . . . if they survive.
 
 ## The Lost Weeks
-When consciousness returns, the heroes lie just outside the King’s Wall, dew-damp grass under their hands, birdsong echoing through an uneasy stillness. The air feels _thin_, stretched—like the world has been holding its breath.
+This adventure picks up immediately following the end of The Star-Touched Grove.  When consciousness returns, the heroes lie just outside the King’s Wall, dew-damp grass under their hands, birdsong echoing through an uneasy stillness. The air feels _thin_, stretched—like the world has been holding its breath.
 
 > [!note]+ Read Aloud  
 > The morning sun feels wrong—too bright, too close. The ground hums with a distant heartbeat. In the distance, the King’s Wall glows faintly red where dew should sparkle silver.
@@ -51,18 +53,18 @@ When consciousness returns, the heroes lie just outside the King’s Wall, dew-d
 Half-collapsed parapets, crimson cracks glowing faintly through stone, banners stiff with dried dust.  Fear and exhaustion. Every conversation stops when the party appears. The townsfolk thought them dead since the “Starquake.” Children whisper that “the lost ones came back wrong.”
 
 ## Familiar Echos
-As twilight falls that evening, the party notices the red star again—far larger now, almost a second moon very close to Aetheria existing moon.
+As twilight falls that evening, the party notices the red star again—far larger now, partially blotted out by Aetheria existing moon.
 
 The PCs faintly hear a voice carried on the wind, mournful and distant:
 
 > [!note]+ Read Aloud  
-> The twin orbs hang side by side—the moon pale and cold, the star burning gold-red and alive.  A warm wind stirs, carrying a voice you remember from a dream of lanterns and masks:  
+> The twin orbs hang one partially blotting out the other—the moon pale and cold, the star burning red and alive.  A warm wind stirs, carrying a voice you remember from a dream of lanterns and masks:  
 > 
 > “I told you to watch the sky. It’s closer than you think… It’s time. Investigate the Scar…”  
 > 
 > For an instant, golden-orange Feywild light circles you like candle-flame—then snuffs out, devoured by the red glow overhead.
 
-Mechanically, this confirms that planar boundaries are eroding; teleportation or planar travel checks now carry a 5 % failure chance until the meteor falls.
+Mechanically, this confirms that planar boundaries are eroding; teleportation or planar travel checks now carry a 10% failure chance until the meteor falls.
 
 ## “Through the Scar”
 When the heroes depart Restwell back toward the Scar, the scar’s decay mirrors the time skip:
@@ -232,7 +234,7 @@ When the party leaves the privy stall, read:
 > [!note]+ Read Aloud
 > The privy opens up onto a large room that has stone floors. Seven privy stalls take up the north and west walls. A trio of bathing pools occupies middle of the room, and a set of wooden doors is set into the south wall.
 > 
-> Perception DC 33: Muffled voices can be heard beyond the southern doors.
+> **Perception DC 33:** Muffled voices can be heard beyond the southern doors.
 
 The southern doors lead to area F2, but they’re closed, so the party’s arrival goes unnoticed. If the characters take any precautions to remain undetected, they surprise the Banites in area F2. The Banites are not expecting attackers to burst out of the latrines.
 
@@ -242,39 +244,32 @@ When the adventurers reach area F2, read:
 > [!note]+ Read Aloud
 > This room is a military barracks. Four sets of bunk beds sit against the west wall, each with two trunks beneath the bottom bunk. Beyond the beds, the room contains a pair of tables, each with chairs, and a small altar to Bane in the northeast corner. Another set of double doors leads away to the south and a second, smaller door is set into the east wall. Seven heavily armed warriors reside here, all bearing the symbol of Bane on some piece of clothing or armor.
 > 
-> Perception DC 33: Barked orders and baying hounds can be heard beyond the smaller door.
+> **Perception DC 33:** Barked orders and baying hounds can be heard beyond the smaller door.
 
 The Banites attack immediately. Sounds of combat in area F2 are easily heard by the forces in the south barracks (area F3), who come running. The noise on the parade ground (area F4) prevents the Banites there from hearing any battle here soon enough to reinforce the barracks.
 
 > [!warning]
-> Four corrupt priests or soldiers of bane (level 13) represent a moderate encounter.  As the players wrap up area F2 give them one round to prepare for the reinforcements from F3 to arrive.
+> Each encounter represent a moderate level of difficulty.  As the players wrap up area F2 give them a round or two to prepare for the reinforcements from F3 to arrive.
 
 ```encounter
-name: My Enemy's Enemies
+name: Latrine Duty
 party: Chaos Scar
 creatures:
 - 2: Corrupt Scout of Bane
 - 1: Corrupt Priest of Bane
-- 2: Corrupt Bane Hound
-- 1: Yorven, 225, 35, 2
+- 2: Corrupt Soldier Hound
 ```
-
-Setup
-6 Banite soldiers (S)
 
 ### Features of the Area
 **Altar:** This is a simple shrine dedicated to Bane. Bunks: These beds are 7 feet high and bolted to the floor. A ladder on the side of each bunk provides access to the top bed.
 **Pools:** The bathing pools in the latrines are 2 feet deep and difficult terrain.
 **Tables:** A creature can jump atop one of these oak tables as part of a move action ([[skills#Athletics|Athletics]] DC 34).
 
-## Encounter 3: Parade Ground
+## Encounter 3: Parade Grounds
+**Encounter Difficulty:**   
+- [ ] Severe (95 XP) Level 15
 
-Setup
-1 Banite captain (C)
-1 kennel master (K)
-2 war hounds (W)
-3 Banite soldiers (S)
-4 Banite bolters (B)
+Encounter 3 takes place in area F4.
 
 To reach the stairwell that leads down to the second level of Hallowgaunt, the adventurers must brave the parade ground and defeat the rest of the Banite defenders. Alain, the Banite captain who commands the first level of the fortress, has heard the combat in the barracks, and he marshals what remains of his forces. 
 
@@ -288,78 +283,88 @@ When the adventurers see the Banites, read:
 > [!note]+ Read Aloud
 > Across from you stands a tall human warrior in black plate armor with red trim, a glittering bastard sword in his hand. Other soldiers stand beside him. Nearby, a muscular human in leather armor stands behind two massive war hounds, each straining against its leash. On the raised platforms, four humans armed with crossbows take aim at you.
 
-### Tactics
-When combat begins, Alain and his soldiers charge the adventurers. The kennel master uses sic ’em to push the war hounds into melee combat. Bolters on the raised platforms fire their crossbows.
+```encounter
+name: Parade Grounds
+party: Chaos Scar
+creatures:
+- 1: Corrupt Scout of Bane
+- 2: Corrupt Soldier of Bane
+- 1: Corrupt Bane Hound
+- 1: Corrupt Captain of Bane
+```
 
-As the battle progresses, Alain and his soldiers team up with allies, trying to gain an increase in damage and combat advantage. Alain uses rally point to allow his allies to reposition themselves tactically to these ends. 
+### Tactics
+When combat begins, the captain and his soldiers charge the adventurers. The hounds also leap into melee combat while the scount on the raised platform fire his crossbows.
+
+As the battle progresses, the captain and his soldiers team up with allies, trying to gain an increase in damage and combat advantage. Alain uses rally point to allow his allies to reposition themselves tactically to these ends. 
 
 ### Features of the Area
 **Platforms:** These simple platforms are 15 feet from the ground. Each has a ladder nailed to it, allowing access to the top.
 **Walled Staircase:** This staircase’s wall is 5 feet high. It can provide cover. The stairs are steep enough to be difficult terrain. They lead down to Encounter 4.
 
 ### Conclusion
-Alain has the key to the armory, the key to the cabinet in his room, and a skeleton key that unlocks the kennel cages. On the kennel master’s belt is a skeleton key that opens the kennel cages, as well as a key to the chest under his cot.
+The captain has the key to the armory, the key to the cabinet in his room, and a skeleton key that unlocks the kennel cages. On the kennel master’s belt is a skeleton key that opens the kennel cages, as well as a key to the chest under his cot.
+
+![[Hallowgaunt-lower.webp|right wtall]]
 
 ## Encounter 4: Profane Chapel
+**Encounter Difficulty:**   
+- [ ] Severe (90 XP) Level 16
+
 When the adventurers descend, read:
 > [!note]+ Read Aloud
-> Stairs from the parade ground lead down steeply, terminating in a short hall lit by torches in sconces. A great set of doors, each carved from a solid piece of ebony, blocks further progress. The black hand of Bane is deeply etched on a red field in the center of each door. Cold dread rises in you as you consider opening those doors.
+> Stairs from the parade ground lead down steeply, terminating in a short hall lit by torches in sconces. A great set of doors, each carved from a solid piece of ebony, blocks further progress. The black hand of Bane is deeply etched on a red field in the center of each door. Cold dread rises in you as you consider opening those doors.
 
 Beyond the double doors dwells the former high priest of Bane and current high priest of Shoth-Gorag, Garvan, alongside foulspawn created from other Banites. Garvan is unaware of the battle on the upper level. The foulspawn seer, however, is aware of some kind of disturbance above, so the seer is keeping an eye on the chapel doors.
 
-Adventurers need to succeed on a DC 19 group Stealth check to surprise the monsters beyond the doors. If half or more of the characters succeed on the check, the party receives a surprise round.
-
-Setup
-Garvan, High Priest of Shoth-Gorag (G)
-1 foulspawn seer (S)
-2 foulspawn hulks (H)
 
 When the adventurers enter the chapel, read:
 > [!note]+ Read Aloud
-> The great double doors open onto a dimly lit chapel. Twisting columns line the east and west walls and a great altar flanked by a pair of statues stands against the north wall. The statues were once of Bane, but the likeness of the grim, militant god has been replaced by a tentacled, alien visage. In front of the altar and statues, in the center of the chapel, short stairways lead down to a black basalt slab fitted with manacles. Old bloodstains are visible on the floor near the slab. Sets of double doors on either side of the chapel lead off to the east and west.
+> Once, this hall would have inspired fear. Now it invites awe—and despair.  The statues of Bane twist in mid-transformation, their iron faces cracking into draconic snouts, their blades bending into talons. As you enter, hundreds of whispered prayers echo through your mind—_not your own voice, but a thousand others, all begging to be remade._
 > 
 > Four horrific monsters stand within the chapel. One is a blubbery humanoid with a bone staff, and two others look like fanged giants without skin. The fourth is a bearded, deformed human who wears remnants of chainmail and a symbol of Bane. His armor is torn open to allow his two tentacles to move freely.
 
+```encounter
+name: Profane Chapel
+party: Chaos Scar
+creatures:
+- 1: Crimson Seer
+- 2: Seraptis
+```
+
 ### Tactics
-When combat begins, the foulspawn hulks charge forward to engage the adventurers in melee. Garvan follows them, but the foulspawn seer remains behind the basalt slab. Garvan opens with mind-bending whispers, then uses compelling whispers to slide foes away from him and closer to the hulks. The foulspawn seer begins combat with distortion blast but tries to avoid hitting the hulks with the attack.
+When combat begins, the seraptis charge forward to engage the adventurers in melee. The Crimson Seer follows them and opens with mind-bending whispers, then uses compelling whispers to control them and if successful sends them after the party.
 
-In later rounds, the foulspawn seer uses warp orb while keeping as many allies as possible in its foul insight aura. It avoids melee combat unless cornered. Garvan moves toward ranged attackers and uses grasping tentacles to pull those enemies within range of his or the hulk’s melee attacks.
+The Seraptis fight to the death; the Crimson Seer retreats to the barracks (see Encounter 5).
 
-The foulspawn fight to the death. If all of the foulspawn are slain and he is bloodied, Garvan retreats to the barracks (see Encounter 5).
+During combat, the Crimson Seer cries:
+
+> [!note]+ Read Aloud
+> You stand against salvation! The Voice of the Heart will remake you!
+
+Upon defeat, he disintegrates into radiant dust, whispering:
+> [!note]+ Read Aloud
+> She comes…
 
 ### Features of the Area
-**Altar:** The altar is 8 feet long, 2 feet high, 2 feet deep. It is difficult terrain, and it is suffused with Far Realm energy (Arcana DC 18 to detect). Behind the altar is a locked secret door that leads to the pit of Shoth-Gorag (see Encounter 8). The altar can roll to the side when the secret door behind it opens, allowing easier access to the open passage. 
+**Altar:** The altar is 8 feet long, 2 feet high, 2 feet deep. It is difficult terrain, and it is suffused with Far Realm energy ([[skills#Arcana|Arcana]] DC 32 to detect). Behind the altar is a locked secret door that leads to the pit of Shoth-Gorag (see Encounter 8). The altar can roll to the side when the secret door behind it opens, allowing easier access to the open passage. 
 
-A character can ascertain that the altar can roll to one side with a successful DC 18 Perception check. Finding the secret door and its opening lever then requires another successful DC 18 Perception check. If the characters fail the first check, finding the secret door and lever requires a successful DC 26 Perception check.
+A character can ascertain that the altar can roll to one side with a successful DC 34 [[skills#Perception|Perception]] check. Finding the secret door and its opening lever then requires another successful DC 34 [[skills#Perception|Perception]] check. If the characters fail the first check, finding the secret door and lever requires a successful DC 39 [[skills#Perception|Perception]] check.
 
-Once the lever is pulled, the altar rolls to the right and the secret door swings open on hidden hinges. However, moving the altar also triggers a trap ShothGorag and Garvan placed. Only they know about the trap and can activate the mechanism safely.
+Once the lever is pulled, the altar rolls to the right and the secret door swings open on hidden hinges. However, moving the altar also triggers a trap ShothGorag and Garvan placed. Only they know about the trap and can activate the mechanism safely. 
 
-The door closes and the altar returns to its normal position after 3 rounds unless one or both are somehow prevented from doing so. A hidden switch in the passage beyond the secret door (DC 18 Perception check to find) allows one to open and close the secret door from inside, which does not trigger the trap.
+> [!danger]+ Trap
+> [[far-transport-hb|Far Transport]]
 
-Far Transport Level 10 Minion Trap
-Object XP 125
-Detect Arcana DC 18 Initiative —
-Immune attacks
-Triggered Actions
-Attack (psychic, teleportation) F At-Will
-Trigger: A creature other than Garvan or Shoth-Gorag uses the lever to open the secret door.
-Effect (No Action): Close burst 5 (creatures in the burst); 5 psychic damage, and the target is teleported to the torture chamber (see Encounter 7).
-Countermeasures
-Unlock: Thievery DC 26. Success: The character opens the secret door without using the lever. Failure (21 or lower): The trap triggers.
-Suppress: Arcana DC 26. Success: The character suppresses the magical energy on the altar so that the trap doesn’t trigger when the secret door is opened. Failure (21 or lower): The trap triggers.
+The door closes and the altar returns to its normal position after 3 rounds unless one or both are somehow prevented from doing so. A hidden switch in the passage beyond the secret door (DC 36 Perception check to find) allows one to open and close the secret door from inside, which does not trigger the trap.
 
 **Pillars:** A pillar can provide cover.
 **Pit with Basalt Slab:** The pit is 5 feet deep. The basalt slab in the middle of it is 3 feet wide, 10 feet long, and 3 feet tall. It is difficult terrain.
 **Statues:** These figures are blocking terrain.
 
-### Conclusion
-Barracks Soldiers: If the characters take more than 10 minutes to reach Encounter 5, the barracks occupants might come looking for intruders. These creatures spend a few moments investigating any carnage the characters leave Behind before moving on to find the invaders. They might show up just after the characters finish a short rest in another area.
-
 ## Encounter 5: Temple Barracks
-Setup
-1 tainted warpriest (T)
-2 tainted scouts (S)
-2 foulspawn berserkers (B)
+**Encounter Difficulty:**   
+- [ ] Severe (90 XP) Level 16
 
 This barracks houses guards and their leader, a tainted warpriest named Dasharr. Although the walls are thick in the temple, the scouts here heard the battle in the chapel and made ready for intruders. Monster locations on the map reflects this awareness.
 
@@ -367,7 +372,7 @@ When the adventurers can see the room, read:
 > [!note]+ Read Aloud
 > This barracks contains four beds, a large table and chairs, various cabinets for storage, and a number of armor stands and weapon racks.
 > 
-> Standing in the middle of the room is a figure in red chainmail, a mace clenched in his hands. His face is covered in tiny tentacles like writhing worms, and his eyes are black. Flanking this creature are two bulky humanoids, who heft their greatswords and gurgle in anticipation. Each has gray skin, massive muscles, beady glowing eyes, and a fanged maw.
+> Standing in the middle of the room is a figure in red chainmail, a mace clenched in his hands. His face is covered in tiny tentacles like writhing worms, and his eyes are black. Flanking this creature are a pair of demons.
 > 
 > All three warriors wear the symbol of Bane.
 
@@ -375,27 +380,38 @@ When the scouts emerge, read:
 > [!note]+ Read Aloud
 > A pair of humans in leather armor and armed with short swords rush into the room. They also bear strange deformities and wear the symbol of Bane.
 
+```encounter
+name: Temple Barracks
+party: Chaos Scar
+creatures:
+- 1: Corrupt Scout of Bane
+- 1: Corrupt Priest of Bane
+- 2: Ghalzarokh
+```
+
 ### Tactics
-The berserkers begin their assault with berserker charge. The warpriest Dasharr opens with force tremor, then favors melee combat. If need be, the scouts delay so they can enter the fray after the party is engaged. They favor rear-rank targets and those whom they can flank.
-
-As the battle progresses, the berserkers and scouts move about the battlefield, attempting to flank foes. The berserkers continue to charge, risking opportunity attacks if necessary.
-
 Creatures here fight to the death.
 
 ### Features of the Area
 The warpriest’s personal quarters and a small latrine are accessible through a door in the east wall and the north wall, respectively.
 
-**Cabinets:** The lockers in the southeast corner of the main room are unlocked and contain personal items. A cabinet in Dasharr’s room is locked (Thievery DC 17 to open; Athletics DC 25 to break). It contains his personal effects.
+**Cabinets:** The lockers in the southeast corner of the main room are unlocked and contain personal items. A cabinet in Dasharr’s room is locked ([[skills#Thievery|Thievery]] DC 37 to open; [[skills#Athletics|Athletics]] DC 35 to break). It contains his personal effects.
 **Pools:** The bathing pool in the latrine is 2 feet deep and difficult terrain.
-**Tables:** A creature can jump atop one of these oak tables as part of a move action (Athletics DC 18).
+**Tables:** A creature can jump atop one of these oak tables as part of a move action ([[skills#Athletics|Athletics]] DC 24).
 
-### Conclusion
-Dasharr carries the key to the armory on the upper level, as well as the key to his storage cabinet.
+> [!tip]+ Treasure
+> The priest carries the key to the armory on the upper level, as well as the key to his storage cabinet.  He is also wearing +2 Greater Resilient Leather Lamellar, a +3 mace and two explosive ammunition arrows.  In the cabinet he has 150gp and 25sp in addition to his personal effects.
+> 
+> - [ ] gp::150
+> - [ ] sp::25
+> - [ ] permanent::[[armor-potency|+2 Greater Resilient Leather Lamellar]] [ilvl::14] [gp::4503]
+> - [ ] permanent::[[weapon-potency|+3 Mace]] [ilvl::16] [gp::8935]
+> - [ ] consumable::[[explosive-ammunition|Explosive Ammunition]] [ilvl::13] [gp::520]
+> - [ ] consumable::[[explosive-ammunition|Explosive Ammunition]] [ilvl::13] [gp::520]
 
 ## Encounter 6: Reliquary
-Setup
-1 giant object mimic (O)
-7 giant mimic whelps (M)
+**Encounter Difficulty:**   
+- [ ] Severe (90 XP) Level 16
 
 This room houses texts and items sacred to Bane. Most items stored here are of esoteric value. However, the reliquary’s most recent addition is a potent Banite warhammer named Farbane and its guardians, the giant object mimic Ithgok and its spawn.
 
@@ -403,13 +419,21 @@ When the adventurers can see the room, read:
 > [!note]+ Read Aloud
 > A tremendous slab of basalt dominates the center of this wide chamber, and upon the slab rests a glowing warhammer of violet metal. Arranged about the slab are several wooden tables displaying various relics and icons. Lining the east and west walls are shelves packed with tomes, candles, and other religious items. Against the far wall stand five heavy wooden cabinets.
 > 
-> Perception DC 29: One of the nearby tables wiggles—it’s some sort of creature.
+> Perception DC 36: One of the nearby tables wiggles—it’s some sort of creature.
 
 When the mimics attack, read:
 > [!note]+ Read Aloud
 > The great basalt block writhes, its surface taking on the appearance of wet, gray clay. A wide maw opens in the block, and tentacles sprout from it. Around the room, other smaller furnishings undergo a similar transformation.
 
 The mimics prefer to surprise intruders, but they attack if one or more of them is discovered. See the Tactics section.
+
+```encounter
+name: Reliquary
+party: Chaos Scar
+creatures:
+- 4: Eldritch Tyrant Mimic
+- 1: Eldritch Tyrant Mimic
+```
 
 ### Tactics
 If possible, Ithgok waits for several adventurers to move within range of its crushing tendrils before it and its whelps attack. If Farbane is still resting atop Ithgok when the mimics attack, Ithgok swallows the hammer as a minor action before attacking (see below for what happens later).
@@ -419,35 +443,37 @@ As the battle progresses, Ithgok uses crushing tendrils when it has fewer than t
 If Ithgok is reduced to 50 hit points or fewer, it disgorges Farbane and uses shapeshift to return to its object form. The whelps follow suit, returning to object form. Ithgok hopes the adventurers take the hammer and leave it be. If the adventurers press the attack, Ithgok and its spawn fight to the death.
 
 ### Features of the Area
-**Book Shelves:** The shelves lining the east and west walls in this area are 8 feet high and can be climbed (Athletics DC 13). They contain sacred texts that are worth little except to followers of Bane.Cabinets: These four walk-in cabinets are each 5 feet deep and 8 feet high. They can be climbed (Athletics DC 13). Each contains items used in the worship of Bane.
+**Book Shelves:** The shelves lining the east and west walls in this area are 8 feet high and can be climbed (Athletics DC 29). They contain sacred texts that are worth little except to followers of Bane.
+**Cabinets:** These four walk-in cabinets are each 5 feet deep and 8 feet high. They can be climbed (Athletics DC 29). Each contains items used in the worship of Bane.
 
-Treasure: Farbane.
-Farbane Level 14 Rare
-This stout hammer is forged, head to haft, of a strange violet metal. The symbol of Bane adorns the head and pommel, and the haft is wrapped in mottled leather.
-Weapon: Warhammer 21,000 gp
-Enhancement Bonus: +3 to attack rolls and damage rolls 
-Critical: +3d8 damage, or +3d10 damage against aberrant creatures
-Properties
-When within 10 squares of an aberrant creature, Farbane sheds dim light out to 2 squares. You can suppress or resume this light as a minor action.
-You gain resist 10 psychic.
-You gain a +3 item bonus to damage rolls made against aberrant creatures.
-Attack Power F Daily (No Action)
-Trigger: You hit an enemy with a melee weapon attack using Farbane.
-Effect: The enemy takes 1[W] extra damage. If the enemy is an aberrant creature, it instead takes 2[W] extra damage, and this power recharges. You can use this power only once per encounter.
+> [!tip]+ Treasure
+> [[farbane-hb|Farbane]]
+
+When the party claims Farbane, Kassandra manifests for the first time—not in person, but as a projection of energy filling the chapel or reliquary.  Read the following, 
+
+> [!note]+ Read Aloud  
+> The air chills. The hammer’s glow turns violet.  Then a woman’s silhouette forms in the air—a figure of wings, scales, and shadowed beauty.  Her face is familiar, though her draconic half is composed of amethyst colored scales and her eyes are molten silver.  
+> 
+> “You shouldn’t have come,” she says softly.  “I begged him to spare you. But the world is too small for mercy.”
+
+**Kassandra’s Message:**
+- She remembers her death and forgives them.
+- She believes her rebirth was necessary: “The gods will fall. I will see to it. You should thank me for what comes next.”
+- She warns them that soon “the Heart and Sky will meet,” and when it does, “the old world will be no more.”
+
+After she vanishes, her echo lingers in the stone—her tears crystallized into molten silver veins through the floor.
 
 ## Encounter 7: Torture Chamber
-Setup
-1 foulspawn warpcaller (W)
-2 foulspawn grues (G)
-2 foulspawn berserkers (B)
+**Encounter Difficulty:**   
+- [ ] Moderate (70 XP) Level 16
 
-This room serves as a jail and torture chamber. Monsters here are intent on their task, so they fail to notice battle elsewhere in the temple. However, the adventurers still need to succeed on a DC 19 group Stealth check to surprise the monsters. If half or more of the characters succeed on the check, the characters receive a surprise round.
+This room serves as a jail and torture chamber. Monsters here are intent on their task, so they fail to notice battle elsewhere in the temple. 
 
-The trap in Encounter 4 might teleport the adventurers into the cells here. If the party teleports in, the foulspawn still attack. They use their powers to teleport weak-looking foes into the open room, leaving tough-looking opponents behind bars.
+The trap in Encounter 4 might teleport the adventurers into the cells here. If the party teleports in, the Crucidaemon still attack. They use their powers to teleport weak-looking foes into the open room, leaving tough-looking opponents behind bars.
 
 If the characters enter through the doors, read:
 > [!note]+ Read Aloud
-> Racks along the walls here hold various instruments of torture. A wooden table fitted with straps and manacles sits in the center of the room, and behind it is a pair of prison cells with doors of iron bars. Each cell contains two wounded humans. A dark hole opens in the floor near the south wall.
+> Racks along the walls here hold various instruments of torture. A wooden table fitted with straps and manacles sits in the center of the room, and behind it is a pair of prison cells with doors of iron bars. Each cell contains two wounded humans. A dark hole opens in the floor near the south wall.
 
 If the characters teleport in, read:
 > [!note]+ Read Aloud
@@ -455,52 +481,475 @@ If the characters teleport in, read:
 
 In either case, read:
 > [!note]+ Read Aloud
-> Squatting atop the wooden table are two stunted humanoids with sharp claws and maniacal grins. Guarding the cells are two massively muscled gray humanoids that wield greatswords and wear tattered tabards with Bane’s symbol on them. A blubbery humanoid that has rippling skin and a musical pipe in hand sits near the hole.
+> Squatting atop the wooden table are two shapely bodies, which appears to be sculpted from iron or mithril. Guarding the cells is a massively muscled gray-skinned human that wields a greatsword and wears a tattered tabard with Bane’s symbol on it.
+
+```encounter
+name: Torture Chamber
+party: Chaos Scar
+creatures:
+- 2: Crucidaemon
+- 1: Corrupt Soldier of Bane
+- 4: Corrupt Soldier of Bane, Banite Soldier, ally, hidden
+```
 
 ### Tactics
-The warpcaller and grues focus on ranged attackers. Grues use mind worm to weaken a foe’s Will before assailing it with whispers of madness. When cornered or flanked, they escape via teleport. The warpcaller uses its teleportation powers to keep enemies away from it and the grues but near the berserkers. When it uses warpmind field, the warpcaller places the origin square so the zone forces foes out of the hallway or affects the largest number of enemies in the room. 
-
-Berserkers charge into melee. They willingly take great risks to defend the grues and warpcaller.
+All creatures fight to the death.
 
 #### Banites
-If freed during the combat, the Banite soldiers are willing to fight if asked to do so. Use the Banite soldier statistics (page 9) but reduce damage by 3 if the soldier is unarmed. Allow the players to control the soldiers’ actions, stepping in only if the chosen action is suicidal for the soldier. 
-
-Unless the Banites join the battle, when targeting their powers, the foulspawn do not consider the Banite prisoners to be enemies.
+If freed during the combat, the Banite soldiers are willing to fight if asked to do so. Use the Banite soldier statistics but reduce damage if the soldier is unarmed. Allow the players to control the soldiers’ actions, stepping in only if the chosen action is suicidal for the soldier. 
 
 ### Features of the Area
-**Cells:** Each cell has doors of 1-inch-thick iron bars. The bars are spaced 6 inches apart, providing cover if the bars are between an attacker and its target. The doors are locked (Thievery DC 18 to open; Athletics DC 31 to break).
-**Hole:** This opening in the floor descends in a decline down to Shoth-Gorag’s lair about 50 feet below. It is wide enough to accommodate a crawling Medium creature, but it is slimy with old gore.
+**Cells:** Each cell has doors of 1-inch-thick iron bars. The bars are spaced 6 inches apart, providing cover if the bars are between an attacker and its target. The doors are locked ([[skills#Thievery|Thievery]] DC 36 to open; [[skills#Athletics|Athletics]] DC 39 to break).
+**Hole:** This opening in the floor descends in a decline down to Shoth-Gorag’s lair about 100 feet below. It is wide enough to accommodate a crawling Medium creature, but it is slimy with old gore.
 **Racks:** These wooden racks contain instruments of torture. The various blades, pokers, and hooks function as daggers or clubs in combat, but they are enough to arm the Banite soldiers.
-**Table:** This blood-spattered torture table is bolted to the floor. A creature can jump atop the table as part of a move action (Athletics DC 18).
+**Table:** This blood-spattered torture table is bolted to the floor. A creature can jump atop the table as part of a move action ([[skills#Athletics|Athletics]] DC 38).
 
 ### Prisoners
 Despite their wickedness and loyalty to Bane, these captives are grateful to be rescued. However, they do not completely trust the adventurers. Roleplay the scene as the characters interact with the Banites, perhaps including some of the optional skill checks shown below. Each time the characters make a good case or succeed on an optional check, they gain a new piece of information from the Banites.
 
-**Diplomacy (DC 13):** The character reassures the Banites that they and the party share a common goal.
-
-**Dungeoneering (DC 18):** The character uses knowledge of the Far Realm to drive home the danger that Shoth-Gorag represents.
-
-**Heal (DC 13):** The character eases the Banites’ pain and tends their wounds, deepening their gratefulness to the party.
-
-**Intimidate (DC 18):** The character threatens the Banites or leverages their fear of Shoth-Gorag.
-
-**Religion (DC 13):** The character uses an understanding of Bane’s tenets to influence the Banites into assisting those whom Yorven believed to be sent by the deity.
+**[[skills#Diplomacy|Diplomacy]] (DC 35):** The character reassures the Banites that they and the party share a common goal.
+**[[skills#Occultism|Occultism]] (DC 37):** The character uses knowledge of the Far Realm to drive home the danger that Shoth-Gorag represents.
+**[[skills#Medicine|Medicine]] (DC 35):** The character eases the Banites’ pain and tends their wounds, deepening their gratefulness to the party.
+**[[skills#Intimidation|Intimidation]] (DC 37):** The character threatens the Banites or leverages their fear of Shoth-Gorag.
+**[[skills#Religion|Religion]] (DC 35):** The character uses an understanding of Bane’s tenets to influence the Banites into assisting those whom Yorven believed to be sent by the deity.
 
 #### Information Gains
 The Banites are willing to help their liberators with information. They know the following facts:
-
 - A secret door is hidden behind the altar in the main chapel. The door has a magical trap, but the Banites don’t know the trap’s function. They know that Shoth-Gorag dwells beyond the secret door, but they know nothing about the layout of the pit. With this information, characters can easily find the secret door, and they gain a +4 bonus to checks to find and disable the trap.
-- Farbane is in the reliquary, and a terrible gigantic creature and its spawn guard the weapon. These creatures can take the shape of objects. The DC to see the mimics for what they are lowers to 20 for the characters.
-- The hole in this room is a chute to an unknown location. When a prisoner became too incoherent to merit further suffering, the foulspawn threw the unfortunate down the chute. The soldiers here are all that remain of about a dozen loyal Banites.
-- The Banites might know where other treasures you have placed are hidden in the fortress.
+- Farbane is in the reliquary, and a terrible gigantic creature and its spawn guard the weapon. These creatures can take the shape of objects. The DC to see the mimics for what they are lowers to by 4 for the characters.
+- The hole in this room is a chute to an unknown location. When a prisoner became too incoherent to merit further suffering, the demons threw the unfortunate down the chute. The soldiers here are all that remain of about a dozen loyal Banites.
 
 #### Unlikely Allies
-It’s up to you whether the Banites can be persuaded to join the characters in the battle against other enemies here. They are inclined to leave the fortress and unwilling to do further battle without arms and armor. Any soldiers allowed to leave make for the surface and escape. If they learn that Yorven has gone to Restwell Keep, they join him there.
+It’s up to you whether the Banites can be persuaded to join the characters in the battle against other enemies here. They are inclined to leave the fortress and unwilling to do further battle without arms and armor. Any soldiers allowed to leave make for the surface and escape. If they learn that Yorven has gone to Restwell Keep, they join him there.
 
-### Conclusion
-Each foulspawn grue has a key to one cell. The warpcaller has the key to both cells.
+> [!tip]+ Treasure
+> The Corrupt Soldier of Bane has the key to both cells.
 
-## Encounter 8: The Thing That Should Not Be
+## Encounter 8: The Final Test
+> [!note]+ Read Aloud  
+> The passage ends in a vast circular chamber, its walls veined with silver and crimson light.  
+> 
+> Crossing the chamber at its center, a translucent membrane hangs in the air — shifting between liquid and glass, reflecting each of your faces in perfect stillness.  The membrane ripples, in time with some unseen rhythm and your reflections move just a heartbeat behind.
+> 
+> A voice rolls through your mind, layered and patient:  “You may yet understand. Step forward, and see what you truly are.”
+
+The final barrier is not just physical—it’s metaphysical. The PCs must cross through a Veil of Hearts, a living membrane that tests their conviction. Each character feels themselves pulled forward. When they touch the Veil, the world dissolves.
+
+### Varas
+> Varas stands in the familiar shattered ruin of a mushroom cave now the beholder’s lair — the smell of ozone and burnt stone in the air.  Lightning flashes across the distant sky, but this time it comes from within the dungeon — arcing from his own wounded shoulder, where the disintegration ray struck long ago.  The wound burns bright — not with pain, but _promise._
+> 
+>> [!note]+ Read Aloud  
+>> You stand where it all began — the Eye Tyrant’s lair.  The beast hovers before you, undamaged, its many eyes gleaming with contempt.  
+>> 
+>> “You were nothing,” it hisses. “A gnat that fled.”  
+>> 
+>> But the air crackles differently this time. Power hums beneath your skin — the same wild, electric chaos that struck you in the storm.  The lightning remembers you.  It waits to be unleashed.
+>
+>The storm that nearly killed him reappears above — but now it swirls around him, not against him.
+>
+> ### The Choice
+> A **spectral figure** forms beside the beholder — an echo of Kataklysmos’s will, cloaked in red lightning.
+>
+>> [!note]+ Read Aloud  
+>> _“You were wronged, Varas. The gods watched. Your comrades fled. Take what is yours. You need never be weak again. Say the word, and the storm will obey you.”_
+>
+> If he accepts:
+>- Lightning surges through his veins. The beholder’s body _explodes_, reduced to ash by his will alone.  The storm clears — leaving only silence and the echo of Kataklysmos’s laughter.    
+>- Mechanically: Varas gains the **Mark of the Heart** (see below).
+>
+> If he resists:
+> He feels the pain of the lightning strike again — searing, but cleansing. The storm fades, and his reflection kneels before him, whispering: “You live because you endure. Remember that.”  He awakens with faint scorch marks on his armor and the scent of ozone in the air.
+
+### Winter
+> The Veil swallows Winter in a rush of cold air, and he suddenly stands in a vast field beneath a pale moon, surrounded by familiar farmland—the same fields he has rescued time and again. But the crops are wilted.  The earth is split.  The air tastes burnt. A distant rumble shivers the ground.
+>
+>> [!note]+ Read Aloud  
+>> The world around you reforms into familiar farmland—soft earth, broken fences, the smell of tilled soil.  But something is wrong.  The crops lie flattened, as though crushed by an unseen weight. Animals lie motionless in their pens.  In the distance, the sky burns red—and you hear the unmistakable cries of terrified people.
+>> 
+>> Then you hear a child’s voice, thin and desperate:  “Winter… please… help us…”
+>
+> Winter turns to see a familiar lair you closed long ago, sealed with a Wall of Stone. But now, the stone pulses faintly with light—something trapped inside is screaming.
+>
+> As he approaches, translucent figures appear: A farmer and his family he once saved. A hunter whose wounds he tended. A young girl he sheltered behind his Wall of Stone. But here, they are **ghostly echoes**, half formed, flickering like dying fireflies.
+>
+>> [!note]+ Read Aloud  
+>> You have done much good for the people of Restwell.  It's then you recognize them.  
+>> 
+>> The farmer you healed.  The hunter whose leg you mended.  The girl who's family you helped with their crops.
+>> 
+>> Their voices overlap in a rising chorus of pleading.  
+>> 
+>> “You said we’d be safe…”  
+>> 
+>> “You promised…”  
+>> 
+>> “Winter… don’t leave us…”
+>>  
+>> The crack widens—then bursts.
+>> 
+>> Not claws.  Not teeth. A wave of red starlight crashes forward, devouring earth and sky.
+>> 
+>> The people behind you cry out, clutching your arms, your cloak, your hands. “Winter… save us…”
+>> 
+>> But you know—this is no beast you can fell, no lair you can seal.  This is simply-annihilation.
+> 
+> Winter can sense instantly: 
+> - It is unstoppable.
+> - It is the precursor of the meteor.
+> - It is the same force that killed Hongya.
+> 
+> And the helpless villagers behind him look to him—_only him_.
+>
+> This is the **core fear** buried deep in Winter’s heart:  That he cannot save everyone.  That even his greatest efforts may be undone.  That he is not enough in the face of cosmic destruction.
+>
+> The red wave pauses—frozen in place. A figure steps out of it. Not monstrous at first— but familiar, wearing the shape of a young commoner Winter once healed.  The illusion melts away into a towering silhouette of burning, light. **Kataklysmos himself, wearing a human voice.**
+>
+>> [!note]+ Read Aloud  
+>> “You cannot save them all, Winter.” The figure’s voice echoes like molten stone.
+>> 
+>> “But you could. With my power, no storm could break what you build. No monster could harm what you shelter. No god could deny you the right to protect what you love.”
+>> 
+>> The crimson wave recedes slightly—as though waiting for your answer.
+>> 
+>> “Let me make you a Guardian worthy of the new world. Say yes… and none will ever suffer again.”
+>
+> Kataklysmos offers Winter something _terrifyingly aligned_ with his values:
+> - Absolute power to protect.
+> - The ability to stop every tragedy.
+> - A world where innocents never die unless he wills it.
+>
+> But at a price:
+> - The freedom of the people he protects.
+> - The collapse of the natural cycle he reveres. 
+> - Accepting **chaos as order**.
+>
+> If Winter Accepts
+> Winter raises his hand, and the Stone Wall reforms — but now impossibly tall, glowing with crimson runes. The farmland reshapes into a perfect, unchanging sanctuary. The people behind him revive, blinking in awe. The star-storm bows to him.
+>> [!note]+ Read Aloud  
+>> Kataklysmos whispers:
+>> _“You protect because you care. I protect because none deserve harm.  Together, we will reshape the world so no one ever suffers again.”_
+>
+> If Winter Rejects
+> He steps forward—not away from the villagers, but toward the oncoming wave, choosing to face destruction rather than accept control. The crimson wave crashes over him.  Everything dissolves into starlight.
+> 
+>> [!note]+ Read Aloud  
+>> Kataklysmos whispers:
+>> _“Then you will fail. And they will die.”_
+> He awakens back in the chamber, soot on his face, frost on his cloak…  but **lighter**, stronger.
+
+### Mordak
+> When Mordak touches the Veil, he feels the weight of his warhammer become impossibly heavy.  The world drops away. He stands in the center of a ruined battlefield of ash, littered with broken arrows, shattered shields, and the charred remains of trees.  Lightning cracks overhead.
+>
+> But one figure stands in the devastation: **Zeta**, pale and still, as he last saw her after the chaotic energy nearly consumed her.
+>
+>> [!note]+ Read Aloud  
+>> The world reforms in shades of ash and smoke.  
+>> Charred trees lean like gravestones, and the air hums with distant thunder.
+>> 
+>> Zeta stands before you.  Small.  Pale.  Her eyes empty and unfocused—just as they were following the extraction of chaos from her small form, when you feared you’d lost her forever.
+>> 
+>> “Mordak…?” she whispers.  “I… I can’t feel anything…”
+>> 
+>> Her voice trembles—not with fear, but with _apology._
+>
+> At Zeta’s feet, **purple, crystalline chains** snake across the ground.  They pulse with the same chaotic energy that once nearly consumed her. A towering silhouette forms behind her—shifting between the shape of a dragon, a storm, and a molten titan. **Kataklysmos.**
+>
+>> [!note]+ Read Aloud  
+>> A voice crashes through the air like a landslide:  “You already failed her once.”
+>> 
+>> The chains pull tight. Zeta gasps as red light scorches up her arms.
+>> 
+>> “You dragged the chaos out of her lung by lung, heart by heart.  You saved her life… but did you save her soul.”
+>> 
+>> Zeta lifts her tear-filled eyes to you.  “I didn’t want to disappoint you…”
+>
+> This hits directly at Mordak’s greatest fear: _that he cannot protect Zeta from the world—or from himself._
+>
+> The sky tears open. The ash battlefield transforms into a different place: A stone altar.  A dead half-dragon woman.  Blood and shards of skull on Mordak’s hammer. **The scene of Kassandra’s death.** The memory freezes, suspended around him like a still image. **Kassandra’s eyes open.  Silver.  Burning.** She sits up from the altar, blood flowing backwards up her scales, reforming the shattered pieces of her head. She looks at Mordak—not with rage…
+>
+> …but with betrayal.
+>
+>> [!note]+ Read Aloud  
+>> Kassandra rises, head whole once more, staring at you through molten silver eyes.
+>> 
+>> “You killed me.”
+>> 
+>> Her voice is soft.  Hurt.
+>> 
+>> “You crushed my skull with Moradin’s own gift.”
+>> 
+>> The battlefield trembles.  Zeta screams as her chains tighten.
+>> 
+>> “Was that mercy, Mordak?”  “Or was it cowardice?”
+>
+> This is Kataklysmos twisting truth with just enough accuracy to wound.
+>
+> A third figure appears—the faint, ghostly outline of **Moradin**, arms crossed, proud and stern. But he does not speak. He simply **watches**.
+>
+>> [!note]+ Read Aloud  
+>> Kataklysmos’s voice rolls like thunder: “Even your god questions you.”  “Did you kill Kassandra because you believed it was right…
+>> 
+>> …or because you were afraid she might be right?”
+>
+> If Mordak reaches toward Moradin: The god’s image flickers. Kataklysmos speaks with _his_ voice, mocking.This is a trap: the Veil cannot mimic Moradin fully, but it can mimic Mordak’s insecurity.
+>
+> The purple chains around Zeta heat until they glow white. She collapses to her knees, trembling. Kataklysmos steps closer—his form towering, draconic wings unfurling, eyes burning like twin stars. He gestures to Zeta.
+>
+>> [!note]+ Read Aloud  
+>> “Let me free her. Let me take the burden from you. She will never suffer again. She will never fear chaos again. She will never die.”
+>> 
+>> A sphere of molten starlight rises between his hands. Within it, Mordak sees:
+>> - Zeta smiling, confident, strong
+>> - Her bow drawn with perfect skill
+>> - Chaos unable to touch her
+>> - A world where she is unharmed forever
+>> “Say yes,” the god whispers, “and she will be perfect. Say yes… and you will never fail another soul again.”
+>>
+>>The chains loosen slightly—temptation incarnate.
+>
+> **If Mordak Accepts**
+> He reaches toward the starlight. Zeta’s body lifts gently, like a child rising into her father’s arms. The chains shatter. Her eyes open—silver, draconic, serene. But her voice is no longer her own.
+>
+>> [!note]+ Read Aloud  
+>> _“I am safe now, Mordak. Because I belong to Him.”_
+>> 
+>> Kataklysmos laughs—a deep, seismic rumble.
+>
+> **If Mordak Rejects**
+>> [!note]+ Read Aloud  
+>> You step between Zeta and the god.  Even as the purple chains whip like serpents and the storm roars. You raises your hammer—the symbol of both justice and mercy—and speak a single word the Veil cannot deny: **“No.”** The red chains recoil like burned nerves.  Kataklysmos snarls—not in fury, but in disappointment.  The battlefield quakes and Zeta’s form dissolves—not into ash, but into **warm, golden light**, the color of hope restored.
+>>
+>> Moradin’s phantom smiles. Just once.
+
+ ### Ediza
+When Ediza touches the Veil, the world goes _silent_—silent in a way that feels personal, like the absence of a heartbeat.
+
+She stands in the middle of a **ruined campsite**, ash drifting through the air.  The tents are arranged like her party’s traveling camp…  but every tent is **empty**, slashed open, trampled. A cold wind blows. Her breath fogs before her.
+
+> [!note]+ Read Aloud  
+> The world reforms around you in shreds of fabric, broken tools, and footprints leading nowhere.  Your party’s camp—exactly as it should be—
+> 
+> Except you are alone. You hear voices nearby… familiar, muffled, whispering.  You move toward them—
+> 
+> —and they move away.
+> 
+> “She never listens.”  
+> “She always acts first.”  
+> “She’ll get us all killed.”
+> 
+> The whispers scatter like frightened birds whenever you get close.
+
+The Veil is isolating her deliberately.  It is not hindering her—**it is abandoning her.**
+
+She finds the party gathered at the edge of the ruined camp, silhouettes around a fire—shadows of the other PCs. But as she approaches, they do not see her. They speak around her, **through** her.
+
+> [!note]+ Read Aloud  
+> Mordak’s shadowy shape shakes his head.  “She’s reckless. She’s not ready.”
+> 
+> Varas’s silhouette scoffs.  “She doesn’t _think._ She just acts.”
+> 
+> Winter stares into the fire. “I keep trying to help her. But she doesn’t want help.”
+> 
+> They do not turn to you.  They do not notice you.  You stand in the circle of firelight…
+> 
+> …and cast no shadow.
+
+This is not them speaking.  It is **her fear of what they might say.**
+
+One of the tents catches fire suddenly—an unnatural blaze, rising into red and violet flame. This is a memory echo:  Moments when she acted first, consequences coming later.
+
+As she reaches for it, the flames freeze, turning into crystalline red shards.
+
+> [!note]+ Read Aloud  
+> A voice speaks from behind her:
+> _“You save no one by rushing blindly.”_  
+> _“You protect no one by running ahead.”_  
+> _“You are always alone because you choose to be.”_
+
+Kataklysmos appears behind her, not as a titan or dragon—but as a **mirror** of her own shape, made of violet smoke. This is the only one of the four trials where Kataklysmos chooses to appear as a _peer._ He stands with her posture.  He tilts his head the way she does.  He moves in her rhythm.
+
+He is not towering.  He is familiar.  He is _her._ Kataklysmos steps beside her, speaking softly.
+
+> [!note]+ Read Aloud  
+> “You are not like them. You act because the world _needs_ action, not hesitation. You fight because someone must fight first. You are alone because you are stronger than they are. 
+> 
+> His mirror-hand touches yours, and your shadow finally returns—**but it is his shadow, not yours.**
+
+This is the root of the temptation:  Kataklysmos offers her **identity**, not power.  He offers **belonging**, not domination.  He offers **to see her**, when she fears no one else does.
+
+He gestures toward the silhouettes of the party.
+
+> [!note]+ Read Aloud  
+> “They will never understand you.”  
+> “But _I_ do.”  
+> “Walk with me, Ediza.  
+> And you will never be overlooked again.”
+
+**If Ediza Accepts**
+She takes his hand. The ruined camp reforms into a pristine battlefield— and she stands at the forefront, alone but triumphant, wielding a blade of starlight. Her shadow behind her is enormous—draconic, winged.
+
+> [!note]+ Read Aloud  
+> Kataklysmos whispers:
+> _“You were never meant to follow.”_  
+> _“You were meant to lead.”_
+
+**If Ediza Rejects**
+She turns away from the mirror-Kataklysmos. The voices of the other PCs fade. The camp around her shifts into a **single person’s torchlight**—someone calling her name from far away. She hears a real voice—Winter? Mordak? Varas?—calling:
+
+> [!note]+ Read Aloud  
+> “Ediza! There you are!”
+> 
+> Kataklysmos’s illusion shatters.
+> 
+> He hisses,  _“They will never understand you.”_
+
+She answers with her own words. Her choice—whatever she says—breaks the spell. The silhouettes dissolve.  The fire extinguishes.  The world goes dark.
+
+And then—A warm light appears, guiding her back to the Veil.
+
+**Mechanical Effect — The Hunter’s Clarity**
+
+| PC     | Outcome               | Effect                                                                                                                                                                                                                                           |
+| ------ | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Varas  | Resist the Temptation | Gains a +1 status bonus to Will saves vs. Kataklysmos’s effects until the end of the adventure.                                                                                                                                                  |
+| Varas  | Accept the Temptation | Gain a +1 to attack rolls and damage for 1 hour, but becomes stupefied 1 permanently until the Heart of Kataklysmos is destroyed. During Act III, Kataklysmos can use this link to target him directly.                                          |
+| Winter | Resist the Temptation | Gain a +1 status bonus to Will saves against Kataklysmos. Winter radiates a faint aura of calm; allies within 10 feet gain +1 vs. fear for 1 hour.                                                                                               |
+| Winter | Accept the Temptation | Gains a +1 AC and +1 to all saves for 1 hour and Winter gains stupefied 1 until Kataklysmos is defeated. In Act III, Kataklysmos can target Winter with “choose for them” visions—attempts to force his will into Winter’s protective instincts. |
+| Mordak | Resist the Temptation | +1 status bonus to Fortitude and Will saves until the end of the adventure and advantage (GM call) on any check to resist mental influence involving Zeta or Kassandra.                                                                          |
+| Mordak | Accept the Temptation | Gains a +1 to all attack rolls and saves for 1 hour but becomes clumsy 1 from the weight of cosmic responsibility. In Act III, Kataklysmos gains a bonus to target Zeta if she appears again as an echo or illusion.                             |
+| Ediza  | Resist the Temptation | Gains a +1 status bonus to Perception and Will saves vs. illusions or deceptions until the adventure ends and she gains advantage (GM Call) to recognize Kataklysmos’s influence in Act III.                                                     | 
+| Ediza  | Accept the Temptation | Gains +1 status bonus to attack rolls for 1 hour but becomes **frightened 1** whenever an ally tries to assist her. In Act III, Kataklysmos can summon an illusion of the “lone champion” she accepted.                                          |
+
+## Encounter 9: The Voice of Kataklysmos
+**Encounter Difficulty:**   
+- [ ] Severe (90 XP) Level 16
+- [ ] Trivial (40 XP) Add +40 XP if _any_ PC accepted Kataklysmos’s offer in Scene 6
+- [ ] Trivial (20 XP) Add +20 XP if the PCs enter the chamber already frightened or stupefied
+
+Kassandra—once ally, betrayer, victim, and catalyst—stands reborn in the chamber of the Veil.  Her body is half-flesh, half-crystal; eyes like pools of molten silver; amethyst scales slide like molten metal across her skin; the air around her crackles with the taint of chaos
+
+This is her second chance.  Not one she asked for.  But one given by the god who remade her. When the characters emerge from their personal visions, read:
+
+> [!note]+ **Read Aloud**  
+> The Veil pulses once, as though acknowledging your choice—then cracks like glass and shatters.
+> 
+> Brilliant violet light floods the chamber as the floor quakes beneath your feet. The air tastes metallic, sharp with the scent of ozone and melted stone. A low hum—like the heartbeat of a dying star—vibrates in your bones.
+> 
+> A shape steps from the swirling fragments of the Veil. Scales form first, then wings of shimmering molten crystal, and finally a familiar face—silver-eyed, resolute, and burning with astral fire.
+> 
+> Kassandra.
+> 
+> Her body flickers between flesh and flowing light, as though reality cannot decide what she is. She regards you not with hatred, but with grief so profound it cracks her voice. 
+> 
+> “I begged him to spare you,” she whispers. “But he has chosen—all must break before the world is remade. Kataklysmos showed me what the gods fear—that they are mortal, and we are their heirs.”  _Her eyes soften briefly._ “If you strike me down, you’ll only hasten his coming.”
+> 
+> A second voice overlays hers—vast, resonant, grinding like shifting mountains: _**“She is Mine.”**_
+> 
+> The meteor overhead pulses in answer. Kassandra raises a hand glowing like a newborn sun.  “Forgive me. I must stop you.”
+
+
+```encounter
+name: The Voice of Kataklysmos - Phase 1
+party: Chaos Scar
+creatures:
+- 1: Kassandra Voice of Kataklysmos
+- 1: Shadow of Kataklysmos, hidden
+```
+
+### Tactics
+**Kassandra fights with tragic determination.**  She focuses first on:
+1. Anyone who accepted Kataklysmos’s favor (attempting to “end their suffering”), then
+2. Mordak (“end what was started”), then
+3. Varas or Ediza if they act recklessly.
+
+She avoids Winter unless attacked first, pleading with him:
+> [!note]+ **Read Aloud**  
+> “Do not waste your mercy on me.”
+
+At 50% HP, she cries out:
+> [!note]+ **Read Aloud**  
+> “He sees through me!”  
+> 
+> Kassandra takes to the air.  In that moment, a enormous shadow forms behind her and the world turns upside down.
+
+The following effects continue for the remainder of the battle as Kataclysmos attempts to influence the outcome.
+
+#### Beginning Phase 2
+**Reality Tear** When the shadow erupts, the chamber cracks like glass. All creatures must attempt DC 34 Reflex. The ground now glows with purple fissures—these become the “Chaos Lines” below.
+- _Success:_ Avoid the energy cracks
+- _Failure:_ Take `dice: 4d6` force damage
+- _Critical Failure:_ `dice: 4d6` force + knocked prone
+
+**Reverse-Gravity Burst** The instant the shadow appears gravity reverses for 1 round; all creatures fall upward 20 ft (taking `dice: 1d6` damage). Objects not nailed down float. Kassandra hovers unaffected. Next round, gravity slams back down creatures again (`dice: 1d6` damage, DC 30 [[skills#Acrobatics|Acrobatics]] to reduce).  This is considered falling and abilities which minimize falling effects work here as well.
+
+#### On Shadow Initiative
+**Chaos Lines (Ongoing Stage Hazard)** The shadow’s presence warps the battlefield. Every round at initiative 20. `dice: 1d4` lines of purple energy erupt across the map (30 feet long). Crossing a line deals `dice: 3d6` mental damage (no save). Ending turn on a line triggers a DC 33 Will save:
+- _Failure:_ [[conditions#Confused|Confused]]
+- _Critical Failure:_ [[conditions#Confused|Confused]] and [[conditions#Stunned|Stunned 1]]
+
+**Gravity Loop Zones** The shadow drags gravity into unstable vortices. Every round, two 15-foot square zones randomly shift gravity. Creatures inside must succeed at DC 34 Athletics or Reflex.  On a failure, they are [[conditions#Slowed|Slowed 1]] until the end of next turn and pulled into the zone’s center.  Jumping/flying characters risk being slammed to floor or ceiling for `dice: 3d6` bludgeoning.
+
+**Starlight Warp** Each PC’s past choice is now weaponized. Every even round, the shadow pulses:
+- PCs who **accepted** Kataklysmos' offer
+    → Must roll two Will saves, take the worse  
+    → On a failure: [[conditions#Stupefied|Stupefied 1]] (stacking, max 2)
+   
+- PCs who **resisted**  
+    → Gain **+1 to all saves vs. chaos effects** until next pulse  
+    → On a crit success: gain a temporary **10 temp HP** shield of silver light
+
+**Shadow Breath (Environmental, Not Kassandra’s Ability)** Every odd round starting the third round following the beginning of phase two, the shadow exhales a wave of chaos-starlight in a 60-foot cone, centered from the shadow, targeting the environment. Any player caught in the code must attempt DC 35 Will save:
+- _Success:_ `dice: 4d6` mental damage
+- _Failure:_ `dice: 8d6` mental damage and [[conditions#Frightened|Frightened 1]]
+- _Critical Failure:_ `dice: 8d6` mental damage, are [[conditions#Frightened|Frightened 2]] and [[conditions#Stupefied|Stupefied 1]]
+
+With the final blow Kassandra warns them:
+> [!note]+ **Read Aloud**  
+> _“You have not yet reached the Heart.”_
+
+Then her body disintegrates into purple starlight…
+
+…and the ground begins to beat like a heart.
+
+### **Features of the Area**
+**Illumination:** Bright light suffuses the room; harsh violet-white illumination fills the chamber.
+**Shattered Veil Ground:** Broken crystalline tiles crackle with unstable planar energy (difficult terrain).  Crossing a tile requires a DC 35 [[skills#Acrobatics|Acrobatics]] check or take `dice: 3d6` mental damage.
+**Starlit Pillars (Hazard):** Purple crystalline pillars run from floor to ceiling. They provide cover. A pillar struck by any AOE shatters, dealing `dice: 4d6` piercing* damage in a 10-ft burst (DC 35 Reflex).  
+**Planar Weakness:** Teleportation and blink effects have a 25% failure chance here due to meteor interference.
+
+> [!tip]+ Treasure
+> Text
+> 
+> - [ ] gp::110
+> - [ ] permanent::[[itemlink]] [ilvl::000] [gp::000]
+> - [ ] consumable::[[itemlink]] [ilvl::000] [gp::000]
+
+
+> [!tip]+ Hidden Shards of Hope  
+> Embedded within the Veil’s fractured residue are remnants of Kassandra’s will resisting Kataklysmos.  With a **DC 32 Perception** or **DC 34 Arcana** check, the party finds:
+>
+> -  permanent::[[bands-of-force|Bands of Force]] [ilvl::13] [gp::3000]
+> -  permanent::[[meteor-hammer|Starborne Meteor Hammer]] _(unique martial relic)_ [ilvl::15] [gp::6500]
+> -  consumable::[[epiphany-shard|Epiphany Shard]] _(once/day reroll vs. a mental effect)_ [ilvl::14] [gp::500]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Encounter 10: The Thing That Should Not Be
 Setup
 Shoth-Gorag (G)
 1 creeping spawn (C)

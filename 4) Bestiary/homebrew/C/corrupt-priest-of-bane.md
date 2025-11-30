@@ -4,10 +4,10 @@ aliases: "Corrupt Priest of Bane"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/type/human
-  - pf2e/creature/level/1
+  - pf2e/creature/level/13
 statblock: inline
 name: "Corrupt Priest of Bane"
-level: 1
+level: 13
 ---
 
 ```statblock
@@ -38,6 +38,9 @@ abilities_top:
   - name: "Roiling Mind"
     desc: "(__abjuration__, [[mental]]) __Trigger__ The Corrupt Priest of Bane is targeted by an effect with the [[mental]] trait or that requires a Will save. __Effect__ The source of the triggering effect takes `dice: 14d6` mental damage (DC 33 Basic Will save)."
 
+  - name: "Equipment"
+    desc: "+2 Striking Mace; +2 Chainmail"
+    
 abilities_mid:
   - name: "Force Tremor"
     desc: "`pf2:2` (__evocation__, [[force]], [[fear]]) __Frequency__ once per `dice: 1d4` rounds. The priest releases a shockwave of dark power in a 15-foot emanation. Each enemy in the area must attempt a DC 33 Fortitude save.\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage.\n**Failure** The creature takes `dice: 6d10+10` force damage, is [[pushed|pushed 15 feet]], and knocked [[prone]].\n**Critical Failure** As failure, but the creature is also [[stunned|stunned 1]]."

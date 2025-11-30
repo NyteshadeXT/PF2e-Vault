@@ -3,8 +3,8 @@ rarity: 16
 skillLevel: 15
 creatureCR: 12
 creatureTrait: Arcana, Crafting
-playerLevel: 15
-taskDifficulty: 0
+playerLevel: 16
+taskDifficulty: 2
 skillDifficulty: 0
 itemLevel: 2
 itemValue: 35

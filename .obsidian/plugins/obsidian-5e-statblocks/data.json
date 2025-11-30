@@ -2331,6 +2331,683 @@
           }
         ]
       }
+    ],
+    [
+      "Crimson Seer",
+      {
+        "columns": 2,
+        "forcecolumns": true,
+        "layout": "Basic Pathfinder 2e Layout",
+        "source": "Homebrew",
+        "name": "Crimson Seer",
+        "level": "Creature 15",
+        "rare_01": "Unique",
+        "size": "Medium",
+        "trait_01": "Humanoid",
+        "trait_02": "Aberration",
+        "trait_03": "Divine",
+        "modifier": 28,
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "Perception +28; <STATBLOCK-WIKI-LINK>darkvision<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "languages": "Common, Deep Speech",
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "__Arcana__ +27; __Intimidation__ +29; __Occultism__ +28; __Religion__ +28; __Deception__ +27; __Society__ +24"
+          }
+        ],
+        "abilityMods": [
+          4,
+          2,
+          5,
+          6,
+          5,
+          7
+        ],
+        "abilities_top": [
+          {
+            "name": "Crimson Insight",
+            "desc": "The Crimson Seer automatically knows the location of any <STATBLOCK-WIKI-LINK>slowed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>stupefied<STATBLOCK-WIKI-LINK>, or <STATBLOCK-WIKI-LINK>dazed<STATBLOCK-WIKI-LINK> creature within 60 feet as if it had <STATBLOCK-WIKI-LINK>tremorsense<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "abilities_mid": [
+          {
+            "name": "Grasping Tentacles",
+            "desc": "⬺ (__occult__, <STATBLOCK-WIKI-LINK>attack<STATBLOCK-WIKI-LINK>) __Frequency__ once per round. __Targets__ up to 2 creatures within 15 feet. __Effect__ Each must attempt a DC 37 Fortitude save. **Critical Success** Unaffected. **Success** <STATBLOCK-WIKI-LINK>pushed|pushed 5 feet<STATBLOCK-WIKI-LINK>. **Failure** <STATBLOCK-WIKI-LINK>pushed|pushed 15 feet<STATBLOCK-WIKI-LINK> and <STATBLOCK-WIKI-LINK>slowed|slowed 1<STATBLOCK-WIKI-LINK> until end of next turn. **Critical Failure** As failure, and if moved adjacent to the Seer, the Seer makes a Heavy Mace Strike."
+          },
+          {
+            "name": "Mind-Bending Whispers",
+            "desc": "⬺ (__occult__, <STATBLOCK-WIKI-LINK>mental<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>auditory<STATBLOCK-WIKI-LINK>) __Recharge__ 1d4 rounds. The Seer releases a psychic storm in a 10-foot emanation. Each enemy must attempt a DC 37 Will save. **Critical Success** Unaffected. **Success** Half of 8d10+10 mental. **Failure** Full damage and <STATBLOCK-WIKI-LINK>dazed<STATBLOCK-WIKI-LINK> 1 round. **Critical Failure** Full damage, 6d6 <STATBLOCK-WIKI-LINK>persistent mental<STATBLOCK-WIKI-LINK> damage, and dazed for 1 minute (DC 35 Will each round ends both)."
+          },
+          {
+            "name": "Compelling Whispers",
+            "desc": "⬽ (__occult__, <STATBLOCK-WIKI-LINK>charm<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>auditory<STATBLOCK-WIKI-LINK>) __Frequency__ once per round. __Targets__ Up to two <STATBLOCK-WIKI-LINK>dazed<STATBLOCK-WIKI-LINK> creatures within 30 feet. __Effect__ Each must succeed at a DC 37 Will save or be <STATBLOCK-WIKI-LINK>controlled<STATBLOCK-WIKI-LINK> for 1 round (as the *command* spell)."
+          }
+        ],
+        "abilities_bot": [
+          {
+            "name": "Psychic Feedback",
+            "desc": "`pf2:r` Whenever the Crimson Seer takes damage from a mental effect, the source takes 6d6 mental damage (DC 37 basic Will save)."
+          },
+          {
+            "name": "Crimson Revelation",
+            "desc": "⬺ (__concentrate__, <STATBLOCK-WIKI-LINK>divine<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>mental<STATBLOCK-WIKI-LINK>) __Frequency__ once per 10 minutes. __Effect__ For 3 rounds, creatures beginning their turn in the Mind Mire aura must attempt a DC 37 Will save or become <STATBLOCK-WIKI-LINK>stupefied|stupefied 2<STATBLOCK-WIKI-LINK> for 1 round. The Seer gains a +2 status bonus to attack rolls, saving throws, and spell DCs."
+          }
+        ],
+        "speed": "25 feet",
+        "ac": 36,
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "36; __Fort__ +28, __Ref__ +23, __Will__ +31"
+          }
+        ],
+        "hp": 315,
+        "health": [
+          {
+            "name": "HP",
+            "desc": "315; <STATBLOCK-WIKI-LINK>negative healing<STATBLOCK-WIKI-LINK>; __Resistances__ mental 10, bludgeoning 5; __Weakness__ good 10"
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Melee • Heavy Mace",
+            "desc": "⬻ +30 (<STATBLOCK-WIKI-LINK>magical<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>versatile|versatile P<STATBLOCK-WIKI-LINK>); __Damage__ 2d10+14 bludgeoning plus 2d6 mental"
+          },
+          {
+            "name": "Ranged • Occult Bolt",
+            "desc": "⬻ +29 (<STATBLOCK-WIKI-LINK>range increment|range increment 60 feet<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>mental<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>magical<STATBLOCK-WIKI-LINK>); __Damage__ 6d8+12 mental plus <STATBLOCK-WIKI-LINK>slowed|slowed 1<STATBLOCK-WIKI-LINK> (DC 37 Will negates)."
+          }
+        ],
+        "sourcebook": "Homebrew"
+      }
+    ],
+    [
+      "Eldritch Tyrant Mimic",
+      {
+        "columns": 2,
+        "forcecolumns": true,
+        "layout": "Basic Pathfinder 2e Layout",
+        "source": "Homebrew",
+        "name": "Eldritch Tyrant Mimic",
+        "level": "Creature 15",
+        "rare_01": "Rare",
+        "size": "Large",
+        "trait_01": "Aberration",
+        "trait_02": "Shapeshifter",
+        "trait_03": "Ooze",
+        "modifier": 28,
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "Perception +29; darkvision, imprecise tremorsense 30 feet"
+          }
+        ],
+        "languages": "Common (can't speak), Deep Speech, telepathy 60 feet",
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "__Athletics__ +31, __Stealth__ +27, __Deception__ +30, __Thievery__ +25"
+          }
+        ],
+        "abilityMods": [
+          8,
+          4,
+          7,
+          0,
+          5,
+          4
+        ],
+        "abilities_top": [
+          {
+            "name": "Mimic Colossal Object",
+            "desc": "The mimic can take the form of any Large unattended object (statues, altars, sarcophagi, arcane machines). Detecting its true nature requires a DC 38 Perception check."
+          },
+          {
+            "name": "Super-Adhesive",
+            "desc": "A creature touching the mimic is automatically <STATBLOCK-WIKI-LINK>grabbed<STATBLOCK-WIKI-LINK> (escape DC 38). Weapons stuck to the mimic require a DC 38 Athletics check to pull free. Escape attempts using Acrobatics automatically fail."
+          }
+        ],
+        "abilities_mid": [
+          {
+            "name": "Ambush Devour",
+            "desc": "⬺ __Requirements__ The mimic is disguised as an object. __Effect__ The mimic sheds its disguise, makes a pseudopod Strike, and pulls the creature adjacent to it. On a hit, the target is also grabbed. On a critical hit, the target becomes <STATBLOCK-WIKI-LINK>restrained<STATBLOCK-WIKI-LINK>."
+          },
+          {
+            "name": "Digestive Metamorphosis",
+            "desc": "Creatures <STATBLOCK-WIKI-LINK>grabbed<STATBLOCK-WIKI-LINK> by the mimic take 3d6 acid damage and 3d6 mental damage at the start of the mimic’s turn (DC 38 basic Fortitude). On a critical failure, the target also takes a –1 status penalty to AC for 1 round as their body partially dissolves."
+          },
+          {
+            "name": "Shifting Anatomy",
+            "desc": "The mimic gains resistance 15 to all physical damage except force or adamantine. It ignores difficult terrain and can Squeeze without penalties."
+          }
+        ],
+        "abilities_bot": [
+          {
+            "name": "Devouring Maw",
+            "desc": "⬺ (__attack__) The mimic opens a fractal, shifting mouth in its surface and attempts to swallow a Large or smaller creature it has grabbed (DC 38 Fortitude). **Success** The creature is not swallowed. **Failure** The creature becomes swallowed, taking 4d6 acid + 4d6 mental damage each round. **Critical Failure** The creature takes double initial damage and is restrained inside the mimic."
+          },
+          {
+            "name": "Morphic Disarm",
+            "desc": "⬽ __Trigger__ A creature the mimic has grabbed attempts to cast a spell or use a manipulated action. __Effect__ The mimic reshapes around the creature, disrupting the action unless it succeeds at a DC 38 Reflex save."
+          }
+        ],
+        "speed": "25 feet, climb 20 feet",
+        "ac": 38,
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "38; __Fort__ +31, __Ref__ +25, __Will__ +29"
+          }
+        ],
+        "hp": 310,
+        "health": [
+          {
+            "name": "HP",
+            "desc": "310; fast healing 15; __Immunities__ acid, precision, critical hits; __Resistances__ all physical 15 (except force or adamantine)"
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Melee • Pseudopod",
+            "desc": "⬻ +30 (<STATBLOCK-WIKI-LINK>reach|reach 15 feet<STATBLOCK-WIKI-LINK>); __Damage__ 3d12+14 bludgeoning plus Grab"
+          },
+          {
+            "name": "Melee • Engulfing Blow",
+            "desc": "⬺ +28; __Damage__ 4d8+14 bludgeoning plus 2d8 acid; the target must succeed at a DC 38 Reflex save or become <STATBLOCK-WIKI-LINK>restrained<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "sourcebook": "Homebrew"
+      }
+    ],
+    [
+      "Mimic",
+      {
+        "columns": 2,
+        "forcecolumns": true,
+        "layout": "Basic Pathfinder 2e Layout",
+        "source": "Homebrew",
+        "name": "Mimic",
+        "level": "Creature 13",
+        "rare_01": "Rare",
+        "size": "Medium",
+        "trait_01": "Aberration",
+        "trait_02": "Shapeshifter",
+        "trait_03": "Ooze",
+        "modifier": 24,
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "Perception +23; darkvision"
+          }
+        ],
+        "languages": "Common (can't speak), telepathy 60 feet",
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "__Athletics__ +27, __Stealth__ +25, __Deception__ +25"
+          }
+        ],
+        "abilityMods": [
+          7,
+          4,
+          6,
+          -2,
+          4,
+          2
+        ],
+        "abilities_top": [
+          {
+            "name": "Mimic Object",
+            "desc": "The mimic can take the shape of any Medium object. A creature must succeed at a DC 35 Perception check to determine the object is a mimic."
+          },
+          {
+            "name": "Adhesive",
+            "desc": "A creature that hits the mimic with a melee weapon must succeed at a DC 34 Reflex save or the weapon becomes stuck. A creature that touches the mimic is automatically <STATBLOCK-WIKI-LINK>grabbed<STATBLOCK-WIKI-LINK>. Removing an item stuck to the mimic requires a DC 34 Athletics check."
+          }
+        ],
+        "abilities_mid": [
+          {
+            "name": "Engulfing Ambush",
+            "desc": "⬺ __Requirement__ The mimic is disguised as an object. __Effect__ The mimic sheds its disguise and makes a pseudopod Strike. On a hit, the target is also grabbed."
+          },
+          {
+            "name": "Digestive Corrosion",
+            "desc": "A creature <STATBLOCK-WIKI-LINK>grabbed<STATBLOCK-WIKI-LINK> or <STATBLOCK-WIKI-LINK>restrained<STATBLOCK-WIKI-LINK> by the mimic takes 3d6 acid damage at the start of the mimic’s turn (DC 35 basic Fortitude)."
+          }
+        ],
+        "abilities_bot": [
+          {
+            "name": "Adaptive Adhesion",
+            "desc": "The mimic gains a +2 circumstance bonus to Athletics checks to <STATBLOCK-WIKI-LINK>Grapple<STATBLOCK-WIKI-LINK> any creature it already has grabbed."
+          },
+          {
+            "name": "Shape Lock",
+            "desc": "A creature stuck to the mimic cannot Step, Stride, or Escape using Acrobatics."
+          }
+        ],
+        "speed": "25 feet, climb 20 feet",
+        "ac": 36,
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "36; __Fort__ +28, __Ref__ +24, __Will__ +22"
+          }
+        ],
+        "hp": 255,
+        "health": [
+          {
+            "name": "HP",
+            "desc": "255; fast healing 10; __Immunities__ acid, critical hits, precision"
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Melee • Pseudopod",
+            "desc": "⬻ +28 (<STATBLOCK-WIKI-LINK>reach|reach 10 feet<STATBLOCK-WIKI-LINK>); __Damage__ `dice: 3d12+13` bludgeoning plus Grab"
+          },
+          {
+            "name": "Melee • Engulf Lash",
+            "desc": "⬺ +26; __Damage__ `dice: 3d8+13` bludgeoning plus `dice: 2d6` acid, and the target must succeed at a DC 35 Reflex save or become <STATBLOCK-WIKI-LINK>restrained<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "sourcebook": "Homebrew"
+      }
+    ],
+    [
+      "Eldritch Tyrant Mimic",
+      {
+        "columns": 2,
+        "forcecolumns": true,
+        "layout": "Basic Pathfinder 2e Layout",
+        "source": "Homebrew",
+        "name": "Eldritch Tyrant Mimic",
+        "level": "Creature 15",
+        "rare_01": "Rare",
+        "size": "Large",
+        "trait_01": "Aberration",
+        "trait_02": "Shapeshifter",
+        "trait_03": "Ooze",
+        "modifier": 28,
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "Perception +29; darkvision, imprecise tremorsense 30 feet"
+          }
+        ],
+        "languages": "Common (can't speak), Deep Speech, telepathy 60 feet",
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "__Athletics__ +31, __Stealth__ +27, __Deception__ +30, __Thievery__ +25"
+          }
+        ],
+        "abilityMods": [
+          8,
+          4,
+          7,
+          0,
+          5,
+          4
+        ],
+        "abilities_top": [
+          {
+            "name": "Mimic Colossal Object",
+            "desc": "The mimic can take the form of any Large unattended object (statues, altars, sarcophagi, arcane machines). Detecting its true nature requires a DC 38 Perception check."
+          },
+          {
+            "name": "Super-Adhesive",
+            "desc": "A creature touching the mimic is automatically <STATBLOCK-WIKI-LINK>grabbed<STATBLOCK-WIKI-LINK> (escape DC 38). Weapons stuck to the mimic require a DC 38 Athletics check to pull free. Escape attempts using Acrobatics automatically fail."
+          }
+        ],
+        "abilities_mid": [
+          {
+            "name": "Ambush Devour",
+            "desc": "⬺ __Requirements__ The mimic is disguised as an object. __Effect__ The mimic sheds its disguise, makes a pseudopod Strike, and pulls the creature adjacent to it. On a hit, the target is also grabbed. On a critical hit, the target becomes <STATBLOCK-WIKI-LINK>restrained<STATBLOCK-WIKI-LINK>."
+          },
+          {
+            "name": "Digestive Metamorphosis",
+            "desc": "Creatures <STATBLOCK-WIKI-LINK>grabbed<STATBLOCK-WIKI-LINK> by the mimic take 3d6 acid damage and 3d6 mental damage at the start of the mimic’s turn (DC 38 basic Fortitude). On a critical failure, the target also takes a –1 status penalty to AC for 1 round as their body partially dissolves."
+          },
+          {
+            "name": "Shifting Anatomy",
+            "desc": "The mimic gains resistance 15 to all physical damage except force or adamantine. It ignores difficult terrain and can Squeeze without penalties."
+          }
+        ],
+        "abilities_bot": [
+          {
+            "name": "Devouring Maw",
+            "desc": "⬺ (__attack__) The mimic opens a fractal, shifting mouth in its surface and attempts to swallow a Large or smaller creature it has grabbed (DC 38 Fortitude). **Success** The creature is not swallowed. **Failure** The creature becomes swallowed, taking 4d6 acid + 4d6 mental damage each round. **Critical Failure** The creature takes double initial damage and is restrained inside the mimic."
+          },
+          {
+            "name": "Morphic Disarm",
+            "desc": "⬽ __Trigger__ A creature the mimic has grabbed attempts to cast a spell or use a manipulated action. __Effect__ The mimic reshapes around the creature, disrupting the action unless it succeeds at a DC 38 Reflex save."
+          }
+        ],
+        "speed": "25 feet, climb 20 feet",
+        "ac": 38,
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "38; __Fort__ +31, __Ref__ +25, __Will__ +29"
+          }
+        ],
+        "hp": 310,
+        "health": [
+          {
+            "name": "HP",
+            "desc": "310; fast healing 15; __Immunities__ acid, precision, critical hits; __Resistances__ all physical 15 (except force or adamantine)"
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Melee • Pseudopod",
+            "desc": "⬻ +30 (<STATBLOCK-WIKI-LINK>reach|reach 15 feet<STATBLOCK-WIKI-LINK>); __Damage__ 3d12+14 bludgeoning plus Grab"
+          },
+          {
+            "name": "Melee • Engulfing Blow",
+            "desc": "⬺ +28; __Damage__ 4d8+14 bludgeoning plus 2d8 acid; the target must succeed at a DC 38 Reflex save or become <STATBLOCK-WIKI-LINK>restrained<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "sourcebook": "Homebrew"
+      }
+    ],
+    [
+      "Eldritch Mimic",
+      {
+        "columns": 2,
+        "forcecolumns": true,
+        "layout": "Basic Pathfinder 2e Layout",
+        "source": "Homebrew",
+        "name": "Eldritch Mimic",
+        "level": "Creature 13",
+        "rare_01": "Rare",
+        "size": "Medium",
+        "trait_01": "Aberration",
+        "trait_02": "Shapeshifter",
+        "trait_03": "Ooze",
+        "modifier": 24,
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "Perception +23; darkvision"
+          }
+        ],
+        "languages": "Common (can't speak), telepathy 60 feet",
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "__Athletics__ +27, __Stealth__ +25, __Deception__ +25"
+          }
+        ],
+        "abilityMods": [
+          7,
+          4,
+          6,
+          -2,
+          4,
+          2
+        ],
+        "abilities_top": [
+          {
+            "name": "Mimic Object",
+            "desc": "The mimic can take the shape of any Medium object. A creature must succeed at a DC 35 Perception check to determine the object is a mimic."
+          },
+          {
+            "name": "Adhesive",
+            "desc": "A creature that hits the mimic with a melee weapon must succeed at a DC 34 Reflex save or the weapon becomes stuck. A creature that touches the mimic is automatically <STATBLOCK-WIKI-LINK>grabbed<STATBLOCK-WIKI-LINK>. Removing an item stuck to the mimic requires a DC 34 Athletics check."
+          }
+        ],
+        "abilities_mid": [
+          {
+            "name": "Engulfing Ambush",
+            "desc": "⬺ __Requirement__ The mimic is disguised as an object. __Effect__ The mimic sheds its disguise and makes a pseudopod Strike. On a hit, the target is also grabbed."
+          },
+          {
+            "name": "Digestive Corrosion",
+            "desc": "A creature <STATBLOCK-WIKI-LINK>grabbed<STATBLOCK-WIKI-LINK> or <STATBLOCK-WIKI-LINK>restrained<STATBLOCK-WIKI-LINK> by the mimic takes 3d6 acid damage at the start of the mimic’s turn (DC 35 basic Fortitude)."
+          }
+        ],
+        "abilities_bot": [
+          {
+            "name": "Adaptive Adhesion",
+            "desc": "The mimic gains a +2 circumstance bonus to Athletics checks to <STATBLOCK-WIKI-LINK>Grapple<STATBLOCK-WIKI-LINK> any creature it already has grabbed."
+          },
+          {
+            "name": "Shape Lock",
+            "desc": "A creature stuck to the mimic cannot Step, Stride, or Escape using Acrobatics."
+          }
+        ],
+        "speed": "25 feet, climb 20 feet",
+        "ac": 36,
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "36; __Fort__ +28, __Ref__ +24, __Will__ +22"
+          }
+        ],
+        "hp": 255,
+        "health": [
+          {
+            "name": "HP",
+            "desc": "255; fast healing 10; __Immunities__ acid, critical hits, precision"
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Melee • Pseudopod",
+            "desc": "⬻ +28 (<STATBLOCK-WIKI-LINK>reach|reach 10 feet<STATBLOCK-WIKI-LINK>); __Damage__ `dice: 3d12+13` bludgeoning plus Grab"
+          },
+          {
+            "name": "Melee • Engulf Lash",
+            "desc": "⬺ +26; __Damage__ `dice: 3d8+13` bludgeoning plus `dice: 2d6` acid, and the target must succeed at a DC 35 Reflex save or become <STATBLOCK-WIKI-LINK>restrained<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "sourcebook": "Homebrew"
+      }
+    ],
+    [
+      "Crimson Seer",
+      {
+        "columns": 2,
+        "forcecolumns": true,
+        "layout": "Basic Pathfinder 2e Layout",
+        "source": "Homebrew",
+        "name": "Crimson Seer",
+        "level": "Creature 15",
+        "token": "Crimson Seer.webp",
+        "rare_01": "Unique",
+        "size": "Medium",
+        "trait_01": "Humanoid",
+        "trait_02": "Aberration",
+        "trait_03": "Divine",
+        "modifier": 28,
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "Perception +28; <STATBLOCK-WIKI-LINK>darkvision<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "languages": "Common, Deep Speech",
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "__Arcana__ +27; __Intimidation__ +29; __Occultism__ +28; __Religion__ +28; __Deception__ +27; __Society__ +24"
+          }
+        ],
+        "abilityMods": [
+          4,
+          2,
+          5,
+          6,
+          5,
+          7
+        ],
+        "abilities_top": [
+          {
+            "name": "Crimson Insight",
+            "desc": "The Crimson Seer automatically knows the location of any <STATBLOCK-WIKI-LINK>slowed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>stupefied<STATBLOCK-WIKI-LINK>, or <STATBLOCK-WIKI-LINK>dazed<STATBLOCK-WIKI-LINK> creature within 60 feet as if it had <STATBLOCK-WIKI-LINK>tremorsense<STATBLOCK-WIKI-LINK>."
+          },
+          {
+            "name": "Equipment",
+            "desc": "+2 <STATBLOCK-WIKI-LINK>Spellstoring<STATBLOCK-WIKI-LINK> Mace; <STATBLOCK-WIKI-LINK>Energy-Absorbing (Greater)<STATBLOCK-WIKI-LINK> <STATBLOCK-WIKI-LINK>Spellbreaking<STATBLOCK-WIKI-LINK> Armor Potency +2 Lamellar Breastplate; <STATBLOCK-WIKI-LINK>Armbands of the Gorgon<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "abilities_mid": [
+          {
+            "name": "Grasping Tentacles",
+            "desc": "⬺ (__occult__, <STATBLOCK-WIKI-LINK>attack<STATBLOCK-WIKI-LINK>) __Frequency__ once per round. __Targets__ up to 2 creatures within 15 feet. __Effect__ Each must attempt a DC 37 Fortitude save. **Critical Success** Unaffected. **Success** <STATBLOCK-WIKI-LINK>pushed|pushed 5 feet<STATBLOCK-WIKI-LINK>. **Failure** <STATBLOCK-WIKI-LINK>pushed|pushed 15 feet<STATBLOCK-WIKI-LINK> and <STATBLOCK-WIKI-LINK>slowed|slowed 1<STATBLOCK-WIKI-LINK> until end of next turn. **Critical Failure** As failure, and if moved adjacent to the Seer, the Seer makes a Heavy Mace Strike."
+          },
+          {
+            "name": "Mind-Bending Whispers",
+            "desc": "⬺ (__occult__, <STATBLOCK-WIKI-LINK>mental<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>auditory<STATBLOCK-WIKI-LINK>) __Recharge__ 1d4 rounds. The Seer releases a psychic storm in a 10-foot emanation. Each enemy must attempt a DC 37 Will save. **Critical Success** Unaffected. **Success** Half of 8d10+10 mental. **Failure** Full damage and <STATBLOCK-WIKI-LINK>dazed<STATBLOCK-WIKI-LINK> 1 round. **Critical Failure** Full damage, 6d6 <STATBLOCK-WIKI-LINK>persistent mental<STATBLOCK-WIKI-LINK> damage, and dazed for 1 minute (DC 35 Will each round ends both)."
+          },
+          {
+            "name": "Compelling Whispers",
+            "desc": "⬽ (__occult__, <STATBLOCK-WIKI-LINK>charm<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>auditory<STATBLOCK-WIKI-LINK>) __Frequency__ once per round. __Targets__ Up to two <STATBLOCK-WIKI-LINK>dazed<STATBLOCK-WIKI-LINK> creatures within 30 feet. __Effect__ Each must succeed at a DC 37 Will save or be <STATBLOCK-WIKI-LINK>controlled<STATBLOCK-WIKI-LINK> for 1 round (as the *command* spell)."
+          }
+        ],
+        "abilities_bot": [
+          {
+            "name": "Psychic Feedback",
+            "desc": "`pf2:r` Whenever the Crimson Seer takes damage from a mental effect, the source takes 6d6 mental damage (DC 37 basic Will save)."
+          },
+          {
+            "name": "Crimson Revelation",
+            "desc": "⬺ (__concentrate__, <STATBLOCK-WIKI-LINK>divine<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>mental<STATBLOCK-WIKI-LINK>) __Frequency__ once per 10 minutes. __Effect__ For 3 rounds, creatures beginning their turn in the Mind Mire aura must attempt a DC 37 Will save or become <STATBLOCK-WIKI-LINK>stupefied|stupefied 2<STATBLOCK-WIKI-LINK> for 1 round. The Seer gains a +2 status bonus to attack rolls, saving throws, and spell DCs."
+          }
+        ],
+        "speed": "25 feet",
+        "ac": 36,
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "36; __Fort__ +28, __Ref__ +23, __Will__ +31"
+          }
+        ],
+        "hp": 315,
+        "health": [
+          {
+            "name": "HP",
+            "desc": "315; <STATBLOCK-WIKI-LINK>negative healing<STATBLOCK-WIKI-LINK>; __Resistances__ mental 10, bludgeoning 5; __Weakness__ good 10"
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Melee • Heavy Mace",
+            "desc": "⬻ +30 (<STATBLOCK-WIKI-LINK>magical<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>versatile|versatile P<STATBLOCK-WIKI-LINK>); __Damage__ `dice: 2d10+14` bludgeoning plus `dice: 2d6` mental"
+          },
+          {
+            "name": "Ranged • Occult Bolt",
+            "desc": "⬻ +29 (<STATBLOCK-WIKI-LINK>range increment|range increment 60 feet<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>mental<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>magical<STATBLOCK-WIKI-LINK>); __Damage__ `dice: 6d8+12` mental plus <STATBLOCK-WIKI-LINK>slowed|slowed 1<STATBLOCK-WIKI-LINK> (DC 37 Will negates)."
+          }
+        ],
+        "sourcebook": "Homebrew"
+      }
+    ],
+    [
+      "Kassandra, Voice of Kataklysmos",
+      {
+        "columns": 2,
+        "forcecolumns": false,
+        "layout": "Basic Pathfinder 2e Layout",
+        "source": "Homebrew",
+        "name": "Kassandra, Voice of Kataklysmos",
+        "level": "Creature 16",
+        "token": "kassandra.png",
+        "rare_01": "Unique",
+        "size": "Medium",
+        "trait_01": "Aberration",
+        "trait_02": "Humanoid",
+        "trait_03": "Dragon",
+        "trait_04": "Mage",
+        "trait_05": "Chaos",
+        "modifier": 29,
+        "perception": [
+          {
+            "name": "Perception +29",
+            "desc": "_darkvision_"
+          }
+        ],
+        "languages": "Common, Draconic, Aklo; _telepathy 60 feet_.",
+        "skills": [
+          {
+            "name": "Acrobatics +32, Arcana +35, Occultism +31, Athletics +28, Deception +31, Diplomacy +29, Intimidation +32"
+          }
+        ],
+        "abilityMods": [
+          8,
+          6,
+          6,
+          5,
+          5,
+          7
+        ],
+        "abilities_mid": [
+          {
+            "name": "Meteoric Aura (aura, mental, emotion, occult)",
+            "desc": "30 feet. Creatures entering or starting their turn take `dice: 2d6` mental damage and must succeed at a DC 34 _Will_ save or become _frightened 1_; critical failure is _frightened 2_. PCs who resisted Kataklysmos in Encounter 8 gain +1 to this save; those who accepted suffer –1."
+          },
+          {
+            "name": "Reactive Chaos `pf2:r` (reaction, chaos, occult)",
+            "desc": "**Trigger** A creature critically hits Kassandra. Roll `dice: 1d4`: (1) Gravity Slip—20-foot area must succeed at DC 34 _Reflex_ or fall prone; (2) Psychic Lash—random creature takes `dice: 4d6` mental damage; (3) Warp Step—Kassandra teleports up to 30 feet; (4) Meteor Spark—10-foot burst for `dice: 3d6` fire, DC 34 _Reflex_ basic."
+          }
+        ],
+        "abilities_bot": [
+          {
+            "name": "Starlight Rupture `pf2:2` (fire, mental, occult, visual)",
+            "desc": "30-foot cone; `dice: 10d6` fire + `dice: 10d6` mental damage, DC 36 _Will_ basic. PCs who accepted Kataklysmos roll twice and take the worse; PCs who resisted gain +1 on the save."
+          },
+          {
+            "name": "Meteor-Heart Channel `pf2:3` (concentrate, metamagic, unique)",
+            "desc": "Once per encounter. Her next spell gains the _chaos_ trait and deals +`dice: 5d6` damage. She gains Resistance 10 to all damage until the start of her next turn. All creatures within 40 feet must succeed at DC 34 _Fortitude_ or become _slowed 1_ for 1 round."
+          }
+        ],
+        "speed": "40 feet, fly 40 feet (magical)",
+        "ac": 38,
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "38; _Fort +31_, _Ref +33_, _Will +34_"
+          }
+        ],
+        "hp": 400,
+        "health": [
+          {
+            "name": "HP",
+            "desc": "400; Fast Healing 20; At 200 HP, Kassandra’s body cracks with molten chaotic energy. She becomes Large and transitions to her **Phase 2** statblock."
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Draconic Strike `pf2:1`",
+            "desc": "+31 to hit (10-foot reach), `dice: 3d10+14` slashing + `dice: 2d6` fire."
+          },
+          {
+            "name": "Chaos-Talon `pf2:1`",
+            "desc": "+33 to hit (agile), `dice: 3d8+14` magical + `dice: 1d6` mental."
+          },
+          {
+            "name": "Starlight Barrage (occult spell attack; see below) `pf2:2`",
+            "desc": "+29 to hit, `dice: 6d10` force damage; empowered by meteor energy."
+          },
+          {
+            "name": "Chaotic Lunge `pf2:2`",
+            "desc": "Kassandra Strides and makes two Chaos-Talon Strikes against different targets."
+          }
+        ],
+        "spellcasting": [
+          {
+            "name": "Occult Spontaneous Spells (DC 36, attack +29)",
+            "desc": "_8th (4 slots)_—Starlight Rupture, *phantasmal calamity*, *warp mind*, reduced *meteor storm* (20-ft burst, 8d6 fire + 8d6 bludgeoning). _7th (4 slots)_—*chain lightning*, *disintegrate*, *divine wrath (chaos)*, *plane shift (outbound only)*. _6th (4 slots)_—*fireball (heightened)*, *dominate*, *slow*, *freezing rain*. _1st–5th_—*shield*, *mirror image*, *magic missile*, *dimension door*, *fear*. _Cantrips_—*daze*, *telekinetic projectile*, *detect magic*, *shield*."
+          }
+        ],
+        "sourcebook": "Homebrew"
+      }
     ]
   ],
   "defaultLayouts": {
