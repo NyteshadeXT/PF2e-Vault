@@ -60,10 +60,10 @@ health:
     desc: "225; __Resistances__ physical 10 (except force, ghost touch), mental 5"
 
 attacks:
-  - name: "Melee Slam"
-    desc: "⬻ +26 ([[reach|reach 10 feet]]); __Damage__ `dice: 3d10+13` 3d10+13 bludgeoning plus prone (DC 32 Reflex)"
-  - name: "Melee Bite"
-    desc: "⬻ +24; __Damage__ `dice: 2d12+11` 2d12+11 piercing"
+  - name: "Melee `pf2:2`"
+    desc: "Slam +26; __Damage__ `dice: 3d10+13` 3d10+13 bludgeoning plus prone (DC 32 Reflex)"
+  - name: "Melee. `pf2:2`"
+    desc: "Bite +24; __Damage__ `dice: 2d12+11` 2d12+11 piercing"
 
 sourcebook: "Custom"
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/9A - Heart of the Scar (D197).md",
-                "mode": "source",
+                "file": "8) Adventures/Completed/7C - Head in the Clouds (D184).md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "9A - Heart of the Scar (D197)"
+              "title": "7C - Head in the Clouds (D184)"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8) Adventures/8B - The Runecutter's Ruin (D186).md",
+                "file": "8) Adventures/8C - The Star-Touched Grove (D219).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "8B - The Runecutter's Ruin (D186)"
+              "title": "8C - The Star-Touched Grove (D219)"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5) World/The Chaos Scar/Restwell Keep.md",
+                "file": "6) NPCs/Restwell Keep/Lofinor.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Restwell Keep"
+              "title": "Lofinor"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4) Bestiary/homebrew/C/corrupt-soldier-of-bane.md",
-                "mode": "source",
+                "file": "2) compendium/equipment/items/Homebrew/mask-of-the-porcelain-pretender.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "corrupt-soldier-of-bane"
+              "title": "mask-of-the-porcelain-pretender"
             }
           },
           {
@@ -91,7 +91,8 @@
               "title": "chaos-spwaned-merloc"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -321,43 +322,110 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1f6661ce8aa6fbbc",
+  "floating": {
+    "id": "06ecf73881f58246",
+    "type": "floating",
+    "children": [
+      {
+        "id": "df68abc201a01df5",
+        "type": "window",
+        "children": [
+          {
+            "id": "0106b48595e5fcff",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e5b7847c009ebe2b",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "zz-Attachments/Lofinor.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "Lofinor"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 3456,
+        "y": -216,
+        "width": 640,
+        "height": 672,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "d944ac27603246fa",
+        "type": "window",
+        "children": [
+          {
+            "id": "e60697904f112796",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d7962e6a5ecb7456",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {},
+                  "icon": "lucide-view",
+                  "title": "Player View"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 4096,
+        "y": -216,
+        "width": 640,
+        "height": 672,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "fca8dfcc91b209de",
   "lastOpenFiles": [
-    "4) Bestiary/unique-creatures/Kassandra Voice of Kataklysmos.md",
+    "4) Bestiary/homebrew/S/slug-rabbit.md",
+    "4) Bestiary/homebrew/S/shard-spider.md",
+    "8) Adventures/8C - The Star-Touched Grove (D219).md",
+    "zz-Attachments/Lofinor.png",
+    "6) NPCs/Restwell Keep/Lofinor.md",
+    "6) NPCs/Restwell Keep/Kendon Longstrider.md",
+    "8) Adventures/8B - The Runecutter's Ruin (D186).md",
+    "8) Adventures/Completed/7C - Head in the Clouds (D184).md",
+    "8) Adventures/8A - Pit of Delirium (D190).md",
+    "zz-Attachments/Kendon Longstrider.png",
+    "5) World/The Chaos Scar/Restwell Keep.md",
+    "2) compendium/equipment/items/Homebrew/mask-of-the-porcelain-pretender.md",
+    "8) Adventures/Completed/Halloween 2025 - The Cracked Lantern.md",
+    "2) compendium/equipment/items/Homebrew/jack-o-lantern-mask.md",
+    "4) Bestiary/homebrew/C/corrupt-soldier-of-bane.md",
+    "4) Bestiary/homebrew/C/chaos-spwaned-merloc.md",
     "8) Adventures/9A - Heart of the Scar (D197).md",
+    "4) Bestiary/unique-creatures/Kassandra Voice of Kataklysmos.md",
     "4) Bestiary/unique-creatures/Keljack.md",
     "4) Bestiary/unique-creatures/Kobold Boss - Zolgran.md",
     "4) Bestiary/unique-creatures/Jorag Hobgoblin Lieutenant.md",
     "4) Bestiary/unique-creatures/Kan Sken.md",
     "zz-Attachments/kassandra.png",
-    "8) Adventures/8C - The Star-Touched Grove (D219).md",
     "6) NPCs/Restwell Keep/Restwell Keep.md",
     "8) Adventures/Completed/6B - The Radiant Morn (D183).md",
     "8) Adventures/Completed/5A - The Slaver's Stone (D181).md",
     "8) Adventures/Completed/4C - Vanguard Tower (D182).md",
     "8) Adventures/Completed/4B - The Pillar of Eyes (D180).md",
     "8) Adventures/Completed/3C - The Wayward Wyrmling (D182).md",
-    "8) Adventures/Completed/3B - The Splintered Spring (D179).md",
-    "4) Bestiary/unique-creatures/Crimson Seer.md",
-    "4) Bestiary/unique-creatures/Chaos-Scarred Eye Tyrant.md",
-    "1) GM Screen/DC Calculators.md",
-    "zz-Attachments/Crucidaemon.md",
-    "4) Bestiary/homebrew/C/Crucidaemon.md",
-    "4) Bestiary/homebrew/C/chaos-spwaned-merloc.md",
-    "2) Compendium/equipment/items/Homebrew/adamantine-flake.md",
-    "2) Compendium/equipment/items/Homebrew/crystal-of-recursive-aberration.md",
-    "2) Compendium/equipment/items/Homebrew/farbane-hb.md",
     "zz-Attachments/farbane.webp",
-    "4) Bestiary/homebrew/M/mimic-eldritch.md",
-    "4) Bestiary/homebrew/M/mimic-eldritch-tyrant.md",
     "zz-Attachments/Crimson Seer.webp",
     "zz-Attachments/Hallowgaunt-lower.webp",
     "zz-Attachments/Halloween 2025 - The Cracked Lantern-1761597678222.webp",
     "zz-Attachments/mirror-man.webp",
     "zz-Attachments/Halloween 2025 - The Cracked Lantern-1761596406967.webp",
     "zz-Attachments/hallowgaunt.webp",
-    "zz-Attachments/9A - Heart of the Scar (D197)-1762536427679.webp",
-    "zz-Attachments/Halloween Harley.webp",
     "4) Bestiary/homebrew/L",
     "4) Bestiary/homebrew/W",
     "4) Bestiary/homebrew/U",

@@ -35,7 +35,7 @@ The posting has stirred unease among the farmers and hunters of the Keep. Some m
 
 ## Encounter 1: Far Fauna
 **Encounter Difficulty:**   
-- [ ] Severe (85 XP) Level 15
+- [x] Severe (85 XP) Level 15
  ![[8C - The Star-Touched Grove (D219)-1757859798592.webp]]
  
 Little natural life remains in this area of the Chaos Scar. The sickly oaks are the only reminder of what the forest should look like. Even the undergrowth has been taken over by knee-high clover plants that play tricks with space and perception. The area is also crawling with creatures that Hongya’s grove corrupted. This chaos-touched fauna is immediately hostile to any natural life.
